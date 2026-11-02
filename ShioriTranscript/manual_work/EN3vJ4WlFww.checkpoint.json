@@ -1,0 +1,17 @@
+{
+  "video_id": "EN3vJ4WlFww",
+  "status": "source_read_complete_draft_pending",
+  "source_segments": 2423,
+  "source_txt_sha": "TO_BE_VERIFIED",
+  "source_json_sha": "TO_BE_VERIFIED",
+  "source_read_through_segment": 2423,
+  "source_transcript_read_complete": true,
+  "draft_rows": 0,
+  "draft_coverage_verified": false,
+  "semantic_review_through_draft_row": 0,
+  "segmented_records": 0,
+  "low_confidence_fragments": 0,
+  "clean_created": false,
+  "originals_moved": false,
+  "next_action": "Create a source-faithful manual draft grouped by contiguous utterances, review every draft row, mark unresolved ASR fragments LOW, then segment accepted content into mostly single-sentence raw/actually pairs."
+}
