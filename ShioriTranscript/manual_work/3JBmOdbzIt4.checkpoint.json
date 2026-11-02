@@ -9,9 +9,9 @@
   "full_source_coverage_verified": true,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual semantic review and segmentation from draft row 81. Preserve unresolved fragments in LOW context; do not create clean or move originals until all 133 draft rows are reviewed and the complete JSONL passes validation.",
-  "semantic_review_through_draft_row": 80,
+  "next_action": "Continue manual semantic review and sentence-level segmentation from draft row 94 through the end of the 133-row draft. Record unresolved fragments separately; do not create clean or move originals until full validation passes.",
+  "semantic_review_through_draft_row": 93,
   "draft_low_rows": 9,
-  "segmented_through_draft_row": 80,
-  "segmented_records": 320
+  "segmented_through_draft_row": 93,
+  "segmented_records": 413
 }
