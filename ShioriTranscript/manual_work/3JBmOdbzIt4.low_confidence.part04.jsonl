@@ -1,0 +1,15 @@
+{"raw":"he want drink he'll be fun","reason":"该片段语音识别损坏，无法确认完整表达；不以猜测补全。","source_row":124}
+{"raw":"she's side she's side big side","reason":"该连续片段无法形成可靠语义，可能存在严重ASR错误。","source_row":124}
+{"raw":"we fell into","reason":"句子在介词后中断，无法确认后续表达。","source_row":124}
+{"raw":"what do you mean by 'C' in the birthday announcement","reason":"源字幕中的单字母/缩写无法确认，不在正式配对中扩写。","source_row":132}
+{"raw":"sare thank you","reason":"该短语识别不清，无法确认是说话内容还是ASR错误。","source_row":132}
+{"raw":"sometimes families are made in","reason":"句子在介词后中断，后续为音乐/噪声，无法恢复。","source_row":131}
+{"raw":"anyone have your bir","reason":"字幕被音乐打断，无法确定句子内容。","source_row":131}
+{"raw":"325","reason":"孤立数字缺少上下文，无法确认其指代或表达功能。","source_row":127}
+{"raw":"yeah is I guess theing not satisfy what","reason":"语句识别严重损坏，无法可靠恢复。","source_row":127}
+{"raw":"her belly is showing hello like see how sa","reason":"后半句识别残缺，无法确定具体表达。","source_row":127}
+{"raw":"I will destroy her refill","reason":"该片段的动词和宾语关系不清，无法确认实际意图。","source_row":128}
+{"raw":"actually get three B no yeah no you know what yeah yeah okay yeah wow so so kind five","reason":"连续片段存在多处识别残缺，无法可靠恢复完整语义。","source_row":129}
+{"raw":"you can mess that uped and left we lost he got three workers","reason":"该句识别残缺且句间关系不明确，无法可靠还原。","source_row":130}
+{"raw":"sometimes families are made in though","reason":"该片段受音乐覆盖，后续连接不完整。","source_row":131}
+{"raw":"wait from the leaves","reason":"该短语识别不清，无法确定其原意。","source_row":131}
