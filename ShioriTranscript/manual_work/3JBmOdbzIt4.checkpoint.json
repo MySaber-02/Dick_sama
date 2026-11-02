@@ -9,7 +9,9 @@
   "full_source_coverage_verified": true,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Review the 123 draft rows one by one, preserve supported content, mark unresolved portions LOW, manually segment accepted/recovered material into mostly single-sentence raw/actually pairs, validate the full JSONL, and only then archive the source TXT/JSON byte-identically.",
-  "semantic_review_through_draft_row": 0,
-  "draft_low_rows": 9
+  "next_action": "Continue manual semantic review and segmentation from draft row 81. Preserve unresolved fragments in LOW context; do not create clean or move originals until all 133 draft rows are reviewed and the complete JSONL passes validation.",
+  "semantic_review_through_draft_row": 80,
+  "draft_low_rows": 9,
+  "segmented_through_draft_row": 80,
+  "segmented_records": 320
 }
