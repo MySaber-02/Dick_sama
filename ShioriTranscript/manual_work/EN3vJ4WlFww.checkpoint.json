@@ -6,12 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 15,
+  "draft_rows": 62,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 0,
+  "low_confidence_fragments": 16,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue drafting the remaining source transcript from segment 161 onward. This first draft batch covers only the opening health/sickness conversation; do not create clean or move originals yet."
+  "next_action": "Continue manual draft grouping from source segment 321 onward. Do not create clean or move original files until the full 2423-segment transcript is drafted, reviewed, segmented, and validated.",
+  "draft_source_segments_through": 320
 }
