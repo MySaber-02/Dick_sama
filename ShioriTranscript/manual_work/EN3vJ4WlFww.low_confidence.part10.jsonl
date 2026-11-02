@@ -1,0 +1,14 @@
+{"raw":"sex rence","reason":"The player name or phrase is unclear.","source_segment_start":1121,"source_segment_end":1122}
+{"raw":"Kieran what","reason":"The name and surrounding phrase are not clear enough to normalize.","source_segment_start":1122,"source_segment_end":1123}
+{"raw":"yeah make sure to rotate to be I just say like re I leave it to you guys","reason":"The sentence is severely fragmented and cannot be restored reliably.","source_segment_start":1135,"source_segment_end":1137}
+{"raw":"oh this one your early ones too falling alone","reason":"The phrase is too corrupted to determine the intended meaning.","source_segment_start":1138,"source_segment_end":1141}
+{"raw":"how about I do this one if you cling to this one","reason":"The game instruction is incomplete and its referent is unclear.","source_segment_start":1146,"source_segment_end":1148}
+{"raw":"except the","reason":"The utterance is cut off mid-sentence.","source_segment_start":1153,"source_segment_end":1154}
+{"raw":"Le take back to back crowds","reason":"The name and the final noun are unclear; the likely word cannot be confirmed.","source_segment_start":1177,"source_segment_end":1178}
+{"raw":"situs packet a no it's I bit strain","reason":"The product/word and the following phrase are corrupted.","source_segment_start":1185,"source_segment_end":1188}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1211,"source_segment_end":1211}
+{"raw":"oh no I'm all taing the wrong","reason":"The phrase is cut off and the verb is corrupted.","source_segment_start":1237,"source_segment_end":1238}
+{"raw":"Leist","reason":"The name or word is unclear.","source_segment_start":1255,"source_segment_end":1256}
+{"raw":"the m wash me in there","reason":"The meme name is not clear enough to restore confidently.","source_segment_start":1260,"source_segment_end":1261}
+{"raw":"f","reason":"An isolated letter from the description of the meme is not interpretable.","source_segment_start":1265,"source_segment_end":1266}
+{"raw":"my Brat Fella","reason":"The character/name reference may be misrecognized; retain as uncertain pending confirmation.","source_segment_start":1274,"source_segment_end":1275}
