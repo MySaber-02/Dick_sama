@@ -22,33 +22,41 @@
 - 原始 TXT 和 JSON 已从 `crawler_en` 移动至 `raw`。归档前后 Git blob SHA 完全一致，原始字节未变。
 - 2484 个原始字幕片段已覆盖；未能可靠恢复的片段没有被编入 clean。
 
+### 已完成：`3JBmOdbzIt4`
+
+- 原始字幕全文共2428个片段，已阅读；133条草稿均已完成语义复核与切分。
+- `clean/3JBmOdbzIt4.jsonl`：1220条人工整理配对；每条仅含 `raw` 和 `actually`，JSONL结构校验通过，完全相同的raw重复数为0。
+- `manual_work/3JBmOdbzIt4.low_confidence.jsonl`：90条低置信度片段，单独保留，不进入SFT。
+- 原始TXT/JSON已从 `crawler_en` 移动至 `raw`；归档前后Git blob SHA完全一致，原始字节未变。
+- 全文已阅读、133条草稿覆盖已核对；但未建立2428个ASR片段逐一映射至clean/LOW记录的机器可验证索引，因此不宣称逐片段覆盖证明。
+
 ### 下一批：接下来 20 个文件
 
-当前队列从 `3JBmOdbzIt4` 开始。接下来 20 个文件为：
+当前队列从 `EN3vJ4WlFww` 开始。接下来20个文件为：
 
-1. `3JBmOdbzIt4`
-2. `EN3vJ4WlFww`
-3. `7seUd8nr6-8`
-4. `mcQ9PXGt38g`
-5. `YZYnMPyJDtQ`
-6. `Y-_3O6wZI_U`
-7. `0XPeLT3nfy0`
-8. `Z-VzJibKJqQ`
-9. `RyelZGrCxWY`
-10. `O7Gg2_1AsPU`
-11. `ehbTci8o8NA`
-12. `3mMbyik-hho`
-13. `cZcDQqw3WO4`
-14. `4g9JyWS9YAQ`
-15. `E7sBKou_yMA`
-16. `h3-50N7Q-rE`
-17. `6BfzpTaUfT8`
-18. `KdKyQ-JCBac`
-19. `lNpOfFG4HlQ`
-20. `9zTF9XRtmLU`
+1. `EN3vJ4WlFww`
+2. `7seUd8nr6-8`
+3. `mcQ9PXGt38g`
+4. `YZYnMPyJDtQ`
+5. `Y-_3O6wZI_U`
+6. `0XPeLT3nfy0`
+7. `Z-VzJibKJqQ`
+8. `RyelZGrCxWY`
+9. `O7Gg2_1AsPU`
+10. `ehbTci8o8NA`
+11. `3mMbyik-hho`
+12. `cZcDQqw3WO4`
+13. `4g9JyWS9YAQ`
+14. `E7sBKou_yMA`
+15. `h3-50N7Q-rE`
+16. `6BfzpTaUfT8`
+17. `KdKyQ-JCBac`
+18. `lNpOfFG4HlQ`
+19. `9zTF9XRtmLU`
+20. `5HJGBZ8OxzA`
 
-这些文件均已核实仍在 `crawler_en`，尚未在 `raw` 或 `clean` 中归档。按顺序逐个处理，单个文件完成语义审核、切分、结构校验和原始文件归档后，才更新为完成。
+这些文件均按队列顺序待处理。单个文件完成语义审核、切分、结构校验和原始文件归档后，才更新为完成。
 
-当前首个文件 `3JBmOdbzIt4` 已完成全文阅读：原始字幕共2428个片段，已整理成133条中间草稿记录，合并文件为 `manual_work/3JBmOdbzIt4.draft.jsonl`。目前已完成第1–93条草稿的人工语义复核和单句切分，暂存320条中间配对；第94–133条仍待处理。未创建 clean，也未移动原始文件。
+当前已完成文件 `3JBmOdbzIt4`，正式数据1220条、低置信度片段90条；下一份从 `EN3vJ4WlFww` 开始。
 
 Python处理辅助脚本不在本次上传范围；不使用自动语言清洗脚本、规则批量改写或外部模型代替人工语义判断。
