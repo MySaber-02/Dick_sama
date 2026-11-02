@@ -1,0 +1,10 @@
+{"raw":"I'll stop watching you so it embarrass yourself","reason":"The phrase after 'so' is garbled; the intended wording cannot be confirmed.","source_segment_start":351,"source_segment_end":355}
+{"raw":"what a good shy","reason":"The utterance ends in an unclear token.","source_segment_start":391,"source_segment_end":392}
+{"raw":"woman you're here kind of win","reason":"The syntax and intended referent are unclear.","source_segment_start":395,"source_segment_end":397}
+{"raw":"what is Las Vegas stay the moving","reason":"The ASR output is too corrupted to recover reliably.","source_segment_start":398,"source_segment_end":399}
+{"raw":"actually I could the rest is real for you","reason":"The verb phrase is incomplete and cannot be restored with confidence.","source_segment_start":408,"source_segment_end":412}
+{"raw":"we let me see FV perhaps","reason":"The player name and sentence boundary are uncertain.","source_segment_start":415,"source_segment_end":417}
+{"raw":"greetings mon","reason":"The name or form of address is unclear.","source_segment_start":429,"source_segment_end":430}
+{"raw":"caku perhaps staran in my hero Academia but instead of a deu he's a daku","reason":"The anime and character names are heavily corrupted; guessing them would risk changing the meaning.","source_segment_start":438,"source_segment_end":440}
+{"raw":"the obstacles are only 60","reason":"The number and its relationship to the surrounding sentence are unclear.","source_segment_start":461,"source_segment_end":462}
+{"raw":"so it ends like for the","reason":"The source cuts off mid-sentence.","source_segment_start":479,"source_segment_end":480}
