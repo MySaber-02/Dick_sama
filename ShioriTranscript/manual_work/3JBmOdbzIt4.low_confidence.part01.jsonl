@@ -1,0 +1,6 @@
+{"raw":"double burgers in trouble","reason":"短语结构和说话意图不明确，无法确定是在描述双层汉堡的问题还是发出其他指令。其余可识别语句已单独恢复。","source_row":94}
+{"raw":"oh that one","reason":"孤立指示语缺少可确认的指代对象，无法可靠还原。","source_row":96}
+{"raw":"I just need the patty this here","reason":"该片段存在语音识别残缺，无法确定完整指令。","source_row":99}
+{"raw":"what Dad","reason":"开头称呼/词语识别不确定，未强行补写。","source_row":103}
+{"raw":"she came out here make a big","reason":"语句中断且关键动词/宾语无法确定，无法可靠恢复。","source_row":104}
+{"raw":"can I drop properly","reason":"语音识别片段语义不完整，无法确定具体动作。","source_row":106}
