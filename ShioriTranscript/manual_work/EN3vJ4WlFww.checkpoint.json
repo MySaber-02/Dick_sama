@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 478,
+  "draft_rows": 530,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 70,
+  "low_confidence_fragments": 84,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 1121 onward. Source transcript coverage is not yet complete; keep unclear names and cut-off fragments in LOW.",
-  "draft_source_segments_through": 1120
+  "next_action": "Continue manual draft grouping from source segment 1281 onward. Preserve the source's repetitions and censored wording; keep incomplete ASR fragments in LOW.",
+  "draft_source_segments_through": 1280
 }
