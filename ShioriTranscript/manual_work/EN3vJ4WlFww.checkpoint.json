@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 814,
+  "draft_rows": 868,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 137,
+  "low_confidence_fragments": 147,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 2082 onward. The song-like lines and unresolved ASR fragments are recorded separately in LOW.",
-  "draft_source_segments_through": 2081
+  "next_action": "Continue manual draft grouping from source segment 2241 onward. The remaining source tail is 183 segments.",
+  "draft_source_segments_through": 2240
 }
