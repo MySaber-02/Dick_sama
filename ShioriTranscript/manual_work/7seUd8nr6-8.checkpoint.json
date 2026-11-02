@@ -1,0 +1,17 @@
+{
+  "video_id": "7seUd8nr6-8",
+  "status": "source_read_in_progress",
+  "source_segments": 2791,
+  "source_txt_sha": "3051fca05cf7a29b0107b105b2b4401da8610a91",
+  "source_json_sha": "f4067e3ed859b70b263f6eec200df087a29e3278",
+  "source_read_through_segment": 160,
+  "source_transcript_read_complete": false,
+  "draft_rows": 0,
+  "draft_coverage_verified": false,
+  "semantic_review_through_draft_row": 0,
+  "segmented_records": 0,
+  "low_confidence_fragments": 0,
+  "clean_created": false,
+  "originals_moved": false,
+  "next_action": "Continue reading source segments 161-2791, then prepare manual semantic draft and segment into mostly single-sentence raw/actually pairs. This is the first of the five requested follow-on files."
+}
