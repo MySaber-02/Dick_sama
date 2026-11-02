@@ -1,15 +1,5 @@
-{"raw":"was circus","reason":"源字幕片段中的词语识别不清，无法确定是否为“circus”或其他表达。","source_segment_start":323,"source_segment_end":323}
-{"raw":"I can hear my nasy self","reason":"关键形容词识别残缺，无法可靠恢复原句。","source_segment_start":327,"source_segment_end":328}
-{"raw":"how about to go in here","reason":"句子结构残缺，无法确定原始意图。","source_segment_start":335,"source_segment_end":336}
-{"raw":"H I think this one","reason":"开头的H可能是称呼或识别噪声，无法确认。","source_segment_start":343,"source_segment_end":343}
-{"raw":"it sax was taken","reason":"玩家昵称与句子边界不清楚，无法确认具体表达。","source_segment_start":349,"source_segment_end":349}
-{"raw":"I'll stop watching you so it embarrass yourself you know that there's anything to be embarrassed about there's something needed to be embarrassed about","reason":"连续多个词存在识别残缺，尤其是“so it embarrass yourself”无法可靠还原。","source_segment_start":351,"source_segment_end":355}
-{"raw":"what a good shy","reason":"句子在名词/称呼处中断，无法确认具体内容。","source_segment_start":391,"source_segment_end":392}
-{"raw":"woman you're here kind of win","reason":"句子结构和指代关系不清，无法确定原始表达。","source_segment_start":395,"source_segment_end":397}
-{"raw":"what is Las Vegas stay the moving","reason":"ASR识别严重损坏，无法可靠恢复。","source_segment_start":398,"source_segment_end":399}
-{"raw":"actually I could the rest is real for you","reason":"句子谓语识别不完整，无法确认原话。","source_segment_start":408,"source_segment_end":412}
-{"raw":"we let me see FV perhaps","reason":"玩家昵称和语句边界不确定，无法可靠恢复。","source_segment_start":415,"source_segment_end":417}
-{"raw":"greetings mon","reason":"该处称呼/昵称不确定，无法确认原词。","source_segment_start":429,"source_segment_end":430}
-{"raw":"caku perhaps staran in my hero Academia but instead of a deu he's a daku","reason":"动漫名称及人物名的识别均存在严重错误，不能据此猜测人物或改写。","source_segment_start":438,"source_segment_end":440}
-{"raw":"the obstacles are only 60","reason":"数字与前后句的关系不明确，无法确定其具体含义。","source_segment_start":461,"source_segment_end":462}
-{"raw":"so it ends like for the","reason":"源字幕在介词后中断，句子未完成。","source_segment_start":479,"source_segment_end":480}
+{"raw":"was circus","reason":"The source wording is not intelligible enough to restore reliably.","source_segment_start":323,"source_segment_end":323}
+{"raw":"I can hear my nasy self","reason":"The key word is garbled and cannot be restored with confidence.","source_segment_start":327,"source_segment_end":328}
+{"raw":"how about to go in here","reason":"The sentence is incomplete and its intended meaning is unclear.","source_segment_start":335,"source_segment_end":336}
+{"raw":"H I think this one","reason":"The initial token may be a name or recognition noise.","source_segment_start":343,"source_segment_end":343}
+{"raw":"it sax was taken","reason":"The name boundary and sentence structure are unclear.","source_segment_start":349,"source_segment_end":349}
