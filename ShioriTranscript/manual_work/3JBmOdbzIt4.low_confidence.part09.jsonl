@@ -1,0 +1,7 @@
+{"raw":"I'm just washing the meat boil or burn","reason":"开头识别残缺，无法确定说话者是在描述肉类处理还是其他动作。","source_row":81}
+{"raw":"ice ice","reason":"孤立词语缺少明确指代，无法判断是口头重复还是具体指令。","source_row":81}
+{"raw":"we need more two","reason":"数量表达残缺，无法确定具体需求。","source_row":83}
+{"raw":"surprise our company property we got to put the eat in it","reason":"该片段存在多处识别错误，无法可靠恢复。","source_row":84}
+{"raw":"do you guys already have this one going down","reason":"该句指代和动作关系不明，无法确定具体意思。","source_row":86}
+{"raw":"why did everything change when the fire","reason":"句子在条件/原因部分中断，无法确认后续语义。","source_row":87}
+{"raw":"the Beast stands for buns","reason":"可能为游戏内专名或双关，含义无法从当前字幕确认。","source_row":87}
