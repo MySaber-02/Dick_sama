@@ -1,1 +1,1 @@
-第二份 s7C9J7guXaI：257 条草稿语义审核决定已覆盖至第257条。现已完成人工切分第1–20条草稿，暂存66条 raw/actually 配对于 `s7C9J7guXaI.segmented.part01.jsonl`，仅属于 manual_work 中间结果，不是正式 clean。下一步从第21条继续切分；全部257条完成后再统一终审、校验并归档原始 TXT/JSON。第257条仍为 LOW。3JBmOdbzIt4 尚未开始。
+第二份 s7C9J7guXaI：257条草稿均已完成语义处理决策；第1–256条中可可靠恢复的内容已人工切分，正式候选数据991条，全部通过JSONL结构校验（每条仅raw/actually）。151条含低置信度残余的草稿行另存于 `s7C9J7guXaI.low_confidence.jsonl`，不进入SFT；第257条整行保留待核。正式结果已写入 `clean/s7C9J7guXaI.jsonl`，但原始TXT/JSON尚未移动。下一步将两个原始文件原字节复制到raw，核对Git blob SHA与crawler_en源文件一致后再删除crawler_en副本。
