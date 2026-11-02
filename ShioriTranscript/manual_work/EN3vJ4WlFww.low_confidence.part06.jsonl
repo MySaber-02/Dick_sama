@@ -1,0 +1,12 @@
+{"raw":"H","reason":"An isolated initial letter may be a name or recognition noise.","source_segment_start":485,"source_segment_end":485}
+{"raw":"never mind I am fight","reason":"The final phrase is incomplete and cannot be restored reliably.","source_segment_start":510,"source_segment_end":512}
+{"raw":"oh B no English H hat peon","reason":"Several words and possible player names are corrupted.","source_segment_start":512,"source_segment_end":514}
+{"raw":"pepperon is out dead aloney","reason":"The player name and final phrase are uncertain.","source_segment_start":514,"source_segment_end":516}
+{"raw":"cat loock","reason":"The phrase appears to be an unclear name or game-specific reference.","source_segment_start":519,"source_segment_end":520}
+{"raw":"good night Alias or alias I did I see","reason":"The name and following phrase are not clear enough to normalize.","source_segment_start":524,"source_segment_end":525}
+{"raw":"you need lasna oh uh stick 6 months still s k","reason":"The name and membership message are heavily corrupted.","source_segment_start":530,"source_segment_end":531}
+{"raw":"the only winning move is to me","reason":"The sentence appears incomplete; the missing words cannot be safely inferred.","source_segment_start":532,"source_segment_end":533}
+{"raw":"wa","reason":"The utterance is cut off and cannot be interpreted.","source_segment_start":536,"source_segment_end":537}
+{"raw":"I Ally","reason":"The short phrase is likely a recognition error, but the intended words are uncertain.","source_segment_start":589,"source_segment_end":590}
+{"raw":"here why is some only rotating between you guys","reason":"The sentence is incomplete and its subject is unclear.","source_segment_start":606,"source_segment_end":607}
+{"raw":"sayov Spotlight","reason":"The name or title before 'Spotlight' is unclear.","source_segment_start":618,"source_segment_end":619}
