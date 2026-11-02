@@ -110,7 +110,7 @@
 {"raw":"how much did you spend on that hot dog","actually":"How much did you spend on that hot dog?"}
 {"raw":"did you spend like Costco bucks on it","actually":"Did you spend Costco bucks on it?"}
 {"raw":"or did you spend hard earned Fall Guys cash","actually":"Or did you spend your hard-earned Fall Guys currency?"}
-{"raw":"what the heck you look like Godzilla","actually":"You look like Godzilla."}
+{"raw":"what the heck you look like Godzilla Yi would like maybe a little bit too much","actually":"You look a little too much like Godzilla, Yi."}
 {"raw":"maybe a little bit too much","actually":"Perhaps a little too much."}
 {"raw":"let's go level over good job","actually":"The round is over. Good job."}
 {"raw":"oh [ __ ] you see my name now","actually":"You can see my name now."}
@@ -121,7 +121,9 @@
 {"raw":"uhoh is it starting again","actually":"Uh-oh, is it starting again?"}
 {"raw":"oh no I just played it hold up","actually":"I just played it. Hold on."}
 {"raw":"you guys saw my name now","actually":"You saw my name."}
-{"raw":"wait who is this F complete get","actually":"Who is this?"}
+{"raw":"wait who is this","actually":"Who is this?"}
+{"raw":"wait what the hell is this","actually":"What is this?"}
+{"raw":"this is different","actually":"This is different."}
 {"raw":"wait what the hell is this this is different","actually":"What is this? This is different."}
 {"raw":"wait what is this ah froggy","actually":"What is this? Froggy."}
 {"raw":"maybe this is like a different variation of things","actually":"Maybe this is a different variation."}
