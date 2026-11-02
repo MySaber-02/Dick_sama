@@ -14,6 +14,6 @@
 
 接手范围包含原 A、B 两组的所有剩余文件，原分组排他限制已取消。任务清单用于查询历史进度，不再划分当前权限。
 
-已归档的数据不要重复处理。当前 `s7C9J7guXaI` 共257条草稿，逐条语义审核决定已覆盖至257；完整可移植的审核决定见 `manual_work/s7C9J7guXaI.review_decisions.json`，JSON对象中的数字键表示原草稿行号。`actual` 是中性表达替换或 LOW，`fix` 是确认的原文识别修正，`recover` 是从低置信度段中人工确认可保留的原文片段及中性配对。当前仍待逐条人工切分、raw/actually 对齐、低置信度分离、终审和归档；LOW及整个草稿都不能直接进入正式训练集。原始 TXT/JSON 尚未移动。`3JBmOdbzIt4` 此前尚未开始。
+已归档的数据不要重复处理。当前 `s7C9J7guXaI` 共257条草稿，逐条语义审核决定已覆盖至257；完整审核决定见 `manual_work/s7C9J7guXaI.review_decisions.json`。目前第1–20条已人工切分为66条中间配对，保存在 `manual_work/s7C9J7guXaI.segmented.part01.jsonl`，该文件不是正式训练集。第21–257条仍待切分与终审；LOW及未核实草稿不能进入正式训练集。原始 TXT/JSON 尚未移动。`3JBmOdbzIt4` 尚未开始。
 
 Python处理辅助脚本不在本次上传范围；尚未完成的人工决定已另存为JSON。交接仅记录当前进度，不表示所有历史样本均已按最新标准复核。
