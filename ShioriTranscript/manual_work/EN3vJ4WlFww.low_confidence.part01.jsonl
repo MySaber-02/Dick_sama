@@ -1,0 +1,6 @@
+{"raw":"[Music]","reason":"背景音乐，无可用语音内容。","source_segment_start":1,"source_segment_end":6}
+{"raw":"fella all","reason":"该片段语音识别不完整，无法确定原始措辞。","source_segment_start":19,"source_segment_end":19}
+{"raw":"Buton","reason":"人名或昵称识别不确定。","source_segment_start":106,"source_segment_end":106}
+{"raw":"LT it's Mission","reason":"玩家昵称与后续词语边界不明确，无法可靠恢复。","source_segment_start":122,"source_segment_end":123}
+{"raw":"did you P did you spend","reason":"句子中间识别残缺，无法确认完整问句。","source_segment_start":131,"source_segment_end":131}
+{"raw":"F complete get","reason":"该片段可能为游戏提示或玩家昵称识别错误，无法可靠恢复。","source_segment_start":146,"source_segment_end":146}
