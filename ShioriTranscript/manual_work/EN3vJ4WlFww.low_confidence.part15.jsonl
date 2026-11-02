@@ -1,0 +1,9 @@
+{"raw":"small town girl living in a medieval world","reason":"This appears to be a recognizable song lyric or parody; exclude the extended lyric passage from clean.","source_segment_start":1921,"source_segment_end":1924}
+{"raw":"just a city boy from Detroit","reason":"This appears to continue the recognizable song reference; exclude the lyric passage from clean.","source_segment_start":1925,"source_segment_end":1926}
+{"raw":"I'm just a midnight upnight up girl","reason":"The phrase is both lyric-like and corrupted; do not infer the missing words.","source_segment_start":1939,"source_segment_end":1940}
+{"raw":"freaky Dicky in the circus sheets we cir oh [ __ ] circus freak number","reason":"The phrase is heavily corrupted and cannot be reliably restored.","source_segment_start":1956,"source_segment_end":1958}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1959,"source_segment_end":1959}
+{"raw":"good luck with Burks Lance","reason":"The names are uncertain.","source_segment_start":1961,"source_segment_end":1962}
+{"raw":"Crush and the Doomer","reason":"The names or game references are uncertain.","source_segment_start":1963,"source_segment_end":1964}
+{"raw":"SpongeBob I'm sorry hog","reason":"The word after the apology is unclear.","source_segment_start":1980,"source_segment_end":1982}
+{"raw":"SpongeBob square than Spong SpongeBob would go f did I","reason":"The phrase is severely corrupted and cannot be restored reliably.","source_segment_start":1991,"source_segment_end":1995}
