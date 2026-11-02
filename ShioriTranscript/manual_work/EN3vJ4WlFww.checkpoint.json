@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 709,
+  "draft_rows": 763,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 115,
+  "low_confidence_fragments": 128,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 1761 onward. Preserve source repetitions and retain only truly unrecoverable ASR fragments in LOW.",
-  "draft_source_segments_through": 1760
+  "next_action": "Continue manual draft grouping from source segment 1921 onward. Preserve the speaker's repetitions and profanity; uncertain ASR remains separate in LOW.",
+  "draft_source_segments_through": 1920
 }
