@@ -1,0 +1,240 @@
+[
+  {
+    "reason": "low confidence: unclear ASR wording; censor retained verbatim in training row",
+    "sample": {
+      "raw": "She doesn't. Oh, you don't. Are you [ __ ] like adventure type, by the way? Don't eat. You're going to die. Yeah, I don't chew. I just want",
+      "actually": "She does not eat. Are you [ __ ] like adventure type, by the way? Do not eat; you will die. I do not chew; I just want—"
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I um What was it again? Um Oh, our creators.",
+      "actually": "What was it again? Our creators?"
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Yeah. Yeah, baby filings. Yes. Yes.",
+      "actually": "Baby filings, yes."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Oh, yeah. It hold. It's doing nothing. I got the boo down. I can't do anything.",
+      "actually": "Hold it. It does nothing. I have the boo down. I cannot do anything."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "THERE'S SOMEONE WITH A OH GOD, NO. SAY, I THINK we're dying. Uhoh. I don't think they're quantit I'm going to go. I hope I hope I hope they don't see me through the window.",
+      "actually": "Someone has a—oh no, I think we are dying. I do not think they are quantit. I will go and hope they do not see me through the window."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "That's okay. This place rivalry contrast.",
+      "actually": "That is okay. This place rivalry contrast."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I guess so. Yeah. Leave it to Hoshimi. Lead the way. Lead the way.",
+      "actually": "I suppose so. Leave it to Hoshimi; lead the way."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "A ban glove. What is this I'm carrying?",
+      "actually": "A ban glove. What am I carrying?"
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Yes, I can. I'm a dog. I'm just a beloved self.",
+      "actually": "Yes, I can. I am a dog, my beloved self."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Oh, good job. Good job. How do I leave this? Oh, I HAVE NO AMMO. Shoot them. Poppy feeling.",
+      "actually": "Good job. How do I leave this? I have no ammunition. Shoot them. Poppy feeling."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Okay. Okay. There's a bunch of stuff. Dang. Yeah, the platypus is so funny though. But I don't really need another X. Oh, but if he's so funny.",
+      "actually": "There is a lot of stuff. The platypus is funny, but I do not need another X."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "So Shan always believe in me. Everyone knows if you're getting shot in revival.",
+      "actually": "Shan always believes in me. Everyone knows if you are getting shot in revival."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "A true, true. You're so right. Pretty sure you should be able to know. Oh no, I swapped something. Why is it so assaulting?",
+      "actually": "That is right. I swapped something. Why is it so assaulting?"
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Like, they're just watched.",
+      "actually": "They are just watched."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I'm Mickey. Chug jugs.",
+      "actually": "I am Mickey. Chug jugs."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Can Can we use the sky? Oh, never mind. Is it blind here? Yeah, this one's uh right here.",
+      "actually": "Can we use the sky—never mind. Is it blind here? This one is right here."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "He told me it's a rat. He has a good job. Good job. And it's floating away. It's floating away all the items. Oh, I'll chug up with you guys. Nobody told me there was fall damage.",
+      "actually": "He told me it is a rat. Good job. All the items are floating away. I will drink with you. Nobody told me there was fall damage."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Hold on. Let me Oh, it's surface. That's good. Is this better? How does this work? Ouch. Not good enough for me.",
+      "actually": "Hold on. On the surface. Is this better? How does it work? Ouch. It is not good enough for me."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "We can't just kill each other before they loot. We can keep an eye on their bodies. Oh. Oh, they finished. Okay, we should never mind. Yeah. Oh, they're I think they're okay. They're teammates. I guess you want to shoot them now.",
+      "actually": "We cannot just kill each other before they loot. We can watch their bodies. They finished. Never mind, I think they are teammates. I suppose you want to shoot them now."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "You did great. Yeah, look at our sering though. That's okay. You killed a lot.",
+      "actually": "You did well. Look at our sering, though. That is okay; you killed many."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Um I have map. See? So, I'm okay. You You can You can cover. You should probably show. Yeah, the thing. Oh, okay. Yeah, I'll I can cover it as well. Okay, I'll cover too. Returning to lobby.",
+      "actually": "I have a map, so I am okay. You can cover it. Show the thing. I will cover it too. Returning to the lobby."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I I have one thing I'm sad about is that um I missed out on the hour. That was the thing I was about. Like the ugly tree looking thing.",
+      "actually": "I am sad that I missed out on the hour. That ugly tree-looking thing."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Whoa. Wait, we have Kafka for free. So ugly. I Whoa. Hi guys. on the map. I star rail. I I turned from huggy to mommy.",
+      "actually": "We have Kafka for free? So ugly. Hi, everyone. On the map. Star Rail. I changed from Huggy to mommy."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Still over. Uh, no. It's okay. It's You sure? Get out.",
+      "actually": "Still over. It is okay. Are you sure? Get out."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Ouch. Ouch. They're going to go like bobby. Oh, sorry. I just shot at you. Sorry. Oh. Oh, that was you. Yeah. How dare you? Sorry. I reflex. Agent reflex.",
+      "actually": "Ouch. They will go like bobby. Sorry, I shot you. That was you? How dare you? Sorry, it was reflex—agent reflex."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "What the It's do that. Oh my god, that's sweet. DO THAT. YOU GUYS SAW ME DIE. ARE YOU DYING? I don't die. It's a bunch of sisters. How do I get down? It's a lot OF GUYS. I need help.",
+      "actually": "What is that? That is sweet. You saw me die. Are you dying? I do not die. There are many sisters. How do I get down? There are many people. I need help."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "This This person's just doing six on me. Mikasa. Oh, thank you. Take take me to my friends, please. Take me to my friends, Mikasa. I always believed in you. Compared to Eren,",
+      "actually": "This person is doing six on me. Thank you, Mikasa. Take me to my friends, please. I have always believed in you compared with Eren."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "we're stuck in the suic. Why rivalry started? Rivalry. Why is there a RIVAL RIVALRY? CANDY MALL.",
+      "actually": "We are stuck in the suic. Why has rivalry started? Candy Mall."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Mikasa, what is this? What are this? What are this? here. This is my life. WOW. MAN, people should write you.",
+      "actually": "Mikasa, what is this? This is my life. People should write you."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Did they wear an actress in Attack on Titan because that Where's the reboot? Oh. Oh, there it is.",
+      "actually": "Did they wear an actress in Attack on Titan? Where is the reboot van? There it is."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I guess so. I actually have no idea where I'm going. How about we we let the sweet goes lead the way.",
+      "actually": "I have no idea where I am going. How about letting the sweet goes lead?"
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "I'm just retiring my Italian grape field or something.",
+      "actually": "I am just retiring my Italian grape field or something."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Wait. Wait. Wait. S is kidnapping. I can't leave my homie alone.",
+      "actually": "Wait. S is kidnapping. I cannot leave my friend alone."
+    }
+  },
+  {
+    "reason": "Excluded from SFT: unclear recognition or referent; no reliable reconstruction from local text",
+    "sample": {
+      "raw": "Oh, you do. Fortnite despawn. I see. Oh no. Whose car is that? Oh no. Oh no. They're shooting at us. Looks like they're shooting at us. Well, there is someone. Oh no. Yeah, people are shooting at us.",
+      "actually": "Fortnite despawn. Whose car is that? It looks as though they are shooting at us. Someone is there; people are shooting at us."
+    }
+  }
+]

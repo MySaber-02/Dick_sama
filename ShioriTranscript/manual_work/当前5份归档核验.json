@@ -1,0 +1,51 @@
+{
+  "files": [
+    {
+      "file": "hIh9jeH1xMA",
+      "records": 1200,
+      "low_confidence_contexts": 25,
+      "source_sha256": "cfea24e2effa39bd387eb07da72ebc424d758930d40bd62d3191660202a4cada",
+      "originals_moved": true,
+      "censor_marks_retained": 7,
+      "clean_matches_reviewed": true
+    },
+    {
+      "file": "g3mucbKotxQ",
+      "records": 1887,
+      "low_confidence_contexts": 100,
+      "source_sha256": "1a6b58f821fa3a3fb7a3e3dbbf44b10d94149e42ab1a70f99093deb52ba594b8",
+      "originals_moved": true,
+      "censor_marks_retained": 19,
+      "clean_matches_reviewed": true
+    },
+    {
+      "file": "KUO8iixqORc",
+      "records": 2008,
+      "low_confidence_contexts": 198,
+      "source_sha256": "163bcb2b7efabd07ccd98b1045198aacddd9b676ccb30602e530f6b0c731eef4",
+      "originals_moved": true,
+      "censor_marks_retained": 0,
+      "clean_matches_reviewed": true
+    },
+    {
+      "file": "fCwmT4XtkmQ",
+      "records": 1779,
+      "low_confidence_contexts": 72,
+      "source_sha256": "6b6b5c9c733e41697494fd1521ee5548082451cef148457c9d544f887b55d05c",
+      "originals_moved": true,
+      "censor_marks_retained": 1,
+      "clean_matches_reviewed": true
+    },
+    {
+      "file": "Uw5SR7K_G5g",
+      "records": 1668,
+      "low_confidence_contexts": 79,
+      "source_sha256": "e76fd28176138e64195a07fe76a1584a405193075c661c639115cd30e37e5a9b",
+      "originals_moved": true,
+      "censor_marks_retained": 2,
+      "clean_matches_reviewed": true
+    }
+  ],
+  "records": 8542,
+  "all_five_complete": true
+}

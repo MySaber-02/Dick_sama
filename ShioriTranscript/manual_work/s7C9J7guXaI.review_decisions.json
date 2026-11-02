@@ -1,0 +1,2528 @@
+{
+  "reviewed_through_draft_row": 220,
+  "actual": {
+    "7": "LOW",
+    "10": "LOW",
+    "11": "LOW",
+    "12": "LOW",
+    "14": "LOW",
+    "15": "LOW",
+    "16": "LOW",
+    "19": "LOW",
+    "22": "LOW",
+    "24": "LOW",
+    "25": "LOW",
+    "26": "LOW",
+    "27": "LOW",
+    "29": "I shoot them; enemies.",
+    "31": "LOW",
+    "36": "LOW",
+    "38": "LOW",
+    "43": "It jams sometimes. Shielded enemies are coming downstairs. Am I shooting their heads off? Those are bombs.",
+    "44": "Those are bombs, and there are many of them. We have killed many people.",
+    "48": "LOW",
+    "49": "LOW",
+    "51": "LOW",
+    "54": "LOW",
+    "55": "LOW",
+    "56": "LOW",
+    "58": "LOW",
+    "59": "LOW",
+    "60": "LOW",
+    "62": "LOW",
+    "63": "LOW",
+    "64": "LOW",
+    "66": "LOW",
+    "68": "LOW",
+    "69": "LOW",
+    "70": "LOW",
+    "71": "LOW",
+    "72": "LOW",
+    "73": "LOW",
+    "74": "LOW",
+    "79": "LOW",
+    "80": "LOW",
+    "81": "LOW",
+    "82": "LOW",
+    "83": "LOW",
+    "84": "LOW",
+    "88": "LOW",
+    "89": "LOW",
+    "91": "LOW",
+    "92": "LOW",
+    "93": "LOW",
+    "95": "LOW",
+    "98": "LOW",
+    "99": "LOW",
+    "100": "LOW",
+    "103": "LOW",
+    "105": "LOW",
+    "107": "LOW",
+    "108": "LOW",
+    "109": "I hit him, but he did not seem to die. Do not let him die or waste ammunition on him. Keep moving. I have Santa; wake up, and be kind to him.",
+    "111": "LOW",
+    "112": "I need a valid surface; why is this invalid? I think he is stuck. A bomb. Closer to the ground; we need to signal the helicopter. I signaled it; a present.",
+    "115": "What are we doing? Reload. How do I use bombs? G does not work for me. I like the zipline; I have no ammunition. You need to equip them. I still have them.",
+    "117": "LOW",
+    "121": "LOW",
+    "122": "LOW",
+    "123": "I think opening packages gives money. Behind us; I found cocaine. Why is everyone shooting me? I might need healing later. The Collector; I collected over a hundred.",
+    "124": "LOW",
+    "125": "LOW",
+    "126": "LOW",
+    "128": "LOW",
+    "129": "LOW",
+    "130": "LOW",
+    "131": "We have candy behind us. Someone is ahead and someone behind; everyone stay in the building. What is this? I got more cocaine—candy.",
+    "132": "LOW",
+    "134": "LOW",
+    "135": "LOW",
+    "137": "LOW",
+    "138": "LOW",
+    "139": "LOW",
+    "140": "What is Overkill difficulty? I do not know; I assume we are in trouble. We should be fine with stealth. Does that mean hard mode? Are we doing hard mode? No; let me find something easier. Overkill is probably hard mode. We want a stealth mission.",
+    "142": "LOW",
+    "143": "LOW",
+    "144": "LOW",
+    "146": "I will do it. Do not follow me or copy my routine.",
+    "147": "Where is the front door? One of us has a mask on and the others do not. Split up. Wait; that might be conspicuous or illegal. Watch out; someone noticed me. There is a camera.",
+    "149": "LOW",
+    "150": "LOW",
+    "151": "LOW",
+    "152": "LOW",
+    "153": "LOW",
+    "154": "LOW",
+    "155": "LOW",
+    "156": "LOW",
+    "158": "LOW",
+    "159": "LOW",
+    "160": "LOW",
+    "161": "LOW",
+    "162": "LOW",
+    "164": "LOW",
+    "165": "LOW",
+    "166": "LOW",
+    "168": "LOW",
+    "169": "LOW",
+    "171": "I suppose that was a stealth method. The large one might be finished. I think all the hostages escaped too. Wait; this drill has twenty seconds left. Let us go.",
+    "172": "LOW",
+    "173": "LOW",
+    "174": "LOW",
+    "175": "LOW",
+    "176": "LOW",
+    "177": "LOW",
+    "178": "LOW",
+    "179": "Stay with me. Let us try to get some money into the van. It will probably return, perhaps after circling the block. Perhaps it is a poor van with little space.",
+    "180": "LOW",
+    "181": "LOW",
+    "182": "I think we need to stay in the area. Wait. We got money; we did it. We earned five hundred four thousand. We have seventy-one thousand. We made it with seven bags, and everyone escaped. We got additional items; we are rich.",
+    "183": "LOW",
+    "184": "LOW",
+    "185": "LOW",
+    "186": "LOW",
+    "187": "LOW",
+    "188": "LOW",
+    "189": "This is a stealth mission. I do not think we will finish it, but let us try. We definitely will not finish.",
+    "190": "LOW",
+    "191": "LOW",
+    "192": "LOW",
+    "193": "LOW",
+    "194": "LOW",
+    "195": "LOW",
+    "196": "LOW",
+    "197": "LOW",
+    "198": "Do not approach the car too closely. We know what to do now. The whiteboard appears randomly; look for it discreetly, and we can monitor from there. We are still poorly concealed, but I am unsure how that affects gameplay. Does wearing assault armor matter? How do I remove it? We should probably remove it. In loadout, select the middle item in the second row and wear something else, such as your suit.",
+    "199": "A light ballistic vest goes under armor, so you can wear it instead. Then we should wear it; that is what we wear.",
+    "200": "LOW",
+    "201": "LOW",
+    "203": "You should be fine if your indicator is blue. Is everyone ready? Yes; let us go. Rissa, wait. Ready. You do not really need armor for this entirely stealth mission.",
+    "205": "LOW",
+    "206": "LOW",
+    "207": "Could we still finish quickly with the timer running? Do not run; we are too close. Running does not matter; understood. You just need to leave their sight quickly.",
+    "208": "Avoid them completely. Can we go there? Apparently, we can go behind the shop; let us do that. You cannot do it in casing mode, so you need to put on the mask.",
+    "209": "LOW",
+    "210": "LOW",
+    "214": "LOW",
+    "215": "LOW",
+    "216": "LOW",
+    "218": "There might be cameras here, and I do not know how to prevent problems. I think we are safe on the roof; I do not think there will be cameras there. There is a door here. Watch out for the windows around the roof.",
+    "219": "LOW",
+    "220": "LOW"
+  },
+  "fix": {
+    "1": [
+      [
+        "narissa",
+        "Nerissa"
+      ],
+      [
+        "Adent",
+        "Advent"
+      ]
+    ],
+    "3": [
+      [
+        "be boo",
+        "Biboo"
+      ]
+    ],
+    "4": [
+      [
+        "H life English",
+        "Hololive English"
+      ],
+      [
+        "narissa ravencraft",
+        "Nerissa Ravencroft"
+      ],
+      [
+        "ginger red dog",
+        "gingerbread dog"
+      ]
+    ],
+    "9": [
+      [
+        "put on the map",
+        "put on the mask"
+      ]
+    ],
+    "13": [
+      [
+        "sampai",
+        "senpai"
+      ]
+    ],
+    "17": [
+      [
+        "put on the Mas",
+        "put on the mask"
+      ]
+    ],
+    "24": [
+      [
+        "the Mas",
+        "the mask"
+      ]
+    ],
+    "28": [
+      [
+        "a trail",
+        "a drill"
+      ],
+      [
+        "SW team",
+        "SWAT team"
+      ]
+    ],
+    "33": [
+      [
+        "it's Tak",
+        "it's taking"
+      ]
+    ],
+    "39": [
+      [
+        "what out",
+        "watch out"
+      ]
+    ],
+    "40": [
+      [
+        "sea4s",
+        "C4s"
+      ]
+    ],
+    "42": [
+      [
+        "the trail",
+        "the drill"
+      ],
+      [
+        "the trailing",
+        "the drilling"
+      ]
+    ],
+    "55": [
+      [
+        "cocain",
+        "cocaine"
+      ]
+    ],
+    "57": [
+      [
+        "Elmo",
+        "ammo"
+      ]
+    ],
+    "60": [
+      [
+        "the TR",
+        "the drill"
+      ]
+    ],
+    "63": [
+      [
+        "the save",
+        "the safe"
+      ]
+    ],
+    "77": [
+      [
+        "symol",
+        "symbol"
+      ]
+    ],
+    "83": [
+      [
+        "theame",
+        "the game"
+      ]
+    ],
+    "87": [
+      [
+        "doctor back",
+        "doctor bag"
+      ]
+    ],
+    "91": [
+      [
+        "aan",
+        "Advent"
+      ]
+    ],
+    "98": [
+      [
+        "theame",
+        "the game"
+      ],
+      [
+        "Risa",
+        "Rissa"
+      ]
+    ],
+    "100": [
+      [
+        "isisa",
+        "Rissa"
+      ]
+    ],
+    "103": [
+      [
+        "Advent Trix",
+        "Adventrix"
+      ]
+    ],
+    "105": [
+      [
+        "noisa",
+        "Nerissa"
+      ]
+    ],
+    "108": [
+      [
+        "Mrs claws",
+        "Mrs. Claus"
+      ]
+    ],
+    "112": [
+      [
+        "valid Circle",
+        "valid surface"
+      ]
+    ],
+    "115": [
+      [
+        "boms",
+        "bombs"
+      ]
+    ],
+    "117": [
+      [
+        "Chistmas",
+        "Christmas"
+      ],
+      [
+        "christas",
+        "Christmas"
+      ]
+    ],
+    "119": [
+      [
+        "on the jaw",
+        "on the job"
+      ],
+      [
+        "Mrs claw",
+        "Mrs. Claus"
+      ]
+    ],
+    "132": [
+      [
+        "you're backa",
+        "you're back"
+      ]
+    ],
+    "145": [
+      [
+        "deposits with draws",
+        "deposits withdrawals"
+      ]
+    ],
+    "148": [
+      [
+        "theral TR",
+        "thermal drill"
+      ],
+      [
+        "thermal Trail",
+        "thermal drill"
+      ]
+    ],
+    "156": [
+      [
+        "DRS jam",
+        "drill’s jammed"
+      ]
+    ],
+    "160": [
+      [
+        "more plants",
+        "more planks"
+      ]
+    ],
+    "168": [
+      [
+        "lobing",
+        "robbing"
+      ],
+      [
+        "robing",
+        "robbing"
+      ]
+    ],
+    "170": [
+      [
+        "beeps",
+        "Biboo"
+      ]
+    ],
+    "174": [
+      [
+        "the bags",
+        "the bags"
+      ]
+    ],
+    "178": [
+      [
+        "the bands",
+        "the van"
+      ]
+    ],
+    "179": [
+      [
+        "bad ban",
+        "bad van"
+      ]
+    ],
+    "180": [
+      [
+        "point of no",
+        "point of no return"
+      ]
+    ],
+    "181": [
+      [
+        "jop off",
+        "drop off"
+      ],
+      [
+        "bi boo",
+        "Biboo"
+      ]
+    ],
+    "188": [
+      [
+        "sper autom",
+        "expensive automobiles"
+      ]
+    ],
+    "198": [
+      [
+        "assault dress",
+        "assault vest"
+      ],
+      [
+        "assult",
+        "assault vest"
+      ]
+    ],
+    "200": [
+      [
+        "first a kit",
+        "first aid kit"
+      ]
+    ],
+    "201": [
+      [
+        "self mission",
+        "stealth mission"
+      ]
+    ],
+    "203": [
+      [
+        "Rea",
+        "Rissa"
+      ]
+    ],
+    "213": [
+      [
+        "on the mask",
+        "on the mask"
+      ]
+    ],
+    "219": [
+      [
+        "answer or pager",
+        "answer the pager"
+      ]
+    ]
+  },
+  "recover": {
+    "2": [
+      [
+        "ho ho ho ho",
+        "Ho, ho, ho."
+      ]
+    ],
+    "4": [
+      [
+        "haa Darlings or should I say ho ho ho Darlings this is H life English Advent Diva one and only narissa ravencraft",
+        "Hello, darlings—or ho, ho, ho, darlings. I am Hololive English Advent’s diva, Nerissa Ravencroft."
+      ],
+      [
+        "I'm not a gingerbread house I'm I'm not a ginger red dog",
+        "I am not a gingerbread house or gingerbread dog."
+      ]
+    ],
+    "6": [
+      [
+        "what's your question how do I change my outfit oh I don't think we have any outfits right now we're kind of poor",
+        "What is your question? How do I change outfits? I do not think we have any, because we are poor."
+      ],
+      [
+        "everybody has a mask and I would like a different one",
+        "Everyone has a mask, and I want a different one."
+      ],
+      [
+        "there's a default mask it's uh it's you know it's supposed to be intimidating",
+        "There is a default mask intended to intimidate."
+      ],
+      [
+        "it's my mask you can't copy me",
+        "That is my mask; you cannot copy me."
+      ],
+      [
+        "I just I want a different one",
+        "I want a different one."
+      ],
+      [
+        "there's an inventory option can you like click it yeah but we don't have anything right now we're we're broke guys we're broke",
+        "Can you use the inventory option? We have nothing and no money."
+      ]
+    ],
+    "7": [
+      [
+        "oh we can hide our character or maybe it doesn't matter my name is Dallas insufficient funds you're Dallas",
+        "We can hide our character, or perhaps it does not matter. My name is Dallas; insufficient funds. You are Dallas?"
+      ],
+      [
+        "we are Dallas welcome Dallas money for clothing yeah all right let's start",
+        "We are Dallas; welcome. We need clothing money. Let us start."
+      ]
+    ],
+    "10": [
+      [
+        "cuz no one cares until you put on the mask",
+        "Nobody cares until you put on the mask."
+      ],
+      [
+        "so so basically uh from what I know with payday is um right in the beginning you like don't have you're you're not like a criminal you're like a normal person so you like try to blend in as much as you can and get to the objective but once you like start doing criminal start stuff then you can start shooting",
+        "As I understand Payday, you initially look ordinary and try to blend in while reaching the objective. Once you act criminally, you can shoot."
+      ],
+      [
+        "the tasteful Club oh the tasteful club that club",
+        "The tasteful club; that club."
+      ]
+    ],
+    "11": [
+      [
+        "oh I don't know anything about the levels by the way",
+        "I know nothing about the levels."
+      ],
+      [
+        "cuz if I see the word Club I think of GTA clubs so I I hope it's not a thing it's okay I've been I've been to DJ Club you've been into tasteful clubs yeah taste I've been into the tasteful Club",
+        "A club makes me think of GTA clubs, so I hope that is not involved. I have been to a DJ club. A tasteful club? Yes."
+      ]
+    ],
+    "12": [
+      [
+        "all right all right let's go let's go",
+        "Let us go."
+      ],
+      [
+        "we'll figure it out we'll figure it out yeah let's do it together clubs is there it's a normal Club okay I haven't been to a normal Club any club no any club I just been to that one Club",
+        "We will learn together. A normal club? I have never visited one, or any club except that particular one."
+      ]
+    ],
+    "14": [
+      [
+        "wait I want to see your face you funding some education can you look up",
+        "I want to see your face. Are you funding education? Can you look up?"
+      ],
+      [
+        "I'm I'm loading you're still loading okay we'll wait we'll wait I'm just turning up my brightness",
+        "I am loading. We will wait while I increase brightness."
+      ]
+    ],
+    "15": [
+      [
+        "this is a ponytail I got a ponytail yeah you do",
+        "I have a ponytail; you do."
+      ],
+      [
+        "you're bald just letting you know yeah like pebbles what do I look like",
+        "You are bald, like Pebbles. What do I look like?"
+      ],
+      [
+        "I think we have to restart cuz I'm stuck on a black screen",
+        "I think we must restart because my screen is black."
+      ]
+    ],
+    "16": [
+      [
+        "you're back is broken",
+        "Your back is broken."
+      ],
+      [
+        "do I just hit restart or do I have to go back to the main menu",
+        "Should I restart or return to the main menu?"
+      ]
+    ],
+    "17": [
+      [
+        "I think you looted someone",
+        "I think you looted someone."
+      ],
+      [
+        "I'm hitting restart",
+        "I am restarting."
+      ]
+    ],
+    "18": [
+      [
+        "okay see if you load in right now okay hold on I'm coming in okay are you still in like the lobby stuff",
+        "Can you load now? Wait, I am joining. Are you still in the lobby?"
+      ],
+      [
+        "I'm going to pay a visit to the tasteful club",
+        "I am going to visit the tasteful club."
+      ]
+    ],
+    "19": [
+      [
+        "I was just confused that maybe that we weren't seeing updated stuff",
+        "I wondered whether we were seeing updated information."
+      ],
+      [
+        "don't shoot the civilians",
+        "Do not shoot civilians."
+      ],
+      [
+        "shooting people actually deducts the money we lose because we have to pay for people to dispose the bodies",
+        "Shooting people costs money because we pay for disposal of the bodies."
+      ]
+    ],
+    "22": [
+      [
+        "get in and get out fast after you empty the manager safe and wolf remember we got be tasteful not distasteful",
+        "Get in, empty the manager’s safe, and leave quickly. Wolf, remember to be tasteful."
+      ]
+    ],
+    "24": [
+      [
+        "put on the Mas don't put on the Mas",
+        "Put on the mask—do not put it on."
+      ],
+      [
+        "so we have to find a nightclub which is over here yeah the nightclub is over here partying at the nightclub",
+        "We need the nightclub, over here. Partying at the nightclub."
+      ]
+    ],
+    "25": [
+      [
+        "did someone put on their mask well put on their mask no you shot someone you shot someone oh my gosh all right let's Rush",
+        "Did someone put on a mask? No, you shot someone. Let us rush."
+      ]
+    ],
+    "26": [
+      [
+        "someone keep an eye on the door",
+        "Someone watch the door."
+      ],
+      [
+        "I'm dancing I'm dancing I'm dancing I'm dancing",
+        "I am dancing."
+      ]
+    ],
+    "27": [
+      [
+        "I would assume the safe might be upstairs right oh I'm upstairs right now oh this look like a door I found the door",
+        "I assume the safe is upstairs. I am upstairs and found a door."
+      ]
+    ],
+    "30": [
+      [
+        "I'm good I'm good",
+        "I am fine."
+      ],
+      [
+        "maybe we have to move the drill",
+        "Perhaps we need to move the drill."
+      ]
+    ],
+    "31": [
+      [
+        "I'll distract I'll distract the PO",
+        "I will distract the police."
+      ],
+      [
+        "how do you close the door",
+        "How do we close the door?"
+      ]
+    ],
+    "32": [
+      [
+        "I have bombs",
+        "I have bombs."
+      ],
+      [
+        "nice nice nice good job good job we we'll get everyone it's fine okay",
+        "Well done; we will get everyone. It is fine."
+      ]
+    ],
+    "34": [
+      [
+        "is there any other way to do it",
+        "Is there another way to do it?"
+      ],
+      [
+        "how do I how do I hit manually that even possible",
+        "How do I hit manually? Is that possible?"
+      ],
+      [
+        "there's too many entrances",
+        "There are too many entrances."
+      ]
+    ],
+    "35": [
+      [
+        "you cover this area",
+        "Cover this area."
+      ],
+      [
+        "we need a key card we need a key card",
+        "We need a keycard."
+      ]
+    ],
+    "36": [
+      [
+        "thanks I think I'm dying are you kidding me oh I'm I'm out of bullets uhoh",
+        "Thank you; I think I am dying and am out of ammunition."
+      ]
+    ],
+    "37": [
+      [
+        "it stopped again",
+        "It stopped again."
+      ],
+      [
+        "there's a red light",
+        "There is a red light."
+      ],
+      [
+        "someone shooting",
+        "Someone is shooting."
+      ]
+    ],
+    "38": [
+      [
+        "the drill is taking too long",
+        "The drill is taking too long."
+      ],
+      [
+        "23 seconds left 23 seconds",
+        "Twenty-three seconds remain."
+      ]
+    ],
+    "39": [
+      [
+        "20 seconds it's on oh oh it's almost done awesome",
+        "Twenty seconds; it is almost finished."
+      ],
+      [
+        "I see something changing at the bottom of my screen",
+        "Something is changing at the bottom of my screen."
+      ],
+      [
+        "oh my gosh this is the kitchen",
+        "This is the kitchen."
+      ]
+    ],
+    "41": [
+      [
+        "also there's a computer",
+        "There is a computer too."
+      ],
+      [
+        "hold F open is there something in there",
+        "Hold F to open; is anything inside?"
+      ],
+      [
+        "okay so with that money I think you have to bring it back to the car",
+        "I think you must take the money back to the car."
+      ]
+    ],
+    "48": [
+      [
+        "can we close that door no I don't think so",
+        "Can we close that door? I do not think so."
+      ]
+    ],
+    "49": [
+      [
+        "you keep the stairs covered",
+        "Keep the stairs covered."
+      ],
+      [
+        "I'm going to die don't die",
+        "I am going to die; do not die."
+      ]
+    ],
+    "50": [
+      [
+        "still drilling it's still Drilling",
+        "It is still drilling."
+      ],
+      [
+        "oh he's here oh that's his helmet oh got it",
+        "He is here; that is his helmet. Understood."
+      ],
+      [
+        "watch out behind you",
+        "Watch behind you."
+      ]
+    ],
+    "51": [
+      [
+        "e works okay good so if they're too close to you",
+        "E works; good, if they are too close to you."
+      ]
+    ],
+    "54": [
+      [
+        "not done yet guys",
+        "Not finished yet."
+      ],
+      [
+        "down the stairs down down the stairs I don't know how to change our weapon",
+        "Downstairs; I do not know how to change weapons."
+      ]
+    ],
+    "55": [
+      [
+        "take the cocain everybody take cocaine everybody everybody take the cocain okay okay",
+        "Everyone take the cocaine."
+      ]
+    ],
+    "56": [
+      [
+        "I think some of you guys will have to take it okay now find a car yes outside come on uh maybe maybe the other side I don't know yeah just come down here down the stairs yeah down the stairs",
+        "Some of you must take it. Find the car outside, perhaps on the other side. Come downstairs."
+      ],
+      [
+        "we have to find the safe with money in it",
+        "We must find the safe with money."
+      ],
+      [
+        "there's no safe in the washroom",
+        "There is no safe in the bathroom."
+      ]
+    ],
+    "57": [
+      [
+        "over this way this way",
+        "This way."
+      ],
+      [
+        "how do you get healing",
+        "How do you heal?"
+      ],
+      [
+        "I'll keep an eye on this door",
+        "I will watch this door."
+      ]
+    ],
+    "58": [
+      [
+        "there's a bomb there's a bomb there's a bomb how do I smack you",
+        "A bomb; how do I hit you?"
+      ],
+      [
+        "I need more ammo and health please I don't know how to get more",
+        "I need ammunition and health, but do not know how to replenish them."
+      ],
+      [
+        "I think you might be able to revive me if I die I'm not entirely sure",
+        "I think you might revive me if I die, but am unsure."
+      ]
+    ],
+    "59": [
+      [
+        "I I think it stopped yeah it stopped gosh I'm restarting the drill cover me",
+        "I think it stopped; yes. Cover me while I restart the drill."
+      ],
+      [
+        "I'm really hurt so I like to rest we found a good resting spot yeah we not resting or protecting but somehow it's ending up resting yeah",
+        "I am hurt and want rest. We found a place to rest, though intended to protect rather than rest."
+      ]
+    ],
+    "60": [
+      [
+        "good job good job probably going to die",
+        "Well done; I will probably die."
+      ],
+      [
+        "where's the TR actually I've already lost it",
+        "Where is the drill? I lost track."
+      ],
+      [
+        "where are all these people coming from",
+        "Where are these people coming from?"
+      ],
+      [
+        "that's a lot of bullets",
+        "That is much gunfire."
+      ]
+    ],
+    "61": [
+      [
+        "can you level up even if you die",
+        "Can you level up even after dying?"
+      ],
+      [
+        "14 minutes",
+        "Fourteen minutes."
+      ]
+    ],
+    "62": [
+      [
+        "almost done yet I want to go home now",
+        "Almost finished? I want to go home."
+      ]
+    ],
+    "63": [
+      [
+        "there's some money there's more money can we can we zip tie you",
+        "There is money. Can we put zip ties on you?"
+      ],
+      [
+        "oh this is money on the table money on the table table this this must be the save look this one go work on it money on the table take the money on the table",
+        "Money on the table; take it. This must be the safe; work on it."
+      ]
+    ],
+    "64": [
+      [
+        "I think they're shooting at me I don't know though I think that's all the money get is there any more money here",
+        "I think I am being shot, but am unsure. Is that all the money, or is there more?"
+      ],
+      [
+        "I have a hostage here they're coming through window window windows",
+        "I have a hostage; enemies are coming through windows."
+      ],
+      [
+        "they have snipers they have snipers watch out for the snipers oh my gosh okay I think it be better to have hostages right now we have a hostage they don't care I don't know",
+        "Watch the snipers. I think hostages might help; we have one. I do not know whether they care."
+      ]
+    ],
+    "65": [
+      [
+        "oh my God the roof what is this",
+        "What is this on the roof?"
+      ]
+    ],
+    "66": [
+      [
+        "I'm starting the drill again cover me covering I think the drill has a lot of time",
+        "Cover me while I restart the drill. I think much time remains."
+      ],
+      [
+        "where is our hostage is she dead I think we lost our hostage",
+        "Where is our hostage? Did she die? I think we lost her."
+      ]
+    ],
+    "68": [
+      [
+        "there's a bomb",
+        "There is a bomb."
+      ],
+      [
+        "we got you I'm doing the drill again",
+        "We have you; I am restarting the drill."
+      ],
+      [
+        "keep going",
+        "Keep going."
+      ],
+      [
+        "I just don't know where",
+        "I do not know where."
+      ]
+    ],
+    "69": [
+      [
+        "find the safe that's a reminder how many seconds left snipers are moving in",
+        "Remember to find the safe. How many seconds remain? Snipers are approaching."
+      ]
+    ],
+    "70": [
+      [
+        "where is he okay so annoying reloading sniper dead",
+        "Where is he? Annoying; reloading. The sniper is dead."
+      ],
+      [
+        "sorry it's just you",
+        "Sorry, it is you."
+      ],
+      [
+        "I'm starting it cover me",
+        "Cover me while I restart it."
+      ],
+      [
+        "we started we started okay it's started",
+        "It started."
+      ],
+      [
+        "sniper down oh good job",
+        "Sniper down; well done."
+      ]
+    ],
+    "71": [
+      [
+        "reloading",
+        "Reloading."
+      ],
+      [
+        "there's so many oh jeez you know this is normal mode this isn't hard mode or anything",
+        "There are many enemies. This is normal difficulty, rather than hard."
+      ]
+    ],
+    "72": [
+      [
+        "in front of us oh my God there he is how much longer I want to go get money",
+        "He is in front of us. How much longer? I want the money."
+      ],
+      [
+        "there's alcohol here I wish it healed",
+        "There is alcohol; I wish it restored health."
+      ]
+    ],
+    "73": [
+      [
+        "it's probably someone from the left there's also a sniper right now be careful",
+        "Probably someone from the left. There is a sniper too; be careful."
+      ],
+      [
+        "I don't think there's still way for us to heal anyway we just kind of have to deal with it",
+        "I do not think we can heal, so must manage."
+      ]
+    ],
+    "74": [
+      [
+        "just don't don't die watch out",
+        "Do not die; watch out."
+      ],
+      [
+        "do you have the cash the cash the cash okay we might have to protect you",
+        "Do you have the cash? We may need to protect you."
+      ],
+      [
+        "is there more cash or are you guys good",
+        "Is there more cash, or are you finished?"
+      ],
+      [
+        "I have the money let's go",
+        "I have the money; let us go."
+      ]
+    ],
+    "76": [
+      [
+        "we got we got to go to the the car",
+        "We need to reach the car."
+      ],
+      [
+        "where I don't know I think I have to go back to our location",
+        "Where? I do not know; perhaps return to our location."
+      ],
+      [
+        "there is one bag we left",
+        "We left one bag."
+      ],
+      [
+        "they they dropped the money someone grab it",
+        "They dropped the money; someone collect it."
+      ],
+      [
+        "you can only carry one time",
+        "You can carry only one at a time."
+      ],
+      [
+        "is that money I don't know but let's just move",
+        "Is that money? I do not know; keep moving."
+      ]
+    ],
+    "79": [
+      [
+        "run run just shoot and run okay is the door is this the door where's the door yeah I think it's this way",
+        "Run and shoot. Is this the door? I think it is this way."
+      ],
+      [
+        "cover me cover me cover me",
+        "Cover me."
+      ],
+      [
+        "there's a walking bag for some reason okay the bag stop walking",
+        "A bag is moving for some reason. It stopped."
+      ]
+    ],
+    "80": [
+      [
+        "everybody has money right we all have money right I have Coke I have Coke",
+        "Does everyone have money? I have cocaine."
+      ],
+      [
+        "we only have two stacks of money we only have two stacks it's fine",
+        "We have only two stacks of money; it is fine."
+      ],
+      [
+        "okay we did it",
+        "We did it."
+      ]
+    ],
+    "81": [
+      [
+        "we made some good amount",
+        "We earned a good amount."
+      ],
+      [
+        "there was only to money cuz it said zero out of two so we got all two in so we got bonus candy",
+        "There were only two money bags; we took both, plus bonus candy."
+      ],
+      [
+        "do we lose any money for killing a bunch of people",
+        "Do killings cost money?"
+      ],
+      [
+        "we can take hostages we just can't kill them yeah yeah yeah that's the that's a hard part yeah",
+        "We can take hostages, but cannot kill them; that is difficult."
+      ]
+    ],
+    "82": [
+      [
+        "level five we're amateur criminals now six oh yeah yeah seven",
+        "Level five; amateur criminals now. Six, then seven."
+      ],
+      [
+        "I expecting eight okay level seven",
+        "I expected eight, but level seven."
+      ],
+      [
+        "choose a cardo one chose one",
+        "Choose a card."
+      ]
+    ],
+    "83": [
+      [
+        "I wanted a mask",
+        "I wanted a mask."
+      ],
+      [
+        "I guess a reptilian skin is sort of cool",
+        "I suppose a reptilian skin is interesting."
+      ],
+      [
+        "I don't know what that is hold on let me see I don't either",
+        "I do not know what that is; let me check. Neither do I."
+      ]
+    ],
+    "84": [
+      [
+        "buy a new mask",
+        "Buy a new mask."
+      ],
+      [
+        "we stole the money can we not use our money",
+        "We stole money; can we not spend it?"
+      ]
+    ],
+    "88": [
+      [
+        "let's go back what's this one oh I thought it mask would be different",
+        "Let us go back. What is this one? I expected the mask to differ."
+      ],
+      [
+        "is this a dog",
+        "Is this a dog?"
+      ],
+      [
+        "so cute I want this one",
+        "It is cute; I want it."
+      ],
+      [
+        "I think I just accidentally did something oops I don't want to do that",
+        "I think I accidentally did something unwanted."
+      ]
+    ],
+    "89": [
+      [
+        "did I just waste my thing I think we use all our money",
+        "Did I waste my item? I think we spent all our money."
+      ],
+      [
+        "OMG it's so awful I got mine too nice so you're such a pretty princess thank you",
+        "It is awful. I have mine too. You are a pretty princess; thank you."
+      ],
+      [
+        "I didn't realize that was a mask I didn't either no one will recognize me with my princess tiara you put it on ready for danger",
+        "I did not realize that was a mask. Neither did I. Nobody will recognize me in my tiara; ready for danger."
+      ]
+    ],
+    "91": [
+      [
+        "what were you guys looking at",
+        "What were you looking at?"
+      ],
+      [
+        "in The Mask area oh buy new mask I see",
+        "In the mask section; buy a new mask, understood."
+      ],
+      [
+        "I think ghost is cool but I don't think aan is going to Stealth at all",
+        "I like Ghost, but do not think Advent will be stealthy."
+      ]
+    ],
+    "92": [
+      [
+        "we have seven skill points",
+        "We have seven skill points."
+      ],
+      [
+        "I think we'll end up not using hostages I think we'll be too deadly for that the stamina thing is good though I like I went for um some doctor skills in Sentry right now",
+        "I think we will be too deadly to use hostages. Stamina is useful; I chose doctor and sentry skills."
+      ],
+      [
+        "why did I do that why did I do that",
+        "Why did I do that?"
+      ],
+      [
+        "there's also trip mines if anyone wants to do that",
+        "Trip mines are available if anyone wants them."
+      ],
+      [
+        "I have no idea what I'm doing I just did things",
+        "I do not know what I am doing; I simply chose things."
+      ]
+    ],
+    "93": [
+      [
+        "you good at being sneaky",
+        "Are you good at sneaking?"
+      ],
+      [
+        "I'm I'm taking G for the for the speed and the parkour stuff but I'm not taking any stealth",
+        "I chose G for speed and parkour rather than stealth."
+      ]
+    ],
+    "95": [
+      [
+        "can we only pick one uh at the same time or can we be in different multiple trees",
+        "Can we choose only one skill tree, or several?"
+      ],
+      [
+        "I think you just have to level up a ton probably",
+        "I think you probably only need more levels."
+      ],
+      [
+        "I only have one point",
+        "I have only one point."
+      ]
+    ],
+    "98": [
+      [
+        "I see your invites",
+        "I see your invites."
+      ],
+      [
+        "buy a new weapon let's buy a shotgun",
+        "Let us buy a shotgun."
+      ],
+      [
+        "DLC DLC I can't buy this",
+        "I cannot buy this; it requires DLC."
+      ],
+      [
+        "joining game same issue okay we'll just leave the lobby",
+        "Joining still fails; let us leave the lobby."
+      ],
+      [
+        "you guys okay if we leave the lobby so she can come back",
+        "Can we leave the lobby so she can rejoin?"
+      ],
+      [
+        "a comically large spoon o is that going to be effective though I think I think so",
+        "A very large spoon; will it work? I think so."
+      ],
+      [
+        "let me know if it works for you Risa failed um let me restart theame okay I'll wait on you",
+        "Rissa, did it work? No; I will restart the game. We will wait."
+      ]
+    ],
+    "99": [
+      [
+        "I like yours thank you",
+        "I like yours; thank you."
+      ],
+      [
+        "I like your face I like your ears they're different shapes",
+        "I like your face and differently shaped ears."
+      ],
+      [
+        "does the dog have hair yeah I think so",
+        "Does the dog have hair? I think so."
+      ]
+    ],
+    "100": [
+      [
+        "you had to pay for it I wasn't even looking for money",
+        "You had to pay? I was not checking prices."
+      ],
+      [
+        "you look a little uh pale there isisa yeah I'm looking pretty dapper what happened",
+        "You look pale, Rissa. I look dapper; what happened?"
+      ]
+    ],
+    "101": [
+      [
+        "make sure you have something equipped for your equipment at the lower left",
+        "Equip something in the lower-left equipment slot."
+      ],
+      [
+        "I I have a med pack this time",
+        "I have a medical pack this time."
+      ],
+      [
+        "you can put a med pack on",
+        "You can equip a medical pack."
+      ],
+      [
+        "actually I want the snowball",
+        "I want the snowball."
+      ],
+      [
+        "you have a first aid kit I do",
+        "Do you have a first-aid kit? Yes."
+      ]
+    ],
+    "103": [
+      [
+        "we don't have enough cash",
+        "We lack enough money."
+      ],
+      [
+        "I do need more money",
+        "I need more money."
+      ],
+      [
+        "this level's called a white Christmas right",
+        "This level is White Christmas, right?"
+      ],
+      [
+        "let me know when you're good beeps I'm good all right Advent Trix Assemble",
+        "Tell me when ready, Beeps. Ready; Adventrix, assemble."
+      ]
+    ],
+    "105": [
+      [
+        "don't put the mask on so it says here that this is an extraction who who put their mask on last time",
+        "Do not put on the mask. This is an extraction; who masked up last time?"
+      ],
+      [
+        "the bouncer started shooting you oh basically you ran past them they don't like that",
+        "The bouncer began shooting; you ran past, which they dislike."
+      ],
+      [
+        "there's no stealth here this is an extraction Mission we got to save someone",
+        "This mission has no stealth; we must rescue someone."
+      ]
+    ],
+    "107": [
+      [
+        "the pilot wake him up",
+        "Wake the pilot."
+      ],
+      [
+        "Santa go Santa go come on come on Santa go Santa you have a job to do",
+        "Keep going, Santa; you have a job to do."
+      ]
+    ],
+    "108": [
+      [
+        "is he drunk drunk yeah",
+        "Is he drunk? Yes."
+      ],
+      [
+        "it's probably because of a situation with Mrs claws",
+        "Probably because of a situation involving Mrs. Claus."
+      ],
+      [
+        "can he actually die guys",
+        "Can he die?"
+      ]
+    ],
+    "111": [
+      [
+        "here comes the bride",
+        "Here comes the bride."
+      ],
+      [
+        "a flare he's a Christmas present I think",
+        "A flare; I think he is a Christmas present."
+      ]
+    ],
+    "113": [
+      [
+        "two sentry guns or only one",
+        "Two sentry guns, or just one?"
+      ],
+      [
+        "I don't know what that is",
+        "I do not know what that is."
+      ],
+      [
+        "use the zip line oh there a zip line we can use a zip line",
+        "Use the zipline; there is one we can use."
+      ]
+    ],
+    "117": [
+      [
+        "I need Chistmas",
+        "I need Christmas."
+      ],
+      [
+        "come on let's go there's lot of them there a lot of them for some reason I don't really know I feel like they're not that necessary",
+        "Let us go. There are many enemies for some reason; I feel they are unnecessary."
+      ],
+      [
+        "they want Santa for themselves",
+        "They want Santa for themselves."
+      ]
+    ],
+    "118": [
+      [
+        "you can open presents",
+        "You can open presents."
+      ],
+      [
+        "he's on the ground wake up Santa wake up wake wake up people okay he's awake now I'm just going to take everyone down we're so stuck here",
+        "Santa is down; wake him. He is awake. I will take everyone down; we are stuck here."
+      ],
+      [
+        "I don't know if I have a med kit",
+        "I do not know whether I have a medical kit."
+      ],
+      [
+        "I I don't know how to use it",
+        "I do not know how to use it."
+      ]
+    ],
+    "120": [
+      [
+        "guess it's a sniper oh that hurts",
+        "I suppose that is a sniper; it hurts."
+      ],
+      [
+        "there so many people here in the mountain",
+        "There are many people in the mountains."
+      ]
+    ],
+    "121": [
+      [
+        "did you guys have your med kits we didn't bring a med kit",
+        "Do you have medical kits? We did not bring one."
+      ],
+      [
+        "do you guys want healing now",
+        "Do you need healing now?"
+      ],
+      [
+        "we're fine we're fine keep an eye on things",
+        "We are fine; watch things."
+      ]
+    ],
+    "122": [
+      [
+        "I guess we're Left Behind bye Santa",
+        "I suppose we were left behind; goodbye, Santa."
+      ],
+      [
+        "what about us",
+        "What about us?"
+      ],
+      [
+        "presents are big red boxes on the ground",
+        "Presents are large red boxes on the ground."
+      ],
+      [
+        "you got a signal again does anybody have a flare oh I think it might be automatic I got it okay it's working",
+        "Signal again. Does anyone have a flare? Perhaps it is automatic. I did it; it works."
+      ]
+    ],
+    "124": [
+      [
+        "shoot them please",
+        "Shoot them, please."
+      ],
+      [
+        "where are we going",
+        "Where are we going?"
+      ],
+      [
+        "we got to wait for the helicopter",
+        "We must wait for the helicopter."
+      ],
+      [
+        "I need to find you I need healing soon",
+        "I need to find you for healing soon."
+      ],
+      [
+        "I'm going to go towards you I'm coming I'm coming",
+        "I am coming toward you."
+      ]
+    ],
+    "125": [
+      [
+        "I'm going to put down",
+        "I am going to put it down."
+      ],
+      [
+        "not what I was expecting for a present",
+        "That was not the present I expected."
+      ]
+    ],
+    "126": [
+      [
+        "thank you that's not what I was expecting for Christmas present",
+        "Thank you; that was not the Christmas present I expected."
+      ],
+      [
+        "I have a present though",
+        "I have a present, though."
+      ],
+      [
+        "also there's more cocaine if anyone wants it there's another present",
+        "More cocaine is available, and another present."
+      ]
+    ],
+    "128": [
+      [
+        "let let me drop the cocaine first",
+        "Let me deposit the cocaine first."
+      ],
+      [
+        "I found another healing thing okay I'll come back",
+        "I found another healing item; I will return."
+      ],
+      [
+        "where's the helicopter",
+        "Where is the helicopter?"
+      ],
+      [
+        "I think I put it in the spot is that where I supposed to go",
+        "I think I put it in the correct place; is that where I should go?"
+      ],
+      [
+        "I really need more ammo",
+        "I need more ammunition."
+      ]
+    ],
+    "129": [
+      [
+        "how do we get out of custody",
+        "How do we leave custody?"
+      ],
+      [
+        "I'm back in jail",
+        "I am in jail again."
+      ],
+      [
+        "we might die but we're going to go get some more candy",
+        "We may die, but will get more candy."
+      ],
+      [
+        "where's the plane where's the plane is this the plane no this is not the plane back go back go we might keep signaling it",
+        "Where is the aircraft? That is not it; return. Perhaps keep signaling."
+      ]
+    ],
+    "130": [
+      [
+        "take jewelry take the jewelry",
+        "Take jewelry."
+      ],
+      [
+        "I'm going to head back now",
+        "I will head back now."
+      ],
+      [
+        "take your time take your time I'm nowhere near there",
+        "Take your time; I am far away."
+      ],
+      [
+        "I will try to save you I don't need saving I'm good I'm good in fact there's actually this uh Med kit right here don't worry about me just just signal to them",
+        "I will try saving you. I do not need saving; I have a medical kit here. Do not worry, just signal to them."
+      ]
+    ],
+    "132": [
+      [
+        "okay yeah I guess so there's a bomb there's like two more things oh you're back you're back you're backa there more presents I don't know if it's a good idea to look for it uh I think just need to wait for the helicopter I guess so",
+        "I suppose so. There is a bomb and about two more things. You returned. Are there more presents? I am unsure searching is wise; I think we just need to wait for the helicopter."
+      ],
+      [
+        "we found the helicopter though",
+        "We found the helicopter, though."
+      ],
+      [
+        "they ran away with our thing I see it's back it's back it's back all right I think this should be our our run we should probably head out now",
+        "They left with our item. It is back. I think this should be our run; we should probably leave now."
+      ]
+    ],
+    "133": [
+      [
+        "okay we're going going I just stand in the the thing I think can we go stand the square the square the square the square",
+        "We are going. I think I just stand in it. Can we go? Stand in the square."
+      ]
+    ],
+    "134": [
+      [
+        "I guess you're innocent in the end H totally",
+        "I suppose you are innocent in the end. Absolutely."
+      ],
+      [
+        "oh level 12 level 12",
+        "Level twelve."
+      ],
+      [
+        "got a shotgun we okay let's pick a mask is your card that one it's not going to be a mask I don't know what I got",
+        "I got a shotgun. Let us choose a mask. Is that your card? It will not be a mask; I do not know what I got."
+      ]
+    ],
+    "135": [
+      [
+        "what's it going to be",
+        "What will it be?"
+      ],
+      [
+        "that's useless so useless oh I got a skin oh it's a skin a pattern pattern I could have got something else",
+        "That is useless. I received a skin—a pattern. I could have received something else."
+      ],
+      [
+        "okay buy the shotgun then we'll buy it okay we good that was a fun a fun adventure huh",
+        "Buy the shotgun, then; we are ready. That was a fun adventure, was it not?"
+      ]
+    ],
+    "137": [
+      [
+        "use your spoon all right everyone good the skills a little bit oh yeah let's do the skills then oh yeah skills skills yeah yeah yeah",
+        "Use your spoon. Is everyone ready? Let us work on skills."
+      ],
+      [
+        "I can't I don't have enough skill points next time next time Saw Massacre all right let me know when you're ready I'm ready okay we're good ready",
+        "I lack enough skill points; next time. Saw Massacre. Tell me when you are ready. I am ready; we are ready."
+      ]
+    ],
+    "138": [
+      [
+        "I got to do a new contract okay uh I'm not sure which one is the stealth here",
+        "I need a new contract, but am unsure which is the stealth one."
+      ],
+      [
+        "icon is for stealth I see",
+        "That icon indicates stealth; understood."
+      ],
+      [
+        "this one's stealing Christmas is this one good diamond store",
+        "This is Stealing Christmas. Is this one good? Diamond Store."
+      ],
+      [
+        "we we saved Christmas now we can steal Christmas",
+        "We saved Christmas; now we can steal Christmas."
+      ]
+    ],
+    "139": [
+      [
+        "all right let's try this one",
+        "Let us try this one."
+      ],
+      [
+        "that's a saw that's not that's not a saw",
+        "That is a saw—no, it is not a saw."
+      ],
+      [
+        "I wanted like a a Resident Evil saw I wanted a saw this is like I'm going to cut up a piece of wood art project",
+        "I wanted a saw like those in Resident Evil. This looks like a tool for cutting wood for an art project."
+      ],
+      [
+        "what's a compensator",
+        "What is a compensator?"
+      ],
+      [
+        "it's going to compensate",
+        "It will compensate."
+      ],
+      [
+        "what am I compensating for",
+        "What am I compensating for?"
+      ]
+    ],
+    "142": [
+      [
+        "I I think that's your concealment right what you have a 63 concealment rate that means that you're going to be very noticeable no I don't think so",
+        "I think that is your concealment rating. You have sixty-three, so you will be very noticeable. I do not think so."
+      ],
+      [
+        "I think you want it lower below below 30 is good oh well are you guys good good luck are we good I don't know how to change anything I don't know it's fine we can just wing it",
+        "I think lower is better; below thirty is good. Are you ready? Good luck. Are we ready? I do not know how to change anything. It is fine; we can improvise."
+      ]
+    ],
+    "143": [
+      [
+        "we can just wing it",
+        "We can improvise."
+      ],
+      [
+        "we got to get a drill first so remember that",
+        "Remember, we need a drill first."
+      ],
+      [
+        "I know where to get it remember cash is King",
+        "I know where to get it. Remember, cash is king."
+      ]
+    ],
+    "144": [
+      [
+        "going to the bank time to go to the bank",
+        "We are going to the bank; it is time to go."
+      ],
+      [
+        "have regular banking to be done",
+        "We have ordinary banking to do."
+      ]
+    ],
+    "149": [
+      [
+        "I want to get a civilian",
+        "I want to get a civilian."
+      ],
+      [
+        "I want a hostage",
+        "I want a hostage."
+      ],
+      [
+        "sit down sit down here sit down sit down",
+        "Sit down here."
+      ],
+      [
+        "sit down right here yeah there you go",
+        "Sit down here; there you are."
+      ]
+    ],
+    "150": [
+      [
+        "so we have some zip ties you can use it on the hostage I don't know if it really does much but the moment you start shooting I don't think it matters anymore",
+        "We have zip ties for the hostage. I am unsure how useful they are; I think they stop mattering once shooting starts."
+      ],
+      [
+        "hey come here come here hostage come here over here",
+        "Hostage, come here."
+      ],
+      [
+        "please listen to us cuz we're scary you you should probably come here I want you over here hostage",
+        "Please listen to us because we are frightening. You should probably come here; I want you here, hostage."
+      ]
+    ],
+    "151": [
+      [
+        "I don't know how to move properly",
+        "I do not know how to move properly."
+      ],
+      [
+        "why are you shooting I got a hostage sit down sit down sit down sit down sit down there we go there we go",
+        "Why are you shooting? I have a hostage. Sit down; there we are."
+      ],
+      [
+        "we got the hostage you can't shoot this",
+        "We have the hostage; you cannot shoot this."
+      ]
+    ],
+    "152": [
+      [
+        "Does placement matter I'm just going to put over here or something come over here come over here",
+        "Does placement matter? I will put it somewhere here. Come here."
+      ],
+      [
+        "put a hostage over here in the window",
+        "Put a hostage here at the window."
+      ],
+      [
+        "hello hostage hostage come here",
+        "Hostage, come here."
+      ],
+      [
+        "got the hostages out of the way now",
+        "The hostages are out of the way now."
+      ]
+    ],
+    "153": [
+      [
+        "they don't work as human Shields they're useless then no offense",
+        "They do not work as human shields, so they are useless. No offense."
+      ]
+    ],
+    "154": [
+      [
+        "so apparently hostages if you get uh taken by the police we can exchange them",
+        "Apparently, we can exchange hostages if police take us into custody."
+      ]
+    ],
+    "155": [
+      [
+        "hostages useless I think so did you kill them no no they're still alive I'm a hostage too help me",
+        "Are hostages useless? I think so. Did you kill them? No, they are alive. I am a hostage too; help me."
+      ],
+      [
+        "I think I told him to surrender right there and kill them that was my bad my bad",
+        "I think I told him to surrender there and killed them. That was my mistake."
+      ]
+    ],
+    "156": [
+      [
+        "you can't shoot me DRS jam",
+        "You cannot shoot me. The drill is jammed."
+      ],
+      [
+        "it's okay I got it I got it okay someone give me direction to Planks that could be useful",
+        "It is fine; I have it. Can someone direct me to boards? They could help."
+      ],
+      [
+        "the more hostages you have the less aggressive the police will be",
+        "More hostages make police less aggressive."
+      ]
+    ],
+    "158": [
+      [
+        "I hope they're all right",
+        "I hope they are all right."
+      ],
+      [
+        "comically large spoon is doing work that's good oh that's good",
+        "The comically large spoon is effective; good."
+      ],
+      [
+        "above he's going to jump on in somebody is above oh oh they're already they're already here",
+        "He is above and will jump in. Someone is above; they are already here."
+      ]
+    ],
+    "159": [
+      [
+        "we should open this one now oh we can place multiple drills that's nice",
+        "We should open this one now. We can place several drills; good."
+      ]
+    ],
+    "160": [
+      [
+        "yeah yeah there's another drill over oh nice oh there's money in here",
+        "There is another drill over there. There is money here."
+      ],
+      [
+        "what I wanted to know though are more plants going to spawn",
+        "I wanted to know whether more boards will appear."
+      ],
+      [
+        "54 seconds before this one yeah should be more outside",
+        "Fifty-four seconds until this one. There should be more outside."
+      ],
+      [
+        "okay let's go cuddle with the hostages",
+        "Let us cuddle with the hostages."
+      ],
+      [
+        "stop stop",
+        "Stop."
+      ]
+    ],
+    "161": [
+      [
+        "20 seconds there's also another um Vault way back there we have bombs don't I don't know if we use them then the hostage might get H the saw is still going it's all good or the drill",
+        "Twenty seconds. There is another vault farther back. We have bombs, do we not? I am unsure; using them might hurt the hostage. The saw is still running; all is well—or the drill."
+      ]
+    ],
+    "162": [
+      [
+        "yeah take the money take the money take the money take the money it's open it's open",
+        "Take the money; it is open."
+      ],
+      [
+        "I'll put in the the van let's go to the van across the street I think we have to make multiple trips",
+        "I will put it in the van. Let us go to the van across the street. I think we need several trips."
+      ],
+      [
+        "I think so too I also have some stuff still uh in the work we're outside now we're looking for the van it's around the corner right which corner was it again somewhere if you jump it's the best it's over this way oh we found it we found it",
+        "I agree. I also have something still in progress. We are outside looking for the van. It is around the corner, correct? Which corner? Somewhere; jumping is best. It is this way; we found it."
+      ]
+    ],
+    "164": [
+      [
+        "there's the stairs over here when you meet me again can you drop your stuff your med kit okay thank you",
+        "The stairs are here. When you meet me again, can you put down your medical kit? Thank you."
+      ]
+    ],
+    "165": [
+      [
+        "it's being handled oh gosh that's a lot of fire I'm just going to continue jumping around out the window out the window okay there we go nice nice next time you can go out the window",
+        "It is being handled. There is much gunfire; I will keep jumping around. Out the window; there we are. Next time, you can use the window."
+      ]
+    ],
+    "166": [
+      [
+        "sure I'm coming to you all right we took to long I got more money too uh drop it down just one maybe just one I don't want to risk anything thank you I don't know how much is heals what is like 30 take the longest complicated way around oh why is it climbing that's unnecessary",
+        "I am coming to you. We took too long. I have more money too. Put down one, perhaps just one; I do not want to risk anything. Thank you. I do not know how much it heals; about thirty? Take the longest, complicated route. Why is it climbing? That is unnecessary."
+      ],
+      [
+        "Oh I thought I could place",
+        "I thought I could place it."
+      ],
+      [
+        "oh it's all of it okay so I should wait next time all right",
+        "It is all of it; I should wait next time."
+      ]
+    ],
+    "168": [
+      [
+        "there's money there's still more money yeah oh there's more okay yeah you just have to look for it in the big room yeah but there's a lot more there there's still a lot more",
+        "There is still much more money; look in the large room."
+      ],
+      [
+        "I'm going to go drop my money uh where's the van again they make lobing the bank pretty easy robing bank is so easy yeah it's so easy we should just Bank all the time",
+        "I will deposit my money. Where is the van? Robbing the bank is easy; we should do it all the time."
+      ]
+    ],
+    "169": [
+      [
+        "why why the window why is this the way is that the way this the way yeah and then around the corner",
+        "Why the window? Is this the way? Yes, then around the corner."
+      ],
+      [
+        "there might be some more money",
+        "There might be more money."
+      ],
+      [
+        "what the heck are you doing there W you're dead now look look at the window oh what's this button what's that button oh what's this the cameras",
+        "What are you doing there? You are dead now. Look at the window. What is this button? The cameras."
+      ],
+      [
+        "is it just cameras in here it's just cameras Oh okay we're done then it's clean",
+        "Are there only cameras here? Yes; we are finished. It is clear."
+      ]
+    ],
+    "172": [
+      [
+        "where did you come from",
+        "Where did you come from?"
+      ],
+      [
+        "how many more seconds oh he has a big shield down it's open $100 okay let's go let's go let's go it's $100",
+        "How many seconds remain? He has a large shield. Down; it is open. One hundred dollars; let us go."
+      ],
+      [
+        "okay we found the short the shortest route let's take them down",
+        "We found the shortest route; let us take them down."
+      ],
+      [
+        "you just wait in the area invisible area the square the square the square I'm in the Square no money awarded what what why did we not Escape did we not Escape Escape though",
+        "Wait in the invisible area, the square. I am in the square. No money awarded? Why? Did we not escape?"
+      ],
+      [
+        "take the money out of the car for us",
+        "Take the money out of the car for us."
+      ],
+      [
+        "why do we get money it's not over",
+        "Why do we get money? It is not over."
+      ],
+      [
+        "we're not we're not done a part two there's a part two",
+        "We are not finished; there is a second part."
+      ]
+    ],
+    "173": [
+      [
+        "wait is this the driving section don't you have to drive here",
+        "Is this the driving section? Do you not have to drive here?"
+      ],
+      [
+        "well I think we know who should be driving huh me yeah yeah me me totally can't remember the lethal company driving yeah me all right you guys ready we can all have pause on the wheel then we'll figure it out we'll figure it out",
+        "I think we know who should drive, correct? Me; of course. I cannot remember the Lethal Company driving. Are you ready? We can all put our paws on the wheel and work it out."
+      ]
+    ],
+    "174": [
+      [
+        "I don't know what we're going to do here okay no we got to shake them off",
+        "I do not know what we will do here. We need to shake them off."
+      ],
+      [
+        "ready ready let's go what are we all doing though",
+        "Ready? Let us go. What are we all doing?"
+      ],
+      [
+        "who's driving they're on us like a [ __ ] sticker you need to secure the bags grab the bags and run",
+        "Who is driving? They are following us persistently. Secure the bags; take them and run."
+      ],
+      [
+        "oh no oh my gosh this is not driving where do we run oh no run backwards where do we run exactly where's the gun we don't need this right now to switch your weapon no we have we have to stay alive until a vehicle arrives",
+        "This is not driving. Where do we run? Run back. Where exactly? Where is the gun? We do not need this now; switch weapons. We need to survive until a vehicle arrives."
+      ]
+    ],
+    "175": [
+      [
+        "stay alive stay alive",
+        "Stay alive."
+      ],
+      [
+        "I don't know where they're going to spot I'm going to wait",
+        "I do not know where they will appear; I will wait."
+      ],
+      [
+        "I'm going to grab another one they're taking our money no our money our money oh oh that's I'm going to hide all the the bags behind the truck",
+        "I will take another one. They are taking our money. I will hide all the bags behind the truck."
+      ],
+      [
+        "grab the bag gra the bag that's not the bag don't take it",
+        "Take the bag. That is not the bag; do not take it."
+      ],
+      [
+        "I'll make sure that no one takes the money there go go dogs guard Money Guard we can also just hide here I just hope that this truck never get destroyed",
+        "I will ensure nobody takes the money. Dogs, guard the money. We can hide here; I hope this truck is never destroyed."
+      ]
+    ],
+    "176": [
+      [
+        "oh there's a bomb there's a bomb there's a bomb okay we have to wa for 2 minutes 2 minutes all right 2 minutes is no time survive 2 minutes so we have this protecting us and this uh space",
+        "There is a bomb. We need to wait two minutes, which is little time. Survive two minutes; we have this protection and space."
+      ],
+      [
+        "we need to keep counting six bags we have six bags total",
+        "We must keep count; there are six bags in total."
+      ]
+    ],
+    "177": [
+      [
+        "wait how many bags I don't know eight bags",
+        "How many bags? I do not know; eight?"
+      ],
+      [
+        "yeah it'll be fine say the girl who got down okay that's I I was subject to fall damage okay that that doesn't count is damage fall damage there's four on the ground now do you have one on your back NOP I put on on the ground would it be safer to carry on your back no it's possible but I don't want to be like uh have my balance off",
+        "It will be fine, says the girl who was downed. That was fall damage, so it does not count. Four are on the ground now. Are you carrying one? No, I put it down. Would carrying it be safer? It is possible, but I do not want it to affect my balance."
+      ],
+      [
+        "wait wait wait we're escaping by van or helicopter cuz we saw a helicopter just now the helicopter might try to shoot us actually",
+        "Are we escaping by van or helicopter? We just saw a helicopter; it might try to shoot us."
+      ],
+      [
+        "oh it might be a police helicopter it might be a bad guy we want to move maybe up here",
+        "It might be a police helicopter or an enemy. Perhaps we should move up here."
+      ]
+    ],
+    "178": [
+      [
+        "okay if there's going to be a helicopter we might want to move locations it's a van okay it's a van it's not the helicopter",
+        "If a helicopter is coming, we might want to move. It is a van, rather than the helicopter."
+      ],
+      [
+        "where's the van I don't know it's 30 seconds 30 seconds",
+        "Where is the van? I do not know; thirty seconds."
+      ],
+      [
+        "near the park we're near the park okay yeah we're near the park",
+        "Near the park; we are near the park."
+      ],
+      [
+        "well no it should be spawning around here take our money did they take our money no no I don't think it",
+        "It should appear around here. Did they take our money? I do not think so."
+      ],
+      [
+        "I can't see anything there there's still three bags here I took one okay okay so three bags we just need to find uh the bands on the other side okay I'm going to stay here with the money you guys can go you guys can go I will go I will go somebody stay with we're staying we're staying with the money",
+        "I cannot see anything there. Three bags remain here; I took one. We need to find the van; it is on the other side. I will guard the money while you go. I will go. Someone stay; we are staying with the money."
+      ]
+    ],
+    "180": [
+      [
+        "I'm scared I'll protect you we have 2 and 1/2 minutes okay let's let's walk back let's walk back we only have 2 and 1/2 minutes it's okay we got it okay okay uh should we go now just keep running and gun yes you can go oh wait we still have more money here money okay we're going to pick it up I'm going okay we have 2 minutes until the point of no",
+        "I am scared. I will protect you. We have two and a half minutes; let us walk back. We can do it. Should we go now? Keep running and shooting; you can go. Wait, more money is here. We will collect it. I am going; two minutes remain until the point of no return."
+      ]
+    ],
+    "181": [
+      [
+        "okay I'm going to jop off the money you go you go you go you go try that way that way",
+        "I will deposit the money. Go; try that way."
+      ],
+      [
+        "are you going to stay here bi boo yeah I'm going to stay here cuz there's one more bag okay okay okay are we going for the bag who's going for the bag yeah go go go I need I need one person to come back going both coming back for both coming back",
+        "Will you stay here, Biboo? Yes, because one bag remains. Are we retrieving it? Who is going? I need one person to return. We are both returning."
+      ],
+      [
+        "what I'm going this way what no go down don't take a shortcut no I'm going this way",
+        "I am going this way. No, go down; do not take a shortcut. I am going this way."
+      ],
+      [
+        "it's nice we're going let go let's go okay we have 1 minute 1 minute just run just run run and run we're running and jumping we're running and jumping no one will take our money",
+        "Good; let us go. We have one minute. Run; we are running and jumping. Nobody will take our money."
+      ]
+    ],
+    "183": [
+      [
+        "great great stealth Mission everybody yeah Ste yes very good we weren't we weren't very stealthy well I think we were Ste stey if everyone dead no one sees us so there you go yeah yeah guys I don't care about patterns I want guns",
+        "Good stealth mission, everyone. We were not very stealthy. I think we were; if everyone is dead, nobody sees us. I do not care about patterns; I want guns."
+      ]
+    ],
+    "184": [
+      [
+        "the tank compensator oh what's that okay all right should we do one more or yeah let's do let's do should we try actually let's do our inventory stuff first let make sure everything's good",
+        "The tank compensator; what is that? Should we do another mission? First, let us check our inventory and ensure everything is ready."
+      ],
+      [
+        "is it getting more expensive shotgun just more expensive why",
+        "Is it becoming more expensive? Why is the shotgun more expensive?"
+      ],
+      [
+        "fix drills faster suppressors buy a new weapon oh you can Mark enemies",
+        "Repair drills faster; suppressors. Buy a new weapon; you can mark enemies."
+      ],
+      [
+        "see look it it's cheaper but I still don't have enough oh can we sell something a that's not what I wanted",
+        "It is cheaper, but I still lack enough money. Can we sell something? That is not what I wanted."
+      ],
+      [
+        "oh civilians are intimidated by the noise you make",
+        "Civilians are intimidated by the noise you make."
+      ],
+      [
+        "sell weapon it's at the bottom there",
+        "Sell weapon; it is at the bottom."
+      ],
+      [
+        "that's a lot of money it might just be just enough all the snipers are DLC dang it I know dang it is the revolver good it's just enough we have $500 left just enough revolvers are very based let's sell it cost 42,000",
+        "That is much money; it might be just enough. All the sniper rifles require DLC. How frustrating; I know. Is the revolver good? It is just enough; we have five hundred dollars left. Revolvers are excellent. Let us sell it; it costs forty-two thousand."
+      ],
+      [
+        "forget about it forget about it",
+        "Forget about it."
+      ]
+    ],
+    "185": [
+      [
+        "we got to make more money",
+        "We need to make more money."
+      ],
+      [
+        "I become a pretty princess again less ammo I I usually use the other one anyway all right I'm going to try finding another stealth Mission",
+        "I become a pretty princess again. Less ammunition; I usually use the other one anyway. I will look for another stealth mission."
+      ]
+    ],
+    "186": [
+      [
+        "this looks like it might be stressful",
+        "This looks potentially stressful."
+      ],
+      [
+        "we'll be fine",
+        "We will be fine."
+      ],
+      [
+        "so you want something with the the blue icon",
+        "You want something with the blue icon."
+      ],
+      [
+        "I'll try this one then it's normal mode now",
+        "I will try this one; it is normal difficulty now."
+      ],
+      [
+        "we'll try we'll try driving okay everyone good",
+        "We will try driving. Is everyone ready?"
+      ],
+      [
+        "take your time take your time this one might actually involve driving",
+        "Take your time; this one might involve driving."
+      ]
+    ],
+    "187": [
+      [
+        "is stealth even necessary here",
+        "Is stealth necessary here?"
+      ],
+      [
+        "we'll figure it out",
+        "We will work it out."
+      ],
+      [
+        "oh this one oh we're so screwed okay oh I I remember this one we're ready",
+        "This mission; we are in trouble. I remember it; we are ready."
+      ],
+      [
+        "you can do your load out from here",
+        "You can change your loadout here."
+      ]
+    ],
+    "188": [
+      [
+        "are you sure you can still do your load out",
+        "Are you sure you can still change your loadout?"
+      ],
+      [
+        "look it's your load out right there take your time go ahead go look at it's a different it a different thing but that's okay that's okay all right all right I see two people are ready to kill things",
+        "Your loadout is there; take your time and look. It is different, but that is fine. I see two people ready to kill things."
+      ],
+      [
+        "this one's um a little hard this is stealth only apparently",
+        "This one is somewhat difficult; apparently, it permits only stealth."
+      ]
+    ],
+    "190": [
+      [
+        "let's go shopping hello shopping hello shopping I'm here to buy a fancy car of course four of us",
+        "Let us shop. Hello, I am here to buy a fancy car; all four of us are."
+      ],
+      [
+        "I don't know I don't know what you did I don't know what you did why you have your gun out",
+        "I do not know what you did. Why is your gun out?"
+      ],
+      [
+        "well we also didn't pick up the explosives by the way well isn't it's failed already there's a point of no return what the heck is that",
+        "We also did not collect the explosives. Has it failed already? There is a point of no return; what is that?"
+      ]
+    ],
+    "191": [
+      [
+        "we should pick the lock we should pick the lock oh we get get the C4 I thought we're just stealing a car car keys just break it open how we get C4 just get in the car how do you get car keys guys",
+        "We should pick the lock and get C4. I thought we were just stealing a car. Car keys; break it open. How do we get C4? Get in the car. How do we get car keys?"
+      ],
+      [
+        "how do I take a hostage uh hit hit them and then press F open the door",
+        "How do I take a hostage? Hit them, then press F. Open the door."
+      ],
+      [
+        "we need we need find around we need to guy we need to find a guy in a black suit he has the key card so black suit guy look for him that's assuming he didn't run away",
+        "We need to find a man in a black suit with the keycard. Look for him, assuming he has not run away."
+      ]
+    ],
+    "192": [
+      [
+        "okay we'll try to find the manager's office too",
+        "We will try to find the manager’s office too."
+      ],
+      [
+        "well I have the key card",
+        "I have the keycard."
+      ],
+      [
+        "is there a car key in here we got to hack the computer",
+        "Is there a car key here? We need to hack the computer."
+      ],
+      [
+        "oh we got to hack all the computers okay I'm ha hacking into the system overriding typing typing typing",
+        "We need to hack all the computers. I am hacking into the system, overriding, and typing."
+      ]
+    ],
+    "193": [
+      [
+        "we saw have to wait 56 seconds",
+        "We have to wait fifty-six seconds."
+      ],
+      [
+        "there's a chance that this isn't the computer cuz he said he hopes this is the right computer there might be a specific computer that they're going to mention that is the actual one that we had to hack maybe like one with a a sticky note I I'll keep an eye on this just keep looking out for list to the dialogue the dialogue actually tells us what to do",
+        "This might not be the computer, because he only said he hoped it was correct. They might mention a specific computer we must hack, perhaps one with a sticky note. I will watch this; keep looking. Listen to the dialogue, which tells us what to do."
+      ]
+    ],
+    "194": [
+      [
+        "I think we found the bombs I think we found the bombs what required no that's where you put the bombs that's where you put the bombs yeah where's the bombs has the bombs you're still alive okay you're good",
+        "I think we found the bombs. What is required? No, that is where the bombs go. Where are they? Who has them? You are alive; you are fine."
+      ],
+      [
+        "someone who is shooting things not me",
+        "Someone is shooting things; not me."
+      ],
+      [
+        "are you going to be a hostage of mine there must be some sort of hint on what the right computer is",
+        "Will you be my hostage? There must be a clue identifying the right computer."
+      ]
+    ],
+    "195": [
+      [
+        "the name is on the white board the white board the white board",
+        "The name is on the whiteboard."
+      ],
+      [
+        "is it is it based on the name who who there's a white board look for a name in there",
+        "Is it based on the name? Whose name? There is a whiteboard; look for a name there."
+      ],
+      [
+        "whose name is it come on come on yeah there there there's a bunch of names",
+        "Whose name is it? Come on; there are several names."
+      ],
+      [
+        "there's a whiteboard we got to look for that might have the name this one the police are on their way so you better get here fast",
+        "We need to find a whiteboard that might have the name. This one; police are coming, so get here quickly."
+      ]
+    ],
+    "196": [
+      [
+        "manager room it's in the manager's office okay is a whiteboard in here",
+        "The manager’s room; it is in the manager’s office. Is there a whiteboard here?"
+      ],
+      [
+        "oh Cynthia Lopez okay Cynthia Lopez okay we got to remember this for next time we have like 20 seconds to accomplish this",
+        "Cynthia Lopez; remember this for next time. We have about twenty seconds to do this."
+      ]
+    ],
+    "197": [
+      [
+        "it's not up here it's a little bit too late for usoh this is a harsh Mission 4 3 2 1 we know what to do now",
+        "It is not up here; it is too late for us. This is a harsh mission. Four, three, two, one; we know what to do now."
+      ]
+    ],
+    "200": [
+      [
+        "your concealment is a little high in case you want to consider",
+        "Your concealment rating is somewhat high; consider that."
+      ],
+      [
+        "we're not much better I don't I don't know if it matters",
+        "We are not much better. I do not know whether it matters."
+      ],
+      [
+        "how do I unequip um and load out you might just have to change it to something else I guess it's okay",
+        "How do I unequip it? You might need to replace it in loadout. I suppose that is fine."
+      ],
+      [
+        "change the shotgun okay um the shotgun is suspicious we're still not that good",
+        "Change the shotgun; it is suspicious. We are still not doing very well."
+      ],
+      [
+        "we're we're 35 oh okay",
+        "We are at thirty-five; understood."
+      ]
+    ],
+    "201": [
+      [
+        "a completely self mission so we don't need it might be spoon okay hold on the spoon there we go",
+        "An entirely stealth mission, so we do not need it. It might be the spoon. Wait; the spoon. There we are."
+      ],
+      [
+        "spoon it's the spoon the spoon makes me obvious",
+        "It is the spoon; it makes me conspicuous."
+      ]
+    ],
+    "205": [
+      [
+        "all right we're here a shop for a car",
+        "We are here to shop for a car."
+      ],
+      [
+        "don't don't look at the cops",
+        "Do not look at the police."
+      ],
+      [
+        "don't run no running no running",
+        "Do not run."
+      ]
+    ],
+    "206": [
+      [
+        "what's the what's the white board what's the white board that you saw",
+        "What was on the whiteboard you saw?"
+      ],
+      [
+        "yeah let's restart I didn't do anything",
+        "Let us restart; I did nothing."
+      ],
+      [
+        "don't walk too close to the guard like make sure you have some like distance away from the guard",
+        "Do not walk too close to the guard; keep some distance."
+      ],
+      [
+        "I went to the front desk lady and then it put on my mask you might have you have bumped a guard on the way I did not I did not talking to Christine",
+        "I approached the receptionist, then my mask went on. Perhaps you bumped a guard on the way. I did not; I was talking to Christine."
+      ]
+    ],
+    "209": [
+      [
+        "I can't jump like if you want to jump to the back I think let's go inside okay inside we go let's walk so don't stand in front of them for too long",
+        "I cannot jump; if you want to jump to the back, I think—let us go inside. Walk, and do not stand in front of them too long."
+      ],
+      [
+        "look for a storage",
+        "Look for storage."
+      ],
+      [
+        "okay let's go shopping",
+        "Let us shop."
+      ],
+      [
+        "they're curious they're curious the moment they see the blue the blue thing just don't go there don't run in the in the thing so don't press shift",
+        "They are curious. When you see the blue indicator, avoid that area. Do not run; do not press Shift."
+      ]
+    ],
+    "210": [
+      [
+        "civilians can't see you I assume we're banned from the office right over there there's a there's an exit but it's not a red exit it's a green exit they suspect you when they see you can you go upstairs if they see us they're going to get mad at us",
+        "Civilians cannot see you. I assume the office is restricted. There is an exit there, green rather than red. They become suspicious when they see you. Can you go upstairs? They will be angry if they see us."
+      ],
+      [
+        "you can go in the office okay oh cars why do they have so many doors open places we shouldn't be going",
+        "You can enter the office. Why are so many doors open to places we should not enter?"
+      ],
+      [
+        "I do not like their question marks",
+        "I dislike their question marks."
+      ]
+    ],
+    "213": [
+      [
+        "I think I might try to go towards the the exit instead if possible am I supposed to put my mask on oh no no no no unless you're about to leave uh casing mode",
+        "I might try to head toward the exit instead, if possible. Should I put on my mask? No, unless you are about to leave casing mode."
+      ],
+      [
+        "once you put on the mask you can't take it off",
+        "Once you put on the mask, you cannot remove it."
+      ]
+    ],
+    "214": [
+      [
+        "can we is there a way for us to get upstairs hey can I go upstairs oh staff only I think it's staff only suspicious action",
+        "Is there a way upstairs? Can I go upstairs? Staff only; I think it is staff-only. Suspicious action."
+      ],
+      [
+        "there's anyone have access to the the board upstairs I'm near some computers I might be able to hack that one",
+        "Does anyone have access to the board upstairs? I am near computers and might be able to hack that one."
+      ],
+      [
+        "would I hack in piece or would that set them off no I can't do that I can't do",
+        "Could I hack undisturbed, or would that alert them? No, I cannot do that."
+      ],
+      [
+        "really just for scouting so it's useless",
+        "It is only for scouting, so it is useless."
+      ]
+    ],
+    "215": [
+      [
+        "I think we might have to sneak away like um someone does have to put on a mask they're suspicious go to the back oh they're very suspicious oh no they're very suspicious",
+        "I think we might need to sneak away; someone must put on a mask. They are suspicious; go to the back. They are very suspicious."
+      ],
+      [
+        "walk away okay okay",
+        "Walk away."
+      ]
+    ],
+    "216": [
+      [
+        "is there a way to go up the stairs",
+        "Is there a way upstairs?"
+      ],
+      [
+        "this green car",
+        "This green car."
+      ],
+      [
+        "I I think I can put in a key here",
+        "I think I can insert a key here."
+      ],
+      [
+        "do you have your mask on I have put on my mask yeah okay cool there's also apparently camera so I don't think I could do much",
+        "Do you have your mask on? I have put it on. Apparently, there is a camera too, so I do not think I can do much."
+      ]
+    ],
+    "217": [
+      [
+        "there are the cars four cars at the front of the store and I think we can get in them oh there's a guard out here",
+        "There are four cars at the front of the store; I think we can enter them. There is a guard here."
+      ],
+      [
+        "a scout for me I don't want to go out with my mask okay hold on hold on I'm scouting I'm scouting uh okay there's stairs we can go we can go it's safe it's safe let's go which stairs where stairs",
+        "Scout for me; I do not want to go out masked. Wait, I am scouting. There are stairs; we can go safely. Which stairs?"
+      ],
+      [
+        "where's the stairs",
+        "Where are the stairs?"
+      ],
+      [
+        "there's a spiral staircase right here all right you have your masks on I have a mask don't put your mask on but don't put your mask on yet",
+        "There is a spiral staircase here. Do you have your masks on? I have a mask. Do not put yours on yet."
+      ]
+    ],
+    "219": [
+      [
+        "okay got it all right I'm about to pick this lock got it what what are you doing you're just looking I'm exploring I think there's a ladder down here",
+        "Understood; I am about to pick this lock. What are you doing? Looking? I am exploring; I think there is a ladder down here."
+      ],
+      [
+        "is there a way to take down a guard without like silencing like stealth stealth kill a guard",
+        "Is there a way to take down a guard silently, to kill one stealthily?"
+      ],
+      [
+        "okay Scout for me but be careful",
+        "Scout for me, but be careful."
+      ],
+      [
+        "where should I go then stand here yeah you hit them with e but you have to be quick and answer or pager",
+        "Where should I go? Stand here. Hit them with E, but be quick and answer the pager."
+      ]
+    ],
+    "220": [
+      [
+        "should they go through the regular door there people there guards there guards watch out watch out watch out upstair up go upstairs go upstairs",
+        "Should they use the regular door? People are there; guards. Watch out and go upstairs."
+      ],
+      [
+        "watch out for the windows yeah there's a guy over there there's there's some more doors down here as well that you can unlock",
+        "Watch the windows; someone is there. There are more doors down here you can unlock."
+      ],
+      [
+        "are the people that are not mask able to go out there safely do you want me to go through the main door hold on let me let me see if it'll question mark me real fast",
+        "Can unmasked people go there safely? Should I use the main door? Wait; let me check whether I trigger a question mark."
+      ],
+      [
+        "you can probably punch them just stay put",
+        "You can probably punch them. Stay where you are."
+      ]
+    ]
+  }
+}

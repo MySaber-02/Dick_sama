@@ -1,0 +1,37 @@
+{
+  "video_id": "1xhMDws0iUg",
+  "language_code": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "text": "1 2 3 4",
+      "start": 0.0,
+      "duration": 4.584
+    },
+    {
+      "text": ">> Steal a little spotlight.",
+      "start": 2.08,
+      "duration": 2.72
+    },
+    {
+      "text": ">> [music]",
+      "start": 4.584,
+      "duration": 2.856
+    },
+    {
+      "text": ">> I want to see you shine bright.",
+      "start": 4.8,
+      "duration": 5.36
+    },
+    {
+      "text": "Now you're ready for the big time.",
+      "start": 7.44,
+      "duration": 7.16
+    },
+    {
+      "text": "Raise up your voice, it's all right.",
+      "start": 10.16,
+      "duration": 4.44
+    }
+  ]
+}

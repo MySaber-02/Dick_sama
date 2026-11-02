@@ -1,0 +1,14 @@
+{
+  "file": "LpeIJ5UC9h0",
+  "status": "completed",
+  "read_through_source_line": 2136,
+  "paired_through_exact_source_anchor": "thank you please visit us again",
+  "partial_rows": 1170,
+  "requirements": "逐句人工继续；完成全文后复核 ASR 修正、语义和覆盖，再调用统一归档工具。当前 partial 不属于正式 clean。",
+  "source_sha256": "6d477de891df4b43a6d1d62f0810058bcc82f20892542d319b94d457653f53a6",
+  "requested_scope": "第18—22份，共5个文件；全部完成前不得称为完成。",
+  "records": 1305,
+  "pending_fragments": 166,
+  "remaining_requested_files": [],
+  "formal_records": 1305
+}

@@ -1,0 +1,15 @@
+{
+  "file": "L4ACXBql3No",
+  "status": "completed",
+  "read_through_source_line": 2116,
+  "paired_through_exact_source_anchor": "You see you see",
+  "partial_rows": 1425,
+  "requested_scope": "第19—22份仍需完成，不得计入全部完成。",
+  "source_sha256": "ea5c5b214f9000fe2a609f936c8e3a582b464679b94b50c41f7b520905a858d7",
+  "previous_goal_turn_classification": "progress",
+  "draft_rows": 1703,
+  "records": 1633,
+  "pending_fragments": 68,
+  "remaining_requested_files": [],
+  "formal_records": 1633
+}

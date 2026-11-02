@@ -1,0 +1,2192 @@
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+for
+[Music]
+[Music]
+novite can you hear
+me are you guys
+ready are you not
+right oh Good Golly G whz you can hear
+oh nose oh golly G whz all right I
+suppose it is time to trick or treat
+hey it's been a
+while you've arrived just in time for
+the most spirited night of the year here
+in
+Inkwell H the leaves have turned the air
+is crisp and soon enough the streets
+will fill with ghouls tonight you might
+just find more than candy waiting the
+Shadows if you dare to look now come on
+let's go trick-or-treating
+[Music]
+trick or
+treat hey were you even dressed up as
+huh did you even dress up at
+all oh whatever give me
+aie you want to see my
+costume fine here I'll even do a little
+Teo
+that's right you better be looking
+respectfully for the pumpkin
+Queen it's a it's a pretty simple
+costume but I think it gets the job done
+you know it gets the meaning across that
+if you don't give me candy your pumpkin
+meat in fact what I'm wearing is the
+corpse of my last victim now come on
+give me upie it's time to go
+trick-or-treating
+[Music]
+oh good
+God let me show off my costume first
+first
+off happy happy not so weed yeah let me
+let me show off a little bit I did this
+in unity actually I don't believe in
+blender they killed my
+family okay so first off you have to
+look a little respectfully here okay so
+uh you got my little Devil's pumpkin
+pumpkin headband for
+Stuff uh it doesn't have jiggle physics
+though because I think all the jiggle
+physics went somewhere else in my body
+and then if you want to look
+respectfully
+behind you
+this as I said it's super simple now um
+I am I'm going to let you know now that
+I am testing out this software this
+motion tracking device called mupi so if
+you want to mow down so your your copies
+whatever the heck that means oh crap I
+think my mupy just did
+something um well that's what I'm
+testing out today so if I seem scuffed
+honestly um this entire thing that I'm
+doing is probably scuffed now let's
+actually go in for the kill so let me be
+right back and show you what I've been
+working on for inkwell's first Halloween
+Town
+[Music]
+yeah oh my my my my key doesn't work
+okay I hold hold up over here
+[Music]
+all right now it's time for me to sit
+the freak down I have been I've actually
+been standing for 45
+minutes oh finally the Sweet Sweet
+Success of this thing called a
+chair all
+[Music]
+right it's time it's time oh good gosh
+you know how how strange just wants to
+set up okay
+okay I'm a little nervous to be honest I
+have the right to be I have the right to
+remain silent and nervous
+[Music]
+okay don't
+don't a curtain
+don't oh crap I forgot about that hold
+up don't worry about that don't
+worry okay so welcome to the town you
+don't worry about that thing H by the
+way just just don't worry about that
+just don't worry I am worrying so much
+right
+now I am I'm constantly full of worries
+in fact let us simplify this I will do
+this thing called boop boop and then
+Boop this thing called disappearing it's
+a disappearing act but I will be there
+soon oh good
+[Music]
+God anyway this is a Unity stream that I
+set up about a month and a half in
+advance unfortunately there's like a lot
+of things uh here let me show you this
+really quick I will show up in that top
+left corner soon enough so this is the
+first person
+perspective that you have you can't
+really see it that well but at the top
+left there's say little zero there right
+so that is actually the candy counter
+and I have based it on so each time you
+have willingly given me candy here I I
+receive candy in the afterlife Over
+Yonder I'm just going to set up my face
+really quick and then I also have this
+uh this version I I didn't do this
+correctly to be honest I'm pretty sure
+but it's my first time setting it up so
+I think for what I did it's not it's not
+horl it's decent yeah oh that's the
+easiest way to do it
+oh oh there you go my face is a little
+bit better
+now okay okay it's all set it's all set
+it's Gucci okay okay that's good enough
+so I have this really stupid stupid
+animation
+pose so this is how I would walk
+here it has like a little step piece
+and then I'm pretty sure there a run
+animation um but I think it triggers
+depending on the speed of it so that's a
+little silly thing that I did cuz I am
+indeed a silly silly silly
+Shori and then do you have this uh
+perspective which I I like this one see
+it's like you're just kind of hopping
+around so some of these were uh still
+test runs although I try to work with it
+but I don't want to screw anything up
+after this long uh oh you could pick up
+that's right so you can pick up some of
+the items only some of them because I I
+tried to do it again but I think it was
+going to screw things up so you can do
+that you can throw some of them I can't
+remember which ones are throwable though
+and then I don't know if you guys
+remember this little guy but this is
+actually our mascot for Advent this is
+pokey and he
+talks there you go happy Halloween you
+rap scallion look looks like you're all
+dressed up for trick or-treating eh
+looking to get that sweet delicious free
+candy I'll let you be on your way after
+all you're not you when you're
+hungry and then you have uh so all of
+these assets or at least the the 2D ones
+these are Community given assets so that
+is made by the
+novit so you have I think there was five
+categories of it oh I should probably
+like not do my tracking soon but uh we
+had pumpkins we had cauldrons I will
+actually do this and figure this out we
+had cauldrons uh we had ghost I'm pretty
+sure yeah we had the ghosty
+roasties and what what else did we
+[Music]
+have I think I combine it with some
+other houses that's right we had houses
+yeah candy too oh I I really needed a
+lot of candy submissions I don't know if
+we have enough but whatever we got is
+how much I will get to keep so this one
+is made by the mole I think originally I
+was supposed to pick you up but the
+script would break anyway I think I can
+push you around uh I started giving you
+guys
+animations so animations are independent
+on that one thing so basically each
+thing that's uh seen here I had to key
+it manually all by myself they're really
+simple though they're really simple It's
+Not Like These are 3D animations that oh
+actually now that I think about it the
+beginning area that was a 3D animation
+uh the one with the pixel pixel or so
+this one is by Kenny you have a really
+tentacle is one you got
+bulbas oh I can put you on
+Pokey I I think I was originally going
+to try to eat
+him oh right this is the the the
+dialogue so golly I used to be a
+trick-or-treater just like you then I
+took an arrow in the knee so again this
+is all novel
+supported so what I did was we have the
+bodies created by the mommy and then you
+had the dialogue created by the daddy
+and I just combined you guys to make an
+NPC
+essentially so this dialogue was from
+serving pza guys on on YouTube and then
+have these selecta bles and be on your
+way now and that is another script that
+shows the candy so that candy was by
+blade frun so I'll show you a little bit
+you got more pumpkins here oh I could
+carry you I used to be able to carry you
+like a little bit higher but I think I
+messed it up you got a radioactive
+pumpkin over
+here oh and then uh Sauer Cloud I would
+like to go trick- or treat so please
+give me candy so so this one the
+dialog's by Mystic these sure are a ton
+of ghosts about I doubt they will go to
+the costume party later because they
+have nobody to go
+with don't you boo me fine take this
+they oh you got Mystic Donuts candy
+there you got a lollipop some little
+tiny hard candy and so on oh yeah yours
+look like a a West a cowboy sort of uh
+costume I think you R in a different
+project but I to make sure that
+everything felt filled up abandon all
+hope ye who partake these Confections
+proceed at One Soul agency yet no
+retreat from this threshold as neither
+an aspect of cowardice nor wanting that
+was very edgy you don't give me candy oh
+for each one taken an equal pack made
+Happy Hollow
+Eve oh crap I didn't put the candy
+animation um he gave me candy though I'm
+eating that candy I'm taking that on
+this one this is actually really simple
+animation but it looks like a bouncy
+bouncy sort of Animation doesn't it I
+think you're edgy when you were partying
+I studied the hit 1998 film blade I like
+that movie by the way when you were
+having a happy sugar life I mastered
+building blocks in
+Minecraft while you wasted your days to
+the mall in pursuit of prep I cultivated
+inner goth and now that it's Halloween
+and a novel e are at the gate you have
+the audacity to come to me for
+candy fine okay take some oh yeah this
+candy is really cute I mean M is the the
+little finger there by the way K I thank
+you for the redirect
+earlier I had to make sure to say it now
+before I forget but thank you thank you
+I hope you guys enjoy our first Inkwell
+trick-or treating session whose finger
+is that it doesn't matter they're dead
+now oh so this is one of my my test
+animations I did come to realize that
+test animation's probably not so good
+actually reason being that if I talk to
+him he still moves so happy Halloween ho
+ho ho ho and a jolly good Christmas to
+you here take some of these sweet New
+Year
+candies oh and I used to say candy
+because we don't have too much candy
+variation so I did start having to reuse
+some of you
+guys honestly this could be like a mini
+game honestly we got to consolidate all
+these end of the year celebration
+somehow otherwise my wallet will go from
+doy doi to broie
+broie oh chery you made a really cute
+pump by the way it reminds me of hollow
+night oh oh my face there you go it
+reminds me of U the little Caverns there
+and then we had some 3D cauldrons I
+didn't really know what to do with the
+cauldrons to be honest but I I kept them
+every now and then and Simon you were in
+the the previous birthday party I think
+and your dialogue is by Phil want some
+candy for Halloween sure but every treat
+comes with a trick for someone in inkw
+well she takes Halloween very seriously
+okay whoever made this dialog originally
+wanted to give me nothing but grits and
+I I do not have a picture of grits so I
+like sorry I'm getting candy out of
+this I'm I'm getting candy out of this
+guys come on now uh for this one Simon
+wait were you two Simons I had an Excel
+sheet but oh okay you are two Simons I
+had an Excel sheet for these things but
+it's kind of a lot to to keep track of
+everything so I just did my my very best
+to include as many as I could so Simon
+uh I thought you were a pet so I didn't
+give this version of you
+dialogue and then you got Mr Ry who I
+think is slightly clipping at the bottom
+which I
+apologize you're one of those blasted
+trick-or-treaters that keep knocking on
+my door fine take it don't e too many or
+you may just become like a monster of
+inkwell's
+past happy Halloween you wretched little
+scoundrel I yeah and then U Mr fret you
+made like a really cute lollipop of hair
+Vel I believe I like that it's it's a
+nice looking Town honestly I think so
+anyway like as a as a kid I didn't
+really get to trick or treat much so I
+would play video games that would give
+me the feeling of like ooh it's
+Halloween I'm so excited to play Animal
+Crossing and play the Halloween event
+over and over again so I had to get my
+Halloween filed through video game games
+or in the in the days that I could go
+trick-or-treating it was just uh my papa
+or my mama escorting me and that's like
+it AER I'm pretty sure oh this was a a
+commission right right AER you were in
+the last party too I I feel Halloween
+quite a lively time of year back when I
+was young I was not one to celebrate the
+festivities of the
+mood over time though I've grown fond of
+the atmosphere but enough of my
+ramblings enjoy these
+you like the walk animation this little
+one or his his one oh yeah we can't
+forget you over there I made you spein
+oh by the way this water oh crap did I
+not put a collider okay I guess we're
+swimming we're swimming we're swimming I
+also have tank controls cuz I'm scuffed
+guys I did not put a collider here
+oops but but that's okay that's okay I I
+could have done a jump I fa but I didn't
+oh who are you oh we can't forget you
+too
+caid happy Halloween my fellow goblins
+and ghouls you want some free candy grab
+a handful from the
+buckets oh I was wondering what this was
+it looks more like a hair tonic or worms
+but I I like it I like it don't get me
+wrong I like it under great thank you
+Mystic oh your dial is by pickles here's
+a bunch of sugar sweet candy just for
+you little once don't give them to a
+certain cat named Pepper now or he will
+come to your home and do the deed on
+your floor I caught him trying to do it
+by the way that nasty cat yesterday I
+was pacing around I caught him
+scratching on my carpet he was about to
+do it oh yeah this is really cute I like
+hazel form's candy it looks really nice
+so some of you guys have a second
+dialogue um if you plan to go to the
+woods tonight Beware of the hungry candy
+eating book room that lurks inside of
+trees so right now we have nine pieces
+of candy that I can keep I think you
+have a second
+dialogue I hope you chose wisely H okay
+yeah so this is this is why I decided to
+name who gave the dialogue no offense
+Cate no offense I'm not trying to throw
+shame at you but but I I figured if I'm
+going to give this person dialogue and
+it's kind of weird and the person the
+other person might be offensive or
+offended uh I was going to throw you
+under the bus
+again such CH you got to take
+responsibility for your dialogue you're
+not getting away with that
+so so I had to make sure that there was
+a system in place so no one abused what
+someone is forced to say under my
+watchful eye so qaid um you're doing
+great I'm just making sure you get the
+100% credit for your laxative driven
+fantasies I really like these two by the
+way so I wanted you to touch the that
+SpongeBob looking grocery list
+unfortunately for you you are so high up
+and you are right next to disgu ziko
+that you don't you don't have dialogue
+but I really like the way you look so I
+put you up a tree cuz you know you're
+like a hanging grocery list and then uh
+this guy's design is really cool I
+didn't know what dial to give you but I
+settled on this one the end is nigh
+monsters have descended upon us oh
+they're but children masquerad as
+monsters to go sweet treats from us
+unfortunately this household does not
+partake in sugary Confections your
+parents should be the ones to uh provide
+your treats so you don't give me
+anything and for that I feel really
+mixed about it but that's Rim's fault
+that's Rim's fault no offense Rim but
+it's your fault that I get no candy from
+this really cool looking design no
+offense though you're doing great but
+it's your fault I don't get candy from
+here and then uh oh there's more
+pumpkins here I'm trying to miss like
+like try not to miss anything so I
+really like this pumpkin I I put you in
+this tree so this tree was originally
+not here I'll show you my first base of
+the the version of this Village of Ina
+this is just one town in Ina by the way
+I I was going to name this town dusk
+mire I think because it felt like a dusk
+mire so this is really cute and this
+tree has a little bit of a glow effect
+uh it's really nice that some of the
+trees have an anim to it as you can tell
+if you look really closely not all of
+them
+do oh that's right there's a there's a
+flying ship oh that's right it's by
+diobu baser you're supposed to fly
+around more I think uh maybe I'm messed
+up somewhere but you do fly but there's
+a plane there and there's a flying
+Dutchman's ship in inkw
+well so you got a little bit of
+Animation here do I have like more
+more yeah yeah there's this one this one
+it's like a little cute ch animations
+it's really nice the sky looks nice
+thank
+you let's start from here we'll start
+from the left side so you got
+Behemoth you got scissors actually hello
+there happy Halloween you know back in
+my day everyone who wanted candy had to
+stand in a
+circle and start throwing ink at each
+other till there was only one person
+remaining but now you young have it easy
+and things are given out for free here's
+one piece for you you better enjoy it
+now oh now this one by
+umidon it look like nachos to me oh
+pickle you also have a pumpkin here it's
+um I don't know it kind of has like
+Bedroom Eyes in my
+opinion uh let's go uh let's go here and
+then we'll backtrack to there so I put
+you guys together because you have
+similar feel if that makes sense oh no I
+didn't cut the the little circle around
+here oh my bad my bad that that should
+have had a circle
+though so we got sir
+Lance happy Halloween lovely spooky
+costume you are dressing thanks for the
+candies oh that's right sir Lance you
+took away my
+candy that that's why I have this little
+booing and a booing sound actually so I
+have lost one candy there's only one of
+you who took my candy who did your
+dialogue again oh I can't check you
+don't have repeated dialogue Sammy who
+did your dialogue
+takes some quick I stole this off the
+back of a truck and now they're going to
+start looking at any moment now if you
+see anyone out there in costume do not
+trust them that's like everyone the
+candy have now is top tier people have
+gone crazy over trying to get them oh
+right last short you look like you have
+something Frozen in that little candy
+pop I think some really cool candy
+designs honestly fil I think you were my
+very first uh animation test actually
+I'm pretty sure you the first one to get
+an
+animation I didn't mess you up did I
+okay I rented your dialogue what are you
+doing parading out in about this hour
+don't you see all the ghosts and Goose
+running about well it's dangerous to go
+alone take this an NOA you made some
+really cute candy it looks so
+nice so we get to keep 11 candies a
+berser yeah some of you guys have
+multiple multiple uh entries actually
+cuz Exile sheets are a lot of work
+romantic woled your dialogue here is
+your candy little spooky ones enjoy the
+flavors Savor them and revel in how fun
+this all
+is oh no I didn't do the the animation I
+messed it up when you grow up everything
+will taste Bland and no one will dress
+up anymore also you will have to pay
+rent now take the rest of these candy
+corns all right okay that one I did
+right okay I messed up the first
+dialogue my bad my bad I tried to test
+them though but I think Miss
+some and then you got this one the
+little
+trick-or-treater tricky today aren't we
+little one seems like holoween gots you
+as well but prepare for the monsters to
+haunt you for stealing the
+candy I'm
+joking um I didn't know what candy to
+give him I just settle for this guys I
+only have limited candy
+slots stop looking for monsters under
+your bed you are the
+[Music]
+monster oh Mr R I actually got to see
+your your details a lot clearer here so
+I noticed that you have a USB plug for a
+tail and then you have a little battery
+plug there like the battery sign it's
+really
+cute I told you I'm not interested in
+anything you're selling oh a trick-or
+treater happy Halloween little dude
+here's something sweet and delicious
+good thing I went candy shopping this
+morning there you go I don't know what
+these are I like to imagine they're
+Mochi though and then salmon you had a
+really uh cool pumpkin too I actually
+used you to block off this
+area I'm trying to make sure that you
+can't go out of balance even though I'm
+probably the only one like touching this
+um maybe I don't know depending on
+things I wonder if I can make this into
+a world oh and then for those who
+participated in the Holo October I put
+your posters for some so you have this
+by
+ptk what is this based off actually I
+don't remember what this was based off
+was it a cuphead
+boss it's a it's a meme isn't it do you
+guys know what it's based off oh it's
+from Godzilla is it oh okay I didn't
+know I thought it was a cupet thing or
+maybe a Rick and Morty
+thing and then he has some genderbent
+versions of us man I have to admit Rea
+looks really fancy there and then bi biu
+looks like uh he gives me Ed not Edward
+uh who's the dude from Black Butler
+shell Phantom Hive and then you guys may
+me look like a [ __ ] boy not that not
+that it's bad I appreciate it and hoko
+hoko look like maybe the the B Street
+Boys bow
+bow it looks like a nice town I'm glad
+you like it and then I I had to include
+this because uh I I Shi myself and
+myself and then you had more art here
+man I really should have fixed my tank
+controls but I didn't think it would be
+a
+problem see if I if if I do this there
+you go I'll let you zoom in enhanced
+this one is really really lovely art by
+the way I like that rainy boots it looks
+like they look like movie posters so
+that was the feel I was going for and
+then you have something from yaka that's
+my my my dead elf potentially I don't
+know people like to think it's an elf
+for some reason and then you got this
+one so all the movies apparently star me
+for the most
+part oh I can't forget you that's say
+you
+know so oh one of my one of my mistakes
+is that I should not put animations if
+you're walking or I should learn how to
+talk and make you stop at the same time
+welcome little ones pry would you hear
+my tale of wool in times past the man
+are down yonder used to give out superb
+king-sized candy I need to walk with you
+now chocolate bars as big as my hand but
+alas rumors and threats of ghosts and
+goblins have plagued it for many a year
+now and now not many Adventure there
+anymore be a deer and break the cycle
+Venture forth into such cursed lands so
+that's uh that's my note from my future
+self I should get some sort of dialogue
+manager where it stops the character
+while they're talking to me so that that
+was a mistake but it is a mistake that I
+cannot fix now so we have more people
+here but away I forgot to tell you guys
+but uh this entire this entire town like
+I I built it from well I want to say
+scratch because I I bought pre-made
+assets like houses and whatnot but the
+terrain I built from scratch and I put
+everything uh like hand placed from
+scratch I suppose so this was my first
+time messing with terrain and I learned
+a few things for example if you want a
+lake or water you need to make sure that
+your terrain is not at level zero
+apparently you can't go underneath level
+zero which I did not know so there are
+no lakes and rivers in this town of
+Inkwell but everything is hand placed
+here no demo scenes here you got tornado
+here what an interest Co what an
+interesting costume you have is that ink
+coming out of
+you I don't know about that anyway
+here's your treat don't worry I'm not
+like those people out there who give
+expired candy who would pull such a
+cruel trick like that anyway oh no I
+forgot the candy animation are you sure
+that's all I
+have wait if you're out here in the
+middle of T night you sure you're not
+missing out on your Oshi stream or
+something you know a certain Nela I
+heard there was an event going on
+something about a gathering of ink at
+the nearby Castle here maybe I'll find
+candy there oh no I missed it I need to
+fix that in the
+future oh I guess I put the same poster
+here twice oops away foul Creature if
+you want my hard earned candy you shall
+take it from my cold dead hands
+[Music]
+wait wait which which version that I oh
+no this is the right version
+okay dang Bic Donuts you are like the
+most popular candy I've used oh and I
+really love this design by the way so
+thank you mission for this I had I had
+like
+13 execution files for this by the way I
+I've tried my very best unfortunately
+catching bugs is a little hard without a
+net uh let's see so this is kind of like
+one of the hardest parts
+to make in here because it's such a it's
+like a little area a little clove oh
+trist hello I have wearing delicious
+candy here you just have to solve the
+super difficult riddle to get it don't
+go kids I'm just joking please come back
+oh there you go Sabaton thank you for
+the the snackies oh he got cookies too
+oh by the way screw this tree I hate
+that tree I'll tell you why in a
+bit lavendon I hope you enjoy your house
+we didn't get too many house I think but
+I I only tried to take uh one per person
+but uh I had extra stuff as a precaution
+so that's why some of you guys have a
+lot of
+duplicates uh oh good gosh what is wrong
+with your body I think your heart's like
+torn out you scared me nice costume by
+the way did you hear about the human
+like Raven that lurks on the street that
+night I'm just joking you have a nice
+night now oh Mr fret thank you Mr fet's
+uh lollipop company is booming oh wait
+King depravity there's your pumpkin here
+oh that's right so originally I don't
+think this fence was here I don't know
+if I can go behind the fence but this
+fence was originally not here this had
+the most tweaks in terms of design
+that's why uh some things are a little
+scuffed perhaps or or kind of maybe not
+as uh
+build oh sneeze oh I fought the sneeze
+but excuse me just in case it comes back
+oh crap I I carried the pumpkin happy
+Halloween here's some candy along with a
+few words of caution for your spooky
+adventures be mindful of whom you
+receive candy from you never know who
+might be alive or dead tonight the
+disease may choose you as her treat
+indeed so tread
+carefully so oh this is a really big
+pumpkin originally I allowed you to oh
+wow this is a really wide pumpkin oh man
+I didn't
+realize so Ingram I I put you over here
+I thought you were like a rocket or a
+ghost with rocket so I gave you this
+dialog here you go here's your treats
+nice costume by the way it's good to see
+people still make the effort to dress up
+you be good now and be careful some may
+want to pull a trick rather than give a
+treat ooh sabot 10 you're flourishing
+I'm not just saying that's a scare
+unfortunately have you had spicy
+chocolate I have some prankster decided
+to inject certain bits of chocolate they
+gave out to me with the hottest hot
+sauce they could find when you here I
+can still feel the burn thinking about
+it so that's why I gave this dialogue to
+Ingram because it looks like you're um
+you're you're about to launch so oh is
+it a jetpack actually oh that would make
+a lot of sense but but it did not make
+sense for my 2D mind so I I I made it so
+that you're kind of like about to
+launch oh and then you have this house
+by messenger I think this is one of the
+the first house entries actually
+I wasn't sure how to do the house bits
+so I put you here so I can't see beyond
+the
+mountain and then you got a little uh a
+little murder Shack over here you can't
+go in though I think there's uh some
+sort of box Collision oh so I put more
+pumpkins here okay I hate this tree I'm
+going to tell you now I hate this tree
+this tree I hate it I hate it so
+much so what happened here is that this
+tree caused everything to crash um I it
+happened just last week in fact and that
+is what stress me out the most for some
+reason I think there was a mesh issue
+for those who don't know uh the ability
+to pass through something that is
+dependent on if you have a mesh
+Collision so for example if I were to
+clap my hands if my hands go through
+each other there's no collider there now
+for the mess Collision I think there was
+some issue with the pumpkins being uh in
+the same folder as the tree if that that
+make sense and that screwed everything
+up now when you're going through Unity
+it's kind of just luck on whether you
+figure out what causes the issue so I
+hate that tree I just I just hate it do
+I have a mesh for you I can go through
+you never
+mind and then you got more cauldrons
+here I was going to allow I don't know
+why I'm saying you I was going to try to
+make the cauldron um equipable or be
+able to be picked up however I didn't
+want to risk breaking anything so I had
+to forsake that uh very very last minute
+in fact and this one's by Hazel I'm
+pretty sure you have a very recognizable
+art style candy in this economy here
+Sunny have some fresh stocks of broccoli
+instead it won't rot your
+teeth all right I had to purposefully I
+had to look for a broccoli acid just for
+this kaen I had to look for broccoli
+acid this was not provided in my Homer
+for everyone
+as they piek around the corners and they
+all draw near fight your uneasiness
+Halloween is
+here so that did not add to my candy
+counter however I will keep in mind a
+broccoli counter instead and then Phil I
+give you like a glitchy animation cuz I
+thought it'd be interesting happy
+Halloween Chumps here's some cheap candy
+so can stuck your mouth with processed
+sugar and have some ginger Vitas some of
+you guys are very mean with your
+dialogue by the way and some fruits who
+can be at least a bit healthy now get
+out of my doorstep and leave me be yeah
+man that was that was really mean to
+poor a little rat Vella oh by the way
+another I I will acknowledge this issue
+I have so my camera is kind of weird if
+I go like this like my my model looks
+really wonky I will have to figure that
+out in the future but uh this is my
+first time trying to sort of situation
+out and I think he threatens you you say
+you're not leaving until you get more
+candy if you don't leave my doorstep I'm
+going to bring my pit uh my pitbull
+princess so you can meet her huge
+appetite and let me warn you she has a
+lot of rabies yeah I don't know how this
+camera sort of works I'm going to have
+to ask my
+teacher it's kind of it's kind of neat
+though I assume it's like a paper Mario
+sort of thing uh am I missing anything
+oh we we'll come back to this you're
+going to see that
+soon uh did I get you I don't want to
+miss you we're not so frighting once get
+to know us we're really quite sweet like
+this candy please take some choco
+scissors oh that's
+cool choco scissors I I'll make coin to
+the dentist next time all the more
+spooky nois I think you were at my
+birthday party I can't
+remember you hear them too right the
+voices I thought buying full-sized candy
+bars would Pease them but no take them
+now I have no need for them forgive
+me ooh this one looks like like uh like
+little jelly
+beans oh you were you were my last ditch
+attempt to try and uh be pickable by the
+way uh the G the Gill or dcil I don't
+remember but I could not pick you up so
+I failed I'm so
+sorry happy Halloween so what are you
+dressed as okay I didn't bother to
+change his dialogue cuz I didn't want to
+change too much but they think we're
+dressed up as a werewolf for some reason
+so they they think we're a ruian but
+maybe some of you guys are dressed as a
+werewolf so they don't give us candy now
+they give us candy it's not like the
+store bought ones they made it
+themselves I did not provide an image
+for that I apologize I failed and then
+you got uh the
+tiger I don't want to say the first word
+for some
+reason I don't know just a
+feeling oh by the way I think uh oh
+there's ghost every now and then over
+here I think originally there was
+supposed to be floating ghost here but I
+guess I didn't put it I also probably
+did not put a collider in
+here okay so this is one of our our
+little
+games uh that I will tell you in a bit
+but let's go talk to peponi sh Nella
+with her glowing eyes who Moko biu and
+nissa's thighs as you peek around the
+corners and they all draw near fight
+your uneasiness hallowe wait did I did I
+tast that oh no I think I mess up the
+dialogue anyway Raven I really like your
+asset I might have messed up that that
+uh dialogue
+vog oh no happy Halloween now my dear
+novali trick or treat you better choose
+the treat before pepper jumps in and
+leaves you with a trick oh told you made
+a AA pair and then this one I got to
+chase you I okay no you can push me too
+it's okay I'm going to chase you the
+night is young and I haven't bestow
+glucose and fructose the trees above the
+star night skies the super
+moon I got to chase you when bigest
+vicious ior shall descend upon their
+casket this manner has imprisoned me for
+far too long my CLA to Sor the Halloween
+spirit with gluttony and they gave you
+[Music]
+feet let's finish uh calling out
+everyone here really quick hello there
+traveler and Merry Christmas oh man from
+the looks of it I'm two months early
+aren't I the confusion has been
+happening a lot to me lately because I
+think that's supposed to be a dot dot
+dot or um no it's a hyphen I don't know
+why it's shown like that uh well don't
+go telling nobody but I'm actually a
+time traveler I guess I could give you a
+little something for my previous jump
+here some treats of appreciation from 2
+years later oh no I didn't do an image
+Oh no I got nothing else for you but
+don't go tell any other neighbors about
+who I really am in here I think what
+happened was there was a script I forgot
+to to put in some
+images because I tried to copy and paste
+so I had the base thing and I just had
+to replace a picture but I didn't copy
+the script was what happened welcome to
+my humble AB Bo trick-or-treaters watch
+your stop as you never know what will
+appear before you it is Halloween after
+all enjoy way the treats before the
+ghouls catch you I really like that one
+good job K I like your Assa
+too you I didn't put decorations here
+except that one it's a prop I worked
+very hard
+on I think
+uh oh I I flipped you around so your
+name is uh oh no I didn't flip you
+yumu I think it's a a very funny pumpkin
+Tower to be
+honest okay did I did I get everyone I
+know I didn't oh that's right okay so we
+have a little Halloween challenge now I
+can show you the thing that showed by
+accident early so we had this Halloween
+challenge we did for the entire month of
+the two weeks of no uh October I
+believe and I hope you guys had fun with
+it I'm very happy that some of you guys
+participated in it and a lot of you
+tried your very best trying to complete
+it I was very very impressed
+so as a little thank you as a little
+thank
+you what is this sound oh crap you're
+pushing me you're pushing
+me uh I have a little a little thing so
+let me prepare it really quick
+okay oh crap I have the wrong music this
+sounds like Kingdom
+Hearts how about how about this one
+all right let's see what is
+what could this
+be oh crap my face is right there hold
+up hold up that was that was not meant
+to be
+there okay is my is my face gone okay my
+face is
+gone wow for those who
+participated in the little bingo card I
+have collected all those who have
+claimed to have finished it only those
+who were applied and then like the
+recent ones and Sh and shin on air so
+these are the names that I have I had uh
+someone collected names to help you out
+with it along with a name organization
+whatnot so how I did this was news
+please explain news says that if you
+completely finish the board you actually
+get three entries here and if you
+completed at least like two lines you
+get two entries and then for those who
+just finish one line you get one entry
+now the prize list for this is that you
+can either get a customized video or
+audio recording about 15 seconds I could
+extend it depending on how much I get so
+that will be something you can request
+from me and I will be messaging those
+who win this contest there will only be
+two winners and if you absolutely hate
+me you can instead choose a game
+key if you are someone who always wanted
+to live in Detroit actually Let's do an
+announcer voice for this that'll be
+cooler hold
+up have
+you have you ever wanted to live in
+Detroit you guys can hear me right
+all can you guys hear me can you hear me
+well hello
+hello oh good okay sorry I don't want to
+be paranoid if you have ever wanted to
+live in Detroit well now is your chance
+you can potentially win the key for
+Detroit become human if you ever want to
+live there become human or not become
+human or beat up a human you can do that
+if you like yourself dead well go g is
+you can kill those dead cells right now
+now who cares about living cells I want
+them dead so you can win that too maybe
+you're a fan of dragons dragons that
+have been granting wishes for x amount
+of years and you have to collect all
+their balls just to have your wish
+granted well you don't have to do that
+in this game but you can own like a
+dragon isin whatever isin
+means however if you are into
+head shaped like cups you can also just
+get cup head as an option you only
+choose one of these spot away you don't
+get all of
+these and if you just want to go
+swimming for some weird freaking reason
+in an alien planet where everything
+kills you because you hate to relax
+screw having a a summer Hawaiian
+vacation you can go to subnotica
+instead right chil birds subnotica you
+can potentially go to subnotica a
+vacation woo
+all right that was that was my announcer
+voice now let's see who actually wins
+here for the people who completed the
+Bingo
+board I see you might need to remember
+these names actually I can type it too I
+have like multiple
+tabs hey o oh Apper Apper one oh you're
+so close you're so close I am so sorry I
+almost got your hopes up I almost got
+your hopes up didn't I but you did
+really well oh so so so close I'm so
+sorry I should shut up I should shut up
+I don't want you to feel bad but anyway
+that was a really good that was a really
+good try so Apper I will be uh hunting
+you down on the twitar so you should run
+or you should hide or if you absolutely
+hate me you can block
+me you may request either a customized
+video or one game key out of these one
+two three four five options
+yeah so now you must be removed get out
+of here now the next person to win
+something let us see who
+wins now who's your
+mommy oh oh no the second time it's the
+second it happens the second time I'm so
+sorry hold up I'm so sorry maybe I
+should have shuffled it right I think
+it's rigged I don't know I'm so sorry
+okay okay I'm going to be kind I'm going
+to be kind okay okay um to that o person
+I'm just I'm just going to give it to
+you okay I'm just going to give it to
+you I feel so sorry for you so Kasha and
+O you're just going to get it okay I'm
+going to be really
+kind I'm so sorry oh
+man well anyway Kasha Kasha has one and
+um you you also get to choose just
+because I'm going to be
+nice it's okay it's okay it'll work out
+it'll work out don't worry I got you
+covered I got you covered anyway that
+was our giveaway you will be messaged
+and hunted down on Twitter soon enough
+to get your get your candies ready cuz
+I'm going to go trick-or treat at your
+door but anyway let us return back to
+the event
+[Music]
+wow that was so exciting I have never
+done such a lottery before where that
+person was bullied twice technically I
+probably should have shuffled the list
+but anyway we we could do more giveaways
+in the future so that won't be your only
+chance it it won't be your only chance
+it'll be okay it'll be okay so let me
+make sure everything's good to go here
+and we shall resume our inkw Paradise
+also jailbirds welcome to the stream we
+just doing a giveaway there really quick
+hope you had a good time so we got Ki
+who looks like a not copyrighted
+character that I am not familiar with
+you're going to have to share this piece
+with someone else times are tough right
+now have you seen the economy status
+they're milking us dry for so little so
+this is all you get why are you crying
+I'm just kidding here's some more you
+big baby
+oh man I didn't do the image right it's
+okay we got candy out of it we got
+candy so we got lendan over here so your
+collider is like right underneath
+actually but I'm really
+short hello costume Travelers it's
+dangerous to be candless alone
+fortunately I have spare treats and my
+merciful uh heart I'm willing to give it
+to you for a
+price I'm kidding if you were made out
+of money I would charge you but perhaps
+it's being perhaps being nice is all
+right for a
+change oh we got more jelly beans is any
+like toilet flavored jelly beans maybe I
+should do a stream on that happy
+Halloween y'all come I've got candies of
+all kinds and not them small bite-sized
+ones from the store I'm talking on big
+old family siiz ones here I'll grow in
+some special homemade candy for you nice
+and nicey don't be a w that's spider
+there's a spider in there oh
+crap and then we got you over there
+Lance happy Halloween I love your
+costumes take a couple pieces of candy
+each now stay safe and have fun well how
+kind what a kind dialogue why are you
+still here I like the costumes so by not
+giving you more candy never mind I take
+it back not a kind dialogue could have
+given me more
+candy Trick and Treat please let's see
+what you can trick me with here's your
+candy you got a scary cute costume don't
+you oh nice one nice candy
+Doom all right I'm going to make sure to
+finish everyone here oh by the way I
+really love this art asset aami or aami
+or salami cuz it sounds like salami I
+don't know why I really really dig this
+it's like it's so cool so I made it as
+humongous as possible um totally to fill
+in the space there too
+actually oh I wonder who this is have
+you seen this cat oh I wonder who she is
+she looks a little sexy little dead
+Doo Oh
+no Martin I don't think I did your
+dialogue right forgive me I can look at
+my Unity project later I'm so sorry
+Martin I think I screwed up I screwed it
+up I will fix you I will fix you but let
+me let me adore you really quick maybe
+maybe it's for the best maybe you were
+saved what if you going to talk about
+laxatives
+though who is uh
+apparently I don't know there's a toilet
+right next to you
+trick or treaters already huh if you
+want to treat you got to praise the
+princess nice post kid here you deserve
+it I'm so sorry Martin please forgive me
+you want more candy than scram or scream
+out your princess our princess's
+type I I don't have a timee I don't have
+a type you actually did it kid novel
+nice we have a criminal here who has
+violated the law I don't have a tye you
+guys cannot confirm that it's just
+happen STS
+it's skibbidy oh we got more pumpkins
+here I was originally going to make this
+a pumpkin patch actually so you got rain
+Ford I don't think I pick up your thing
+looks really neat I think that's my
+emblem actually got ghosties
+here you got three more pumpkin uh
+pumpkins oh this is a novel night design
+oh and you actually have hands I didn't
+realize nice and nice you got sh's
+jackets pumpkin it has like eyeballs
+there it got uh it kind of looks like
+Yuri's face actually for this
+one oh and then uh you can pick up these
+pumpkins because they're one of my early
+tests but I don't think it's perfect I'm
+pretty sure it's dependent on my mouse
+situation oh yeah it's this
+one yeah it's dependent on something oh
+and then you have this really really
+humongous house by
+badongo but or or bad angos in art or
+Bongos in art or Bongos in art or bad on
+Goen art um however you want to say your
+name and you got this one I was
+considering putting someone in a ction I
+think she looks really cool by the way
+so pretty what delightfully scary
+costumes you Dawn for Halloween this
+year no spooky ghost or Spirit sh hanas
+thanks to you so have some delicious
+candies As a treat got a bag of them too
+no second dialogue for you oh no you do
+have dialogue Kenny doesn't Sprout from
+the ground like those scary hands in the
+front yard bye-bye she's talking about
+uh the scary hands at that
+side okay I think I got everyone at this
+side so let us go
+check the other mini game that I have
+prepared very poorly might I add very
+very poorly may I add
+again did I talk to R I think I did yeah
+you're the pepponi so out of curiosity
+what do you guys think this is this is a
+very poorly designed mini game I will
+tell you just now what do you think this
+is okay it is the hangman so we're about
+to
+um uh hang around a little so let us
+begin oh what is this
+what is what could this be I wonder if I
+should add my face here you guys like my
+face don't you I will add my face I will
+be generous my face shall be added
+eventually my face has been added my oh
+my good God my oh wow amazing wow all
+right uh I have I have notes on here
+give give me give me like a a little
+smidge little little smidge you
+know
+so we have a
+person named Steve now Steve is a little
+uh he's he's not the happiest Novi I
+guess and he's really really hungry and
+he's not him when he's
+hungry so we need to make sure that
+Steve is very
+wellfed with letters because that's
+that's how things work when you're
+hungry you eat letters because I said
+so uh so I'm going to give you three
+words and one of these words might be a
+costume for me hint hint hint
+hint so you have this first one which is
+according to my my face let me let me
+actually put my face like let me shrink
+there you go three you you got six
+letters here six letter roonies so I
+naturally you can't just go guessing
+around the words here in this giant uh
+five people stream so I'm going to give
+you a list of letters and you guys as a
+chocy have to vote on it you're going to
+have to vote and if you screw up well
+Steve is just one one up closer to death
+I guess but it's totally not your your
+fault just let you know now it is not
+your fault this was Steve's decision
+because he was hungry so I'm going to
+make you pick a letter so pick a letter
+I'm going to give you the options
+of I feel like you could get this one I
+feel like I just gave you a free one for
+this
+honestly all right pick a letter hangman
+style pick a letter I feel I feel like I
+should I think I made it too easy oh
+crap why did I make that too easy did I
+make that too easy [ __ ] I mean oh no
+fuder roonies oh fuder roonies my mama
+roonies H an i pathetic you think it's
+an eye you guys are so silly you think
+it's an eye you're hilarious you're so
+funny you're so funny you think that
+just because it's a vowel you think it's
+an
+I silly absolutely silly in the meantime
+I'm going to give you guys a timer the
+timer is going to be my obnoxious
+chicken and also let me set up my
+set up my my tracking actually I'll just
+do it live on here we where am I you
+think it's an eye pathetic
+pathetic where's my
+chicken all right the vote
+ends the vote ends when this rubber
+chicken has well stopped whining I guess
+[Music]
+so uh that wasn't that wasn't long
+enough hold on let me do it again again
+let me do it
+[Music]
+again where am I actually oh
+crap oh chicken too
+op oh hey welcome back my chicken was
+too op I
+guess okay
+oh I think I think this is good enough
+over here honestly yeah
+okay I would say this is good enough for
+here you think you think it's an F nov
+an f are you effing kidding
+me gosh I am cringe huh okay the chicken
+has spoken the chicken has spoken it
+seems that f is winning is this correct
+let me let me
+verify I don't have enough monitors for
+this crap uh let's
+see F has one from the looks of
+it f is winning okay well novit
+unfortunately for you f was not the
+right decision you just starved him you
+just starv
+Steve F was not the decision here it was
+not F you effed up but you're really
+really cute you're really cute Steve
+hates the letter F in fact
+however because I am a Kind and Generous
+Soul you still got a chance you still
+have just like uh whatever you call this
+the news thing you have multiple chances
+I'm being very
+lenient very lenient and I am missing oh
+crap W there really uh can I can I do
+this how about how about I do this yeah
+oh crap okay we'll we'll figure out
+where I went oh okay that's my butt
+that's my butt H why is it so hard maybe
+if I do this is there an easy way to
+turn this there's no easy way to turn
+this is there no
+okay how about I just like a little
+bumblebee can I just be a
+bumblebee the theme is stuff for
+Halloween I can give you well I'm not
+giving you any examples actually you
+know you know you actually had uh well
+actually I can't I shouldn't say it now
+I shouldn't say it now
+you might have had it earlier you might
+have had it earlier navali but you chose
+to believe in the wicked witch you you
+could have had it but you didn't have it
+you could have had it all but you
+listened anyway
+um next letter next
+letter uh let's
+see pick a letter and your options here
+are
+there you go all right you know what to
+do but but the question is can you
+believe in me can you still believe in
+the shiori after I lied to you the first
+time you could have had it had you not
+listened to me but what about now what
+if I told you that what if I told you
+that absolutely this is the right answer
+ABS freaking lutely yeah uhhuh are you
+going to go with that h I definitely
+think it's the right answer I I feel
+like it's the right answer I just I
+think it I I believe in the heart of the
+H I believe in it is it oh hold up
+where's my chicken I'm giving you too
+much time hold up is it an H or am I
+lying to you am I a liar or am I
+[Music]
+am I a chicken all right the chicken has
+spoken you have voted H as a theocracy
+you have voted H could it be an H Is
+This Halloween word have an H in
+it wow it has an H oh my good God it
+does have an H Steve it's now one step
+further away from Death so you're you're
+doing good you're doing good I think
+that's
+good all right now the next the next
+one wow I can't believe
+it next letter this is this is probably
+like the most manual method of uh a mini
+game there is you know I had to choose I
+had to pick the letters and make sure
+that they didn't
+um they didn't show up more than once I
+hope you appreciate me having to hunt
+down these
+letters okay the next
+one oh what's this one huh he got he got
+a a a q i I don't think I can do a
+bigger Q than this an
+X and and an an an R pretend that was an
+r that was an
+R OHA you guys are going for the r
+why what's why that letter huh what's
+your reasoning what's your reasoning why
+did you choose R for this huh what word
+what Halloween related word could have
+the letter r a
+pirates okay chicken time that's chicken
+time before you can
+[Music]
+cheat I'm touching a chicken
+oh all right you got a lot of you have
+chosen R let's see if there was an r in
+there oh there was a there was oh how
+how very odd how strange I wonder what
+kind of thing this
+is I wonder I wonder what it
+is okay good job good job you are
+keeping St alive
+surprisingly now the next
+one got to do it
+manually pick a
+letter and you
+got and
+then ooh we're getting a lot more
+lenient here huh wow look at that I'm
+being I'm being nice so generous well I
+wonder I wonder what could it be ooh
+you're going for the vowel you dirty
+vowel lier you like your vowels you like
+your a e o a o
+disgusting how could you but for the
+shake for the sake of chocy I will still
+make sure to use the the chicken
+[Music]
+I'm going to warn you now what if what
+if it's not what you think it is I can
+give you an option here I can give you
+an all or nothing if you want now uh
+there is an a there is an a here so I
+think that actually destroyed some of
+your votes thinking about it but there
+is an a now I wonder what what word this
+could be maybe it is in a certain game
+actually it is not I have completely Des
+ated everyone who was thinking it was
+the Grinch I
+think I need to reset something hold
+up but it was a valiant attempt and I am
+very proud of
+you I thought it was a good attempt hey
+I'm good
+now hold up hold up man there should be
+W I'm a
+bumblebee I'm a bumblebee hold up I'm
+bumbling I'm
+bumbling actually I should just HDE
+myself really quick okay so the next
+one the next one uh let's see what okay
+this
+one oh I see I see some I see some
+people
+actually I I noticed okay some people
+are yelling it okay if you get this one
+if you get this one I will just give it
+to you how about that we'll come to a
+compromise
+people are thinking it's
+Grinch okay
+[Music]
+okay here you go I will give you the
+thing
+uh why do you think it's that one though
+which do you vote for here it's all or
+nothing okay this is All or Nothing All
+or Nothing let's
+go I'm being lenient here it's All or
+Nothing Steve's life is in your
+hands it's all in your hands this is all
+on you guys if something happens to
+Steve could you live with it
+is this something you can live with we
+we'll see we're going to golly G with C
+oh it's so warm in here holy
+crap all
+right you know what would be funny if I
+Chang the letters last second
+[Music]
+[Music]
+oh oh you're back okay guess YouTube's
+having issues all right let's do the
+chicken really
+[Music]
+quick all right
+people seem to vote for The Wraith and
+you know what you're wrong it was
+actually it was wraith yes you're right
+good job good job you did it you saved
+Steve you saved
+them wow you did it you did it however
+however that was just that was just one
+oh hold up uh
+YouTube that was just the first attempt
+Steve she's not feeling that well still
+he's still really hungry he still wants
+more he's greedy he needs more attention
+so we'll keep it we'll keep it here you
+get you get another word another word
+but you did really well there so good
+job let's also make sure to remove the
+word f here
+now this is this is probably Steve's
+last attempt though so it's okay after
+this he's sated if you save him of
+course
+so the next one next
+one oh is this uh something I would wear
+perhaps I think you guys could probably
+get this I believe in you I I believe in
+this all
+right let us see which one you would
+like to do
+here uh actually let me you guys want
+you want an easier one or a harder one
+to be honest you want easy or hard
+I'm seeing you want hard okay
+okay let's do let's do the other one
+then they're the same amount of letters
+actually okay so let's do
+this pick a
+letter and
+it's there you go actually let's do
+there you go pick one pick one shy let's
+see how smart the noelites are as a
+whole yeah it's still uh it's about ooh
+three six uh nine letters
+[Music]
+yeah oh I wonder what this one
+is let's do the chicken too come here
+and I should have a 3D
+[Music]
+chicken all right majority of
+vot it's going for L now however is
+there an L in here or did you just bring
+Steve closer to death do you really
+believe in the L you believe in the L
+the L the L
+and you know what I actually think that
+you do you guys are doing a great
+job so let's end this poll and uh put
+his head on here yeah yeah I shouldn't
+be so happy but I am yeah there's no l
+in here take that
+l oh but it was it was a valiant attempt
+though it was a very Valiant attempt and
+I'm very proud of you now let's see you
+did want a hard one
+but eventually it'll it'll be easier I
+think all right so uh let's
+see how
+about you know I also had to consider
+the order of giving you
+these uh is this this
+one ooh this one this one shouldn't be
+that bad
+yeah this one I I think you have a
+chance
+here pick the next
+letter oh YouTube issues
+[Music]
+dang which letter do you believe
+in so some of you guys are yelling the
+whole word
+out I wonder I wonder if it is I
+wonder okay time for my
+chicken you believe in the X you believe
+in the x or the
+[Music]
+[Music]
+Twitter I will wait while YouTube is
+having issues however the timer will
+still go on as planned
+okay now was there truly an H here or
+was it all in your mind well novalite
+luckily for
+you I think you got it yeah there was an
+agent here now I wonder if you could
+still get it though it can't be that
+hard can it you did that you did
+that uh let's
+see got this this
+one uh think you got this one wasn't it
+I think
+so okay the next
+letter start
+pull pick a
+letter all right I'm going to be uh very
+kind now very very
+kind did you do this one already
+I don't think so
+okay I I also intentionally placed them
+in that way by way so it's like you know
+if there was a if there was a y it'd be
+like
+rupe you still believe in be for branch
+[Music]
+ooh I believe in you
+guys what
+I'm just messing with
+something there you go hopefully this
+works oh it's different from
+there there you go
+ah I'm
+[Music]
+cute okay squeak
+[Music]
+all right you guys voted for an R I
+think you should be able to get it from
+here right come on oh crap uh I I I
+guess I didn't put it in the right place
+oh I wonder where they are supposed to
+go though I wonder is it ooh maybe maybe
+here or maybe maybe maybe maybe here or
+oh I think it goes over
+here all right you got that one
+let's remove the r from
+here okay next one pick a
+letter
+oopsies uh this
+one got let's see what are your options
+here think
+here o let me see if I can get this one
+there you go there you go all right
+chicken time I wonder which one you're
+going to go for here
+oh so many letters but which one do you
+like best oh you like
+tea you don't like
+[Music]
+coffee ohy it's either between c or t i
+wonder why wonder what you're choosing
+oh you think it's chicken treachery all
+right the chicken has spoken you said it
+was a sea however I
+think that there is actually no se here
+in fact Steve hates C's because he only
+believes in being an a student so Steve
+is now one step closer to towards
+hunger fear and hunger in fact so
+unfortunately that was not the correct
+answer however it was I believe a
+valiant
+attempt ooh you guys are kind of running
+out in
+here thank God you still have plenty of
+chance you got like
+four pick a
+letter you didn't want the hard one so I
+gave you the hard one so next one
+here I'm going to give you a bone
+actually I'm not going to give you a
+bone you're going to starve just a
+little bit
+though here you go you have you have to
+get it this time I I just gave you the
+biggest bone of all guys I give you the
+biggest bone I give you the biggest
+biggest bone so come
+[Music]
+on I give you a phone in your choosing
+wrong I can't believe it I can't believe
+it I gave you a bone and this is this is
+how you repay me by choosing the wrong
+freaking letter oh you there's no way
+you can you can get this now there's
+absolutely no
+way no way guys well the chicken has
+spoken and unfortunately for you guys
+there is actually no e in here I know
+shocking but you know the biggest thing
+that's shocking here is the fact that I
+was lying
+so there you go you got that one now are
+you guys able to guess it immediately
+now are you able to say the entire word
+do you want to go all
+out braner
+Li okay let's do it let's do
+it uh pick a
+word uh go all out
+okay
+uh I'm just going to give you these it's
+it's not my I'm going to I'm going to
+block some of the letters in fact I'm
+just if you can't see it it's not my
+fault it's not my fault guys if you
+can't see it it's not my
+fault oh wow I wonder which one it is
+here oh jeez I wonder if it's a
+brancher all right chicken time just in
+case you want to change your mind and
+not follow the Conformity
+[Music]
+here 55% wow
+all
+right my
+Ventures you just killed Steve you just
+killed him you absolutely demolished
+them you absolutely demolished them in
+an alternate reality however you
+actually did guess it right so yes it is
+indeed
+superhero uh that the r is somewhere the
+r is somewhere around here I actually
+don't know where the r is right now I I
+think the r is some where oh there's
+there's two ours okay there you go there
+you go that was kind of my fault
+there so good job you saved Steve and
+you know I think this rewards you with a
+little something so for saving Steve
+give me a little bit and you shall have
+another another treat from from M so
+give me a bit give me a bit
+[Music]
+[Music]
+[Music]
+[Music]
+hello making sure you
+here all right let me just prepare one
+last thing we're still not done yet just
+a heads
+up oh you know what I don't think this
+is good enough for me I need something
+spooky huh I wonder I wonder where I
+am could it be
+[Music]
+is it
+over here okay well so out of out of
+those two options at hangman which one
+do you think I am likely to wear do you
+think I would be more of a a
+superhero or do you think I'll be more
+of a what was that first word huh was it
+was it a WTH perhaps oh you think it's a
+wraith now what exactly is a wraith will
+you will you tell me what is a wraith
+the defy it to me is it a type you think
+it's a branch am I a type of Branch or
+am I more of a bencher like a ghost huh
+oh you think am I am I am I perhaps a
+ghost all this time I
+wonder oh oh what's what's this oh it's
+a little it's a little spooky isn't
+it
+spooky the but it feels so fitting
+actually oh and if I oh it's a little
+hard to see here I think I messed
+something
+up if I if I do this there's a little
+physics there at my thing however that's
+not it novali now for those who have
+paid attention to the community tab on
+my
+YouTube do you guys remember the comics
+that were released once a week there was
+something that I was archiving wasn't
+there do you remember what I was
+archiving it was this little looking
+silhouette and a spooky haunted manner
+of some
+kind well you remember it oh you know
+I've archived a lot of those things or
+those people
+technically and because of that some of
+them some of them might feel a little
+indeed to me I believe so I
+wonder will they show themselves oh
+what's this
+oh look at that here they are it's our
+little
+friends all the people that I may have
+archived sometimes they like to visit me
+and help me out with things who knows
+maybe some of them are actually you guys
+and you didn't even know yeah here I'll
+let you take screenshot hold up
+uh oh I'm looking a little little anky
+there how about
+this there you go yeah oh no I should be
+higher
+up okay take take some screenshots you
+know like
+that I wonder what she's talking about I
+wonder what she's thinking I wonder what
+she's feeling H I'm feeling mighty shy
+or maybe she's uh o any I I'll I'll do a
+flip or not a flip but I'll turn around
+uh the back the back is a little wonky
+though and I will tell you what is wonky
+because I am transparent like a ghost so
+you you'll probably see it this is why
+in 3D coats like this are kind of hard
+but uh there you go it's uh it's some
+it's something oh crap is that my tail
+where's my tail actually is my tail
+around here oh gosh it's so
+big wait where's my tail oh not that I
+have a tail I'm kidding I don't have a
+tail so funny so funny I have no tail I
+have no tail oh no it's it's there
+actually
+okay I I do technically have a
+tail for some for some odd reason I do
+have a tail it was not mine I may have
+stolen
+it but yeah say hi to the little
+ghosties they're all over inkw well if
+you haven't noticed they're above the
+buildings they're everywhere which is
+pretty cool huh all right so now that we
+have this form let's continue
+trick-or-treating
+okay oh you can still hear me hi what's
+up
+[Music]
+there we are my my form there you
+go make sure everything's good
+yeah okay oh let me let me flip the
+other way let me hide my my shame really
+quick but I really love this effect by
+the way I was initially going to have it
+in the world but there were some
+[Music]
+issues there you go my shame is Now
+hidden or at least it's like it's decent
+enough it's decent enough
+I I'm going to keep the ghosties there
+okay cuz the ghostes look super cool
+okay they look really really
+nice okay so uh Let's do let's do
+closeup yeah really really closeup there
+so let's keep
+going here you go so we did our Hangman
+game uh let me make sure my OBS is over
+here we did our Hangman game we got the
+announcements oh yeah this this St I I
+should have decorated it but this stall
+is just my Shilling stall so for those
+unaware every month for our membership
+it doesn't matter which tier you are we
+do a little like a community story so
+you get maybe three proms three to four
+I think it's usually three and you get
+choices and for the closing of the story
+that
+is uh is technically up to you guys so
+if I find something if I find a good
+ending of the story I'll choose it and
+you can get a comic like these in the
+future I'm going to try and see if you
+can get maybe a Hall of Fame of some
+kind cuz that that would be really
+really cool so keep that in mind and in
+addition to that our comic was just
+released and tomorrow for Halloween
+you're going to get your novel night
+video so I hope you look forward to that
+it's it's really really good looking so
+thank you to the people who helped me
+make these things for a planet dropper
+for the comic the editors and the audio
+mixers for the novel Night videos and
+like the script writing I I cannot do
+all of these things uh each month
+without any help and a shout out to Reed
+overlays for letting me use their assets
+and my teacher DEET for letting me
+consult him whenever I need like help
+when things break you got I I spent uh a
+month and a half on this project by the
+way just letting you know now this
+entire project cuz I'm the one building
+it essentially actually if something
+breaks I'm going to I'm going to be
+crying so thank you to the people who
+helped make this possible and the
+biggest things of all too is you novit
+because all these assets here the ghost
+the posters here we look at the posters
+here these are all made by the
+community so thank you thank you so much
+for all that you
+do look at that I really like this post
+I like this one too I like that art
+style but this one this one's just like
+narissa and The Exorcist sort of
+motif that one's really really cool kind
+of gives me Hunter Hunter
+Vibes oh and I think we're coming up on
+something here oh I like this okay first
+off I didn't realize that this said
+stranger song at first but I I think
+it's a hilarious poster I've never seen
+Stranger Things by the way I've never
+seen it before so I am a little
+interested but perhaps in the future
+it's really cool I love
+it so over here is the
+graveyard hopefully it didn't screw up
+uh let's go from left to right so we got
+another tornado
+asset greetings brave souls take a candy
+but remember each bite may come with a
+surprise like turning you into a
+pumpkin oh hey what's up daku it's your
+acid
+again and then you got got this cute
+little one this one has the shiori doll
+here so you can see the the size
+ratio well aren't you all a bunch of
+little terrifying Terrors here take some
+sweets for your travels
+tonight well I'm using your ass it a lot
+Richard and do remember to stay away
+from the rivers tonight you wouldn't
+want to run into Lona you know they say
+that to the stay she still haunts the
+water set night in search of her
+children anyway happy
+Halloween so we got 39
+candies and then you got oh that that's
+the tower I showed you in a an old
+preview I I remember I blurred it a
+little actually let
+me there you go I hope that looks okay
+oh where's my
+Mouse candy I wanted candy once they put
+me a costume a silly costume a silly
+costume with caters the caters that made
+me want candy wait I have cers candy I
+wanted candy
+[Music]
+once oh wait do you even give me candy
+actually careful with these chocolate
+bars they have nuts nuts I went nuts
+once okay I I did get candy I mean I got
+pickles out of it I don't know if it's
+the
+same hark T okay I this one is really
+really difficult dialogue heart to swell
+oh crap why am I why am I standing up uh
+let's let's do this
+this well past brilling what Mimsy B
+Grove darkens my doorway so late sees
+thine out grave I'll turn the into a
+might a slyy noot a wrath or a Tove of
+fish in burble I I found it very like
+wow what the heck desire need to boil
+and bubble in the CAU of my wayward
+sisters I don't think you even give me
+candy
+actually it's ghost freak wait what's
+ghost freak is it a
+reference oh is it Shakespeare oh we're
+tick and talk fright of midnight
+approach it with eyes of flame burbling
+through the toi wood toi wood I know is
+the Alice and Wonderland things most
+although I think toi wood is actually
+word happy Halloween oh thank
+you is it a BenTen monster
+oh oh it's from bentan oh I see I see oh
+and then you had some really cute ones
+here like you got the
+doggo oh Yoo seems like a lost soul has
+wandered into a realm now now today's
+the day of Hol Halloween but don't be
+too spook just yet oh you aren't too
+scared but you're here for some candy
+from none other than me what a bold one
+fine don't oh this is the one of the
+first candy asset we got
+actually oh and I gave you a little flip
+here this is also a house so originally
+the graveyard was actually um I don't
+think it was flat enough so I had to
+redo a lot of things oh there's more
+ghosties here hello saxs what a
+delicious fch we have you're our first
+trick-or-treaters that's right wa this
+is our First trick-or-treating
+event we enjoy inkle far too much sh
+move again so this year we're handing
+out sweets instead of having our usual
+red
+Feast ooh I like that candy ass that
+wins that's really cool and you got uh I
+hope I don't get stuck in anything let's
+do this uh point of view I don't think I
+put a mesh here did I I did oh
+wow an anastatus
+anastasis I think I don't think I can
+talk to you hold
+up uh let's see hold
+up I have tank controls curse my tank
+controls can I talk to you if you want
+the good say the magic words don't be
+shy if you can say it out loud I might
+uh out loud I might reward Your
+Enthusiasm oh dang daku again don't
+finish him all at once and make sure to
+brush
+properly that's uh go the normal way
+let's go this way oh and we can't forget
+you howdy spoopy once you might think
+this is just another Halloween where you
+think you're going to be fine with just
+a normal pumpkin shaped container but
+then you made a dirty halloweener who
+goes nay and dumps bull after bow of uh
+I did I think I didn't finish the
+dialogue
+right my bad and also let me reset
+something uh
+beep
+beep I will be back momentarily I can't
+find my
+body okay
+beep yeah I am
+beep
+beep let me summon the ghosties they're
+my friends
+[Music]
+okay let's go this way oh I
+wonder I wonder what this is oh but but
+let's go finish chor treating really
+quick I wonder what it
+is it's only a few more it's only a few
+more
+here it is time to commit the act of
+treat giving on this hollowed Eve is it
+not I shall give you a humble amount of
+my sugar R
+Delectables nice nice here for some oh
+wait you give me second candy oh you're
+so kind and then you make a second
+appearance because uh the dialogue is
+basically go here and they're saying
+this is my my property
+actually oh you made a track here's your
+reward you got the the rers the Hershey
+Oris the juju bees and the bow B patch
+it's really
+cute Andia here you go kids don't scarf
+it all down where did I get these made
+them
+myself nice oh these are animated Little
+Pumpkins I know you guys are eager for
+what this is huh I wonder what it
+is but we got to finish our
+trick-or-treating Halloween I remember
+my first one in town back when I was a
+we lad do you know about the legend of
+the novel ghost the one who flies around
+at the dead of night stealing cany from
+oh this is the fifth time you heard of
+this so
+okay oh more of these oh and then we
+have this house asset here I think this
+is by Pizza Remy yeah it's really good
+looking I like it oh and there's a ship
+and uh I wonder what that house is at
+the right oh can't forget you welcome
+dear costume travelers to receive my
+candy you must you must fetch me an eye
+of n oh don't wander off fine here's
+your
+candy so we got 50 candy in total now 50
+candy guys 50 candy a let's
+see all delivered by my ghosty friends
+so here is our finale
+here so I try to put all the girls here
+um I made their little oh it's it's
+really cute I I did the little
+animations I made Ollie really hyper and
+the artist for this it looked like Yi
+was chasing Ollie so I kept it like that
+uh
+Pap and then you got uh Ana here and
+Renee Ru Muna and like everyone's just
+gathered together
+uh I I made you guys into babies just
+because I found your ass at first so
+you're really cute and I hope that your
+parents find you
+here and then you got Justice over here
+they just goofing around you got CC and
+GG flon you got R having a cute little W
+wo face and Liz is actually keeping a
+watchful eye on me if you can if you can
+notice that somehow so if I do this she
+actually turns to follow you I'm pretty
+sure Risa is the same considering she is
+Risa it seems like oh it seems all of
+them are actually so you got little Risa
+here you got beavs they're all in
+costumes you got the hul
+Moos and then you got myth over here
+Kiara has like a little girly animation
+CU it's suer and am am just flips around
+and she talking with gura Ena also
+follows actually it's a it's very subtle
+but she does follow and then morce here
+just chilling just watching Kiara be all
+cuty and then you got all of Promise
+here and I thought they I thought they
+were kind of like on a bean bag chair so
+they're just chilling here having a
+little slumber party they're bouncing
+around and then crony and Fa here are
+pretty chill oh crap I think I'm stuck
+in Faun oh no I'm so sorry no we're good
+we're good we're good oh cron is
+actually just like she's moving slowly
+like this now H now what is this you
+wonder I believe we're having a cover
+starting out soon it'll be premiering
+relatively right after the stream in
+fact and however
+however you guys are also
+getting what is it tell me salt we hope
+you enjoyed inkwell's first Halloween
+Queen town for coming together on this
+day here's the gift you get new emotes
+so these are items that I asked you for
+on what type of emotes you wanted and
+the novel Knights have answered for this
+so I hope you enjoy them HMA you may
+release the Kraken if you are still
+around and not late for your stuff
+however that wasn't all the emotes
+there you get one one extra one
+extra there's one more emote as a gift
+check this
+out you also get pepper scat
+emote so I hope you enjoy
+Peppers but and that is it for my first
+3D Halloween Unity stream thank you for
+those who who helped me with the assets
+thank you for drawing for participating
+and the ways you can if I missed you I
+do apologize I tried my best but this is
+uh this was pretty overwhelming for me
+to be honest so thank you so much the
+cover will be released soon uh do we
+have do we have
+Flink cover and then tomorrow we are
+going to have the VR chat party for
+justice I don't know if I'm going to use
+VR for that I might try to relax uh my
+anxiety has been kind of bad so yeah I'm
+I'm going take it easy I'm going to try
+to take it easy and this outfit I have
+I'll probably use it every now and then
+you know whenever I feel like it
+whenever I feel like being mischievous
+when the world is a fantasy setting
+perhaps so thank you everyone and I'll
+see you guys at the cover until then
+shoting
+[Music]
+[Music]
+he
+[Music]
+w
+[Music]
+[Music]
+[Music]

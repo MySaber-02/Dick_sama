@@ -1,0 +1,3809 @@
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+e
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+sh all right looks like someone adopted
+a dog today also my poor my poor ass
+[Laughter]
+finger today today we're going to go
+ahead and relax to to to Sonic Frontiers
+um but do you guys have any ideas for
+dog names I don't know I want to name it
+something kind of like cool and sve
+pickle man thank for the
+SC I'm okay I'm okay uh let's
+see it is a girl light brown SL blonde
+any ideas on what in you want fluffy
+cream the dog how about man I I don't
+know why but I thought thought cheese
+but I feel like cheese would be kind of
+silly I think of that Foster's Home of
+Imaginary Friends character but like
+it's dog but don't ever feed him cheese
+Ellie Ellie is kind of good oh courage
+courage's good too oh I think Muriel
+actually cuz Muriel's she has like a
+blonde sort of color scheme right I
+think Muriel would make sense so thank
+you for being a name it
+Batman uh are these places I've been to
+actually don't remember what happened
+last time I just knew that something
+thre us I was probably heading to this
+place okay got to remember how to play
+the game a
+little think something was chasing
+me I think Muriel would be really cute
+because Muriel is like a she she has the
+the color scheme for it if I remember
+correctly plus she was a she was a
+sweetie it's just for the towers okay
+okay so I just have to remember which
+Tower I went to Sonic day for being a
+bookworm at to admit I'm pretty sure I'm
+I'm probably like mind mind dead right
+now what what's it called brainless
+maybe I have nothing on my mind at this
+moment
+ah I don't know I can't think for some
+reason today tired uh I'm not sure I
+kind of think I'm tangent today I know
+impossibly it's proba is uh I was
+working on oh good God what's happening
+I was working on Unity stuff earlier
+that's really all I want to talk about I
+just want to talk about
+Unity anything for being a book R
+Simon not this one wait is this not a
+tower what the [ __ ] is this then hold
+up these things wh what the what the
+[ __ ] is this what does this do why am I
+here oh man what is this place
+okay n thank you thank you for the tip
+Simon um I got uh my cats have two new
+toys that I've been charging for them
+basically like all day they've been
+really really into it which is good I
+got to spend some time with them along
+with the UN work it's one of them is
+like a chicken like a little baby bird
+and it has a motor inside it and it like
+it screams and hows well not really but
+you kind of get the idea it makes some
+sort of
+noise uh we've already climbed this one
+if I remember correctly yeah I'm just
+trying to get around
+it and man I think it also came with
+some bit of catnip oh by the way see
+audio too loud or not loud enough I I
+ate a lot don't worry Rodeo I atat a lot
+of fruit so my voice might be screwed
+up it is a kfp yeah it
+is uh let's go this
+way a this good okay voice is fine a
+little little hard to here n I'll
+increase it by one oh no worries
+smartman College be important no worries
+you never have to apologize for that
+stuff I hope it's going well thank you
+for that se by the way game's a little
+quiet you can hear the music though but
+I want you guys completely immersed like
+so immersed that Sonic shows up out of
+nowhere behind you with a gun and he's
+like bent
+over only only because you sat on
+something that you weren't supposed to
+and then he picks up something from
+underneath you which happens to be his
+comic book shadow Shadow the Hedgehog
+and then he said that's much better and
+then he leaves and he goes on his way
+you know is this what it is it is the
+tower Jammy thank for the SC oh good
+luck with B I hope everything goes
+well
+uh-oh maybe I should slow down a little
+oh crap something's bouncing me things
+things are happening things that I don't
+understand I guess this would be like be
+uh in a stream
+[Music]
+a okay Zippo your burin out oh no I hope
+your headache feels better
+soon yeah I I don't know why today I'm
+just kind of very very Wonka oh [ __ ]
+Wonka Wily or like a willly Wonka which
+doesn't make any sense now that I think
+about it but it's all I can think of for
+my
+adjectives Good
+Golly oh yeah the the K ah this where
+supp to go guess so oh good
+God but uh the toy that I got it has a
+motor inside it and they really love it
+but like I'm trying to charge it and
+they won't let me charge it and the
+thing is like it's all covered under
+saliva it's all wet it's pretty gross
+it's pretty moist my dudes and my dude
+that's it's pretty fre a [ __ ] where does
+this
+lead it's it's pretty it's pretty
+freaking moist oh I guess we're already
+stuck
+here oh I guess this is if uh we missed
+it oh that's nice it's actually quite
+quite lenient now that I think about it
+cool
+oh but I manag to charge it and then
+there's this other toy wait how how the
+[ __ ] do I get over there that makes no
+sense that is no bueno to me what if I
+just climb over this
+uh B I think for the SC just vibing and
+chilling I guess so I guess it do be
+vibing
+they my mind be be empty weirdly
+enough and then for Unity I'm making
+good progress I actually managed to get
+the thing working on what's the trick to
+this it's the trick to sell like my
+kidneys thank you for the head pad I
+see uh
+ah hold on my throat cuz I ate a bunch
+of frozen
+fruit yeah I manag to get the script
+working or not a script really the the
+first person controller it's a little
+Annoying ah just just like that sort of
+annoying actually you got to go faster
+oh okay thank you for the tip Sonic
+flame all right um I manag to get the
+script thing working uh there's another
+thing I want to learn so this a stupid
+thing at least it's stupid for me I wish
+it I wish it was like more simplified
+so hinge joints apparently I got to do a
+scripting for that there's a 4minute
+tutorial thank God cuz I'll be honest I
+would not want to watch that tutorial
+for anything longer than four [ __ ]
+minutes okay I just want to press e and
+the door opens okay I just want to do
+that simple freaking
+thing but anyway I need to follow this
+tutorial I can get the hinge stuff
+easily but then I got to do the script
+thing and that's the part I was like
+damn it I have to script frck I'm just
+going to copy this except I have to type
+it
+manually so I'm I'm like
+ow I really hurt myself um I'm just
+genely surprised that it is something
+you have to script it's not like it's
+already provided for you because it's a
+[ __ ] door you would think that they
+allow you to just put this door like I
+understand anchor points fine but it's a
+door come on they're universally door
+likee you can climb the tower easier
+really oh but let me let me try it a few
+more times or
+or uh actually we could do this
+oh wait that makes no sense oh
+[ __ ] ah no it's okay it's okay I'm going
+to try go going on the pink thing I
+don't know what that pink thing is could
+be blood or like McDonald's ketchup but
+I'm going to touch
+it h Lance a lot I'm not too sure
+there's a lot of designs I'm doing
+everything by the order that I see them
+of course if I've seen it before or like
+not see it if I Ed it for a different
+project I would have to skip it so
+someone else gets a turn all right maybe
+I can finally go on your McDonald's uh
+thing whatever the [ __ ] this
+does I have no idea what's happening
+okay all right really cool music can I
+go on you oh [ __ ] what there's a shield
+here what a damn it they knew what I was
+going to do they like my chicken nuggets
+it's mine back off Shori go back to your
+Wendy's hey Wendy's is pretty good too
+but you know what's better
+Chick-fil-A H you like my outfit ah I I
+happen to get a new a new costume every
+month or almost every
+month B oh [ __ ] I was close we're going
+we're going to keep doing this this the
+entire stream I hope that you are ready
+for nothing but Sonic falling on his ass
+every single day of the week it's what
+he lives for this is what Sega created
+him for he's like you know what I want a
+blue Hedgehog that talks talks [ __ ] to
+me and and and [ __ ] okay let's change
+the easy
+mode are you sure how does this how does
+this become easier in Easy Mode I
+thought it'd be just like a combat thing
+all right you know what fine fine we'll
+do it we'll do it one a few 10 more
+times 10 more times come on it's not as
+OD as Dark Souls it's just more annoying
+actually no Dark Souls is equally
+equally annoying when you keep dying
+okay
+okay what's the what's the trick here
+delay my double jump okay hold boost
+okay
+oh
+[ __ ] it's okay we got it we got
+it Sonic Sonic has to do it his life is
+on the line here this is what Sega
+literally assigned him for it's like you
+better do this Sonic if you don't do
+this then you'll be stuck here for the
+entire ass game all
+right hold hold boost okay don't jump H
+oh there you go oh [ __ ] uh-oh
+all right oh I have no idea I have no
+idea why that happened I have no idea
+ah oh oh [ __ ] please please I'm Too
+Young To Die good
+[Music]
+God it's okay it's okay first time first
+time we can we can do it you know what
+they say sometimes it takes three times
+to to get your hedgehog on on the
+rails ah ah okay so don't hold jump
+don't hold
+jump well at least we got here oh thank
+you thank you Phil and silver any other
+Sonic games I don't know to be honest
+maybe the new one that's coming out but
+I'm not really like
+psyched okay you said don't don't jump
+at the end or have to
+jump I'm sorry it looks like platforming
+at least for this not so Bueno yeah the
+one which Shadow don't jump
+okay sorry I hope that you can be
+patient with me though delay the jump
+don't hold jump
+okay oh don't jump at all
+okay I'm so used to to Jumping cuz like
+I can't trust things
+uhoh man one
+two one
+to why did you do please
+why press X Sonic until something
+happens okay you did okay there you go
+gosh darn this going be
+annoying all right maybe I should take
+it slow
+there
+uhhuh what yeah uh-huh speed up here I
+think it's okay cuz it's a curve it
+would't dare betray me here I think okay
+so don't
+jump uh go here gosh this music is
+really nice so
+[ __ ]
+jump okay go here and then I think I can
+probably do it
+here yeah I learned that chick after
+like half the game already oh
+[ __ ] one two okay uh go slow jump what
+what wait does it send me
+back why did that one why did that one
+like send me back I don't know if I hit
+it did
+I maybe maybe I got to avoid it
+completely instead of like oh just rail
+switch
+okay oh
+shoot
+okay all right
+we'll get there we'll get there
+otherwise it's never it's never
+happening again Sonic will never have a
+birthday ever again
+uh
+right
+oh uh little jump needed
+speed jump switch rail
+eventually
+uh let's do this
+one think it's okay here one two
+jump jump
+uh let's go here take it slow there you
+go oh Jesus
+Christ have mercy on me oh thank God
+thank
+god oh this just to touch your freaking
+belly button it better be
+cleaned you know your belly button is
+supposed to have like the the nastiest
+things inside it or not nastiest but
+it's supposed to have things that have
+never been seen before so if you think
+about like the most intimate places that
+you could probably ever go into I think
+it's someone's belly
+button H why is the word world going
+dark oh oh the world's dead
+okay that sound so
+bueno no it's true at least that's what
+I
+[Music]
+read
+oh man this just like Superman's
+planet thank you
+Roberto well they just killed
+Superman yeah I'm pretty sure I'm pretty
+sure I read it up it's because like
+people people don't usually explore the
+belly button or
+something dang he's turning into a
+Twitter
+holic your cyber corruption is
+accelerating how can you smile when you
+can barely stand he's definitely not
+smiling right now look at him you think
+that's a smile I think not that's like a
+I'm dying in
+pained okay now he's that's just a
+smirk look at
+that is she also cyber
+corrupted that's a Grimace just like a
+shake uh Dar thank you for the
+SC thank you for
+the oh finally this Tower would be
+done oh sh why did you send me back why
+did you do that are you always going to
+send me back oh [ __ ] you okay you want
+me to go here wait what's here okay
+that's
+why why did you send me back just to
+suffer all right Sonic we got more
+Towers apparently and a lot of music
+what's over here out of curiosity
+I had another cat toy that I got it was
+a like a green ball but like it makes
+meowing sounds and it has like a little
+like a tassel or something some tassel
+of some
+kind and whenever it rules okay first
+off um because of the weight rules it's
+kind of like think of someone with
+really long hair or they're like the
+little the little morid from wiy and
+they do that they do that you
+know hold up can I do it like and then
+their hair is all wet and and the the
+the water splatters all over the ground
+kind of like that okay but imagine as a
+cat toy like a hair flip yeah yeah a
+hair flip but but it's like it's a
+really crazy hair flip it's like they're
+banging to some tunes or something or
+death I'm not sure they're kind of
+similar uh let's go over here really
+quick since we're already here probably
+won't even listen to these songs
+honestly not cuz I don't want to just I
+probably just end up not doing it but
+anyway uh it rolls around the floor it
+cat really like it the only issue is
+that it rolls around the carpet uh my
+hair got
+caught I was like damn that's a lot of
+hair I kind of think it could be like a
+secret vacuum but it was a lot easier to
+clean up cuz I could just grab the hair
+and just like pull it out it's not like
+the vacuum it's a lot easier so I think
+like maybe maybe I could also have this
+the cats get their fun uh the carpet
+gets a little clean up with all that
+hair like damn that's a lot of freaking
+hair so
+weird not the hair in my
+head I was wondering if I should do like
+I well I probably can't do it cuz I
+would that have to dox my cats I'd have
+to show them naked on stream I was
+wondering it' be it'd be cute to do like
+a tier list of cat
+toys but I I'll recommend you the ones I
+have in fact can I do it
+now oh it pause the music just pretend
+there's music going on hold up I want to
+I want to tell you which one it was do
+you like bags and boxes over toys it
+probably depends on your
+cats uh hold up I put I put that's not
+it that's Game of
+Thrones that's not what I wanted here I
+have some music while we're doing
+this all right where is it where is it
+uh this one this
+one okay I got three Toys three toys I
+haven't talked about the third toy just
+yet uh hold up which one how about I
+tell you one that I I I'm talking about
+right now I'll just say say this
+one this one is where's the
+link
+okay here it
+is it's a interactive cat toys for
+indoor cat this one this one looks like
+a carrot though but it's it's pretty
+much similar here you
+go interactive cat toys for indoor cats
+USB rechargeable motion activate
+electric cat
+toys it's supposed to make sounds which
+one's are similar similar
+one I think they all do the same thing
+to be honest
+yeah yeah okay here here's the one that
+I think I might have
+[Music]
+gotten uh this one it looks exactly like
+it here you go it's like a green it's
+like a green looking fruit but but it
+has like the the the tailand and it
+wiggle Waggles like it friggle fraggles
+and then and then it wiggle Waggles to
+to get my hair like a spaghetti
+I say thank you for being a bookware
+also I I did give them the box that it
+came
+with they they were interested for a bit
+but not not so much that they lost you
+know they they eventually lost interest
+because they preferred the other thing
+so yeah that one I would I would
+recommend
+though look at that I got the music the
+music of your soul oh let's go in
+here yeah it's a good to well I'm not
+sure if your cats will be the same our
+cats our cats could be completely
+different like my cats could be more
+into guns your cats could be into knives
+and your the other cats could be into
+like whipping or something uh
+8523 thank you thank you for joining as
+a
+book I think I think it's Japanese
+Y what your your cat Ain into to whiping
+like yeah you like this don't you
+master Randy I did use a laser pointer
+well not well okay I bought like a legit
+laser pointer it was cheap it was like
+those cheap things you know and then and
+then it died that cheap [ __ ] it died
+pretty freaking fast it's like okay so
+instead I have this uh kind of like a
+thermometer I don't know you it's like
+an infrared laser thermometer thing I've
+been using it as a makeshift cat thing
+as a cat toy it's not meant to me it but
+it works you know there's a red
+line uh it entertains him only for a bit
+but cats still prefer something
+tangible supposedly they'll they'll get
+annoyed if they're not able to hunt down
+what oh shoot what they
+want what does this
+do okay one
+two
+he oh Sonic's happy you like getting
+called Master oh good God oh good
+God H that has uh that has spiky things
+in it I was supp go
+here what about
+here oh okay it's okay Sonic take your
+time one
+two oh I guess I have to be there
+uh whatting for the SC have I made cat
+dip tea no I'm scared to those things
+those beasts they get really happy it's
+like it's like uh the equivalent of
+obtaining a new figurine for them I
+feel
+okay
+oh one two three
+4 oh gosh is there something I could
+touch that like oh I I think that's
+probably going to let me use this in the
+future if I fall do you like throw
+flower pots no they're behave and so
+they would probably eat the flowers soly
+looking for the SC by the way I like the
+the cute thing what's this oh okay
+that's cool
+Epsilon what do you
+mean oh oh man you know it's weird cuz
+when I was younger I imagined well it's
+just how I thought okay I was very young
+at this time I imagine Satan as like a
+really cute Anime boy okay but I never I
+never want stop oh [ __ ] that hurt
+Ah that's what happens when you go into
+tangents while you're doing things that
+are dangerous I never imagined um you
+know the the Lord and Grace as an anime
+point out I think about it I never did I
+think it's because like canonically
+canonically he's going to have facial
+hair so I thought no hey if you have
+facial hair you're cool though just
+letting you know now you're so Prett
+pretty cool but canonically if it has
+facial hair I'm like canonically not
+going to think about
+it okay climb slow Sonic oh
+crap it's okay if you have the beard to
+can it is it not actually not I think
+about it you don't know it's not like it
+took a selfie back then you know it's
+like hey Mom look at this there's a
+crazy cat over here hey Mom one two
+bounce
+bounce Uh
+crap a
+[ __ ]
+bounce a [ __ ] oh [ __ ] no ah please it's
+very annoying oh good God this is what
+entire island is oh good lord it's no
+wonder I never imagined he's an anime
+boy no offense my
+dude no
+offense yeah that's true we do got an
+elevator how the freck do I get up
+again my dudes why is it so hard what a
+what a world you live in Sonic man I
+must suck to be a hedgehog in this
+world like I just I just want to have a
+chill day but no I got to go save the
+world where is the thing
+here let me let me back out here it
+is uh is it this one that's the elevator
+I want to be
+in the question is how the [ __ ] do I get
+there
+elevator elevator oh [ __ ] I think him
+left
+me I don't think I could ever survive
+jump King I watched uh Mory Senpai play
+it I was like
+dang this is this is fun I don't think
+me to be fun it's really just a like a
+rageous game but I don't want to go I
+don't want to be anky I want to
+Bei only have Sonic Edition I guess
+so
+right speed up probably missed this cool
+I I didn't want it anyway no never
+mind it feels gratifying I think it's
+fine if you find it gratifying just that
+I'm just a dirty casual you know I'm
+like a a dirty stardo Valley player well
+actually I prefer to the other things
+more to be honest uh let's see bunker
+thank you for the SC Sandman I is it
+that on
+Netflix wait wait Morpheus who's
+Morpheus isn't that a matrix
+dude that is that is Matrix right or is
+it or is it not
+Matrix or is that is that like Devil Man
+crybaby oh it is okay I don't know much
+about him isn't he like a VR dude now
+like he he doesn't even
+exist okay one two okay I just got to
+time this
+essentially I'm skipping that can I have
+like another save Sonic's really tired
+of all this
+[Music]
+[ __ ] come on you know you like
+me how about how have a nice little s
+what is this okay that's called like
+skydiving you she think for the SC oh
+good God good thing I take things nice
+and slow
+huh
+uh-oh is it just stay
+here it's funny the music's so epic for
+something that could like uh-oh what
+does this do oh okay that's
+cool ah I don't know what this do why
+I'm going up
+there well is there something I missed
+like perhaps I'm supposed to touch
+something I'll be like okay if you fall
+you can go back here Shori
+uhoh all right I better just not
+fall yeah let's let's do
+that you change the music oh I like this
+music though makes me feel epic when I
+fall you know I just I just love
+failure oh
+gosh
+uhoh
+okay man I already know what I when I
+learn next for Unity first off I'm
+hoping I could just get a simple pasted
+on script for the door like I do not
+want to keep doing that for every single
+[ __ ] door sure you can copy paste it
+yeah once you have it you're done but
+like that's what surprises me why can't
+you just provide it also the fact that
+the starter Unity assets are what do you
+call it def def fabricated what's it
+called a shoot I forgot deprecated
+deprecated go you thank you for the SC
+uhoh see aliens
+again
+oh
+yeah we're pretty pretty pretty aliens
+coming to your
+world yeah it's deprecated I don't know
+what you have to get it from the unity
+store it's no longer like part of the
+built-in packages which really surprises
+me uh xar thank for the SC I was uh well
+I don't usually reach out too often but
+I was probably thinking Ena Senpai for
+Smash
+Bros I'm usually can tell with myself
+though no it's it's deprecated not
+defecated yeah I I really I really want
+to do more Smash Bros with the others to
+be honest I'm probably Mario
+Kart that's a that's those things that
+you eat I forgot what it's called Uh the
+Little Gems you eat the ble gems what
+you put on your
+finger I made I guess you could also do
+eat a real
+ring gushers is that what they are oh
+[ __ ] oh Ring Pop yeah ring
+pop dang Sonic you look like [ __ ] no
+offense Sonic all right have we been
+here before or is this a different
+one oh wow it's awfully nice of you to
+put me
+here you don't they be pleasant oh you
+know what would be cool what if like
+Rings could taste good oh but I guess
+the people would actually eat them
+then yeah like metal rings but like you
+know things could be scented what about
+like a flavor like a raw
+candy well no no the Ring Pops see the
+thing with ring pops is that like they
+actually disintegrate each time you suck
+on them so what if you could get a
+forever ring that just like it tastes it
+tastes like that all the
+ah okay how about I ignore you you ever
+think about that oh wait do I have to
+actually kill you I'll be very pissed
+off if I do oh I'm very pissed
+off oh yeah an everlasting go go goba
+double yeah yeah like
+that that'd be cool I mean it'll
+probably be gross too considering all
+the Sala no offense I just know that
+eventually it probably be like you
+probably should wash it all
+right H I don't know what's happening
+I'm pressing random
+[ __ ] then Sonic whenever like something
+cool happens like bro I don't know
+what's happening just pressing random
+[ __ ]
+here oh imagine if Goku from DBZ is like
+that like I'm going about I've trained
+so hard for this [ __ ] it's not it's time
+to activate my Goku blast it's like
+what's your Goku blast made out of Goku
+I don't know I'm just doing random [ __ ]
+and calling it a cool
+move bro you think I know this combo
+it's all muscle memory at
+times the button smash uh you know I
+feel I actually I try to avoid button
+smashing in uh in Smash Bros I mean they
+can be useful sure but I I find them
+kind of rude or annoying
+uh yeah you you you knew I you thought I
+would do that you thought I knew how to
+do that [ __ ] no just
+happened it's kind of like uh oh good
+God What's Going
+H
+what
+huh is it is this all right oh yeah it
+is dang that was intimate
+that was pretty freaky decky I kind of
+liked it though I didn't know what to
+expect that that is like horror material
+right
+there man this thing never fails
+me uh-oh uhoh oh no where am I I can't
+oh [ __ ] the camera's not
+helping um sonon give me a bit and and
+thank you for the I'll read your message
+in a bit after I kill this
+[ __ ] just see to
+scream am I supposed to keep doing
+this maybe I'm supposed to hit you
+now dang your balls uh uh in the game
+show up too much holy
+crap uh maybe it's just like
+connecting there you
+go uh-oh okay that's cool uh good job on
+you take a break oh I I don't really
+well I probably should get a break
+soon uh death thank you for the oh good
+job with your taxes oh [ __ ] that's right
+I need to get um now that it's February
+I can finally download something
+assuming it lets
+me well guess it's tax season
+I'm hunting rabbit we oh good
+God yeah you like this don't
+you one two
+three yeah you guys ready to get taxes
+it's okay you'll Pro well some of you
+guys will get will get the uh the thingy
+the money back and then and then some of
+some of the others it's where like the
+government shows up tells you to bend
+over and say like this is where your
+money's
+going yeah I'm not looking forward to
+it did you do your tactic right oh no
+please it's like oh and then and then
+they do that men in black thing they do
+that men in black thing where they have
+like the light thing and like you don't
+remember anything oh sh no I remember
+everything I remember everything I
+remember everything oh good God oh
+oh good God I can't afford to die here
+it's a very long [ __ ]
+way I remember I remember all those days
+all those days it's like this is is this
+how you do taxi
+sh if you want to do a proper tax turn
+yeah oh man oh you know what' be good I
+should be like a Ghost Rider I should be
+a ghost rider for like a a romance thing
+hold l l t what's LT
+again that's a l left trigger right oh
+FR what do you mean you didn't get
+nothing a thank for that c as
+well I was going to say again oh yeah
+Ghost Rider for like uh actually no not
+a writer but I should probably be like
+the the creative director anything for
+the SC you had to pay money back yeah
+they're there they're there Randy but
+you know at least that you're helping
+helping the government do more do more
+stuff I
+guess hold
+up I I'll Tang it later I don't want to
+die here I'll be so so very pissed off
+if I oh [ __ ] yeah now I can Tang
+it yeah all right I'm touching this
+belly button okay my idea we should do
+like uh I don't know why I said we
+should I thought it'd be funny uh we
+should do like a romance like
+a like a romance erotica but like the
+setup it's like those really cringe
+cringe like really poorly acted things
+like uh I'm I'm here to do your taxes
+ma'am and then like would you just call
+me punk just because I have long ass
+hair you think I'm a
+ma'am I don't know like this is this is
+how you do your 401k and and this is how
+you do your your 1099 miscellaneous it's
+like that's too miscellaneously
+bad you l dream to loose oh imagine
+imagine how the talk would be though oh
+sorry cut scene
+right Elder how do you do a 401k bro you
+think I know I'm a [ __ ]
+elder man I'm really tempted to talk
+over it but be really
+rude there there's Sonic
+you're getting taxed to death I
+know oh welcome Jean welcome welcome
+believe I have come to
+understand both of us will do anything
+to protect those who are precious to
+us but your
+fate it is what I
+calculated farewell
+hero
+I don't know you can still run Sonic
+think you're doing fine no offense Sonic
+you're you're still able to run at
+pretty high speeds it's not like it it
+limited my oh [ __ ]
+what oh yeah you like this no idea what
+it does but I did it all right um I need
+to get my map if if it would let me open
+it it has yet to let me open it oh
+that's uh that's the thing that makes me
+jump
+up okay I think we're almost done put
+this island
+anyway you have room for one more for a
+dependent that's like uh isn't that if
+you have someone relying on you or
+something oh it's that thing
+again man I remember oh okay if you guys
+are ever ever going to do archiving
+yourself or something thing how how do I
+get up there now I think about it oh
+here's here's a few tips from the shorum
+not that I'm a tax accountant or
+whatever nor do I know numbers nor do I
+know
+English but but some things depending on
+where you live I guess uh things that
+you can make tax deductible like any
+purchase for archiving any purchase
+don't matter what it is could have been
+like a [ __ ] pen could be even maybe
+like uh some steam steam stuff what is
+this did I touch this before
+oh I guess this is how I got there guess
+I screw
+you uh Equipment
+[Music]
+Technology uhoh I have no idea what I
+pressed what a
+kundum oh yeah your internet
+fill if you have a
+office oh man that makes you feel
+nice uhoh uh-oh not my onion
+rings yeah that's if you ever want to
+get into archiving or
+something uh otherwise uh I don't know
+[ __ ] and this is why you should get an
+accountant if you can cuz I don't know
+[ __ ] nor will I ever claim to know
+[ __ ] uh what are the the things I need
+to learn
+oh okay so that's one that's nothing
+what about this
+I don't know I guess we should do a
+training a bit you have to pay taxes if
+you want a nice running Kingdom
+otherwise how you going to feed yourself
+through your ink oh I think that's
+another
+Tower it's probably over this
+one I wonder if we can claim like cats
+as a dependent now you think about it do
+you think that' be
+possible there's still no running water
+you got
+ink
+you want me to be your accountant oh man
+you're going to get arrested I'm just
+going to tell you now that's why that's
+why it's best to hire someone else the
+only issue is like um they'll probably
+charge you quite a bit depending on who
+they are I don't know my parents got
+charged a lot by someone but it wasn't
+it wasn't like a friend or anything but
+then they they hired like a nicer lady
+and it was like pretty pretty decent oh
+it's so awkward though it's so awkward
+when when you go up to them right and
+they're like oh so how much you make
+this year let's see let's calculate and
+then it's like um do you like what
+you're doing it's like yeah like she
+okay like okay what is this and then and
+then I remember another year another
+year it's like wow you're really unov
+this year huh it's like yeah I guess so
+wow thanks takes really they looked up
+for you I'm happy for you are you sure
+and then and then like uh another
+another time is like oh than kind of
+different this year yeah yeah it
+is it's so it's so [ __ ] awkward
+sometimes like please just do my [ __ ]
+taxes okay how much you want to charge
+me
+okay like please I didn't I didn't I
+didn't hire you to be like my mother
+okay
+it's like this is so complicated sh I
+don't understand it it makes sense you
+know content creators and
+[ __ ] oh [ __ ] what's going on here that
+even am I supposed to go down or am I
+supposed to go up I'm assuming go down
+okay it's like it's like the old no
+offense no offense but like the the
+older older accountants like the the
+like the very very traditional one it's
+like what the [ __ ] is this job you know
+what now it's like yeah yeah yeah that's
+what I do all right the [ __ ] it's like I
+don't know how to describe it so at this
+point I'm just like uh video video
+editor video editor just just simplify
+it you know it's like what do you do I
+videos
+uhhuh please just come on please have
+mercy on my soul I'm so sick of it and
+then I have to wait for them in their
+[ __ ] private office cuz it's usually
+a home business for the [ __ ] okay I have
+to wait for them to like calculate
+everything look I try to simplify that
+crap okay I give them a [ __ ] uh like
+okay I I converted everything to USD
+okay this is originally in Yen this is
+originally in Yen or some
+[ __ ] and and now it's a USD this is the
+income this is the outcome I hope it
+gives you some [ __ ] idea and then I
+still have to wait for them to make sure
+everything's correct and they're like
+okay Shori I'll well I'll go figure this
+out okay I'll see you in a bit it's like
+okay anyway that's just that's just my
+rant that's my [ __ ]
+rant um Brandon fire man thanks for the
+the support I'm out of
+[Music]
+in oh no don't don't be sorry it's fine
+it's just it's how it be probably for
+everyone
+early oh all right there going to be a
+cut scene soon I better shut up
+otherwise I'm going to end up dubbing it
+badly in
+English chaos
+G
+you know this could have had like a
+prologue I feel like they would have
+been like avatars but like they're
+wet wet and white the avatars are just
+blue blue well actually they could be
+dry they were only wet in the second
+movie sorry if I spoiled it it's not
+that big of a spoiler though they're
+just
+wet wet with
+grief all right let's go get this
+one what if we could just cheat there
+it looks like I could just go
+here uh Avatar not the not the last air
+bender oh by the way that thing was
+coming out on Netflix right has anyone
+watched it I don't know if it's even out
+yet come on do more speed okay no more
+speed I hate speed
+anyway no it's the the one with the blue
+people kind of like the Smurfs but
+they're not Smurfs they're more like
+Smurfy uh it wasn't that uh that good
+oh yeah the cartoon's good I didn't
+really get into uh the cor one though
+it's kind of sad though uh for those who
+don't know basically like one of the
+main ones is like the
+leftover live person the only Survivor
+essentially cuz everyone else died of
+age or just died like damn that sucks
+pretty sachy actually oh you know what
+sachy like they got they got married and
+everything and then he just like oh got
+to go reincarnate into my my new booby
+body or something he like damn that
+sucks that's so
+sad like I guess I don't know when he
+reincarnates probably when she's like
+maybe 50 or 60 so at least it's sometime
+but that's so sad she I would not like
+that yeah yeah we of water it's just
+like Smurfs but
+wet
+I should I should get hired for like uh
+the promotional posters I'll make like a
+quote on it like a modotto of some
+kind this this is Batman but it's not
+not so
+batlike a Grace thank you for the gifts
+by the way oh the shape of the water not
+like Avatar water S I like I like my
+thing better it's a lot more
+amusing here give me give me like um a
+movie name and I'll try to I'll try to
+make a motto for it the only issu is
+that I may not actually know what moov
+you're talking about that's the only
+issue oh [ __ ] oh [ __ ] I'm
+good hold up oh
+[ __ ] oh thank God they have these points
+all right uh Pacific rib okay I'll be
+honest I don't know what the [ __ ] that's
+about um it's about like capr sun the
+drink but the drinks come to life and
+they're like they're really sad that you
+forgot that they existed as drinks so
+they're like hey what about my tropical
+D or my my bomba blast and then they're
+like what about this specific Grim on my
+but I I think that could be like the
+summary of that one am I am I correct or
+am I
+correct uh Liu thank you for the book
+room is that a movie or is that just a
+message I can't tell I I cannot tell
+Blood of Heroes okay I have no idea what
+the [ __ ] that's about either but I think
+it's just like it's a bunch of Heroes
+and they're really pissed off cuz it's
+their time of month and they're like the
+entire movie is literally them just
+complaining about how it's it's so so
+annoying to bleed and they're out of
+like the things that's the that's the
+entire movie they're really just
+bitching at you and then they're like
+does this does this costume make my foot
+look fat and they're like what about
+this oh I'm breaking out Steve or Bob
+that's the entire movie of uh the blood
+of the hero
+hey what's down
+here I don't know what the [ __ ] that
+does uh let's they for the SC it's about
+robots oh I think my I think my
+description is perfectly
+accurate uh oh I think I could skip this
+oh we're already
+here let just take it
+slow sometimes you don't have to go fast
+sometimes you just want to take like a
+nice nice relaxing slow bath you don't
+want to speed yourself up in the
+drowning process oh holy freck where do
+I go here
+actually who Batman is isn't Batman uh
+Batman uh shoot I forgot his name on it
+oh [ __ ] oh I hate Batman no it's all
+your fault
+Batman uh Bruce Wayne he's Bruce Wayne I
+remember I remember no worries I
+remember
+wait Batman's Clark Kent no that's
+Superman you're lying to me I know I
+know some things Okay and like how his
+girlfriend is some news reporter I
+forgot her name though but she's
+definitely not super
+girl hi Candace oh frick all right no
+more no more getting distracted Sonic
+you your tangents are to cray cray like
+Crayola eat
+this Lex Luther wait
+wait who's who's Lex Luther again wait
+Superman has a brother what oh is Louis
+slain okay I I I would ship them with a
+Futurama
+Louis Louis needs a may not Peter
+Griffin no offense Peter oh you're kind
+of you're kind of not that great though
+maybe you've learned your
+lesson uh Blake thank you for the
+SC wait are they actually brothers he's
+a bald dude there's a lot of ball people
+in this world and you're great you're
+all amazing if you happen to be bald
+you're
+amazing ah this
+one uh this this this and that this and
+that this and that and this and that
+this and that this and that this this
+this this this and that I ate too many
+FR today but I don't know if I'm
+satisfied I had too many FRS today but I
+don't know if it's enough yeah oh I'm
+I'm supposed to go up there okay a buger
+day for the SC killer Clans that's a
+real movie it's getting a game what the
+[ __ ] okay I bet it's um I bet it's like
+a bunch of people like
+it they're all they're all like the same
+species of clown of
+clowner oh that'd be creepy actually I
+would not enjoy that I would not enjoy a
+world where like everything's just it oh
+[Music]
+[ __ ] uh one 2 three he
+man you know what sucks these enemies
+literally just like they wait here their
+entire purpose in life is literally just
+to wait for you to show up and to beat
+their ass that's kind of s she if you
+think about it it's like there's like
+nothing in this Tower except them so
+they're just waiting for you to destroy
+them
+uhoh okay I don't want to touch anything
+here
+wee a finally I don't want to fall by
+accident let's hit this you make
+fun it's cold up there just let you guys
+know I don't I don't show up just like
+step on you or something I mean sure
+maybe some of you are into that but hey
+I don't do that
+though bro they they be fighting that
+mea dude from EV ion Mecha
+Bros
+[Music]
+oh these are the monsters from uh one we
+beat up
+[Music]
+s thank you for the
+SC I hope you enjoyed the the the Bobo
+almost said the other
+word I'm looking at my headphones I'm
+trying to figure out which one's
+supposed to be left and which one's
+right cuz it's hurt hurting me how do I
+know it's not like it says
+here all right I'm just oh this is left
+okay was
+right still hurts me
+though yeah the the letters were uh on
+the the head the head uh headband
+looking part not on the ears
+actually oh shoot Sonic went
+emo
+we're in Rhea
+Island
+wow it's funny seeing all those
+percentages is the fifth Island the
+longest one the longest or the shortest
+or the the island you
+no think he's still alive what happened
+to
+him he took on so much cyber energy it
+corrupted him
+meaning he's stuck between realities oh
+[ __ ] he's stuck in
+Facebook uh same same typical Island oh
+okay not sure my only regret is you
+denied me the pleasure of finishing you
+off
+rodent we must get you back into cyers
+space immediately I just out yeah why
+why is it going back I ran millions of
+simulations the only way I can keep you
+alive is if you're not here when it gets
+out when what gets
+out oh [ __ ] someone's waking
+up oh that's cool I have admit I
+honestly like the subplot of the alien
+stuff I have languished
+here the locks are
+broken now I shall Tear Down the Walls
+between Dimension and consume all
+no no you don't I'll mobilize the egg
+Fleet and blow you out of the
+sky it won't be enough it triumphed over
+the Ancients technology my simulations
+show a success rate of
+0% no till smack work too hard for us to
+give up now those Visions we saw we can
+drive back the corruption and bring him
+back back anything for
+Sonic whatever it
+takes and then they hug him a close
+enough Sonic I want you to see the hero
+not really sure what a pep talk will do
+not going to lie son you still have love
+to share with this world too Sonic we're
+even after this
+H I like knuckles's uh line best
+wait did they just like take the
+corruption
+again I think they just like reverted
+all the
+[Music]
+work
+everyone thank
+you I won't let you down there's a lot
+of burden on one Hedgehog by the
+way oh good he's
+back this is our chance I never
+simulated a scenario where Sonic helped
+since you never authorized it I still
+don't want to
+please he looks so
+smug Sonic hereby induct you into the
+Eggman Empire in order you to save us
+all understand this is not an alliance
+if that's how you want to spin it Dr ego
+man
+[Music]
+Sage you will help me find the chaos
+emeralds Sonic won't be fast enough hey
+wow as you command aw she's so
+cute someone have to explain the the
+bits of War for me though like I know
+there's the ancient technology stuff and
+there was like a war but what about like
+the whole digital space part is it that
+is that just like another real that they
+ended up in and so another stories
+appeared somewhere in something
+Island I like how he wasn't so stubborn
+to deny her for that one
+part that's new for this
+game hear from another planet's tribe
+oh oh wait I don't want to touch that
+one a
+silver a complete fight against the
+final boss a [ __ ] does that mean if I
+die out of curiosity
+does that mean that I have
+[Music]
+to redo like the entire section or just
+the section that I lost out of
+curiosity it's a very
+weird
+thing it's Su you got to kill the final
+whatever it is what island even is this
+oh oh do do I have to collect all those
+things again this is actually lost okay
+the fin but boss gets skip of your
+normal what the
+freck okay um this thing's kind of
+annoying but I can't stop
+collecting let me get
+this
+okay you have to be on a hard mode if
+you want the real land okay do I have to
+collect any of this island stuff or this
+island is just like it's
+here uh let's do a save save here and
+and then where's the hard mode
+stuff hard mode oopsies actually let's
+what can we turn
+off boost during jump don't know don't
+know power boost here we go restrict mve
+monologue don't do that portal that's
+DLC oh okay should I should I wait
+to should I wa to do hard mode like
+before we're about to fight the boss
+then it's probably going to stay here
+cuz it's already
+activated you turn on maintain boost is
+it
+useful youc is just playing harder
+oh you do hard right before it's a
+little white okay we got time
+then I can't see
+[Music]
+[ __ ]
+Blinky thank you for that see do the
+portal for the true ending it's not for
+later cuz it's uh supposedly DLC
+uhoh colle these hardship memory talks
+the sage
+oh I I've completely skipped out on
+fishing the entire game I've completely
+skipped out on that hey can I do this
+thing no I got to beat something up for
+it it's optional okay yeah we've been
+just doing the story um Milan thank you
+for the gift thank you thank you the
+cyers space is created by the ancient to
+preserve your cultures and memories
+that's when the c
+ah if you want to grind fishing has lore
+ah oh they're bad oh but they look like
+cute
+[Music]
+doggies oops oh [ __ ] I can't see with
+that stupid thing
+oh my good good
+God
+I
+okay okay no it's cool I I love dying no
+it's it's cool death my [ __ ]
+favorite yeah I [ __ ] I love I love
+dying I love my
+bars at least I'm gambling during it is
+there a check to
+this Harry oh okay thank you I'll just
+I'll just wait here oh okay never
+mind Parry parrying was not good
+there at least that stupid Casino
+thing's
+gone yeah we already deactivated it it's
+um the the thing the thing's already
+activated
+before now it's
+gone go the trigger is probably like
+already set back
+usually is um do I have to collect the
+hearts here I feel like that's what I
+have to collect this
+time maybe over here maybe got to climb
+this thing how do I climb there you have
+to collect the hearts damn
+it all right heart heart's somewhere
+around here probably up there question
+is oh I probably got to go here
+okay it's probably
+important okay one
+two
+[Music]
+three oh yeah tomorrow's going to be
+karaoke I'll just be oh that one will be
+like a pretty LAX stream like the hard
+shaped stuff yeah okay we got the heart
+this
+one uh next one let's collect this
+before they they beg me to collect more
+Hearts King them Hearts yeah we're going
+to we're going to do cringe
+stuff I would do more the effect songs
+yeah and then I'll probably try to sing
+a Mana skin honey are you coming dud
+what is this egg do c a FL the falling
+Target
+Spears he now now
+what that was
+it it's very
+quick H and unlock more the map at least
+along with the the blue the blue ring
+ring of
+Fury the freak is
+that okay hold up uh now that we done
+that we want to actually let's go here
+it's
+closer it's probably over
+there one 2
+three this is leading me away from what
+I want
+actually I would I wanted to go over
+here question is how do I get over there
+Lance oh you're looking forward to my my
+vocals oh no oh no wait wait you guys
+are not the Wolves you're
+fine oh shoot I don't even know hitting
+you really makes me feel bad about
+myself
+though oh man I I'm sure glad I'm over
+oh
+crap a nothing good to talk about here
+no okay it's okay no it's okay we'll
+have onion rings around you I get it I
+get
+it there you go not really sure if it's
+any useful feels nice
+though
+yeah that's
+nice and then we we ground pound you
+just like I'm a senpai with people's
+moms Ah that's a great feeling that
+Cyclone things like the best oh crap
+that that not a good feeling for that I
+like getting stabbed by Santa Claus
+don't ask how I know we're enemies in
+fact uh-oh
+[Music]
+ah better get more get more he's so
+patient actually I'm very surprised he's
+just like letting me gather all all the
+Rings like that's very kind of
+you there you go got a heart was it
+worth it probably
+not oh this sounds pretty
+okay looks like uh things are still
+aggroed at me can I go here
+yet I don't think so but there's stuff
+over here actually that's a blue
+gem I think the blue gem you can't touch
+until like they tell you you
+can oh there you
+go a
+heart I don't know where you're taking
+me
+it's a very chill enemy yeah
+uh-oh oh multiple
+Hearts gosh you know I can't believe I
+still haven't played Kingdom Hearts 3 I
+bought it it exists in my in my
+inventory however however I still
+haven't touched it uh we completely
+missed the heart that I wanted to get
+to I think I want to go this way
+yeah I played the first two games and I
+remember I was so scared of playing it
+that I made my papa play it for me and
+it wasn't even his kind of game oh [ __ ]
+it wasn't his kind of game but I made
+him play it cuz like but Papa look they
+got
+goofies they got the Donald Donald didly
+dooo my PO my papa were like the the
+Call of Duty player you know the
+shooting
+kind not the uh let me smack things with
+a keyblade
+not that type of
+gamer
+uhoh well at least I saved myself a
+little yeah he got stuck in the The
+Water
+World um The Little Mermaid one honestly
+I don't blame him he got stuck at the
+Ursula fight from what I
+remember oh there's the heart oh that's
+a boss oh this time you're red you're
+really angry
+huh all right
+we'll get angry on
+this
+uhoh o
+Sonic ah oh
+no oh no he's he's upgraded his
+things oh but thankfully this place this
+this place is kind of like oh [ __ ]
+oh [ __ ]
+no he's upgraded his uh his moves
+ah yeah
+Dodge I just want my [ __ ] onion rinks
+my dude can you leave my onion rinks in
+peace no apparently not okay no it's
+okay I [ __ ] hate onion rings now too
+onion pranks
+tragic tragic ah die tragic it's so
+unnecessary
+Facebook uh I don't know the dude who
+owns this that dude from
+Futurama
+[ __ ] go let do this do this until you
+feel better about yourself do you feel
+better yet oh how about now oh you like
+this don't
+you okay let me get more Rings let me
+get more rings I need more rings I'm a
+dirty dirty ring lover
+apparently uh-oh
+uhoh oh [ __ ] I don't know what's
+happening I have no idea oh oh good
+God there you
+go and then I got like the the ultimate
+onion ring for that oh gosh I should buy
+more onion drinks look at you you just
+be chilling here
+huh
+all right uh we got did I even get that
+no but I killed something it's a good
+good work
+day it's a good work day things
+died um can I not go the opposite way I
+can okay so I I got to get something up
+there H so
+far Burger Rings what are those are they
+like some of took a burger and shaped it
+into a ring and then they proposed with
+it that's that's a thing what is that
+where where can I get one
+uh-oh rger Rings what is
+it huh fries that are combined with
+onion rings they're chips in ring shapes
+oh
+oh so wait they're just
+chips donut burger a donut burger ISS a
+donut they're a type of chips what the
+freak hold up they're not they're not
+Burger shaped Rings or rings shaped
+burgers Burger burger
+rings have I tried these oh they're
+Australian no wonder I don't know them
+I'm not
+[Laughter]
+Australian you can fish for hearts to
+bite them oh oh but that'd be like an
+off stream thing I feel it's an
+Australian thing oh no if you're
+Australian you're great by the way
+you're great I just I just it's like the
+equivalent of Neverland you know I just
+I've never been there if I've never been
+there then I don't know if it
+exists no we just we just like to joke
+that Australia is not real same thing
+with Europe oh by the way good job on
+the prompt again uh there were a few
+things I have to remember what I liked
+there's like a lot but uh there is one
+with the prompt with the eyeball the
+eyeball Apple
+there's like a it starts off serious
+it's like we need this power do not be
+selfish with this Shori I need to I need
+to
+read this and look at the knowledge and
+then it ends up with like uh I just want
+to make Europe real essentially and then
+there is another one where is like this
+is forbidden knowledge that we need to
+seek out uh and it was like is it the
+chicken or the egg that came first I
+thought they were super
+dorky it's like you guys are such dork
+uh you're British I hope they're paying
+you well by the way they better be
+paying you or they're hardly
+paying uh it's this way I'm skipping you
+guys how the freck do I get there you're
+in the
+ocean actually what's over
+there a good time for you to read that's
+good I I usually look at them when I be
+ping along with the the Twitter stuff
+not the Twitter like the shiine on air
+so I guess it is Twitter stuff still oh
+wait this is where I came from okay that
+was
+useless I didn't go here so that was not
+quite useless that's
+good you can be D
+you I have enough portal rings to go to
+cypers space actually where uh where be
+that not I think about it there's one
+here let's go do
+it I don't know if I could pay bills
+with onion rings as delicious as that be
+I'd rather get paid in at least like
+half Donuts actually no then that then
+those donuts would mold too fast a
+switch Sher for the and lazy for the tip
+um and Ronin for Persona I'll think
+about it the only ISS is like I I look
+the review it's just like it's it's it's
+fine LL thank you for the SC as well
+good luck with work tomorrow let me
+catch
+up man I don't know if I'm ready to cry
+on Persona I just want like a little bit
+of grinding unless you unless you do
+easy mode just for the sake of the
+story um Virgil thank you for the being
+a
+bookworm and thank you for the support
+everyone chain combo attacks
+isn't there just one way you just keep
+pressing this I'll probably actually can
+you change from normal to easy mode I
+did in normal mode when I first played
+it but I also did the the version where
+you could be a girl not like not that
+the dating options were that great no
+offense you just oh this place looks
+cool all right let's look for the the
+red rings first the red rings of Doom
+Red Room Red
+Room wee
+uhoh there you go I clicked on
+it one two three oh
+shoot there you go I caught
+you oh this music's
+nice oh holy [ __ ] this like some uh I
+don't know DDR is sort of thing but it's
+not DDR it's like Sonic Sonic DDR and
+he's about to De up your ARS whatever
+the [ __ ] that
+means oh [ __ ] ah
+no your RS happen to be
+spared okay we'll we'll focus on the the
+red rings and then we'll come back for
+the time at a later
+date
+uh pork oh thank you thank you I hope
+that you have a wonderful wonderful
+day holy crap this is a great
+music you know what I wish that they
+would do wait can I see what the song is
+called okay maybe after I do
+this wo what song's this it can't it
+won't tell
+me I just know I like it remember that I
+like this song cuz I I need to find it
+later oh what's going
+on
+oh oh no I missed the I missed no send
+me back send me back I used the coin
+damn it damn it I have to go back for
+you now there's the coin oh [ __ ] [ __ ] go
+back go back I'm not letting you go oh
+[ __ ] go back this way
+now all
+right well miss we miss one damn it I
+was so close to it oh it's 41 xceed Mech
+or ma Mech okay remind me in sh actually
+let me do it now so I don't forget it
+damn it not got to do this again try
+again uh in a bit uh 41 exceed exceed
+Mech I to my playlist
+now
+there oh
+boy to my to my BG M my uh ubu
+folder man I I was uh looking through un
+tutorials earlier and I almost added
+added one to shorts like the hashtag
+shorts playlist so yeah this does not
+look like a short it's like how to how
+to open a door in unity with a key press
+it's like yeah this this is not mine
+sorry guys I hope no one noticed
+this it would been
+funny
+[Music]
+[Music]
+[Music]
+at least you got to listen more of the
+song I really like
+it uh-oh
+w
+I I like dub Stu sometimes it usually
+depends on the tune though but like in
+this oh [ __ ] I hate oh no I hate it now
+never mind I hate
+it oh gosh it sets me back so
+far
+[Music]
+uhoh but yeah it usually depends on the
+tune I don't like something with just
+like nonstop dub step and I can't make
+out the tune but this one oh [ __ ] I hate
+Tunes
+now all right how about what we'll do
+we'll just get that one onion ring and
+then we'll speedrun
+this okay don't jump
+there anyway from what I remember for
+Persona 3 though for the girl thing the
+girl side of the story which is
+unfortunate that you can't be a girl in
+this one either um you got your choices
+of
+akihito and uh the one dude who's
+friends with
+akihito shinjo
+maybe and then
+[Music]
+um and this uh other
+character that's kind of weird and then
+um that's that's literally it I mean you
+you can kind of romance I guess even as
+a girl actually no you can't romance jup
+jup was actually meant to have a secret
+ending though it pisses me off that you
+could romance him because I'll beon
+honest yeah he was kind of annoying for
+a bit but at least like he was your bro
+you know the bro code like akihito's
+personality is like oh boy shakes oh
+[ __ ] I messed it up again damn it no get
+me out of here get me out of here how do
+I cancel [ __ ] damn it I can hate on
+blaming your
+ass I'm blaming your ass here I missed
+it that's the one I wanted too go it's
+no wonder I'm so pissed off at your
+ending it's like hey you're like a
+little sister you just confessed you
+love me like then
+laho we got to go back all the way
+there man he confessed to love for me
+but then apparently I missed one
+sequence I missed I missed one [ __ ]
+sequence so so it was like a glitch I
+got to his section he confessed his love
+it's like oh you love me too oh that's
+fantastic and then like the F the finale
+right before I become stupidly adorable
+by the way it's like oh you're like a
+sister to me I love you it's like uh
+excuse
+me okay but is this like a sister that
+you'd probably at least marry someday or
+like a sister like hell
+no can you at least like come on I did
+not spend this many hours just to be
+told that I'm like a
+sister okay like are you a marriageable
+sister or not marriageable sister which
+one
+a you piece of
+[ __ ] and then the other dude is like
+okay I think technically depending on
+how you do your your thing
+um he'll be in a coma
+essentially and then he wakes up right
+when you become a [ __ ] door
+probably that's the only time he wakes
+up like wait I need to say goodbye to
+you yeah you better [ __ ] say goodbye
+to me you were gone for the entire ass
+game the one I didn't Ro ah [ __ ] you
+Shiro yeah you were missing for half the
+game I also didn't know what the [ __ ]
+was happening with you
+at least kurara was here kurara can't
+even talk but you should you you you
+cook okay that's cool but where are you
+for half the game in the coma we'll stop
+[Music]
+it all right let me let me slow down
+here a
+little come on Karu seriously the best
+bro okay Chun you're look I'm sorry this
+is a spoiler okay but it's been like 20
+[ __ ] years Chun your girlfriend's
+gone okay I'm sorry I'm sorry but
+actually if you do um if you happen to
+not miss certain events of it she'll
+she'll like be okay but you know what
+sucks I'm not okay cuz I'm a [ __ ]
+door wow okay
+jipe yeah there's like a secret
+there a secret just to make jimp happy
+oh [ __ ] you damn it I did it again I hit
+this
+game gosh Dam it I did it again damn it
+your F it's your fault it's okay ret try
+stage ret try the [ __ ]
+stage okay okay all right speed spe this
+time speed running this
+time so that those are just my
+grievances for Persona three at least
+the girl
+side you know at least at least that
+side 2 three four
+all right come on
+Shi no more no more tangents you got to
+you got to
+focus uh do you wait we Ste is the white
+hair dude right okay I I tried him not
+going to lie he was boring I should have
+gone with Elizabeth okay if I was going
+to take someone on multiple dates just
+for her to be like oh take me to remove
+your room and let's bang or something it
+should have been Elizabeth okay I'm
+sorry Theo no no it just don't work out
+I don't care if you have white hair
+unless it was
+cooler okay got this I think this is the
+part where I need to slow down or at
+least close to
+it you know what you know what aigus is
+the best girl okay if I am to go for
+someone I'm going for [ __ ] aigus okay
+I do need to slow down here oh [ __ ] but
+not that slow oh [ __ ] oh [ __ ]
+IUS it's okay it's not your fault I
+guess this is my fault fault it was my
+fault look I guess is the best she
+didn't need anything from you she's like
+I'm going to protect you oh [ __ ] okay
+I'm just going to run okay normal oh
+[ __ ] normal
+speed look I gu okay yukari was like oh
+you need maximum CH to talk to my ass
+loser and then and then mitsuru or MIT I
+F I [ __ ] forgot
+MBA I'm I'm going to go slow really need
+this just this one just this one okay
+one two
+three okay where are
+you I won't be full this time oh [ __ ]
+how do I get that
+[ __ ] oh finally I got that stupid ring
+I'm giving it to Aus
+now okay now now we can go here and we
+can retry the
+level he MIT look she's cool but she's
+like ah don't talk to me unless you're
+unless you're super smart unless you're
+getting like perfectionist scores then
+you can get a my motorcycle and then we
+can
+rev and then and don't even get me sorry
+by [ __ ] fuka fuka are you kidding me
+oh you need maximum courage to talk to
+me fuka are you [ __ ] kidding me you
+should not need that high of a a high of
+a rating okay why am I like this what do
+you mean is that true is that true they
+all had to have Max stats just for me to
+to hang out with them you know what's
+funny as a girl you don't need any stats
+except for bsti yukti and Huka will hang
+out with you if you're a girl but Missi
+she's still like uh sorry girl you
+you're too
+dumb I think I think I don't remember
+actually actually no I don't remember
+she might have hung out with
+you but I I specifically remember that
+the girls don't care what your stats are
+if you're a girl they'll they they'll
+accept you but you're you're a dude
+tough tough luck they really do not like
+you they really do not like you by
+default you got to get Max stats you
+can't even do like uh some ofat medium
+stats no you got to be like the best of
+the
+best yeah there'll be like skill
+issue even fuka [ __ ] you
+fuka you know what Kato accepts you at
+least
+in fact the dudes too you don't even
+need stats for the dudes akih just like
+listen to me rant about like uh my
+protein addiction that's literally it
+for for
+akihito and then for Shu just listen to
+me gets stuck in a coma that's literally
+just him and then uh and then Karu bark
+woof woof bark bark
+Mark that's it they're so they're so no
+stats required you're good to
+go damn but the girls are like nah see
+you fam good
+good okay did I finally do it I had a
+lot of tents doing that [ __ ] yeah better
+be an ass if you yeah damn right better
+be like
+thaty look at this results 4 41 just
+like a [ __ ] girl in Persona 3 it's
+like a you got to get skill issue skill
+issue you're not a rank ass you got to
+be rank aori for S I'm not going to take
+a hiori or a eori an Ori a r or an i it
+has to be Shori [ __ ] you
+too oh wait a 130 Rings oh [ __ ] do I
+have
+to a [ __ ] nah screwed that that that
+defeats the whole purpose of the rant I
+don't I don't need to get maximum good
+I'm already
+decent uh sh f
+all right your belly button is all
+cleaned out it better be you think I'm
+going back in there for another round
+[ __ ]
+[Music]
+no man don't even get me started about
+Ken's like Revenge I mean I guess I
+guess it kind of makes sense but boy you
+could have just talk to the dude I guess
+only about a
+vault what's this Vault Vault 76 130
+Rings Ah that's a lot I'll come back if
+I'm desperate right now I am not that
+desperate
+uhoh oh I guess I got to go there now I
+probably should get more hearts on the
+way yeah let's get this
+heart yeah I already know oh how do you
+how do I get up there I probably got to
+kill these
+things
+all
+right [ __ ] you oh
+[ __ ] damn seriously I literally did
+nothing but just stay there oh
+[ __ ] damn
+but nature be shitty huh oh [ __ ] all
+right let's hold this again you don't
+even need to look their
+way yeah you you really don't have to
+look their way at all you can just
+stay
+uhoh
+uhoh yeah you don't have any more
+friends it's just you well wait you
+you're not you you have friends though
+you're great you're great I'm sorry I'm
+sorry you have great
+friends and if you if you don't you'll
+eventually have great friends you're
+cool there you go there you
+go it's it's kind of funny I like I like
+[ __ ] talk the um the enemies but then I
+feel bad it's like oh no what if someone
+takes that to heart no you're great
+you're
+great you're great they're there they're
+there maybe maybe not today or not
+tomorrow for stuff but eventually you
+will you will find something
+great
+yeah no you guys are
+great
+uh oh thank God it's a
+heart what is it a
+heartless oh [ __ ] it led me to a
+caterpillar oh gosh
+darn ah [ __ ] what do you do sting like a
+butterfly fly like a
+be oh [ __ ] I went Poké man on my ass oh
+[ __ ] what the [ __ ] do these blue balls
+do do I like blue yes I
+do okay now now
+what guess I just do this uhoh oh it's
+okay uh wait hold up my dead perception
+is really struggling here which one this
+one okay no it's cool I'll do it I'll do
+it again is this the second one I think
+it is is this the second one I think it
+is okay is the second one yeah it is
+first one okay not
+n oh crap what what are these yellow
+balls do I like these I guess I I'm
+supposed to oh
+[ __ ] uh oh
+[ __ ]
+uh-oh okay I I did something no idea
+what I
+did
+[Music]
+he uh-uh your butt I need your butt ah
+butt oh [ __ ] oh
+man I guess I got to practice that
+one okay uh here's what actually no we
+had oh crap where is
+it oh man I to go all the way back
+there at least the music's
+nice oh
+man guess I got to do that
+again yeah I didn't expect the the
+freaking too pillar stuff or the JoJo's
+Bizarre Adventure pillar
+Arc
+unexpectable
+uh-oh two
+three 2 three four five six
+W two three there you go okay so we
+already got the heart but uh if we go
+through here it's going to make me
+immediately do the boss fight let's try
+it we'll go the long way the safe way
+like uh like Subway Eat
+safe Subway e safe oh yeah actually we
+do have to go here
+too good to know I guess
+um
+okay oh no I don't want to go there I'm
+going to go eat this
+caterpillar I'm a caterpillar yeah you
+are all right blue ball collecting time
+one
+two chump
+uhhuh
+a [ __ ] I have de
+perception is this here okay it is one
+two
+three and over
+here uh and then golden stuff one two
+three really flashy stuff just to get
+that one ball for some
+reason ah
+shoot it takes up so much uh
+stuff I rather have some full
+health
+[Music]
+okay guess I got to wait
+uh-oh oh I don't know what's happening
+but I hope it hits
+you
+uh-oh
+uhoh I think it kind of activated sort
+of in time all right more blue ball
+collection one two let's go
+here uh go here jump uh-huh jump what is
+this second uh I can't really okay it's
+a the first one
+jump
+jump a shoot ah turn
+around all
+right
+okay then the this one there you go J
+anything for the S good job at work
+today okay let me collect some of
+these I think when it's doing that I'm
+I'm going to wait for it to come to
+me
+yeah
+uh-oh well I'm already here that's
+really I don't really understand the
+point of
+this level ground ground pound you
+yeaw cool onion ring let's
+go I killed
+something uh what's this going to be no
+no but I'm going in here oh hey what are
+you hello again
+Sonic bring home the the kids do I not
+have any
+kids I guess not all right I guess we
+got to go find more of your your little
+kids excuse them
+uhoh not enough Cocos oh man why you got
+so many
+kids actually the things for collecting
+they're not related to the the ancient
+civilization are they
+uhoh all right oh no I W oh yeah yeah
+this one this one what I want any
+c NOP but I can I can
+poke all right blue blue ring
+pup oh they are them oh but they're so
+tiny they seem a lot
+tinier oh thank God I had exactly three
+Vault
+[Music]
+Keys okay okay let's
+see let's go for this one cuz it's right
+over
+there oh over
+[Music]
+here or not a
+shoot um perhaps I can still go there
+one
+two oh no I think they going me go
+somewhere else I did not really want to
+be
+in okay question is how what do I get
+here probably cheat with
+this yeah heck
+yeah okay now that we got that one um
+there's also another one near me
+probably over
+there see best way to get there probably
+this
+way oh or not oh I think it's close
+enough
+though one two your dead anent souls and
+memories oh cuz um from what I know it's
+like there's some mini games where you
+lead them to to over y right but for
+this one we're literally just collecting
+them and they have party hats so I was
+kind of confused like are they still the
+same
+thing and then there's like an elder
+version John thank for the SC VES
+Andia oh oh I see you always write fan
+fiction about
+it gosh uh brain house wait Lydia Lydia
+from cat lady
+no that's Mitsy lyia from Rous Lane was
+it
+that my memory I forgot character
+names oh shoot how do I how do I get
+over
+here oh Skyrim okay oh I see I mean it
+could have been really a Lydia could
+have been Lydia maybe McDonald's or
+something or or Lydia with like the two
+weird tangents or the two weird tattoos
+that look strangely like not like a
+[Music]
+tattoo okay I got another
+heart oh lady from Beetlejuice oh I
+don't remember too much about
+Beetlejuice to be honest I think I
+watched it once but I couldn't really
+get into it and now that we got that
+um should probably go over
+here uh let's go over here cuz then make
+can drop
+down
+[Music]
+I think I need to jump over here
+somehow we
+cool uh wait this is not going where I
+wanted to go
+to well it gave me a heart so I guess
+it's good
+enough I think they're doing a like
+another movie of Lydia aren't they or
+not Lydia a be juice
+you're making a movie of
+it a
+remaster uh maybe I can go over
+here yeah there's something over there
+let's go get this heart cuz I know
+they're they're very needy needy needy
+needy oh we already been here okay this
+one doesn't matter then now we gone that
+uh let's actually go here
+heart
+over there I
+suppose oh it's a sequel Oh I thought it
+was going to be a
+remake I don't remember too much about
+it wasn't it kind of gross as in like
+there there's something about the movie
+that kind of had that feel to it that
+was not very princess and pony like for
+me if that makes
+[Music]
+sense make
+lookas what's this uh purple
+thing oh shoot oh shoot it's
+Tetris I did
+something is that
+it oh it wants you to do it from
+okay uh I think I can still do this
+okay uh where's the this
+one see I like Nightmare Before
+Christmas but that's probably because it
+was um like an animated thing but uh
+there's been I guess I'm not too into
+live action essentially that's probably
+just
+it there some music note there and uh
+emo emo
+girl
+let's get some hearts here while we're
+had uh at it what's this fish oh I could
+probably fish there that's right there's
+fishing in this game no we have not
+fished no Sonic is uh completely a [ __ ]
+he's completely a [ __ ] gosh darn it
+again you
+sure oh
+man
+ah
+oh oh oh wait there's two of them wa wow
+you really went n Sonic
+saster okay that's
+it oh [ __ ] where are you oh that did not
+work out for
+Sonic oh that's Parry uh H thank you for
+the SC actually you know what I should
+probably Parry that thing
+more uh let's see where does it set me
+back oh okay I'm going I'm going back
+for you you you hurt me now I must hurt
+you
+Ki uh-oh
+haha you did not expect that or did you
+expect this did
+you where where'd you
+go where'
+you you didn't expect this
+either didn't expect to get beaten by a
+hedgehog today did you and I know you
+liked it so come back on son Sonic we'll
+give you milkshakes chicken tenders and
+other Sonic related
+things I don't know what the [ __ ] they
+serve all I know is that they roller
+skate I think I think they roller
+skate man I should go I should go to
+Sonics actually heck yeah you know what
+I'm going to go there my own my own uh
+suggestion [ __ ] yeah I'm I'm I'm I'm
+going to do it
+I'm going to like it or if I don't like
+it you're not going to
+know get a
+milkshake oh wait is this just a fishing
+session I guess it is I'll just collect
+these
+things oh yeah they are the little Stone
+people okay they're so tiny they're baby
+like that I didn't
+realize oh wait there there's jalapeno
+poppers oh freaking love those I love
+jalapeno poppers that is that's
+canonical by the way jalapeno poppers oh
+canonically liked by
+Shi
+oh oh that's a heart what are you I
+don't know what you are but I'm going to
+oh shoot never mind I'm going to stay
+away from you I think you steal
+things what else do I canonically like
+probably Sashimi I thank you for being a
+book R by the way and Holly for the the
+gifts and Winkle for for uh the s in
+case I end up missing that during my
+tangents you can get easy easy hearts my
+oh can you oh but AR they like slow okay
+let's try
+it it's finally time to try it you've
+never had it h if you don't like cheese
+dep it sometimes depends on what the
+cheese they serve like it could be
+cheddar cheddar or maybe like cream
+cheese I I like cream cheese on my weird
+ass things like sushi
+and jalapeno
+poppers so if you can stand those then
+they're going to pop in your mouth and
+you're not going to like
+it you like cheese that's good that's
+good it's the best way
+yeah gosh he I'm creepy there's so many
+calories though for some
+reason think there maybe like 150
+calories you can beat the game Faster by
+fishing
+oh for SC it's op on is oh thank gosh
+oh hey Sonic the [ __ ] is this come here
+to fish
+too yeah I guess so big what are you
+doing here how did you get here what
+even is here there were other fishing
+spots right we just didn't see them or I
+go there I was looking for fishing spots
+and wound up here so now oh shoot that
+water is crazy of course you are would
+you like to try I'll let you borrow a
+rod
+I guess it wouldn't hurt to detent for a
+second yeah the really can wait you know
+how to
+fish hey you've got a Bight
+Sonic can you see yeah oh oh that's how
+you do
+it it's a CO Cola
+can't
+who so so do I just get Hearts from the
+fish do I like C them awesome you caught
+it already nice catch Sonic I'll if you
+get plenty of tokens I'll try oh so you
+just trade stuff get treasure tokens
+from Big by catching fish once you
+accumulated enough you can have to trade
+tokens to trade for items I'll Aid you
+oh would you like to try oh so you need
+these R oh so you you kind of wait how
+many things do I have do I have
+any
+oh skill
+pieces
+oh hey how
+many would you like to
+try
+here eat my rod your dirty Rod
+[Music]
+lier oh I like how that's prettyy tiny
+oh but it's Platinum is that
+good I'm guessing it's good what why why
+is everyone saying uh what's what's up
+what it is it good is it bad what oh
+you're talking about the rod stuff just
+a fishing rod gosh you guys are so
+[Music]
+strange
+whoa dang
+and I have enough tokens for this crap
+dang I I like the fact there's loow fire
+in here oh that's for chat
+huh oh that's
+[Music]
+happening oh shoot oh my good
+god oh 48 toket oh hell
+yeah it's one of the most venomous
+animals I would still eat it I would not
+eat it
+wow there's so much stuff happening in
+here it's also kind of making me sweepy
+not going to
+lie
+uh-oh the SD and silver oh that's not so
+Bueno oh I still got tokens oh big
+you're so nice had a little story
+line
+a poor poor dude he just he just wanted
+to be a main character for a bit
+wait he's actually uh immune
+really isopod all right I think that's
+probably enough Hearts
+right it's pretty calming we also have a
+lot of purple coins would you like to
+try I just want to trade my freaking
+tokens my
+dude uh here hearts hearts I can do lost
+Coco I probably don't care Hearts you
+know what portal maybe some portal gears
+Hearts just give me so many hearts that
+you oh I have 55 I'm probably going to
+need a lot more AR I I just I just know
+it 65 Hearts like to try all right let
+you borrow a rud no keep your rud
+yourself how many hearts do you actually
+need for this island though you can buy
+wait you can buy vult Keys oh
+frick oh shoot I I didn't realize
+nice what the heck fishing's
+op oh Peter thank for the SC oh oh
+that's Duke Nukem I didn't know
+that I have enough oh
+okay 100 plus it was below the
+hearts uh what what how what else do I
+need
+actually I don't want to buy
+children a they can they can get the
+kids
+themselves let's see you need the the
+keys now okay I guess we can we can do
+that how many keys do you think I'll
+need maybe
+five you can unlock fast travel oh my
+God shut up buddy would you like to yeah
+I'll try it by the way is this like um
+each time you fish you you lose eight
+coins or is it like each time you you
+just like enter this menu it's eight
+coins oh holy crap you need a lot more
+oh man
+oh oh
+god wow I didn't expect that it's each
+time oh
+oh what am I going to do with this eat
+it what do with
+that this water is glitching maybe it's
+intentional I can't tell or maybe it's
+more of a shadow
+thing oh it's one free item oh it's a
+tuna I love eating tuna I think I
+actually prefer tuna over salmon they
+don't like don't stick in your mouth as
+long like the taste you after
+taste see a holly thing for the SC oh oh
+crap let's see that's fine you don't
+have to be sorry for that thank you for
+oh thank for the hammerhead
+shark you know what's weird you get
+these like really cool things but
+they're all worth basically the
+equivalent of each
+other you had enough tuna tode that oh I
+love salmon too oh you know what I think
+I miss go I miss eating sushi I think we
+can go do
+that oh that's a tiny fish a gami or a
+gami I guess the the high quality fish
+is like the 48 ones and the regular ones
+is like less than 10
+I love salmon the only is is like if you
+eat a lot like in those
+um one two I guess like all you can eat
+sushi buffet or something oh God what is
+that I got anything out of that yeah
+heck yeah um they stay oh yeah you're
+actually not supposed to eat a lot of
+fish because of that issue too Boer now
+I think about it but I can't help it I I
+love fish it's so yummy I love sushimi
+sushimi and sushi too bad
+calories yeah yeah you can't eat to oh
+that's gold that's
+cool still 48 come on give me like a
+100 but uh if you eat too much fish you
+you could have that issue that is that
+is true I also heard that um the the
+preo the Lego Lego my prgo ladies that's
+what they have to avoid like too much
+fish because like they're carrying uh
+the baby damn
+oh
+ew it looks cool but it's
+[Music]
+gross about over
+here I the only issue is like how much
+how much fish can you eat then like
+what's the the actual limit it's not
+like you have
+uh um a meter inside of you that
+increases each time you eat fish so like
+how how would you know would you need to
+eat like 10 Achim me a day or or like
+how much in a month wait the limit's
+really
+high oh uh we're just talking about the
+the waffle brand hen MMA oh [ __ ] look
+you made me miss my fish head
+mama oh oh [ __ ] you made me f I'm
+blaming head for
+this damn it it's okay it's okay it was
+my fault it was my fault 1
+two
+[Music]
+three tickets three tickets [ __ ] yeah I
+deserve those three
+tickets yeah Haven haven't you heard the
+term Lego Lego my ego hen
+mama oh [ __ ] I need to stop teaching you
+teaching you Zoomer
+things okay all right there you go I
+paid attention this time me and my
+freaking birthday sunglasses now just
+Mor
+[Music]
+eel
+okay man this is pretty calming well I
+guess once you run out of purple coins
+you can't abuse this
+anymore but oh that looks like a a shark
+590 do you know I can you this oh is
+this that uh that thing from Bak mon or
+something
+y y y oh yeah no it's a song It's a song
+I think it's still from that same
+thing wait wait copyright oh it's macros
+sorry copyright it but I will do the
+first two things just in case y y y
+[Music]
+y yeah that's right him a myself s Bonk
+yeah that's it everyone Hammer
+Time a [ __ ] one two
+[Music]
+three a gold
+card how about this
+one and these will F beats oh speaking
+of I should play melatonin actually but
+melatonin and that's like that's a
+sleepy sleepy
+game cuz it's supposed to be really
+relaxing it's a rhythm game I'll be
+honest I don't know how I can tangent my
+butt off of there I guess I can just
+talk about crazy dream here's the issue
+though I sometimes don't even remember
+my dreams either I struggle one two
+three let give SC oh boy oh it's a
+scroll 64 tokens oh heck yeah
+how many how much uh fish gems should I
+get
+oh but only for the island where they
+obtain from
+oh it's a little too late for that we're
+at the finale
+technically we're at the
+finale one
+two an item
+box what do you think he knows about the
+fish
+probably the fact that they're they've
+seen too much oh there's this cool
+horror game I try to remember it I think
+it's it's either called I am fish or uh
+fishy I forgot I forgot but it's a
+really cool indie horror game where
+you're a fish and you wander around some
+sort of factory thing and then there's
+the other fish you either go up or down
+oh how fish is made I think that's it
+Blue's light yeah you're so smart you're
+so smart I think it's how fish is made
+they also made like other similar games
+but they you were not fishing it I think
+the recent one's about lising but it's a
+really cool game
+developer but it's such a it's such a
+weird freaky Dicky game that I can't
+even describe how it
+works yeah I don't know I don't think
+that long of a game but you go up or
+down and you wonder like what the what
+the fish be
+thinking
+yeah
+oh you saw a vid on the new one me
+too I forgot what it's was called though
+the new one something with
+lising that's that's an alligator oh you
+know what I miss eating alligators they
+tastes pretty
+good oh the the sea the C Man game
+there's a game I don't know if it was
+for the Dreamcast I don't know if it's
+the same one you're thinking of but you
+talked through you talk to a microphone
+for it
+and you tried to take care of the fish
+and it could actually die I think
+someone didn't someone play it
+already do you know do you know what the
+game I'm talking
+about well there is there is a that is
+wait is the same one oh okay okay it's a
+creepy it's a creepy
+game yeah so basically there's this fish
+and it has the the face of a human and
+you're you're given a microphone you
+talk to it uh I don't know you can tell
+nice things or shitty things but it
+could probably get depressed if you're
+really really mean to
+it
+yeah the angry nerd played it oh I
+didn't know
+that I think I think people are saying
+it is the name of the game cannot
+confirm though but uh there is also a
+game back then where you play a C man
+and you literally just wander around the
+freaking water wow this is the equiv of
+a fish it's I heard it was not a very
+good
+game do I watch afn no no I
+don't s
+[Music]
+ea uh hold
+[Music]
+up that's a Loach okay do I have enough
+stuff
+[Music]
+now do I have enough stuff for for
+thanks plenty
+okay oh man I hope I can play uh oh wait
+what's oh no that's on Friday okay power
+world on on Friday me thinks and then uh
+didn't I do the same thing for
+Saturday pretty sure I thought I
+[Music]
+did I miss my oh gosh that's glitching
+oh it's not glitching there's something
+there oh okay okay there's also ontic
+cool an acorn what am I going to do with
+this grow a a mcraft
+tree okay thank
+you would you like to try I'm done all
+right um how many how many do I
+need let me let me know well I could get
+a few things let's get some full
+Keys um how what's the minimum amount of
+keys and hearts three three for Keys one
+two
+three oh 20 20 for
+keys 20ish for
+okay that's a lot of keys
+okay let's wait for
+this dang it's pretty expensive actually
+what does the egg memo do is that lore
+okay and then um how
+many do I need the egg
+MOS like what it was it for oh is that
+like the oh crap I really hurt my finger
+here oh it's just s okay uh I'm not
+really too interested in L right now I
+I'd rather just get the
+hearts okay how many how many hearts do
+I need
+100 egg memos are coolor yeah I'm I'm
+sure they
+are uh what about how many hearts though
+oh wow I really did hurt myself oh holy
+[ __ ] yeah I see like a like an
+indentation of where I hurt myself
+damn
+damn all right yeah I'm okay there's an
+indentation though that surprises
+me uh so 100 okay we'll go for
+100 okay and this is like the maximum I
+need I hope 190 Hearts holy freak
+100 safe 190 that's a lot um so
+basically I I left the the keys on right
+and then when I open when I tried to
+open a door the keys were like still
+jammed in
+there so ow so when I reached for the
+door knob um I end up putting a knuckle
+against like the the the key thing so
+that that
+[Music]
+hurt uh let's see oh it's hell for
+hearts okay I guess I'll I'll get a lot
+of it
+yeah metal
+bruising 190
+190 oh
+man well you know what I have a lot
+apparently let me let me wait here big
+big guy what's his name again big biggy
+biggy
+Smalls oh all right right time to fish
+again oh it's big the cat okay I like
+Biggy Smalls better oh man and have this
+habit where um I like to I like to rub
+like my Knuckles a little or like near
+my Knuckles hey it's
+toyer toyer you're not worth that
+[Music]
+much what was it I say again I forgot
+oh but yeah I like uh I have a
+few few like
+habits maybe I'm distrubing it cuz uh it
+hurts though I don't know but what my
+habits is like I take I take a nail not
+like uh not the hammer Nails just like
+you know regular your regular
+nails and do I know biggie swalls isn't
+that like a rapper
+something I don't know I just there's
+Eminem uh Snoop
+Dog uh uh Kanye West for
+president that's that's literally all I
+know but anyway my have it uh taking the
+nails and I just like dig it sort of
+underneath the skin of
+something proceeds to laugh okay there
+she it doesn't hurt it doesn't hurt I
+just got to bury the skin behind the
+nail if that makes sense bury the skin
+like you buried them
+alive oh that's another octo
+octopus applying
+pressure a sanary
+why off no no not not clenching your
+fist you do that too let's go un know um
+so so okay take your thumb take your
+thumb oh hold up fishing here take your
+thumb uh use your the index finger your
+pointy one and stick it up to Marlin but
+uh use your index finger curl it around
+your thumb a little and then like the
+skin underneath the the edges of your
+nail just kind of like bury it
+underneath just a wee bit just a wee bit
+kind of like that you're going have a
+Marlin laying around you better go fetch
+one I'll wait I'll wait I'll give you
+like 5
+[Music]
+Seconds wait why are you guys saying ow
+does it hurt you does it hurt what's
+wrong with
+you look at look at him he's so happy
+moisturized in his own
+lane what wait you guys are hurting no
+that's imposs they you you guys supposed
+be really sensitive
+though
+wait I can't tell if you're
+serious if you push too hard why would
+you push too hard then well actually no
+it feels
+good it's like a a fidget
+a they just put too much pressure oh
+wait how how pointy are your
+nails how pointy are your nails
+guys you live like this
+damn you just cut your nails oh
+okay sometimes sometimes when I really
+want it in there I take I take my right
+hand and I take my my my middle finger
+and then I like I jam it with my nail
+pretty freaking hard but not like like
+not like a stab hard like a you know
+you're just uh digging it there like a
+tightly wrapping a present or
+something oh and then another thing I
+like to do okay take take your your
+middle finger and then use your thumb
+and then you hide you dig in the skin
+behind the nails of your middle finger
+too I know maybe does it hurt you guys
+you need to let me know I don't know
+anyone else who who might be into the
+[ __ ] look we is where is Cal me calmly
+fishing it feels kind of nice you like
+it soar oh what if I just converted all
+of you or what if I just activated like
+your secret buttons your secret buttons
+to to be a novite forever oh it doesn't
+hurt
+you yeah look at that look at that it's
+not that painful unless you're really
+like really stabbing yourself I
+guess yeah I guess it's just like um a
+habit it does feel
+nice it's a weird thing yeah I need to I
+need to see like a redit red I need to
+know if like anyone else does this it
+has like a whole essay about
+it the kiky
+click Oh you mean with your
+bones with your bones how did I find
+this it's just been something I've done
+since I was really young see my old
+habit was um I sit on a chair right and
+then I would it it had kind of like the
+metal the metal legs for the chair but
+it's like sort of slanted so it's not
+like perfectly vertical I used to like
+hit my hit my leg against that not hard
+or anything you just like tapping
+against it that was my habit or like uh
+the the Restless foot syndrome I have
+that too at least back then not not
+really anymore now it's just like my my
+nails it's just my my finger
+still yeah the same thing for for which
+one the the leg not the legless the the
+Restless Leg
+Syndrome is a chyro I don't know what
+that means I'm scared to say
+it you need a YouTube tutorial uh yeah I
+think I think you have to be careful
+though because like it really they'll
+probably like [ __ ] up your your
+stuff let's see what does it look like I
+don't know looks fun to me but no you
+can probably mess it up so so you know
+what maybe maybe don't be like
+sh don't don't be like
+Shori they spin my my pants no you could
+you could do that oh your pant sorry I
+was like no I didn't I didn't go to the
+kitchen and spin my pants no no what I
+like what what I like to do instead was
+I like to wiggle the
+pencils I take the pencils and you do
+that little stupid uh flexible chck like
+oh it's it's like rubber it's
+rubber no I miss that like I I spin my
+pants ah I used to use the the pants as
+like drums though back in the the old o
+kitchen gosh it was such a very very old
+kitchen I I don't know if I'm accurately
+remembering it but I think it's like
+medieval-ish kitchen not going to lie
+I'll be honest it's probably like a Medi
+evil kitchen my mom gave me the the P
+the pots and pants and I used to use
+that as drums cuz like I couldn't really
+get any toys back then cuz uh you know
+we didn't grow up with a lot of stuff so
+I just I just panned away I also
+bothered a cat I would ask my momy like
+can we give it fish okay shiori but then
+we gave it
+fish and then my mom she had that uh the
+old laundry thing um not like a real
+laundry like those old old medieval
+peasant Tre laundry things like it's a
+bunch of like rollers and you roll
+against it I remember that I remember
+that the washboard yeah
+yeah yeah she is that the doohickey man
+it's like [ __ ] Village Life right
+over
+here like imagine imagine Animal
+Crossing but it hasn't it hasn't got
+into the part where you can customize
+the village yet you can't do your
+Renovations I forgot what the the thing
+is called some sort of Island feature
+okay imagine that but before
+[Music]
+that oh you watch your clothes by hand
+dang you can get like those um the
+smaller laundries that are portable they
+have those now but I don't think they
+they had it back in the The Village The
+Village
+the medieval
+wash the plug-in ones I don't know I
+just saw on Amazon they have um portable
+portable dishwashers and laundry stuff
+it this looks like a tiny bucket hey I
+got a seat of
+power you don't have any coin oh crap I
+bet would you like to tr oh crap I'm
+poor already what the [ __ ] all right um
+what should I get is it am I good oh
+wait I want a
+190 let's just get the
+190 all right I'm good on vys I
+assume or or do you should we get egg
+memos I kind of I should probably save
+some back to Medieval Times red seeds as
+well okay I'll get
+a I got
+25 get the egg memos okay how many egg
+memos are there first by the seeds
+I don't know I rather beat their
+ass uh how many wait do I have to get 33
+vys oh shoot
+uh 20 memos so should I be getting the
+vys first sorry guys if you want to look
+at the Lord look at the Wikipedia cuz I
+know that's what I'm going to
+do H have a good night 12 thank you for
+dropping by should I should get the
+keys um H I'll use my leftovers for
+it
+okay 30 was it 34 Keys 15 mem total Oh
+shoot that's a lot yeah I don't want to
+waste all my stuff for
+that um should I
+do this enough dirty dirty Keys
+[Music]
+perhaps man I'm so glad I have Loi music
+here it's kind of nice actually 33 okay
+thank you
+heck yeah we're breezing through
+breezing and then I think we're good on
+the amount of uh oh crap it's also all
+we can
+get
+225 oh okay I could probably get it then
+I'll I'll save for
+now would you like to try I don't want
+to try anymore I'm
+poor SPO spoiled the rod or spoiled a
+child
+the last Emerald unlock is s then of all
+emeralds oh let's skip
+this I'm getting out of your belly
+button
+big well I'm glad I unlock fast travel
+for
+once
+okay uh how many how many bah buug bah
+buug bah
+buug oh what's this one I already did
+that okay
+let's unlock more of the
+map gosh that was a good fishing
+routine no I actually you know what I
+think it's funny when I mess up the
+sayings i' I've honestly just given up
+I'm never going to remember ever like
+anything at all there's so much memories
+in my traumatized mind it's just like
+it's pointless there's no hope there's
+no hope so like C curiosity killed the
+the cat it
+sucked it sucked it's like no it's I I
+remember you guys kept writing it
+curiosity killed the C at satisfaction
+brought it back no cats die okay cats
+die Nine Lives no you think this cat has
+nine lives no I have like one very very
+long way too long life oh hey what's
+up wait does that take my heart I don't
+want I don't want you taking my hearts
+is it worth talking to you what do you
+do for me what benefits do you have
+I do remember things I do remember
+things but only when it's
+convenient yeah people people wrot back
+um what else Mega thank for being a book
+room oh thank you an extract thank for
+the SC sorry I got I got really srack
+there she's seen things oh she makes you
+I need to talk to her okay like it's
+absolutely required oh crap I missed her
+uh where is she
+again where you at girl
+oh it doesn't take my hearts
+okay uh where you where you at you and
+your Hot Topic
+head oh it's a side
+dialogue what's up
+girl oh it's a sub
+story not going to build up our Social
+Links huh I had secured Dr Eggman in
+cyber space to protect him from the
+impending destruction I had she such
+girl external variables as well you were
+not meant to come here yeah I figured
+that out I understand now why you locked
+my friends in the Cyber cages and fought
+me I wasn't exactly going to leave the
+Titans alone either it's too late for an
+I'm sorry from either of us better to
+focus on making things
+right well okay that was on the point
+does this do I don't know but I punched
+it
+yeah she's such a good daughter oh
+nice ah heck yeah you want to know what
+I
+require more Hearts require this
+sticking in your belly
+button you know it's completely random I
+don't know what I thought of it but acup
+Punk should be scary does anyone do do
+it out of curiosity do you go up to
+someone say like stab me with the
+needles of course does anyone actually
+do
+acupuncture have a good night Epsilon
+thank you for dropping
+by you scary no you try to W how was it
+I heard this isly I heard from my
+biology teacher sometimes sometimes the
+needles are so tiny that like a chunk of
+it gets stuck inside you and you don't
+even know that's what that's what I
+heard of anyway I cannot confirm but
+that is uh what a biology teacher told
+me uh RT and air uh hold up RT this
+is well I don't remember which one's RT
+okay that's
+RT is RT the back one trigger yeah
+trigger
+okay and then
+lb which one's
+X okay
+whatever
+you go we oh hold up
+weekly we oh [ __ ] oh [ __ ] okay
+see that's what happened to need don't
+look
+guys that's why you got
+to it's kind of weird because um I'm
+used to like PlayStation controllers
+it's kind just more memory based that's
+a cool song
+it's more memory based than
+[Music]
+anything oh
+oh oh you had to jump sorry
+Sonic these cars ain't even
+moving
+uh-oh oh thank God you gave me the coin
+H sweet
+Mercy
+oh shoot you did not give me the coin
+hold up hold up let me let me let me go
+back can I go can I go back like very
+slowly oh shoot oh shoot oh
+shoot well I got my wish though all
+right um this one yeah that's the one I
+want yeah I'm not going to talk to you
+uh oh shoot oh shoot oh
+shoot all right I'm so sorry Sonic you
+must hate you must hate being controlled
+by me huh
+hold up we'll wait here no no one hit
+me there you go we did
+it get to the helicopter or
+something oh I saw some really cool
+commercials I think it's my State
+Farm um State Farm or some other some
+sort of other Farm but it was related to
+Insurance it could have been all state
+too but they got the dudes from uh
+scrubs like the comedy
+show and then they just started singing
+with this dude with really long ass hair
+but I was like wow these people look
+familiar and then I remember oh they're
+like the scrub a luscious
+people I can't see
+sh and then like I don't know theyve
+been getting a lot more celebrities feel
+like they're competing with each other
+for like the best sort of commercial not
+going to lie those commercials are
+pretty good am I going to become a state
+oh
+crap a shoot I missed that last one
+I missed the the last
+ring did I at least get the onion rings
+no all right we'll do that then
+repeat oh they still use circles and
+stuff oh man that is that is actually oh
+forg it is kind of
+annoying like I I I don't blame them you
+know if they if they provide you the
+ability to R map it's not too bad
+this sounds called 42
+something I think it's nice although I
+still prefer the the dub Steppy one wub
+wub wub wubble dble
+duub it's like you you'll watch her yeah
+why um don't worry about it
+I don't get it I know neither do I
+that's that's the good
+thing one two
+[Music]
+three got to go
+fast but only only somewhat fast within
+illegal Li
+limits come on I've have I have enough
+onion rings
+here
+oh okay hold
+up one 2 three
+4 One Two Three the last one yeah there
+you
+go all right so now we got two of those
+I mean we also have enough for uh enough
+enough keys to be
+honest you got a see for for kiori good
+enough CE get the
+grease exactly within the legal limit
+that's true I'm so used to grinding for
+everything then now now I'm like unused
+to the the fact that we have enough
+keys I don't know why it did that I
+think it's out of habit how's the feel
+Sonic to be a free man I'm not used to a
+[Music]
+jewelry still proceed to get keys all
+right um I think what I was hoping for
+was that it would give me the map does
+this give me the map I think think that
+might give me the map please give me the
+map I'm avoiding you you're an
+enemy he's free as the wind yeah it's
+cuz he's not dating
+Amy what you do here
+Willis what is this supposed to
+do at
+this oh it says ball
+thing come on it's it touched it a
+little oh
+shoot uh how about
+this how about this
+no come on I'm pretty sure what's wrong
+with you okay how about this one
+how do I how do I just like lightly tap
+it is there a method is there a method
+to lightly tap
+this what what's the method just a light
+light
+tap how about how about just uh okay let
+me let me just practice oh finally a you
+suck oh you suck so
+much that's it your mother's
+mine oh oh
+[ __ ] jump and don't attack
+oh okay we'll try
+that I'm going for you your mother's
+going
+first
+oh no it's still not
+enough it's still not enough your
+mother's very complicated she's a very
+complicated
+lady she's a very very complicated
+woman very high specific sophisticated
+taste there you
+go
+okay like this
+maybe oh good gosh you have to home
+attack from
+higher maybe like this okay we'll
+practice okay let's uh let's do the the
+hardest one
+first double jump
+okay
+oh oh yeah that's it no more chance of
+Shori your your mother's do I'm sorry
+it's okay I'll treat her well but only
+only after I feel like it's
+deserve I've lost it or maybe it was
+already lost there you go all right all
+right gentle time it's gentle
+time I'm sorry I'm sorry it just it
+trigging me so much okay you have you
+have no idea what it's like to be a
+Sonic
+Hedgehog okay now now that that's done
+so good good job uh what is this Shing
+on looking thing is that something I
+should care
+about how about this one let got the map
+I'm tired of having no
+GPS what's this oh come on Sonic you
+don't need to activate your
+thing oh that's a portal oh I I don't
+know why I said that in Japanese
+but
+[Music]
+you spend your days sub mering to be
+like
+Sonic oh yeah I should go see the um the
+Bros so I can upgrade my my ring of
+power or whatever so do I have to do a
+DLC or can I just do the the boss and
+that all also lead to
+DC d right are you Dau or Dao
+ain't like cross look for the uh being a
+page DLC ending after normal end
+okay oh it's a cannon ending
+oh oh
+shoot I don't want to go in near uh wub
+wub wub
+dude
+oh hey what do you do it's kind of sad
+to see
+them uh what what do you do um I think I
+think uh all of uh I think you already
+did
+it I think that's
+it oh he that's
+nice that's it I got enough keys for you
+Kingdom
+Hearts yeah I think the DLC is
+free the C DLC is only Japan I
+[Music]
+think yep that's a a Red Ring Pop you
+know now I think about it I don't know
+where he puts this inventory
+in is it put in a
+shoe
+what thank God I don't got to collect
+more it's kind of nice actually okay
+that was not the the map I was
+expecting let's go over here he absorbs
+Amo is that
+canonical whoever it
+[Music]
+fits I like the sound
+effects oh it's another Tetris thing um
+let's Let's do let's do the white ver
+version
+first and then let's
+do maybe
+yellow I don't know but we'll do it
+anyway then
+blue oh the question marks unlocked this
+one oh
+oh and then the the last
+one oh shoot I messed up ah wait
+actually no I
+didn't
+[Music]
+wee wow that still tells me
+nothing
+wait did I actually did I actually like
+miss this where am I well actually you
+know what I'm already here I might as
+well
+continue okay I didn't even mean to
+solve this oh that's that's another map
+um in that
+case what about this
+one it's like a a wormhole looking thing
+there oh
+okay
+uh I don't really want to be
+here there a mod
+oh there you go guys unfortunately I
+actually can I a little bit too late so
+do you do you just like you show was K
+Senpai and you just have like a the blue
+Sonic head here is that what would
+happen how do they they you know put it
+into the the story essentially how does
+work tell
+me oh you need a PC oh there
+there oh oh okay I'm glad it didn't hurt
+me how on
+now oh holy crap ah it's kind of
+hardish
+one okay I think I think I need to hold
+it so one
+two three
+four
+5
+six
+[Music]
+yeah oh you could you could cheat with
+holding Parry in the air
+oh well I didn't
+cheat how how does it work oh oh
+wow
+wow I see oh that looks like something
+that can kick my ass but I think it's
+just a
+statue
+wow look at you guys look at that the
+true game kidding I'm
+kidding I'm kidding um we can go in two
+two ways here actually we have to go
+here
+anyway what's that I don't
+know
+it's weave in put for
+Sonic
+X
+a
+x
+x whoa why is this laptop oh what's up
+uh let me get this
+[Music]
+first
+hello take my hearts and Skip together I
+believe you can proceed once you find a
+way to AC be the starting device and
+power the
+statue sure would have been smoother
+sailing if we'd been working together
+from the start but well I guess I had to
+earn your trust first huh this music is
+really
+pretty do you know how to activate the
+starting device you press the on button
+I've figured out everything else up
+until now haven't I don't sweat
+it this is just a side story though
+isn't it oh no this is part of the main
+story actually
+let me hack into the the system the main
+frame I bet it's like a space invader
+scheme
+again uh yeah it
+is
+okay just going to ignore
+[Music]
+it
+oh Jesus
+[Music]
+Christ it go
+you let RT
+again oh that's
+cool a little a little too late for me
+though oh
+shoot
+[Music]
+[Music]
+okay that's right go back to your your
+planet the one that's
+dead
+man The Fallout hacking I don't remember
+it being like
+that oh I hope it's not that puzzle from
+the first island
+again nope it's just
+[Music]
+glistening
+[Music]
+it's a long ass
+Bridge the way is clear we must acquire
+the chaos emeralds with expediency
+aren't you supposed to help do that got
+it
+Sage we've run into each other so many
+times but I only recently learned your
+name you could have told me sooner you
+know we we're enemies furthermore my
+name holds no meaning sure it does
+Eggman named you that for a reason that
+means you're important to him a you
+think he cares about me I hope this
+character doesn't die but I think they
+might own way hey time's wasting let's
+wrap this
+up we're probably going to do like that
+sort of ending where like oh you could
+become part of my ship so now you'll
+never
+die I hope I hope not I hope that they
+actually live but I don't know I feel
+like it's kind of
+Poss uh we can go over here to unlock
+more the
+map I just hope it's easy to get
+there doesn't look so easy to get there
+okay oh wait it's over here thank
+gosh yeah the one of
+characters I mean those are usually like
+the typical generic ending though to be
+honest I would I wouldn't be surprised
+if something bad
+happened man oh no you should you should
+play it it's a long ass game though I
+don't know if you'll like it Dragon
+Quest 2 sorry not Dragon Quest 2 Dragon
+Quest Builders
+2 I'd suggest that one what's
+up the shadow treat
+oh as in like uh they in other spin-offs
+or like roselina where they have they
+don't they don't have another one of
+their games but they show up in like we
+satellite maps today but I don't think
+they can compete with direct brain
+downloads I can roll with it now that I
+know it's Ali Tech but it's still a bit
+weird to me like why are the villages
+missing when everything else is so
+detailed the Ancients had a difficult
+time adapting to this world adjusting to
+the new flora and fauna dealing with te
+olical
+incompatibilities their settlements were
+under constant revision the map was
+designed for a universal knowledge of
+the islands and their facilities I guess
+that makes sense and it's probably a
+good idea to limit the info to make sure
+whoever can access it can be trusted
+first I can't tell if you guys are
+saying uh his fos Senai here or because
+of mentioned modern
+nature I can never I can never tell
+one
+two three
+[Music]
+one 2
+one
+one one
+one two one one
+one one one that was
+[Music]
+easy
+oh she plays Sonic Advengers
+too okay got more more of the
+map this your fruit is mine uh there's
+something well we don't need to do the
+tower I don't think we do anyway than
+just have for possible levels I have to
+admit if the if the game was just like
+these sections I think that' be okay too
+too but that more it'd be more like a
+like a oneoff experience in a way I
+don't know it's hard to
+explain kind of like a a fast
+level like a shoot one two
+three oh no I messed
+up one two
+three okay I see
+excuse
+me I still messed
+up let's do it
+again oh we'll we'll figure it out
+eventually might not be now might not be
+later might be not
+[Music]
+tomorrow there you
+go thank you for the blessings
+the castle chap I actually like the
+castle chapter I actually like it I I
+struggle with a desert chapter I think
+it's because I kept having to go back
+down there I like the the fact that the
+story popped off in a castle
+chapter actually actually liked it also
+there was like dead bodies you can bury
+it maybe that's why I really liked it
+maybe it was a dead body so long the
+way I like
+it oh but there was a part of it that I
+did not like because they kind of
+without spoiling too much let's just say
+uh uh back at the cell here we go hey he
+hey ho a mobile day for the
+SC yeah if it's about that then yes I
+agree with you I Tred I tried to visit
+that too yeah I was very upsetting too I
+was very
+[Music]
+upset cuz I I actually got really attach
+to the characters as silly as that
+sounds actually it's not very silly
+considering uh considering
+Mah a Dragon Quest Builders too it's a
+fun game I liked it although it's kind
+of it's like a very very long
+game oh there's this one section where
+without saying too much uh the character
+they're like I don't need to eat you
+need you to have your feel so they give
+you more of their food it's like wow
+character develop that's awfully nice of
+you what are you buying what are you
+selling that's awfully nice of you
+stranger uh billers doesn't have Eric
+that is a Dragon Quest 11 fun game too I
+was obsessed with Eric along with uh LS
+from code Bain it was also it happens to
+be the Japanese voice actor for
+Dmitri there's a question mark here what
+do you do H well it's night time now
+[ __ ] it's night time now [ __ ] it's
+night time
+now what the freak is
+this
+what oh this better be
+it it's like how many times do I have to
+call you a [ __ ] for you work I'm sorry
+it was awfully rude of me wasn't it I'm
+sorry I do apologize I do
+declare there you
+go this looks awfully suspicious
+proceeds to do the same
+thing like yeah you better reveal the
+map to
+me nice R for SC oh have a good sleep
+thank you for dropping by I you have
+good
+sweep
+okay uh let's go over
+Yonder I feels less annoying now that we
+have everything already prepared to be
+honest it's like it it was quite a a
+sledge for me is that what it's called
+uh-oh I don't want no no Sonic stop stop
+no Sonic I got to go shy okay okay it's
+okay Sonic you can't help yourself I get
+it oh no but do you really have to can't
+you just go like no Sonic please think
+of the children what children shy I
+don't know but just think about them
+okay there you go I'm
+out oh let's not hit that I'd rather not
+hit that I better go for
+here why am I going here again the green
+Crystal
+okay uh that one
+pyramid hey there I go there I go way
+way far off actually hold up hold up
+where the where the [ __ ] am I okay uh
+it's it's this way
+sorry my my bad my bad there's so many
+so many
+Maps so many so many places what was
+that green thing it was shiny oh shoot
+I'm too lazy to get it now
+uh let's go over
+here one
+to hey what's up party people what's up
+party animals it's your boy Sonic with
+episode 911 of
+mcraft one two three
+[Music]
+four I'm
+here what's up what's up my peoples it's
+your boy Sonic the hedgy
+hog this game Sayes fun
+yeah you play as a a blue Hedgehog dude
+who does Hedgehog things but he does not
+serve you food just like the real Sonic
+um M thank you for that se by the
+way all right we got the chaos Emeral I
+don't know what the heck this
+does now that we got the green thing um
+see know those guess we got to go over
+here we already got this one didn't we
+oh we don't how the heck how the heck
+said I miss
+that how did the how did the Heckle and
+J oh [ __ ] Heckle and
+or was it Jael and giant a [ __ ] which
+one was it again I think it's Jael and
+hide I like my heck and hide better
+though it drives
+better is so much
+[Music]
+understandable oh yeah I'm I'm avoiding
+the spikes oh my dirty Spike
+lover oh
+one
+it's kind of nice that that I'm a little
+bit more used to things now at the near
+the end of the
+game all right we can go and collect
+those uh which way do you lead to I
+think this
+way oh I'll take
+it
+oh that's a
+life I'm amazing thank you you're
+amazing
+too
+oh I don't know what this is but I'll
+I'll hit it one two
+three man we should watch uh I guess
+it's probably been a while since we did
+a watch
+along I was thinking of um either Rick
+Steves but I'm not sure what they yet to
+do it on I got to think of like what's
+easy for people for the
+peoples or or um I don't know I feel
+like watching clue again clue is such a
+good movie it's such a such a dorky
+movie I love it uh I want to go over
+here where are you you over door wait
+wait there there's something shiny it's
+a heart okay I got enough
+Hearts yeah it's good I didn't know it
+like existed until some time ago that
+was I was very pleasantly surprised
+there's also a plot twist I found very
+humorous I like gold mov movies like
+that oh no I don't want to be
+there I don't want to be something
+go with my Chopper
+keeper uh think it's up here you Le
+to oh yeah we need to do Lord of the
+Rings too I guess we Lord of the Rings
+that should be like a weak a weekend
+thing
+huh I have to admit um although my sleep
+is still [ __ ]
+unfortunately uh the 12:00 p.m. stuff is
+like uh Pro
+productive uh I going the right
+way I think I want to go this way
+though oh yeah you know what I should
+also prepare onion Mi for that oh I need
+to buy popcorn I ran out of Pop oh you
+know what this is really pretty this
+field uh how do I get up
+there it's a really pretty are these
+poppies
+actually I think the battle happened
+here
+probably at least from a storytelling
+perspective look at this wait no don't s
+me this way I want to go back here take
+me back to your
+leader okay I'm going to do that again
+come on Skyrim taught me
+this oh shoot Skyrim didn't teach me
+this
+though was this the me intended method
+by the way I don't think it was meant to
+however what you what you failed to
+realize a [ __ ] they did prepare for this
+how could
+you how do I how do I get over
+here oh no they prepared it they knew
+that maybe I could cheat this but I I
+couldn't cheat
+this darn it you betrayed
+me
+um quite a shame quite a shame sh I
+remember in Skyrim I was like they want
+me to go a long long way but I was like
+[ __ ] that I'm going to go up this
+mountain and and cut my
+hours and it worked was it fun no not
+really it was definitely not fun did it
+work [ __ ] yeah it worked did they look
+ridiculous oh [ __ ] yeah but when are
+I oh this doesn't lead me to the the
+thing
+though let me in
+the you you did the th oh the bodies oh
+[ __ ] I cannot I'll never forgive the
+thore for reasons I cannot disclose what
+I've disclosed in the past what I cannot
+disclose
+here let's just say let's just say there
+are mods okay there are mods okay I'll
+never forgive the
+thalore uh let's go
+here I'mma skip over you I'mma skip over
+you yeah
+one two
+three oh oh wait there are fishing
+things here well not like I fish off
+them but
+still dang you guys are everywhere can't
+you be easier to
+get why you got to be so complicated why
+you got to be so
+complicated oh things are going okay
+iron it's just a chill
+stream oh the Wabbit Jack oh man you
+know what sucks I I felt always
+genuinely oh what this
+do
+a I always felt genuinely bad when I
+wanted a weapon but you had to like you
+had to sacrifice an innocent soul for it
+I think the wab Jack one was like wait
+wait wait which one's the wack one
+there's one where where you you
+sacrifice like a priest or something but
+he like he had regrets cuzz he messed up
+the first time
+right what do you you get from there I
+think you get a nice mace that was a
+really good
+mace gosh man it's so hard it's so hard
+to do that on Starfield I don't know
+much about it I heard it was okay
+though and no romance I think it's
+called
+corruption you get oh you got ebony
+armor
+oh yeah I feel I feel so bad about like
+sacrificing people so on some runs I did
+it on some runs I couldn't I just could
+not how do I get this uh maybe I have to
+come back here maybe I can't go here yet
+oh wait yeah wait I'm not even in the
+right [ __ ]
+place are you sure no I think it's in
+there no I he behind it what the
+[ __ ] you sacrificed that man I that's
+some weird weird weird mods I really
+like the mods where they install like
+new enemies
+wait I guess I do kind have to go
+there oh this is end game oh so don't
+get the white one yet
+okay uh in that
+case I guess I should go for this
+one unless there stuff over there I feel
+like there could be I wouldn't be
+surprised uh it's leading me it's
+leading me to there Let's ignore
+those let's go over
+here oh man me and my stubborn ass uh
+free R
+ass oh no even okay like even with the
+mods I just say it would not be good to
+show yeah those mods yeah s you got like
+really really cool monsters but there
+those monsters have like itty witties so
+it's not a you cannot show
+those well then did I download oh you
+don't want to know you don't want to
+know but it was entertaining I'll be
+honest cuz there's like there is um a
+risk and reward the reward being like
+you don't [ __ ] die that's for sure
+and uh the risk being um well you might
+die in the worst possible way I
+guess let's just say let's just say that
+you can you can get trapped in a sack
+that's that's a lot oh man you they
+don't even self for anything I chopped
+so many people in a [ __ ] sack they
+were just worth
+zero oh and then you can do some like uh
+oh yeah you could you could kind of
+abuse it in a way you could use um
+Healing Hands or something to heal the
+person cuz they're like your prisoner
+essentially so what you could do you can
+increase the oh purple oh but can I go
+back here I think I
+can yeah there you
+go okay so like you know how the more
+you do something the the higher your
+skills get so what I did was I took a
+prisoner and I kept like I kept hitting
+them and uh it's okay I I didn't kill
+them I mean not I don't think they like
+that but I didn't kill them wa that is a
+freaky decky thing I'm staying away from
+that I doesn't go over there so yeah in
+Skyrim in Skyrim so so I kept hitting
+down until they were close to death and
+then I would heal them and then that you
+know you you get some really good uh
+one-handed skills or maybe two-handed
+skills or like damn you're [ __ ] up
+sort of skills kind of kind of those
+things but only do that in the game you
+know you don't want to do that in real
+life that' be
+bad uh a final Horizon is an alternate
+alternate
+what how do I get over
+there there you
+go oh hello lisar thank you so much
+thank you for the kind message and thank
+you for the Super Chat than than you oh
+finally we got this
+[Music]
+thing oh alternate ending if I if I keep
+going this
+way uh-oh I just punched that I don't
+know why I punched it it did something
+I'm going hit
+it I don't know what you do but I'm
+going to go inside
+here I'm so glad I corrected myself last
+minute there I would have been like I'm
+going to go inside
+H uhoh uh Kuma thank you for the SC
+hello good luck with work thank you for
+dropping
+[Music]
+by oh it's a huge difficulty Spike
+oh there you go we unlock the there's no
+gems oh [ __ ] yeah there better be a gem
+there's no gems okay [ __ ]
+you all right I think uh we could
+probably finish the game by next stream
+I hope I'm not entirely sure but I'm
+going to go ahead and save over here I
+will not eat fruits tonight because I
+already ate fruits it's so good you know
+what sucks though like the pineapples if
+they don't get like the good parts it's
+like really really hard on on the teeth
+and whatever or not the teeth but like
+you can't chew it at all it's just like
+eat this pineapple loving
+girl thank you for spending time with me
+let's go over here hit her
+where's my my face there I am that's
+that's a
+me okay thank you for spending time with
+me for today for today I will go ahead
+and give where's my
+arm oh man okay pretend your arm is here
+pretend your arm is here I'm going to do
+that thing what I what I told you to do
+U I'm going to take my nails and I'm
+going to dig your skin underneath the
+the nails too yeah you like that don't
+you I don't know if feel scar of me I
+don't know about you guys yeah you like
+that you like a girl [ __ ] your nails
+or digging your skin was it uh anyway
+yeah have a good night and thank you for
+dropping by and saying hi to me H good
+have a good night go thank you for the
+you as well
+[Music]
+shoting
+[Music]
+[Music]

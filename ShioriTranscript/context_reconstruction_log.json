@@ -1,0 +1,223 @@
+[
+  {
+    "file": "rR8CQK376ok.jsonl",
+    "line": 1,
+    "before": {
+      "raw": "Shen ever been curious about the gadgets content creators may use for streams and Vlogs Shen ever been curious about the gadgets",
+      "actually": "Shen ever been curious about the gadgets content creators may use for streams and Vlogs Shen ever been curious about the gadgets"
+    },
+    "after": {
+      "raw": "Have you ever been curious about the gadgets content creators may use for streams and Vlogs Have you ever been curious about the gadgets",
+      "actually": "Have you ever wondered what gadgets content creators use for streaming and vlogging?"
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "iu5P6fwJNZo.jsonl",
+    "line": 2,
+    "before": {
+      "raw": "no she cing closer I'm SC",
+      "actually": "no she cing closer I'm SC"
+    },
+    "after": {
+      "raw": "no she's coming closer I'm scared",
+      "actually": "No, she is approaching, and I am frightened."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "iu5P6fwJNZo.jsonl",
+    "line": 5,
+    "before": {
+      "raw": "I'm trying to avoid my cont",
+      "actually": "I'm trying to avoid my cont"
+    },
+    "after": {
+      "raw": "I'm trying to avoid eye contact",
+      "actually": "I am trying not to make eye contact."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "lCFgpT7-LFs.jsonl",
+    "line": 2,
+    "before": {
+      "raw": "we're living out the trees we believe in",
+      "actually": "we're living out the trees we believe in"
+    },
+    "after": {
+      "raw": "we're living out the dreams we believe in",
+      "actually": "We are realizing the dreams we believe in."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "AtDfmOm12tw.jsonl",
+    "line": 2,
+    "before": {
+      "raw": "good tidings we bring to you and your can",
+      "actually": "good tidings we bring to you and your can"
+    },
+    "after": {
+      "raw": "good tidings we bring to you and your kin",
+      "actually": "We bring good wishes to you and your family."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "YG0veFKyDmw.jsonl",
+    "line": 7,
+    "before": {
+      "raw": "it's like a really Dy sort of pathetic type",
+      "actually": "it's like a really Dy sort of pathetic type"
+    },
+    "after": {
+      "raw": "it's like a really sad sort of pathetic type",
+      "actually": "One meaning describes someone who seems sad and somewhat pitiful."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "YG0veFKyDmw.jsonl",
+    "line": 9,
+    "before": {
+      "raw": "and then the other one it means that you know she's like bow chicka what",
+      "actually": "and then the other one it means that you know she's like bow chicka what"
+    },
+    "after": {
+      "raw": "and then the other one it means that you know she's like bow chicka wow",
+      "actually": "The other meaning has a sexual connotation."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "_T69lDsKqJk.jsonl",
+    "line": 5,
+    "before": {
+      "raw": "yeah I guess soy button girl I'm",
+      "actually": "yeah I guess soy button girl I'm"
+    },
+    "after": {
+      "raw": "yeah I guess belly button girl I'm",
+      "actually": "I suppose I am the person being called the belly button girl."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "sXouuS6l1mM.jsonl",
+    "line": 2,
+    "before": {
+      "raw": "I still eat bread if it said like it's past the expiration date as long as there's no food there",
+      "actually": "I still eat bread if it said like it's past the expiration date as long as there's no food there"
+    },
+    "after": {
+      "raw": "I still eat bread if it said like it's past the expiration date as long as there's no mold there",
+      "actually": "I still eat bread after its expiration date if I cannot see any mold."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "lEaKTWIfxdg.jsonl",
+    "line": 11,
+    "before": {
+      "raw": "I sawed learning about it it's like okay I think I understand now",
+      "actually": "I sawed learning about it it's like okay I think I understand now"
+    },
+    "after": {
+      "raw": "I started learning about it it's like okay I think I understand now",
+      "actually": "As I learned about these jokes, I began to understand them."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "KZkGKLx252U.jsonl",
+    "line": 1,
+    "before": {
+      "raw": "a't a cute though",
+      "actually": "a't a cute though"
+    },
+    "after": {
+      "raw": "ain't I cute though",
+      "actually": "Do you think I am cute?"
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "vJvlZJWMK_4.jsonl",
+    "line": 2,
+    "before": {
+      "raw": "oh shoot next time I'm going to her in the face",
+      "actually": "oh shoot next time I'm going to her in the face"
+    },
+    "after": {
+      "raw": "oh shoot next time I'm going to shoot her in the face",
+      "actually": "Next time, I intend to shoot her in the face."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "vJvlZJWMK_4.jsonl",
+    "line": 6,
+    "before": {
+      "raw": "when some of them perhaps just a little gam",
+      "actually": "when some of them perhaps just a little gam"
+    },
+    "after": {
+      "raw": "when some of them perhaps just a little gaming",
+      "actually": "Some of them may enjoy a little gaming."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "vJvlZJWMK_4.jsonl",
+    "line": 12,
+    "before": {
+      "raw": "but I'm a Sr with balls of steel",
+      "actually": "but I'm a Sr with balls of steel"
+    },
+    "after": {
+      "raw": "but I'm a squirrel with balls of steel",
+      "actually": "I am a very courageous squirrel."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "LwSw5iYaQG0.jsonl",
+    "line": 10,
+    "before": {
+      "raw": "please don't be bad at I just up the song Don't blame people",
+      "actually": "please don't be bad at I just up the song Don't blame people"
+    },
+    "after": {
+      "raw": "please don't be mad at I just looked up the song Don't blame people",
+      "actually": "Please do not be upset; I only looked up the song, and I ask you not to blame others."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "5gg2FbVd4Ss.jsonl",
+    "line": 7,
+    "before": {
+      "raw": "So if you want to know more about cup noodles, come",
+      "actually": "If you want to learn more about cup noodles, come"
+    },
+    "after": {
+      "raw": "So if you want to know more about cup noodles, come visit",
+      "actually": "Visit if you would like to learn more about cup noodles."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  },
+  {
+    "file": "VE59A1AcHUg.jsonl",
+    "line": 1,
+    "before": {
+      "raw": "so town of bethle how still we see the light above th deep and dreamless sleep the silent stars go by yet in the dark shine we haveing light the hopes and fears of all the years for must in the toight",
+      "actually": "so town of bethle how still we see the light above th deep and dreamless sleep the silent stars go by yet in the dark shine we haveing light the hopes and fears of all the years for must in the toight"
+    },
+    "after": {
+      "raw": "O little town of Bethlehem how still we see thee lie above thy deep and dreamless sleep the silent stars go by yet in thy dark streets shineth the everlasting light the hopes and fears of all the years are met in thee tonight",
+      "actually": "Bethlehem lies quietly beneath the stars, with an enduring light in its dark streets, where the hopes and fears of the years come together tonight."
+    },
+    "basis": "Contextual reconstruction; inferred rather than verified against audio."
+  }
+]

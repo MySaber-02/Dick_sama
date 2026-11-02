@@ -1,0 +1,562 @@
+[
+  {
+    "source_draft_row": 2,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "and I am you fool you're you're you're shorn she I want to be she horn though cuz I always mess up the Nam horn sh yeah sh horn Sho horn no the Shi horn you know like you're show horny get your shoes on",
+      "actually": "You are Shiorn. I want to be Shi-horn because I mispronounce names, like a shoehorn."
+    }
+  },
+  {
+    "source_draft_row": 19,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "well yes and I'm bab B oh yeah yeah introduction that's right that's right be be bin yeah I know that I'm short but you cannot forget the main character",
+      "actually": "I am Baggins. Right, introductions. I am short, but do not forget the main character."
+    }
+  },
+  {
+    "source_draft_row": 23,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "cont context sh sh was was saying like saying like speed run your beep and then and then R was like sure you can't say that and then I was like and then so so you missed the context before this the stream started",
+      "actually": "For context, Shiori said to speedrun urinating before the stream."
+    }
+  },
+  {
+    "source_draft_row": 83,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I know what that be pretty okay if you ever get the chance to read that guy's had the craziest life that actor",
+      "actually": "If you get a chance, read about that actor's remarkable life."
+    }
+  },
+  {
+    "source_draft_row": 115,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I know oh yeah he hasn't been sleeping maybe that's why he doesn't sleep he's a vill",
+      "actually": "!Unclear clause."
+    }
+  },
+  {
+    "source_draft_row": 117,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "it's like his pet wa come here baby it's okay you stupid daddy can't stop thinking about the orb pondering the orb",
+      "actually": "He is like a pet. You cannot stop contemplating the orb."
+    }
+  },
+  {
+    "source_draft_row": 124,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "was a little sexy on the chair with her feet out your feet",
+      "actually": "She posed attractively on the chair with her feet out."
+    }
+  },
+  {
+    "source_draft_row": 141,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "a a he's like the of The Hobbit in the group now it's Zelda's people",
+      "actually": "It is Zelda's people."
+    }
+  },
+  {
+    "source_draft_row": 148,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "see see well I'm not going bye-bye dang he scared her off",
+      "actually": "I am not leaving. He scared her off."
+    }
+  },
+  {
+    "source_draft_row": 149,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "what did I say yeah guys is GNA be questioning this for the rest of his Immortal existence",
+      "actually": "He will question that for the rest of his immortal life."
+    }
+  },
+  {
+    "source_draft_row": 156,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "yeah for dramatic effect she didn't from HB for too long",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 172,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh oh he was such a bro he just he went off right away wow some character development",
+      "actually": "He was a good friend and left immediately; that is character development."
+    }
+  },
+  {
+    "source_draft_row": 213,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "yeah they're like well what do we do now already bur 100 oh y he's just suy right there yay look at that teamwork they're pinging the Discord mod",
+      "actually": "They work together like notifying the Discord moderators."
+    }
+  },
+  {
+    "source_draft_row": 223,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "so come here little guy yeah dwarf's already fighting somewhere else",
+      "actually": "Come here, little one. The dwarf is already fighting elsewhere."
+    }
+  },
+  {
+    "source_draft_row": 228,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "no thank you it's ogre go g go this again scream wow help these men get back safely",
+      "actually": "Help these men return safely."
+    }
+  },
+  {
+    "source_draft_row": 241,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "so it like pulses with the mhm oh oh a a what a good boy gas gatee girl boss Sam is drowning St B him just sliding getting bigger",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 245,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh there oh no never mind it's my son a a cute a back when his father loved him",
+      "actually": "My son. Back when his father loved him."
+    }
+  },
+  {
+    "source_draft_row": 249,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "he's like bro p and tell him he's a piece of come on a wow can't be nice to him",
+      "actually": "Why can you not be kind to him?"
+    }
+  },
+  {
+    "source_draft_row": 250,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I'm just s to his father yeah Denethor is a big I know",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 267,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh look why Sam why gamg oh my poor boy they're sending him out I know your father sucks",
+      "actually": "Your father is awful."
+    }
+  },
+  {
+    "source_draft_row": 267,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "you Denethor I hope he lives just so he can come back and say you Dad",
+      "actually": "I hope Faramir survives and returns to reject his father."
+    }
+  },
+  {
+    "source_draft_row": 283,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "but that's fine oh o it's pretty cool like oh G so simple I'm hungry hungry yeah AES",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 324,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "mm what say you y'all oh uhoh it's a dead beat oh it's a lot of them that's a lot of skulls",
+      "actually": "What do you say? There are many skulls."
+    }
+  },
+  {
+    "source_draft_row": 328,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh ER there oh nice hey yeah oh no oh my son oh what a nice horse",
+      "actually": "What a nice horse."
+    }
+  },
+  {
+    "source_draft_row": 328,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "puppy oh now you care right now now he cares",
+      "actually": "Now he cares about his son."
+    }
+  },
+  {
+    "source_draft_row": 337,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "no no yeah Pippin let's go nice please NE cross wow so he's allowed to move but the other stand there and get hit",
+      "actually": "He may move, while the others stand and get hit?"
+    }
+  },
+  {
+    "source_draft_row": 364,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I was the one",
+      "actually": "!Unclear clause."
+    }
+  },
+  {
+    "source_draft_row": 368,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "the Lego l oh follow your turn okay okay here's crunch crunch",
+      "actually": "Fauna, your turn. Here is a crunch."
+    }
+  },
+  {
+    "source_draft_row": 374,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "yeah nice I mean that's good because have you seen the Army at the",
+      "actually": "!Unfinished clause."
+    }
+  },
+  {
+    "source_draft_row": 411,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "my lady ma'am keep your hood up on your face doing nothing",
+      "actually": "Keep your hood over your face."
+    }
+  },
+  {
+    "source_draft_row": 417,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "come on novel Knights beat those pebbles no so he died still no he's delulu because he oh here a flower at flower",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 422,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "bow bow wow he's like s you got with run yeah really is increasing those DEX stats",
+      "actually": "He is increasing his dexterity."
+    }
+  },
+  {
+    "source_draft_row": 423,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "huh yeah he's almost there maybe spoter Shob sh buff she's quiet yeah she hunting",
+      "actually": "She is quietly hunting."
+    }
+  },
+  {
+    "source_draft_row": 436,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I don't like the man he's so good at this though",
+      "actually": "He is good at this."
+    }
+  },
+  {
+    "source_draft_row": 445,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "but bro e oh no he's distracting him no like my Hobbit",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 449,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh they made it dang how are we going to take this good luck",
+      "actually": "They made it. How will we deal with this? Good luck."
+    }
+  },
+  {
+    "source_draft_row": 449,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "a I ship it those two are great I know it's okay maybe the Discord lurkers will show up",
+      "actually": "Those two are good together. Perhaps the Discord lurkers will arrive."
+    }
+  },
+  {
+    "source_draft_row": 450,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh yeah let's go yeah a that's her son",
+      "actually": "That is her son."
+    }
+  },
+  {
+    "source_draft_row": 450,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "ride now after I hit your spear",
+      "actually": "Ride after I tap your spear."
+    }
+  },
+  {
+    "source_draft_row": 456,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "uh you guys aren't going to like question this",
+      "actually": "Will nobody question this?"
+    }
+  },
+  {
+    "source_draft_row": 457,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "like this is kind of CRA yeah bro oh good God bar my son no",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 476,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh oh no like little bro where'd you go yeah man it's pretty good nice nice nice oh my gosh yeah they're a good like batt",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 482,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "o oh that was kind of unnecessary but okay",
+      "actually": "That was unnecessary, but all right."
+    }
+  },
+  {
+    "source_draft_row": 490,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "this mov nice a free oliphaunt",
+      "actually": "A free oliphaunt."
+    }
+  },
+  {
+    "source_draft_row": 492,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I like how it's just going in the background I like away de people",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 506,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "they definitely did oh yeah got with the p Sam",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 508,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "he's so good all this gardening leveled them up",
+      "actually": "Gardening increased his abilities."
+    }
+  },
+  {
+    "source_draft_row": 509,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "yeah yeah yeah his gaffer yeah his gaffer his old man AER it means old man it's SL look like it's Dad",
+      "actually": "Gaffer means old man or father, as slang."
+    }
+  },
+  {
+    "source_draft_row": 515,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "e for the very blurred face of Gimli oh he just wants to talk",
+      "actually": "He only wants to talk."
+    }
+  },
+  {
+    "source_draft_row": 516,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "this jerk right and he had his own blackmail",
+      "actually": "He is unpleasant and had his own leverage."
+    }
+  },
+  {
+    "source_draft_row": 518,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "maybe maybe she got from a Goa",
+      "actually": "Perhaps she got it from a gacha."
+    }
+  },
+  {
+    "source_draft_row": 521,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "dang that's l no marry for her guess W that was fast",
+      "actually": "That was fast."
+    }
+  },
+  {
+    "source_draft_row": 521,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I know I know she's like finally is someone who's single and beautiful",
+      "actually": "She finally found someone single and beautiful."
+    }
+  },
+  {
+    "source_draft_row": 537,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "I'm sorry oh it's a desert where's a star well he peeping oh looks like they're here a Sam a you Wast you sh it bro a yeah what up bro yeah lvp mhm look at him it's him and Pippen",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 550,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "yeah I was like bro you okay bro yeah but also Sall yeah I know I always fro a he see the P see",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 556,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "hey e uhoh oh no so close not the bingy he becomes the final boss",
+      "actually": "So close. He becomes the final boss."
+    }
+  },
+  {
+    "source_draft_row": 559,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "he's brutal",
+      "actually": "He is brutal."
+    }
+  },
+  {
+    "source_draft_row": 559,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "he took it out thingy his thingy is gone",
+      "actually": "He bit it off; the finger is gone."
+    }
+  },
+  {
+    "source_draft_row": 563,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "it's over oh no he's ssing oh yeah nice yeah oh he mad he's like I'm out of here",
+      "actually": "I am leaving."
+    }
+  },
+  {
+    "source_draft_row": 563,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh oh bye-bye Sauron",
+      "actually": "Goodbye, Sauron."
+    }
+  },
+  {
+    "source_draft_row": 564,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh oh right around the good company oh okay but Sam to come on beide for S",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 573,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "apparently if he became",
+      "actually": "!Unfinished clause."
+    }
+  },
+  {
+    "source_draft_row": 578,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "take a fight woo W yay oh that is beautiful hair",
+      "actually": "That hair is beautiful."
+    }
+  },
+  {
+    "source_draft_row": 582,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "he's still single who cares he's getting a go on hello beautiful",
+      "actually": "Hello, beautiful."
+    }
+  },
+  {
+    "source_draft_row": 582,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "why is Legolas like his bride right now",
+      "actually": "Why does Legolas look like his bride?"
+    }
+  },
+  {
+    "source_draft_row": 587,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh look he's so happy dead a the little guys a he said oh they're bowing to them they should they should all bow to Sam",
+      "actually": "They bow to them; everyone should bow to Sam."
+    }
+  },
+  {
+    "source_draft_row": 591,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "mhm El messed up and everything yeah like damn those kids disappeared for a year",
+      "actually": "They were gone for a year."
+    }
+  },
+  {
+    "source_draft_row": 595,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "Sam your wife like oh my God he's bad",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 601,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "after until decides he wants to go but he builds his own boat and goes I think",
+      "actually": "Until someone else decides to leave and builds a boat, I think."
+    }
+  },
+  {
+    "source_draft_row": 604,
+    "reason": "Unresolved ASR or incomplete meaning; excluded from SFT",
+    "sample": {
+      "raw": "oh no Gandalf oh Gandalf e it's like oh yeah Frodo's going to Frodo oh damn a I'm weak oh e a sing off with a smile m",
+      "actually": "!Unclear fragment."
+    }
+  }
+]

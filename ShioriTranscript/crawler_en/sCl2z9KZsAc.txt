@@ -1,0 +1,4100 @@
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+Heat. Heat.
+[Music]
+Oh, by the way, my voice might be
+quieter as a heads
+up here. Actually, while we're just like
+chilling here, I mean, I guess I could
+just show it. It's like something bad
+here.
+Um, shall we do some audio checks
+because I had to change my some audio
+setup? Yeah. How's how's audio right
+now? Cuz I had some vocal stuff
+yesterday. Took four hours, by the
+[Music]
+way. Oh, my voice is quiet. My blah blah
+blah blah
+blah. BGM is a tad louder now. Okay.
+Yeah. Uh, let's
+see. Audio is decent for now. Question
+mark. Oh, thank you. You like my
+my Hello. Welcome. It's a bit low, but
+that's cuz it's sad. Um, I think it's
+because it's piano. Let me actually
+check what options there are. There is a
+BGM. Okay.
+But you said it was
+low.
+She's decent. It can be. Yeah, true
+that. True that. Um, let's see.
+Maybe maybe like sound effects. I'll put
+a 60. Um, this is usually ambience for
+BGS if I remember right. Touch you. Oh,
+it's a dash. Nah. Oh, it does have a
+full screen. Now we're going windowed
+[Music]
+mode. Welcome everyone. You want BGM at
+90?
+Um, it's kind of weird that only Wait,
+is there even a
+90? No, it only goes by
+[Laughter]
+20s. Oh, sorry guys. It's only by
+20s. Is it an altab? I don't think so.
+This is probably a different version of
+RPG Maker. I think it's RPG Maker MZ. I
+have not kept up anymore to be fair. RPG
+Maker like it's still pretty good
+because it's easy to get into, but it is
+probably a little like people would
+probably just use Unreal Engine at this
+point or Unity. But RPG Maker, I I still
+have a soft spot for it honestly. No,
+MC's not the latest anymore. I thought
+there's like a RPG Maker Unity now. But
+at that point, just use
+Unity. Yeah. or or go or god do I call
+it go
+dot. Yeah. Yeah. But the RPG maker Unity
+at that point just use Unity. I think it
+is um it is a little oldish at this
+point. But you know what? If you want
+something a little bit more simplified
+instead of having to learn everything,
+uh you could you could honestly just go
+with some version of RPG Maker because
+all you have to do is import certain
+things. It's all set up really.
+Yeah, like go use it. Um, Amorei was
+made with RPG Maker. And what else? Oh,
+hey, it's
+Torin. Sure. Nolla here at your service.
+Hall lives
+ari. But yeah, uh, Amorei was made with
+RPG Maker. Zel was made with RPG Maker.
+Honestly, what you just need is a good
+story. Good story.
+Um maybe some stylistic art stuff if you
+can. If you can that's okay too really.
+Uh let's see what else. There's also
+like wolf wolf maker or
+RPG. So yeah engine doesn't matter. It's
+the story. But that's that's how I feel
+anyway. I I don't know what this is
+about, but the store page said
+psychological
+codependency, love, and hate. So, I
+don't know, man. That sounds pretty
+toxic. Yeah, Wolf Editor is like a
+version of RPG Maker. It's a completely
+different thing. That would be like the
+crooked man, maybe. I think. So, let's
+go try it. I have not touched any games
+like this. Oh, look. Warning. Physical
+and verbal abuse. Oh no. Oh no. I didn't
+read the whole
+thing. This is the very
+end. Let's go on and on together
+forever.
+Last train. The end of another day
+consumed by
+work. Get up. Go to work. Crawl home.
+That's my entire
+life. Immersive fighting. My manager got
+mad at me today again. I'm sick of being
+so
+incompetent. My body feels heavy. I'm
+exhausted. Can't keep my eyes
+open. I should sleep just for a while.
+The announcement will wake me.
+Saihat station or Si hate. I'm not sure.
+I think it's Sihat. There's already This
+is a free game, by the way. It's my What
+do you mean?
+No. He my striving, I'm
+sure. Oh, look. They got like custom
+sprites. Did I miss my
+stop? The train car is completely
+silent. Must be the end of the
+line. I have to be in early tomorrow.
+Guess I'm taking a taxi home. What a
+pain. Let's just get out of
+here. Z is to inspect. Controls your
+log. X's menu. Oh gosh. Oh, they have a
+log. That's
+cute. A, they made their own sprite. Oh,
+they have their little inventory
+thing. Oh, that's a pain to make. You
+know, they have autosave. I don't know
+if that's always been a thing. Uh, with
+RPG Maker stuff, you can have plugins,
+but you still have to make these to
+like, you know, artistically and have
+items
+there. Uh, and then, oh man, I was kind
+of lazy with uh the item stuff. I never
+made Well, no, I tried making my own
+sprite. It helps if you have artistic
+skills or
+money. I don't remember taking this to
+work today. How
+strange. I looked inside just in case.
+handkerchief. This handkerchief. I
+thought I'd lost it, but it was in here
+all this time. What was the name of this
+flower? Isn't that uh
+Daisy? I think the last time I talked to
+her was a few years ago.
+Who?
+I'm thought I heard
+something. Yeah, you can edit the uh the
+official assets. you do color swaps.
+Otherwise, uh another thing you can do
+is go to like Pixab Bay and and use the
+the vectors from there to make your
+furniture romance
+film. What else is
+here? So, how these like games kind of
+work? Don't go outside. Well,
+okay. How these games work? It's kind of
+like a grid system. You can't really see
+it, but if you look at the way it walks,
+like this is this is a grid right here.
+So that's where you uh physically cannot
+go. So just imagine everything in
+squares. If there's something that's
+more like of a circle, that one will be
+a little
+harder. Door doesn't budge. It won't
+open. This clock like thing on the door,
+was it there before? I guess I'll look
+for the driver. Well, it said not to go
+outside, but what is outside anyway?
+The shiny thing is probably just telling
+you that you can go here, but because it
+said don't go outside, I don't want to
+go outside. I also do this. This is just
+to mark like ends of the map. And then
+like uh this thing also a method to just
+mark the end of the
+map. Maybe I'll look around a bit more.
+Fire
+extinguisher for staff sign.
+Oh. Oh, also these are like default
+sound effects. Actually, I recognize
+it. Too dark to see here. I need a light
+source. Like, I just kind of wanted
+something calming. Wait, actually,
+that's kind of weird because this is
+supposed to be a horror game, but I'm
+not sure how scary it is. How do you
+operate that? We don't
+know. Doesn't move. Okay. Uh, what was
+this thing again? Line manual. If the
+emergency something is activated, the
+pass to unlock it is
+in the emergency brake, maybe.
+It's empty. The trains run automatically
+at this hour, don't they? So, I'm stuck
+in here until morning. But I've got
+work. I'll just sleep here and take the
+first train.
+H. What was that? Something's different
+now. Maybe I should go take a look. I
+don't know. That kind of sucks. Oh man.
+You know what I did for my stupid games
+or my attempt at games? I didn't let you
+save anywhere,
+guys. You had to save a specific
+location, but my my game is really
+lenient. I don't want to freak out
+anyone. What happened? Oh, I'm a What if
+I skip you? Actually, just like go past
+you. What if I just go here? It It's not
+opening. There's a curtain on the other
+side blocking the view. Okay.
+What do you mean I'm evil? No, my game
+wasn't that bad though. I didn't do like
+random chase sequences. I didn't put
+like uh Oh gosh, what was it? Pocket
+mirror. That game is really
+stylistic. Hello. Right about that.
+Please refer email. Snore
+shoo. I bet that's your toxic yowi
+partner. Too heavy to
+lift. Wait, what?
+Why? It won't
+open. Can I Maybe he'll wake up now
+because there's actually a certain
+amount of Wait, no, you could do
+infinite branches here.
+Huh? Oh, I recognize this. You can buy
+this. This is a stock asset.
+Okay, this song I think it's by like BMU
+or something. You can get on DL site. I
+would know. I also own
+it. There's a lot of uh stock assets.
+So, if you guys ever make games, you can
+get them on DL site and actually check
+the copyright, you know. There's also
+like free free sound effects.org. Really
+great site by the way. Pixabay. Man, I
+know all my video editing assets.
+Senpai, what are you doing here? When I
+looked around earlier, the train was
+definitely
+empty. It's you, right? Are you really
+here? You
+are. Long time no
+see. Yeah, it's been a while.
+Tatsunami. Shon Tatsunami. Former friend
+and current colleague. even though we're
+the same age. And he joined the company
+just a few months after I
+did. He has Oh, he has a master's
+degree. He's smart, cheerful, caring,
+and great at his
+job. A totally unlike me. In other
+words, he treats me with deference, but
+it's just for show. How do you know?
+Deep inside, he probably looks down on
+me and my incompetences. Man, this guy
+Oh gosh, this guy's kind of depressing.
+Just seeing him would make me think that
+way. No way. This guy is wayo. Way too
+insecure. So, I distanced myself from
+him. But I never expected to see him
+like this
+again. We got along at first because of
+our age, but yeah, friendships are hard.
+I feel like the friendship was only hard
+because he has very low self-security.
+When I'm with him, I feel worthless. So,
+I don't want to get involved. But no,
+it's like, you know, you're great. You
+just need you need some
+security. He's a gender bend of me.
+Wait, which one? Shon. Guess I
+overslept, huh? Did you miss your stop,
+too? I want to get out, but the doors
+won't open and the driver's
+gone. So, I was going to sleep here
+tonight. Oh, is that so unfortunate?
+Actually, I still have work to do. I was
+going to finish it at home. You do
+overtime and bring work home. That's
+rough. Uh, but I'm making a presentation
+for a new project. It's hard work, but
+kind of fun,
+too. I haven't done anything like
+that. Oh, I know. That's called a
+railroad
+company. He pulled out his cell phone.
+Oh, yeah. I guess he could have just
+called. Watch. There's no reception or
+the battery's dead. I'm sure it was
+somewhat charged when I got on a train.
+Oh, but you've already contact them.
+Contacted them,
+right? I didn't I didn't think of
+that. Haru here doesn't think of
+anything. No, I haven't. Is your phone
+out of power, too? Let me
+check. I fumbled around in my pocket and
+pulled out my phone. No matter where I
+tap, the screen stayed dark. I wonder if
+it matters if you lied. Like if you
+don't trust them or you're trying to
+show off uh if this affects anything. I
+don't know how many endings there
+are. Mine is also
+dead. Oh, senpai, you're as amusing as
+ever. What a thing to
+say. The train must have a radio set.
+Let's see if it can use that. Okay. I
+like it when games have some sort of
+multi-ending. We haven't talked in so
+long and I feel so uneasy around him. I
+just want to go
+home. The train must have a ray set.
+Let's see if we can use
+that. I like it because like it's like
+tales of some photo. It doesn't have to
+affect everything, you know? It doesn't
+have to be like big, but I like it if it
+interacts or affects like certain
+interactions. Like, oh, maybe it'll be
+nicer to you. Maybe they won't say
+anything. Maybe they won't help you in
+certain situations. Like, I like that.
+Also, here's the phone.
+Actually, the trains radio set. We can
+probably contact someone with
+it. Yaharu's depressed. He's not going
+to think about it. Oh, but if you're
+depressed, I'm sure you would think
+about it. Let's see. Dial zero for the
+head office. Hello everyone.
+Welcome. You mustn't go
+outside. Don't do it. You absolutely
+must not
+leave. Absolutely must not. Well, it's a
+good thing I didn't leave. I wonder if
+that's an ending. Actually, it probably
+is. The one-sided call ended abruptly.
+Is that the name for the SC? What was
+that about? Something terrible happened?
+I already have theories. I bet I bet
+that we're already dead or we're about
+to die. I'm not
+sure. That is worrying. No connection.
+If you can't contact anyone outside,
+then there's no point in staying here.
+Something must have happened. For now,
+we should find a way
+out. But we mustn't go outside. They
+said, "Are you sure it's okay? What if
+we just held on and waited?" That makes
+sense, too, senpai. However, what we
+need right now is situational
+awareness. If you don't know what's
+happening, we can't respond
+appropriately. So, we should figure out
+where we are at
+least.
+Okay. Look at him staying calm, making
+judgment calls.
+Disgusting. He's got it all.
+Oh, I'll just feel worse if I keep
+making comparisons right
+now. Well, then let's investigate the
+area first. Okay, I'm on
+it. Uh, I don't know. I like them, but I
+I
+wonder I wonder why it's codependency in
+the Steam page. Like, I am so blind to
+this. Oh, okay. Okay. Interacting with
+us with him now. Uh has a new
+observation. We need an ID
+card. It's an emergency. What if the
+keys are
+inside? Well, I did notice something in
+the train earlier. Maybe we can reach it
+together. Uh the thing that was heavy to
+reach, but let
+me We need a light source. And I guess
+he doesn't have
+one. Uh let's see. What about outside?
+Nope.
+I wonder how the scare sequences might
+be. Advertisement. Tired of being called
+a wimp? Try the ultimate support
+exercise. Run fast by shift. You might
+even be able to run all the time via
+settings. Open the
+SOS. Press in case of
+emergency. No.
+Was that
+intentional?
+Weird. Even though there's something in
+Oh, what about this? We can lift it
+together. It's mine, but I don't
+remember taking it to work today. So,
+you brought it all the way here, but you
+don't remember it. Yeah, I guess so. Be
+confident, senpai. Trust your own
+memory. Well, can we not lift it
+together?
+Oh, wow. Holding X actually skips that.
+That That's a script,
+actually. It won't
+open. Oh, the next car has paid seats.
+They're so soft and comfortable, and
+there's so much leg room. Perfect for
+sleeping
+in. Just before we go, uh, does this
+have anything? What's the
+password? What should I know?
+Nothing
+happened. Wait, isn't there supposed to
+be like uh if the emergency something is
+stopped, am I allowed to go out now? But
+it says don't go outside, so why would I
+go
+outside? No. Uh,
+okay. There's a shadow on the floor.
+Something stuck to the ceiling.
+Think the two of us can reach it
+perhaps. But how? It's so high. Well,
+you can like climb on
+me.
+Piggyback. Yeah. Why don't we just do a
+piggyback? What? Are you
+serious? It's like Uta. No. I I hate
+her, by the way. Just
+kidding. I don't mind, actually. Here,
+climb up on me.
+You sure about this? Yes, senpai. Come
+on. I'm taller than you after all. Ooh,
+that's driving his
+insecurity. Here we go. I removed my
+shoes, got on his back, and reached for
+the
+ceiling. I got it. Tatonami, is your
+back okay? Absolutely fine. Thank you
+for asking. Where does this energy come
+from? Operator ID card obtained. Wonder
+if it can be used somewhere. probably at
+the right. Some can only be used on
+characters via the item
+screen. Man, there was this one scene
+that upset me from San UT though. It's
+like the girl just like them and you do
+this. You're
+awful. What you driving will become
+either grilled or ground meat. It has a
+moped license.
+He
+knows. Okay. I I have the operator ID. I
+think it was over
+here. The card fits
+perfectly. The door opened. There's a
+small pile of empty cigarette boxes and
+candy wrappers. By the way, completely
+like a little bit of a tangent, but but
+this is a custom font and that text box,
+not usually normal. You can achieve that
+text box either with a PNG of like um I
+think it was a parallel
+processing a parallel processing or they
+probably just changed like one UI
+element, but that UI element is kind of
+like a pain to edit. But but yeah, h
+it's full of trash. Is there anything
+useful? Oil
+lighter. I can use it as a light source
+or burn something with
+it. Uh, I don't know how often I'll die
+and I'm a little concerned about that.
+So, I'll just like do
+this. Let's use the lighter.
+16. Could it be a hint for opening a
+door? Possibly. Custom graphic right
+there. They took the time to make art
+for this.
+Nothing else there, huh? There must be
+another
+thing. If the emergency something is
+activated, the pass to unlock it is in
+the password to unlock and unlock that
+door. Possibly. Yeah, but I don't know a
+number 19. We don't Oh, has a birthday.
+Okay. Product development.
+Pawahara. Not sure if that
+matters. Oh, cut
+scene. Huh? Just now the
+lights. What was
+that? Well, we got half of the numbers.
+I can't see a thing. Wait, here's the
+lighter. Senpai, the lighter. Give me uh
+give us some
+light. Right.
+[Music]
+Oh, what the heck is that
+blood? When did What's going on? Is
+someone else here? Who did this? And
+why? A disturbing amount of dark red
+blood is splattered all over. It's not
+hard to imagine what happened here.
+This stretch of blood is
+suffocating. Crap. So tired and sleepy.
+I'm going to be
+sick. The bile from my empty stomach
+rose up my
+throat. But nothing came
+out. Dang. Senpai, are you all right?
+Wait, why did he say damn? What? Why did
+he say damn? Hold up. What?
+Oh, congrats on your uh exam. I'm glad
+it went well. So, welcome back again.
+Yeah. What was the damn was it in
+regards to the to the blood?
+Maybe. Senpai, are you all right? You
+don't look so good. If this is a dream,
+wake up
+now. The the dam was an auto run. By the
+way, when that happens, you actually
+don't have um you're not able to control
+the dialogue. Wait, the colors are
+faded.
+That mess over there is a real eyes
+sore, isn't it? With this poster, I
+think we can wipe up most of the blood.
+Wait, why would we wipe it up? I don't
+want to touch
+it. I watched this last month for small
+talk material. Oh, that's like
+sociopathic
+behavior. Is it? Actually, no, it's not.
+Maybe he's just a streamer. But for some
+reason, I don't remember the plot at
+all. How can he stay so
+calm? Isn't that sociopathic?
+Maybe. Is it? Is it? No. Well, I mean to
+be fair, even streamers have to go like
+do things for small talk behavior as
+well.
+Guys, what is
+this? Stop it. Oh, stop.
+Please. I'm
+sorry. What was that?
+What's wrong? I saw something weird. A
+woman covered in
+blood. What? Are you sure? Is everything
+all
+right? I feel
+sick. Was I the only one who saw her? A
+hallucination maybe or a
+dream? Moreover, that woman looked just
+like
+her. It couldn't be dreaming of dreaming
+about her murder. How awful. I bet it's
+a sister.
+I can't seem to interact with
+this. You're looking worse, senpai. We
+should clean this up. What should I
+use? I mean I mean realistically you
+could use the handkerchief, but I think
+I wonder if this was an option. Like if
+you use a handkerchief, you're
+bismerching whoever this belonged to. If
+I if I press X, I could
+cancel. Yeah. Like I feel like this
+could lead to a variable that does
+something. It's leading to
+this. I think there's a head
+inside. Yeah.
+Yeah, let's use the
+poster. Romance film
+poster. Yeah. Okay. I think I think this
+does matter. Um I mean, well, actually,
+if I reload it, would that affect
+anything? There. Much better. Thank you.
+By the way, I saw something under the
+seats while cleaning.
+52
+1652
+[Music]
+H. Well, you can't you can't actually
+load from here. You probably have to go
+to the menu to do
+that.
+1652
+one. Oh
+man, doing I like doing the the number
+puzzles. I mean, it's a little bit of a
+pain. So, what happens with these is um
+Ah, how do you how do you do it? There
+is supposed to be a method of it and I
+always kept a tutorial in like a flash
+drive so I could reference it and just
+copy like the the coding for it. But I
+think what happens is you set up a
+number and I you could probably
+randomize it. Oh, I don't I don't
+remember. Maybe I'll just stay off this
+topic just for
+now. Nothing happened. But it's a pain
+setting up. That's all I'm going to say.
+It's a pain. You have to connect like
+three things. You can't just put like,
+oh, the answer of this to get past is
+absolutely this. That's what I remember.
+Maybe we're looking at it the wrong way.
+Uh,
+okay. Um, not
+1652. How
+about Well, if you if you like reverse
+this is 25
+91. Hey
+I feel
+smart. We did it. Now we can finally get
+out. Well done,
+senpai. But still, this whole situation
+is really weird. Nothing can be seen. Go
+outside. Nothing can be seen. I guess
+you have to. We've already saved. But
+they said don't go outside. But he told
+me that we
+should. I'm sure without a depot or a
+station or is a depit things will go
+back to normal. That's why I said to
+myself like a prayer as I opened the
+door. But that feeble hope was shattered
+the moment I looked
+outside. That's a cool little vignette.
+What the heck? There's nothing. Even if
+we leave the train and get out of the
+station, there's We'll be fine.
+Surely. Even he looks overwhelmed. Not
+surprising given this situation. Is this
+real life? I can't take any more of
+this. He'll be okay. There must be an
+exit somewhere. We just have to move
+forward for now.
+Uh I really appreciate the fact that
+they did like their own style for this.
+um this kind of
+style, you you could just make your own
+furniture and then you can put that in
+this thing called a tile set. And what
+happens is that you kind of just copy
+and paste that same image into a
+grid. Uh for other other methods,
+there's this thing called a parallax
+map. Basically, just imagine Photoshop
+and you put it into the game. But you
+have to kind of be careful because
+everything has to remain in a grid
+system that the player cannot see.
+regular trash bin. It's hardly inviting,
+but go through its contents. Not yet.
+How about we see
+first? Like, I probably would look into
+it. Never heard of that
+station. That trash bin there seems
+odd. I don't want to, but it might be
+clues. Good luck. I wonder why he's
+making me do it,
+though. It's kind of odd.
+There might be some clues. That's what I
+told myself as I rumaged through the
+trash. Red ticket
+obtained Karagi station. Is that like is
+that a haunted one? A ticket. What's it
+doing in
+there? Gosh, there's something creepy
+about it. Also, welcome back me. It
+might come in handy. I'll take it just
+in
+case. What the? My head
+hurts. Are you all
+right? I felt my consciousness slip out
+uh
+away. Huh. Really? Young people are so
+weak
+nowadays. A little bit of instruction
+and they get depressed. Only spoiled
+kids have mental
+issues. In my
+day, the train at platform zero will not
+stop. Please stand behind the yellow
+line.
+[Music]
+Huh? What was that? Someone was pushed
+onto the tracks. Did you see that? No, I
+don't know what you're You're making me
+worry. So, you didn't see it, but what
+on earth was that in that
+silhouette? It looked just like my
+manager, huh? But she scolded me earlier
+today. There's no way.
+This is only an assumption, but if
+there's a ticket, then perhaps there's a
+gate as well. Of course, every station
+must have a gate. That may be our way
+out. Let's search for it. But even if we
+exit the gate, how will we get
+home? You know, I wonder if the manager
+pushed a blonde, not the blonde dude,
+the the white-haired guy, cuz that's not
+his um his hair
+silhouette. Or was it us? Newspaper
+lying on the bench. By the way, in
+Japan, like I know it's no secret, but
+it is
+like if if a train is late or something
+happens, uh I think I think I was told
+around Golden Week is when the the rates
+are uh tripping a little higher than
+usual.
+So yeah, some morbid knowledge and the
+reasoning is because they don't want to
+go back to work, which is valid.
+Well, not saying that you should, but
+yeah, kind of like some dark uh trivia I
+learned there. Yeah. Yeah. Not saying
+that you should, you know, to avoid
+going to work, but like Yeah. Fire on
+something line. Two staff, one passenger
+dead. Two
+staff. Uh, okay. So, three people
+died. Something lying. accident at
+something station. Jump in front of a
+moving train. I don't know if they were
+jumped
+though. That's a train I take every day.
+And I haven't heard of
+[Music]
+these. I think he
+jumped. But
+[Music]
+then,
+huh. Gate ahead. Do not enter. Extremely
+dangerous. Well, let's go check this
+side first.
+[Music]
+Please stand behind the yellow line and
+wait for it to
+stop. That's not morse code, is
+it? I don't know, man. I'm I can't move.
+I have a bad feeling about
+this. Let's run over there, senpai.
+Wait, what about the
+gate? Press Z to
+start. Oh, it's okay. It's
+randomized. Run, run, run. Get away. Get
+away. Got to get away. A bit more. A bit
+more. Just a tiny bit.
+Tripping over my own feet, I lost my
+balance. The ground inched closer to my
+face. Everything around me was happening
+in slow motion. I tried to get up, but
+my feet refused to
+listen. Oh, dang
+it. F12 doesn't work on
+here. How am I supposed to take
+screenshots? Take a screenshot for me,
+please. Can you guys take a screenshot
+for me? Thank you. Thank you. Why isn't
+it working? F12 usually works. Maybe
+it's because it's an RPG Maker
+game. He grabbed me by the hand and
+pulled me into the
+train. Are you all right?
+Oh, why did you push him?
+Ow. Sorry, I didn't mean to. I I don't
+know
+what Why did he push
+him? I have a feeling he might have
+killed this guy.
+Maybe I don't I don't know if it's true,
+but maybe like Haru tried to off himself
+and the white-haired dude, I forgot his
+name already, sorry, prevented him from
+doing it and maybe like he pushed him
+because he was pissed and then maybe he
+fell
+instead. Oh, Shion.
+Okay. Windows and print screen. Okay,
+I'll try that next time. Thank you.
+Thank you for earlier, I guess.
+Um, please don't worry about it. I don't
+blame you for being
+confused.
+[Music]
+Uh, instinctively I realized that my
+life was in
+danger. The fear of death took hold of
+me, a fear like nothing I'd ever felt.
+The feeling that all of this was real
+crept up my spine, eating away at me
+until my whole body grew
+rigid. I'm
+terrified. I had lashed out at Tatsunami
+in fear and confusion, and guilt weighed
+heavily on my
+heart. If not for me, Tatsunami wouldn't
+be in
+danger. Wait, but why is it completely
+on you? Aren't you both stuck in here?
+Oh, something's happening.
+If only I wasn't.
+So, Tatsanami, I'm so sorry. I'm
+useless. All I is trouble. I'm the
+absolute worst. You saved me and I did
+that to you. I won't cause you any more
+trouble. I
+promise. That's why. Wait, is this like
+a
+su I think he was having a breakdown. I
+think he was
+[Music]
+Hold up. The screenshot. What was it?
+This one. I did it. Wait, does it take
+pictures of all my monitors? I don't
+know. I'm just going Let me just put
+this on Discord.
+Thanks. This song.
+Um, also a stock
+song. I also own this song. Hold up. I
+need to put this somewhere. Where should
+I put it? Things that make me happy.
+I'll put it in like
+H I'll put it on Twitter assets.
+[Music]
+Yeah.
+Oh, please calm down, senpai. Everything
+will just will just be fine. You'll
+see. To be honest, without you, I think
+I would have given up a long time
+ago. So,
+well, I'm really glad you're here.
+Thank
+[Music]
+you. So, please don't say such
+things. As long as we're together,
+everything will be okay. I can't tell if
+just manipulation or just like
+[Music]
+affection. I I I can't tell. Like this
+this could be affection. This could be
+genuine affection, but at the same
+time, like, you
+know, you're not causing me any trouble.
+Don't worry, it's all
+right. What about you? How do you feel
+around me?
+The reason the reason I think this could
+be potential like manipulation is just
+because of the
+hand that that's kind of um like it is
+grounding you but at the same time that
+is a at this point in time I would call
+it unearned
+familiarity unless he's just touchy. I
+don't know
+man. I'm so
+worried to be honest. I'm still
+worried. I see. In that case, I'll do my
+best to make you feel
+better. As long as you work together,
+I'm sure we can handle anything. Maybe
+this is why it's called
+codependent. His concern is agonizing. I
+can't even look him in the face because
+of how sorry I
+feel. I'm not lying to you. I'm
+genuinely glad you're
+here. Timidly, I peeked at him. Is he
+smiling? Or is does he have like an evil
+face? He stared back at me. I
+serious. Maybe he was being
+honest. It didn't feel like he was just
+making up reassuring words. In fact, he
+seemed to be expressing his real
+thoughts with utter
+sincerity. And here I was, still racked
+by my own
+guilt. No, I couldn't keep beating
+myself up forever.
+Whoa. Does that affect anything? Maybe
+because I was honest or is this like is
+this part of it? Because it seems like
+the options are you either lie and just
+keep being independent or you start
+relying on him. So he'll be fine. I'm
+sure. That's right. Because I'm here
+with
+you. Now let's go home together. for
+sure. Suddenly turned into lowfi beats.
+I tried acting as he would. He was
+probably scared witless too, but he was
+able to control his fear and even gave
+me
+courage. Without him, I would have given
+up long ago. I'd completely forgotten
+how reassuring it is to not be alone.
+Wait, this feels like an ending. I was
+truly glad to have him here with
+me. Thank you. I'm so glad you're here.
+Thank you. What are you thanking me for?
+Oh, maybe it's just a Yahi scene. It's
+nothing. Absolutely nothing at
+all. Anyway, it's so dark in here. Must
+be why you can't see in front uh in from
+the other car. Do the cars with paved
+seats run on a different power source?
+Maybe in case it needs to be detached?
+Well, then let's try to look for a way
+to restore the power
+first. I've been so focused on myself. I
+didn't want to face my weakness and I
+just kept looking
+away. He hasn't changed one bit. You
+know, I feel like they could have been
+childhood friends, too. He's still the
+same person I knew. Kind, positive,
+encouraging. I've got to step
+up. All right. It was not an
+ending. Too soon. But, you know, we have
+the the gate ticket, but they said don't
+go to the gate. It's too dangerous.
+Like I can't tell what's real and like
+what's a maybe a subconscious thing
+happening. Maybe you can unlock this.
+Let's leave it until later.
+Okay. Nothing here. Might as well check
+just to be
+safe. Uh there's something there. I'll
+I'll check it
+later. Someone's back. Take a look
+inside. Maybe. Maybe not yet. Better not
+touch
+it. Like I feel like there was probably
+a head inside the other bag. It's
+blocking the
+way. And if I find nothing else, then we
+can go pick it up. A vending machine and
+a train. Is that
+normal? How else will I have ice
+cream? It's a vending machine. I'm so
+thirsty, but there's no power.
+Okay, it's very red. Okay, you know
+what? I will go ahead and check
+this. I just find it weird because it
+asks you to look inside or
+not. 500 coin.
+Okay. Like, is it a theft then? Am I
+going to get punished for this?
+Because in my silly games that never got
+finished, I did a thing where there's
+like a porcelain doll. You could be a
+total jerk and destroy it and then
+around the house um there's more
+porcelain dolls that
+spawn. It was a really silly
+game. I didn't finish it though.
+Basically, your job was just like do
+chores around my house. That's
+it. There's alcohol here. It looks like
+a lounge. It's cheeky and creepy.
+Actually, if you destroyed a certain
+amount of porcelain dolls, there is an
+ending where like they just kill you.
+Too bad I lost the files for it, though.
+Isn't that a witch's house? Well, it was
+more condensed. It was supposed to be a
+light-hearted game, and there was a
+section of me where I'm like uh I'm I'm
+trying to cook something, and there's
+this giant flame uh scene because I'm
+doing very poorly. You could choose to
+step in and cook for me because you're
+supposed to be like the hired help or
+you could let me cook, but then the end
+result is like I try to feed you later
+and it's uh burnt food whereas if you
+did cook for me, you would have actual
+food. It was a cute idea. I just like
+the wasting away time with um halfbaked
+games. Wait, the party where you threw
+up?
+What? Don't remind me. But you mentioned
+it first. That's
+true. So they have history I'm not aware
+of. A bouquet of small white artificial
+flowers. Flea bane. Reminiscent
+love.
+Harajon. Huh. Just simple weed. But it's
+cute,
+right? Well, weeds are very strong. They
+just
+spawn. A painting of three people
+swallowed by flames. That sounds
+ominous.
+There's a gap between a wall and the
+frame which rattles when
+touched.
+Okay. There was a rusty knife behind the
+frame.
+Oh, why would someone keep a knife here?
+It looks really rusty. Could this black
+stuff be I don't think it can cut
+anything. Maybe we can use it for
+something else. The tip is sharp, right?
+It still feels really weird, but I'll
+hang on to it just in
+case. He also had a very strange
+reaction. Movie dolls. Is that the
+Korean Korean horror film? Laptop. It's
+turned off. What's this doing here?
+Maybe you can see what's going on after
+the power is
+restored. Oh, by the way, um I know it
+looks simple, but like this thing, the
+flashlight mechanic, that's a script.
+It's It's kind of an annoying script. I
+mean, it works, but like you always have
+to change like the amount of
+darkness, the vicinity of your light. I
+remember messing around with it,
+too. That That was kind of fun. Have I
+seen Sinners? I haven't seen it. No.
+Wait, isn't that the new movie? Is that
+the one with the
+cowboys? A sliding window. The bathroom
+won't open.
+Smoking room. I don't get the appeal of
+cigarettes. They smell bad as
+doon. Me
+neither. Shon. Shion
+smokes. A reflection of me
+and a reflection of me and my haggarded
+face.
+Hey, when I do that, you don't see
+anything, do you? Oh, you kind of you
+see this
+though. That's because of the Discord
+lighting. Don't worry about
+it. Hello, Jose. Welcome. I'm Bunker
+Cordur. Thank you for the essence. You
+do?
+Okay. Nothing much has
+changed in Amorei. If you look at the
+mirror enough, like something creepy
+could
+happen. Okay, nothing happens. I'm kind
+of glad. I hate it. No, I don't want to
+see
+it. So, it can't be opened with the
+actual key. If we had a thin object,
+perhaps we could pick the lock. You know
+how to do that? I've seen it done in
+movies. We can use the knife to open a
+door.
+Oh, he has pupils. Isn't that because
+Haru is Haru's dead inside? As I
+illuminated his hands with a lighter, I
+watched him
+intently. There, it's open. Let's
+go. He looked like he's done this
+before. Could he get that good just? No,
+actually, you
+can't. I think I think he could be a
+stalker.
+She's behind me
+smiling. So, I'm hallucinating now, huh?
+Or is all of this a
+hallucination? Uh, looks like blood or
+rust. The air in here, it's so heavy.
+Oh, it's a puzzle. What's that smell?
+Like something burnt and weird. I don't
+feel so good. I think it's a
+sister. Senpai, don't stress yourself
+out. Let me help. Sure.
+Thanks. A smell I don't recognize at
+all. Just like the blood earlier. No.
+Better not think about
+it. There probably is something in here.
+White is before
+blue. Red is not the first. Okay, let me
+just write it down.
+Well, you got white and blue. Um,
+they're consecutive unless there's
+supposed to be something in the middle.
+Red's not the first, so it's last. White
+is after red. Oh, shoot. Okay, hold
+up. White is after red. So, red.
+White. Oh, yeah. Okay. Yeah. White.
+White. Blue. Red. White. Wait. Wait.
+What? White is before blue. Red's not
+the first. White is after red. White is
+after red.
+Can I do them multiple times? There's
+nothing touching green. Green's last.
+Oh,
+okay.
+Okay.
+White. White. Oh, it's one of these
+puzzles. Oh, you know what? I remember
+this. I remember this. So, to do this
+kind of puzzle, what you would do is if
+you go on the right button, you would do
+like um you could either reset it,
+frankly. Uh to reset it, you do a you do
+like a set this number to zero. So if
+you keep doing the right order, you'll
+do like this sets to one, this sets to
+one. If it adds up to like I don't know,
+number six, you finish the puzzle. If
+you mess up, you just got to redo it
+all. Does that Does that make sense?
+Does that make
+sense? Yeah. They give you a number.
+There's like an invisible
+number. Yeah. Yay. White,
+blue,
+red. Uh oh, wait. You can't you can't do
+white again, I guess. And then green.
+Wait, what about yellow? Nothing talked
+about
+yellow. White is before blue. Well,
+okay. How about we do um red's not
+first, so it could be
+second. Could be red.
+Yeah. What about
+yellow? Maybe you don't do
+yellow. Try yellow first. Yeah. Okay.
+So, how
+about white is after red. So, white,
+red. White is before blue,
+though. Yellow may be here first. Okay.
+Let me let me do some other
+combinations. So, white is after red.
+You can't change that. We're going to
+assume
+You can't change that. I don't know if
+it's consecutive, though. White is
+before
+blue. So, blue should be
+last. Yeah, blue should actually be
+last. Uh, red, white, blue, green,
+yellow. Green is
+last. Red, white. Uh, let's do yellow,
+yellow,
+red, white,
+uh, blue,
+green.
+Yay! The lights are working
+again. Oh, looks like the power's back
+on. Good
+job. I couldn't see it in the dark, but
+I knew what this whole room is. But why
+isn't he reacting?
+Time to get out
+fast. Oh, there might be items
+here. Sticky dart. I don't want to touch
+that. I wonder if uh if I talked to him,
+he would have done something or he would
+have just done it for
+me. Ah, excuse
+me. Hey, you still alive, huh?
+Hurry up and die already. You make me
+sick. You know, I think these are his
+internal
+thoughts. I think this is Haru's uh
+thoughts towards Shion. What was
+that? Oh, thank you for the blessings.
+Oh, uh Shark Spear having a camera
+flash. We're friends. Yeah, in that
+case.
+Oh, dang it. I'm tired of all this.
+Quick, let's get out of
+here. These boards wasn't there
+before. Why would I use the lighter? I'm
+sorry.
+What? Nothing in
+here. Why would Why would I use the
+lighter though,
+realistically? Oh, to burn it.
+That won't work. It's taking too long.
+Oh, now it shows up. Nothing here. I
+think it might be this one. Fire alarm.
+Okay, how about this one? Oh, shoot. I
+think we're
+dead. Machine
+oil. We're We
+died. This is the very end. Try to
+remember again.
+Oh, I assume this is like a
+continue. Well, I think about Wait, no,
+that was what
+this try to remember
+again. Did you guys see that? Oh, that
+was so cool. That wasn't just like a
+game over screen. It showed
+something. It It said I think about you
+all the time, but I don't know what it
+said beyond that. You took a screenshot.
+Um, I don't know how you could share it.
+Like put in my sharine on air thing.
+Yeah, that was really cool. Okay. Well,
+while that's
+happening, I'm going to try doing this
+again. So, we have to burn it first.
+It's like absolutely
+required. It is a little strange uh
+requirement
+though. Okay, so now we do this.
+Got machine
+oil. That's just the floor. What about
+this
+one? Nothing
+there. Nothing here. Oh, I'm just
+supposed to burn it with the machine
+oil. That is a little
+silly. It turned to
+ash. Okay, that that is a little silly
+because this is just a twostep puzzle.
+Really? Check my lifetime. Okay, I'm
+going to see it now. Let's finish this
+cut scene first and then let's go check
+the
+lore. Are you all
+right? Yeah, I'm
+fine. That's a lie. I'm not fine at all.
+Those
+voices, it can't just be my imagination.
+It sounded exactly like them. I have no
+desire to recall those hellish days.
+Maybe he got bullied. But those
+traumatizing voices are burned so deep
+they won't leave. My heart started to
+beat faster as my worst memories flooded
+back. No, stay
+calm. Look, it's the human
+germ. Ew,
+gross. You're polluting the air around
+you, right? He's so filthy. Why are you
+even here? Seriously, can you just die
+already? Man, that's so like
+melodramatic. A normal school, a normal
+classroom. The same unending
+abuse. Oh no, my arm touched his desk.
+How
+disgusting. Stop that. It'll rot and
+fall off.
+Oh, you ratted us out, right? That
+counselor was a pain in the
+ass. No, I Then how did I find out out
+about
+it? I I swear I really don't know. I'm
+sure it was someone
+else. Don't lie to us. Who else could it
+be? I'm
+sorry. Hey, enough of this guy. He makes
+me sick. Let's just beat the crap out of
+him.
+Right. We got to teach him a lesson on
+what happens to
+snitches.
+No. Ready? Here we go. Hey, don't hit
+his face anymore. They'll see it.
+A no dodging, you
+scumbag. Hold him
+down. Really? How mad are you? Oh,
+whatever.
+No, stop.
+Please. Messing you up really is the
+best. How could anyone endure this day
+in day out? The hate, the violence. I
+wanted to run away so many times. I
+couldn't forgive my classmates who just
+watched silently, refusing to get
+involved. I didn't want to become as bad
+as my tormentor uh tormentors. So, I
+never talked back. Just bear with it.
+It's easier this way. The victim is also
+responsible because of who I am. That's
+what I told myself. But in the end, was
+it the right thing to do to them? It was
+no more than a game. They'll probably
+forget that they bullied me. No, I'm
+pretty sure they don't even realize that
+they were bullies.
+But for me, I remember the anger, fear,
+and despair I felt 10 years ago are
+still with me. A black mass in the
+depths of my
+belly. You should rest a
+while. Sorry, I'm fine. Let's
+go. Okay. Wow. That
+was like in it. It's kind of seen in
+media a lot like bullying. Also, art's
+welcome. Uh, like it's it's
+melodramatic, the bullying, but the
+thing is it it does happen. There's
+varying degrees of it naturally. And the
+sad thing is that the school system
+doesn't usually act for you. I think uh
+depending on the school system, it
+might it might actually just like let it
+happen because it doesn't affect them.
+If that makes sense. Like you could tell
+your parents and then they tell a
+teacher, but what does the teacher do?
+sometimes
+nothing. So, and then the thing is like
+this is like an extreme level of
+bullying like getting beat up. It does
+happen though. I like I've had I have a
+friend who told me that when he was in
+middle school he actually got I think
+what do you call flushy? That thing
+where you get your head in the toilet.
+Um that happened. So, and I also had a
+friend in middle school. He said like
+that was the worst years of his life
+because he got pretty heavily bullied by
+by the other dudes. A swirly. Okay.
+Yeah. A
+swirly. Yeah. And you got punished for
+fighting back against
+bullies. Yeah, that happens. Um and then
+the the punishment really depends on
+like do you get kicked out of school? Uh
+do people side with you? It there's also
+kind of like a popularity thing to it in
+a way like who's going to side with who,
+right? And uh there is a thing called a
+bystander effect. Some people will not
+actually help you, especially if there
+are more people there. It's a psychology
+thing and it's pretty sad. But anyway,
+uh bullying effects. It It sticks with
+you. It sticks with you. Now, checking
+the live tag for the lore. Let me see
+it. Oh, good job. You guys posted
+it. Let me Let me retweet this one
+really
+quick. Okay. the lore
+here. Yeah, let me go save it really
+quick and then I can show it uh to
+you. That was that was a pretty good
+fast
+edit. Okay.
+Uh
+here I think about you. Uh let's see. I
+think about you all the time. What will
+make you happy? I wonder your happiness
+is my happiness. Shall I bake you a
+delicious cake or take you somewhere
+fun? A long relaxing trip also sounds
+nice. Oh, how happy I would be. I always
+watch you, think about you, think of
+you. I want all of you to myself. Your
+past, future, and present. You make me
+go crazy. You are my one true happiness.
+You are my religion. I want us to go
+together. I think about you all the
+time. What will make you happy? Oh,
+okay. It repeats here. It
+repeats. That's kind of bittersweet and
+sad in a
+way. I don't know. I don't think it's
+that yandere.
+I think it's
+like it really depends because there's
+crazy ones like you know Gasai, but I
+feel like this is more like reverence.
+It's it's devotion in my
+eyes. So, I don't
+know. I I think it's
+devotion. It just depends on what they
+do because you can you can love someone
+a lot and not be toxic about it. But
+again, we just started so who knows?
+It's
+borderline. Okay. Uh, do you need to
+smoke? They
+don't. What? We can't use the restroom.
+What if I got a stomach ache? Thinking
+about it is enough to make my stomach
+hurt. We're all alone here. You don't
+have to worry about me. No, it's okay.
+I'm fine now.
+really door on
+open cares a lot possessive and yandere
+yeah I think so I think so also because
+I'm totally not a yandere towards
+fictional
+men it's so bright in
+here I see your devotion rep by sandy
+effect yeah oh you're in recovery I hope
+that recovery was
+okay what a luxurious ious space.
+There's even a restaurant in
+here. They spoke so blightly, as if none
+of the events
+mattered. I know it must be difficult,
+but shall we take a little break? It's
+precisely in times like this that we
+need to
+rest. He must be forcing himself to stay
+positive for my sake. Yeah, you're
+right.
+Yay. How about that table with the
+flowers? The flowers have to symbolize
+something. Oh, reminiscent love, right?
+Maybe a break would be
+nice. He doesn't need help. Oh, by the
+way, I started a new I started a new
+role play because my other one was just
+survival and it was kind of getting
+tiring of like always being out in the
+freaking woods surviving. Now it's court
+stuff.
+So now now the court hates me because
+like I I don't have a an official title
+and I don't play their games and I just
+want to make like freaking inventions
+that exist in the modern world that
+didn't exist back and
+fought. Could this be Wait, was this Was
+it supposed to be
+us? No. No. Court as in like uh the
+fancy court, you know, like Versaille.
+Versailles. What is that the term? like
+you know he's he's a king my dudes
+court's not gonna like me as some random
+freaking anime
+girl is like a giant I guess just call
+it a mansion really really big French uh
+so basically what they did uh what
+happened was the king built it so he
+could keep an eye on the nobles and hear
+gossip there's secret corridors people
+listening in about like plans against
+him so it's kind of like that. Yeah.
+Anyway, court is harsh. I also watched
+this history video about the Regency
+period, how people would party all day.
+That was harsh, too. People would try to
+get like matchmaking. You have to
+subscribe to it to find a husband. They
+did nothing. They didn't work. They just
+partied, which sounds kind of fun, but
+like it's is really just wasting money
+just to be seen. And like the roleplay
+was pretty good because like I think
+it's realistic. People are a-holes. They
+do undercut you. They're cut. Um, they
+gossip and spread lies about you. That
+was essentially how it was. And that's
+harsh. Like, dang, guys. I just want to
+make [ __ ] ear
+muffs. We sat
+down. Oh, by the way, this is a custom
+sprite. This is like more custom
+art because like, you know, you got you
+got the sprite right here. That's a lot
+of work. They them sitting the
+background.
+Apparently, ear muffs weren't around.
+So, I'm like, I'm going to make a
+wallet. No one made this back in
+1600s. It had coin pouches. So, I'm I'm
+doing copyright theft back in
+1600s. Actually, I don't even know the
+year. 1100s. Freick. If I know it's Fire
+Emblem. Can we chat for a
+while? Nood. Yeah. Yeah, sure.
+Sure. Great. Thank
+you. It's been a while since we talked,
+just the two of us. It makes me think of
+how often we used to get lunch
+together. Yeah, that was what, two years
+ago. Good
+times. Do you remember when we went for
+ramen that one
+time? Oo.
+Stock stock images. Shall we have lunch?
+Oh, his
+ponytail. Your ponytail is so cute.
+Shall we have lunch
+together? After a few months on the job,
+I got used to the work. And I also felt
+a bit closer to
+Tatsunami. Until he joined, there wasn't
+anyone I could talk to easily. And
+because we're the same age, we often met
+outside of work as
+well.
+Sure. Let's go. Where are we eating
+today?
+Today I've picked a special place. Come
+on, don't tell me it's another lunch
+buffet. Nope, not even close. You'll
+find out when we get
+there. I followed him to a shopping
+arcade buzzing with office
+workers. It's hot outside. Luckily,
+there are empty
+seats. Ramen, huh? Haven't had it in a
+while. This is great. This is my go-to
+place. Here you
+can superers size your order by five
+times. I I
+see. Are you ready to
+order? Yeah. One quintuple ramen with
+extra veggies. Four ajitama chashu.
+Wait, what's that? What's that? A tama
+and chashu.
+Someone someone Google Google it for
+me. Less fat. Wait, why is there spooky
+[Music]
+music? Why is there spooky
+music? Less fat. Super firm noodles.
+Kikurag. Moyashi. Nori. Takana. Negi. No
+garlic. Oh, also one large.
+Wait. One large fried rice with extra
+ingredients. Is
+he Is he anorexic? No, no, no. It's uh
+Is he binge
+eating? And then meno rice and eight
+pieces of fried chicken, please. Is he
+binge
+eating? Should you be eating that
+much? Don't worry, you should eat well
+while you can. Who knows when the next
+chance will be?
+He's either he's either binge eating and
+then throwing up later or this is
+intentional as in um his last meal. I'm
+not
+sure the the reason I think this is
+simply because of the audio. You
+wouldn't do that audio cue in a regular
+conversation of this. Can't you just eat
+when you want to? Is that how it works?
+Well, and what will you
+have? Sorry.
+Um, one ramen, half the noodles, please.
+Maybe he can't afford
+it. Is that really
+enough?
+Huh? Soon, the ramen and all the other
+dishes formed a sizable island on the
+counter.
+Looks good. Let's
+see.
+A such a cute image. Tom J. Thank you
+for the SC. It's Sha say. Oh, that's why
+I saw the corn and doily post. He's
+hungry. No way. That's too much
+narrative
+cues. Oh, late 1600s. Oh, I
+see. So, I could I I did steal the idea
+of wallets.
+A mountain of ramen and various plates
+lay in front of
+Tatsunami. Delicious. By the way, I
+don't know if this matters. This BGM is
+actually part of a playlist of like um I
+don't know how I don't know how to
+phrase
+it. It's not It's like a chip tune
+thing, but but the title of the songs
+were not so
+happy, I think.
+Oh, maybe maybe it might be important.
+It might just be like a nice song
+though, to be
+[Music]
+honest.
+[Music]
+Uh, no. I have too much
+stuff. Get some booth. Perry tune could
+be I'm not
+sure. Ramen in the summer is the best.
+It's good in the winter, too.
+I I cannot confirm, but I think this is
+a part of a playlist about like uh
+mental problems was it? But I can I
+cannot confirm. It could just be a
+regular chip tune. I just feel like when
+I bought it and I heard a song like it
+sounds pretty, but the theme of the uh
+the album was a certain
+theme. Uh and spring and fall ramen is
+for all seasons.
+He conveyed a huge amount of food to its
+mouth with great
+dexterity. His appetite impresses me
+every time and makes me happy somehow.
+While watching him eat, I slurp a
+mouthful of noodles. I would eat his
+portions, honestly. Not all of it, but
+like at this point, why order for
+myself? I would just eat his food. The
+soup contains pork bone broth and soy
+sauce, rich but not glooing. The thin
+noodles well coated and the soup slide
+down easily.
+Delicious. Oh, it sure is. I'm glad you
+think
+so. Oh, if only had a beer now. How
+great would that
+be? I know you'd say that if we can't
+drink now,
+surely. In that case, how about drinks
+after work? Okay, let's go. I can't
+drink much, though. Let's go for sure.
+It's a
+promise. Upbeat music with depressing. I
+know that's like
+Kikuo. But in the end, we didn't go
+anywhere, did
+we? Anyway, that ramen was so good. I
+want to go back
+there. Okay, we'll go for sure. I think
+she wants
+dead. Haven't seen you smile in a long
+time. You just seem so troubled.
+Um, I'm sorry. Actually, I was avoiding
+you the whole time.
+What? You needed me during the hard
+times. I know, but I was
+scared. It was hard for me, too.
+[Music]
+And I knew. And yet, I did nothing.
+Awful, right? Forgive me. What happened
+to Haru? Was he bullied at work,
+[Music]
+too? Thank you for caring. I'm the one
+who should apologize. This This one's
+kind of tricky cuz I don't
+know. What am I apologizing
+[Music]
+for? Like I I I personally don't know
+what I'm apologizing for. I don't know
+if this helps. Um I would probably say
+thank you for
+caring.
+Yeah. Yeah. I'm I'm just going to thank
+him because if you just apologize to
+each other, what what does that do?
+Thank you for caring. No, in fact, I
+should thank you for caring about
+me. Although, I couldn't do anything for
+you back then. I'm happy you said
+that. I think you know that I've been
+avoiding you for some time
+now. No, not avoiding. I wanted to get
+away from you.
+We're the same age and started work at
+the same time, but you're so talented. I
+couldn't stand seeing you rise so
+quickly. And I always thought that you
+were secretly looking down on me. So, I
+see. Sorry for making you think that
+way. No, you shouldn't apologize. It's
+my fault. I just assumed. I'm
+sorry. I didn't try to get to know you,
+so uh don't worry about it. Though it's
+not my place to say that.
+Um I don't think that way now. Now it's
+like when we were friends. You are who
+you
+[Music]
+are. I also think you're still the same
+person from
+before. Before it was just two years
+ago. 2 years ago is a long time
+though. Thank you. That's
+reassuring. But I have to say, you're
+really
+incredible. Where did that come
+from? Well, even in a situation like
+this, you stay positive and grounded.
+You're the reason I calm
+down.
+That sad. My inferiority complex
+probably won't go away anytime soon.
+[Music]
+Uh, you always find good in people. I
+really admire that. That's just sucking
+up now.
+What? He reminds me of Harold. I think
+that's his name. What was it? Oh, Fallen
+Hero. I'm so sorry. I did have the post
+for like the last fallen hero, but it's
+like I've been so
+busy. We'll just start a different
+month. I think some summer's just
+screwed, guys. Oh, he reminds me of
+Harold. I
+know. For those who don't know, Harold
+is like this really nice dude who's just
+like he's just sweet. That's really it.
+He's just a nice
+guy. That's fine.
+Really, I guess he kind of has that sort
+of uh naivity slash Well, not really
+naive. They are perceptive, but they
+have that very open, easy to read
+affectionate self. Earnest. Exactly.
+Yeah. Thanks. But I'm not smart and I
+always make mistakes at work. That's not
+true. You're amazing. I always thought
+so. Ever since you were born into this
+world.
+What? Since when? You ask? Like I said,
+from the moment you were born. That's
+why I call you senpai with the utmost
+respect. Oh, that's his first blush. E
+picture,
+huh? To begin with, your current job
+isn't a good fit for you. You focus on
+one thing at a time. Oh god, I can't I I
+have no control over
+this. She spoke so fast it just played
+and I didn't have time to read it. How
+do you know all this?
+[Music]
+Um, I just really like analyzing people.
+That's a strange hobby. Do you do that
+for everyone? No, just
+you. Is he making fun of
+me? No. I relate to this dude so
+much. I relate to dude. I relate to this
+guy so much because that's how I am in
+my freaking role play right
+now. I am I'm doing a freaking metal
+league in there, too. How long has it
+been since I last talked to someone like
+this? I've never had anyone I could call
+a real friend except him. I can't be
+myself around him. We were distant
+before, but now that we're here like
+this, it made me really
+happy. I'm not alone
+anymore. I'm not a stalker. What do you
+mean? I'm not a stalker. I just have
+knowledge outside the events of a thing.
+Okay? It's called a meta leak. Okay? As
+an archiver, I'm allowed to have my
+metal leaks anytime, anywhere, any
+place, right in front of you if I want.
+Don't stop me from metal leaking, guys.
+Temporal inconsistence. My
+butt. Oh, she owns a soccer. Oh, okay.
+Sorry. I didn't mean to react so
+strongly
+then. We'll definitely go home together.
+By the way, my stupid AI analyzed me to
+be self-sacrificial. So, I'm like,
+what? I don't know what this means.
+Maybe the whole self martyr sort of
+thing is having some sort of
+truth. You're lucky you can hold your
+liquor. You say that because you can't.
+I've never felt that way,
+though. I'd love to get drunk just once,
+but alcohol makes me feel
+sick. Well, it takes so much to get me
+drunk, so I'm just like you,
+senpai. Be kind to your body. Okay.
+Thank you for your
+concern. Fruity and soup. What do you
+mean? It's a I like the game. Oh, also
+happy birthday, monkey. I hope you have
+a great birthday
+today. What's the first thing you'll do
+after getting home? Pet my cat. Probably
+pet my
+cat. I want to feel my cat's fur. There
+just aren't any animals here. That's
+nice. It's at your parents house, right?
+How did you
+know? I don't remember. It's called It's
+called a medally. Karu, I'm sure that
+Shion means well. Just because they know
+so much about you and like analyze you
+doesn't mean that they're going to use
+the info for anything bad. Of course,
+don't worry about it, Haru. It doesn't
+mean anything bad. They just love you a
+lot. I understand. I understand how it
+works. He didn't kill my sister, did he?
+Oh, we did it. The vending machine is
+working.
+How about some coffee to energize you?
+Or would you prefer
+water? We water premium. Uh, probably
+just
+water. A healthy choice coming right up.
+I wonder if that
+mattered. What the
+What? His face deathly pale, he pointed
+a trembling finger at the pickup
+box instead of a drink.
+There was a decayed human arm. Bro, give
+me my money
+[Music]
+back. An arm. Is it
+real? This
+is Why is it
+[Music]
+here? Something strange is going on. You
+know, I think we have to make my sister
+or whoever that female is. I think
+there's going to be a head in the uh the
+duffel bag. We have an arm. Maybe we
+need all the body parts. Hi, Jimmy. I'm
+not a stalker. Well, I'm not toxic
+either. I think those red nails. It must
+[Music]
+be my man. What? Did he kill his
+manager? My
+manager. He can't be. I saw her
+today. Did he kill the manager?
+[Music]
+Did it happen after that? No. This arm
+is far too
+decayed. What's going
+on? All the lights are
+gone. What was that? Came from outside.
+Could be the black mist.
+I I got to kill you is what it
+says. Give it
+back. Where should we
+[Music]
+go? Give it back. What could it mean?
+The
+arm. Got to run fast.
+I don't
+know. We should probably give it back. I
+don't know. Why is this happening? Your
+honesty is so
+endearing. Let
+me Let me save this really quick cuz
+it's so funny to
+me. Because like my first honestly, as a
+horror protagonist, your first reaction
+should be to run,
+right? But like my answer was I don't
+know. I got to give it back. I'm
+thinking my my reaction in this it
+should probably be to run, but I'm
+thinking it wants something
+back. Perhaps it's looking for this arm.
+Could you step aside,
+please? Hey, won't you just push
+me? Without any hesitation, he pulled
+the arm out. It's Arai. Exactly. Thank
+you. You understand. decayed arm
+obtained by
+him. I didn't look and I can still
+imagine how gross it
+feels. Uh, of course, this disgust
+thing. You don't have to do anything.
+Uh, what to do?
+Uh, maybe the thing will calm down if
+you threw the arm out the window
+upstairs. Upstairs? There's an
+upstairs. Don't force yourself.
+Oh, looks like it's
+saved. Uh, how about
+here? Uh, maybe maybe out here. Any food
+you don't like? Not at all. Being able
+to eat is such a bliss, isn't it? Omo,
+hamburger, steak, parfait. The world is
+full of delicious things. You know,
+seeing you eat well makes me happy. I
+once had a goldfish that instantly
+gobbled up any food I gave
+it. Did you just compare me to a
+goldfish? Oh, Sabin, thank you. Thank
+you. Oh, good luck would
+work. Yeah, good luck today. I hope it
+goes
+well. Uh, we didn't check this actually.
+The laptop is on recycle
+bin. It's It was just a regular folder.
+Wait, don't look
+there. The folder contains many, many
+blurred photos of someone. 20,000 files
+easily. Wait, is this his
+laptop? Hey, that's definitely off
+limits. Huh? Why are you so worked up?
+It'll mess with your brain. What? How
+will it do that? Anyway, none of this
+seems relevant. Let's Let's just move
+on.
+We don't know the password either. So,
+it's probably not worth uh doing right
+now. Em should
+we
+love? How do we uh throw it out the
+window? Oh, wait. Maybe I have to run up
+outside first.
+Okay. Okay. Let's uh let's do that then.
+Red wine apple. Huh? Maybe we need this
+later. Prepared
+yourself. There's a kitchen back there.
+If you find items, we can make
+something. It's not odd. I'm sure it's
+fine. Okay, but not really. Is there
+even any food in this place?
+Okay, I guess we got to go
+out or or here. Opens if you want. Huh?
+It opens if you want nothing to
+change. What does that
+mean? Is it safe to go out? It's kind of
+scary. That's the car we started out
+in. Give me back my arm. It's pressed up
+against the window. Open the door.
+Fudge. No. Let's not do that.
+Yeah. Nothing to steal. So, how am I
+supposed to throw away the
+arm? Welcome back. Well, happy 20
+months.
+Um, like this is the second floor. And
+didn't they say that I should
+be Yeah, it said from the upstairs.
+Maybe. Maybe it's from here. Here.
+The black mist is pressed up against the
+train. Here we
+go. Watch out
+below.
+Disgusting.
+Wow. The black mist
+disappeared. Is it gone now? I guess so.
+No matter where I look, I don't see it
+anymore. This means we can investigate
+the station
+now. I guess
+so. Thanks. That must have been
+unpleasant. Huh? No, that was nothing.
+I'll do anything for
+you. I'll do anything for you. I I see.
+That was really bad of me.
+He says otherwise for my sake, but
+clearly that was hard for him. What
+should I
+do? Anyway, let's go outside, shall we?
+Hi, Jester. Welcome. Welcome back. No,
+I'm not a yonderate. What do you
+mean? What do you you mean to tell me
+that you would not pull out a
+disembodied arm to protect your loved
+one? We use this one.
+I feel like for the Well, no, it makes
+sense. It makes sense that they have the
+the dialogue here. Let me just look
+here.
+Nothing. I'm Shior. Exactly. All right.
+No more dialogue here, right? Spring
+makes me so Oh, so
+miserable. Why? You're named after it.
+My name's got nothing to do with it. I
+mean, my pollen allergy. I see. Yes.
+You've suffered every year. Every year.
+But only one spring has passed since we
+met. Also, I find the warmth of spring
+kind of depressing, actually. I just
+can't find anything good about that
+season. I love spring in all its
+forms. Did you ever play There's so much
+dialogue here. It's kind of interesting.
+in IB. Uh there is actually a hidden not
+really an affection system, but there is
+a hidden dynamic. If you talk to Gary at
+a certain location, that changes the
+ending. Uh same with
+Mary. So, I wonder if this counts or
+something. Did you ever play any
+sports? Nothing that I call a sport, but
+why do you ask? Well, you run fast and
+you're also strong, so I was just
+wondering. I train a bit, standing for a
+whole day, crawling through tight
+spaces. I also walk behind you a
+lot. Impressive. I need to I think
+you're fine as you
+are. And it's randomized here now.
+Interesting.
+Oh yeah, just to do that that little uh
+text thing behind you. That's actually
+another script. You can't just do it
+normally. People make a lot of script
+for these
+things. I'm sorry. Could you give me a
+few
+minutes? I don't feel so good. I'll go
+to the restroom. Huh? Are you okay?
+Besides, Doris won't I can go with you.
+I'll be fine. Just wait here for a
+while,
+please. He ran off as if trying to
+escape. Something's wrong. Was it too
+much for him? Probably touching you that
+thing. And I made him do it. I guess
+I'll just wait
+asked. I waited for
+him. Alone. All the anxiety and fear I'd
+held back came at me like a landslide.
+What if we never get out? What if
+something happens to him? What if a
+swarm of bad thoughts quickly took over
+my
+head? Hi,
+Kevy. This is worrying. He's taking too
+long. What was that? It came from
+upstairs. I'm worried about him.
+Oh, let's
+go. Hello. Are you
+[Music]
+okay? Why are you
+still just disappear already? You're not
+needed
+here. Did this guy bully me back then? I
+should talk to Wouldn't it be Wouldn't
+it be really ironic if this is the guy
+that actually bullied me as a kid? I
+like I can't confirm, but like No, it
+would it wouldn't be a thing,
+right? But wouldn't that be like really
+really ironic or insane? Yeah, I should
+talk to
+him. Hey, are you okay,
+buddy? Are you all right? I heard a loud
+noise.
+I just hit something with my hand, but
+it's not a big deal. I'll be fine. Hit
+something? You mean a mirror? Why are
+you
+injured? Your hand? You're
+bleeding? It's fine. Really? This is
+nothing. I'm used to it. What? Why are
+you used to it?
+That's a nasty wound. How can it be
+nothing? Hold
+on. Oh, it's a good thing we didn't use
+this early
+on. Is this handkerchief his or his
+sister? I used the handkerchief to dress
+his wound. If we use this early on,
+assuming it even let you, um, we would
+only have a poster here.
+Huh? This handkerchief, is this what you
+like? The design is quite delicate. No,
+it was someone gave it to
+me. Tada. Here, a present for you. It's
+so you, Harikun. That's how I chose
+it. I see it. And you're still using it.
+Doesn't matter,
+right?
+Uh-oh. That'll do. Thank you. I'm okay.
+Okay, let's go investigate the station.
+Maybe I shouldn't be um Maybe I should
+have kept the post there. Are you sure
+you should rest if it's too
+much? Food bar? What does that mean?
+What's that? Isn't that something a part
+of a car? Diki, welcome back. There's no
+need. I'm fine. Let's go. If you say so.
+But I'm just worried if something
+happens to
+you. Oh, fudged up beyond all
+recognition. Why? What is that supposed
+to
+be? I fudged up. Oh, as in like I made a
+mistake. Was it even an
+option? No, it's a military slang. Oh, I
+see. Is this a bad ending? I
+wonder. I appreciate your concern, but
+really I'm okay. Trust me. Please don't
+worry. I will never leave
+you. Actually, you know, I just realized
+something. Hold up.
+Um, we might have I don't know if it
+would have let me. We might have been
+able to look at the laptop on the way to
+him.
+I'm Oh gosh, I'm so
+curious. Uh, you know what? I think I
+think I think you guys might be able to
+play it. Um, also there's probably like
+a walk through. I'm curious if we could
+have checked it before going to them.
+Yeah, I'm really curious. It's just that
+there was a lot of dialogue. That's the
+only reason I don't want to go back.
+Yeah, I think you have to go get
+quit. I know. I I sprinted right away
+because realistically, you
+know. Yeah, I I I think that too. It
+could have been like, "Oh, he's in
+danger. I
+shouldn't." Well, you guys are also
+free. This is a free game,
+so Oh, wait. This is
+different. Wonderful. I don't see that
+thing anywhere
+anymore.
+H. Come to think of it, there was a
+ticket gate downstairs,
+right? What if Shian's the one who
+killed the sister and or this is the
+manager? I don't know. How do you go
+through it? I
+wonder. We don't have any clues. I
+thought we had a
+key. There's a crack on the
+floor. Oh, you probably needed two of
+these, though. Good morning,
+Yoshi. Hello,
+Rico. Huh? How did
+I We're back. I don't know. What is
+this? I don't
+know. I can't go back
+here. Wait. This is us, right?
+What will we do
+next? Sorry, I haven't thought about
+that. Well, we have so much time. Let's
+take things easy. Indeed, it's more fun
+without a plan after
+all. I
+agree. Let's go on and on
+together. I think this is a loop.
+This is must be like a previous loop,
+right? Do you see
+something? I saw two people in the
+train. They were discussing what to do
+next. It didn't sound like an enjoyable
+conversation to
+me. I see. Hold on a little longer. I'm
+so sorry. If you're not sure where to
+go, let's try the end of the
+[Music]
+platform.
+[Music]
+H I don't know if I want to check that.
+What's this blood stained ID
+card? Those red nails just like that
+arm. If I was right, that black mist
+was my
+manager. What the heck? I can't take
+this anymore. That was a really good
+audio transition, by the way. also from
+DL site this
+song. Why is everything here about
+people connected to
+me? Actually, I started avoiding him
+after that talk with my manager, didn't
+I? That was a really good transition of
+audio, though. I like
+that. There's something I'd like to
+discuss. What's
+up? Um, you see, I accidentally sent
+some confidential documents to a client.
+I'm sorry.
+Uh, I'm really sorry.
+Uh, oh, have a good lunch,
+He's fine. Don't worry about
+it. This is the first time he's ever
+made a mistake. I think he's entrusted
+with far more important work than I've
+ever seen him yet.
+I know it's bad to think this way, but
+Oh, this cheers me up somehow.
+Good luck with work. I'll talk to our
+manager. Of course, I'm the one who asks
+to report it to her. She's extra harsh
+on me for some reason. I've got to be
+careful. It'll be
+fine. Did she kill the manager?
+I Oh man, there's so much mystery.
+Excuse me. I have something to report
+and
+discuss. What? Did you mess up again?
+Um, the documents were accidentally sent
+to a client. I've already apologized and
+asked for them to to delete it. I'm
+truly sorry for the
+inconvenience.
+So, Huh? So, what did you want to
+discuss? I keep saying start with a
+conclusion. Well, I'd like to discuss
+counter measures you mean aside from
+curing you of your
+nature. Why she's so mean to
+me? This
+mistakes it occurred because you're
+stupid, careless, and unfocused,
+right? Actually, the mistake was you did
+something else recently. Yes. Why won't
+you improve yourself? Don't you want to
+cure your nature? How can you function
+as a member of society or even as a
+person? Why is she so
+brutal? That's why you failed at your
+previous company, too. You
+know, your nature is the
+problem. Oh, he got the blame for
+it. I'm truly
+sorry. Enough. If you have nothing more
+to say, please get back to work. I don't
+have time. I feel like she might have
+killed the manager or like Haru. I don't
+have time to waste on lecturing you for
+your
+incompetence. Of course, this guy, the
+manager scolded him yet again. Well, of
+course she did. He makes so many
+mistakes. He works slowly and he's just
+so awkward. If you've been marked by
+her, your life in this department is
+over. One time she bullied someone she
+thought was useless until they got so
+depressed they quit. Well, best not
+anger to gods. It's none of your
+business. Uh, I heard in
+them in certain cultures, they actually
+won't fire you. Um, they basically do
+just bully you out of your job. Not
+outright to your face, but they'll give
+you like really bad task or boring task
+until you just decide to quit is what
+I've
+heard. It must be hard having such a
+worthless
+senior. I'll think of a proper solution,
+too. By the way, the material you
+prepared was praised by upper
+management. I expect great things of
+you.
+What an unpleasant thing to
+recall. But be honest, have you ever
+thought that it'd be better if she were
+gone? I have many times.
+But if this isn't a dream, if all of
+this is real,
+then wouldn't it be a really good thing
+for
+you? I suppose he's
+right. I want this to be a dream, and at
+the same time, I wish it weren't. What a
+pain. This mystery keeps getting
+deeper. You know, I'm glad she's gone.
+Don't say
+that. As I thought, this place
+is H. So that's it. Huh? What? What is
+this
+place? What is What is this place
+exactly? Why don't you tell
+[Music]
+me? I'm not going there yet. What? Am I
+crazy? Opens if you want nothing to
+change. Oh, this must be an
+ending. If you want to keep looping
+around here forever with just the two of
+you relying on each other, then this
+will
+open. But if you do want to change, if
+you do want to leave this
+place. Hey, what's
+up? Trembling one. The tickets must not
+be
+gathered. They'll be found. I'm scared.
+What? Graveyard of crosses. Digital
+hope. Waste area. Fiery
+death. The something one. No, please
+stop. That's not it. Forgive me. It's
+all my fault. Trembling
+one. Well, I've already gathered two.
+That means that there are two more.
+Maybe. Maybe
+endings. Digital hope sounds like the
+best
+ending. Oops. I didn't mean to do
+that. So, there
+are four
+tickets. Well, we're back
+here, which is pretty long. Don't forget
+the
+laptop. The laptop password is four
+digits. That's me. Well, there's only
+four digit There's only one fourdigit
+number I can think of. My birthday
+probably. I think it's the birthday. So,
+it's it's
+mine. Ali
+disappeared. What's the meaning of this?
+Do you know her? Yeah, an old
+acquaintance. Is she really
+missing? That's not important now, is
+it? Quick, let's
+go. Route map. Only one station on this
+map and only one line, two must be
+referring to the station. If you look
+closely, there's something written in
+red on the edge of the map. A dead body
+is buried under the fourth
+cross. I don't know if I like the sound
+of that. Okay, how about
+we 1219?
+Maybe it has to be a year.
+This
+one. How about
+1212? Oops. I didn't mean
+to. One, two, one. Hello, Angel.
+Welcome.
+Welcome. A scrap of paper fell out from
+the side of the laptop.
+Oh, but they told me not to collect the
+tickets. Using someone else's birthday
+for a password. What
+a It's his laptop. Um,
+it's You think
+so? Uh, not again.
+[Music]
+That's
+[Music]
+a That's a text. Japanese text. Is it Is
+it easy to see? What's this? Why is
+nothing working out? The harder I try,
+the more distant he becomes. Every time
+I bring him up in my mind for
+rumination, I'm plagued by doubt. What
+if I'm just desperately trying to hide
+my own
+weakness? What if he's just a means to
+that end? Absolutely not. My intentions
+are pure, heartfelt. I keep reminding
+myself of
+that. I am just devoted and reverent,
+guys. But now, whenever I see him, some
+unpleasant thing starts bubbling inside
+me. Oh, I hope it's not
+[Music]
+resentment. No, I have to prove it.
+I must act for the sake of others.
+Otherwise, no one will like
+[Music]
+me. All actions for the sake of others
+are good, no matter
+what. I don't buy that. Anything goes
+for someone else's
+sake. I think it's okay as long as it
+makes them happy. Hold on a little
+longer. I'm so sorry. If you're not sure
+where to go, let's try the end of the
+platform again.
+Oh, maybe maybe he's selling me like
+after I collect all the stuff. We need
+to find a an apple. I
+think how about here? Is it safe
+now? Oh, it's
+unlocked. Okay, this is the same
+dialogue.
+Anything new
+[Laughter]
+here? Just a small uh I don't care about
+that. What is the fruit of the original
+apple? Apple umbilical
+cord. Take it.
+Thanks. I need wine, though. Oh, wait.
+No, we already have
+it. Interesting. I hope there's
+something at the left. The thing with
+RPG Maker games is that I'm kind of
+scared to just speedrun through it in
+case something does
+appear. So, now we have um
+this. We have
+apple. Well, we can do it now. Let me go
+safe
+though. Can I make
+it? You're lucky you can hold your
+liquor. Um, how do I Oh, do I still need
+Is this not red wine? Oh, maybe if I
+pick this
+up. It's red wine. I think it can be
+used in the apple pie.
+Yeah, now we can do
+it. Now we have all the ingredients.
+It's pie
+time. Let's get
+cooking. Who's saying
+that? This music. Okay. First, cut the
+apple. Then put it in the pot with the
+wine.
+[Music]
+That's a creepy shade of red. Wonder if
+it's
+okay. Wow, it smells so
+good. That doesn't look healthy. Preheat
+the oven to 200°.
+Thanks.
+Preheat. Really? Uh, just turn it. Wait,
+that's kind of
+odd. He doesn't know how to
+preheat. Turn the dial. Got
+it. So, he doesn't cook much. Seems like
+he'd be great at it,
+though. How unex unexpected.
+[Music]
+Yeah. Roll the dough out into a circle,
+you know. Let's take this up a notch.
+Cut the dough into thin strips. Braid
+three strips together and place it along
+the edge. Wow, he's really good at
+baking. Weave it into a lattice of
+picture perfect
+pie. Now, we just have to bake this. Put
+the pie in the oven. Wait for a while
+and
+then Amazing. It's so cute, too. You
+don't disappoint. It looks delicious.
+Surprising with what you can do with so
+little.
+Huh? A. And they have a little happy
+Sprite. And the the arms are moving. The
+taste of the red wine goes so well with
+the
+apple. It's not that sweet. something
+grown-ups would
+enjoy. Too bad you won't find this in
+any store outside. If I want to eat it
+again, I'll need you to make it as many
+times as you
+want. I'll hold you to
+that. Oh, they're probably It's the
+alcohol. Maybe that sweater
+more
+laughy. If only it could last forever.
+Well, what did that
+do? That seemed like um an optional
+scene. What's already this one? What
+happens if you get some sleep? I want to
+sleep for a start. I feel like sleeping
+now. Maybe you should for a while. I'll
+keep watch. No, I'm sure I won't be able
+to fall asleep anyway. What if I sang a
+lullaby? Absolutely not.
+What do you like when I eat more? That
+was good. But what was it really? Well,
+a bit late for that. We ate the whole
+thing. It was super tasty, so of course
+it's
+okay. Such a delicate and delicious pie.
+That's no big deal. But thanks. Unlike
+you, I'm pretty unremarkable when it
+comes to work. So, I try to ensure my
+daily life is in order at least. How
+wonderful. You think
+so? Okay. Well, that's been actually I'm
+curious about the glass
+now. It's just mash. She's
+gone. Um, what exactly happened?
+Nothing. Just forget
+it. Are you
+sure? Oh, shoot. I activated the third
+trigger. Oh, no. Uhoh.
+Oh, I didn't know this was actually
+trick or
+something. You're acting strange. What's
+going
+on? Can't hide anything from
+you. I just got a bit overwhelmed. I'm
+sorry. I didn't want you to see me in
+this state,
+but we can handle anything together,
+right? It's I think this one's
+um I don't know. I think this one's kind
+of like we're a team. Yay. This This
+seems a little bit dismissive. I mean,
+it's true though. We can handle anything
+together, right? I don't
+know. But this one is something he would
+like. The first one is canonically
+something that would probably um promote
+teamwork and maybe calm him down as uh
+based on his stalking tendencies.
+We can handle anything together, right?
+If something's bothering you, I want you
+to tell me. He's given me so much
+courage, so
+I Yes, of course. Um, I got scared all
+of a sudden. Why am I here with you? And
+why is it all about people connected to
+you? And then in this mirror, just once
+I saw
+someone, someone you
+know? No, not at all. This woman covered
+in blood. She stared right at me and I
+freaked out. Covered in blood? That's
+not what I saw. She just smiled at me as
+always. It's probably because we treated
+her in two different ways. So, he did
+something to
+her. But I guess your reaction means
+you're human after all. Excuse me. What
+do you think I am? Someone who's perfect
+at everything.
+Good. After talking with you, I don't
+care about it anymore. What? Sorry. I
+think I mean it in a good way. I feel so
+much better now. I
+see. Well, I'm glad I could help. I'm
+not as skilled as you, though. It
+doesn't matter. It's the thought that
+makes me happy. Don't
+worry. Seems I'm the one being
+comforted. Well, then I feel much better
+now. Let's press on. Okay.
+Now, see, I don't know if that was a
+required
+interaction because this is a very like
+dynamic heavy game. Thank you for caring
+about me. I'm really really
+glad. I got a curiosity. Is there
+anything else
+here that's the last
+one? Phew, that was exhausting.
+They're out cold, but still
+moving. Wait, the f at the clock. There
+was a picture of three people burning
+and there was a rusty knife behind it.
+Was it three people
+us? It might be related to ending. So,
+win all these tickets, you can get three
+other endings. And this fourth one is
+actually maybe the true
+ending
+possibly. Moving three adults is pretty
+backbreaking
+work. No one comes in here, however, so
+no need to worry about being
+seen. Carefully, carefully, the
+preparations
+continue. If all goes as planned,
+everyone will think it was a fire caused
+by worn out
+wiring. It's all good. It's all good.
+Are you all right? What did you learn
+this time? It's no accident. People were
+locked in here and the place was set on
+fire. I think I saw the culprit's
+memories. Oh my. That must have been
+scary. So, now we have four tickets.
+Let's try going through the gate.
+Okay, I guess it I don't feel so good.
+Maybe it's all those weird visions
+mixing up dreams and reality. I think
+I'm going to be
+sick. I can't keep up my balance.
+Everything's a
+blur. Hey, are you
+okay? Hold on to
+me. His voice faded
+away. Probably passed out.
+Tada! Here a present for By the way, to
+play videos in RPG Maker, unless things
+changed back then, you actually had to
+convert them to, I think, like a stupid
+webm. I don't
+remember. What's the occasion?
+I just saw it and thought it'd be
+perfect for you. Chad, welcome back. I
+think Yeah, you have to convert the the
+video file and like sound effects. It's
+better if you do OG because it takes up
+less space than MP3. Can I open
+it? Sure, go
+ahead. A handkerchief embroidered with a
+small white flower. It's
+adorable. Cute, isn't it? really suits
+you. It doesn't just suit you. I think
+it reminds me of you somehow. That's why
+I chose it. This flower is a flea bean
+apparently. I don't know what it means
+in the language of
+flowers, but it's so
+lovely. I'd be a bit embarrassed to use
+it in public, but it's a present from
+AI. I want to literally jump for joy.
+This might actually be the first present
+I've ever received of melodrama. Thank
+you. I'm really
+happy. Well, you should know this is a
+present to mark our first monster. It's
+not a sister. It was his
+girlfriend. What? I'm sorry. I didn't
+prepare
+anything. Don't worry. I just wanted to
+give you
+something. Uh, that won't do. Okay, I
+know. If you don't mind, we can go out
+somewhere after
+class. Are you sure? I'd love to, but
+don't force yourself. Just make sure our
+100th anniversary is totally
+unforgettable and spectacular.
+Oh, whoa, she's putting on the moves.
+I'll do my best. A moment of happiness.
+I wished it would last
+forever. And then that day
+came. So you see the pattern of the
+anaconda is
+Mhm. Look who it is. That's Akinashi.
+Finally found him. Let's get the
+bullies. Hey, been a while. Still alive,
+huh?
+Who are these
+people? Do you know
+them? Of course he knows us, right? And
+to think we got along. So these they are
+such jerks. I do think it's melodrama at
+this point because like come on how long
+it's been. Just leave us
+alone. Are you his girlfriend? She's
+cute, huh? Did they beat her up? You
+shouldn't hang out with his loser. He's
+so lame and gross. Bro, get a life. You
+came over here just to say that? Yep. I
+thought you should know. See, that's how
+kind I am. And back then, this fool got
+taken into custody for shoplifting. I
+said it as a joke, but this crazy ass
+actually did it. That was so epic. Hey,
+this is criminal. Come hang out with
+us. What
+the? She hit me. I'm going to kill you
+for this.
+you there. What are you doing? Come
+here. Oh, it's the cops. Run. They
+disappeared into the
+crowd. We didn't see each other after
+that. I couldn't look her in the face. I
+couldn't even text her. Oh, no.
+Avoidance. This is called
+avoidant. Seth, welcome. He was He
+literally avoids all his issues. He kind
+of runs away. Then one day I got a a
+text saying, "Let's talk." So, I went to
+see her.
+I'm sure you've already figured it out,
+but can we end
+this? See, she's she's not ending it
+because he's a shoplifter. She's ending
+it because he didn't talk to her. She
+pulled a gun. Sorry, he pulled a
+gun. He pulled a gunathon,
+guys. Oh, now you act surprised, bro.
+Please. Sorry. It's all my fault. No
+good can come of being with
+me. That's not
+true. I'm also sorry you had to say it.
+It should have been me. You got injured
+because of me. I'm really sorry. I don't
+care about any of that. What?
+I Bro, shut the freak up,
+Haru. I am who I am.
+This is who I fell in love with. The guy
+who'd never hurt anyone except himself.
+But that see see you're so quick to hurt
+yourself to run away. And I hate that. I
+detest this side of you. So stay out of
+my life.
+Oh. I never heard from her again. We
+ignored each other on campus and then we
+graduated. Oh, so she's still alive. But
+I heard I heard someone I loved because
+I had no faith in myself. I regret it
+even
+now. I don't need to see her again. I
+just want to apologize. She is right
+though. But the thing is like it is it
+is sad. I think her feeling like that is
+justified because like he just kind of
+watched and I know it is also like a
+deep insecurity thing. So there's
+there's a lot of sides to this. All the
+feelings are valid. Um you can't just
+get over the self-hatred here.
+I remember now. The flea bane stands for
+reminiscent
+love. So it's just
+nostalgia. Yeah. Like this is the
+reality of relationships. It's not
+clean. It's not squeaky. Um things
+happen. You learn from it. Whether it
+works out, no one
+knows. Duffel bag. This is the very end.
+A huge barrel bag. It's
+empty. I'm responsible for all. Wait,
+no. The reason she broke
+up might be because of
+him.
+Maybe like this was the perfect
+opportunity for them to break up, right?
+Wait,
+flowers. Or maybe it's his thoughts. I
+don't know. I'm just guessing. Hey,
+before I talk to you, uh, should I pick
+this up? Well, I already saved.
+So, you're
+real. What? Oh, shoot. Maybe I should
+have talked to her first.
+Reminiscent
+love is reminiscent love a thing.
+Yes. A real
+one. I'm
+sorry. Owie. Is that
+you? This was the longed for
+choice. The choice you longed for.
+You must
+[Music]
+remember. Don't run away. What do you
+want? Maybe I shouldn't have obtained
+the flower, actually. Do you feel
+regret? I don't
+understand. Forgive my brother.
+He's He has so much fear in
+him. Remember and forgive yourself.
+And then surely all will be
+well. It's the only thing you can
+do. Did her brother kill
+her? Wait, are you
+okay?
+Uh Ah, you're awake. That's good. Was I
+unconscious? Yes. You fell over so
+suddenly. I brought you here where it's
+safe. I'm really glad you're finally
+awake. All that blood here earlier. It
+must have been
+Owie's. Who's this?
+Owie. I'm here, so everything will be
+fine.
+Besides, you chose me, didn't
+you? What are you talking about? Chose
+you? Do you know
+something? What must I remember? What
+have I forgotten? And what the heck is
+this choice I longed for? You said I
+chose you. What do you mean by that?
+These memories from the ticket today all
+actually happened. You know something,
+right? You recalled something or you
+knew from the
+start. Please tell
+me. Everything will be okay. No matter
+what, I'm always on your
+side. All those people are no longer
+with us. No need to care about them.
+Let's forget about those who are
+gone. After
+all, you have me. Why should other
+people concern
+[Music]
+you? I feel a powerful, fathomless fear
+when I look at him. He definitely knows
+something. Waves of anxiety and doubt
+sweep over my entire
+body. She's gone. I can't apologize to
+her anymore.
+Oh, it's okay to cry if you want
+to. I know it's scary. I know it's
+painful, but it's okay. Whatever
+happens, I'll be with
+you. This is bad. When he says such kind
+things, I can't even think properly. I'm
+aware that my mind is reaching its
+limits. Faced with so many impossible
+events, my brain refuses all thought. I
+don't want to think about anything. I
+don't want to do anything. I don't want
+to hear anything. I don't want to know
+anything.
+[Music]
+Just leave everything to me. I'll
+protect
+you. All
+right. Don't worry about a thing. You
+don't need to think at
+all. You should get going. Can you
+walk? H. Oh. Anyway.
+H. He held out his
+hand. Oh, shoot. This
+is Oh, no. This is so bad. This is so
+bad. This is so bad. This is so
+bad. She said don't run.
+Oh
+god. I don't know what happens if I say
+yes though. It's probably It's probably
+one
+[Music]
+ending. Like realistically, Reed, we
+would say no, right? Let's just see what
+happens if we say
+yes. The instant I touched his hand, I
+was assailed by a throat constricting
+fear. It felt like some unknown lukewarm
+vicious thing was rushing into my body
+all at once. Viscous actually. But the
+fear was mixed with a sense of relief as
+if I was being engulfed in
+mud. Revolting and yet warm comforting
+almost. The love and hate. He's all I
+can rely on
+now. I let go of his
+hand. I don't want to believe any of
+this, but not because I think it's
+unbelievable.
+rather what secrets lie ahead. Should I
+really go down this path or should I be
+trying to forget? Is this station
+connected to my
+memories? If so, then why is he here
+with
+me? Wait, does that not matter? Please
+get some rest. Once you feel better, we
+can go to the ticket gate.
+Okay. Does that Did that choice actually
+matter? I don't think that was a good
+choice, guys. Realistically, for his
+growth, I don't think it was a good
+choice, but I didn't want to get
+freaking murdered right there. You know,
+maybe it matters later. I think it
+might. I know. I know. I thought it
+would be a dead end. Okay.
+Um I'm going to go save at file
+one. What happens if I
+quit? I know. That was so I didn't
+expect that to actually continue. I
+thought it was an
+ending. Okay, now here is the very
+end. Now,
+[Music]
+uh what happens if I just talk to her
+without touching the flower? I'm just
+curious. Yeah. Like, does this just do
+anything? Can I actually skip the
+flower? I think you can. Uhoh.
+Wait. You could skip the flower? That
+wasn't a
+requirement. Yeah, that's interesting.
+Uh, what does this mean, though? I think
+we should go grab it.
+Yeah, I think we should actually grab
+it. Forgive my brother.
+[Music]
+remember and forgive
+yourself. But she's
+gone. Yeah. Okay, we're going to go back
+to grab the flower. See, my my concern
+was
+like I I didn't know if it was required.
+That's kind of neat. I like
+that. Uh now we just have to skip
+everything. Now what happens if I say
+no? Does he like stab me?
+man. Why cute but
+evil? Yeah, I'm about to say no. Um, for
+the actual play through
+though, I'm probably going to say
+no because he he is a little
+manipulative
+[Music]
+probably. It's really cool game. I
+actually do like it though. Like I can't
+figure out the the complete plot. I'm
+just kind of
+guessing. Eventually I'll I'll have one
+theory,
+right? I think my only concern is
+probably like skipping dialogue
+[Music]
+here. Wait,
+wait. Okay, it still
+happens. Ooh. Okay. What's going to
+happen? Is he going to stab me? No.
+No, I'm fine. I can walk by myself. Ah,
+I
+see. I don't want to believe any of
+this. Okay. So, you don't really get
+like
+Oh, maybe you just see a flicker of
+him.
+Yeah. So, nothing nothing happens there.
+If you decide not to take his hand,
+we're gonna go back for the flower.
+Wait, I can just continue from my
+original thing, right? Should I grab his
+hand? What do you guys think? I didn't
+see the monster. Yeah, because here's
+the thing. If we don't take his hand, we
+might be oblivious to how dark like how
+he is
+inside. However, if we do take his hand,
+we get a flicker. He canonically,
+without any meta leaking from us, he
+knows that there's something
+My mind says no, but your heart says
+yes. Either way is bad. You can say no
+to the flower, I think. How dependent.
+Yeah. Oh, how dependent he'll be. You're
+right. Okay. So, let's go back to
+uh the
+flower. Oh, shoot. What is
+this? How do you get to the flower
+again? Oh.
+this
+one. All right, more
+cutscenes. Yeah, I can't tell what's
+going to um like how unforgiving games
+can be because some games you have to
+replay like the entire thing for a
+different ending or it could be just
+like a string combination of
+choices. Uh it's a good thing I noticed
+this though. Yes. What happens if you
+say no?
+real. And then
+uh don't save over 511. 51. Don't save
+over file
+11. And then we'll just skip over
+this. Experience them all in one plate.
+We're
+[Music]
+true. Oh, the Mory thing. Are you
+talking about when you um if you didn't
+answer someone on a specific day?
+There, there, there, there. Yeah, that's
+that's totally fair. Oh, watering a
+flower. Oh, wait. I I remember watering
+all the flowers. I don't remember what
+itffects, though. Doesn't it affect like
+something with a memory or basil or
+basil? Oh, it starts making game
+stressful. Yeah, it's just a slight CG
+change at the end. Oh.
+Oh, I
+see. Post game
+scene. Oh, have a good day.
+1208. Realistically,
+no. Okay, you guys don't want to take
+his
+hand. After after a red flag
+conversation, we will not take his hand.
+But a part of me, a part of me did want
+to take
+[Laughter]
+his after seeing the
+eyes. I mean, we were pretty nice to him
+for most of the
+[Music]
+time. Just just for your reference
+though, guys, I don't get creepy like
+this. I I don't talk like this even in
+my role
+plays. It's part of me 99%. I think
+that's a very generous uh
+amount. Oh, there's an early ending.
+That would piss me off. Unless it's like
+you could have easily avoided that
+ending. I don't know. I kind of want to
+take his hand, though. He could take
+care of everything. He could take care
+of me. I deserve to be pampered and
+spoiled. Hello.
+You sure you don't want to take his
+hand? Are you sure you don't want to
+take his hand? I know. Look at him. He's
+so sweet. Yes, but
+no. The flag is red. No, I'm not color
+blind. I I can see the flags
+perfectly. Um,
+don't I see? I'm just gonna say no.
+Then we have a save file for it. You're
+right. Okay. So, don't save over to an
+11. And nothing else changes. It was
+just a CG thing.
+Okay. I don't know, man.
+Guess we'll see how it
+goes. It's still saying no. That's
+weird. Um, anyway, you need to relax.
+Shall we chat until you feel better? I
+know that you're a really hard worker.
+You always try your best, and that's
+great. You're
+amazing. Oh, shoot. He's losing
+it. Uhoh. You could start being mean to
+him
+now. Uh
+oh. I know. Oh my gosh. Oh
+no. Stop that. I'm not in the mood for
+it. Stop
+it. Huh? Sorry.
+You need to
+relax. Oh, it just
+repeats. Thanks. Good job. Okay, so that
+that didn't really matter. It's hard to
+know. Are you ready to go? I need a
+rest. It is kind of weird
+that fragile youth torn apart. That
+wasn't there before.
+Nothing outside that can be seen than
+penetrable
+darkness. How about this
+one? Just making sure I can't. Are you
+ready to
+go? Yeah. Who is
+it?
+Weird. Why am I allowed to
+rest? It doesn't really
+matter. Yeah. The only reason I asked
+this is like is this supposed to be a
+You could stop here if you want to like
+a break from the game. Like this is a
+pretty good uh I don't save over five
+file 11 and don't save over two. So I
+think uh let's just go to
+13. Let's skip forward I guess.
+So well I guess we got to go this way
+anyway. Doesn't look that way but if you
+insist. Hi BD uh
+BDK. So, we have all these tickets and
+they lead to certain things. Uh, what
+happens if you go to the end
+now? He's
+gone. Let's see. The guy's just
+gone. That's probably a bad
+ending. Uh, either file one or two. I
+don't remember.
+[Music]
+No exit. Extreme danger
+ahead. Fair adjustment
+machine. Well, it's not like we can go
+anywhere else, can
+we? Hey, C, can we turn back? I don't
+know why, but the path ahead seems
+incredibly scary to me.
+No, we have to go. I feel
+it. You must see with your own eyes the
+choice that you made. Wait, is what if
+he's actually not evil? I'm feeling so
+gaslighted. What if he's not
+evil? Because like he wouldn't encourage
+me to do this, right? What does this
+mean?
+I inserted the four red tickets into the
+gate as
+instructed. You feel his
+eyes. But like we don't have anywhere
+else to go. Wait, it's the flowers
+again.
+[Music]
+Why
+is There's probably something very
+important in that
+[Music]
+door. It'll never I'm sure it will never
+open. No
+exit. It won't open.
+Huh? Oh, I don't like the look of that.
+It looks like a a red
+something. Red 1925. I love
+myself. I love mom and dad so much. I
+want nothing more. As long as is happy,
+so am I. I don't want anything in
+return. Which is the lie.
+I think
+all
+lies. Apartment key
+obtained. Like people rarely people
+rarely love themselves. Like truly
+um just because of that one and then
+like I want nothing in return. I don't
+believe it.
+Even like there's always some sort of
+desire to want something is the
+thing. Even even if you do have a little
+bit of a self-sacrificial
+um like is altruism really altruism? I
+don't think so.
+Reborn. Thank you for the gifts. They're
+creepy. I know. They're so
+creepy. So, we have two
+doors. Oh, this is a thing. I'll wait
+out here if anything happens to Wait,
+why are you waiting
+here? This is probably his home life.
+I'll be there in an
+instant. Isn't that kind of weird that
+he's not coming with
+[Music]
+[Music]
+me? Oh, he didn't have a good home life.
+Crammed full of food.
+[Music]
+Wet stone looks used. Wet
+stone. I sharpened the rusty knife on
+it. Sharp knife obtained.
+Uh, it's not enough. Losing it is
+terrifying. Huh? There's a strong acid
+odor. Let's not look in there. Did he
+puke?
+[Music]
+Blurred photos of someone. They look a
+bit like me, I
+think. A diary. Which
+[Music]
+entry? There's always an escape.
+Are you I want to know if he's the one
+who bullied me. No, he can't be cuz they
+literally just showed
+up.
+Unless he's the one who tattled on the
+kids and they went to me. And maybe they
+did this so I would stay away from like
+getting I would be isolated.
+[Music]
+They said so many awful things today.
+Scum, trash, failure. Wish she had never
+been born. I hate her. Her smile really
+pisses me off. Even when she gets yelled
+at or hit, she just smiles like a
+buffoon and behaves as if nothing
+happened. It's like she thinks the world
+is overflowing with goodness. How
+annoying. Simply not
+true. That's someone else.
+Okay, another scolding today. If I'm not
+Oh, maybe it's a sister. If I'm not
+smart or kind, I won't be loved. No one
+sees me. No one. I'm so jealous. I want
+someone to see me anyone. If I become
+special to someone, would this
+unbearable feeling go away? I mean, I
+don't want to reach a point where my
+needs don't matter at all. But when I
+look at him, messy, weak, uglier than
+me, I feel so relieved. He did pity him.
+I know I'm a terrible person for having
+these thoughts, but he is my
+salvation. That's from 8 years. Wait,
+what? 12 years ago? He was talking about
+someone who still smiled despite getting
+bullied eight years ago. Maybe it was
+someone else. It could be unrelated to
+this
+[Music]
+guy. She's not family anymore. No, we
+were never family. I've never had a
+family. From today on, Tanjiku will be
+her last name. Why do these things go
+wrong? You're all I have left.
+her brother and
+[Music]
+sister. Is this girlfriend the sibling
+of this
+[Music]
+dude? They're siblings and they love the
+same person. He only likes
+um He only likes him because he's petty
+pitiful though. I finally did. I'm
+ecstatic. Life is beautiful. I've never
+been so happy before. I finally met him.
+Talked to him. He's here. He's so cute
+and fragile. I might accidentally break
+him. I'm afraid of losing this
+happiness. No, I don't want to lose it.
+My joy is fraught with anxiety. How sad.
+I want to treasure this
+[Music]
+feeling. I lost it after all. I knew it.
+Nothing lasts. But still, I've got to do
+something. You are everything to me. I
+exist because you exist. But what am I
+to you? I want to place all of you
+within my grasp. Your past, present,
+future, everything. Bossome. The thought
+of that I'm not the only one for you is
+unbearable, unforgivable. Poor
+unfortunate soul. You don't see that I'm
+the only one who can save you. Bome, I
+want to make your face contort in fear
+and despair. I want to see you cry as
+you beg for my love. I hate myself for
+these thoughts. Vile, odious, revolting,
+revolting dregs of humanity shouldn't be
+alive. But if I do good things for
+others, my hearts will be filled. And
+for you, I would do anything for you.
+For you, for you, for you, for
+you. I must do good
+[Music]
+things. Does he know that this is going
+to lead to his apartment?
+A photo that's been blacked out might be
+a family
+photo. Bro, you look like crap,
+though. I'm a little scared of uh
+reading all that diary entries had an
+effect.
+[Music]
+Uhoh. Erica, welcome by the way.
+The sound of a
+doorbell. There's
+[Music]
+someone. I don't like that.
+How was it? Was there anything
+dangerous? Where were
+you? Where were you? I was waiting over
+there. Did something
+happen? No, it's nothing.
+I showed him the sharpened
+knife. Wow, it's nice and shiny again.
+Your domestic skills are amazing. Thank
+you. Um, it's dangerously sharp.
+I'll I'll hold on to it.
+Um, no need. I've got it. I see. Ju just
+be careful. Okay.
+Sure. Uh, I'm just curious how many
+saves are
+there? 19. Okay.
+Um, we could say between three and a
+shoot, I don't remember,
+guys. Well, that's okay. Every
+experience is different. We could
+probably use this for
+this. Please send me a knife. I'll deal
+with
+it. The red cocoon-like thing with a
+sharp
+knife. Oh, no. Strange. It's completely
+intact. Look, stairs. Also, I'm
+returning the knife to you.
+Three and 10 can be saved over. Thank
+you. Wait, what about the
+other? I guess we can't go back. I
+actually can't turn
+around. Uh, it's getting
+darker. It's completely dark ahead.
+Please take
+care. I'm also not able to turn around.
+This is a one directional hallway, which
+is a really cool thing in RPG Maker, by
+the way. There's almost no light left.
+Are you
+there? Yeah, I'm still here. I'm
+here. Oh, what a relief. Anyway, how
+long exactly does this passage go on
+for? I wonder. I think if you say no, he
+might freak
+out. But I'm also not the type to say
+no.
+So, wait, wait, wait,
+wait. Uh
+oh. It It auto moved him.
+Oh, it's so
+quiet.
+Hey, no
+response. Did you go on ahead? How How
+can you go on ahead? It's a one
+hallway. Hey, where are you?
+No
+response. He's gone, but he was here a
+moment
+ago. What should I do? Where are you?
+Answer
+me. Please don't go off alone like that.
+Hey, why did you go on
+ahead? Let's go
+together. Huh? What's
+wrong? Nothing.
+Sorry. I see. It's dangerous in here, so
+please stay close to me.
+Uh, where is
+he? No exit. Don't leave
+me. I'm
+right. Projection rejecting others is
+the original
+sin, bro.
+Well, we had um we had a few options in
+file 14, so I'll save
+that. Danger ahead. Do not enter. I feel
+like this is a
+psyche. It's in the way. I know. Could
+you lend me the knife again?
+He cut down the barrier tape with a
+sharp
+knife. He can
+break. It's the elevator. Also, I'm
+returning a knife again. Well, you know,
+it's pretty nice of him to return a
+knife. He could just be like not doing
+[Music]
+that. Something else in here, right?
+What is this one? Rejecting others is
+the original
+sin. Maybe it's cuz this guy never I
+don't know. I don't even know why he
+likes him. Just because he's pitiful.
+That's really the only reason. He likes
+having someone that relies on him.
+That's what it is. Like this guy she to
+Shon I guess I because I'm selfinserting
+and I'm so screwed. I am like
+pathetic. People don't like me. And that
+makes it's kind of like a savior complex
+in a way,
+right?
+Yeah. The elevator is only going to go
+down. Oh no, I don't like that. It'll
+move once we press the button, but
+returning might be
+impossible. Well, we don't have a
+choice, right? Press a
+button. Say no.
+[Music]
+Oh h
+uh Javier, welcome. Also, it's kind of
+interesting that the hallway sequence is
+just gone now. That's pretty cool. I
+know it was really just for attention,
+but anyway, looks like we got to go
+down, guys.
+I still have the flower. I just uh don't
+have a location to put it in
+though. Hey, you know so many things
+have happened.
+I'm really glad I got to talk to you
+again, even under these
+circumstances. After we get home, let's
+keep talking.
+Okay. Is that even
+possible? Can you go back to our regular
+lives? That's a trivial matter. Nothing
+to worry
+about. Are you
+serious? Hey
+Will you
+promise to stay with me no matter what h
+No, he's pulling a He's a pull. He's
+pulling a shior, guys. He's pulling a
+shior. No. No. My own words are used
+against me. Isn't this what I
+said? Rudolph, Falcom. Oh,
+[Music]
+no. How does it feel? Okay, but I'm
+actually smart.
+Dear
+God, my medicine. I can't do that. I
+can't promise
+though. Okay, let's think about
+this. Has he Oh, okay. Well, he's he's
+clearly stalked. He's clearly Well, he
+might have also killed the manager.
+Am I self assuring as the right
+character? I don't I don't know. I don't
+because this He is clearly unhinged.
+He's clearly
+unhinged. I don't want to make promises
+though. But we have to start being nice
+to him just a little bit.
+Will you pro do you promise speed? I
+don't make
+promises. I can't I can't make the
+promise
+though. Promise you could stay alive. I
+don't I can't promise that. I don't I
+can't I can't bring myself to say it.
+Okay. I promise.
+As I thought, to me, you
+[Music]
+are. Seems the elevator has reached the
+most bottom
+floor. There's no going
+back.
+Wait. Welcome back. This is the Wait,
+welcome back. This is the very end. And
+it loops,
+right? It's all over
+now. Well, I guess if it's the end. Do
+you think he was saving me from myself?
+Actually, it's time to remember
+everything. Maybe I should have given
+him the knife because it would prevent
+me from killing um my own self depending
+on my regrets and what
+Not like he's framed as sort of
+suspicious
+[Music]
+but the devil
+bag. I can't go anywhere else. It's
+literally just
+this a barrel bag.
+It should be
+empty. Take a look inside. We kind of
+have to. I think we
+should if you say no,
+though. What are you waiting for? Please
+hurry up. No matter what, I'm always on
+your side.
+You are all I have
+left. I was just wondering why you're
+able to say
+no. Like is it just to wander around?
+Maybe if you miss
+something. Guess we got to
+running one last
+time. I looked inside the
+bag. I remember everything and the
+choice I made that night.
+What if they just like killed the
+manager together? That's right. I was on
+the last train home as
+usual. H Did I miss my stop? The train
+car is completely silent. As always, the
+last train is
+empty. I have to be in early tomorrow
+cuz I'm taking a taxi home from the next
+station.
+It sounds like someone's in the
+next. That's curious. I'll go take a
+look. What is this
+though? Wait. Wait. This was supposed to
+be romance before.
+It should be this
+one. I hope there's no like traumatizing
+scene.
+Is that
+you? Long time no
+see. Uh, what
+the? At last.
+At last, you finally see
+me. Please don't get the wrong idea. I
+did this for your
+sake. You're happy this woman is dead,
+right?
+Right. What? Who are you talking
+about? This woman lying down. She looks
+familiar. It It can't be. No way.
+Howie,
+why? You just seemed so troubled. So, I
+wondered what I could do for
+you. And that's when it hit
+me. I should just make everyone who
+caused you pain disappear.
+Aren't you
+glad you can forget about this one? That
+nasty manager is in
+pieces. And those three who wounded you
+so deeply have burned to ash. He killed
+those three people. He killed
+everyone. I worked so so hard just for
+you. Does that make you happy?
+I couldn't understand anything, anything
+he was
+saying. Why did any of this
+happen? I was the one who avoided him.
+Did that derail him
+somehow? Was I the cause? Is it all my
+fault? Does that make me the
+murderer? I'm responsible for all this.
+He's blaming himself
+again. Amends must be
+[Music]
+made. Okay, I can understand the point
+of this actually.
+The only Okay, think about it. I have a
+knife. He'll probably kill him. And then
+what? I I get killed. I kill myself or I
+am accused of
+murder. Secondly, running away.
+So, rain him
+in. You're either going to end up
+destroying him or something.
+Well, I guess you know what? You did
+this all for me. Not like I was uh I
+mean I was I'm sure a great person, but
+you know what? We're already like deep
+in might as
+well. Let's run away
+together. Thank you for all you've done
+for me.
+I'm responsible for this. You don't need
+to take all the
+blame. Let's run away
+together. Something something must be
+done. We must
+h we must hide it somehow.
+Why don't we put it in something and
+take it with us? We can think about how
+to deal with it later. Come on. If
+you're so perfect, you better you better
+know how to get away with
+crime. The duffel
+bag. A barrel bag belonging to me. It
+should be large enough to carry her body
+in. There's something
+inside. This is probably loops. The
+whole like mental state. Thought I lost
+it. Why is it
+here? Her skin was cold. She's gone
+forever and I killed her. Fortunately,
+rigger mortise hadn't set in. So, I
+folded her up and put her in the barrel
+bag. Now, about all that blood. Why? Why
+are you so messy, by the way? You
+couldn't have done like a better job at
+this. Let's not go.
+Okay. I wiped out I wiped up her blood
+with a handkerchief she gave
+me. Got to run. Somewhere far far away
+where no one will
+come. Far far away. Forever. Forever
+together. Somewhere we won't be found.
+Run away to the very end.
+handkerchief. I
+know this is my
+[Music]
+choice. That's what I chose.
+I what if there's Is this a true end or
+is this just
+[Music]
+like you knew all along, you knew
+everything and acted nice on
+purpose? I had no memory of it at first,
+but slowly it all came back to me.
+[Music]
+I think you created this station, this
+whole place in my
+mind. Unable to bear the guilt, you ran
+away to your own safe zone and locked it
+up. But if so, why am I here?
+Subconsciously, I led you
+[Music]
+here. To remind you of the choice you
+made that night. I think there was an
+original hope somewhere, but that's long
+gone.
+Why did Owie Why did she have to
+die? You can't let that go, can you? As
+I said, I did all of it for you.
+Moreover, you chose me. Is that what
+you're going to say? The thought of
+having the
+[Music]
+same. I was right. Oh my
+god. The thought of having the same
+jeans as her was insufferable.
+Don't tell me you killed your You know,
+it's weird because she says like, "My
+brother is not well. I want you to
+forgive him or something or forgive
+yourself." Please stop right there.
+She's not
+family. But how did you know all those
+things about my middle school about how
+could you have
+known? We only met each other two years
+ago. For you perhaps, yes, that's true.
+I was right. He was the one who probably
+watched me be like
+scum, but not for
+[Music]
+me. I've known all about you for a long
+long
+[Music]
+long time.
+I've observed you. I've pursued you.
+I've thought about
+you. I've monitored you for years and
+years, and you never noticed, you
+fool. See how messy, pitiful, and
+miserable you were. Filled my heart with
+satisfaction. I want you to be mine.
+Just see no one but me. I want you to
+trust me and me
+alone. Yes, I love you. And this is the
+purest love. If you die, I'll die with
+you. You belong to no one but
+[Music]
+me. I felt the world warp and spin
+around me. I'm going to be sick, sick,
+sick. Did I really make such a dire
+choice for the sake of this
+creature? A creature who despises me,
+who bask in his superiority, but who
+mistakes all that for love? I still got
+a knife.
+I hate this side of
+you. Maybe that was her showing me her
+own brand of tough kindness. She was
+trying to stop me from hating
+myself.
+[Music]
+I loathe
+you. I hate you.
+[Music]
+Oh, he's doing the medicine to him now.
+This is what she did. Remember? Get out
+of my life. Now she's kind of It's sort
+of um the same medicine. It's just as I
+thought. You've always looked down on
+me.
+Oh, I'm not going with you. Do what you
+want alone. To heck with that promise.
+It's a good thing I actually didn't say
+to
+promise. I wish you'd never been
+[Music]
+[Laughter]
+born. That's weird. You weren't supposed
+to say that. I mean, I mean, I mean, I
+mean, hey, how could you be so cruel?
+How could you? Despite my living for
+you, working so hard for you, even
+killing for you. You promised we'd go
+away together forever. You promise. So
+why are you rejecting me? Am I just some
+dirty, hateful, useful, piece of scum to
+you? It always sounds like this. I'm
+always a dispensable, unnecessary one.
+No. No. I like you. I love
+you. Please don't hate me. I'm begging
+[Music]
+you. Beg for my love.
+If you want my love so badly, I want you
+to beg for it. I see. We are different
+after all. Okay, never mind. He doesn't
+want my love. Yes, of course. I
+understand
+now. Very
+well. I better start running. If you
+hate me, then I don't see the point in
+living
+anymore. And
+so, let's go together.
+I better start
+[Music]
+running. You have to
+die. I'm sorry. I didn't want to do
+this. Let's go. I
+can't. When you said we'd run away
+together, I was really truly
+happy. But I was wrong. In the end, it
+was just selfishness.
+You didn't actually accept my feelings,
+did you? You just trampled on them in
+order to protect yourself,
+right? Selfish. What about your fake
+kindness? Shut the [ __ ] up. No,
+absolutely not. My kindness is pure and
+selfless. Can't breathe at this rate.
+Dang it. Wait, there's I still have that
+with a trembling hand. I took out the
+sharp knife and pointed it at him.
+You're shaking, aren't you? You don't
+have to cge for it. You're so useless
+after
+[Music]
+all. Dang. I What the heck,
+Haru? With one hand, he quickly picked
+up the knife from the
+[Music]
+floor. Hurts. I'm sorry. Forgive
+[Music]
+me. Please don't make me suffer
+anymore. I want this to end now. Please
+die
+now. I need to break free. Do I have to
+press
+something? Yeah, I'm out.
+Bye. You're running away again. You
+always turn away from
+me. But I'm the only one who can make
+you
+happy. I'm all that you have
+left. Let's die together
+now. A crap. He'll kill me if I don't
+stop him. This car, it's in a different
+place, but it's similar to the first
+one. Hold on. I'm
+thinking we can loop around. If you
+don't want something ch Oh god. Hold up.
+Because we have a time here. Do we have
+to go back to the elevator?
+No. It's a chase sequence. But the thing
+is, where do I go exactly? To the
+mirror. He hated the
+mirror. He He did hate the mirror. I'll
+figure it out. If I can get there, I'm
+sure there's something I can use as a
+weapon. Bro, that doesn't help me. If I
+can get there, the
+mirror. Even if he catches me, I just
+have to break free.
+[Laughter]
+Okay.
+Bye. Oh,
+shoot. Wait, why is it not
+working? Oh, I think I think I al tab by
+accident.
+It took me a while to realize what just
+happened. A slow heat filled my chest.
+Then came the excruciating
+pain. It hurts. Yeah, the backlog ended
+up showing up. I think that ended up
+tabing me. I desperately tried to hold
+back that endless flow of blood, but it
+kept seeping through my
+fingers. No, no. I I was pressing Z, but
+the control is actually the backlog.
+Don't
+Hey, it's okay. Don't be afraid. I'm
+here with
+you. I'm so fortunate to be your
+everything. Let's go together.
+NingC
+warmth. All right. Time to time to do it
+again. True. Uh Nia, thank you for uh
+becoming a page. All right. All right.
+Um it's not the same layout. Oh,
+[Music]
+shoot. Wait.
+Wait. Why is it not working? Z's not
+working.
+Huh? Maybe maybe I'm not supposed to
+spam it. Maybe I'm supposed to actually
+time
+it. Um, just in case, could someone hold
+it? Yeah, maybe. Maybe it's based on
+time. But smashing should still be it.
+Or just hold it. Maybe holding it.
+[Music]
+I did I think there was in the
+discussion um something that mentioned
+about a
+glitch. Maybe I should collect the
+window.
+Oh. Okay, we can try
+it. Oh,
+why? I don't know what I have.
+Oh, bro. Okay. No, it's not. Why? Why is
+not
+working? Okay. I'm gonna I'm gonna go
+Google this. Um I I tried collecting the
+shard. I don't think anything happened.
+So, I might need some help. So, if you
+guys could go to the Steam page.
+Actually, I I'm right I'm right here
+anyway. Um Z. Maybe if I press in
+Z. Okay.
+Nothing works out. I'm struggling with
+it. Uh, let's
+see. Still blah blah blah. Not that
+one. Okay. After this, they press Z and
+Y
+alternately. Okay.
+Let's I'll try that one and then if you
+find something else, we'll try it. The Z
+bug is present in Japanese version
+2. So, I'm going to have to do Z and Y,
+but that's only one person who confirmed
+it. There's no like uh other things to
+it. No, I'm not all
+tabbing.
+Oopsies. Okay. Z and
+[Music]
+Y. Uh, Z Y Z Y Z Y Z Y Z Y Z Y Z Y
+Z. No, it's not
+working. Press the Z on the screen.
+Okay, we'll try
+that. Is it hold down or do I still spam
+it?
+Oh, the screen was shaking. No, I don't
+think so. Oops. Okay, so if I just go to
+you. Oh, okay. Maybe I got to do it
+harder now. Press the Z button on the
+screen with the keyboard. Yeah, I'm
+trying.
+Maybe it's uh it's really if you do get
+caught. I'm going to have to really
+click at
+it. Duck death
+loop. Okay. Okay. I have I have my mouse
+[Music]
+ready. Okay.
+I can't. It's not working. I'm clicking
+so
+hard. Try full screen mode.
+Okay. Did you hear how hard I clicked on
+it? Um, the game prevents you from going
+out the
+door. At
+least At least I think so.
+Okay, let's do a full
+screen.
+Okay. Uh, I don't think you can go
+around any
+shard. Let's see. Oh, there's an empty
+square up around the
+glass. Okay, if I don't get caught,
+let's try
+[Music]
+it. Oh. Oh,
+god. I hate the Oh. Oh
+no, I'm sorry. Okay, we got borer. We
+got fer. Okay. Okay. It was top. I don't
+remember the rest. Z is not working.
+We're just have to not We're just not
+going to have
+to Don't screw up. Don't screw up.
+Okay, that Z is so not working. I did
+mouse and keyboard. It still didn't
+work. I think it's
+glitched. Top, bottom, middle. Okay,
+top, bottom, middle.
+Gosh, this is so stressful now cuz I
+have like one
+chance. Top, bottom,
+middle. Whoa. What is this?
+[Music]
+This is so stressful right
+now. I locked the door. Please let me
+save. Please let me
+save. I hate
+it. Looks
+heavy. I grabbed a fire extinguisher.
+I can't use
+that. Is anybody here? Well, guess we're
+going to have to just go at
+uh turn into
+meat. What about here?
+Uh, what do I what do I do
+here? I can't go out the
+window. Maybe I just like use this
+against
+him. He's probably in front of the door
+ready to attack.
+What am I hesitating for? He's deadly
+serious. No, I I don't think it's
+letting me do anything. I think we just
+have to fight back. Yeah.
+What
+happened? I'm sorry. You better be.
+I put strength into both my
+arms. This creature was no friend, just
+something to
+hate. Your being in this world sickens
+me no end. I want you to disappear
+[Music]
+now. Your kindness was not love. It just
+filled the void of
+loneliness. You didn't care who it was.
+Any weakling would do
+you. No, I I did.
+[Music]
+Truly, I put all my weight on my arms.
+As if seeking mercy, he deeply grabbed
+my
+arm. Seeing him do that filled me with
+rage. I betrayed your feelings. That's
+my
+line. I thought we were friends again
+like before. And I was so happy.
+But it was all one big lie. You were
+just using me to console yourself,
+weren't
+you? It had to be
+[Music]
+you. I leaned my whole body weight into
+it. It looked like I was
+praying, and I was. Please, please just
+go
+already. Have mercy on me and
+disappear. If not for you, none of this
+would have
+happened. Everything's broken because of
+you. It's all your
+fault. Your fault. Your fault. Your
+existence. All of you.
+I wish you'd never been
+born. He stopped
+breathing. Sharp knife reclaimed.
+This is the very
+end. I have no use for
+that. I must use something.
+A a handkerchief with a flea bane
+embroidered on
+it. I recall her words.
+[Music]
+Forgive
+[Music]
+yourself. There's no need to blame
+yourself. No one is at
+fault. Everyone is gone and I killed
+them.
+[Music]
+It's no one's fault. Not you. And not my
+hopelessly awkward brother
+either. It's all right. As long as
+you're alive, I'm sure you can make
+[Music]
+amends. Go home. It'll be okay. I'll be
+with
+you. But I won't see you anymore.
+Of course you will. You just have to
+remember
+me. I
+see. Don't worry. Don't be
+afraid. Now, time to go back to the real
+world.
+The only thing I can do
+is they're still giving you an option
+for forgive
+everything. You actually I actually
+cannot select the um Oh, maybe that's
+not the choice here. Or maybe because I
+did everything right. Forgive
+everything. I
+guess I think maybe if you didn't choose
+the right one um you could do the first
+one to forgive everything. It was no
+one's
+fault. I'll live and keep making amends.
+That's all I can
+do. No matter what
+happens, you'll be right. You will be
+all right after all.
+You're so dear to
+[Music]
+me. Well, time for me to go,
+too. See
+you. Happy to see you
+again. And please try to forgive my
+hopeless brother.
+[Music]
+I haven't apologized
+[Music]
+for I don't hear her voice
+anymore. I need to go
+back past the very end.
+It's my usual
+train. It was around noon. Maybe there
+weren't many passengers and time slowed
+to a trickle.
+I looked around frantically, but it was
+gone. Doors are closing. Please stand
+clear. Ah, wait. This is my
+stop. I leaped out of my seat and ran
+out to a station I knew nothing
+about. Before me, so vividly blue that
+my eyes hurt, was the sparkling sea.
+Oh, I should call about being
+late. While on the phone, I stared
+blankly at the train going into the
+mountains. By the way, how did I end up
+here? And who was I looking for?
+Only then did I notice I
+was holding a barrel bag. It felt so
+light. Perhaps it was empty. Huh?
+There's something
+inside.
+Oh, this is her
+handkerchief. And a real
+flowering. It means reminiscent love.
+doesn't it?
+I returned to a life consumed by work.
+As time passed, I gradually forgot about
+what happened that
+day. Why was I on that train? No matter
+how much I thought about it, I couldn't
+remember a thing.
+But one thing has changed since that
+day. Sometimes I dream about strangling
+a man I don't
+recognize. Ending A
+return. I think ending B is if you chose
+a knife then there would be a um a head
+in the duffel bag. That was good.
+I liked
+it. It's also kind of a such music here.
+Yeah, I liked it.
+Um, wow. There's actually DLC to this. I
+don't know what the DLC entails. I think
+it's a different story, perhaps. I know.
+I didn't expect it to be so like that. I
+mean, I I thought there would still be
+some sort of toxic yahi criminal
+experience at the end, but but
+no. Oh, look at this. If only I
+understood him better. The outcome might
+have been
+different. Perhaps if I shared a meal
+with him, asked about the the smash
+mirror, or chatted more after waking up.
+Oh, we did most of those, though. If I
+could redo things, that
+is.
+Oh, well, there you go. That's the
+station. This does mean that there is a
+secret or like some sort of
+ending. We did chat. We did chat over a
+meal. We did um do the
+mirror. I'm pretty sure we we talked
+right after waking up
+though. There are four endings. I
+see. Oh, you have to replay the secret
+for the secret good end. Oh, replay the
+game. I see. Um, no, we did the mirror.
+Don't take the flower, maybe. No, I
+think the flower might be important
+though. We did get two
+[Music]
+endings. But
+honestly, I'll I'll probably just watch
+a let's play of how like this was meant
+to end because you kind of have to
+restart if you did miss
+something. Oh, I don't have the real
+flea one. I thought I got the re the
+real flea bane or
+whatever. Well, that was so I liked it.
+Made me kind of cry cuz owie is so
+forgiving. Yeah, if you guys want um
+play yourself because I feel like there
+could be secrets. I didn't know that
+going to the mirror would interact
+something. You know, it triggered
+something. And uh Owie being so
+forgiving actually kind of makes me like
+really
+cry cuz like her brother killed her. But
+we don't know why. We don't know why um
+he killed her. Like besides
+jealousy. I think it's because despite
+the world being mean to her, she was
+nice and maybe he didn't have that same
+feeling. But like even though she got
+killed, she was like, "Forget my stupid
+brother." So, that made me kind of
+sad. But anyway, I hope you enjoyed
+this. I'm not sure what time my stream
+is for tomorrow. I think it's supposed
+to be Black Myth Wukong cuz I finished
+some homework early and I might be
+caught up for the most part. I thought
+it was just a really pretty
+game. This is um this was a very
+enjoyable
+story. I don't know. I mean, there are
+some clear faults to this.
+I guess everyone kind of has a part that
+they did wrong except maybe
+a Kaisen Zai good. Thank you for the
+support and welcome to anyone new
+Jenkins. Welcome. Yeah, it was a
+beautiful experience. I like this. Uh
+I'll consider a DLC depending on how
+things go. But for now, I'm glad I
+played this. It was a chill
+game besides the chase sequence. Rise,
+thank you for the SC. Jose, thank you as
+well. and
+Lude, welcome back. All right, until
+tomorrow. Um, also birthday merch and
+there's a makeshift plushy on Twitter if
+you want to check into that. I'm going
+to go cry quietly.
+Bye-bye.
+[Music]
+[Music]

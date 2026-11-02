@@ -1,0 +1,10 @@
+{
+  "status": "complete_archived",
+  "source_read_through_line": 2810,
+  "authored_anchors": 268,
+  "full_source_coverage_verified": true,
+  "reviewed_records": 396,
+  "low_confidence_contexts": 49,
+  "originals_moved": true,
+  "source_sha256": "f865d781a35a621e713d66d5eda89387dd565ffc43d95bbfdcc292990786d473"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "source_draft_row": 5,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "This is how the English admins double as demons and the one and only Naru Shirai here in Shiory's house.",
+      "actually": "I am Nerissa Ravencroft, the English demon of sound, here at Shiori's house."
+    }
+  },
+  {
+    "source_draft_row": 87,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Some green screen I have. Innocent, yeah. People are like, \"She already gets by.\" It's not my fault though, but it's my fault for not reading it, right?",
+      "actually": "That is one of my green screens. People comment on it, but perhaps I am at fault for not reading it."
+    }
+  },
+  {
+    "source_draft_row": 101,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "I see I see. My My hair takes so long to dry because I'm a mom.",
+      "actually": "My hair takes a long time to dry."
+    }
+  },
+  {
+    "source_draft_row": 119,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Here you go. A portrait deck.",
+      "actually": "!Unclear phrase."
+    }
+  },
+  {
+    "source_draft_row": 160,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Medu. Medu cool. Medu cool. Medu cool. You knew new. Ooh you. You knew",
+      "actually": "!Unclear singing."
+    }
+  },
+  {
+    "source_draft_row": 161,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Oh. Yeah. Ooh woo. Ooh woo. Ooh you. Ooh you.",
+      "actually": "Uyu."
+    }
+  },
+  {
+    "source_draft_row": 187,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "what I hate? Captchas.",
+      "actually": "Do you know what I dislike? Captchas."
+    }
+  },
+  {
+    "source_draft_row": 250,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Like what did she do to me a punk? My gut? What? Like eat eat eat eat eat.",
+      "actually": "You kept encouraging me to eat."
+    }
+  },
+  {
+    "source_draft_row": 255,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "a lawn in here. Oh, could I use it Oh, no that was a mean joke baby. What's all that mean?",
+      "actually": "Could I use them for that? That was an unkind joke. What does that mean?"
+    }
+  },
+  {
+    "source_draft_row": 288,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Pow pow. Oh, my god. And then one of them will just I guess they just put like a a rock on it. Yeah. Yeah. There you go. Aw, toto. Yeah. You're toto. I'm beto. I'm beto and Becky.",
+      "actually": "We could put a rock on one. You are Toto; I am Beto and Becky."
+    }
+  },
+  {
+    "source_draft_row": 320,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "And you're going to be over it. So, fat you'll be uh",
+      "actually": "It would be that thick, and you would tire of it."
+    }
+  },
+  {
+    "source_draft_row": 366,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Donk. Yodelay. Hehoo. Yodelay.",
+      "actually": "Yodeling."
+    }
+  },
+  {
+    "source_draft_row": 413,
+    "reason": "Ambiguous ASR, unexplained fragment or nonlexical singing; excluded from SFT",
+    "sample": {
+      "raw": "Yeah. Nandihodone. Nandihodone. Dang. Chuki chuki. Don bon bon. Don bon bon. The time out for karaoke? Huh? Eh? Oh sorry, I was reading something.",
+      "actually": "Is it time for karaoke? Sorry, I was reading something."
+    }
+  }
+]

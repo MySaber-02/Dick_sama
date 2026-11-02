@@ -1,0 +1,42 @@
+{
+  "video_id": "SxXjnDuWMJI",
+  "language_code": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "text": "Hello. This is the police. Let me in. I",
+      "start": 1.439,
+      "duration": 6.48
+    },
+    {
+      "text": "heard there's a birthday party in two",
+      "start": 6.08,
+      "duration": 4.88
+    },
+    {
+      "text": "days. I was invited, wasn't I? This is",
+      "start": 7.919,
+      "duration": 6.361
+    },
+    {
+      "text": "the police.",
+      "start": 10.96,
+      "duration": 3.32
+    },
+    {
+      "text": "I heard it's Nerissa's birthday in two",
+      "start": 14.96,
+      "duration": 5.84
+    },
+    {
+      "text": "days. If I'm not invited, I'm going to",
+      "start": 18.08,
+      "duration": 7.72
+    },
+    {
+      "text": "crash in. See you there.",
+      "start": 20.8,
+      "duration": 5.0
+    }
+  ]
+}

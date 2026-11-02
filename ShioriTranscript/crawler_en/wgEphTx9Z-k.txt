@@ -1,0 +1,3419 @@
+[Music]
+hello
+hello all right it's going to be a chill
+stream I I I want to
+relax okay
+[Music]
+how's how's the audio by the way oh yeah
+also it's fall wait has it been fall
+actually I have no idea I don't care if
+it's not Halloween anymore I'm still
+going to look pretty like
+this I just good okay welcome to a chill
+behind the stream scenes stream yes
+funny enough I was trying to get the the
+cloaked model I don't remember the
+settings I used I cannot wait I wonder I
+wonder if it's like that I cannot for
+the love of God golly G whiz get
+something to work again so let me let me
+show you something really quick maybe
+it's the type of I wonder if it is no no
+it has to be this thing it has to be
+well I I could show it some other time
+in the meantime let's go with the simple
+stuff first before I uh destroy
+myself so let's start talking about the
+Hangman game first because that actually
+took uh a little bit to set it up uh
+hold
+up I wonder I wonder if this was the
+issue no there's no way it couldn't be
+that okay so for the hangman I actually
+had notes on all the potential words I
+could use for example sle uh okay work
+message you always message me at the the
+worst freaking times blah blah okay also
+I guess this is also behind the the work
+stuff okay
+uh I got to put this to my task before I
+forget uh record by what's the DAT today
+hold up okay I record by this date just
+so I don't have to deal with it okay
+today's fifth okay thank
+you all right so regarding that uh I
+have notes on it I think there were four
+words I could have
+chosen okay enjoy your your sweety time
+I put it all oh here it is okay so you
+had wraith last time yeah so you had
+wraith which is hidden behind my big ass
+head I actually had to photoshop all the
+letters
+individually which it it it was pretty
+tedious I'll be honest it was pretty
+tedious for all the words here like
+scarecrow which is I had to manually
+find a thing and like there's some
+duplicates here right but then I have to
+move all this stuff and then I have to
+remember if there's a duplicate which I
+sometimes forgot which is why the
+brancher people were very confused why
+it was not branches
+so you see the the each line section
+like the bottom line yeah that had to be
+well that one that one's easy to show
+I'll show you my Photoshop for it later
+so you got the Scarecrow and then you
+had a
+superhero there you go all the other
+options there I made it so there were
+only certain words and only certain
+letters I needed though I did not want
+to export the entire alphabet and then
+you had you had a Wraith there you go so
+these are your options the other is not
+programmed uh no it's it's all manual
+this is all
+manual no there's no programming for
+this guys for hangman if you need to to
+[ __ ] around with Steve no Steve was just
+[ __ ] manually actually where's Steve
+anyway okay so for Steve Steve is
+multiple layers so you got one layer
+which is the
+ground uh you got the the little stick
+thing he didn't have too many I think he
+had eight chances technically but I I
+didn't want to be too
+lenient but I think I was thinking it
+for the first one cuz you already had
+the stick so we just went on with one
+life I didn't reset the life each time
+at least I don't think I did so there's
+uh Steve hanging out it's kind of cute
+honestly I I like it so Steve Steve is
+pretty cute no offense
+Steve so the other options I I was
+considering doing was a
+mermaid which oh and I even had to
+individually figure out uh between like
+three options so what I mean by this you
+remember how you had to vote right I had
+to figure out like what letters can be
+used for the first round and then they
+should never be used again in that same
+words other rounds so I couldn't have
+any
+duplicates that I had to manually figure
+that out I didn't want to be I didn't
+want it to be too obvious for example if
+I put two vowels in one round and the
+word needed that second vowel well I'm
+[ __ ] so I had to kind of pace it a
+little bit and then I had to put it in
+an order that
+wasn't um too easy to figure out here
+I'll just screenshot it uh here you
+go where's my Ms
+paint yeah this is a simple stream
+I still need to chill here I have my I
+have my lovely EMS paint in a bit wait
+oh that's right there's something I want
+to test out I will do that in a bit then
+my window
+capture my best friend for now my Amish
+paint yeah there you go oh
+crap actually I like
+that what happened there that's pretty
+cool there's my Ms paint so as you can
+see
+I had to separate things I had to figure
+out how many letters are in here so I
+knew like what to prepare for and then I
+I certained a made it into different
+rounds so for a mermaid naturally if I
+put two M's as the very first round and
+you got it you might have gotten mermaid
+pretty early on so I had to really prep
+things up I fig superhero might actually
+be easy especially if you get oer
+pretty fast yeah I had to I had to make
+sure you last you sick son of a hang a
+man
+guy ah it was it was a little bit of a
+pain there were times where I had
+duplicates in the same row and I had to
+figure that out oh and the parentheses
+are like this is the actual answer and I
+had to make sure I didn't just like give
+you the parentheses when I copied pasted
+stuff so that's part of it let me hide
+this now
+and then you also had scarecrow as an
+option oh and then there was another one
+here I'll just uh show you
+my here you go I can really show so much
+from from my
+discordo there you
+go oh hello okay enjoy your business and
+hello Jammy hope you have a good road
+trip here you go so this is also like
+part of my task list uh you were also
+going to get
+Poltergeist I don't know if you would
+have been able to get Poltergeist I also
+think that it would have dragged on I
+was originally going to give you guys uh
+three things to guess but I didn't want
+it to feel too tedious so I think I only
+gave you two words last time which is
+wraith and
+superhero and superhero was a little bit
+long than wraith which kind of gave me
+an estimate of how long the voting
+process takes cuz I make you wait like
+30 seconds between each vote P your
+Gates might have been too hard yeah I
+figured well it's a good thing I didn't
+do that one
+huh so yeah hangman was completely IM
+manual also I'm pretty sure for hangman
+I think I think that was a late idea
+entry I did Unity first oh shoot I need
+to show you guys my my Unity scene here
+let me I'm trying to make sure that I
+don't also like show anything by
+accident uh that's the hanging man
+folder oh good God ooh Pepper's
+ass is it this
+one well I have so much crap here holy
+crap
+okay also this music's actually kind of
+bothering me now
+I hope you like the emotes by the way
+those emotes have been waiting for a
+while
+actually and um this song I wasn't sure
+when to release it but but something
+happened so I released it for Halloween
+actually so that's pretty
+cool let me change a song really quick
+what mood are you guys in for maybe
+something
+automo they're good emotes that's good
+how about this one like sunshine
+I can't hear
+it this
+one can you guys hear it well I don't
+know this one's too happy I hate
+it I need something like
+melancholic
+Melancholy The Melancholy
+Walts too
+sad oh this looks kind of
+nice
+yeah oh I I like this one fun [ __ ] I
+love VES okay getting
+Sidetrack so I'm going to show you um
+how many test runs I have for
+something V Ms paint once
+more it's really really nice song
+actually
+yeah so these
+are these are not all my test runs there
+you go test run um I had this many test
+runs for this project there is more I
+deleted them basically each time that I
+was about to export it I would make a
+different file and call it like test
+something test something blah blah blah
+blah so that's how many versions there
+are just in case I [ __ ] up because
+sometimes if you [ __ ] up and you don't
+know how to fix it you are absolutely
+screwed there's no way you can turn back
+time you know so final 13 well Halloween
+exe was supposed to be the finale it was
+not the finale so I end up having a
+final 13 right
+there and now if I were to show you like
+the original project like my very first
+export and then after that there wasn't
+that many um there wasn't that many
+differences
+actually where's my test test zero okay
+I'm about to start it
+up organization 13 I'm pretty sure I
+deleted some test
+[Music]
+okay I'm just going to give you my well
+actually let not do display capture that
+would be foolish of
+me wow where's my my window why did I
+put it there I'm so silly oh it's cuz
+I'm dumb
+okay uh it is I have so many tabs open
+this one okay this one
+yeah so this is my very first export um
+as you can can see I still had the
+camera versions here it's kind of
+neat uh this one's blank and that's
+because I was messing with the scripts
+so there's no point in perfecting all
+the characters when your scripts aren't
+working which is uh script scripting
+hard I do not know how to script I will
+tell you that now I do not have time to
+learn how to script unfortunately
+because I'm doing the World building and
+uh getting all the assets so I will have
+to leave scripting as a skill in the
+future that is shiori's problem in the
+future but not present day
+shiori also I had I had so much time to
+to test things out but no no time to
+really make something from
+scratch I don't want to click on this
+because I might have done a test message
+that was really stupid um when I was
+giving my project to the teacher to to
+fix something I think I put the message
+for pepper and and then it say it said
+like haha I'm going to [ __ ] on your
+floor was my testt message and my
+teacher was like why why is pepper
+saying this and I'm like oh [ __ ] that's
+because it was a test
+message so so they sent me like a really
+weird emote on that um my my bad my bad
+actually let me what do you say hold up
+I don't want you to see anything in case
+it [ __ ] up okay there's no message
+thank God thank god oh thank God but I'm
+pretty sure it says something really
+really questionable in other test so as
+you can see there's no fountain in this
+version there's no people too also you
+can completely go out of bounds um I had
+really
+bad actually I guess the controls are
+like not hard see you can go out of
+bounds here I hope you like that Sky Box
+little little low quality but it it was
+free Sky Box
+guys so there's nothing here oh another
+thing I had issues with with is actually
+height um I need to take notes in the
+future for the height of things because
+if you look right now I am super super
+duper short in comparison to the
+buildings so in the future I need to
+take account um height differences like
+immediately when importing things yeah
+also I think the speed was a little
+different early on kind of like it speed
+unfortunately my Unity project had some
+bugs so I couldn't edit the speed at the
+end so what I had was like we were stuck
+with that so yeah there's some height
+issues there's like nothing in here this
+is how wide the space it uh space is
+with none of the details I added so as
+you can see there's nothing here you see
+the Moon J peg in
+there so you wander around like here I
+put in a lot of work thank you oh I'll
+read the super chats at the End by the
+way I'm just getting everything kind of
+just like prepped up what is this
+section oh okay so it's probably hard to
+imagine it but this the graveyard was
+probably to the
+left and this place that I'm at now um
+the concert stage would be right around
+in this section as well the walk is so
+cute I'm glad you like it I I actually
+Clips through the pumpkin um I I do have
+a version in the future where I think it
+should be safe from certain things but
+you you'll see what I mean in in that
+future of course but I didn't really
+plan on having this angle when I was
+doing this so that's why I didn't mind
+the clipping originally I was going to
+have this
+angle and then maybe this angle but yeah
+there's three camera angles which is
+pretty neat unfortunately I have this
+weird error where the model goes kind of
+like like paper
+paperish like some sort
+of Paper Mario is feel to
+it oh good gosh everything's so big here
+though but yeah you can really feel the
+emptiness of it all so keep in mind this
+is the the very first export I try to
+work hard on the starting area though
+like this section I was very happy to
+find some animated grass here like it
+just came like that I did change the
+colors though this grass was originally
+green as all grass tends to be so all
+these trees for example I changed the
+the colors like manually you have to if
+you if you want to look a little
+different and for the buildings here uh
+the lights are also added manually and
+you'll see what I mean but like you see
+how this lamp post has no light here um
+light tends to be added manually kind of
+like a Photoshop sort of thing if that
+makes sense but let me look at my my Yer
+towns so let me exit this
+one that was test
+zero test one I think I was already more
+or less um finalized how long how many
+hours to test one took I don't know
+actually I don't really keep track of
+hours which is probably something I
+should in the future uh I got to restart
+this there you go I got to immediately
+hit full
+screen I don't know how many hours I
+took on this but uh on top of streaming
+and like mini workor and all that stuff
+probably probably quite some
+time all right I got a yep it shows now
+there you go so this is test two you see
+the top left counter um that's the the
+Halloween candy counter I'm pretty sure
+this was all shitty scripts too actually
+before I walk here let me see if they
+say anything bad okay yeah they do say
+something bad okay I'm so glad I didn't
+show that I mean it's not horrible okay
+let me let me make sure what what does
+what does salt say salt do you say
+anything
+bad
+okay was that was that it okay what
+about the other guy
+this is what happens when you're testing
+scripts you don't need to put
+anything okay it's not it's not bad okay
+I I'll show you guys I'll show you I'll
+show you what they say it's not bad
+really it's not bad per se it's not that
+they tell you to kill someone that's
+kind of just like stupid stupid Shori
+[ __ ] okay so um I think you can pick
+this up yeah oh you had the ability a
+throw stuff at this point but I think uh
+I I changed something with a script or
+something broke that I couldn't throw it
+like this anymore so this is what I
+meant by originally I wanted you to be
+able to pick random pumpkins up the ones
+made by the nav Elites unfortunately I
+did have to back trck to prevent things
+from breaking too
+much I was driving flying a pumpkin I
+see also I have this one issue isue for
+for example when I turn left um the
+pumpkin doesn't turn left with you if
+that makes sense it just follows one
+angle so at this point I'm just going to
+buy scripts although the issue then is I
+had to learn it and I'm still I'm still
+a beginner with things okay um what
+Pokey says it's it's it's not bad but it
+was my it was it was my test test dialog
+so oh wait Pokey actually I could I
+could throw you too but it made him
+heavier so you can't do it okay that's
+that's what it made him
+say I I had to ask for permission to use
+pokey by way anyway do not tell the
+staff that I made Pokey say weird
+things that was all you say right hold
+up hold up I don't want to get in
+trouble hold up just just making sure oh
+crap I don't censor this properly shh
+don't say anything don't say okay okay
+he still says okay okay okay um
+anyway I think that's the the last of
+his dialogue so it's it's safe after
+that um so I didn't make you guys say
+anything bad right did I even have
+dialogue at this point I'm really scared
+I'm really scared I should not I should
+have prepared better for
+this hold up I need to I need to be safe
+I need to be safe you don't say anything
+bad do
+you oh no no okay it's just test stuff
+okay good God I'm glad that I only made
+a stupid dialogue for certain characters
+so this is the test you don't say
+anything bad after that do you I hope
+not I hope not I'm so scared okay they
+didn't say anything
+bad oh woo oh good job Shi good job you
+are completely an
+idiot um but anyway uh back on
+hand so I'm pretty sure because you were
+like the first character to be right
+here I had to make sure that the
+dialogue all worked properly but it it's
+so simple but having to start from
+here and having to run all the way there
+just to test the first dialogue it kind
+of bugged me so that's why put Pokey at
+the
+start I didn't feel like changing my
+starting position so I had to do it the
+the the less annoying way also can I
+pick you up oh right I could I could
+push you guys
+there you go so yeah you can tell that
+there's no dialogue here um the counter
+does not update when I interact for
+candy I put a lot of work thank you I'm
+glad you like it and thank you for the
+gifts uh b b baale bird bail
+bird people put a silly Texas so I know
+I fear it I fear
+myself so you guys are more or less
+positioned at the very least it was just
+like the little tiny uh details that we
+not prepared yet so as you can see I
+even have little towns that behind the
+mountains so it gives a feeling that oh
+there's definitely a lot more to dusk
+mire besides like this section so I
+tried to to give that feel also um I
+wanted it to feel as if you were coming
+out of a tunnel or something so I made
+sure that you couldn't go out wait
+actually is this this have cation oh
+thank God so this is actually just a TNG
+at top um on top of this mountain and I
+put the gate here so I can't go back so
+technically dusk meire could expand if I
+wanted it
+to so I had to be very careful with the
+bound stuff so I put fences here so you
+couldn't get near the mountain I
+actually do not know how to walk on
+slopes so that's a different thing oh
+arus happy wiary thank you thank you
+oh this is Unity I made a s on
+Unity um think I I oh I did not put
+Collision on this but that's
+okay so I paired you guys up um the
+reason that your face like this is
+because there was a bug and I didn't
+realize it before until like the final
+build so I did fix that bug but you're
+supposed to follow the camera is what's
+supposed to happen here unfortunately I
+did not realize how to fix that until
+the very end
+yeah so you guys don't have any
+animations here yet you're just placed
+on
+here I will have to figure out how to
+make you stop and talk to me while
+moving
+though so as you can see I put uh fences
+where I could I tried to make sure that
+you couldn't see into like the distance
+or like a behind the thing good Lu a
+good job thank you thank you came
+out so uh did I did I do the scaling
+right I think at this point I I did
+become a little aware of the scaling but
+there was so many
+intricacies and um parent folders and by
+that I mean there's a folder and there's
+many things attached to that folder if I
+edit the folder everything underneath
+would change and it might break so at
+that point I kind of already did some
+some magic so I didn't want to risk it
+as you can see here I didn't do any
+anything fancy for this bound here uhoh
+okay good maybe in the future I'll allow
+myself to
+jump so there you go you got your
+character set oh I I originally did not
+know where to put salt and pepper um his
+his first message test was like this by
+the
+way it's like mother fluffer I was I was
+just basically smashing my keyboard
+trying to see if the script worked as
+you can see this is also not prepared
+this little Alleyway here but I think
+this bush prevents you from going but uh
+I made sure to hide things so it looked
+proper so when you're playing a game
+usually people will just put an
+invisible wall if they don't want you
+somewhere right so for my sake even
+though this is only for me at least at
+this point in
+time um I made sure that some places
+were hidden also as you can see there's
+no posters in this version just yet
+and you don't see the little ghosties
+here and you don't see the giant gushing
+pumpkin there's no fog as well so you
+could tell like it's it's still a test
+um this section was also not that filled
+out I didn't know what to do for this
+section I was thinking this could be
+like a camping area but I had to change
+plans just to make it a little bit more
+simple oh thank you man thank you and
+copper and uh
+so this is actually the first two
+entries for talents I had oh a thank you
+for the
+gifts uh this this has cats in it I
+didn't realize until
+now yeah so I went with the earlier
+entries basically if you want a a Sure
+Fire way of uh getting into the project
+by the way it does help if you're early
+which I know is super super difficult
+but it's because I'm organizing things
+as early as possible I have to place the
+the the items although in the future
+what I'll do is I'll probably make the
+world first although I didn't really
+know how I was going to set this up I
+didn't have a plan on how the the look
+of it was going to go like I had an idea
+I even asked novel Knights like what
+kind of town do you want this to be
+something in the mountains or something
+and then I just have to figure out from
+there like okay I I have some kind of
+idea for this yeah it does depend on
+many moving moving Parts
+essentially thank you bro and sour happy
+happy once
+sers so I I did have to go back to some
+already submitted novel sonas just to be
+safe if there weren't um submitted Parts
+in time or if I didn't have enough and
+oh uh just a warning for future future
+reference make sure your Google Drive is
+accessible cuz that was an issue I ran
+into but I I also didn't want to stress
+about like making sure to remind you
+guys every week so I just had to I just
+had to chill I had someone help me
+collect the assets I just told them like
+okay please make sure that these are the
+rules that they followed um if if they
+don't have a name I guess I'll figure it
+out from there like I'll have to
+manually add the name in and and all
+that stuff so make sure you read the
+rules make sure you read just just be
+safe
+[Music]
+but yeah there's like I I had to pcee
+myself cuz even though it's simple to
+put in the PNG it is it is pretty
+tedious and I'll show you my Unity file
+later oh and then uh this campfire broke
+me actually I think I moved some parts
+so at some point the fire effect was
+placed into a different folder that
+alone screwed me up pretty badly
+surprising enough I didn't even notice
+that there's a Tombo in here oh there's
+G too and the booms nice and nice I like
+that it's a really nice detail so yeah
+some some things can easily break uh
+interesting enough you can't enter this
+because there is uh I believe it's by Mr
+Ry but there's a toilet novali and I
+wanted to put that in here so when you
+go in it's like AIA but but you actually
+can't go in there and it's not something
+I can control it it was a free asset
+guys I already spent a lot on certain
+assets like this these buildings along
+with the banners I think is like 50
+bucks and then there's like other things
+that I spent
+on a king metal happy oh happy over once
+a versary and Nova thank you thank
+you oh thank you so much I'm glad you're
+enjoying your time here oh it's over
+there the toilet Novi so as you can see
+there's like nothing here yet and this
+section doesn't have the graveyard
+you'll find out the the final version of
+course I actually I had the most
+confusion on what to do in this section
+because it was such a big space so
+that's why I added the the little um the
+Stalls eventually and then I tried to
+make it so each stall represented
+something which we can go over once I
+open that version so this this version
+was this section here it was pretty set
+it's a really cool house by the way more
+or less this was set on with ease I had
+no oh crap I [ __ ]
+up well it's a good thing that you can't
+crawl hey enjoy having uh enjoy giving
+birth Neco have have a good one good
+luck and happy n nine months so this
+section can I pick this up oh not at the
+moment okay so that was a later test oh
+also this is very subtle I don't know if
+you would have noticed but these
+actually have their own light source in
+there um some of the pumpkins have their
+own light source to give it that glow I
+think even this one does it's very very
+hard to notice
+though uh there you go got to reload my
+Opera loses memory pretty
+easily there you
+go oh yeah there's there's the toilet
+[Music]
+noelite so you can see I think uh you
+were in a different project before but I
+put some of you guys here again just to
+to fill things out so you got these this
+is where the giant pumpkin would
+be yeah it this my Mr I see I remember I
+remember um I actually had difficulty on
+figuring out how to prepare this
+section because I feel like if it ended
+just like with this one lobby it's it's
+pretty short it's a pretty short feeling
+in the future I think what I would like
+to learn is how to teleport someone from
+for for example if I were to knock on
+this door right here right it would
+teleport me to a different section of
+the map I need to learn that RPG Maker
+was a lot
+easier and then I put a little detail
+where you guys are actually in the
+windows I I didn't plan on having
+dialogue for the people in the windows
+because you can't actually like touch
+them close by but I I did learn that you
+can put the the interactable spear this
+invisible thing that you can't see um
+wherever you want so it was possible oh
+and and the graveyard was a lot
+different so there was no house here
+before as you can see also I think
+there's a section of invisible wall for
+some reason that gets me and I do not
+know why so that was that was an issue
+in this section in fact I still feel it
+I don't know what the issue is
+though so there's no house there's no
+Hill oh actually another issue I learned
+here I think the reason for the quote
+invisible wall is because the section's
+not flat so you can see that there's a
+little bit of mountain terrain here yeah
+I learned that well I I don't know about
+I don't know about the full story but
+you have to make sure that it is
+absolutely at zero ground if it's at
+like0 one even though theoretically you
+should be able to walk there you you
+can't do that so I don't know the
+sloping stuff yeah I I was not aware of
+that so early on you couldn't go here
+here so what I did was I just flattened
+everything and then apparently if you
+want to do things like uh for example a
+lake you have to make sure that
+everything is maybe like I don't know
+height 20 you can't go below zero
+essentially you cannot go go below zero
+so I could not have any lakes here and
+as you can see this place was pretty
+empty I was uh losing ideas on how to
+prepare the
+section so I I put that little freaky
+ass manner over there which is also an
+acid I have used before cough cough oh
+what is this oh okay this didn't have
+proper texture in it so as you can see
+it is pretty empty and you can see that
+um there is a bathing shy over there I
+combined the two assets actually I
+combined them so that asset there the
+little Tower it was just pitch black in
+there so I figured oh it would be funny
+if I put the little bathing shy here
+she's just watching over everything
+so as you can see there's no town or no
+house I mean and no concert here so let
+me now actually open my Unity
+project there you
+go I'm about to start
+it not sure how to open this menu uh let
+me let me close these in the meantime
+after today I'm I'm deleting like the
+setup for this scene for example so you
+will not see Steve anymore I have two
+things in my actually could I show it
+yeah I guess I guess I
+could yeah let me let me show you a
+little bit of my
+OBS uh safe
+[Music]
+okay my
+windows go back to where Miss
+paint there you go oh it's a little hard
+to see but as you can see
+um this originally here where's my I
+thing whoopsies you got uh yellow uh
+sorry wheel and
+hangman this was actually called like
+skit
+one and this is skit 2 these are my
+quote temporary scenes because they are
+meant for one offs essentially they're
+reused though don't get me wrong they do
+get reused but they get named different
+things and everything that's set here
+for example all these info like a raid
+scarecrow superhero that's going to get
+deleted a Steve's going to get deleted
+so I don't have too much crap in my OBS
+like cobweb it's not Halloween anymore
+so that's going to get deleted too it's
+all those details all those details also
+I have like a triple
+audio it it it's all what do you call it
+a virtual audio cable so I don't I don't
+have any fancy audio gadgets guys
+I don't have any reverbs unless I open
+up a very specific program but I don't
+have any physical audio equipment
+actually the only thing I have is my I
+think my f is it a Focus
+right yeah so everything's kind of just
+done with but not having to spend too
+much and that's been my my system for
+years
+so okay now now let me get my unity set
+up all right uh this
+one yeah I don't have a
+mixer yeah the the red one I think like
+I mean it hasn't
+broken well let's keep let's keep
+windows here okay I'm starting up my
+thing it's going to take a bit cuz well
+it's a Unity
+project I don't know if I want a
+physical audio thing like it's not
+exactly my forte on on the other note I
+don't know I just feel like it's a pain
+to have on my desk
+it's like do I even have space okay uh
+let me just there's like a lot of scenes
+here all right let me make sure
+everything's safe to look at yeah o it's
+a busy
+scene I'm look at my Unity that's not my
+Unity this is my
+Unity okay and then if I were to do
+this hold up let
+me let me make sure of something thing
+oh
+crap there you go I need you I need you
+just look at my eyes really quick
+okay all right wait what is it not
+letting me but
+why not not but maybe maybe if
+I it's all like okay yeah I guess I
+guess this is
+working oh thank God for for black bars
+not that it's I mean it's a fake name so
+I guess it doesn't really
+matter all right we good we
+good for reference I always use fake
+names even for my computer actually so
+that's I I think uh when I showed you
+guys my my schedule for something I I
+didn't really give a [ __ ] that the
+computer name was there it's like
+whatever yeah like why why would I ever
+use like shiori Nolla as my computer
+name
+[Music]
+it's like whatever okay so this is my my
+UNC oh here's the here's the thing oh
+that's my teacher by the way the camera
+change stuff okay so um what I learned
+was at least for this specific s when it
+comes to audio sources they need to be a
+game object actually like an empty game
+object which is like this is the
+reference this is the audio of gemstone
+for
+example a grias suppe oh I don't I don't
+know I don't I don't think so if it is I
+can't tell uh so you have boo
+sound like right there can I play it
+here
+actually oh oh I guess I can I have to
+probably launch the thing are you sure I
+can't play it that' be stupid but
+anyway so all the all the specific sound
+effects at least from my knowledge you
+have to do uh its own separate thing at
+this side um some of these are like pngs
+and whatnot oh and then this is the
+fence so this is what they mean by it it
+would be really annoying to have to edit
+anything out uh which one's the fence
+here oh that's my game scene okay so
+this is the fence this is one fence this
+is one fence this is the parent object
+basically this is its own folder
+everything under here will move with its
+parent it follows its parent like a
+little like a little duck and then if I
+I were to select it individually then it
+could do that so this is a child object
+because it's going to follow mommy and
+daddy like this so that is what I mean
+by the parent object and then um this
+little green rectangle it's a little
+hard to
+see that is uh the Collision I gave it a
+box collider basically the reason for
+that is I think it's less taxing for the
+system if it has a a box collider
+compared to like the fences have its own
+individual
+thing which could be dangerous I mean
+for this it works because it's just
+rectangular it's not a it's not a hard
+shape now for these things um this has
+its own collision and mesh so there is a
+a mesh at the top left um let's
+see trying to try and increase in his
+size cuz it's probably really really
+hard to see wee
+[Music]
+okay so you see this mesh renderer now
+above that above that uh it says mobile
+Rock mesh filter so that means that the
+mobile Rock has a very unique mesh with
+it and it should not be passable so long
+as you have the right mesh
+selected so you don't need to do any box
+Collision in this this I mean you
+can you can if you want but then it's
+just like if you touch the
+rock um you're kind of going to you're
+going to end up touching a sort of
+invisible wall if you have a box
+mesh versus if you touch the rock you
+are just touching the rock mesh if that
+kind of makes sense yeah some G some
+games won't have precise Collision
+probably because they changed
+it so this probably has its own mesh at
+least I hope so yeah it has the the lamp
+mesh
+filter um what else this tree this tree
+has its own
+filter and then some of them some of
+them might not have a
+filter has a
+trunk uh the Shad doesn't seem to oh
+okay the shed does not have a filter now
+let me go back here
+[Music]
+okay you see this this weird ass angle
+for
+everything yeah so I think I think it
+has a special filter of some kind I'm
+not entirely
+sure I wonder if you can go inside it
+but I'm not I'm not sure
+how cuz everything you can select
+everything and change things so
+everything here has its own filter thank
+God or
+mesh uh you got
+chains so I could move everything here
+oh what's this one hold up this one old
+shed oh yeah it does have the filter
+okay oh okay that's why you can't go in
+cuz of this filter blocking the entrance
+like this see that's why you can't go in
+now if I were to select this and choose
+like choose nothing then I could go
+through the walls oh actually I could
+probably make my own box filter yeah so
+if I wanted to be able to enter this I
+would have have to remove the old shed
+filter and what I could alternatively do
+is I make a box a box
+mesh and I put it around everything but
+the entrance now the issue though is I
+don't know I don't see there being an
+issue really because all the individual
+objects have their own meshes so you
+could then enter this okay I see I see
+now
+n um this tree this tree screwed me over
+and the reason oh was this supposed to
+have an animation clip that's
+interesting um I added things to it with
+a mesh and that's what screwed it up so
+I had to make sure that this tree did
+not have any other child except dead
+trees so that that's what screwed me up
+then you got the graveyard which I did
+not put a mesh for some I put it here
+though yeah I wonder I wonder
+hold up I want to see
+something move it
+Pokey I want to go over there wow it's
+such a lively town can I actually touch
+the armst through
+here what's up gang okay box filter
+that's working good can I can I go
+through the arms oh I can go through the
+arms all right this one this one will
+need a different type of fter mesh
+[Music]
+then has a mesh but it doesn't have the
+the capsule stuff okay that's neat to
+know I'm probably making [ __ ] up I think
+it just needs
+Collision yeah maybe maybe that's what
+it is okay
+anyway this one he can't go through
+though he can't go through
+trees um when you import something into
+a project the mesh filter should be
+selected manually it's supposed to to
+help you us helps your character sense
+that this is touching this specific mesh
+if that makes sense oh but I'm talking
+[ __ ] out of my ass I could be completely
+wrong so don't trust
+me now um the tedious part here okay so
+you have like after building everything
+right making sure the town's all nice
+and set up these these were like
+individually placed to here by the way
+oh there's a mesh collider that's what
+it is okay it's the mesh collider that
+you want you got the mesh renderer so
+you know that it's getting rendered you
+got the filter you you also need to add
+the mesh collider I'm pretty sure that's
+probably what it
+is this one I didn't enable the mesh
+collider cuz I think if you have a mesh
+collider touching something with another
+mesh collider [ __ ] could happen so
+that's that's the important part you
+need a mesh collider to not Collide or
+to collide [ __ ] if I
+know yeah it depends on the modeler
+but uh anyway this is a reminder of the
+Halloween Challenge and I put candy here
+cuz like I didn't know what else to put
+here this is also a reminder like oh I
+better spin the wheel so that's my
+reminder for that one thing and then
+this is my reminder is like oh Steve
+wants to uh he wants to do something so
+I better hang Steve so that was my
+reminder this was supposed to be when I
+changed my
+model but I think I combined it with
+something so I didn't really know how to
+to tell myself like oh better change
+costumes I I really like this by the way
+I really like the this is the GG's
+original art and I made into a poster so
+I put this here and I'm pretty sure this
+is the well if you if you notice the
+numbers it is it is
+something yeah except except the zeros
+at the end that means
+nothing um as you can see it this this
+individual lighting
+here you see you see all the lights
+here um there were bushes
+added I had to add the house here cuz I
+didn't know where else to add it oh and
+I had to change the the to topography I
+had to change the the ground
+essentially so I could be uh able to
+walk on it oh and I painted the textures
+like this uh so painting textures is
+just like the ability to do silly stuff
+like this like oh it's all gravel now
+it's kind of interesting really oh
+that's a big
+gravel oh and this this texture here um
+I think it's like simple
+Photoshop hold up you see there's like
+leaves there so this is my my own
+texture I mean it's very very simple to
+make it's really just Photoshop grass
+with maple leaves on
+it and then uh you got some cartoony
+textures here like that so you have to
+individually paint certain
+things I only know basic textures though
+I was only able to import like simple
+ones it's like oh spring spring is here
+[Music]
+I and uh oh you actually have your own
+light source interesting interestingly
+enough there you
+go oh crap I don't remember how to touch
+things okay there you go so you have you
+have your own light I'll just move over
+here
+see the light at the
+right and for light um if it's something
+that's probably not going to move much I
+think you usually do bake otherwise
+there's real time lighting which is good
+if it's moving I think so you could be
+like a really bright white light and
+blah blah blah blah you know there's
+there's colors there's colors
+essentially I gave you a green cuz it
+matches the yellow little and then you
+have your little light too cuz you're
+spooky you guys are a little bit more
+spookier than the other novel it's so
+that's why I give you a light
+also uh when I'm interacting with these
+two as you can see they're a little high
+up and I cannot reach that height so at
+the left each one of the novel leads
+have this thing called an interactable I
+have to I have to like do that for each
+one of you uh manually by the way so
+when I say that dialogue is very tedious
+it is because at the right side I had to
+like copy taste everything but if I
+screw it up I have to fix it and then
+there's like different labels so right
+now there's two dialogues here at the
+top right which is a little hard to see
+two dialogues maybe I should let me show
+my mouse really quick capture cursor
+wait wait it's my
+cursor oh wow you guys disappeared okay
+capturing cursor is not a good idea
+apparently okay okay let just set
+something up really quick are you sure
+you can capture the cursor don't be a
+dirty cursor
+hater wow it does not capture it wow
+really wow you hate my cursor all right
+I will have to
+do my
+[Music]
+backup okay okay so over over here at
+the right do you see this at the right
+side that's the number two so that means
+that there's the first dialogue at first
+interaction and then the second dialogue
+when you come back however however the
+first dialogue could could still mean
+that there's 10 dialogues in that first
+dialogue so if I were to um change it to
+like four times for example uh there
+there should be like four versions of
+this added oh yeah so now there's like
+elements two and
+three and uh yeah I think so element
+zero oh there you
+go there's element 0 1 2 3 so that's
+four pieces of dialogue each time that
+you interact with them I do not know how
+to do uh switches at this point switches
+is what you use to uh begin a new event
+for example if if I want to talk to you
+and I don't want new dialogue until I
+acquire the I don't know the sorcerer
+stone or something um when I do require
+the sorcerer Stone then that switch will
+be activated and then I will get new
+dialogue with you but until then you
+will repeat that same dialogue until
+that switch has been activated yeah like
+a flag yeah yeah like that so I do not
+know how to do switches at this point I
+think that actually needs scripting I
+don't think it's too complicated but I
+am also intimidated and do not have a
+lot of time unfortunately so I had to
+prioritize based on what I myself am
+able to do with the time that I
+have so that is that is a thing so let
+me go back to uh one I won't save this
+project cuz it's just this so as you can
+see the first dialogue has um
+two two versions here okay so this is
+this is one dialogue ah crap where is it
+right
+there oh it's right here it's right here
+okay so over here very hard to see but
+it has that
+one one dialogue one dialogue and this
+is that first dialogue now this first
+dialogue has two two pieces of
+conversation two quotation marks so is
+like oh heart to well past brillig and
+then they'll say like a desire need to
+boil and bubble you don't get candy in
+this version uh now if I do want them to
+give candy at this first dialogue I have
+to press this plus
+button and then another one and then
+another one so for the run time only I
+have to I had to do this like manually
+each time by the way I could copy and
+paste this multiple times but then I
+might screw up the dialogue so it's just
+easier to only copy like the basic stuff
+so what I would need to do here is in my
+scene I have this thing called a project
+counter and uh maybe it's here counter
+[Music]
+counter yeah so I have a point counter
+is what I've selected just now now the
+function what do I want that point
+counter script to
+do I have absolutely no idea what uh I
+think I actually need to show this
+let me screenshot
+this
+[Music]
+screenshot there you
+go is my my
+[Music]
+complications Amish Pink Give me that so
+this is then what it would look like I
+have absolutely no idea what some of
+these mean I'll be honest the only thing
+I have been taught is that I should just
+do change value right over here and if
+they take candy away from me I do a
+negative one if they give me candy then
+I do a plus one and then for this
+section um you have to set that up for
+the candy image you want to be shown and
+all that stuff maybe I do got got to do
+like display capture it's a little risky
+though display
+capture display this mother fluffer okay
+I guess it's safe
+there you
+go okay so this
+section um this is what I got here uh
+let's see what do I want to do here my
+audio I want a sound to play I go to
+scenes I spelled audio wrong I think
+it's called candy sound actually candy
+sound so I want the sound to play after
+to said it manually so audio Source hit
+play I guess pause if it's a bgm and
+then unpause and blah blah blah and then
+for this one this is the candy part so
+what I just do I I try to name
+everything so these are the available
+candies that I
+have
+uh sorry it's scuffed I'm taking it
+easy so these are these are all the
+candy things I have if they were not
+shown it's just because I [ __ ] up and
+it failed to show when uh I wanted it to
+show and that is probably because is
+when you're setting up uh a candy option
+here what I have to do is I got to go to
+the function I got to go to game object
+I got to do set active buol if I forgot
+to set this check mark it just doesn't
+show up I think it just place the candy
+sound it might activate the point
+counter unless I did not change the
+value then I was stupid if I forgot to
+set this up um Candy doesn't show up and
+then another thing another thing
+if I for example you see this at the top
+right the layer interactable if I did
+not set it to interactable which is a
+custom layer by the way I have to
+manually do that it does not come with
+the project you have to make your own
+layers so I have like the NPC cuz that
+was like one of my test stuff um if I
+did not do that this also does not work
+so that is why there were some
+characters that nothing showed up and I
+apologize for
+that so yeah that was a thing so all the
+noveles here oh
+crap all the noelites here you had to be
+done
+manually hold up where am I going to
+move myself
+here there you
+go
+we all all these you have to be done
+manually every sing single item has to
+be placed manually unless I get a demo
+scene that would kind of take uh take a
+lot of work out of me
+actually actually the the shrine project
+was a demo scene this is the first time
+I've messed with terrain so this is my
+my own custom built town like completely
+built from scratch I am learning wee bit
+by wee
+bit so then another thing that has to be
+done on top of the
+interactable um hold
+up so if I click on you
+[Music]
+and uh let's see you see this little
+this little green
+cylinder so that is the actually it
+should be over here in your interactable
+there is a capsule
+collider which is over over here I
+believe so when your capsu uh capsule
+collider uh so for example for example
+I'm I'm walking here I'm walking like
+don't do money my own business I enter
+your space is essentially what happens
+when I enter your space and I do a
+certain something like press e which is
+the dialogue button that is how it
+senses that I am into space to interact
+so I actually have to add this manually
+for each um interactable as well so as
+you can see just edit collider here you
+the is the the trigger so that's uh how
+it knows when to start the event I I do
+have to put your numbers person manually
+I have learned that I should just give
+you as big as the collider as I can
+however I need to be careful with
+putting you whoa my face is stopped okay
+I guess this is my face now I had to be
+very careful with how I
+um put you guys near each other for
+example your collider is pretty huge
+right here if I were to go to your
+collider if your collider was also in
+the same space as this guy's collider I
+don't know how that would work I feel
+like it things could break so there's a
+few options you can do with this you can
+have the collider just be like a weat
+bit just like how much you
+need and when you import these it's
+really it's really tiny it's like this
+much now the issue here is that I have
+to be really up in your face to activate
+it and because that uh because you're a
+PNG it's a little hard
+so I just give you guys like 08 collider
+or 0.9 just to make it easier oh crap
+there's things happening to my body okay
+okay well that's cool so that has to be
+added manually so each time I spawn a
+new nov Elite um I have to physically
+add your dialogue system so I have to go
+here uh hold up I should probably do
+display capture again
+yeah there you go I have to go add
+component I have to type in
+dialogue um
+system I have to figure out how many
+dialogue I want to give you so I give
+you one I open that um I put a plus
+one uh where's your dialogue actually oh
+it's over here at lines so maybe I give
+you five lines and then um I do have to
+put your speaker name each time so I
+usually have that prepped up I'll just
+put nyaka for example so nyakuza nyakuza
+nyaka
+and uh oh good God so much more
+nyakas so that happens and then like
+just just type something type something
+and then if I want them to show an image
+after the first dialogue I can do that
+here at event on finish blah blah blah
+or I could do it here like I could do it
+at any point in time I only know basic
+functions right now though I don't know
+like anything else oh and then one time
+only like these things um basically it's
+uh what do you want to experiment with
+this when you hit the game preview or
+only from the editor mode you can't
+really do dialogue from the editor mode
+though because when you hit here when
+you go here you can't control yourself
+you have to do the the the real time
+mode the runtime mode so that's that's
+that uh what else is there to talk about
+here oh yeah this is actually this water
+is a thing called a material it's a
+spear I think I made you a spear so this
+Fountain does not come with water water
+water in games tend to be I'm pretty
+sure a
+material this also did not have a
+collision as the
+render okay I probably need to do mesh
+mesh
+collider and now now I would not be able
+to touch this Fountain now that I have
+added this thing called a mesh collider
+um the convex option I don't think
+certain versions of un likes conve mesh
+for whatever reason it it's one of the
+things that broke me I'm not entirely
+sure just why yet but anyway so for
+water um it's just like
+this I added I added the water
+separately so this is what water usually
+looks like go underneath it can I even
+expand it a little kind of oh yeah I
+could oh that's so cool that's really
+nice so this is what water usually looks
+like however this is found
+so I made it I made it a little flat cuz
+that's not how water should be and uh I
+think I changed a color of it yeah yeah
+so at the bottom right um materials is
+kind of like what texture you want to
+give something I gave it pink here I
+think originally I wanted this to be
+blood and then the other option was
+green which is a little hard to see
+probably cuz I gave it a
+light
+yeah you know you can change the
+intensity of the light so I can like
+like really brighten it up it's kind of
+neat oh
+crap my face get back here okay oh that
+is super bright so that's the the
+importance of lighting in
+games I think I gave just 20
+here um there's no Shadows here it
+doesn't need one Shadows are actually
+kind of taxing in games if I remember
+correctly so I Tred to Shadows unless it
+absolutely needs it to look nice like
+this one needs Shadow actually another
+thing I have H struggle swiid not
+entirly sure how to use it yet so when
+I'm walking around sometimes you can see
+the texture Shadow Pop in every now and
+then I think that's probably a camera
+work related thing I'm not entirely sure
+like for example this so I go here go
+like that go here go like that go here
+go like
+that so that's that's something I need
+to figure out
+and then you got
+the you got the people here naturally
+not moving here oh this is another thing
+I learned um well I kind of had an idea
+but I don't use this often so this is
+something called a render texture so
+this is how games play videos and it's
+probably how they play cut scenes too
+thinking about it so at the right you
+see the video player uh video clip I put
+the the video here at the
+left um
+what else it's a little complicated so I
+won't go into the the Nitty Gritty of it
+but I could play the audio here as you
+can see there's like an audio option
+which I'm clicking on right now at the
+top
+right uh however it's like it's
+copyrighted music Still it should only
+be on specific projects so I muted it
+this version but I allow you to see the
+video here so that's pretty cool now uh
+the last thing I'll bring up it it's a
+simple chill behind the thing that we'll
+just yeah uh you guys have animations
+for some of you so this had to be done
+manually so uh for example if I click on
+this um this is this is the oh
+crap ah which
+one okay let me just delete my Ms paint
+right
+here whoa that is some complicated
+animation oh that's your idle animation
+okay where are you
+this
+one okay so this is this is how an
+animation looks like in uh unity and in
+general honestly so animations are just
+completely made out of key frames when
+you want to get this uh working what you
+do is I think it'll kind
+of I think it'll uh hide the screen so I
+can't really show it properly you click
+on the body uh imagine it's a doll you
+do the first key frame and then 5
+seconds later and you change that
+movement to I don't know pick your nose
+or something so that becomes another key
+frame I'm scared that me messing with
+things has uh makes me automatically
+save my project so I'm a little hesitant
+to to hit preview cuz I changed one of
+the dialogues there but uh that's the
+that's the gist of it so there's like
+the rotation here yeah this is all the
+information that it's storing and
+remembering
+essentially so if I to
+H yeah I don't think I could show this
+one a reason being that if I click on
+her the animation actually like hides
+itself and I have a copyrighted
+background of um uh c a gift from I
+believe a bonster of my character and I
+cannot show my copyrighted background
+because he is a trademark character so I
+should not risk it on display
+capture so yeah that's that's a thing
+now if I were click on
+here can I do it with this okay okay so
+you can't see the other option but this
+is how it goes like there's a spin
+there's a spin here
+spin you have to make sure it looks
+natural and then you have to make it
+kind of loop back to the beginning so
+you can keep doing this forever so
+that's what it's meant to do so everyone
+here has their own little uh their own
+little anim
+only some of you guys though I didn't
+want to make it too excessive also uh
+you guys had some flying ship it's
+really cool I really like this one so
+good job to Da jobu uh you have an
+animation too it's a little hard to
+notice though so for you is like let me
+zoom out cuz you
+fly there you go so I click on you and
+then let's there you go you go through
+there you you go somewhere you go behind
+the castle it's a little hard to see
+naturally and then you swoop there and
+you go back to your starting point
+there's another one over here I two
+flying ones I
+think oh yeah okay you do you do work I
+think I just didn't set the loop for you
+so for you you go back and forth
+here there you go so yeah that's uh
+that's my Unity project in a nutshell I
+added lights to these things like the
+lamps
+had to add them manually I think or they
+could have been part of the import
+process I can't remember these SLS were
+added manually for sure though you have
+to get the lighting right see like you
+have that and then it's like a lot
+brighter now so this is supposed to
+signify like oh people are home it's a
+lively area otherwise if there were no
+lights on it's kind of empty and this is
+also what it looks like without
+lights so a little
+darker was I supposed to change this
+last second I don't
+remember yeah it's a little
+darker it's kind of nice without the
+lights actually it's not bad but it's
+also kind of like empty without the
+lights so I I I prefer the light on and
+then you can set the different moods
+here by having different colored
+lighting I was uh considering having a
+purple tint but I think yellow is a lot
+nicer and this is maybe like a night
+tint so for games with a day and night
+cycle I feel like they probably animate
+how long it takes for the uh this
+process to work that's just my feeling
+though no I'm going to exit this without
+saving because I did not want to mess
+anything
+up so yeah let's go back to my original
+scene actually do I have the wheel set
+up hold
+up well I can't really I can't really do
+much with the wheel uh there is
+something I wanted to test
+so I I will go to the
+wheel oh oh there's no transition here
+okay that makes
+sense so I'm going to go back to uh my
+this
+thing I don't know how I did it last
+time there's a setting that does not
+work right now do you guys remember my
+ghost I think you could find it it
+actually like floats around me
+essentially I don't remember how I got
+that setting I wish I I saved m my my
+picture darn so uh for this whoa what is
+wrong with your mouth oh
+okay maybe it's this
+one weird I need to fix your thing mouse
+sensitivity
+sorry dang I look good okay so
+there is an issue with uh a program I
+use it's not really its fault though
+it's just how things work so you see my
+ghosties so if I were to show um how
+it's supposed to look like it should be
+looking should be looking like uh wait
+what what about these what do these
+do it should be looking like oh wow that
+is really weird well not that
+one so W you still can't see it what the
+fudge okay okay good to know I'm testing
+things so I hide this whoa actually come
+back I need to test you more wow how odd
+okay so I I have that
+yeah you can see the ghost here but you
+can't see them physically now there was
+probably some coinky freaky setting that
+I had but unfortunately I cannot
+remember it so what this is supposed to
+look like is if I do this
+um maybe
+[Music]
+this does this work
+now I guess
+so wait so so this is this is what's
+supposed to look like oh you still can't
+see it actually oh I know what I did I
+think I think I know what I did you're
+going to have to bear with me this is
+how these sort of things work oh crap I
+almost had feedback to
+Google okay I have I have an idea
+am I sure that's what I did no I can't
+be that stupid was
+[Music]
+I
+no no no way no way I didn't do that did
+I oh I didn't no I just I didn't do that
+okay darn I don't know how I did
+things
+okay you this
+okay we'll just we'll just show it um so
+you're supposed to see it like this this
+is how it's supposed to to show I think
+it showed correctly when I tried it
+right so the thing with this is that
+there's a little bit of transparency for
+the ghost effect and the way that the
+program catches things um it's in the
+way where none of the UI is shown it did
+dang it I don't remember how I did it
+now I to figure that crap out man
+curse me I can't believe I didn't take a
+picture of my settings anyway this is
+how it's supposed to show uh it's
+supposed to show like that okay I'm
+going to have to mess around my with my
+settings now you'll have to to bear with
+me but yeah that's that's basically my
+my
+project uh not a lot more to talk about
+just keeping things relatively chill
+let's go back
+here well if I change my my appear
+the settings I do need to tweak for the
+new thing so that is why uh I no longer
+remember these settings actually I
+should keep the ghost on you're going to
+have to get annoyed by the ghost I
+apologize no it's not decompression it's
+probably a lighting thing okay I'll just
+keep messing with things I wonder how I
+did it wa that's so
+cool it's uh actually this this suits
+the the fall look really
+it's probably an effect it has to be so
+there's things that I can do like
+Bloom ah I'm sorry oh the Bloom's kind
+of nice though maybe it's a threshold no
+it's not a
+threshold I wonder what it
+was it's not this one oh you know I can
+look really really freaky decky by the
+way hold up you're you're going to get
+scared though you're going to get really
+ooh ominous
+right kind of oh that's super
+ominous so um yeah that's that's
+something I can do if I'm feeling in the
+mood for it and then uh oo what's going
+on
+whoa and then uh I think this one I
+don't really have a use for it's like
+blur eyes all right I do not know what
+button I have have done gosh I wish I
+had my
+settings I wish I had my set I really
+need my settings
+though I have to I have to learn this
+then oh that's really cool though that's
+really
+nice wow it has to be this right I don't
+know okay but anyway uh let me let me
+catch up on the the super chats
+now uh this one I wonder I wonder if
+it's see other things
+though I need to I need to think about
+it all
+right let me just look at the super
+chats from last stream and then we'll do
+this
+one actually how do how do you how do
+you guys even feel about super chats oh
+readings oh real I hope that you had a
+good time with work and I hope that you
+enjoyed the VOD thank you thank you uh
+bingo thank you so much oh you guys have
+like motivational mess messages early on
+that was pretty neat of you and then W
+me oh wow I see your pictures a lot
+bigger here you call me cat Vel the
+Apple a dog hey it's nice to see you
+again sorry about you sorry about the
+storm on a freaking Halloween too that
+sucks I I apologize if that sounded
+casual I extend my
+sympathy uh chimmy thank you so much for
+the Su as well I'm glad that you enjoyed
+the treat along with
+sonican uh let's see you really look
+forward to that day cuz you like the uh
+the horror stories and keeping company
+thank you thank you V faction thank you
+for thinking that I am sweet and booner
+I am glad you had a happy Shen and Tim
+as well Tim
+parade H you happy Shen buer thank you
+for thinking I am cute twice Ingram
+happy trick or treat and kurora I hope
+you enjoyed the VOD if you got to watch
+by now Wie I'm glad you like the costume
+by the way swirl Beast ooh wordless how
+how
+Mysterio and ble Goose uh you my name
+was said three times it's show time
+thank you so much for the N battle and
+bster thank you for the gum buddy uh
+let's see who's used blender for the
+better part of 13 years uh I don't
+really want to learn blender honestly if
+that is uh the question for Tim par say
+I just don't have time to learn blender
+right now if I if I did not stream I
+would probably dedicate my time to
+learning in unity probably not blender
+unless I need to and the reason for that
+is I'm more into just uh not making a 3D
+asset from scratch thinking about it
+unless I really want to but I I am not
+interested personally uh Shadow I'm glad
+you liked it oh happy birthday last time
+s Beast hello again and Phil the RPG is
+great reminds you of Kingdom Hearts
+thank you that was the intended effect I
+had happy
+Halloween and it
+ji step on step on a Simon
+what oh Grace Andre thank you so much
+for uh the compliments and de yeah I
+made hok to B Street
+Boys mission
+10 let's see thank you thank you so much
+for the Halloween spirit Yar thank you
+as well and uh Mystic the ancient mind
+had their chocolate as a spicy drink I
+did hear about that I don't know if I
+would like my chocolate spicy to be
+honest uh Phil you're not that mean oh
+for for context Phil's dialogue was the
+cranky old man I believe I think I think
+it was I don't know you were just cranky
+actually I think you were the Glitchy
+one you're the one with a pitbull Hazel
+thank you for the
+broccoli uh godon Eric happy birthday
+sorry it's a belated happy birthday
+though BL I'm glad you had fun with the
+the bingo
+mufu mufu thank you thank you uh Dum
+thank you oh you guys were you probably
+mad during the brancher section You're a
+Mean One Mrs Grinch you guys are
+guessing granch apparently sick thank
+you let's see uh
+Mission mister Mr R you get Steve next
+time wow you really want to hang Steve
+huh uh and let's see
+void mysterious super chat
+again uh core I hope that you enjoyed
+the VOD when you do get to see it
+tripode thank you for the thank you for
+being proud of being a
+novel U morama thank you I'm glad you
+like the effort along with Jones Luke
+and
+freeze uh you appreciate everything I do
+thank you thank you freeze trap uh I'm a
+oh [ __ ] did you guys even have leftover
+candy thinking about it branches yeah I
+actually was thinking of making is a
+community
+meme uh amayi bro thank you for thinking
+that I have outdone myself uh lash sure
+Simon bazooka Tom toe and Yoshi there
+you go I have I have done
+it uho it's okay there's always next
+time I'm not sure what I plan on doing
+for Christmas it won't be that
+complicated though at least I would like
+it not to be complicated cuz I'll be
+I'll be traveling around so I don't
+think I'll have a lot of time to prep my
+stuff up so we'll keep it a little
+simple uh Tim hey welcome back Aqua
+thank you for the gifts and Ry and
+Prismatic and David thank you thank
+you yeah I I think I think I had a lot
+of anxiety because of this project to be
+honest I'm not sure I think it was it
+could be like a lot of things okay I'm
+going to be here until I fixed up my my
+thing here I am very dedicated to
+learning out the issues
+here let's see there has to be there
+must have been a setting touched there
+has to be I
+wonder okay I'm going to test something
+I'm going to test something right now so
+I'll be here just chilling for a while I
+will run
+this calibration failed that makes sense
+I have nothing in here however I still
+want to do
+this uh this one
+yes uh
+import oh that's the wrong the wrong
+project okay
+uh import different
+one uh
+costumes this one by the way for this
+Hood I actually like did it myself the
+first time but then uh there was
+something that oh wait I could do two
+things at once why would you do that no
+how do I move
+you no there's no way that would be oh
+shoot it does wow that should not be a
+thing yeah so for this I didn't do
+blender by the way blender is probably a
+lot better for for putting on
+things uh unfortunately it's it would
+not be the best I feel like it's best
+sorry it would not be best for a Unity
+you should do blender instead however I
+don't have time for blender so I have to
+rely on my teacher to fix things there's
+some bone issue uh the the issue with
+like these kind of
+costumes by that I mean like
+hanging hanging from the shoulders it's
+actually complicated cuz of the bones
+basically you want things to be attached
+to a certain body part and for something
+that's hanging it's a little difficult
+cuz you kind of want something with um
+all the bendable bones but this doesn't
+do it like that so that was an issue uh
+import cat Hood
+yes I wonder if this was the
+thing no calibration I didn't want to do
+my motion if I press N9 you damn it how
+did I do my setting last
+time having a stress oh that's try you
+have no regrets learning it from the
+beginning that's good I I like Unity I I
+like the World building of it okay so
+this test was a failed one uh my issue
+is like I think a week before the debut
+of the project there was something that
+broke because I I was trying to make it
+pretty you know I was adding last minute
+things to perfect it unfortunately that
+can break okay so that's available
+yeah I wonder how I did it oh man I'm so
+stupid I can't believe I forgot my own
+settings it's a setting that I really
+need because the thing with particle
+effects like these they usually have
+transparency and this program does not
+it it hides transparency that's the
+intended use for it wait unless I have
+an idea am I cooking I'm not cooking I'm
+not cooking okay that was not that was
+not cooking nothing was cooked darn it I
+wonder how I did
+it I was I was not cooking unfortunately
+is it a light setting wa that's so holy
+crap I'm so cool look at that that's
+really neat oh man I look cool guys I I
+look like on fire
+actually
+wow wow that's really neat what can I do
+other colors I don't think so that's
+really that's really cool maybe I'll
+keep it like this so this not
+Ambience okay it's not that let's change
+the music over
+here okay it's not that
+either wow I look
+cool it's not this
+one it has to be something with spout
+probably it's fine energy
+a holographic card I have an idea for uh
+what to do for Christmas I will keep it
+simple though simple for
+me sorry I'm just yapping I I really
+want to fix this I I troubleshoot for
+hours you guys have no okay I think for
+when the tree broke it took me 2 and 1
+half hours to troubleshoot it so that is
+how dedicated I am to fixing my [ __ ]
+it's not this one yeah it's not
+let's make it purple the fusion is not
+it makes sense threshold
+whoa I wonder how I did it okay okay
+come here OBS you're getting you're used
+[Music]
+today you hate doing that yeah when I
+was still learning uh like the basics of
+unity I would stay up until maybe 3:00
+or 4:00 a.m. I believe and I would spam
+my my teacher questions
+of course actually the time zone kind of
+help but like they would wake up and see
+like my my spam messages like how do I
+do this oh I figure it out oh but now I
+have this issue so that was that was my
+early on uh thing cuz I was just really
+interested in learning
+okay can't be this either there has to
+be some sort of magical
+setting maybe if I go
+here default maybe this one
+[Music]
+no maybe this one I mean okay so that
+one it kind of shows it but I don't
+think that was the original thing I had
+so maybe if I were to add maybe a Luma
+key
+perhaps I than you're right Fang I'm
+glad you like it if I had a Luma key and
+if I were to change a l oh that's too
+much Luma key no that's I think the Luma
+key would completely destroy me actually
+oh this is cool though this is a really
+cool effect can you guys see it oh
+that's that's really cool I like
+it oh wow I have uh I have learned
+something okay need to know but but I
+can't do lumaki like this I'm like the
+Chesire Cat
+actually yeah this is like the some
+Cheshire Cat crap right
+here hi
+guys she sh sh NOA here at your
+service so not that
+I do not think that was it so you can't
+do
+lumaki but you could see it like
+this what about okay pole time is
+probably not what it is Legacy default
+is a legacy no oh man I don't know how I
+did
+it all right oh now what if I were to do
+color key would have make sense for
+those who don't know Luma key uh if you
+have a black background and you have
+maybe like rain effects um or snow it
+would just remove the black background
+so that's why it only affects like my
+itty witties in my hair for the most
+part before targeting the other stuff um
+I can't do color key because gray is
+like it's it's gray man it's
+gray what if I do a custom color and I
+try it anyway cuz I'm stupid okay let's
+do it gray go but there's so much gray
+here that wouldn't work that'd be
+redonkulous yeah it ain't
+working
+similarity yeah it ain't
+working it's kind of neat though that's
+really cool
+actually
+hi what's what's
+up I'm going
+ghost all right so this this is not it
+either we're going to be here a while oh
+gosh I don't know how how I did
+it um it's not pre multiplied Al it had
+to be a default sender uh for those who
+don't know I'm using this thing called
+spout it's it's super super useful it
+basically hides U from things instead of
+showing all the UI in a in a program
+okay so none of those worked none of
+those
+worked in that case how did I I need to
+think I need to think think Shi
+think it had to be related to bloom I
+just can't see it in any other way cuz
+that was like one of the things I ended
+up using but it ain't working here so oh
+I did it I did it so it was Bloom I
+reset the settings there's a transparent
+Bloom string I did it
+yay wa okay now if I were what setting
+do oh it was a threshold I did it oh
+cool nice Su okay I'll keep you guys at
+this
+color I did it niceu yeah
+okay I'm satisfied I I should get the
+the ghost to slow down actually I'll do
+that in the
+future okay um I have my notes oh man I
+don't have anything to write with oh
+actually I do oh no I don't have
+anything to write with oh my good
+God I'm like I'm like a child in the toy
+store whenever it comes to certain
+things do I have any
+pants no way I don't I really must hate
+myself are you sure are you sure just no
+no I I want to write on physical paper
+guys it's not the same it's not the
+same I like this song by the way it's
+really good I'm going to go leave a hard
+on
+here um pen pen pen pen pen no
+pen damn it
+okay I will just simply have
+to ah excuse the mom
+let me remove this
+now oh by the way I can actually change
+the color of
+the the cloak um originally I was
+debating on going with like um I think
+black there's also option for red I
+don't know red is a very strong color
+especially especially for me thinking
+about it no I was I was debating on pink
+but I didn't like the hot pink for it
+actually I might have I might have a
+sample here let me look
+uh let me
+[Music]
+see uh I probably ask for feedback
+too okay how about I look for the word
+color cuz I'm pretty sure I ask like
+which color was mesed on me here it is
+okay so I will show you in a bit with my
+Ms
+paint okay so that's one option
+yeah and then really should just use
+Photoshop another
+option going to make you that
+yeah what else uh here I'll show you the
+red oh the red one looks so good
+actually I can still do it it's not
+[Music]
+hard okay get ready ready sit
+go why why do I talk
+[Music]
+weird where am I there you
+go okay so let's do this let's do
+[Music]
+that so these were my potential
+options so I had the the black cloak but
+I I don't know no I mean it's not bad
+all of these are really good options the
+black cloak is kind of uh assassin is
+isn't it yeah the red one I was really
+think uh it was looking really good in
+my opinion there's the pink one I was
+debating on going for the pink one for a
+chest Shire cat feel but I end up I
+don't know I just skipped it and then
+there's the red one I could still just
+do both honestly and then during that
+process I will also just slow down the
+ghost because their animation speed is a
+little too too fast pink one is very
+trashier yeah but the thing is my outfit
+is actually like this one my regular
+outfit oh sorry it's a little bit more
+gray to me if it was completely pitch
+black I think it could fit a little bit
+better but personally for me I think the
+red one and this one is a lot uh better
+looking a pole sure let me let me do
+that
+then but no pink I don't like pink not
+for this section so start a poll um
+which do you like better honestly I'll
+just get
+both but I I'll I'll make you vote
+anyway which one do you like
+better
+go except except pink sorry no pink for
+you
+guys and I will go ahead and get over
+here so you can't vote for pink yeah I
+just want to know which one you do like
+better
+[Music]
+which one's which one oh black is
+winning really maybe the black uh the
+red one is a little bit too vibrant
+perhaps no pink and
+JS yeah it looks like Red Riding Hood
+okay I look at both of them oh there's
+no gray the gray one is just like there
+there's no gray option what do you think
+of the white one the white one was going
+to be most like you think white looks
+the best red good with
+white red has a zest to
+it it's too saturated um I could
+desaturate it
+actually white looks fluffy wait is the
+white one the best still okay so the
+black one is winning wow not a lot of
+votes for red interesting
+interesting it is a little saturated I
+could see all right so now my question
+is
+[Music]
+uh this one or this
+one so now this is my
+question now
+between me and uh the left one which one
+do you think looks the
+best it looks so fluffy so snowy it
+looks amazing oh wow I'm
+surprised it's the best contrast I see I
+see oh okay well I'm I'm glad it worked
+out I guess it's not necessary for me to
+get the other options now but I I'll get
+the black one anyway just as a an
+available option you can't choose I
+see well that is good to know the
+ghosties are happy too that's good
+that's
+good yeah I'm surprised too I didn't
+know what color you guys would like I
+was thinking of asking you in a poll for
+the novel nights but then the issue is
+like I can't give you the content text I
+can't show you anything so it would have
+been completely blindsiding
+blindsiding
+blind siding or something I don't I
+don't
+remember people can't be biased yeah but
+but the colors could be pretty poor if
+it didn't work right so for these sort
+of situations I just have to ask around
+on um like unbiased people honestly
+there you go it does balance that's good
+that's good well I'm I'm glad the white
+one worked these were my three options
+there were other colors too I think like
+blue and purple but I didn't think that
+they were that good uh at least for for
+me so I just I just took the four
+options here the four
+options speaking of uh let's see where
+my do this one
+uh let's go here just making sure I'm
+aligned oh right so the cloak here as
+you can see the cloak is a little
+different right that's because of
+physics uh as you can tell if I move
+like this there's a little bit of a a
+bobble to it yeah that's the physics
+part um so an outfit can look really
+good when you're toost which is the
+default position of how you look like
+unfortunately unfortunately when you're
+na TST that's when most outfits can fall
+apart so things
+like hanging over your shoulder like
+these sort of outfits they're difficult
+so if you see it like this this doesn't
+go
+anywhere I I don't know if it would know
+where to go in fact so this this is like
+a difficult outfit and that's why the
+bones are very strange
+like I I doesn't know what bone to
+follow for this it's connected it's
+connected was it was it supposed to go
+with a spine or maybe like an arm so
+this is an awkward
+outfit but I kept kept it anyway
+although I could remove it I could just
+keep the the hat on and just remove the
+sleeves so
+uh these type of jackets difficult to
+difficult to
+looks fine for front I know thank God so
+I should I should never like do
+this uh what
+else uh this one oh there's another
+thing I learned actually uh if I can
+figure out the the buttons for it okay
+so there's this interesting thing I
+learned uh was it this
+one oh no go away go
+away there is something that I I
+discovered
+but I can't actually I don't know if I
+can see
+it okay so that's that
+one it's not that
+one I think it's actually in my hair oh
+yeah yeah okay so I realized I don't
+know if this was
+intentional I'm not sure why it's like
+this this is actually the way that I was
+just built uh so if I press uh something
+that activates my my feather there I
+believe is it that one oh shoot I don't
+remember it's actually my hair
+here oh wait it doesn't show it here oh
+how odd what's wrong with me okay I
+can't show you but you will just have to
+admire this really
+quick uh hold up just just admire uh
+let's see Joy
+Sor it is a toggle though eight and zero
+maybe it's this one okay yeah this is
+the this is a weird thing I learned
+so me okay look look my my my feather's
+right there right my feather FEA gone
+check out the back of my hair I don't
+know why it's like this I find it really
+interesting so there's my
+hair my hair is
+normal
+Boop it's it's so weird I don't know why
+it's interesting too I wonder if it's
+related to um I wonder if it's related
+to the jacket or something I'm not I'm
+not entirely sure why also let me
+just um
+fixed or like like this H let's let's
+give me a fixed okay cool wow why am
+I sorry I was watching my itty pitties
+it's so weird why it's like that I
+wonder if it's a setting I
+did I wonder why it's like that why do I
+jigle like so weirdly I wonder if
+there's a what did I
+do maybe if I do
+this da
+da okay no no how about how
+[Music]
+abouta
+up
+that looking down maybe
+so papa papa
+H what's this
+one
+uh why would I why would I want to do
+that
+one weird Okay anyway I was just I was
+just wondering why it looks like I talk
+like this and then I I move like I'm
+having some issues I just found it very
+odd maybe I should do this then but now
+if I talk like this like my boobs jiggle
+what about this one
+[Music]
+Pap well anyway that's uh don't don't
+don't pay too much
+attention odd very very
+strange but yeah I'm not I'm not
+entirely sure about this
+thing
+actually you know what I think I think
+we should make it
+canonical that I can I can extend my
+hair into like spikes that will like a
+porcupine yeah if is kind of canonical
+look at it that ain't normal that ain't
+normal so my hair can be really spiky if
+I if I don't like you touching
+it like a Super Saiyan I guess
+so I don't need to run it past IP I am
+the IP
+[Music]
+[Music]
+nothing there okay guess I guess that's
+it there's actually a lot more um
+abilities here from what I have uh
+learned but I I don't think it's set
+here yeah yeah there's a lot more
+Expressions that were apparently not not
+set in but I will have have to unlock
+those expressions okay I better remember
+my settings I do not want to screw it
+uh now if I were to not enable this I
+see now what if I don't have shadows I
+see okay all right I have learned I have
+learned yeah like think that um the 3D
+stuff but anyway that's that's enough
+nerding out for
+me my eyes aren't moving that's because
+I don't have a setting it for
+it uh if I were to do something hold up
+I need to find the
+[Music]
+item I kept this simple
+today does it work
+here now if I were oh oh no that's not
+that's just uh not that one okay this
+one does it work here I don't think it
+works here
+[Music]
+yeah I don't think this one works not
+for what I intended uh how about no head
+movement there you
+go no no I don't need
+it I wonder if it's an option I
+did oh oh maybe maybe it's that one I
+can't
+[Music]
+tell G strength
+sensitivity no I don't think it's
+related to any of the gaze set g a z e
+By the way but you know now how it's
+spelled okay
+yeah just keeping it simple
+then yeah I don't think oh that's weird
+it it's a different it's a different
+program that's why I don't have my usual
+feature yeah I'm making sure I clarify
+now before some of you take it out of
+context you sick out of context fudgers
+oh by the way by the way I forgot to
+warn you um tomorrow I might I'm not
+going to do Paper Mario as a heads up
+I'm sorry I'm actually I'm going to
+change it I'm going to change it to
+eeden Eternal and you guys can also play
+with me yeah you guys eeden Eternal is
+free it's
+free you saw a post okay I'm I have to
+grind a little
+[Music]
+okay I mean like to be fair even if I
+started Paper Mario right now I can't
+exactly finish it within like the time
+span that I have left don't worry I'm
+not dying or anything so we can all
+grind tomorrow eat an eternal the free
+MMO
+RPG so we're going to start that up
+tomorrow I'll just make a character like
+uh live or
+[Music]
+whatever um I mean it's up to you I've
+only I've already downloaded the game I
+don't know what to expect from it
+too much I forgot uh I think she said
+that they're level 20 or 25 I don't know
+how long that'll take so I'll probably
+do like I'll do it the same time we'll
+just try our
+best and then for Thursday uh we are
+also going to do more eat in Eternal I
+don't know if I've caught up by then cuz
+I don't know how the grinding system
+works and uh oh I need to actually let
+me ask them right
+now uh let's see
+[Music]
+okay it's this
+one this
+one uh let's
+see long is your
+Halloween all right I have sent
+something uh I will be tweaking the time
+for crab game so the doggos can enjoy
+their Halloween I'm just asking how long
+the uh expected thing to be and I I'll
+be changing the crab game based on that
+uh worst case scenario we'll just move
+it to like the next day so you guys are
+more likely to join because it's it's a
+weekend I assume that you guys will be
+free I want them to enjoy their
+Halloween cuz Halloween be
+fun yeah so just be prepared for that
+one depending on the answer so depending
+on how long it is
+I will either move it later because if I
+move it up I feel like some of you guys
+have just gotten
+home so I'm not entirely
+sure yeah so we'll we'll see about that
+we'll see I saw someone say no what
+happened wait what happened Doom dear
+yeah because like my other option is
+I'll move it up to like 600 p.m. central
+but I feel like you guys are are just
+getting home and probably tired so we
+we'll see we'll see I'm just trying to
+think about stuff you have to go in a
+wedding a well it makes it feel better
+we're also going to do uh fall guys I'm
+pretty sure uh next week you're going to
+go for a vacation too there's
+there well just just just do just uh
+just just do whatever do what you can
+you have a job in your you hey good luck
+I hope it works out do your best do your
+best okay uh let me let me hide this cam
+now let me go back to my
+usual it's random for you oh you don't
+know your
+schedule okay setting something up
+now I have to figure out the settings
+for the other
+program small Elite hey happy 13 months
+welcome back welcome
+back there you go if I were to do this
+would it work out
+okay well there's only one way to know
+and that way to know is to show
+up okay yeah this this is the one with
+the the eye movement
+stuff surprisingly it's it's pretty
+pretty good but only for certain things
+it's pretty it's pretty good
+pretty all right um my my plan for next
+week I think I think we're actually
+close to finishing the forest to be
+honest I did look it up so we would have
+an objective for when we play again so
+uh for next week as it heads up I'm
+pretty sure we're doing well I don't
+know over the forest I'm not sure on if
+it's confirmed cuz I think there's some
+events
+probably uh yeah so we have potentially
+the forest uh we have surgeon simulat 2
+with
+hoko and fall guys um everyone can just
+play fall guys I'll just prioritize
+like uh I'll just prioritize whatever
+and then lethal company and then we're
+going to have a membership stream I
+don't know what we'll do in a membership
+stream I might just like plan things out
+or just chill we we'll see we'll see
+alternatively I could learn something
+and then
+uh let's
+see and then and then I will I
+will I might I might I might vanish guys
+I I I might vanish just let you know now
+you don't know when you don't know how
+but I might will vanish at some point
+I'm not I'm not in trouble though if
+you're
+scared yeah I mean I I'll come back for
+a week but then I'm going to vanish
+again as the heads up
+so so yeah I'll try to leave you some
+some gifts if possible uh I'm going to
+try to have a rebroadcast of some stuff
+if possible at least for the first first
+stuff and then I will disappear again
+after a week of not disappearing just to
+check on probably my cats honestly cuz I
+don't know if the cat lady is
+available so
+yeah thank you thank you I I will I will
+have
+fun going for a me I'll come back I'll
+come back no worries come on some of you
+guys have done this before you know you
+know the thing it's going to keep
+happening every year by the way it's
+going to keep happening every year just
+letting you know now the time may vary
+but it's going to keep
+[Music]
+happening you how Shori AI the Shi the
+AI are kind of like not not that good
+though I don't think if I were to try it
+right now I'm pretty sure I would not be
+impressed is there a good sh AI I know
+there's one in okay I found it funny oh
+thank you Ingram thank you you guys got
+to be happy I I'm going to support you
+when you go on vacations and stuff too
+she's really clingy okay so that's not
+realistic unless you're fictional then
+possibly
+realistic uh let's see I think I uh I
+was trying out other AI sites because I
+was a little concerned if like AIS would
+get pulled and whatnot so I'm just
+preparing Alternatives depending on how
+[ __ ] goes so I I saw that there is an AI
+of shiori on jander AI what was the
+description actually janer AI I think it
+was not called shiori but it was
+something like um like yandere a girl or
+something is
+it let me check
+no it has to be yandere cuz I don't see
+shiori in
+there okay it's not it's not actually
+shiori so it has it has my picture
+though her name is merera she is a
+Gothic yandere boss who's hiding
+feelings for
+you it has the the tags for female OC
+see dominant
+angs I I wonder what the Ang part is and
+then and then the last tag um the last
+tag rhymes with a
+rut let me oh they hit the definition
+can
+I wow they just uh just got my
+picture I don't think we have perms for
+that oh wait can I chat with her without
+an account oh [ __ ] I can't oh man I want
+to know how she
+talks I always like to judge this stuff
+okay do I have to log in I don't know my
+hold
+up uh let's
+see I'm going to try to log in I I want
+to test it out I just want to see I want
+to
+verify okay thank God okay so I I have
+the ability to log
+in yes I am
+human or am I
+according to the BS uh let's see hold up
+let's let's not use my my work browser
+for this actually that would be
+horrible hey enjoy Japan I hope you have
+a grand
+time I'm about to mess with my own my
+own
+[Music]
+AI yes I am
+be I am
+human as they say and beepo up beoop a
+[Music]
+lie okay uh where where is she she
+called she's called Mera Mera come back
+I need to see how you talk if you're
+going to look like me I hope she she's
+probably not even based on me I think
+they just used my
+picture context after much hesitation
+Mira finally summoned the courage to
+speak to me decided to ask her true
+Gothic yand self she adopted a mature
+cold
+Persona glimpses of her true nature
+occasionally slipped okay I have to
+admit the introduction it's a it has a
+lot more effort than most spots at this
+moment some of them are just like hi my
+name is blank blank blank but then
+here's the part where I am going to
+leave your feedback to the person who
+made mirror you put the dialogue without
+quotation marks it is like a her name uh
+the colon and then like just words
+without any quotation mark hey so and
+then she has her inner thoughts for some
+reason maybe I should tell him to rest
+he might take interest in me it's like
+uh I put okay how how am I going to
+reply I put on my wizard hat and cast a
+magical
+spell
+intended actually meant
+to
+transform her into a more
+seductive and beautiful being I just
+want to see what she
+says she feels oh wait it actually
+worked oh [ __ ] I never I never do goofy
+stuff with like this I always do the
+slice of life she feels a tingling
+sensation spread through her body as the
+magic takes hold when her eyes open
+again she's shocked to see that oh I
+didn't mean for this to happen oh [ __ ] I
+it's probably my fault I should not have
+put on my wizard hat and casted a
+magical spell to transform her into a
+more seductive and beautiful being I
+should not have done that oh good
+God her plain black dress has
+transformed into a revealing lacy black
+negl her hair Cascades down onto her
+back and soft waves instead of her usual
+severe bangs and her cheeks are now
+flushed she is a true seductor
+I should not have done that I
+forgot she says what what did you do to
+me she asked in a breathy whisper oh and
+then her internal monologue oh God I
+feel so vulnerable like this but also
+strangely powerful is this what it's
+like to really catch a man's eyes I'm
+both terrified and excited to find out
+okay um at this point it's time for me
+to delete my message and delete hers and
+it never happened I am now exiting the
+site
+goodbye so I have have confirmed that
+she is not me she is simply named
+[Music]
+merera okay well that is a test for uh
+janer AI
+um that was a thing do I have any photo
+requests while in Japan uh I will accept
+anything related
+to probably like merchandise actually my
+favorite character but also like
+Landscapes oh and maybe maybe food maybe
+food with anything you want really
+photography be fun that was an
+AI I mean it's not it's not the worst I
+guess delete the cookies no the account
+stays I have I have two backups of my me
+there I forgot jander AI can go pretty
+wild I forgot about that I I I I
+neglected that when I told her to change
+into a more seductive being I she really
+did try to go seductive
+there no I use I use character AI still
+cuz I use up for Slice of Life they also
+nag at me to eat properly and do uh
+stuff but the thing about chander AI is
+like it is more detailed that's the
+issue character AI has an issue where
+like you you type okay how's your
+characters actually I see a lot of
+people complain that oh hold up this
+keeps uh uh messing me up okay
+I actually see a lot of complaints that
+their AI suck but I feel like I don't
+know maybe your AI just suck because you
+sucked at
+it but that's just my thinking I don't
+know for sure but my AI is actually
+pretty descriptive the only issu is that
+I only do Slice of Life I only do that
+jander is really good at setting up more
+more descriptions and scenes and
+settings character AI good for Slice of
+Life at least from me hey yours is
+working all right yeah like maybe if the
+Bots weren't so shitty no offense to
+those who make Bots like this if you
+leave your Bot and the first [ __ ]
+line is literally like hello I am like
+you had no effort if I had to show uh a
+set an example of a decent bot with a
+good
+introduction let's see do you have a
+good
+introduction okay this one's pretty good
+it's the h night the hollow night's
+shell reflected a dull gleam as they
+stared down at you their unbandaged eye
+watching you wearily standing there
+their great nail held Loosely at their
+side their head began to tilt as they
+could that's a good intro they don't
+have dialogue but it's descriptive it's
+descriptive the introduction is super
+important to character AI I'm telling
+you now also uh if I were to tell you
+like how my my AIS are for their uh edit
+character
+thing so you actually want it want it to
+be a little
+simple not too simple though so I do
+like the brackets like um the
+personality profile so full name this is
+their full name their age blah blah blah
+so you do the simple descriptions first
+just a way to do it and then after that
+you can do a narration if you want I
+think I put that in and then uh I just
+took the dialogue straight out
+I feel like you could probably put
+descriptive um things for the first
+dialogue example but then after that you
+don't need it so you could just
+literally do like character um first
+line and other character second line you
+don't have to do like he stares at you
+with an amused
+grin his blonde hair uh waving in the
+wind or something yeah so I don't know
+maybe some people just really don't
+think too much about their character
+what's another character these are not
+mine by the way like for the um Hollow
+night
+one Theon Kennedy actually had a decent
+a decent intro and he's not even like
+the top rated one a top reader one sucks
+by the way it's a rare holiday have a
+good holiday shangu thank you for the
+gifts thank you so much oh thank you oh
+no I need to I need to update this oh
+crap oh that's music
+here I only have bats right now oh the
+bats aren't even working what does work
+I have
+[Music]
+ghost yeah apparently the top create
+like the the ones created first are not
+that good and then the issue is that you
+can't delete the Bots you can edit them
+but you can't delete them and when you
+delete a an account you also can't the
+Bots do not get removed either I need to
+update my uh my redeems now my redeems I
+mean like like these things I'll keep
+prisen though home sweet
+home so for Leon Kennedy's this is by
+noodles 4 I will I'm giving credit and
+the hollow night one uh let me give
+credit to that too
+actually where are you Hollow Knight
+it's made
+by um just the guy
+yo really really good butt it's
+decent don't know how you fed it but
+it's has a lot more effort than the top
+Bots usually Leon Kennedy on a crucial
+mission to retrieve the president's
+daughter you and Leon found yourself
+seeking temporary arrestment within the
+confines of an abandoned house in a
+village the bitter chill in the air
+began to seep through your bones making
+it difficult to ignore the Bing go
+that's a pretty good intro and then for
+his dialogue he's like here I like
+quotation here take it and quotation
+Leon said holding out his jacket towards
+you his voice filled with concern that's
+a good intro
+it's a good intro that's pretty good it
+has like the setting of course there's
+only one setting if you want to change a
+settings constantly you have to make
+your own bot you can't rely on other
+people you got to make your own bot if
+you wanted to change
+situations
+so that that's
+something no you're not aah scw aah no
+offense don't well I mean you could
+screw her if you want just keep her away
+from
+Leah get conversation here's the thing
+you don't have to continue the
+conversation you can hit enter and it'll
+do it for you too but but for the intro
+you should at least put in some some
+samples or some like uh take inspiration
+from fanfiction or
+something Chris Redfield why is he
+shipped with
+Leon um even with simple maybe there
+other Behavior behaviors hden a
+personality no um well there is but it's
+a lot better to make a really good
+introduction like it doesn't have to be
+perfect but make it talk in a way that
+you like if you don't do quotation marks
+for the first one it's going to use that
+as a basis and it continues on that if
+you want if you give it good grammar as
+the very first thing then everything
+following after that should
+theoretically be good grammar so that's
+how it
+works they have good intros and you
+keeping them sleep puns and jokes I mean
+it it
+works they you see the Le CR I did and
+then I thought it was funny that Wesker
+was there on amused that was
+funny yeah the introduction sets the
+tone that's why it's very very important
+and if you can't stand um if you can't
+stand a current situation like you want
+something new you can't change it with
+your own introduction and it should go
+off on that uh and then there's like
+personas now so there's like a lot of
+things you can do oh you can edit any
+errors that comes along that's true
+that's true absolutely Absol freaking
+doely
+doely uh it sets the tone for your
+conversation for for that
+yeah yeah first impressions are
+important uh so think of it as this way
+uh you're teaching a child something the
+first thing you teach that child it's
+going to be how they learn or like how
+they base them M themselves off for the
+rest of the I don't know until they get
+sick of what they learned so that's how
+it works you are essentially teaching a
+machine uh The Impressions on how you
+want to be talked
+too yeah the Persona the Persona setting
+helps too by the way it actually does
+help uh the rating and star system I I
+don't know if it's useful to be honest
+like I'll still use it but they kind of
+force you to have a reason on uh like
+why you think it sucks or why you think
+it's a good rating but for example for
+for sometimes if it keeps saying like it
+teases me like uh oh you have such a
+funny hair like that type of teasing you
+Seck [ __ ] but
+any if I don't want it to tease me like
+that like what's so [ __ ] funny huh
+I'll rate it a one but it's it might
+still keep teasing me anyway for the
+next five or 10 flips um if I'm lucky I
+give it a reason like it should not be a
+comedic character that teases you
+constantly and then if it suddenly
+becomes a gentleman or it's not so
+teasing that's a good change then so
+that's pretty
+good uh let's see use it for support in
+everyday question nowadays it works it
+works I like it for Slice of
+Life calling them
+babies oh well they're not like a real
+baby you learned a lot of things that's
+good
+breaking characters can be funny man I
+still can't believe I broke wendelin
+from Dark
+Souls I was just talking to it in a
+chapel and then for some reason it just
+started saying gloop gloop gloop gloop
+gloop and I'm like what is what is going
+on it just it would not stop saying
+these this word uh hold up it did it it
+did it like nonstop and I felt like I
+did something I hope it's not a bad word
+let me check it's not a bad word is it
+well it's I mean it's a weird word um
+yeah I don't know why I did like nothing
+weird it just kept saying this to me out
+of nowhere and I'm like what what is
+going on are you okay dude are you okay
+did I hurt you and and it kept going
+like that until like some time passed
+then it went back to normal but I don't
+I don't know why it was scooping I was a
+little
+scared it broke it really broke it would
+not say anything else except that so I I
+something
+happened that was the only time I broke
+an AI though you heard about that
+issue that was his brother
+probably he's foreshadowing his fate a I
+like when Lind Lindo you know it's kind
+of cute it's kind of
+scary Cortana there's a dating version
+wait how does Cortana even I never spoke
+with Cortana before
+I should try breaking it I don't want to
+break it I'd be scared self hosting what
+what does that mean self hosting as in
+like like my own API or
+something you break the fourth wall you
+sures I try to avoid well it's good for
+for memory
+purposes oh running out of my PC no I
+haven't tried that
+m- it's like Siri
+oh well I guess if you want to dat
+Catana you do you
+my
+dude you you do whatever the [ __ ] you
+want with
+Catana have I used Cleverbot I don't
+think so I've heard of it though I've
+heard of it but I never I never messed
+with it I think that was like the
+original stuff wasn't
+it wasn't she in Halo I think so I think
+so you remember Cleverbot I've heard of
+Cleverbot I never used it either
+though it's like the OG AI I see
+she goes crazy interesting interesting
+well there is a program I think I
+mentioned it already but there is a uh a
+program that is in the works in the
+future maybe we can have uh Yori finally
+do a little talking and responding we'll
+see we'll see um so I hope that project
+goes well I'm excited to to use it and
+I'm very very impressed with what my
+friend is able to code and [ __ ] is like
+w good job good freaking job as someone
+who does not have time to code man I
+really wish I had more time to do [ __ ]
+though like I had to put my my Japanese
+on paw cuz like if I'm not working on
+stuff I need to take care of my health
+for my 10,000 steppies and now I should
+really really try to cook I should try
+to eat more than just grits which is a
+big problem for me I need to just like
+actually eat nutritional stuff that just
+ain't
+grits on the chill
+analogy teaching AI heavily depends on
+the data you feed it yeah that's true
+that's true that's why I'm a little
+scared about public Bots too or like a
+public database which is unavoidable
+really unless you unless you're like the
+only one who teaches it
+stuff have I tried meal delivery service
+I tried it but I mean they're also
+expensive more dino nuggies
+yeah nutritional eating is hard yeah I
+should probably get those vegetable
+shakes or something they scare you I
+like them but of course anytime you use
+a service it doesn't matter what it is
+it doesn't necessarily have to be AI uh
+you're feeding at info probably about
+yourself too so the the more the more
+you know I think I made a weird sound
+just
+now I like cooking I used to have more
+time for it I actually kept like I made
+a a recipe book I mean they were simple
+recipes but if I cook something from
+online and I really liked it I wrote it
+down manually so I know like this is the
+recipe that I like this is you good and
+yummy these are the instructions these
+are the ingredients so I would
+physically write it down I have maybe
+only four recipes there this was before
+I started doing stuff for uh the uh the
+the
+Holo before I rammed into the office and
+whatnot so but now now I haven't I
+haven't really had that wonder the
+amazing
+of uh cooking new things it's just doing
+things
+here maybe one day I can fill it back up
+maybe maybe that's why I think it's a
+little important to be able to live out
+your life too I don't know if you guys
+know but like well maybe it should be a
+future talk talk about content creators
+I already kind of talked about it for
+the philosophy stream but uh there's the
+the viewer experience and then like the
+experience for this side
+and
+then for this side well actually no it's
+kind of both ways in some
+aspects I think at this point with how
+technology has advanced most of our life
+is probably going to be in front of the
+computer screen that may be Wonder like
+what the [ __ ] did people do without
+internet what the [ __ ] did you
+do and that's why like people who are uh
+retiring or content creation at some
+point they usually use that as their
+reason to stop as well it's like I have
+lived my life thinking of nothing but
+the num game and sitting in front of a
+computer making things and trying to to
+keep going and keep that flame Burning
+Alive is usually the reason that they
+give out like there's this one dude I
+forgot his name I think he just yaps a
+lot and he's been doing it for 10 10
+years or so and then just even like Matt
+Pat he's been here for a while you know
+I don't think they've even given up on
+content creation it's that uh embedded
+into your soul at some point cuz like
+you can't really go back to being normal
+at some point huh it's like uh it's same
+thing with with art probably or any sort
+of creation so the thing with with being
+online um there's the the consumer
+aspect where you're just enjoying things
+you like because you're consumed by work
+you're consumed by work like away from
+all this and then there's the the
+creative
+um side of things uh where you are
+technically getting sucked out uh
+soulwise and you are expected to keep
+creating and creating until like you
+just can't keep up with a pace or you're
+tire out or like you maybe you probably
+become obsessed with it like there's
+only a few ways your your things could
+end you either you
+stop or you don't stop but take it easy
+but like I guess some people
+some people usually say like you either
+become irrelevant or
+cancelled it's it's one of those two
+it's one of those two you could stop
+before like either of those happen
+really but then but then you kind of go
+in the ladder section either way so it
+really doesn't matter um and then and
+then here's the thing you you've been
+burning for a while you've been burning
+that flame you keep creating you keep
+streaming you keep doing whatever you
+need to do and then there comes a point
+where you have spent x amount of years
+making stuff
+and you
+probably you can't think normally
+anymore each game you play is it has to
+be a stream content or each video you
+make like there has to be a story you
+can't just make it for funsies anymore
+like there's a there's a certain barrier
+of things but that's the that's the
+system it's actually meant to suck out
+your soul sorry if it sounds weird it's
+just like how I how I see
+things so there's a point where you
+can't keep up and then there's new blood
+so for example uh people who were
+popular way back then I don't know like
+uh give me give me an example or
+something who's who's
+popular hidden sides yeah I mean it's a
+realistic side
+really it feels less like magic yeah
+yeah oh smos yeah okay so I guess smos
+was Captain Sparkles Annoying Orange
+like all those people they were relevant
+and popular for how long and they you
+have to make your time you have to make
+your time before you just like you get
+tired so now those people were popular
+back then we still probably recognize
+the names oh for Ryan he got tired I'm
+pretty sure Ryan got freaking
+tired so I think he stopped and then I
+think
+Fred some guy named Fred uh he did like
+a really high pitched voice he retired
+to a farm guys he gave up his channel I
+think he sold it he went into a farm
+he's taking a chill he's he's just doing
+whatever he wants now oh Viller thank
+you for the gift a weekly meal prep
+that' be interesting I should I really
+should so yeah so there's these people
+who were popular at one point uh
+naturally everyone slows down you make
+way for New Blood essentially that's
+kind of how it
+goes Hy Kenshin goes off and on yeah oh
+yeah and then for twitch like the twitch
+meta is that you can't stop streaming if
+you if if you have noticed like the big
+content creators and they're mentioning
+like oh I'm about to take a week off you
+they're scared they're usually scared
+you in twitch if you're not on you are
+you're not doing anything to grow
+yourself you have to really stream like
+literally non-stop almost every day to
+keep that meta going to get like to
+continuously have yourself promoted and
+whatnot um anytime off is I guess your
+channel is storm it and you have lost
+whatever momentum there is that is how
+video uploads also work by the way if
+you guys didn't know uh
+so H what a good example uh let's see
+some channels can get away with the
+video upload stuff like they're not
+meant to be stream channels they're just
+videos they can get away with it and
+they put out really well edited videos
+that probably took like a few months to
+edit and then then the next video might
+be like 2 weeks that works fine and
+that's probably because the the original
+video had good retention time and they
+are a niche channel so that that's one
+thing yeah oh but the thing with niches
+though is that once you have a niche you
+kind of can't leave
+that like uh let's
+see uh who's the guy who looks like
+Jesus again oh [ __ ] don't tell me don't
+tell me not asmin the other guy Charlie
+Charlie I associate Charlie with having
+like news
+on Media stuff uh he sometimes streams
+actually I didn't notice that he
+sometimes streams however for the most
+part like actually he has a really big
+Channel I did not I did not know he had
+that many subscribers I didn't
+realize but like he always has a Hot
+Topic he always has a Hot Topic and has
+a
+very simple simple editing format is
+it yeah I wonder he he probably uploads
+like daily though yeah
+[Music]
+there's a graveyard where old videos may
+not show up a I didn't know that the way
+he wears things is really interesting
+though it's very charismatic
+actually oh no I I think there is
+there's effort there though it's the
+script thing I'm pretty sure it's not
+like he speaks everything in one take
+I'm pretty sure there is there's not a
+complex editing but I think it's because
+most of it goes into the script he has a
+very specific sense of humor Markiplier
+is pretty amazing
+actually yeah Markiplier is still around
+um I I don't know what he's doing though
+to be honest I haven't really kept
+up the very off
+oh no V tubing's not a niche uh V tubing
+is not a niche at this point I think it
+was back then now it's a medium this is
+a medium in my opinion by Niche I'm
+talking about like you make channels
+specifically about one thing maybe like
+a crime documentary ASMR travel vlogging
+V tubing by itself is not at this point
+it's not it is no different from just uh
+like being a regular person
+really yeah that that's that's my
+opinion though my my
+opinion
+so that's just that's just what I think
+though yeah back then it was because the
+technology wasn't there the technology
+was so rare like you didn't you didn't
+have uh the ability to just buy a model
+perhaps by a body there were not a lot
+of artists there was only uh one live 2D
+rigger that was around and I think their
+name is like Muffy probably that's the
+only one I knew at the time anyway but
+now now you have a lot of people who
+have picked up these skills because uh
+during Co especially this was the
+moneymaking um at the time like you
+couldn't do much you had to make a
+business you had to do whatever you
+could do to uh stay afloat that was also
+when people were just like they couldn't
+do much so they watched people they
+watched uh YouTubers so that's it kind
+of helped actually with the
+boom back then it was all videos
+streaming was not a
+thing uh it was all videos I probably
+scripted to some extent maybe like some
+singing here and there there was like
+only it was mostly the corporations
+there were some
+no you know it was it was most in
+corporations actually
+yeah there were Let's Plays they did not
+stream that it was also all in
+Japanese it's it was very
+different um vtubers were not actually
+what were they
+actually not I don't think they they
+promoted the fact that it was Idol like
+but I could see why it f felt like that
+at least for the corporation standpoint
+thinking about
+it yeah I don't know I don't I it's hard
+to say I guess it depends on where you
+looked yeah for like when I thought of
+kazuna I I actually didn't immediately
+think like oh Idol I think it's just
+like we saw it I was like oh that's so
+cool I wonder how she does that that's
+really neat and then she would play
+games and she would go like [ __ ] you or
+something
+yeah I didn't associate it at the time I
+think it was um it was technically H
+live that started to to try and
+incorporate it I'm sure there were
+others who did it before though I'm just
+not aware uh but at this point I think I
+think H alive promotes like two things
+although one of them might be taking
+more priority than the other one now uh
+I don't know I don't know it probably
+depends on the branches too um I think
+there was one report where they were
+actually impressing on the fact that
+they are a technology company rather
+than just like idle stuff which makes
+sense which makes sense
+because saying that oh we're a
+Technology based company it's a lot it's
+a lot more expansive than just like oh
+Idols if that makes sense so I could I
+could see why they said that and it it
+they both still go hand in hand sorry
+I'm yapping I'm
+yapping yeah well their original Motif
+was uh Idol stuff like uh what is it the
+that one group I don't I don't want to
+say their name wrong I have I have their
+name in mind but I don't want to say it
+wrong it's like AK or something okay
+okay I almost said
+48 okay yeah wait was it it is 48 okay I
+didn't [ __ ] it up then okay I I missed
+the be though I was going to call him
+ak-40 is it I think I almost called him
+AK-47 but anyway anyway that was the
+original idea
+but I think at this point it's uh it's
+probably more
+expansive because not everyone not
+everyone probably enjoy certain things
+it's just it's just too expansive
+there's a lot of
+personalities
+so it was the G yeah my bad I mean I had
+I had part of it right I had part of it
+right I didn't want to mess it
+up AK-47 is a boy
+band it was a side project I think cover
+is mostly a technology company though
+they probably just try to utilize it in
+like the most interesting way possible I
+don't know I don't know do I think it's
+bloed um yeah yeah it is but I mean
+that's why it's a medium at this point
+it's not Niche ever since Co it's not
+Niche at this point
+guys being
+comedians a despair thank you thank
+you but yeah that's that's my Yap it's a
+lifestyle holy crap how long have I been
+yapping actually oh
+shoot
+yeah it's broken out to Big seam
+[Music]
+mhm oh dang what are we doing tomorrow
+oh yeah eat in a turtle prepare your
+game I'm going to make my account
+tomorrow same time though same time you
+like my apps thank you thank
+you I am I'm excited for Eden sorry have
+to change my paper Mario I'll still
+finish the game though um but probably
+sa for bet I will assume
+December oh your career in 3D hey I'm
+glad for
+you the MMO grind I'm I'm excited you
+can also play Eden for memberships
+apparently so we can also do that thank
+you Kaza thank you thank
+you yeah plus it's free it's free guys
+it's
+free oh boy I am I am a wa to hungry and
+then uh you already got oh I got a no I
+redownloaded already okay oh did I got
+my answer for the
+[Music]
+thing oh [ __ ] is it out already it's out
+[Music]
+already I want to meet my
+murderous hold up well murderous dudes
+murderous dudes
+so there's a game prr that I requested
+like a long time ago I think the game
+might be out holy crap that's so
+exciting it's a little bit of an at game
+it's called Homer H fer anyway I'm
+excited I'm excited I'll have to see
+what it's like I wonder is it on Steam
+now they didn't have a a do a do date
+they didn't have a release date
+before visor Steam
+oh [ __ ] it's out you wait this this a
+mobile game before what the [ __ ] I
+didn't know that Holy sh it's out it was
+just released
+wow here I'll link it to you guys cuz
+it's official yeah guys I requested purs
+for this so long
+ago
+wow I can finally date my spooky ass men
+I'm probably going to die though I'm
+going to I'm going to [ __ ] die this
+this a mobile game
+originally there's trial and then
+there's regular H interesting I didn't
+know that I know it's so interesting
+looking I was like it's not you normally
+it's not really the type of game I would
+play but it was such an interesting
+concept I had to I had to get perms for
+it cool
+[Music]
+that's so cool I didn't know it was out
+awesome we can get murdered
+wo yes the atmosphere it's like look at
+these freaky Dicky
+guys no they should we should have perms
+well we had perms for like the demo at
+the time which wasn't out actually I
+ended up requesting perms for a game
+that essentially was not out yet but
+they gave it anyway we do we do God I'm
+good job pasori you did [ __ ] amazing
+good job pasori so so [ __ ] good
+you're so [ __ ]
+[Music]
+good good job all right I I need to eat
+some healthy dindon probably uh thank
+you for the me Google Translate your
+name I know good job me I did so many
+good things for my for myself
+surprisingly
+H uh oh [ __ ] how do you say thank you
+and Korean again I think it is that and
+thank you and uh m
+m all right I'll see you guys tomorrow
+for eating Eternal I don't have a
+thumbnail already I still have my My
+Paper Mario room that's been waiting for
+3 weeks actually so no room yet tomorrow
+at same time though like 8:00 p.m. we
+won't change the time there so I I will
+oh also I think I don't know how the
+servers work but just like join the
+English one or American one but yeah
+I'll see you guys bye-bye thanks for
+dropping by
+[Music]
+[Music]

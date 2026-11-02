@@ -1,0 +1,1933 @@
+{
+  "method": "Each record manually read, segmented, and rewritten; scripts only stored authored records, checked consistency, and moved source files.",
+  "context_policy": "Repair identifiable recognition errors using context. Preserve spoken grammar, profanity, hesitation, repetitions, and unsupported fragments.",
+  "files": [
+    {
+      "file": "gJ_fNUAsy_c.jsonl",
+      "records": 18,
+      "source_sha256": "45591d5421bf313b7a95300ca74e6356d41fd6870bdde3bfe2db67158b7d50a9",
+      "raw_word_changes": [
+        {
+          "source": "why",
+          "clean": "why'd"
+        },
+        {
+          "source": "eardrop",
+          "clean": "eardrum"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "8Z5xrXNTuY8.jsonl",
+      "records": 11,
+      "source_sha256": "2d12a885fe24488d1f07d3047a508c13aa63f3ae030a09275931652d5c890789",
+      "raw_word_changes": [
+        {
+          "source": "bio",
+          "clean": "biboo"
+        },
+        {
+          "source": "shori",
+          "clean": "shiori"
+        },
+        {
+          "source": "eldri",
+          "clean": "eldritch"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "S9mHmGz5s9U.jsonl",
+      "records": 15,
+      "source_sha256": "e79cfed882c1643b43c3dcb751d9e6e0cdcaf78f14816afdbb5001aaffe21621",
+      "raw_word_changes": [
+        {
+          "source": "box here",
+          "clean": "boxer"
+        },
+        {
+          "source": "theit",
+          "clean": "the novelite"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        5
+      ]
+    },
+    {
+      "file": "WoeORg24Wrw.jsonl",
+      "records": 10,
+      "source_sha256": "e46b1da47dd72b87ff60e5455b57a79422a52de9453b890685db18b96575c8fb",
+      "raw_word_changes": [
+        {
+          "source": "bankori",
+          "clean": "bonk shiori"
+        },
+        {
+          "source": "shori",
+          "clean": "shiori"
+        },
+        {
+          "source": "lwd",
+          "clean": "lewd"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "YgAESzi7E8Q.jsonl",
+      "records": 16,
+      "source_sha256": "397929c720bc1f23986bcd1f1e91002536e66a687b17cb9661cded23de4a9435",
+      "raw_word_changes": [
+        {
+          "source": "omega verse",
+          "clean": "omegaverse"
+        },
+        {
+          "source": "o",
+          "clean": "oh"
+        },
+        {
+          "source": "st",
+          "clean": "strong"
+        },
+        {
+          "source": "bread",
+          "clean": "bred"
+        },
+        {
+          "source": "semi",
+          "clean": "seme"
+        },
+        {
+          "source": "uk",
+          "clean": "uke"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "f4ouNga7PXA.jsonl",
+      "records": 17,
+      "source_sha256": "492e6a070229df509b75c3692708ca6793c8213ce956bde9e0e2edc013656c52",
+      "raw_word_changes": [
+        {
+          "source": "a",
+          "clean": "ah"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "lIz1zd8TU9g.jsonl",
+      "records": 10,
+      "source_sha256": "74dea5da643d204d24378134c62dfeef68423e3417aa3437ae8d4df40c64b7a7",
+      "raw_word_changes": [
+        {
+          "source": "wi",
+          "clean": "with"
+        },
+        {
+          "source": "su",
+          "clean": "summer"
+        },
+        {
+          "source": "novel",
+          "clean": "novelites"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "ZX2q3rR3cYw.jsonl",
+      "records": 13,
+      "source_sha256": "a29a7410fb36c6fa1b06e341508534fa72efd574d224ff78a2431c67422753c3",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": [
+        1
+      ]
+    },
+    {
+      "file": "KxY0AfUQ-mo.jsonl",
+      "records": 17,
+      "source_sha256": "f00f98efb3c10b8bc7722c127c922c8adfb74c823111306aaf1f1709b964eeb5",
+      "raw_word_changes": [
+        {
+          "source": "tle",
+          "clean": "ticle"
+        },
+        {
+          "source": "a",
+          "clean": "ah"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        5,
+        11
+      ]
+    },
+    {
+      "file": "J-6Xw-Zu8ZE.jsonl",
+      "records": 12,
+      "source_sha256": "49f2092f79b9154c6a9d4ebbb376acc3d665e502d62e64156f4b63188ce2894a",
+      "raw_word_changes": [
+        {
+          "source": "it",
+          "clean": "it'd"
+        },
+        {
+          "source": "i",
+          "clean": "i'd"
+        },
+        {
+          "source": "ain",
+          "clean": "ain't"
+        },
+        {
+          "source": "whiping",
+          "clean": "whipping"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "u4lfxtB-JQ8.jsonl",
+      "records": 11,
+      "source_sha256": "7d130fdb02b2452a521825e2e8423d3e316176372be683f9d386aede5e2fcbe0",
+      "raw_word_changes": [
+        {
+          "source": "roku",
+          "clean": "rokurokubi"
+        },
+        {
+          "source": "link is",
+          "clean": "lengthens"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "uke2k90G73A.jsonl",
+      "records": 17,
+      "source_sha256": "727db4b275dd208eb050da7a0c3b750c88eac6b5b51dc7d5525ba2406a1be617",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "FYnNxgn6NJA.jsonl",
+      "records": 20,
+      "source_sha256": "650d35c18fd89208c2ad6e29dcfa57d9b481061dbcfd9e977ed603a319555320",
+      "raw_word_changes": [
+        {
+          "source": "shiweri",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "Wuc2rdMnk8E.jsonl",
+      "records": 18,
+      "source_sha256": "b94576cf4b9808e16ddf73dda1d2e54bca9f187125ce257ec666addaec2447fb",
+      "raw_word_changes": [
+        {
+          "source": "tart",
+          "clean": "type"
+        },
+        {
+          "source": "tart",
+          "clean": "type"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "I1brMfijf2w.jsonl",
+      "records": 13,
+      "source_sha256": "dc0f1c28f5aedcee1b7ccde8c489cf91d068e8e2d56715ec2ec72d29038d85b6",
+      "raw_word_changes": [
+        {
+          "source": "shodi",
+          "clean": "shiori"
+        },
+        {
+          "source": "valid s",
+          "clean": "valentine's"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "ro6jl0zYbSE.jsonl",
+      "records": 11,
+      "source_sha256": "351a28c74cbe9191e8d2c61c9588f82859fbdd361b8d18873b3d8a111f4868d5",
+      "raw_word_changes": [
+        {
+          "source": "hen mama",
+          "clean": "henmama"
+        },
+        {
+          "source": "m",
+          "clean": "management"
+        },
+        {
+          "source": "bunked",
+          "clean": "bonked"
+        },
+        {
+          "source": "",
+          "clean": "sit"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "trK1KQcjQrc.jsonl",
+      "records": 16,
+      "source_sha256": "fddd541018a483e94087fd5c144dbe1cd4296902c382f1c5eb004ee4f793f2cb",
+      "raw_word_changes": [
+        {
+          "source": "raise",
+          "clean": "rizz"
+        },
+        {
+          "source": "cabon",
+          "clean": "kabedon"
+        },
+        {
+          "source": "beibs",
+          "clean": "bae"
+        },
+        {
+          "source": "rizing nissa",
+          "clean": "rizzing nerissa"
+        },
+        {
+          "source": "rizing",
+          "clean": "rizzing"
+        },
+        {
+          "source": "rised",
+          "clean": "rizzed"
+        },
+        {
+          "source": "ss",
+          "clean": "sounds"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "MKGKi2rRahQ.jsonl",
+      "records": 13,
+      "source_sha256": "c642045a9a30df556fa5bd0e62a7ba0a7ee7e1e13109feabd636a6871ec69289",
+      "raw_word_changes": [
+        {
+          "source": "coinus",
+          "clean": "coitus"
+        },
+        {
+          "source": "bunked",
+          "clean": "bonked"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "LxnmuL48imE.jsonl",
+      "records": 18,
+      "source_sha256": "50b92f456a45158d61ce23315c8abe715015c4bfdacf7c10128cc25c5782f5f2",
+      "raw_word_changes": [
+        {
+          "source": "bast",
+          "clean": "bae"
+        },
+        {
+          "source": "it",
+          "clean": "i"
+        },
+        {
+          "source": "shity",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "cICHnU3g9qs.jsonl",
+      "records": 17,
+      "source_sha256": "f893c3881d80cedce1981a76556010ea4475b0c2c7000d561d147b8d8b5d7efe",
+      "raw_word_changes": [
+        {
+          "source": "son",
+          "clean": "san"
+        },
+        {
+          "source": "te",
+          "clean": "t"
+        },
+        {
+          "source": "teos",
+          "clean": "t pose"
+        },
+        {
+          "source": "te",
+          "clean": "t"
+        },
+        {
+          "source": "toos",
+          "clean": "t posed"
+        },
+        {
+          "source": "toos",
+          "clean": "t pose"
+        },
+        {
+          "source": "toos",
+          "clean": "t pose"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "j3RQB_yIIek.jsonl",
+      "records": 12,
+      "source_sha256": "0f7d403f24e39e716158578a7cb02fce3c3153af7fe56dc151529323355fc20a",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "emnBs9374tA.jsonl",
+      "records": 10,
+      "source_sha256": "bf59a1eb92ad48a84e52c59a95ca4398f4ebe6d9bbe961a58f80b0e691c83320",
+      "raw_word_changes": [
+        {
+          "source": "being",
+          "clean": "beating"
+        },
+        {
+          "source": "the",
+          "clean": "of"
+        },
+        {
+          "source": "beatball",
+          "clean": "meatball"
+        },
+        {
+          "source": "beat balls",
+          "clean": "meatballs"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "9JVpGKqUxvg.jsonl",
+      "records": 5,
+      "source_sha256": "793628c38c750746a53f6028e8fce74e7824f6c79c16365e1e1d3eeafc430206",
+      "raw_word_changes": [
+        {
+          "source": "a foot",
+          "clean": "afoot"
+        },
+        {
+          "source": "and",
+          "clean": "an"
+        },
+        {
+          "source": "the straw",
+          "clean": "lestrade"
+        },
+        {
+          "source": "on",
+          "clean": "a"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "QFz0KO_SmTM.jsonl",
+      "records": 17,
+      "source_sha256": "1ff2380b128365fa7648c3d188b976e8f53671811fa824c2942cb9f460609e13",
+      "raw_word_changes": [
+        {
+          "source": "mrs pigy",
+          "clean": "miss piggy"
+        },
+        {
+          "source": "kerit",
+          "clean": "kermit"
+        },
+        {
+          "source": "inter species",
+          "clean": "interspecies"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        4
+      ]
+    },
+    {
+      "file": "T7NWal9xGv0.jsonl",
+      "records": 14,
+      "source_sha256": "d464a78af20936e51ac4c059a7e27f24cd734142e8fba4e695bb6775d0732bbd",
+      "raw_word_changes": [
+        {
+          "source": "rans",
+          "clean": "fans"
+        },
+        {
+          "source": "p that",
+          "clean": "pack that's"
+        },
+        {
+          "source": "it",
+          "clean": "it'd"
+        },
+        {
+          "source": "tell said",
+          "clean": ""
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        8
+      ]
+    },
+    {
+      "file": "KaWAMmluhcY.jsonl",
+      "records": 16,
+      "source_sha256": "c19e1bccdc8d71c52fdfd9f15a5ae8cbdb31facb68189247d62061e6f9461abb",
+      "raw_word_changes": [
+        {
+          "source": "a",
+          "clean": "ah"
+        },
+        {
+          "source": "audge",
+          "clean": "fudge"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        8
+      ]
+    },
+    {
+      "file": "WRoSlT3h5Is.jsonl",
+      "records": 18,
+      "source_sha256": "bdda7d5f8154804178f9ecd3402a407f1a6fcc20eba41e628dca9858022edb04",
+      "raw_word_changes": [
+        {
+          "source": "card",
+          "clean": "cart"
+        },
+        {
+          "source": "peel",
+          "clean": "kill"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "kp96fXcbpZM.jsonl",
+      "records": 10,
+      "source_sha256": "2e9a58f0da88fcb1ce764d4e10022e0fc9400e96d553f875b379fb378b45f890",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "4MqIsKRuQQA.jsonl",
+      "records": 15,
+      "source_sha256": "95e109caba1e272820b02362fdc4beb7b0deac5258193d9e04048bec0bf77833",
+      "raw_word_changes": [
+        {
+          "source": "it's e",
+          "clean": "it says"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        11
+      ]
+    },
+    {
+      "file": "oBqj4x2SDDs.jsonl",
+      "records": 20,
+      "source_sha256": "2a35f993d7cf70d1adbc2e51dfdbbf010400389212b84891cf8ba4d76e8bdbf0",
+      "raw_word_changes": [
+        {
+          "source": "novel",
+          "clean": "novelite"
+        },
+        {
+          "source": "shiiori nolla",
+          "clean": "shiori novella"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        16
+      ]
+    },
+    {
+      "file": "PHLn2W6jtxo.jsonl",
+      "records": 13,
+      "source_sha256": "c381fa87d297b96803bc8ac5500cb89362e3b0443a568476a2a127af682eb3e3",
+      "raw_word_changes": [
+        {
+          "source": "o",
+          "clean": "oh"
+        },
+        {
+          "source": "ey shadow",
+          "clean": "eyeshadow"
+        },
+        {
+          "source": "tex",
+          "clean": "tits"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "nzOVeqgRBpI.jsonl",
+      "records": 8,
+      "source_sha256": "fb2a845ad232dd44aadadf80cbbd23e4fabc3918847a58494f813b1dabb2cb4f",
+      "raw_word_changes": [
+        {
+          "source": "ginsa",
+          "clean": "ginza"
+        },
+        {
+          "source": "ambiencece",
+          "clean": "ambience"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "iTxR164nylI.jsonl",
+      "records": 9,
+      "source_sha256": "62a9b960b09b6ba1be3496001d698e8c665622e058c0205ab9e8d0c60700b15c",
+      "raw_word_changes": [
+        {
+          "source": "un bully",
+          "clean": "unbully"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        5
+      ]
+    },
+    {
+      "file": "Y3-9mu0Q0d4.jsonl",
+      "records": 9,
+      "source_sha256": "d11908ba3655366a13536aec46f72519e09eef19792c441757d61cdab52a3144",
+      "raw_word_changes": [
+        {
+          "source": "throwing",
+          "clean": "doing"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "MnukOp1l100.jsonl",
+      "records": 13,
+      "source_sha256": "1f02e4bfccc00886243cc6c635d373130725ec7dedcfc0ba94b1f3f164aad123",
+      "raw_word_changes": [
+        {
+          "source": "a",
+          "clean": "ah"
+        },
+        {
+          "source": "beu siri",
+          "clean": "but shiori"
+        },
+        {
+          "source": "shy",
+          "clean": "shiori"
+        },
+        {
+          "source": "shi",
+          "clean": "shiori"
+        },
+        {
+          "source": "helping",
+          "clean": "helmet"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        12
+      ]
+    },
+    {
+      "file": "HdDu9V6tMno.jsonl",
+      "records": 16,
+      "source_sha256": "816bd5121a0acab03b248803f6664135f89c6e2bd621c8ed772bf22c5835ee68",
+      "raw_word_changes": [
+        {
+          "source": "novite",
+          "clean": "novelite"
+        },
+        {
+          "source": "paig",
+          "clean": "paige"
+        },
+        {
+          "source": "novel night",
+          "clean": "novelknight"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "u1dCffph0xk.jsonl",
+      "records": 12,
+      "source_sha256": "950dfb9a0a53998d97c796f8f96bfc4cd52447c387ede23bdde331aa0e82b238",
+      "raw_word_changes": [
+        {
+          "source": "elad",
+          "clean": "eldritch"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        6,
+        8
+      ]
+    },
+    {
+      "file": "a8_WwyNNIM0.jsonl",
+      "records": 19,
+      "source_sha256": "3d57b3abec7d821e4f52116a97d6a2f446869a383014d8c75e4c664f43a401cc",
+      "raw_word_changes": [
+        {
+          "source": "that event",
+          "clean": "advent"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        1
+      ]
+    },
+    {
+      "file": "a4iuThWAoHs.jsonl",
+      "records": 12,
+      "source_sha256": "96fdb084ad3e273f80c348f6a62794cdd06177636470dace90092b3a6a4defdd",
+      "raw_word_changes": [
+        {
+          "source": "teresa",
+          "clean": "to risa"
+        },
+        {
+          "source": "you",
+          "clean": "ew"
+        },
+        {
+          "source": "cu",
+          "clean": "cuz"
+        },
+        {
+          "source": "novite",
+          "clean": "novelite"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "Vb1-KmZ4qOQ.jsonl",
+      "records": 11,
+      "source_sha256": "758e116ba925ea756a5416c132c0e26015691a14afee168dd32dc3e5fed8c13b",
+      "raw_word_changes": [
+        {
+          "source": "cos playing",
+          "clean": "cosplaying"
+        },
+        {
+          "source": "novelty",
+          "clean": "novelite"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "9lD_4bNViwc.jsonl",
+      "records": 22,
+      "source_sha256": "f8ad069349d83e0d0561286417c4059a86fe8dbf139235285f0f822391dd3037",
+      "raw_word_changes": [
+        {
+          "source": "shiiori",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        15,
+        21
+      ]
+    },
+    {
+      "file": "cV824cHfEus.jsonl",
+      "records": 11,
+      "source_sha256": "77b12557f96bee6084ff511293165c899dac1f072a8e699339e620f95ce89bba",
+      "raw_word_changes": [
+        {
+          "source": "ditsy",
+          "clean": "ditzy"
+        },
+        {
+          "source": "cluess",
+          "clean": "clueless"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "JGTtoXuJMMQ.jsonl",
+      "records": 14,
+      "source_sha256": "73a45792463d906bd257eeee363af9a8f42bc5781bf04f33771e0bd67defdc92",
+      "raw_word_changes": [
+        {
+          "source": "life",
+          "clean": "live"
+        },
+        {
+          "source": "he",
+          "clean": "hey"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "drAvIF_RL7U.jsonl",
+      "records": 9,
+      "source_sha256": "a4d0c046446a23b4b4f70adabb07fd453e564c90ee020a5704837fe1a2c8ed06",
+      "raw_word_changes": [
+        {
+          "source": "iron adulterated",
+          "clean": "unadulterated"
+        },
+        {
+          "source": "sure it's",
+          "clean": "shiori's"
+        },
+        {
+          "source": "",
+          "clean": "or"
+        },
+        {
+          "source": "sure he's",
+          "clean": "shiori's"
+        },
+        {
+          "source": "she already",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "o6hYde6ip40.jsonl",
+      "records": 14,
+      "source_sha256": "318cfb60e16e37e097ca64419b0d3d8fe213b099a386f3db7fef1d0a20baf85e",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "LLJPbBdZBpM.jsonl",
+      "records": 16,
+      "source_sha256": "6a2403122c96a17b397a7ac4d5bef09571e5ea4bbce90738ba734e097531a5f1",
+      "raw_word_changes": [
+        {
+          "source": "bel",
+          "clean": "belt"
+        },
+        {
+          "source": "she",
+          "clean": "chastity"
+        },
+        {
+          "source": "bel",
+          "clean": "belt"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        4
+      ]
+    },
+    {
+      "file": "sZOHgADkTcs.jsonl",
+      "records": 13,
+      "source_sha256": "5fec91b642e83db070c323d2259a4c21af0eb9f94209c8b830c2998c9a18bf1d",
+      "raw_word_changes": [
+        {
+          "source": "shori ste",
+          "clean": "shiori's diner"
+        },
+        {
+          "source": "shori",
+          "clean": "shiori"
+        },
+        {
+          "source": "sh's de",
+          "clean": "shiori's diner"
+        },
+        {
+          "source": "patriots",
+          "clean": "patties"
+        },
+        {
+          "source": "sh",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "z93FNiDQAmQ.jsonl",
+      "records": 15,
+      "source_sha256": "1b3c8a4b2d55d5d5c0d22782b1d63af3736e643c0e20aa67c11dff20077eea84",
+      "raw_word_changes": [
+        {
+          "source": "girl failure",
+          "clean": "girlfailure"
+        },
+        {
+          "source": "beau",
+          "clean": "bologna"
+        },
+        {
+          "source": "cars",
+          "clean": "carbs"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "24d3FSMxNvw.jsonl",
+      "records": 12,
+      "source_sha256": "f4507b8b7115caf9d107d62ac80ed6e0338ad997e64f1f7fcec133374f60c0c1",
+      "raw_word_changes": [
+        {
+          "source": "sh",
+          "clean": "shiori"
+        },
+        {
+          "source": "sh",
+          "clean": "shiori"
+        },
+        {
+          "source": "shitisms reese",
+          "clean": "shiorisms risa"
+        },
+        {
+          "source": "cream p",
+          "clean": "creamed"
+        },
+        {
+          "source": "are",
+          "clean": "or"
+        },
+        {
+          "source": "cream",
+          "clean": "creamed"
+        },
+        {
+          "source": "buff",
+          "clean": "puff"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "nTPeeV1vx9s.jsonl",
+      "records": 14,
+      "source_sha256": "edf41a842cdcfe8155a0656b2d7ff5359f5036ecd9a413a69465f74c443816fb",
+      "raw_word_changes": [
+        {
+          "source": "stick up",
+          "clean": "stickup"
+        },
+        {
+          "source": "kn",
+          "clean": "not"
+        },
+        {
+          "source": "shy nolla",
+          "clean": "shiori novella"
+        },
+        {
+          "source": "dawn on",
+          "clean": "don"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "VDMcmiJ__WE.jsonl",
+      "records": 18,
+      "source_sha256": "891273e3da925c1b81ebbc4985d4dbdeb88799d09f88808228ad848de2e2e4d8",
+      "raw_word_changes": [
+        {
+          "source": "head pat",
+          "clean": "headpat"
+        },
+        {
+          "source": "role play",
+          "clean": "roleplay"
+        },
+        {
+          "source": "scen",
+          "clean": "scene"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "fMwln1A0JJs.jsonl",
+      "records": 14,
+      "source_sha256": "ab13bcc79ab7f8f7cd3317b402a9d41c1e846046c818ef91808c1044ec954155",
+      "raw_word_changes": [
+        {
+          "source": "in not",
+          "clean": "on that"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "rUxq6pHbuHE.jsonl",
+      "records": 12,
+      "source_sha256": "cefef8ee6adb236451f8118d819f893e54f217858868262bfd8b8e670aa1c870",
+      "raw_word_changes": [
+        {
+          "source": "coot senai",
+          "clean": "koseki senpai"
+        },
+        {
+          "source": "yoai",
+          "clean": "yaoi"
+        },
+        {
+          "source": "parties",
+          "clean": "party's"
+        },
+        {
+          "source": "follow",
+          "clean": "borrow"
+        },
+        {
+          "source": "wa",
+          "clean": "you"
+        },
+        {
+          "source": "whata",
+          "clean": "what i"
+        },
+        {
+          "source": "says",
+          "clean": "said"
+        },
+        {
+          "source": "norissa",
+          "clean": "nerissa"
+        },
+        {
+          "source": "nissa",
+          "clean": "nerissa"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        10
+      ]
+    },
+    {
+      "file": "G6VASKTrVc0.jsonl",
+      "records": 17,
+      "source_sha256": "4c15d00c288a98bc2a93eb0c3cd9a3e5ef7e02a4275e1360f39602ec3fd62783",
+      "raw_word_changes": [
+        {
+          "source": "laie",
+          "clean": "lingerie"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "XU9B0ZMMEYE.jsonl",
+      "records": 14,
+      "source_sha256": "229b71e0bca2a980697aa710a96d469d7accade51e07d5c48d715a8311c3fc40",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": [
+        13
+      ]
+    },
+    {
+      "file": "ZQztQZGzWho.jsonl",
+      "records": 18,
+      "source_sha256": "7d7f7a0317e53adde1ebad4025f3b302cb29c69c007761d667677cae3e7ada3d",
+      "raw_word_changes": [
+        {
+          "source": "a dimmitri",
+          "clean": "dimitri's"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "OytQyNMGXfc.jsonl",
+      "records": 14,
+      "source_sha256": "9dabec86e0fb6048f033ae7115b1823eb06c41146cd20bd532abe9f9b550c677",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "yvwiVNlHen8.jsonl",
+      "records": 17,
+      "source_sha256": "e139017c165707139f1459fa82c823e9485856905968c2ff9067989f5f7fc141",
+      "raw_word_changes": [
+        {
+          "source": "iris",
+          "clean": "irys"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        7,
+        8,
+        13
+      ]
+    },
+    {
+      "file": "d3nuexF-7CE.jsonl",
+      "records": 20,
+      "source_sha256": "3e9a6ef19015372d833749802ba583b20e7b212b3c2dcbfa4f0c04cab21e788f",
+      "raw_word_changes": [
+        {
+          "source": "groth",
+          "clean": "growth"
+        },
+        {
+          "source": "wo",
+          "clean": "whoa"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        12
+      ]
+    },
+    {
+      "file": "0ugan6WnkOg.jsonl",
+      "records": 11,
+      "source_sha256": "2a3f130b520e225fa28c620730dc8202fed53a9a5c29c29b2b64f48b1440683e",
+      "raw_word_changes": [
+        {
+          "source": "troli",
+          "clean": "trolley"
+        },
+        {
+          "source": "trollei",
+          "clean": "trolley"
+        },
+        {
+          "source": "ono",
+          "clean": "oh no"
+        },
+        {
+          "source": "noelites",
+          "clean": "novelites"
+        },
+        {
+          "source": "wifeu",
+          "clean": "waifu"
+        },
+        {
+          "source": "shy nolla",
+          "clean": "shiori novella"
+        },
+        {
+          "source": "sh nal",
+          "clean": "shiori novella"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "zRtCSkyPGf4.jsonl",
+      "records": 14,
+      "source_sha256": "4993178cb4e32c0869e757b199df02e37ae4a16254f7f0a7407e15124e20286b",
+      "raw_word_changes": [
+        {
+          "source": "toa",
+          "clean": "towa"
+        },
+        {
+          "source": "ena",
+          "clean": "ina"
+        },
+        {
+          "source": "enos",
+          "clean": "ina's"
+        },
+        {
+          "source": "than",
+          "clean": "on"
+        },
+        {
+          "source": "sat",
+          "clean": "sad"
+        },
+        {
+          "source": "money sword",
+          "clean": "money's worth"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        1
+      ]
+    },
+    {
+      "file": "SwfXhnbnefE.jsonl",
+      "records": 21,
+      "source_sha256": "85b196e39dbdf057407fb232dd9fec296b5a9f257472b1eda2ad62747d7918ed",
+      "raw_word_changes": [
+        {
+          "source": "it",
+          "clean": "its"
+        },
+        {
+          "source": "sori",
+          "clean": "shiori"
+        },
+        {
+          "source": "hap",
+          "clean": "haptic"
+        },
+        {
+          "source": "me",
+          "clean": "mean"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "1GSQGzCiSZc.jsonl",
+      "records": 17,
+      "source_sha256": "9e1821469041bf608da41ebc993cd5e175bfec490423d55750ca3f20fe112085",
+      "raw_word_changes": [
+        {
+          "source": "shori",
+          "clean": "shiori"
+        },
+        {
+          "source": "shori",
+          "clean": "shiori"
+        },
+        {
+          "source": "shari",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "NQ0ed9f75Lw.jsonl",
+      "records": 14,
+      "source_sha256": "4e572d78037cb5737dbe5e31988cba1086e0538da5a6060481ae4e200605183d",
+      "raw_word_changes": [
+        {
+          "source": "y",
+          "clean": "yabai"
+        },
+        {
+          "source": "host",
+          "clean": "hoes"
+        },
+        {
+          "source": "stat",
+          "clean": "strapped"
+        },
+        {
+          "source": "los",
+          "clean": "losing"
+        },
+        {
+          "source": "pee peee",
+          "clean": "peepee"
+        },
+        {
+          "source": "hemma",
+          "clean": "henmama"
+        },
+        {
+          "source": "y",
+          "clean": "yabai"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "olPmIWM4-zM.jsonl",
+      "records": 14,
+      "source_sha256": "caac4107903d17c54ac712772a84c7f09016b014b5d868922d50a172be187886",
+      "raw_word_changes": [
+        {
+          "source": "bottle",
+          "clean": "model"
+        },
+        {
+          "source": "lead",
+          "clean": "lot"
+        },
+        {
+          "source": "in",
+          "clean": "on"
+        },
+        {
+          "source": "noelites",
+          "clean": "novelites"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "L6Y75riI59I.jsonl",
+      "records": 15,
+      "source_sha256": "1ec0dc3001025d1145b542f60cf5646c53d688e58fb9c812303b78dd84200886",
+      "raw_word_changes": [
+        {
+          "source": "party",
+          "clean": "parfait"
+        },
+        {
+          "source": "momento",
+          "clean": "memento"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        5,
+        7
+      ]
+    },
+    {
+      "file": "MH4wqW3a1s0.jsonl",
+      "records": 17,
+      "source_sha256": "429790512f47c6e326d0d43b2fd5da4a5bdab4444c1cf923792a2478901b3c84",
+      "raw_word_changes": [
+        {
+          "source": "a",
+          "clean": "ah"
+        },
+        {
+          "source": "noas",
+          "clean": "novellas"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "KvLy_5VjIKw.jsonl",
+      "records": 10,
+      "source_sha256": "86c135127cd75393feed36275d7a9a3cb8817c10aaa5721faeae12d40d38266c",
+      "raw_word_changes": [
+        {
+          "source": "up",
+          "clean": "off"
+        },
+        {
+          "source": "shin",
+          "clean": "shiori"
+        },
+        {
+          "source": "like",
+          "clean": "liked"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "WfTGk06xWjc.jsonl",
+      "records": 15,
+      "source_sha256": "374d6fb234e1bd46e1f5666742c84987923c5719dc12541e651c87b81a14cad5",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "ZSJA4N7JPaE.jsonl",
+      "records": 15,
+      "source_sha256": "f040d26e7f46dddbc131354bea9493bba7f4fcefa941b02726ab29fc3a6a2bc4",
+      "raw_word_changes": [
+        {
+          "source": "luster",
+          "clean": "lesser"
+        },
+        {
+          "source": "blood board leader",
+          "clean": "bloodborne player"
+        },
+        {
+          "source": "f",
+          "clean": "f'd"
+        },
+        {
+          "source": "lester to",
+          "clean": "lesser of two"
+        },
+        {
+          "source": "other",
+          "clean": "otherwise"
+        },
+        {
+          "source": "weed de",
+          "clean": "weewee"
+        },
+        {
+          "source": "bonded",
+          "clean": "bonked"
+        },
+        {
+          "source": "ler",
+          "clean": "lesser of"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "6Ds32feO8v8.jsonl",
+      "records": 12,
+      "source_sha256": "993407976af4c80f1fd44371918d81a415e48767ea4aba7c6f0dfd2d7d1eb19c",
+      "raw_word_changes": [
+        {
+          "source": "gat",
+          "clean": "gyatt"
+        },
+        {
+          "source": "gap",
+          "clean": "gyatt"
+        },
+        {
+          "source": "it's gat it's",
+          "clean": "its gyatt is"
+        },
+        {
+          "source": "gat",
+          "clean": "gyatt"
+        },
+        {
+          "source": "g",
+          "clean": "gyatt"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "6MVxNmxq2K8.jsonl",
+      "records": 21,
+      "source_sha256": "745aeef431cc2d6ae9838f7a21ac7ae963598a28f0be6fe27bce205fa0d37f52",
+      "raw_word_changes": [
+        {
+          "source": "make can be",
+          "clean": "making me"
+        },
+        {
+          "source": "cue",
+          "clean": "qt"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "OJWSwgNMVJ0.jsonl",
+      "records": 10,
+      "source_sha256": "f690a9316df07ecce3ef9f6b11be6eaac4f179035cbcad3dc68f60b768592aa7",
+      "raw_word_changes": [
+        {
+          "source": "but we have",
+          "clean": "give us"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "uvQ-c63nDuk.jsonl",
+      "records": 14,
+      "source_sha256": "53347516271ee896f69b68759045ccab80dd29fc6fcc632cd7db3152ad109a67",
+      "raw_word_changes": [
+        {
+          "source": "w",
+          "clean": "wound"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "e-EoIMj19FA.jsonl",
+      "records": 10,
+      "source_sha256": "a8fa0e0702b91d9da09402c37ffc1156dbf1b9650a8ac4386ae0dba817d32973",
+      "raw_word_changes": [
+        {
+          "source": "witty",
+          "clean": "bitties"
+        },
+        {
+          "source": "you're 8 witties",
+          "clean": "your itty bitties"
+        },
+        {
+          "source": "it",
+          "clean": "i"
+        },
+        {
+          "source": "inu witties",
+          "clean": "itty bitties"
+        },
+        {
+          "source": "there",
+          "clean": "they're"
+        },
+        {
+          "source": "l",
+          "clean": "little"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "xlL3xF3UmMk.jsonl",
+      "records": 19,
+      "source_sha256": "ddbcffecb01c2f626f789e5376a2c646c68f50c46ad5031bf7785996d4a46c04",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "9eWhP48994A.jsonl",
+      "records": 17,
+      "source_sha256": "4896410dfcf70437a1ed8d1be5745aeb792aada6365b362e3cdb30362da36dcf",
+      "raw_word_changes": [
+        {
+          "source": "lullabi",
+          "clean": "lullaby"
+        },
+        {
+          "source": "i'll",
+          "clean": "it'll"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "fQ8DIWd0_4Y.jsonl",
+      "records": 23,
+      "source_sha256": "47416bf06e3f512a16798c63ab4ea1dbaf11fb9b8a28e10f729a70d814a530b5",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": [
+        20
+      ]
+    },
+    {
+      "file": "LkdXMvrYAcw.jsonl",
+      "records": 17,
+      "source_sha256": "f7c86ff002d5ddbd58cb7e46a87afebbcf3f70ecfc931b32c7758bc0a38c62f0",
+      "raw_word_changes": [
+        {
+          "source": "ocanal",
+          "clean": "olecranal"
+        },
+        {
+          "source": "fagina",
+          "clean": "flagina"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        12
+      ]
+    },
+    {
+      "file": "OVjvV1NG-Gk.jsonl",
+      "records": 24,
+      "source_sha256": "9e5c91c553df910ec0b7d69d3081ee6c09b6cadc2c9d430b4e92cba793a5aca1",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "m3hKPKHmaCQ.jsonl",
+      "records": 22,
+      "source_sha256": "9c0fb3780950cfd570785abf96714c7ed3e8bccc1eacc57890fb927d6fd06655",
+      "raw_word_changes": [
+        {
+          "source": "motherucker",
+          "clean": "motherfucker"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "8aUeR1iM5VQ.jsonl",
+      "records": 14,
+      "source_sha256": "96b881b08913a0740a7d7afd970cf6215a9ac17a2ce78e3e35c2ea6fea59de30",
+      "raw_word_changes": [
+        {
+          "source": "bloopers",
+          "clean": "bloomers"
+        },
+        {
+          "source": "menarchy",
+          "clean": "menarche"
+        },
+        {
+          "source": "menarchy",
+          "clean": "menarche"
+        },
+        {
+          "source": "menarchy",
+          "clean": "menarche"
+        },
+        {
+          "source": "menarchy",
+          "clean": "menarche"
+        },
+        {
+          "source": "fult",
+          "clean": "fault"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "oSx-BEtnL_4.jsonl",
+      "records": 16,
+      "source_sha256": "2f2dcee64e3d8d4d852d0615db87b198ec8caaa7981de153b84e053383429c6d",
+      "raw_word_changes": [
+        {
+          "source": "herum of",
+          "clean": "harem"
+        },
+        {
+          "source": "her",
+          "clean": "harem"
+        },
+        {
+          "source": "sor",
+          "clean": "sorry"
+        },
+        {
+          "source": "har",
+          "clean": "harem"
+        },
+        {
+          "source": "pinked",
+          "clean": "pinged"
+        },
+        {
+          "source": "n of",
+          "clean": "nerissa"
+        },
+        {
+          "source": "harm",
+          "clean": "harem"
+        },
+        {
+          "source": "harum",
+          "clean": "harem"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "GoC3_Oi8R0Q.jsonl",
+      "records": 18,
+      "source_sha256": "a1075b5212f4ac475fd38a2496268acbb02ac4de8db9128cce8f5d6e9a1a0347",
+      "raw_word_changes": [
+        {
+          "source": "olly",
+          "clean": "ollie"
+        },
+        {
+          "source": "bi boo",
+          "clean": "biboo"
+        },
+        {
+          "source": "bi boo",
+          "clean": "biboo"
+        },
+        {
+          "source": "bi boo",
+          "clean": "biboo"
+        },
+        {
+          "source": "sucks at",
+          "clean": "saw except"
+        },
+        {
+          "source": "a motor boo",
+          "clean": "to motorboat"
+        },
+        {
+          "source": "wo",
+          "clean": "whoa"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "6_qCfAyPQSU.jsonl",
+      "records": 11,
+      "source_sha256": "638c230aa348403cdb63d46d68cbde294ac1e6d819ddf48ebbf7e712e3acbfff",
+      "raw_word_changes": [
+        {
+          "source": "to",
+          "clean": "there'd"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "GnKcFBIsws4.jsonl",
+      "records": 24,
+      "source_sha256": "549c266f8991b4bfd861dc51b6cd54c8198c54704e0f177e1ab6bcf0402cd9b5",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": [
+        2
+      ]
+    },
+    {
+      "file": "Tuk1Ijexw5I.jsonl",
+      "records": 14,
+      "source_sha256": "2d26cae7838d4278597868bae5a66a5a4b10b6757ae3a163d3a8d89b44f85d37",
+      "raw_word_changes": [
+        {
+          "source": "1200",
+          "clean": "12 00"
+        },
+        {
+          "source": "a",
+          "clean": "the"
+        },
+        {
+          "source": "p an",
+          "clean": "peeing"
+        },
+        {
+          "source": "witch an",
+          "clean": "witching"
+        },
+        {
+          "source": "p an",
+          "clean": "peeing"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "RLEW4ihxaeY.jsonl",
+      "records": 20,
+      "source_sha256": "080db0f43b78c48304fe4e5c4432b96704f8a99975ed025580cfe2d88d4a3f8d",
+      "raw_word_changes": [
+        {
+          "source": "a",
+          "clean": "it"
+        },
+        {
+          "source": "shori",
+          "clean": "shiori"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        14
+      ]
+    },
+    {
+      "file": "JhZ-NlH8oLU.jsonl",
+      "records": 18,
+      "source_sha256": "de7a4e41b2402944cb976030bd09d3dc4fdc674ee2d588accd6ebd47a5f1caf4",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "RfIRKfY7YvE.jsonl",
+      "records": 17,
+      "source_sha256": "efbaa20d062e1d15b5aeb7170ca11745cc89b72b081be2a62a1e29b912e61011",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "_u_FXXp4Q44.jsonl",
+      "records": 16,
+      "source_sha256": "94d404313c62da7a69aec6787aa6e15dfffe76835cb35e728848d08ddc9ef4f5",
+      "raw_word_changes": [
+        {
+          "source": "lua's",
+          "clean": "luida's"
+        },
+        {
+          "source": "sea",
+          "clean": "see"
+        },
+        {
+          "source": "omu rice",
+          "clean": "omurice"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "-4XjRRJ5mNU.jsonl",
+      "records": 11,
+      "source_sha256": "9ea32a8d41002ecd146895c2c2452e93dcc9b826baa9da333c77b1a5cc8185a3",
+      "raw_word_changes": [
+        {
+          "source": "demitri",
+          "clean": "dimitri"
+        },
+        {
+          "source": "feed",
+          "clean": "feet"
+        },
+        {
+          "source": "feat",
+          "clean": "feet"
+        },
+        {
+          "source": "the mei",
+          "clean": "dimitri"
+        },
+        {
+          "source": "the mei",
+          "clean": "dimitri"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "fReGkCz9GMI.jsonl",
+      "records": 23,
+      "source_sha256": "b1dd3bd1443d8a2003d93e47222262292de2c820c39705f9c86b86aa84f9db3f",
+      "raw_word_changes": [
+        {
+          "source": "shy",
+          "clean": "shiori"
+        },
+        {
+          "source": "bonnie",
+          "clean": "body"
+        },
+        {
+          "source": "balljointed",
+          "clean": "ball jointed"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        19
+      ]
+    },
+    {
+      "file": "kBzTTuVfgHg.jsonl",
+      "records": 16,
+      "source_sha256": "60163dc4cf16b894576360095f49d597e8be8f74e09c8ac5ba689e4890c1adcd",
+      "raw_word_changes": [
+        {
+          "source": "shoting",
+          "clean": "shitting"
+        },
+        {
+          "source": "shor's",
+          "clean": "shiori's"
+        },
+        {
+          "source": "",
+          "clean": "stone"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "BH3AZzLpk7Y.jsonl",
+      "records": 17,
+      "source_sha256": "9271a3937e4eac167b65527227f437638ddafef01f373a1febf79e4c960bb738",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "fcCiTQ09obs.jsonl",
+      "records": 14,
+      "source_sha256": "dfff4c16985c94a64ad7db56a47c8e54da90527fa0a23cfc65bdfab084fe0a51",
+      "raw_word_changes": [
+        {
+          "source": "noveli",
+          "clean": "novelite"
+        },
+        {
+          "source": "novali",
+          "clean": "novelite"
+        },
+        {
+          "source": "there",
+          "clean": "there'd"
+        },
+        {
+          "source": "noveles",
+          "clean": "novelites"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "bJ6FVtNIUV8.jsonl",
+      "records": 14,
+      "source_sha256": "9ef3b6f445c170814e713f6a0df494d147676e7af4ec508ec5b3306c63c6cda5",
+      "raw_word_changes": [
+        {
+          "source": "dog",
+          "clean": "door"
+        }
+      ],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "5x4ktv4-zBg.jsonl",
+      "records": 17,
+      "source_sha256": "813f10a6ef61613b587c5e7d182f0c41d6d1f76e498850e72fd19b526a77dcdc",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": []
+    },
+    {
+      "file": "fZV0JpIGna4.jsonl",
+      "records": 20,
+      "source_sha256": "4a38534f70d4af95b34dd4a50991a4dc2cfa80db79284456883b278babd4d205",
+      "raw_word_changes": [
+        {
+          "source": "bow m",
+          "clean": "bowel movements"
+        },
+        {
+          "source": "",
+          "clean": "can't"
+        },
+        {
+          "source": "had",
+          "clean": "have"
+        },
+        {
+          "source": "",
+          "clean": "shit"
+        },
+        {
+          "source": "release",
+          "clean": "relieve"
+        },
+        {
+          "source": "leave",
+          "clean": "relieve"
+        }
+      ],
+      "literal_or_unresolved_lines": [
+        14
+      ]
+    },
+    {
+      "file": "78e416BLGo4.jsonl",
+      "records": 31,
+      "source_sha256": "5cd09a95d570935de2fcea5040b5660076999d3819788eb8690986daad028fed",
+      "raw_word_changes": [],
+      "literal_or_unresolved_lines": [
+        26
+      ]
+    }
+  ]
+}

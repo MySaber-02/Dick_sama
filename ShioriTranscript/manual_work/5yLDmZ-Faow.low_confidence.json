@@ -1,0 +1,866 @@
+[
+  {
+    "source_draft_row": 7,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "They looked me up. Locked me in like the th me out.",
+      "actually": "!Unclear childhood joke."
+    }
+  },
+  {
+    "source_draft_row": 26,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Don't worry. Vincent Fler. Vincent Fler. Oh, says dog. Ah, he dug our flicks. Yeah, I am Doug.",
+      "actually": "!Unclear name reading."
+    }
+  },
+  {
+    "source_draft_row": 27,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Vincent Fesler, you just sketchy address that that matches.",
+      "actually": "That suspicious address suits it."
+    }
+  },
+  {
+    "source_draft_row": 29,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Wait, who's typing? Ridiculous. What? What? What? type. Oh, what is this? Oh, shift. Okay. Okay. So, shift is if I want to turn",
+      "actually": "Shift is used to turn."
+    }
+  },
+  {
+    "source_draft_row": 30,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay. What if I want to go pre pre? Oh, I see. I hate it. Doesn't work for me.",
+      "actually": "I understand, but it does not work for me."
+    }
+  },
+  {
+    "source_draft_row": 41,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yeah. I'm going to f this. Oh, okay. Besler,",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 51,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, that looks like over there. Okay. What is that? What? I want to do that. Okay, I'm starting to understand.",
+      "actually": "I am beginning to understand."
+    }
+  },
+  {
+    "source_draft_row": 52,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oops. Okay. Nothing else. Hello. Hello. Oh, there's like a Oh, a goat.",
+      "actually": "Hello. A goat."
+    }
+  },
+  {
+    "source_draft_row": 68,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, lucky. That is okay. But wait, wait. I need my pipe. Floppers bandits.",
+      "actually": "!Unclear game words."
+    }
+  },
+  {
+    "source_draft_row": 69,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, hey. Hey. Okay, I got it. I got it. I'm calling. Oh, I can swipe with anything.",
+      "actually": "I have it. I can strike with any item."
+    }
+  },
+  {
+    "source_draft_row": 75,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "You guys are so There's no nothing much here. A Jos. Yeah. Oh, the music. The music is pumping.",
+      "actually": "The music is energetic."
+    }
+  },
+  {
+    "source_draft_row": 77,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I assume you guys Oh, hold on. Show me. Yeah. What? I'm here somewhere. Okay. Where is Oh, there you are. Okay. Let's go this way. Oh, you're going that way. Okay. Where do we go?",
+      "actually": "There you are. Which way do we go?"
+    }
+  },
+  {
+    "source_draft_row": 78,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, what? Wait, someone just pull the same darn string all the time. Wait, no. This is No. No. Bad guy. Bad guy. How do I Wait. How do I go? Where? Oh, sorry. I'm following. Sorry. Wrong. Goth girl.",
+      "actually": "Sorry; I followed the wrong goth girl."
+    }
+  },
+  {
+    "source_draft_row": 81,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Huh? At bow. At bow. Yeah. There's there's bullets at paw.",
+      "actually": "!Unclear location."
+    }
+  },
+  {
+    "source_draft_row": 85,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I see. No, you got to press tab. It is monsters. It says it says poo over there. That's fine. I know, right? Heck yeah. I'm going scrumptious. Oops. I put Ollie poo. Actually, that's oi.",
+      "actually": "!Mixed game words."
+    }
+  },
+  {
+    "source_draft_row": 96,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "And then Oh, wait. What's what's Darma? Looks kind of glitched up. Oh, what's that? What's in PE?",
+      "actually": "!Unclear game text."
+    }
+  },
+  {
+    "source_draft_row": 98,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "H. Maybe I have like a spot, but then I have to give up my Can you guys check the computer and tell me like what you think?",
+      "actually": "Can you examine the computer and tell me what you think?"
+    }
+  },
+  {
+    "source_draft_row": 102,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Bread. I'll pick it up. Am I Is the top right like I got it. Oh, go ahead. Uh I think that's it for this room.",
+      "actually": "I think that is everything in this room."
+    }
+  },
+  {
+    "source_draft_row": 115,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "so I can see on the toilet, men. In case you guys need to potty.",
+      "actually": "There is a toilet if you need it."
+    }
+  },
+  {
+    "source_draft_row": 121,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, wait. What is that? Yeah. It's okay. You got this. We got this. We got it. We got We got There's a useless note.",
+      "actually": "We can do this. There is an unhelpful note."
+    }
+  },
+  {
+    "source_draft_row": 134,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, the blue door is like this one with goat, right? Wait, it's in the corn. You found a key before. Yeah, but this has like the little pipes that's blocking.",
+      "actually": "Is this the blue door? You found a key before, but pipes block it."
+    }
+  },
+  {
+    "source_draft_row": 136,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Joss, I'm just going to I'm going to go to Oat. Okay. Oh, Edeto. Okay, I found Edeto. Uh, the red crony. Is it goat? Oh. Oh, yeah. It's okay. You got it. Good job.",
+      "actually": "!Unclear route names."
+    }
+  },
+  {
+    "source_draft_row": 137,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "All right. There's a lot of uh ow. Sorry. Let me help you with bond men. Hold on. Hold on. Ouchie. Bond men again.",
+      "actually": "!Game target words."
+    }
+  },
+  {
+    "source_draft_row": 143,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Hog. So I guess we go down from here. Think there's meat in. Oh, there are more monsters. Okay. See you. I like my bullets.",
+      "actually": "There are more monsters; goodbye. I like my bullets."
+    }
+  },
+  {
+    "source_draft_row": 144,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I am not. I see no meat in here. Scared. Can I Did it light? Nice. I saw no meat.",
+      "actually": "I found no meat."
+    }
+  },
+  {
+    "source_draft_row": 155,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yeah. Oh, bullets. Oh, you you look like you're doing great. There there are more. Can I get me some bullets?",
+      "actually": "May I have some bullets?"
+    }
+  },
+  {
+    "source_draft_row": 156,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Um, I have enough. What is that? What? Maybe I should throw this out. Hold on. I'll throw this out later.",
+      "actually": "I may discard this later."
+    }
+  },
+  {
+    "source_draft_row": 166,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "What's What's happening? It's okay. It's okay. He paid for it. Uhoh. Okay. I'm going to go pick you up, Ra.",
+      "actually": "I will collect you, Raora."
+    }
+  },
+  {
+    "source_draft_row": 173,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, whoops. Oh, no. No. I need Oh, shoot. I should have come back, but I couldn't help it.",
+      "actually": "I should have returned, but could not help it."
+    }
+  },
+  {
+    "source_draft_row": 184,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yeah. Oh, the conference room. Yeah. No, it's not it's not in here anymore. It's whatever the the red taped places.",
+      "actually": "It is no longer here; perhaps the red-tape location."
+    }
+  },
+  {
+    "source_draft_row": 185,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uh, men, it might be Edeto. I think it's Edeto. Edo. Yeah. Oh, yeah. Yeah, it is Ed. Here. Right here. Goat. Oh, yeah. I think the horde is about to start soon.",
+      "actually": "I think the horde starts soon."
+    }
+  },
+  {
+    "source_draft_row": 197,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "They're coming in from rats right now. Oh, and and we're act Oh crap. All right. All right. Ready? Peace. They rush. I don't want to waste all. Oh, wait. I need to uh Oh, shoot. That's a pipe. There we go. That's good. Yeah. Okay.",
+      "actually": "!Mixed combat words."
+    }
+  },
+  {
+    "source_draft_row": 198,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yeah, I think so. You guys, but last time there was like a floating red cloud.",
+      "actually": "Previously there was a floating red cloud."
+    }
+  },
+  {
+    "source_draft_row": 202,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I found a Oh, necroexicon. What is that? What? Bread.",
+      "actually": "!Unclear item name."
+    }
+  },
+  {
+    "source_draft_row": 207,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Nice. Nice. Is it here? Oh my good god. Stupid Zack.",
+      "actually": "That annoying Zack."
+    }
+  },
+  {
+    "source_draft_row": 207,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "No offense, Zack.",
+      "actually": "No offense, Zack."
+    }
+  },
+  {
+    "source_draft_row": 211,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Point. Nice. Nice. What? Where you guys at? There's a computer here.",
+      "actually": "Where are you? There is a computer here."
+    }
+  },
+  {
+    "source_draft_row": 218,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Sign if you can help. Oh. Oh. That's what happened last time.",
+      "actually": "That happened previously."
+    }
+  },
+  {
+    "source_draft_row": 229,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I think we went through far. Far far. Far far is the checkpoint.",
+      "actually": "That is the checkpoint."
+    }
+  },
+  {
+    "source_draft_row": 232,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, I need to pick it up. Okay. Okay. Okay, let me I'll stay with my pipe.",
+      "actually": "I will keep my pipe."
+    }
+  },
+  {
+    "source_draft_row": 236,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I think it's in this upper railing area.",
+      "actually": "I think it is in the upper area."
+    }
+  },
+  {
+    "source_draft_row": 236,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I'll just follow you.",
+      "actually": "I will follow you."
+    }
+  },
+  {
+    "source_draft_row": 238,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Um, let's see. This way. Wait, was it was it Yeah, maybe. Yeah, it was definitely down here, guys. After the corridor. No, no, no. I think Wait, yeah, I think. Yeah. Yeah, cuz we've already explored the the top area.",
+      "actually": "It was down here after the corridor, I think. We already explored above."
+    }
+  },
+  {
+    "source_draft_row": 240,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, you're so good. Oh, press. And then there should be more of this. Wait, no, never mind. Oh, there's a room there. Oh, look at that. Eating meat together.",
+      "actually": "We are eating meat together."
+    }
+  },
+  {
+    "source_draft_row": 246,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, thanks. Oh, no. I'm going to keep an eye in here. Oh, that's I got you, baby.",
+      "actually": "I will protect you."
+    }
+  },
+  {
+    "source_draft_row": 247,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay, I'm going to So weird hearing you say baby things.",
+      "actually": "It is strange hearing you say things like “baby.”"
+    }
+  },
+  {
+    "source_draft_row": 248,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Right. I'm coming. Oh, it's it's pretty chill here.",
+      "actually": "It is calm here."
+    }
+  },
+  {
+    "source_draft_row": 252,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I don't care. I'm decent. Oh, wait. There's still more beans.",
+      "actually": "There are more enemies."
+    }
+  },
+  {
+    "source_draft_row": 252,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "You might want to back away. Way too many.",
+      "actually": "You should retreat; there are too many."
+    }
+  },
+  {
+    "source_draft_row": 256,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "You have food. What's this? Hey, there's another pistol in here. Oh, maybe. Wait. Oh, you can power it on. Let's go. What's that? Hey, there's a pistol in the the woman's restroom.",
+      "actually": "There is a pistol in the women's bathroom."
+    }
+  },
+  {
+    "source_draft_row": 259,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, turn off the safe mode. What happened?",
+      "actually": "Turn off safe mode. What happened?"
+    }
+  },
+  {
+    "source_draft_row": 260,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "So, we've already been here. Oh, okay. Wait, there's a there's another yellow door, apparently.",
+      "actually": "Apparently there is another yellow door."
+    }
+  },
+  {
+    "source_draft_row": 261,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Let me see. All right, back to the video room. So, where do we go? Let's see the map. Oh, watch out. Oh, no. That's just a dead. We should probably go to the yellow.",
+      "actually": "We should go to the yellow door."
+    }
+  },
+  {
+    "source_draft_row": 262,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "It's this one. This one outside the Okay, I'm heading. There's still monsters on this way. So, tab. Okay. At least the barricade seems to be working. Uh, I'll just do melee.",
+      "actually": "The barricade seems effective. I will use melee attacks."
+    }
+  },
+  {
+    "source_draft_row": 265,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uhoh, baby, back up. Back up. Nice. It's okay. Press tab. You have to you have to tab again.",
+      "actually": "Press Tab again."
+    }
+  },
+  {
+    "source_draft_row": 265,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "It's okay. I got you. Be careful when you're up.",
+      "actually": "I will help; be careful when revived."
+    }
+  },
+  {
+    "source_draft_row": 268,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, this is not yummy. Yummy in my tummy. Oh, man. Do you know where Oh, no. This is not a room for people. The tape was dead. I'm dead. I'm dead. There's so many people here.",
+      "actually": "I am dead; there are many enemies here."
+    }
+  },
+  {
+    "source_draft_row": 268,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Anyway, I'm chilling with Ailia.",
+      "actually": "I am with Ailia now."
+    }
+  },
+  {
+    "source_draft_row": 275,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Need a TV room. Okay. Okay. So much blood.",
+      "actually": "There is much blood."
+    }
+  },
+  {
+    "source_draft_row": 275,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I know, right? How do you not get infected?",
+      "actually": "How do you avoid infection?"
+    }
+  },
+  {
+    "source_draft_row": 277,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, thank you. You could have been like a paralegal in another life.",
+      "actually": "You could have been a paralegal in another life."
+    }
+  },
+  {
+    "source_draft_row": 280,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I have I have a different I think it could be used. It might be a one time later.",
+      "actually": "I have a defibrillator; it might be usable once later."
+    }
+  },
+  {
+    "source_draft_row": 281,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uh yeah, maybe we can help. Where's the tape room? I got to go to the video room. Hold on.",
+      "actually": "Where is the tape room? I must go to the video room."
+    }
+  },
+  {
+    "source_draft_row": 284,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh my god. Apparently, not yet. Okayert. We inserted a red tape. Now we just need three more.",
+      "actually": "We inserted red tape; three remain."
+    }
+  },
+  {
+    "source_draft_row": 285,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Whoa. Three more tape. Where's this? Where's the sound coming from? I think I added a plural. You are now multiple babes.",
+      "actually": "I added a plural, so there are multiple babes now."
+    }
+  },
+  {
+    "source_draft_row": 286,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh. Oh. Over there. Over there. All right, I muted myself right now since since we are dead.",
+      "actually": "I muted myself because we are dead."
+    }
+  },
+  {
+    "source_draft_row": 294,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I really should get like a even dusk. You're doing great. They're there. Fine. Remember 555.",
+      "actually": "Remember 555."
+    }
+  },
+  {
+    "source_draft_row": 297,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Exactly. There we go. Okay. And then there's an empty room in Burke. Maybe we should check the rooms we haven't checked.",
+      "actually": "We should inspect unexplored rooms."
+    }
+  },
+  {
+    "source_draft_row": 304,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yay. Yeah. Kill them. Yeah. Yeah. Bodies. Ailia and Doug in the same area.",
+      "actually": "Ailia and Doug's bodies are in the same area."
+    }
+  },
+  {
+    "source_draft_row": 306,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Um, okay. So, now I got to check. Oh, there's a big one.",
+      "actually": "There is a large enemy."
+    }
+  },
+  {
+    "source_draft_row": 322,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I wouldn't mind it. Dad never came back. Should we Should we turn on safe mode or nah?",
+      "actually": "Should we enable safe mode?"
+    }
+  },
+  {
+    "source_draft_row": 324,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "because a barricade to place it here. No, I don't have one. I like soft. I have this one. So, I'll place it here. Oh, I have one.",
+      "actually": "I have a barricade."
+    }
+  },
+  {
+    "source_draft_row": 324,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Um, who needs red ammo? Uh, I think I use red ammo. Can I give this to you?",
+      "actually": "Who needs red ammunition? I use it. May I give it to you?"
+    }
+  },
+  {
+    "source_draft_row": 329,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I it would be nice, but like I don't know. Uh well, I don't like the fact that we got uh pulled up here. Oh no, Ailia, you need food.",
+      "actually": "You need food, Ailia."
+    }
+  },
+  {
+    "source_draft_row": 329,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I know. I'm I'm hangry.",
+      "actually": "I am hungry and irritable."
+    }
+  },
+  {
+    "source_draft_row": 330,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yep. Okay. 99. Nice. I did hear that. We should probably try to stagger the enemies if possible.",
+      "actually": "We should stagger the enemies if possible."
+    }
+  },
+  {
+    "source_draft_row": 335,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay, I'm going to do lion. I'm going to do off. It's okay. It's okay. Uh, nice. I don't want to. Uh, we should probably lead him. I will do muscle. Oh, never mind. Okay. Oh, the twin phase. Okay. Nice, nice, nice, nice. They're going to come in from us. Oh. Uh, I'm stuck. Okay. Oh, later. Crap. Oh no, I went too far. That's route. Okay, I'm going back.",
+      "actually": "!Mixed combat words."
+    }
+  },
+  {
+    "source_draft_row": 337,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I can't really see. Thank you. Where are you? I'm I'm right I don't know. I'm right in front of someone. Thank you, Cody.",
+      "actually": "Thank you."
+    }
+  },
+  {
+    "source_draft_row": 337,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "You have the bullets now.",
+      "actually": "You have the ammunition now."
+    }
+  },
+  {
+    "source_draft_row": 338,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay, where am I supposed to go? Okay, I'm going to go to the video room.",
+      "actually": "I will go to the video room."
+    }
+  },
+  {
+    "source_draft_row": 342,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay. Uh, couta. Uhoh. Well, this was a dead end.",
+      "actually": "This is a dead end."
+    }
+  },
+  {
+    "source_draft_row": 344,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "A safe room in the pant to the lower right. It's below the office.",
+      "actually": "There is a safe room below the office, at the lower right."
+    }
+  },
+  {
+    "source_draft_row": 346,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, okay. Careful. Good. Good. Good. I'm going stay in here. It feels nice and low. Damn it. I'm going to leave this here actually. SMG.",
+      "actually": "I will leave the SMG here."
+    }
+  },
+  {
+    "source_draft_row": 354,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "you know. Yeah. Yeah. Okay. Then I guess we didn't go to sus. Sus. Okay. What's this? Time to go to FOB. Oh, F1 for help and tips.",
+      "actually": "F1 provides help and tips."
+    }
+  },
+  {
+    "source_draft_row": 355,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Well, that was helpful. Demi, it was actually helpful. Okay, I've opened up the yellow door.",
+      "actually": "That was helpful. I opened the yellow door."
+    }
+  },
+  {
+    "source_draft_row": 356,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Yay. Nice. For fatties. Ailia, you can eat the the meat here. You can have it. Oh, thank you.",
+      "actually": "You may have the meat, Ailia. Thank you."
+    }
+  },
+  {
+    "source_draft_row": 356,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "And there's also blue bullets if you use that.",
+      "actually": "There is blue ammunition too."
+    }
+  },
+  {
+    "source_draft_row": 358,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "So bad. It's dead. Nice. Wow. That looks terrifying.",
+      "actually": "That looks frightening."
+    }
+  },
+  {
+    "source_draft_row": 358,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I also can't spell.",
+      "actually": "I cannot spell either."
+    }
+  },
+  {
+    "source_draft_row": 372,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Possible. We just missed We just missed it. You know, sometimes in the toilet sound stage maybe.",
+      "actually": "Perhaps we overlooked one in a toilet or on the soundstage."
+    }
+  },
+  {
+    "source_draft_row": 378,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uh, let's see. Uhhuh. Uh, nope. Wrong way. Egg. We are. We are successfully four out of five.",
+      "actually": "We have four of five."
+    }
+  },
+  {
+    "source_draft_row": 379,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "We just need to find one more. Yay. It must be somewhere. Just probably. We It was just very well hidden.",
+      "actually": "One remains somewhere, probably well hidden."
+    }
+  },
+  {
+    "source_draft_row": 381,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "I I have all the question marks, but I might. Oh crap, there's some more already. Uh, I don't want to be here. I don't want to be here alone. Bye.",
+      "actually": "More enemies. I do not want to be alone here; goodbye."
+    }
+  },
+  {
+    "source_draft_row": 387,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Hold on. Spinning right now. There's going to be a horde soon. Yeah, but we'll just have to hurry.",
+      "actually": "A horde approaches; we must hurry."
+    }
+  },
+  {
+    "source_draft_row": 394,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uh, I think it's this way. Wax. Is it? Yeah, it is. Oh, I hope so. I can't read.",
+      "actually": "I think this is the route. I hope so; I cannot read."
+    }
+  },
+  {
+    "source_draft_row": 404,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay. Okay. Done. And if you guys have more, it's okay. I got this one. Okay, good. So, we we Also, I'm going to put more bullets here in the toilet if you want the red one. Oh, cuz I I can't use it.",
+      "actually": "I will leave red ammunition in the toilet because I cannot use it."
+    }
+  },
+  {
+    "source_draft_row": 405,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "In there to get it. Huh? Red ones. Well, Doug does not Doug does not. Uh, sure. Doug will have it. Where did Which toilet is it? Uh, at the very end.",
+      "actually": "Which toilet? At the far end."
+    }
+  },
+  {
+    "source_draft_row": 405,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "All right. Come on, Doug. The bullets. Come on. If James can do it, I can do it, too.",
+      "actually": "If James can do it, so can I."
+    }
+  },
+  {
+    "source_draft_row": 408,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Uh, have you heard of? Yeah, I was born with paper limbs, glass, and uh, oh, very fragile.",
+      "actually": "I was born with paper limbs and glass, very fragile."
+    }
+  },
+  {
+    "source_draft_row": 412,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Bullets. I should probably type.",
+      "actually": "I should type."
+    }
+  },
+  {
+    "source_draft_row": 414,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay. Okay. Uh, nerve. Uh, it's okay. I got it. Stupid Stacy. Oh crap. Trippy. Nice. Nice. Okay. Um, there's more coming in",
+      "actually": "!Mixed combat words."
+    }
+  },
+  {
+    "source_draft_row": 419,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "This went for someone else actually. It's okay. We got it. We got it. We got it. Jerks.",
+      "actually": "We handled it."
+    }
+  },
+  {
+    "source_draft_row": 423,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Okay. What's up? Watch out. Uh-oh. I'm done. Um um um um that is way too many.",
+      "actually": "That is too many enemies."
+    }
+  },
+  {
+    "source_draft_row": 430,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Nice. Okay. Um, then there room. Mhm. Was it where? Oh, it is. Oh, they're so far away. Oh, Kronii. She's so She's so brave.",
+      "actually": "Kronii is brave."
+    }
+  },
+  {
+    "source_draft_row": 433,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, wait. The thing is infinite.",
+      "actually": "The item is unlimited."
+    }
+  },
+  {
+    "source_draft_row": 439,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "That was a pretty harsh thing. Yeah. Okay, I have the elevator.",
+      "actually": "I have the elevator."
+    }
+  },
+  {
+    "source_draft_row": 443,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, never mind. Where you at? I I died at the place that we like uh converged at.",
+      "actually": "I died where we met."
+    }
+  },
+  {
+    "source_draft_row": 446,
+    "reason": "Unclear ASR, location/target text, or incomplete speech; excluded from SFT",
+    "sample": {
+      "raw": "Oh, man. If I ever need someone to transcribe my court case,",
+      "actually": "If I need someone to transcribe a court case."
+    }
+  }
+]

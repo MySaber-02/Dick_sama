@@ -1,0 +1,9 @@
+{"raw": "Hello.", "actually": "Hello."}
+{"raw": "This is the police.", "actually": "The speaker identifies themselves as the police."}
+{"raw": "Let me in.", "actually": "Please allow me to enter."}
+{"raw": "I heard there's a birthday party in two days.", "actually": "I heard a birthday party is taking place in two days."}
+{"raw": "I was invited, wasn't I?", "actually": "Please confirm whether I was invited."}
+{"raw": "This is the police.", "actually": "The speaker again identifies themselves as the police."}
+{"raw": "I heard it's Nerissa's birthday in two days.", "actually": "I heard Nerissa's birthday is in two days."}
+{"raw": "If I'm not invited, I'm going to crash in.", "actually": "If I am not invited, I intend to attend without an invitation."}
+{"raw": "See you there.", "actually": "I expect to see you at the party."}

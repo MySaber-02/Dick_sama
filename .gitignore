@@ -1,0 +1,17 @@
+# Dataset-only repository. Ignore everything except the explicit allowlist.
+/*
+!/.gitignore
+!/README_DATASET.md
+!/AGENTS.md
+!/ShioriTranscript/
+/ShioriTranscript/**
+!/ShioriTranscript/**/
+!/ShioriTranscript/**/*.json
+!/ShioriTranscript/**/*.jsonl
+!/ShioriTranscript/**/*.txt
+!/ShioriTranscript/**/*.tsv
+!/ShioriTranscript/**/*.md
+**/.DS_Store
+**/__pycache__/
+**/*.log
+**/*.lock

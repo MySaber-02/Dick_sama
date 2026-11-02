@@ -1,0 +1,111 @@
+{
+  "verified_on": "2026-10-27",
+  "files": [
+    {
+      "file": "F2H1iN6hv58",
+      "records": 382,
+      "source_txt_sha256": "fe6454b10250b325e9c3cf3709f3f24cb7cd6594d5225c139c591181db726083"
+    },
+    {
+      "file": "9WCnRRYFwps",
+      "records": 456,
+      "source_txt_sha256": "c0eda199b6d1b0ae07b6d88ffcd95c64fcf024b1a0a1728c3482cd2af0ad6938"
+    },
+    {
+      "file": "LHOtqIOLczE",
+      "records": 386,
+      "source_txt_sha256": "3646b1b48ce4c176ced96e4ba72fa5bf9f7b0107996c8244368e321d826df573"
+    },
+    {
+      "file": "oEopA7l-q_k",
+      "records": 392,
+      "source_txt_sha256": "b1edb25766c12b04c3fdc46f4807003092cd702244f11b47ce81facd84dd5ca0"
+    },
+    {
+      "file": "6nLajpUHa3w",
+      "records": 470,
+      "source_txt_sha256": "01729e4b21c43c6b871fa3726f1b78a9c74094e50423379838ec9a8af60a1d49"
+    },
+    {
+      "file": "BJYiTgM7Gy8",
+      "records": 810,
+      "source_txt_sha256": "bc5836d4521eaf17f4dca616abaa4e5feb8b2e859d6d3574e73022529b014af8"
+    },
+    {
+      "file": "9g4wXCkMn1o",
+      "records": 804,
+      "source_txt_sha256": "e4bd9f1099241a8e00fc2d319b96fb297edb5a29701b1b9da5e2a18ebafacf0c"
+    },
+    {
+      "file": "C9EK1QSnCos",
+      "records": 985,
+      "source_txt_sha256": "59e9bcde0d8d77d159f4d77dd5efcc7f88a286a7c4de83d9fdb7997707d3eedd"
+    },
+    {
+      "file": "nNx0OhcdPdw",
+      "records": 468,
+      "source_txt_sha256": "b585b7828c05881b3cb8a4a8f816b30842291efd983c5202cd497b10e8943b59"
+    },
+    {
+      "file": "DVvbv1-YDsc",
+      "records": 735,
+      "source_txt_sha256": "27854640e81f11ef48496e458bf5a6d9c221239e13f28b94c9d028c78ec98d17"
+    },
+    {
+      "file": "VW2Jg618VnI",
+      "records": 682,
+      "source_txt_sha256": "f85e0c8ca1ba78064847188bcb9a7f2f2b9cd3bb3f765b08cb431ccb2599cd8a"
+    },
+    {
+      "file": "MJh-tE_Tcx0",
+      "records": 632,
+      "source_txt_sha256": "cbd51c534b0281f6b0b7f51e380122526b32df0c945df6a6571b2f4ba7fcd84a"
+    },
+    {
+      "file": "y3byjiCQrbU",
+      "records": 541,
+      "source_txt_sha256": "280817bebad51115e4bd62615d5a8e844d5adb37a5e5639b00699e6bb234be31"
+    },
+    {
+      "file": "tqrbtOQEZzk",
+      "records": 566,
+      "source_txt_sha256": "bf1d9aba502862834cde716788b2ee2035ca69edd0cd5672dd55c3fa45e8469b"
+    },
+    {
+      "file": "beOA7f3EV9o",
+      "records": 659,
+      "source_txt_sha256": "aa6c57286f73edc6474e463129c7708589ddef28d818764d855640f1bd4893f4"
+    },
+    {
+      "file": "del2HQk9W0k",
+      "records": 772,
+      "source_txt_sha256": "a9dd5520649fd7ca1b5b9228d1ea713a6856370310df4a2a7d90ae42ab86a8aa"
+    },
+    {
+      "file": "lmaAtgYtb0I",
+      "records": 868,
+      "source_txt_sha256": "88a716bfc70c703cf710e8afec334d5feb00fff8f680be1daa4d8378b81cd27b"
+    },
+    {
+      "file": "hrDSYSEOLd0",
+      "records": 852,
+      "source_txt_sha256": "ab6429c63b58d5a271706c1e89edc2cdc17018ed16737a91c0ab821732b0a136"
+    },
+    {
+      "file": "5yLDmZ-Faow",
+      "records": 596,
+      "source_txt_sha256": "de5e6c6f5d51db7e2a8113a926aa00dab7be7821060f885fc2b54e16049b0ff5"
+    },
+    {
+      "file": "4Him-dPaGe4",
+      "records": 539,
+      "source_txt_sha256": "37f7d8cf1cc5865af188363791ab26e9a773d3d0dd40d10f66ce11aad4e4a75e"
+    }
+  ],
+  "completed": 20,
+  "batch_records": 12595,
+  "remaining_assignments": {
+    "A": [],
+    "B": []
+  }
+}

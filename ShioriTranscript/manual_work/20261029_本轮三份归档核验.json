@@ -1,0 +1,31 @@
+{
+  "files": [
+    {
+      "file": "u7ftEZF9hL0",
+      "records": 475,
+      "source_sha256": "fbdf16f2169651914630084a9cd1f35f3d4841df923634165e9ab1bcc35f64fa",
+      "source_moved": true,
+      "json_moved": true,
+      "schema_verified": true
+    },
+    {
+      "file": "62OBJAjKCb4",
+      "records": 488,
+      "source_sha256": "6ab24b8d4fa127d47a98883c699e13a1ddc3bf23798eaad70b6266e0615081de",
+      "source_moved": true,
+      "json_moved": true,
+      "schema_verified": true
+    },
+    {
+      "file": "7xZjcVl5AJ4",
+      "records": 396,
+      "source_sha256": "f865d781a35a621e713d66d5eda89387dd565ffc43d95bbfdcc292990786d473",
+      "source_moved": true,
+      "json_moved": true,
+      "schema_verified": true
+    }
+  ],
+  "records": 1359,
+  "remaining_A": 462,
+  "next_file": "QEo1t6DMCIw"
+}

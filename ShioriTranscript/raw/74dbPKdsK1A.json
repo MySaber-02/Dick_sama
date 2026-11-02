@@ -1,0 +1,37 @@
+{
+  "video_id": "74dbPKdsK1A",
+  "language_code": "en",
+  "is_generated": true,
+  "segments": [
+    {
+      "text": "[Music]",
+      "start": 0.0,
+      "duration": 0.99
+    },
+    {
+      "text": "foreign",
+      "start": 0.659,
+      "duration": 25.371
+    },
+    {
+      "text": "[Music]",
+      "start": 0.99,
+      "duration": 25.04
+    },
+    {
+      "text": "foreign",
+      "start": 26.939,
+      "duration": 7.07
+    },
+    {
+      "text": "[Music]",
+      "start": 29.39,
+      "duration": 4.619
+    },
+    {
+      "text": "[Music]",
+      "start": 40.08,
+      "duration": 11.95
+    }
+  ]
+}

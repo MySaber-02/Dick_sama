@@ -1,0 +1,11 @@
+{
+  "status": "complete_archived",
+  "source_read_through_line": 2501,
+  "authored_anchors": 350,
+  "last_anchor": "New York in",
+  "full_source_coverage_verified": true,
+  "originals_moved": true,
+  "source_sha256": "6ab24b8d4fa127d47a98883c699e13a1ddc3bf23798eaad70b6266e0615081de",
+  "reviewed_records": 488,
+  "low_confidence_contexts": 103
+}

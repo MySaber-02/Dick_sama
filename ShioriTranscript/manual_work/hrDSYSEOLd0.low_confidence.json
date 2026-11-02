@@ -1,0 +1,786 @@
+[
+  {
+    "source_draft_row": 8,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "hi I nervous Jam of H live English Advent",
+      "actually": "I am the jewel of Hololive English Advent."
+    }
+  },
+  {
+    "source_draft_row": 12,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "anyway and after me is I'm going to get an A person mouth I'm not a two I",
+      "actually": "I will get an A for effort."
+    }
+  },
+  {
+    "source_draft_row": 21,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay I same me too because it's horror cuz it's school who picked this again",
+      "actually": "I am frightened because it is horror and school. Who chose this?"
+    }
+  },
+  {
+    "source_draft_row": 27,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh I think I've inside it guys",
+      "actually": "I think I lit it."
+    }
+  },
+  {
+    "source_draft_row": 30,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "uh say can do view we have a flashlight PR the buttons I'm pressing the buttons",
+      "actually": "We have a flashlight. Press the buttons. I am pressing them."
+    }
+  },
+  {
+    "source_draft_row": 53,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh oh I have to go around this this is my locker oh but I can't even leave her here there's no point",
+      "actually": "This is my locker, but there is no point leaving her here."
+    }
+  },
+  {
+    "source_draft_row": 70,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "well I don't I can't do out very fast I think we got to keep going upstairs maybe no this is I thought I went far enough but I guess not I think it's the maybe the third floor",
+      "actually": "I think we must go farther upstairs, perhaps to the third floor."
+    }
+  },
+  {
+    "source_draft_row": 81,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "light there were no secrets here",
+      "actually": "There were no secrets here."
+    }
+  },
+  {
+    "source_draft_row": 85,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "so um oh you're going to be like sciency wait is this place huh oh hey it's a bathroom oh oh I'm hiding in the bathroom",
+      "actually": "This is a bathroom. I am hiding here."
+    }
+  },
+  {
+    "source_draft_row": 120,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "a dead beat guys dead beats look listen up want me coming in the night for you",
+      "actually": "Listen, Dead Beats; I will come for you at night."
+    }
+  },
+  {
+    "source_draft_row": 130,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "show first welcome K what okay which way so crying bro there's a lot of there's a lot of uh oh there's shoes in here",
+      "actually": "Which way? There are many shoes here."
+    }
+  },
+  {
+    "source_draft_row": 137,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "Okay pick the keys up Keys she probably okay terrifying okay I got like seven I got n",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 156,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh cool we can party and get hurt if now",
+      "actually": "We can party and get hurt now."
+    }
+  },
+  {
+    "source_draft_row": 161,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "is that the issue come on hi oh we're here hi yeah we're here we're both here",
+      "actually": "We are both here."
+    }
+  },
+  {
+    "source_draft_row": 185,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "but atast come day yeah right yeah a ghost can come by and it'll say sorry someone's in there can't go in",
+      "actually": "A ghost could come by, but someone is using the bathroom, so it cannot enter."
+    }
+  },
+  {
+    "source_draft_row": 188,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "probably I guess that Mak sense going to do the school Labyrinth oopsies",
+      "actually": "That makes sense. We are going into School Labyrinth."
+    }
+  },
+  {
+    "source_draft_row": 193,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "what I just be boy is just s Wither in your up my nose oh yeah the tissue I see",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 206,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "hey he will you do you see how to wield the blade",
+      "actually": "Can you show me how to use the sword?"
+    }
+  },
+  {
+    "source_draft_row": 215,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay let's gone and I found the bathroom where hey guys we're okay I made friends with the guy",
+      "actually": "We are fine; I befriended him."
+    }
+  },
+  {
+    "source_draft_row": 226,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh oops Han uh Han I'm going to give you a one light because this apparently doesn't help them find us, okay",
+      "actually": "I will give you a glow stick because apparently it does not reveal us to them."
+    }
+  },
+  {
+    "source_draft_row": 230,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "B okay this way oh crap I took room with like a ton of things on the wall taking my flashlight I hear steppies maybe we should go back",
+      "actually": "I hear footsteps; perhaps we should return."
+    }
+  },
+  {
+    "source_draft_row": 254,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "unless okay we can go that way somehow it's going to do anything oh it's after you guys",
+      "actually": "It is chasing you."
+    }
+  },
+  {
+    "source_draft_row": 269,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I found another oh my gosh that could scared me",
+      "actually": "That frightened me."
+    }
+  },
+  {
+    "source_draft_row": 275,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "got to clean oh the exit's locked the emergency exit's locked too",
+      "actually": "The exit and emergency exit are locked."
+    }
+  },
+  {
+    "source_draft_row": 282,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "well piano come to us this is the room we start will yeah let me just explore okay I think this is the extent of this area",
+      "actually": "Let me explore; I think this is the end of this area."
+    }
+  },
+  {
+    "source_draft_row": 285,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I think this way or just the the place that we started shoot I can't see it sorry yeah what is this sound you hiding good I'm hiding hiding",
+      "actually": "What is that sound? Are you hiding? I am."
+    }
+  },
+  {
+    "source_draft_row": 290,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "hi hi hi okay let's go yeah okay this way it should be getting a bunch of crap this one okay yeah yeah wait oh uh you got to move over to it with your middle yeah okay boy I'm getting candle",
+      "actually": "!Unclear instructions."
+    }
+  },
+  {
+    "source_draft_row": 310,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "there is a way Sor boo okay okay dead end not no no no no no no no no no no",
+      "actually": "That is a dead end. No."
+    }
+  },
+  {
+    "source_draft_row": 330,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I only see the green Mark your area what is a green there's a lot of lockers too by it everybody can have a locker",
+      "actually": "There are many lockers; everyone can use one."
+    }
+  },
+  {
+    "source_draft_row": 340,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I think oh my goodness will right here you can hear f I'm I'm constantly on the Move I'm the blue arrow",
+      "actually": "I am constantly moving and am the blue arrow."
+    }
+  },
+  {
+    "source_draft_row": 350,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "him go watch him I I I think I could be more useful than that",
+      "actually": "I think I could be more useful than that."
+    }
+  },
+  {
+    "source_draft_row": 354,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "wait how do you where's the button for the you're also coming across Hanako I'm here I'm here",
+      "actually": "I am here."
+    }
+  },
+  {
+    "source_draft_row": 354,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh oh somebody's in the hallway there",
+      "actually": "Someone is in the hallway."
+    }
+  },
+  {
+    "source_draft_row": 356,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh my good God very rough I'm going to go the other way",
+      "actually": "I will go the other way."
+    }
+  },
+  {
+    "source_draft_row": 358,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "there what all crawling on the ground you guys might have to respawn at this point",
+      "actually": "You may need to respawn now."
+    }
+  },
+  {
+    "source_draft_row": 361,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay I think this is it if that's the case then maybe I can get that too",
+      "actually": "If that is the place, perhaps I can get there too."
+    }
+  },
+  {
+    "source_draft_row": 368,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah hi F no this way I'm following follow me oh hi are you behind me people who friends hold up I'm here me friends wait is right over there I'm over here well it's okay just find a way out",
+      "actually": "Follow me. I am here. Just find an exit."
+    }
+  },
+  {
+    "source_draft_row": 370,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "hey I'm here together in seconds here maybe what is this an exit sign",
+      "actually": "Is that an exit sign?"
+    }
+  },
+  {
+    "source_draft_row": 373,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay I'm going to CH hide hide she's coming",
+      "actually": "Hide; she is coming."
+    }
+  },
+  {
+    "source_draft_row": 392,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay oh let me know leaves remember one I'm so s it's okay it's okay they're there they're there maybe this could be used when we're closer to the exit instead",
+      "actually": "Perhaps we should use this closer to the exit."
+    }
+  },
+  {
+    "source_draft_row": 393,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah I have the again okay I'll use the C maybe it's better for me to die actually",
+      "actually": "Perhaps it is better if I die."
+    }
+  },
+  {
+    "source_draft_row": 399,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "everything I'm like where we going I need to find to the C save myself can I go through here",
+      "actually": "Can I pass through here?"
+    }
+  },
+  {
+    "source_draft_row": 405,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay let's see if she's gone everything's scary",
+      "actually": "Everything is frightening."
+    }
+  },
+  {
+    "source_draft_row": 405,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I can't H over here H's over there well I'm pretty sure the thing we need to find is this way she's right there she's right behind you",
+      "actually": "She is right behind you."
+    }
+  },
+  {
+    "source_draft_row": 407,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "Le that we played that's okay yeah okay so I think should do when we do find the exit we got to leave light Trails",
+      "actually": "When we find the exit, we should leave a light trail."
+    }
+  },
+  {
+    "source_draft_row": 409,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I think we she can't get me for their Compass yeah I still have the compass I'm just trying to get close to you guys",
+      "actually": "I still have the compass and am trying to approach you."
+    }
+  },
+  {
+    "source_draft_row": 415,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "but we can just we can beat her and maybe walk P run past her or something",
+      "actually": "Could we walk or run past her?"
+    }
+  },
+  {
+    "source_draft_row": 424,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay oh wrong way wrong way wrong way wrong way nope I think this is the right way",
+      "actually": "Wrong way—or I think this is right."
+    }
+  },
+  {
+    "source_draft_row": 428,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "about this way this way it's this way I have a sand wait wait that you have to stare at him",
+      "actually": "You must stare at him."
+    }
+  },
+  {
+    "source_draft_row": 434,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay where I am I found there good luck you you want to drop the key",
+      "actually": "Do you want to drop the key?"
+    }
+  },
+  {
+    "source_draft_row": 434,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I'm I'm on my way I'm walking a little slow",
+      "actually": "I am approaching slowly."
+    }
+  },
+  {
+    "source_draft_row": 456,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I have key in front of the door wait you brought it up you pic this is yeah yeah yeah it's right in front of the door",
+      "actually": "The key is right in front of the door."
+    }
+  },
+  {
+    "source_draft_row": 459,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah how's it going girls oh if I go I can't scream a whistle if we go into here hi great though I don't know if we can fix that fix like the looks to be CU it's really silly",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 470,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "no that one meantime I will look for exit",
+      "actually": "Meanwhile, I will find the exit."
+    }
+  },
+  {
+    "source_draft_row": 474,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "here inde what are you going to write with your P at least let your signature",
+      "actually": "What will you write with? At least leave your signature."
+    }
+  },
+  {
+    "source_draft_row": 478,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "no Boys Alive boys bathroom yeah we took over",
+      "actually": "No boys allowed; we took over the boys' bathroom."
+    }
+  },
+  {
+    "source_draft_row": 482,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "oh gosh I know yeah okay here guys this room maybe I can't hide in and close the door maybe I'm still here maybe I'm still around I closed the door",
+      "actually": "I closed the door."
+    }
+  },
+  {
+    "source_draft_row": 483,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "why didn't he like that I the exact opposite way I should be all right I'm going to go crawl I'm going to try to map out the place",
+      "actually": "I will try to map the area."
+    }
+  },
+  {
+    "source_draft_row": 490,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "the on the compass if I go where the blue on the compass is that's this just to unlock whatever this is we still have to find I'm pretty sure when happened yeah I'm going to go to did the candle go out",
+      "actually": "Did the candle go out?"
+    }
+  },
+  {
+    "source_draft_row": 490,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I'm pretty sure what happened as I went to the left of here",
+      "actually": "I think I turned left here to reach it."
+    }
+  },
+  {
+    "source_draft_row": 501,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay I'm in I'm where I need to be however no other way other way I'm so you guys come to okay okay okay I'm just going to be running hey what's up I see run I have no more run",
+      "actually": "I cannot run anymore."
+    }
+  },
+  {
+    "source_draft_row": 506,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "hey what's up bebs oh hi oh my God oh my God nothing's coming for me nothing's coming me",
+      "actually": "Nothing is chasing me."
+    }
+  },
+  {
+    "source_draft_row": 508,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I know it sucks notop helping I think camping you I think I should just die now",
+      "actually": "I think I should die now."
+    }
+  },
+  {
+    "source_draft_row": 511,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I think I don't know if bad spot I guess you don't count oh is the candle in here around the cor get in here yeah yeah yeah yeah yeah yeah yeah there's Lockers in here do it",
+      "actually": "Enter the room; there are lockers."
+    }
+  },
+  {
+    "source_draft_row": 511,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "okay do a middle click or something where's the lockers where's the Lockers in the corner",
+      "actually": "Where are the lockers? In the corner."
+    }
+  },
+  {
+    "source_draft_row": 512,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "in the in the corner no no no Assuming he's in yeah okay I'll I'll follow him for a bit",
+      "actually": "I will follow him briefly."
+    }
+  },
+  {
+    "source_draft_row": 512,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "he's currently going out the door we just locked",
+      "actually": "He is leaving through the door we locked."
+    }
+  },
+  {
+    "source_draft_row": 522,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "go go okay for you um who's who's this right now go straight Biboo straight you need to go you have to run you have to run",
+      "actually": "Go straight, Biboo. You must run."
+    }
+  },
+  {
+    "source_draft_row": 526,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "got thiso um they go left with it yeah I think it's it's left left left no one no one",
+      "actually": "Go left; nobody is there."
+    }
+  },
+  {
+    "source_draft_row": 528,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "if you need to find them you're going fun that right door go straight go straight and then hug the right wall the right wall",
+      "actually": "Go through the right-hand door, straight, then follow the right wall."
+    }
+  },
+  {
+    "source_draft_row": 536,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "the intense muscle pain in both legs serves as evidence of continuously fleeing the school labyrinth it's hard to believe but this dull ache of my own body ironically refuses to let me dismiss as is Just a Dream",
+      "actually": "The pain in both legs from fleeing the labyrinth makes it impossible to dismiss as a dream."
+    }
+  },
+  {
+    "source_draft_row": 538,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "people a sneak the next day after being rescued we were scheduled to talk with the teachers about the circumstances of our disappearing",
+      "actually": "The next day we were scheduled to explain our disappearance to teachers."
+    }
+  },
+  {
+    "source_draft_row": 545,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "we forget the children their bodies were recovered maybe",
+      "actually": "Perhaps they forget the children, or recover their bodies."
+    }
+  },
+  {
+    "source_draft_row": 547,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "creaking the creaking you said hi I can't believe that was easy mode",
+      "actually": "I cannot believe that was easy mode."
+    }
+  },
+  {
+    "source_draft_row": 549,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "that it's like crazy easy it's like crazy czy know I always played this so long though I don't know how she did that",
+      "actually": "She played this a long time. I do not know how she managed."
+    }
+  },
+  {
+    "source_draft_row": 550,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "Dam Queen yeah this is a okay sa your voice that's aing it's kind of bad",
+      "actually": "Your voice is in poor condition."
+    }
+  },
+  {
+    "source_draft_row": 560,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "we only have one there's a lot of them actually six there was one anomaly I didn't see oh I only have one seven I only have one question mark That's not did you scroll, Biboo",
+      "actually": "There are many entries. Did you scroll, Biboo?"
+    }
+  },
+  {
+    "source_draft_row": 563,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "F I saw I didn't see two anomalies though I wonder what it was",
+      "actually": "I did not see two anomalies. What were they?"
+    }
+  },
+  {
+    "source_draft_row": 569,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "all right all right all right uh what shall we do now Advent wow Nerissa you have something big coming up right",
+      "actually": "Nerissa, do you have something important coming?"
+    }
+  },
+  {
+    "source_draft_row": 573,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "so please that are coming by and subscribing and being ready for a a very fun announcement at the end of the night",
+      "actually": "Please consider attending, subscribing, and staying for the announcement."
+    }
+  },
+  {
+    "source_draft_row": 578,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "congrats on 500 you bye what she we you guys",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 579,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "but shortly after that morning is a little bit different this time because this time yeah we're having our first guest and that's none other than Koyori",
+      "actually": "Afterward our morning show will have its first guest, Koyori."
+    }
+  },
+  {
+    "source_draft_row": 582,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "fun kind of a a fluffy and pink different pink than M pink",
+      "actually": "It will be fluffy and pink, a different pink from Mococo's."
+    }
+  },
+  {
+    "source_draft_row": 585,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah that is true degener good",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 586,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "no your tail or just you your tail to censor each other",
+      "actually": "Use your tails to cover one another."
+    }
+  },
+  {
+    "source_draft_row": 587,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "you my pajamas but I think might stretch it out a little",
+      "actually": "You can borrow my pajamas, but may stretch them."
+    }
+  },
+  {
+    "source_draft_row": 588,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "that's what just says too",
+      "actually": "That is what she says too."
+    }
+  },
+  {
+    "source_draft_row": 589,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "my pajamas you're going to stretch them you need to recing at night",
+      "actually": "!Unclear fragment."
+    }
+  },
+  {
+    "source_draft_row": 593,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "you smell I love you it's not thing it's a you know a bird thing",
+      "actually": "I love you. It is a bird thing."
+    }
+  },
+  {
+    "source_draft_row": 601,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "um and also this weekend I'm going to be at anime Fest plus and I'm doing a panel with Y Senai there",
+      "actually": "This weekend I will be at Anime Fest Plus for a panel with a senior member."
+    }
+  },
+  {
+    "source_draft_row": 602,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah and I think um some of us this weekend are going to be a part of hollow d right",
+      "actually": "Some of us will participate in HoloDorokē this weekend, right?"
+    }
+  },
+  {
+    "source_draft_row": 610,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "you see do first beautiful you say de first and then a sound and make it sound a bit more sound",
+      "actually": "Say a D sound, then adjust it."
+    }
+  },
+  {
+    "source_draft_row": 611,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "and it might be like Italian thing",
+      "actually": "Perhaps like an Italian sound."
+    }
+  },
+  {
+    "source_draft_row": 614,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "it's like you know what I hate so I've been I've been really struggling with saying like G but but it's like or something what do you mean",
+      "actually": "I have struggled with that sound. What do you mean?"
+    }
+  },
+  {
+    "source_draft_row": 615,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "yeah yeah but it's supposed to be a it's like what that's what they told me to have oh it's a muted silent G so like ah it's a it's a they told me recorded this so I had to they're saying it's a regional thing",
+      "actually": "They told me to record it that way; apparently it is regional."
+    }
+  },
+  {
+    "source_draft_row": 617,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I forgot about it last night today me and Rissa released our first ever",
+      "actually": "Today Nerissa and I released our first one."
+    }
+  },
+  {
+    "source_draft_row": 620,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "I my really really good your voice sound so good together",
+      "actually": "Your voices sound wonderful together."
+    }
+  },
+  {
+    "source_draft_row": 625,
+    "reason": "Unresolved ASR, incomplete speech, or unclear attribution; excluded from SFT",
+    "sample": {
+      "raw": "sad well fortunately they're able to escape the school labyrinth",
+      "actually": "Fortunately, we escaped the school labyrinth."
+    }
+  }
+]

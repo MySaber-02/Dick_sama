@@ -1,0 +1,722 @@
+[
+  {
+    "source_draft_row": 8,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, they're already dead. As long as it's not already dead,",
+      "actually": "They are already dead. As long as it is not already dead."
+    }
+  },
+  {
+    "source_draft_row": 9,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "I've said it all down, right?",
+      "actually": "I have said it all down, right?"
+    }
+  },
+  {
+    "source_draft_row": 14,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "But of course, any novel from before 2000s are gone. So, this is just like historical data.",
+      "actually": "Any novel from before the 2000s is gone, so this is historical data."
+    }
+  },
+  {
+    "source_draft_row": 22,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "My footage of the movie. I think Much is going to feel sick.",
+      "actually": "My footage of the movie. I think Much will feel sick."
+    }
+  },
+  {
+    "source_draft_row": 41,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah. One made a figure. A figure of a Furby.",
+      "actually": "Someone made a Furby figure."
+    }
+  },
+  {
+    "source_draft_row": 55,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh. Ah. Oh. The goblins. It was a male.",
+      "actually": "The goblins. It was a male."
+    }
+  },
+  {
+    "source_draft_row": 59,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Mustache film rage troll too. More trolls than trolls. Star Wars though.",
+      "actually": "Mustache. Film rage. Troll 2. More trolls than trolls. Star Wars, though."
+    }
+  },
+  {
+    "source_draft_row": 66,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "They're the best. They look like they're best.",
+      "actually": "They are the best. They look like they are best."
+    }
+  },
+  {
+    "source_draft_row": 71,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, maybe each freckle is the the goblin that she is her eyes.",
+      "actually": "Perhaps each freckle is a goblin that she—her eyes."
+    }
+  },
+  {
+    "source_draft_row": 77,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "I feel good. It's like what? A dumb play-doh.",
+      "actually": "I feel good. It is like dumb Play-Doh."
+    }
+  },
+  {
+    "source_draft_row": 81,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, it wasn't a cute girl.",
+      "actually": "It was not a cute girl."
+    }
+  },
+  {
+    "source_draft_row": 81,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Why would they just stay cute? Why can this be just a girl, too?",
+      "actually": "Why would they just stay cute? Why can this be a girl too?"
+    }
+  },
+  {
+    "source_draft_row": 83,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Huh? writing. They can they can",
+      "actually": "Writing. They can—"
+    }
+  },
+  {
+    "source_draft_row": 84,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh. Oh. Oh. Oh no. in Corville.",
+      "actually": "Oh no, in Corville."
+    }
+  },
+  {
+    "source_draft_row": 91,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Is he realation?",
+      "actually": "Is he realation?"
+    }
+  },
+  {
+    "source_draft_row": 92,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh. Oh, you have the hero.",
+      "actually": "You have the hero."
+    }
+  },
+  {
+    "source_draft_row": 99,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, music. You can only afford one pound like this.",
+      "actually": "Music. You can only afford one pound like this."
+    }
+  },
+  {
+    "source_draft_row": 127,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "They're very She's very loud though. I think they would be dis by now.",
+      "actually": "She is loud; they would be dis by now."
+    }
+  },
+  {
+    "source_draft_row": 132,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Friends, you poor girls.",
+      "actually": "Friends, you poor girls."
+    }
+  },
+  {
+    "source_draft_row": 141,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "A your bow. But he didn't. He to his bones.",
+      "actually": "A your bow. But he did not. He to his bones."
+    }
+  },
+  {
+    "source_draft_row": 145,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "down the butt down the seam. Life is a dream.",
+      "actually": "Down the butt, down the seam. Life is a dream."
+    }
+  },
+  {
+    "source_draft_row": 147,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Mils here, huh? Come on, guys. What's your GeoGuessr skills? Where does this take place in?",
+      "actually": "Mils here, huh? What are your GeoGuessr skills? Where is this set?"
+    }
+  },
+  {
+    "source_draft_row": 150,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "No, that's Me.",
+      "actually": "No, that is Me."
+    }
+  },
+  {
+    "source_draft_row": 173,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "They have their stuff on the top of the pot. TV.",
+      "actually": "Their belongings and TV are on top of the pot."
+    }
+  },
+  {
+    "source_draft_row": 176,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What' you call here? You don't know anything about it.",
+      "actually": "What' you call here? You know nothing about it."
+    }
+  },
+  {
+    "source_draft_row": 192,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Lots of pants.",
+      "actually": "Lots of pants."
+    }
+  },
+  {
+    "source_draft_row": 195,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, look at the deuce.",
+      "actually": "Look at the deuce."
+    }
+  },
+  {
+    "source_draft_row": 203,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Stop the good boy.",
+      "actually": "Stop the good boy."
+    }
+  },
+  {
+    "source_draft_row": 206,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "He's saying pretty good at still in the cup, too.",
+      "actually": "He's saying pretty good at still in the cup, too."
+    }
+  },
+  {
+    "source_draft_row": 223,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Don't call it mom. At least call it mom. It's mom.",
+      "actually": "Do not call it Mom. At least call it Mom. It is Mom."
+    }
+  },
+  {
+    "source_draft_row": 228,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Why is lipstick to kiss him?",
+      "actually": "Why is lipstick to kiss him?"
+    }
+  },
+  {
+    "source_draft_row": 230,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "He's brave for smile about it, right?",
+      "actually": "He is brave for smile about it, right?"
+    }
+  },
+  {
+    "source_draft_row": 238,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Mhm. Oh. The evil weird.",
+      "actually": "The evil weird."
+    }
+  },
+  {
+    "source_draft_row": 238,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, yes. This is a house. Yes, a house. Looks like a house of the evil floor. It's a house.",
+      "actually": "This is a house, a house of the evil floor."
+    }
+  },
+  {
+    "source_draft_row": 244,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, pretty cool. Gloves. Oh, she looks like children. Geog good.",
+      "actually": "Gloves. She looks like children. Geog good."
+    }
+  },
+  {
+    "source_draft_row": 250,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah. Oh, they look much worse now. Lots of sop in this film.",
+      "actually": "They look worse now. There is lots of sop in this film."
+    }
+  },
+  {
+    "source_draft_row": 283,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah. You know, maybe you don't have any. Yeah.",
+      "actually": "Perhaps you do not have any."
+    }
+  },
+  {
+    "source_draft_row": 283,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, is so big in the mirror.",
+      "actually": "It is so big in the mirror."
+    }
+  },
+  {
+    "source_draft_row": 285,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Huh? I managed to keep them from eating. your mother.",
+      "actually": "I kept them from eating. Your mother."
+    }
+  },
+  {
+    "source_draft_row": 287,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "The transitions are very sought in.",
+      "actually": "The transitions are very sought in."
+    }
+  },
+  {
+    "source_draft_row": 297,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What? Sarah freak.",
+      "actually": "Sarah freak."
+    }
+  },
+  {
+    "source_draft_row": 298,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Sarah freak.",
+      "actually": "Sarah freak."
+    }
+  },
+  {
+    "source_draft_row": 300,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, he got in a stranger's car and he's in strangers fluid that looks handmade.",
+      "actually": "He entered a stranger's car and is in strangers fluid that looks handmade."
+    }
+  },
+  {
+    "source_draft_row": 302,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Green size is no bug. No book. Not no bug.",
+      "actually": "Green size is no bug. No book. Not no bug."
+    }
+  },
+  {
+    "source_draft_row": 306,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "No female compliments. Yeah. Huh? Except that one person",
+      "actually": "No female compliments, except that person."
+    }
+  },
+  {
+    "source_draft_row": 314,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, he's stumbling. This like a question. How's he going to make it back? He doesn't green anymore.",
+      "actually": "He is stumbling. How will he get back? He does not green anymore."
+    }
+  },
+  {
+    "source_draft_row": 317,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Is an eyeglass.",
+      "actually": "Is an eyeglass."
+    }
+  },
+  {
+    "source_draft_row": 323,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "You're saying or handwriting?",
+      "actually": "You're saying or handwriting?"
+    }
+  },
+  {
+    "source_draft_row": 326,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Asleep. The book was so weird name.",
+      "actually": "He is asleep. The book was so weird name."
+    }
+  },
+  {
+    "source_draft_row": 330,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What does milk?",
+      "actually": "What does milk?"
+    }
+  },
+  {
+    "source_draft_row": 333,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Maybe there's like a bill effect.",
+      "actually": "Perhaps a bill effect."
+    }
+  },
+  {
+    "source_draft_row": 335,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What? Whoa. That's my talking about it.",
+      "actually": "What? That's my talking about it."
+    }
+  },
+  {
+    "source_draft_row": 351,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Uhoh. Oh no. A skateboard.",
+      "actually": "A skateboard."
+    }
+  },
+  {
+    "source_draft_row": 351,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh. Oh. Oh my god. That'll be kind of cool to be paint.",
+      "actually": "That would be cool to be paint."
+    }
+  },
+  {
+    "source_draft_row": 354,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "You have to GET YOUR DEVICE HIM.",
+      "actually": "You have to get your device him."
+    }
+  },
+  {
+    "source_draft_row": 358,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah, even the police officer with the slides and freak isn't on it.",
+      "actually": "Even the police officer with slides and freak is not on it."
+    }
+  },
+  {
+    "source_draft_row": 366,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "That's driving forwards, but looks",
+      "actually": "Driving forward, but looks—"
+    }
+  },
+  {
+    "source_draft_row": 377,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "you should throw a mug at him. Might be the worst.",
+      "actually": "Throw a mug at him. It might be the worst."
+    }
+  },
+  {
+    "source_draft_row": 382,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, that's stuck. That's all. No, I think it's not born him.",
+      "actually": "It is stuck. That is all. I think it is not born him."
+    }
+  },
+  {
+    "source_draft_row": 393,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Are they having a pot? Look, everybody isn't together in the town. Oh, it's a party.",
+      "actually": "Is everyone together in town for a party? Yes."
+    }
+  },
+  {
+    "source_draft_row": 394,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah, that is not matche.",
+      "actually": "That is not matche."
+    }
+  },
+  {
+    "source_draft_row": 412,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What? WHAT? GRANDPA'S GIVING a child. Why are you giving a child there, Grandpa? Huh?",
+      "actually": "Grandpa is giving a child. Why give a child there, Grandpa?"
+    }
+  },
+  {
+    "source_draft_row": 424,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What? WHAT? Grandpa's got trip.",
+      "actually": "Grandpa's got trip."
+    }
+  },
+  {
+    "source_draft_row": 425,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, wait. Now we have to set the house.",
+      "actually": "Now we must set the house."
+    }
+  },
+  {
+    "source_draft_row": 426,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "I should have made a like oil instead.",
+      "actually": "I should have made it like oil instead."
+    }
+  },
+  {
+    "source_draft_row": 429,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "See a grab blood.",
+      "actually": "See a grab blood."
+    }
+  },
+  {
+    "source_draft_row": 453,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Um, my whistle was she not eat?",
+      "actually": "My whistle was she not eat?"
+    }
+  },
+  {
+    "source_draft_row": 468,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "She's deciding to coordinate myself. the whatever this is.",
+      "actually": "She is deciding to coordinate myself, whatever this is."
+    }
+  },
+  {
+    "source_draft_row": 471,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What's up with the cord? The cordin.",
+      "actually": "What is with the cord? The cordin."
+    }
+  },
+  {
+    "source_draft_row": 498,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Oh, this game there. We need a saw if everyone's screaming. Got it.",
+      "actually": "This game. There. We need a saw if everyone is screaming. Understood."
+    }
+  },
+  {
+    "source_draft_row": 501,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Maybe grandpa will show up with an accident. Child pack.",
+      "actually": "Perhaps Grandpa appears with an accident. Child pack."
+    }
+  },
+  {
+    "source_draft_row": 504,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "I think that's now, Grandpa.",
+      "actually": "I think that is now, Grandpa."
+    }
+  },
+  {
+    "source_draft_row": 507,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Does you two?",
+      "actually": "Does you too?"
+    }
+  },
+  {
+    "source_draft_row": 507,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "You know, I don't trust Grandpa. I don't trust Grandpa either. Out of all the grandpas, he does not look like a grandpa to trust. He looks more like Santa.",
+      "actually": "I distrust Grandpa. Of all grandfathers, he looks untrustworthy, more like Santa."
+    }
+  },
+  {
+    "source_draft_row": 507,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Good evil, Santa.",
+      "actually": "Good evil Santa."
+    }
+  },
+  {
+    "source_draft_row": 511,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What? Let's let him smunch the popcorn.",
+      "actually": "Let him smunch the popcorn."
+    }
+  },
+  {
+    "source_draft_row": 512,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "It's in his ears. It's in his ears. No, my popcorn out of his ears.",
+      "actually": "It is in his ears. No, my popcorn out of his ears."
+    }
+  },
+  {
+    "source_draft_row": 521,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Y goop.",
+      "actually": "Y goop."
+    }
+  },
+  {
+    "source_draft_row": 524,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "the fats. Well, that's how I want to process meat.",
+      "actually": "The fats. How I want to process meat."
+    }
+  },
+  {
+    "source_draft_row": 553,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Was about an apple.",
+      "actually": "Was about an apple."
+    }
+  },
+  {
+    "source_draft_row": 558,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "What was the whole point of the stone hatch and everything then?",
+      "actually": "What was the point of the stone hatch and everything?"
+    }
+  },
+  {
+    "source_draft_row": 568,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah. Apparently supposed to be four.",
+      "actually": "Apparently supposed to be four."
+    }
+  },
+  {
+    "source_draft_row": 574,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "It was so smudged though. It wasn't even",
+      "actually": "It was so smudged. It was not even—"
+    }
+  },
+  {
+    "source_draft_row": 604,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "It's like, yeah, vegetarians teach him a lesson,",
+      "actually": "Vegetarians, teach him a lesson."
+    }
+  },
+  {
+    "source_draft_row": 606,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "They didn't have the pleasure. That was the best I could do.",
+      "actually": "They did not have the pleasure. That was the best I could do."
+    }
+  },
+  {
+    "source_draft_row": 609,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yes. Someone sandwich. Interesting.",
+      "actually": "Someone sandwich. Interesting."
+    }
+  },
+  {
+    "source_draft_row": 611,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "No, thank you. Thank you all. Normally to Ry and",
+      "actually": "Thank you all. Normally to Ry and—"
+    }
+  },
+  {
+    "source_draft_row": 613,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "I was going to say that scene to seven 7.5ish. Yeah.",
+      "actually": "I was going to say that scene to seven, about seven point five."
+    }
+  },
+  {
+    "source_draft_row": 636,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "All right. Shall we sayu? Where were we? Where were we? Pen popups. Was it pen pops? I think so. Was it pen?",
+      "actually": "Shall we say—what were we? Pen popups? Pen pops? I think so. Was it pen?"
+    }
+  },
+  {
+    "source_draft_row": 638,
+    "reason": "Excluded from SFT: unclear recognition, incomplete statement, or unresolved reference",
+    "sample": {
+      "raw": "Yeah, me neither. It's okay. This says pops. Penu. Pen pops. Pops. Okay,",
+      "actually": "Neither do I. It is okay. It says pops. Penu. Pen pops."
+    }
+  }
+]

@@ -1,0 +1,494 @@
+[
+  {
+    "file": "fEG0YNzfoEM.jsonl",
+    "records": 1,
+    "source_sha256": "f05573e9c278b15c8c81db5830f9f5532f8df14960dc9c4bcc5cd3a7ecfb9319",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "DvriPOj3mf8.jsonl",
+    "records": 1,
+    "source_sha256": "e246f46c6f9222d8d5037a4cfab18f4cf9340221ce3e3bee556f1530b488bc99",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "RzGt9s38Y9U.jsonl",
+    "records": 2,
+    "source_sha256": "20093c87f6ad58b1053a9d96fc1c3146ad7457c636c0f1dd0d84094fd189c299",
+    "review_lines": [
+      1,
+      2
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "tbdwWRS7XsE.jsonl",
+    "records": 1,
+    "source_sha256": "f2d1554b0a63e22e94598903e50bb73196433230e8773431a9a3489d325689cd",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "wN_4wb-2C-c.jsonl",
+    "records": 1,
+    "source_sha256": "9f863979831c599cc8b1d59b18838888a802285b13d6881088545e5d1794ec69",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "74dbPKdsK1A.jsonl",
+    "records": 2,
+    "source_sha256": "404c819bd6889c51b8f306d5f14ce6515e5a72bce0e57576be320bbafeea495f",
+    "review_lines": [
+      1,
+      2
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "ovdha8x8KB8.jsonl",
+    "records": 1,
+    "source_sha256": "77761485379e405a5466c5f4ad648f1c87e137451b6c8cbf389974426d2bcc33",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "zKWksk3wBqM.jsonl",
+    "records": 4,
+    "source_sha256": "339a33bdf22381e3e6a0733e31bab3e400dafea97ce7af69ba8629ec22813d3d",
+    "review_lines": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "C7fwLPpkJcY.jsonl",
+    "records": 5,
+    "source_sha256": "803d1616b435aae497e8fe6d243dbfc644dddbb63251abde75ff892bbca8d09f",
+    "review_lines": [
+      2,
+      4
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "EUcKzdCYNPM.jsonl",
+    "records": 2,
+    "source_sha256": "bd8cb2a451d2e520679b5b77becb06bdfc977b9c42e4960c587b5c71ee92351e",
+    "review_lines": [
+      2
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "3qGtLCL00mg.jsonl",
+    "records": 3,
+    "source_sha256": "6f1f371930310512daf762f860cbeabca9385a91ecb184e18b4a3bd3566cd2fd",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "lxR7i8TyBos.jsonl",
+    "records": 4,
+    "source_sha256": "7667fba9baf6a21e640c65e6d1f7bca66e70dc5a6f40938261b69d1cbeae893d",
+    "review_lines": [
+      1,
+      4
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "rR8CQK376ok.jsonl",
+    "records": 2,
+    "source_sha256": "f3db99f16bd28cac867a56031f5f981d24a4a201845a6dff3568c4f16e0097d0",
+    "review_lines": [
+      2
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      1
+    ]
+  },
+  {
+    "file": "1xhMDws0iUg.jsonl",
+    "records": 5,
+    "source_sha256": "27845c9ed3575d70b35ff25cac7d3658d40721bf1dfb11580ae2c56226b4a610",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "Jg0KJDCVIU8.jsonl",
+    "records": 4,
+    "source_sha256": "dae5bccbe7c7ac42404639822bbae230fbbaecf6a6e9826b3c7d16050fe471ba",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "Z9pbHUCIfDo.jsonl",
+    "records": 1,
+    "source_sha256": "18932ccb715135e59d9024e337b413f3fc589109ed8a9a4890013fac252e5829",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "ADugBAJ4fFg.jsonl",
+    "records": 8,
+    "source_sha256": "aae3728efc9b1080d1acbd5726218d3814f0a9cfdbd78288b065b30b02e20cde",
+    "review_lines": [
+      8
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "VE59A1AcHUg.jsonl",
+    "records": 1,
+    "source_sha256": "a492b74f758748ae9278c31fbf82a99a276c0273a6a4ffaab6856ae41f7e37f0",
+    "review_lines": [],
+    "review_reason": null,
+    "context_reconstructed_lines": [
+      1
+    ]
+  },
+  {
+    "file": "N2tTx419i3E.jsonl",
+    "records": 7,
+    "source_sha256": "aec35b15033f59b99dac1764e1615fa7bb6d5a78c60648b6a0d26a5b4cbfd215",
+    "review_lines": [
+      3
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "iu5P6fwJNZo.jsonl",
+    "records": 10,
+    "source_sha256": "97331dccdf2392f6283b56676e528f6291d2e68f33880fd9236b034190ff845d",
+    "review_lines": [],
+    "review_reason": null,
+    "context_reconstructed_lines": [
+      2,
+      5
+    ]
+  },
+  {
+    "file": "2Wo1bRzTFxk.jsonl",
+    "records": 5,
+    "source_sha256": "23f71b39321c8ed68083b9610b0851a0c249a2eb4bb0a84a27a7b7cb4b11c330",
+    "review_lines": [
+      3
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "Jyu75i5agX8.jsonl",
+    "records": 8,
+    "source_sha256": "9b8f9d46f94007573d2b0d2fef2df0ca6903f217eb206adf6e833d73e1a73203",
+    "review_lines": [
+      4,
+      7
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "G9U2EAY5O1M.jsonl",
+    "records": 4,
+    "source_sha256": "1174ccbd6fad1b3c5fab4447bda6941259da518b6b183fbb17aa503b071b2bb5",
+    "review_lines": [
+      4
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "z4XM2aCnWjo.jsonl",
+    "records": 5,
+    "source_sha256": "4478bd6d924d86af6ecef26ff2f4668c4fd495fd696fc8864849064c0986f8d2",
+    "review_lines": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "Pqh6rQBMwMA.jsonl",
+    "records": 10,
+    "source_sha256": "32b0179cdfc3f98ab71fc2693d82d4993c2be9e22ec2aae3b7c2c96a89734266",
+    "review_lines": [
+      6,
+      8,
+      10
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "lCFgpT7-LFs.jsonl",
+    "records": 5,
+    "source_sha256": "8c12aa2ed233aefdb42079b37335634f15449865d04d3cdc862f176eb7396278",
+    "review_lines": [
+      5
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      2
+    ]
+  },
+  {
+    "file": "AtDfmOm12tw.jsonl",
+    "records": 4,
+    "source_sha256": "3d95d28a04a2b28da250bddcb5cd6ba8d3e901eecdbcae90a48317952c461212",
+    "review_lines": [],
+    "review_reason": null,
+    "context_reconstructed_lines": [
+      2
+    ]
+  },
+  {
+    "file": "u7viy7h9GJ8.jsonl",
+    "records": 6,
+    "source_sha256": "67024ca5218813af48f544da09daec2ac7e645d4c034ce7202fca8d81285ed17",
+    "review_lines": [
+      3,
+      4
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "rK8K8-7Z6kM.jsonl",
+    "records": 7,
+    "source_sha256": "10a9caa129f2b3c0758cb045d7798c96731c28edc9095af8679755ec8c75ec6c",
+    "review_lines": [
+      3
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "0Vj7rcqukX4.jsonl",
+    "records": 11,
+    "source_sha256": "857295e773b8ce188c77feb5a653d607ab20eda33ba3419b04a83506561b815e",
+    "review_lines": [
+      11
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "lU6pBNzKcSk.jsonl",
+    "records": 6,
+    "source_sha256": "6a3a303a24de4dade98f583e5cee5025cd9b0340b081af721a700c106ccf7150",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "JAmmdZBJykw.jsonl",
+    "records": 7,
+    "source_sha256": "0cbe8abee43ed732cabc32b3ce394292ede770b8bc556823299d31c90465d34f",
+    "review_lines": [
+      2,
+      5
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "BTAa8RiJ6t4.jsonl",
+    "records": 7,
+    "source_sha256": "10ccf87630fc3165d49919e502ccf7047aee982f3606a4eef0587dd970e1a394",
+    "review_lines": [
+      3
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "mbijSazcbbs.jsonl",
+    "records": 12,
+    "source_sha256": "5cd28ad25bed5ce94979f2eda8cec63b86b4899bf909a41e320b91e2ddcbd98b",
+    "review_lines": [
+      7,
+      9,
+      12
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "qiNkne3HbwU.jsonl",
+    "records": 12,
+    "source_sha256": "3fc7ab509139ae54094054fe1c955d5f0e4172ed71d4189a51946b8a3c12b819",
+    "review_lines": [
+      12
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "5gg2FbVd4Ss.jsonl",
+    "records": 7,
+    "source_sha256": "878568a39e3dc3b9bfb0f3e8d601dc6edf66b3c78bf0825519c2f3d490d637d4",
+    "review_lines": [],
+    "review_reason": null,
+    "context_reconstructed_lines": [
+      7
+    ]
+  },
+  {
+    "file": "_-jLe9rvPnw.jsonl",
+    "records": 14,
+    "source_sha256": "f810c9efbea8a3b0f1a706c6eca2538a1754ff2154ff8bc9a10ed0757481108c",
+    "review_lines": [
+      8,
+      12
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "YG0veFKyDmw.jsonl",
+    "records": 12,
+    "source_sha256": "104a18c409d9f1a3605527891c3c51bfe399c5e7ae97fbeda81bc8e52f299bf3",
+    "review_lines": [
+      12
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      7,
+      9
+    ]
+  },
+  {
+    "file": "fZMv0HBHe9c.jsonl",
+    "records": 8,
+    "source_sha256": "eddefd86f9ebe0216956e23db2718580afd65237344dad6d61921cf5a1b49945",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "_T69lDsKqJk.jsonl",
+    "records": 15,
+    "source_sha256": "8264de294944fec610503f987aca2d5a3e87dbd3c626233dc4a15eeeb301d4aa",
+    "review_lines": [
+      1
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      5
+    ]
+  },
+  {
+    "file": "brBIvrh_AzQ.jsonl",
+    "records": 7,
+    "source_sha256": "bed4852fec19f1bc445fb2901eb6ac4bab49dbb5bef8e67a304c89a807f0ca66",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "wGGgLlK9dJQ.jsonl",
+    "records": 11,
+    "source_sha256": "ea96de12600db81f89dac019d0c8bdbeaf0e7abcf2f50e97a005da6e3b421194",
+    "review_lines": [
+      6
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "sXouuS6l1mM.jsonl",
+    "records": 10,
+    "source_sha256": "c36f07d75544f60af33f913f5387f5020ba4b31c6c8087b17b8f1e96ccaf4538",
+    "review_lines": [
+      4
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      2
+    ]
+  },
+  {
+    "file": "LwSw5iYaQG0.jsonl",
+    "records": 10,
+    "source_sha256": "5133b299d5e928ce8d6c7bba7a3ac0cc2d71c3736c5adcd442526ac1400d4ffb",
+    "review_lines": [
+      1,
+      4,
+      8
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      10
+    ]
+  },
+  {
+    "file": "6yI304CUG0w.jsonl",
+    "records": 13,
+    "source_sha256": "ff67e31adbdba24941e93ea7e9e6dca05c73eb1cb98bc0dcf9ed9a934f415709",
+    "review_lines": [],
+    "review_reason": null
+  },
+  {
+    "file": "lEaKTWIfxdg.jsonl",
+    "records": 14,
+    "source_sha256": "b9fc6642b12b4070ce238e2b3202d46bc774d0565a62609fd0072dc079263053",
+    "review_lines": [
+      3
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      11
+    ]
+  },
+  {
+    "file": "KZkGKLx252U.jsonl",
+    "records": 16,
+    "source_sha256": "55be16d0c15f5bd27717ed997fa7723b630d2b5374c68e062428f2a8c689bcde",
+    "review_lines": [
+      4
+    ],
+    "review_reason": "Residual fragments have too little context to infer a specific wording.",
+    "context_reconstructed_lines": [
+      1
+    ]
+  },
+  {
+    "file": "kEZJfW3LOUE.jsonl",
+    "records": 10,
+    "source_sha256": "565a428a402e521c491ac5c1b792b6019513b93d7ca0d31e7d4a1d1ce3cebacb",
+    "review_lines": [
+      2
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "WbGQxBrwTuU.jsonl",
+    "records": 14,
+    "source_sha256": "5d78a90339e5bfd2577fe946252a9555013ae6a8b28478e3fa7996e120e91f74",
+    "review_lines": [
+      1,
+      3,
+      7
+    ],
+    "review_reason": "Incomplete text, uncertain recognition, names, or context; no missing words reconstructed."
+  },
+  {
+    "file": "vJvlZJWMK_4.jsonl",
+    "records": 13,
+    "source_sha256": "9cc183ee85a3037b2481751b53438e4c0221a1ec5158feb70fe2fe3dab62678a",
+    "review_lines": [],
+    "review_reason": null,
+    "context_reconstructed_lines": [
+      2,
+      6,
+      12
+    ]
+  }
+]

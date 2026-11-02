@@ -1,0 +1,14 @@
+{
+  "status": "complete_archived",
+  "source_read_through_line": 2703,
+  "authored_anchors": 330,
+  "last_anchor": "bye-bye for",
+  "full_source_coverage_verified": true,
+  "originals_moved": true,
+  "source_sha256": "2e0b2c4aef4a5382ceb9fc563a9ef5beadcf2611dbb654913193284a799f79b6",
+  "next_action": "Completed; continue s7C9J7guXaI.",
+  "remaining_normalized_characters": 0,
+  "reviewed_through_draft_row": 330,
+  "reviewed_records": 594,
+  "low_confidence_contexts": 147
+}

@@ -1,0 +1,11 @@
+{
+  "file": "aM7ysu2s7X0",
+  "status": "completed",
+  "formal_records": 1432,
+  "pending_fragments": 185,
+  "remaining_requested_files": [],
+  "read_through_source_line": 2142,
+  "draft_rows": 1625,
+  "source_sha256": "e0500698fd48d76dfe8fedaafb8df36398dd829e7681d1708e0d95b73f304f2e",
+  "review_notes": "全文人工逐句配对；保留重复、迟疑、自我纠正、语法与脏话遮蔽；所有30个遮蔽标记已核对保留。"
+}

@@ -1,0 +1,330 @@
+[
+  {
+    "source_draft_row": 19,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I fire the fire sparkling gown of life English advent.",
+      "actually": "!I fire the fire sparkling gown of life English Advent."
+    }
+  },
+  {
+    "source_draft_row": 24,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I don't think the myth works there. Just to let you know.",
+      "actually": "I do not think the myth works there, just so you know."
+    }
+  },
+  {
+    "source_draft_row": 26,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Okay, let's go climb some mountains. A mountain. We love you. This one of us.",
+      "actually": "Let us climb a mountain. We love you. This one of us."
+    }
+  },
+  {
+    "source_draft_row": 27,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Yeah. Crashed on. You crashed on the plane.",
+      "actually": "Crashed on. You crashed on the plane."
+    }
+  },
+  {
+    "source_draft_row": 31,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Oh, wait. Where's Always on? Is this a sifty kind of issue? Maybe.",
+      "actually": "!Where is Always on? Is this a sifty issue?"
+    }
+  },
+  {
+    "source_draft_row": 32,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "What do I do with this? Oh, maybe I throw it. Yeah, just climb up a tree later. It works against you.",
+      "actually": "What do I do with it? Perhaps throw it. Climb a tree later. It works against you."
+    }
+  },
+  {
+    "source_draft_row": 57,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Oh, okay. Don't die. Am I ping?",
+      "actually": "Do not die. Am I ping?"
+    }
+  },
+  {
+    "source_draft_row": 74,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Take my",
+      "actually": "Take my—"
+    }
+  },
+  {
+    "source_draft_row": 88,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "There you go. Is Noa dead? I don't think so. Noa, she's probably like flying. Yeah.",
+      "actually": "Is Noa dead? I do not think so; she is probably flying."
+    }
+  },
+  {
+    "source_draft_row": 91,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Is that an instrument? No, I think it's something. It's mayonnaise.",
+      "actually": "Is it an instrument? No, I think it is something. It is mayonnaise."
+    }
+  },
+  {
+    "source_draft_row": 93,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "You're not looking up it right.",
+      "actually": "You are not looking up it right."
+    }
+  },
+  {
+    "source_draft_row": 100,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Well, that's Oh, I really poison.",
+      "actually": "I really poison."
+    }
+  },
+  {
+    "source_draft_row": 101,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "No, it's coming. Yeah. Do is just alone direction.",
+      "actually": "!It is coming. Do is just alone direction."
+    }
+  },
+  {
+    "source_draft_row": 109,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "So, just keep Okay, that's going to be a problem. Keep going then. Maybe this way. your house.",
+      "actually": "That is a problem. Keep going; perhaps this way. Your house."
+    }
+  },
+  {
+    "source_draft_row": 176,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Oh, but now I know Sonic speed.",
+      "actually": "Now I know Sonic speed."
+    }
+  },
+  {
+    "source_draft_row": 194,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I think it's uh toward a mo way. Maybe we can climb it. I'm not sure that is.",
+      "actually": "I think toward a mo way. Perhaps we can climb it; I am unsure."
+    }
+  },
+  {
+    "source_draft_row": 198,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Maybe. I would try not to useless.",
+      "actually": "!I would try not to useless."
+    }
+  },
+  {
+    "source_draft_row": 201,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I had a piston. I think",
+      "actually": "!I had a piston, I think."
+    }
+  },
+  {
+    "source_draft_row": 225,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I got one hat. Wow. I'm our destination vacation.",
+      "actually": "!I got one hat. Our destination vacation."
+    }
+  },
+  {
+    "source_draft_row": 237,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Uh, this is apparently dropped.",
+      "actually": "This apparently dropped."
+    }
+  },
+  {
+    "source_draft_row": 239,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Hello. Hello. All right. Speed run. Just walk around this hill. Climbing up that road. our places.",
+      "actually": "Hello. Speedrun. Walk around the hill and climb the road. Our places."
+    }
+  },
+  {
+    "source_draft_row": 239,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "What is that? Bunkin sisters.",
+      "actually": "What is that? Bunkin sisters."
+    }
+  },
+  {
+    "source_draft_row": 241,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Get the fire. It's away. Wait, what about the backpack?",
+      "actually": "Get the fire. It is away. What about the backpack?"
+    }
+  },
+  {
+    "source_draft_row": 265,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Maybe ah say awesome.",
+      "actually": "Maybe ah say awesome."
+    }
+  },
+  {
+    "source_draft_row": 266,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Yeah. You okay? Okay. That was a little bit of a chicken. Pull your foot down. Pull it.",
+      "actually": "!That was a little chicken. Pull your foot down."
+    }
+  },
+  {
+    "source_draft_row": 276,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Is everyone good on food? Oh my. Oh my dummy thick back there. Your gemstones.",
+      "actually": "Is everyone fed? You are very thick back there. Your gemstones."
+    }
+  },
+  {
+    "source_draft_row": 286,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Oh, wait. Should I have taken the bath?",
+      "actually": "Should I have taken the bath?"
+    }
+  },
+  {
+    "source_draft_row": 287,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "open. But I'm thinking I think it's to the right. I think the light.",
+      "actually": "I think it is to the right. I think the light."
+    }
+  },
+  {
+    "source_draft_row": 299,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Actually, I see like the speed go down fast. climb. Oh, Shadow of the Colossus is weird.",
+      "actually": "I see speed dropping fast. Climb. Shadow of the Colossus is strange."
+    }
+  },
+  {
+    "source_draft_row": 310,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I don't know why I was But then there's a lot of thorns as well and like the pimple sections. Well, we got to go this way at some point because this is so coming.",
+      "actually": "But there are thorns and pimples. We must go this way because this is so coming."
+    }
+  },
+  {
+    "source_draft_row": 323,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Amazing. What is this? Oh, pone. Nice.",
+      "actually": "Amazing. What is this? Pone."
+    }
+  },
+  {
+    "source_draft_row": 340,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "All right, I'm doing you.",
+      "actually": "I am doing you."
+    }
+  },
+  {
+    "source_draft_row": 341,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Oh, crap. Yeah. Does the Does the Pa help with like",
+      "actually": "Does the Pa help with—?"
+    }
+  },
+  {
+    "source_draft_row": 355,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Can I have here? I fed it to you.",
+      "actually": "Can I have here? I fed it to you."
+    }
+  },
+  {
+    "source_draft_row": 361,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "You are me for Where's Woko?",
+      "actually": "You are me for. Where is Woko?"
+    }
+  },
+  {
+    "source_draft_row": 364,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "She was overtaken to disagree. I thought you were dead.",
+      "actually": "She was overtaken to disagree. I thought you were dead."
+    }
+  },
+  {
+    "source_draft_row": 365,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "I'm losing everywhere. I'm just going to dance.",
+      "actually": "I am losing everywhere and will dance."
+    }
+  },
+  {
+    "source_draft_row": 369,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Hold on. Hold on. Hold on. Let me wear it. I am now hardened like Squid Game.",
+      "actually": "Let me wear it. I am hardened like Squid Game."
+    }
+  },
+  {
+    "source_draft_row": 370,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "hat. Are we griefing the huh? And this hat. This hat.",
+      "actually": "Hat. Are we griefing the? This hat."
+    }
+  },
+  {
+    "source_draft_row": 378,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Thank you. We released a new cover from our favorite novel. Our favorite favorite everything from too high a feeling. Yes.",
+      "actually": "!We released a new cover from our favorite novel and everything from too high a feeling."
+    }
+  },
+  {
+    "source_draft_row": 380,
+    "reason": "Excluded from SFT: unclear ASR or incomplete meaning without reliable reconstruction",
+    "sample": {
+      "raw": "Doing this. outfits all over the place. Yeah.",
+      "actually": "Doing this. Outfits everywhere."
+    }
+  }
+]

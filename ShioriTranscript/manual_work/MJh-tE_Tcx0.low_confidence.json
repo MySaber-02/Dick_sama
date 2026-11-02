@@ -1,0 +1,650 @@
+[
+  {
+    "source_draft_row": 4,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "All right. Well, nice to see you, Ada, again. Yay. Hi, darlings. Yeah, I'm the missing club. Hi, darlings. Check out these. Hi, darling. It's a club. Hi, darlings. Yeah.",
+      "actually": "It is good to see Ada again. Hello, darlings. The missing club. Look at these."
+    }
+  },
+  {
+    "source_draft_row": 7,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I'm sparkling edges of English a and uh with me I have",
+      "actually": "I am sparkling edges of English a, and with me I have—"
+    }
+  },
+  {
+    "source_draft_row": 10,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "or coal is mocha color.",
+      "actually": "Or coal is mocha color."
+    }
+  },
+  {
+    "source_draft_row": 11,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Good. At",
+      "actually": "Good. At—"
+    }
+  },
+  {
+    "source_draft_row": 16,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah, he told.",
+      "actually": "He told."
+    }
+  },
+  {
+    "source_draft_row": 32,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Maybe have a top. Okay. Yeah.",
+      "actually": "Maybe have a top."
+    }
+  },
+  {
+    "source_draft_row": 35,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Um I don't know what we're the most Can I Oh, good.",
+      "actually": "I do not know what we're the most. Can I—good."
+    }
+  },
+  {
+    "source_draft_row": 45,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah, I might want to rethink that. Huh? Uh, it's I was curious. Okay, the camera has gone.",
+      "actually": "I might want to reconsider that. I was curious. The camera is gone."
+    }
+  },
+  {
+    "source_draft_row": 60,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Um, will this explode? Um, as long as you don't throw it away, then we can't be doing.",
+      "actually": "Will it explode? As long as you do not throw it away, then we cannot be doing."
+    }
+  },
+  {
+    "source_draft_row": 75,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "And it's a crystal chocolate. I think we should get like",
+      "actually": "It is a crystal chocolate. I think we should get—"
+    }
+  },
+  {
+    "source_draft_row": 89,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Top. What? I'm not I don't do.",
+      "actually": "Top. What? I am not—I do."
+    }
+  },
+  {
+    "source_draft_row": 97,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Actually, that one deserve it. What? Do you need do not use it?",
+      "actually": "Actually, that one deserve it. Do you need do not use it?"
+    }
+  },
+  {
+    "source_draft_row": 103,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, there's stuff. Uh, there's some other thing here on top. Dashing. Oh, this kind of",
+      "actually": "There is something on top. Dashing. This kind of—"
+    }
+  },
+  {
+    "source_draft_row": 118,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "You did really well. It's just up to be himself. You did really well. There. There. There. There.",
+      "actually": "You did well. It is just up to be himself. You did well."
+    }
+  },
+  {
+    "source_draft_row": 121,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "update and let the kids know. I thought Did I get shot? Who stood at me?",
+      "actually": "Update and let the kids know. Did I get shot? Who stood at me?"
+    }
+  },
+  {
+    "source_draft_row": 121,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Hi. What's up? Let me out. I thought you stood at me. Oh, this is a heart. What is that? Did I walk with this? I still have to die. Wait, what was that sound?",
+      "actually": "Hello. Let me out. I thought you stood at me. This is a heart. Did I walk with this? I still must die. What was that sound?"
+    }
+  },
+  {
+    "source_draft_row": 124,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "there you go. King of the now. King of the losers said he'll keep this crown.",
+      "actually": "King of the now. King of the losers said he will keep this crown."
+    }
+  },
+  {
+    "source_draft_row": 129,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Give it a little bit of a pie. Okay. To be fair, we kind of need to spread a lot, I guess.",
+      "actually": "Give it a little pie. We need to spread a lot, I suppose."
+    }
+  },
+  {
+    "source_draft_row": 130,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "It's okay. It's okay. You can walk running for us.",
+      "actually": "It is okay; you can walk running for us."
+    }
+  },
+  {
+    "source_draft_row": 132,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I think uh I think shift is broken perhaps. gave me away. Yeah.",
+      "actually": "Perhaps Shift is broken. Gave me away."
+    }
+  },
+  {
+    "source_draft_row": 154,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "This potion is like the most deep deep.",
+      "actually": "This potion is like the most deep deep."
+    }
+  },
+  {
+    "source_draft_row": 168,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay, that's good. That's good. I was wondering if you were just saying what's",
+      "actually": "Good. I wondered whether you were saying what is—"
+    }
+  },
+  {
+    "source_draft_row": 171,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "What's a duck for? Why is it K?",
+      "actually": "What is the duck for? Why is it K?"
+    }
+  },
+  {
+    "source_draft_row": 192,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I'm hiding in the same like your foot.",
+      "actually": "I am hiding in the same like your foot."
+    }
+  },
+  {
+    "source_draft_row": 197,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I thought you were. Oh, it's over. It's over.",
+      "actually": "I thought you were. It is over."
+    }
+  },
+  {
+    "source_draft_row": 197,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "The head when you can cook with a high numbered item. Oh, yeah.",
+      "actually": "The head when you can cook with a high-numbered item."
+    }
+  },
+  {
+    "source_draft_row": 199,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I see. How do we get rid of it? How do we get chilling?",
+      "actually": "How do we remove it? How do we get chilling?"
+    }
+  },
+  {
+    "source_draft_row": 201,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I think most damage things you hold.",
+      "actually": "I think most damage things you hold."
+    }
+  },
+  {
+    "source_draft_row": 205,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Ouch. What? Why are we",
+      "actually": "Ouch. What? Why are we—?"
+    }
+  },
+  {
+    "source_draft_row": 209,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Am I alive? Dead alive, but not if you're going to alive.",
+      "actually": "Am I alive? Dead alive, but not if you are going to alive."
+    }
+  },
+  {
+    "source_draft_row": 210,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Are you coming for you? Oh my gosh. What the heck?",
+      "actually": "Are you coming for you? What?"
+    }
+  },
+  {
+    "source_draft_row": 211,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay, we got the coming. We got to get the corner so we story.",
+      "actually": "We got the coming. We must get the corner so we story."
+    }
+  },
+  {
+    "source_draft_row": 248,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, my friend is the most.",
+      "actually": "My friend is the most."
+    }
+  },
+  {
+    "source_draft_row": 251,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Is there? Okay. So, say morningto. But you have to say cutely.",
+      "actually": "Say morningto, but say it cutely."
+    }
+  },
+  {
+    "source_draft_row": 253,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "All right. You You heard you heard the rock. Back, please. Now you heard her. Her word is uh command.",
+      "actually": "You heard the rock: back, please. Her word is a command."
+    }
+  },
+  {
+    "source_draft_row": 266,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oops. I'm sorry. It's I'm sorry. Oh, I'm sorry. It's okay. It's okay. We'll revive you back. Don't worry. You'll be new. You'll be better. We're going to put a price back.",
+      "actually": "Sorry. It is okay; we will revive you. You will be renewed and better. We are going to put a price back."
+    }
+  },
+  {
+    "source_draft_row": 272,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I don't know about that, Marley. I feel like sprint speed. Personally, no. I'm take this one for my myself.",
+      "actually": "I do not know about that, Marley. I prefer sprint speed. I will take this for myself."
+    }
+  },
+  {
+    "source_draft_row": 277,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "You need an item with a head. It's okay. She'll come back anyway. Just toss into the slide.",
+      "actually": "You need an item with the head. She will come back anyway. Toss it onto the slide."
+    }
+  },
+  {
+    "source_draft_row": 296,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay. And now are we good? Is everyone right now?",
+      "actually": "Are we okay? Is everyone right now?"
+    }
+  },
+  {
+    "source_draft_row": 309,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay. You okay? Hey everyone. Okay, I feel somehow just um hiding in front of the bombs. But wait, wait, I didn't run. I was like, oh has to hide in front of",
+      "actually": "Are you okay? I hid in front of the bombs instead of running. Oh, has to hide in front of—"
+    }
+  },
+  {
+    "source_draft_row": 313,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I got I got Watch your See what that sounded like later.",
+      "actually": "I got—watch your—hear what that sounded like later."
+    }
+  },
+  {
+    "source_draft_row": 321,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay, I'm going to try the ground. Okay. I think she might actually end up perishing if this away from you help.",
+      "actually": "I will try the ground. She might perish if this away from you help."
+    }
+  },
+  {
+    "source_draft_row": 325,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Uh you kind of holding something and go while scrolling.",
+      "actually": "You kind of holding something and go while scrolling."
+    }
+  },
+  {
+    "source_draft_row": 327,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Happy history.",
+      "actually": "Happy history."
+    }
+  },
+  {
+    "source_draft_row": 333,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "That is for deep.",
+      "actually": "That is for deep."
+    }
+  },
+  {
+    "source_draft_row": 342,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, right here. Run for your chest. Here.",
+      "actually": "Run for your chest."
+    }
+  },
+  {
+    "source_draft_row": 342,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Blow up the not the dead teeth.",
+      "actually": "Blow up the not the dead teeth."
+    }
+  },
+  {
+    "source_draft_row": 351,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah. It doesn't move that hard.",
+      "actually": "It does not move that hard."
+    }
+  },
+  {
+    "source_draft_row": 356,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "What is this? kill you. Okay. Killing me with her.",
+      "actually": "What is this? Kill you. Killing me with her."
+    }
+  },
+  {
+    "source_draft_row": 357,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Bonnie. Yeah.",
+      "actually": "Bonnie."
+    }
+  },
+  {
+    "source_draft_row": 358,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Well, time to bat me up.",
+      "actually": "Time to bat me up."
+    }
+  },
+  {
+    "source_draft_row": 359,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I found his cute slime on it.",
+      "actually": "I found his cute slime on it."
+    }
+  },
+  {
+    "source_draft_row": 367,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, excuse me. I think I mean I think that for Mo in that way that we did that way. I love",
+      "actually": "Excuse me. I think that for Mo in that way that we did that way. I love—"
+    }
+  },
+  {
+    "source_draft_row": 368,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, no. Good job. Good job, Tyler.",
+      "actually": "Good job, Tyler."
+    }
+  },
+  {
+    "source_draft_row": 389,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Uh, I don't know what that does, actually. Is it like a healer? Zero gravity. Oh, maybe it's automatic for things that'll kill us. Extraction tracker.",
+      "actually": "What does this do? A healer? Zero gravity. Perhaps automatic for things that kill us. Extraction tracker."
+    }
+  },
+  {
+    "source_draft_row": 402,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, sorry. What's that? It's a point.",
+      "actually": "What is that? It is a point."
+    }
+  },
+  {
+    "source_draft_row": 403,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh. Can she attack the text too?",
+      "actually": "Can she attack the text too?"
+    }
+  },
+  {
+    "source_draft_row": 403,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Can I hear the text?",
+      "actually": "Can I hear the text?"
+    }
+  },
+  {
+    "source_draft_row": 416,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "It's okay. It's okay. Get possessed. No. No. I think um when you win this well we have one HP for us",
+      "actually": "Get possessed? No. When you win this well we have one HP for us."
+    }
+  },
+  {
+    "source_draft_row": 417,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Dang it. Dang it. We need one more K for the five.",
+      "actually": "Darn it. We need another thousand for the five."
+    }
+  },
+  {
+    "source_draft_row": 418,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay. I only have one. The buck is here. We can go split.",
+      "actually": "I only have one. The buck is here. We can split."
+    }
+  },
+  {
+    "source_draft_row": 421,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Maybe there's there happened then.",
+      "actually": "Maybe there's there happened then."
+    }
+  },
+  {
+    "source_draft_row": 427,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh my god. You have one more player. What? You have to do it first.",
+      "actually": "You have another player. What? You must do it first."
+    }
+  },
+  {
+    "source_draft_row": 431,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "mepors fancy. What? Of nothing.",
+      "actually": "Mepors fancy. What? Of nothing."
+    }
+  },
+  {
+    "source_draft_row": 436,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "It's that place, sir.",
+      "actually": "It is that place, sir."
+    }
+  },
+  {
+    "source_draft_row": 460,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Why am I dangerous around here?",
+      "actually": "Why am I dangerous around here?"
+    }
+  },
+  {
+    "source_draft_row": 472,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "G H X T H X G H X G H X G H X.",
+      "actually": "G H X, T H X."
+    }
+  },
+  {
+    "source_draft_row": 475,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "and I think like if you're at a distance on the other side. Yeah. Yeah, it's kind of blocking alien.",
+      "actually": "If you are at a distance on the other side—yes, it is kind of blocking alien."
+    }
+  },
+  {
+    "source_draft_row": 476,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Whoops. The luggage is a little bit too. Yeah. All our hands are too much. I don't know.",
+      "actually": "The luggage is too—our hands are too much. I do not know."
+    }
+  },
+  {
+    "source_draft_row": 479,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Oh, no. I think I think it's sensor. Does it?",
+      "actually": "I think it is sensor. Does it?"
+    }
+  },
+  {
+    "source_draft_row": 484,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "I just demon.",
+      "actually": "Demon."
+    }
+  },
+  {
+    "source_draft_row": 485,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay. Oh, computer. Yes. I'm going to use the bra. No. Kind of useless.",
+      "actually": "A computer. I will use the bra. No, rather useless."
+    }
+  },
+  {
+    "source_draft_row": 486,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Okay. Good job. Good job. Good job. Be of the losers.",
+      "actually": "Good job. Be of the losers."
+    }
+  },
+  {
+    "source_draft_row": 489,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "play when the style when she gets back.",
+      "actually": "Play when the style returns."
+    }
+  },
+  {
+    "source_draft_row": 490,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah. WW www w you problem enough problem enough",
+      "actually": "W. You problem enough, problem enough."
+    }
+  },
+  {
+    "source_draft_row": 491,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "problem enough",
+      "actually": "Problem enough."
+    }
+  },
+  {
+    "source_draft_row": 492,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "because please look. It's a little bit of a difference. about it might be the prize. So, please take a look.",
+      "actually": "Please look. It is a little different. It might be the prize; please look."
+    }
+  },
+  {
+    "source_draft_row": 501,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah. Explain. maybe it's already on my calculator to play.",
+      "actually": "Explain. Perhaps it is already on my calculator to play."
+    }
+  },
+  {
+    "source_draft_row": 505,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yeah. All right. Um, you guys are going to be chatting a little bit with your wolf",
+      "actually": "You will keep chatting with your wolf."
+    }
+  },
+  {
+    "source_draft_row": 506,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "Yes. All right. Well, for sure hanging around a little bit longer.",
+      "actually": "Staying a little longer."
+    }
+  },
+  {
+    "source_draft_row": 511,
+    "reason": "Excluded from SFT: unclear ASR, incomplete wording, or unresolved referent; source retained without inventing a reading",
+    "sample": {
+      "raw": "So, until then. Oh, look at this little little sh here.",
+      "actually": "Until then. Look at this little Sh here."
+    }
+  }
+]

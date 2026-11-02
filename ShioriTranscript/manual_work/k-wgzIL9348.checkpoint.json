@@ -1,0 +1,14 @@
+{
+  "file": "k-wgzIL9348",
+  "status": "completed",
+  "read_through_source_line": 1895,
+  "paired_through_exact_source_anchor": "do this",
+  "partial_rows": 1875,
+  "source_sha256": "f271bac7e05aa5e4b0534c7597d4e34aa8e512fe916fb8cb934335d2f16d6799",
+  "previous_goal_turn_classification": "progress",
+  "remaining_requested_files": [],
+  "review_notes": "Advent周年多人制作可丽饼；不能把 bad crepes 改为 good；角色称呼、交叉话轮和ASR残片需全文复核，保留真实重复。",
+  "draft_rows": 1974,
+  "formal_records": 1675,
+  "pending_fragments": 281
+}

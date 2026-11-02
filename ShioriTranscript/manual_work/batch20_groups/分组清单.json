@@ -1,0 +1,105 @@
+{
+  "batch_size": 20,
+  "groups": {
+    "A": [
+      "F2H1iN6hv58",
+      "9WCnRRYFwps",
+      "LHOtqIOLczE",
+      "oEopA7l-q_k",
+      "6nLajpUHa3w",
+      "BJYiTgM7Gy8",
+      "9g4wXCkMn1o",
+      "C9EK1QSnCos"
+    ],
+    "B": [
+      "nNx0OhcdPdw",
+      "DVvbv1-YDsc",
+      "VW2Jg618VnI",
+      "MJh-tE_Tcx0",
+      "y3byjiCQrbU",
+      "tqrbtOQEZzk",
+      "beOA7f3EV9o",
+      "del2HQk9W0k",
+      "lmaAtgYtb0I",
+      "hrDSYSEOLd0",
+      "5yLDmZ-Faow",
+      "4Him-dPaGe4"
+    ]
+  },
+  "current_in_progress": null,
+  "completed_at_grouping": [
+    "F2H1iN6hv58",
+    "9WCnRRYFwps",
+    "LHOtqIOLczE",
+    "oEopA7l-q_k"
+  ],
+  "next_for_A": null,
+  "low_confidence_files": {
+    "6nLajpUHa3w": "manual_work/6nLajpUHa3w.low_confidence.jsonl",
+    "BJYiTgM7Gy8": "manual_work/BJYiTgM7Gy8.low_confidence.jsonl",
+    "9g4wXCkMn1o": "manual_work/9g4wXCkMn1o.low_confidence.jsonl",
+    "C9EK1QSnCos": "manual_work/C9EK1QSnCos.low_confidence.jsonl"
+  },
+  "original_groups": {
+    "A": [
+      "F2H1iN6hv58",
+      "9WCnRRYFwps",
+      "LHOtqIOLczE",
+      "oEopA7l-q_k",
+      "6nLajpUHa3w",
+      "BJYiTgM7Gy8",
+      "9g4wXCkMn1o",
+      "C9EK1QSnCos",
+      "5yLDmZ-Faow",
+      "4Him-dPaGe4"
+    ],
+    "B": [
+      "nNx0OhcdPdw",
+      "DVvbv1-YDsc",
+      "VW2Jg618VnI",
+      "MJh-tE_Tcx0",
+      "y3byjiCQrbU",
+      "tqrbtOQEZzk",
+      "beOA7f3EV9o",
+      "del2HQk9W0k",
+      "lmaAtgYtb0I",
+      "hrDSYSEOLd0"
+    ]
+  },
+  "original_group_size": 10,
+  "group_sizes": {
+    "A": 8,
+    "B": 12
+  },
+  "remaining_assignments": {
+    "A": [],
+    "B": []
+  },
+  "reassigned_on": "2026-10-27",
+  "next_for_B": null,
+  "assignment_note": "原 B 组十份均已完成；现 B 组只处理新分配的两份，完成后停止，不自行领取 A 组或批次外文件。",
+  "completed_batch_files": [
+    "F2H1iN6hv58",
+    "9WCnRRYFwps",
+    "LHOtqIOLczE",
+    "oEopA7l-q_k",
+    "6nLajpUHa3w",
+    "BJYiTgM7Gy8",
+    "9g4wXCkMn1o",
+    "C9EK1QSnCos",
+    "nNx0OhcdPdw",
+    "DVvbv1-YDsc",
+    "VW2Jg618VnI",
+    "MJh-tE_Tcx0",
+    "y3byjiCQrbU",
+    "tqrbtOQEZzk",
+    "beOA7f3EV9o",
+    "del2HQk9W0k",
+    "lmaAtgYtb0I",
+    "hrDSYSEOLd0",
+    "5yLDmZ-Faow",
+    "4Him-dPaGe4"
+  ],
+  "batch_status": "complete",
+  "verified_on": "2026-10-27"
+}

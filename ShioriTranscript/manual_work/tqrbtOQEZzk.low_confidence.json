@@ -1,0 +1,514 @@
+[
+  {
+    "source_draft_row": 1,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "foreign foreign thank you foreign foreign foreign",
+      "actually": "Foreign. Thank you. Foreign."
+    }
+  },
+  {
+    "source_draft_row": 4,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh my good God what is happening I I just started okay okay guys goodbye Rider two wanking model who that boy",
+      "actually": "I just started. Goodbye Rider two wanking model who that boy."
+    }
+  },
+  {
+    "source_draft_row": 5,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "along with Christians or two I forgot the controls Sana Khan",
+      "actually": "Along with Christians or two. Sana Khan."
+    }
+  },
+  {
+    "source_draft_row": 7,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "is it so loud by the way or is it just right you do excited by the hole there's a boss here is this uh too loud or just fine",
+      "actually": "Is the audio too loud or fine? You do excited by the hole. There is a boss."
+    }
+  },
+  {
+    "source_draft_row": 8,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "and pickle ride Chase and chain oh thank you Lawrence to me",
+      "actually": "Thank you, Pickle, Ride, Chase, Chain, and Lawrence to me."
+    }
+  },
+  {
+    "source_draft_row": 9,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh oh she's a sign what do you want to do",
+      "actually": "She is a sign. What do you want to do?"
+    }
+  },
+  {
+    "source_draft_row": 14,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "and I was gushing to chat I gotta jumped the chat I guess I jumped that I was gushing a chat and then they kept trying to lose the chain from there it didn't work so much",
+      "actually": "I dreamed of gushing to chat, then they kept trying to lose the chain from there. It did not work well."
+    }
+  },
+  {
+    "source_draft_row": 36,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I'm a bit of that's true I don't think it's like all once a week let's see I gotta get in the the Mojo",
+      "actually": "I am a bit of—that is true. I do not think it is all once a week. I need to find my rhythm."
+    }
+  },
+  {
+    "source_draft_row": 38,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh boy stop thinking my thing",
+      "actually": "Stop thinking my thing."
+    }
+  },
+  {
+    "source_draft_row": 45,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I feel Batman characters only VIP aloud no need to eat",
+      "actually": "!I feel Batman characters only VIP aloud no need to eat."
+    }
+  },
+  {
+    "source_draft_row": 48,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "time to stamp home Goodbye",
+      "actually": "Time to stamp home. Goodbye."
+    }
+  },
+  {
+    "source_draft_row": 56,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "hey I do not want to do the three hours that's done where I just walk right",
+      "actually": "I do not want the three-hour thing where I only walk."
+    }
+  },
+  {
+    "source_draft_row": 60,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I got the tangents maybe it's like an open VC but I'd be kind of bored",
+      "actually": "I went on tangents. An open voice chat might bore me."
+    }
+  },
+  {
+    "source_draft_row": 60,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "go to the ghost room okay but what about the the gems is it it's just a very percent low percentage",
+      "actually": "Go to the ghost room? What about gems? Is the chance very low?"
+    }
+  },
+  {
+    "source_draft_row": 67,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "it's all I can still appear the statue has a night",
+      "actually": "It can still appear. The statue has a night."
+    }
+  },
+  {
+    "source_draft_row": 67,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "that's a very low percentage that's lower than like any test score I've ever had",
+      "actually": "That is a low chance, lower than any test score I have had."
+    }
+  },
+  {
+    "source_draft_row": 82,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "do what you have to do red and the suffering",
+      "actually": "Red, do what you must. End the suffering."
+    }
+  },
+  {
+    "source_draft_row": 82,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I never got to talk to my marriage self that makes me sad map pack welcome",
+      "actually": "I never talked to my marriage self. That saddens me. Welcome, Map Pack."
+    }
+  },
+  {
+    "source_draft_row": 84,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "it's weird but even adults in cognizant I mean the doors the doors",
+      "actually": "Even adults in cognizant—I mean the doors."
+    }
+  },
+  {
+    "source_draft_row": 84,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "they seem like they're sort of aware",
+      "actually": "They seem aware."
+    }
+  },
+  {
+    "source_draft_row": 94,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "uh deception the jumps are only a new game plus oh thank you trash man",
+      "actually": "Gems are only in New Game Plus? Thank you, Trash Man."
+    }
+  },
+  {
+    "source_draft_row": 99,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "it's an end game thing is it possibly for other endings pictures uh gems are not energy it's just gacha that sucks",
+      "actually": "An endgame thing? Other endings? Gems are gacha, not energy? That is unfortunate."
+    }
+  },
+  {
+    "source_draft_row": 99,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "let me drink some water they don't have anything else to say man give me my dialogue drinking water you accept your rule I actually wanted to do a skit like that",
+      "actually": "I will drink water. Give me dialogue. Drinking water, you accept your rule. I wanted a skit like that."
+    }
+  },
+  {
+    "source_draft_row": 105,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "paprika right Peppa Pig Pepper because the older sister what was it cinnamon then",
+      "actually": "Paprika, Peppa Pig, Pepper, the older sister. What was Cinnamon?"
+    }
+  },
+  {
+    "source_draft_row": 138,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I think if he's going to hell with him",
+      "actually": "I think if he is going to hell with him."
+    }
+  },
+  {
+    "source_draft_row": 157,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh foreign playtime is over give me a checkpoint you thought you got away wait who's this brown Mitch",
+      "actually": "Playtime is over. Give me a checkpoint. You thought you escaped. Who is this brown Mitch?"
+    }
+  },
+  {
+    "source_draft_row": 157,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "with no physical constraints",
+      "actually": "With no physical constraints."
+    }
+  },
+  {
+    "source_draft_row": 167,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "all right I need to shoot play it played safe oh play it seems probably not gonna do well uh plate please ah",
+      "actually": "I must play safely, though it may fail. Please."
+    }
+  },
+  {
+    "source_draft_row": 193,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "ugh come on I see the knives are you are you sure too bad the evil still",
+      "actually": "I see knives. Are you sure? Too bad the evil still."
+    }
+  },
+  {
+    "source_draft_row": 202,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh wait that's a bandana",
+      "actually": "It is a bandana."
+    }
+  },
+  {
+    "source_draft_row": 202,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "control me like you have what is going on what is this look forever but she already sounds like a good alternative oh there I go oh you if you had such she screams her okay Sandra come at me",
+      "actually": "Control me like you have. What is happening? Living forever with Shiori sounds good. There I go. Sandra, come at me."
+    }
+  },
+  {
+    "source_draft_row": 205,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "crap man does not want to be here the dinosaur",
+      "actually": "Crap man does not want to be here. The dinosaur."
+    }
+  },
+  {
+    "source_draft_row": 213,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "still interact your journey is almost over now you want to see which case of Eternity I think gates of eternity",
+      "actually": "Your journey nears its end. Want to see the gates of eternity, I think?"
+    }
+  },
+  {
+    "source_draft_row": 214,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "micro stuffed animals",
+      "actually": "Micro stuffed animals."
+    }
+  },
+  {
+    "source_draft_row": 215,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "event bar great good luck thanks",
+      "actually": "Event bar. Great. Good luck. Thank you."
+    }
+  },
+  {
+    "source_draft_row": 235,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "why would I don't even destroy him anymore right hi can we leave a comments of you it makes you a happy frog",
+      "actually": "Must I destroy him anymore? Can we leave a comments of you? It makes you happy."
+    }
+  },
+  {
+    "source_draft_row": 235,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I I don't he's the only he's the only friend I have here besides save point Cottage",
+      "actually": "He is my only friend here besides save point Cottage."
+    }
+  },
+  {
+    "source_draft_row": 237,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I don't wanna I already destroy the buzz no I don't wanna if this is a winner he's lying to you it's up to you",
+      "actually": "I do not want to. I already destroyed the buzz. If this is a winner, he is lying. It is up to you."
+    }
+  },
+  {
+    "source_draft_row": 237,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "no I'm gonna see what's here first I'm gonna I'm gonna not listen to the backseater for once no I don't wanna he's evil",
+      "actually": "I will look first and ignore the backseater for once. I do not want to. He is evil?"
+    }
+  },
+  {
+    "source_draft_row": 249,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "sometimes we would meet you Brad most days it was fine but some days it killed",
+      "actually": "Sometimes we would meet you Brad. Most days were fine, but some days it killed."
+    }
+  },
+  {
+    "source_draft_row": 260,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I just want to experiment on one person",
+      "actually": "I just want to experiment on one person."
+    }
+  },
+  {
+    "source_draft_row": 298,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "then good green green uh uh I don't always say the fabric is super great breaking red is red",
+      "actually": "I do not always say the fabric is super great. Breaking red is red."
+    }
+  },
+  {
+    "source_draft_row": 304,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "hello you're awake red gnome what",
+      "actually": "Hello, you are awake. Red gnome? What?"
+    }
+  },
+  {
+    "source_draft_row": 310,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh Tyson and uh let me look Jim Dyson and Jim the sugar what is What is the shrugger oh he's sorry the shrugger down foreign",
+      "actually": "Tyson, Jim, Dyson, the Sugar. What is Shrugger? Sorry. Shrugger down."
+    }
+  },
+  {
+    "source_draft_row": 310,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I admire you for going through this it wouldn't have felt right if there wasn't a physical reason for dying thank you for everything",
+      "actually": "I admire you for doing this. It would not feel right without a physical reason for dying. Thank you for everything."
+    }
+  },
+  {
+    "source_draft_row": 310,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "do you want to save it yeah I might as well uh where should I save Cottage I think Cottage",
+      "actually": "Want to save? Yes. Which slot? Perhaps Cottage."
+    }
+  },
+  {
+    "source_draft_row": 315,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "blow up",
+      "actually": "Blow up."
+    }
+  },
+  {
+    "source_draft_row": 316,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "sometimes oh it's not as far to chew",
+      "actually": "Sometimes. It is not as far to chew."
+    }
+  },
+  {
+    "source_draft_row": 347,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "the lamp's gone oh no I hate to finally see you",
+      "actually": "The lamp vanished? I hate to finally see you."
+    }
+  },
+  {
+    "source_draft_row": 353,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh the characters are nice although I have to admit I don't really feel attached to most of them for example purple hair girl fish stew like it's nothing",
+      "actually": "I like the characters but feel little attachment to most. Purple-haired girl, Fish, Stew: little."
+    }
+  },
+  {
+    "source_draft_row": 356,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I think we saved over the place that it would have a three hour zastudan I don't really want to go over there for to be honest",
+      "actually": "I think we overwrote the three-hour Zastudan slot. I do not want to go there."
+    }
+  },
+  {
+    "source_draft_row": 359,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "da da da da da deflecting test",
+      "actually": "Deflecting test."
+    }
+  },
+  {
+    "source_draft_row": 369,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "you still have a long time left it's some after that",
+      "actually": "You have much time left. It is some after that."
+    }
+  },
+  {
+    "source_draft_row": 372,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "it's not a game's over at my bed like she had a game over",
+      "actually": "It is not a game's over at my bed like she had a game over."
+    }
+  },
+  {
+    "source_draft_row": 372,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "hey that's a new way a new ending another ending",
+      "actually": "Another ending."
+    }
+  },
+  {
+    "source_draft_row": 375,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "right pickle thank you the two options two optional bosses the other is New Game Plus both are harder than for",
+      "actually": "Two optional bosses, one in New Game Plus; both are harder than for."
+    }
+  },
+  {
+    "source_draft_row": 378,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "she she oh the yeah a decision thank you kairon",
+      "actually": "She. The. A decision. Thank you, Kairon."
+    }
+  },
+  {
+    "source_draft_row": 378,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I thought you were free gotta make a proper Shiori",
+      "actually": "I thought you were free. Must make a proper Shiori."
+    }
+  },
+  {
+    "source_draft_row": 386,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "really quick is this the pacifist one deflection tutorial oh okay okay",
+      "actually": "Is this pacifist Frog? Deflection tutorial. Understood."
+    }
+  },
+  {
+    "source_draft_row": 386,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "uh you said I think someone said Dove gnomes Dev gnomes uh what about who is tennis tennis cat postmortem I don't even remember you uh Dev cat Dev catch gnomes sorry I think you said that gnomes",
+      "actually": "Dove Gnomes? Dev Gnomes? Tennis Cat? Postmortem? I do not remember. Dev Cat, Dev Catch, Gnomes? Perhaps Dev Gnomes."
+    }
+  },
+  {
+    "source_draft_row": 396,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "make my oh yeah Tennis is just like real badminton",
+      "actually": "It is like real badminton."
+    }
+  },
+  {
+    "source_draft_row": 397,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh Sam you of a okay let's go all right all right is there a way is there like a some sort of uh like like they hear they let you hear the music because there's there's that bopping beat the electrical the electro goes Light Warrior oh yeah oh fine that's fine",
+      "actually": "Sam, you of a—can we listen to the music? That electrical Electro Light Warrior beat."
+    }
+  },
+  {
+    "source_draft_row": 403,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "I hope that you had fun and everything is okay so is there really no way to have the songs in the gimbal",
+      "actually": "I hope you enjoyed it. Can we not listen to songs in-game?"
+    }
+  },
+  {
+    "source_draft_row": 403,
+    "reason": "Excluded from SFT: ambiguous ASR or unresolved text; do not invent meaning",
+    "sample": {
+      "raw": "oh man no songs race to save never question battles Christian battles wait wait wait wait wait oh wait no no I met I met my own battles oh man okay okay",
+      "actually": "No songs. Question battles? Christian battles? No, I meant my own battles."
+    }
+  }
+]

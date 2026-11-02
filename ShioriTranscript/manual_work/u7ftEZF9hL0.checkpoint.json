@@ -1,0 +1,12 @@
+{
+  "file": "u7ftEZF9hL0",
+  "status": "complete_archived",
+  "source_read_through_line": 2776,
+  "authored_anchors": 405,
+  "last_anchor": "Bye-bye",
+  "originals_moved": true,
+  "source_sha256": "fbdf16f2169651914630084a9cd1f35f3d4841df923634165e9ab1bcc35f64fa",
+  "full_source_coverage_verified": true,
+  "reviewed_records": 475,
+  "low_confidence_contexts": 50
+}
