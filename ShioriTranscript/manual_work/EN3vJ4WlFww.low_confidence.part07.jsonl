@@ -1,0 +1,9 @@
+{"raw":"kaen right","reason":"The short name or form of address is uncertain.","source_segment_start":662,"source_segment_end":662}
+{"raw":"o doc","reason":"The player name is not clear enough to normalize.","source_segment_start":663,"source_segment_end":663}
+{"raw":"shaie shaie is ready to a Shan your your Shen is this is this sha actually shaie sha Sheen shaie Shan","reason":"The repeated player name is too corrupted to restore confidently.","source_segment_start":676,"source_segment_end":678}
+{"raw":"you're pickle one","reason":"The phrase may be a player nickname or a recognition error.","source_segment_start":692,"source_segment_end":693}
+{"raw":"you guys technically get killed you left it","reason":"The action and referent are unclear in this fragment.","source_segment_start":703,"source_segment_end":705}
+{"raw":"Al G there I'm try","reason":"The name and following words are corrupted.","source_segment_start":728,"source_segment_end":730}
+{"raw":"probably fuckups Mommy Mommy","reason":"The phrase is heavily corrupted and its intended wording is uncertain.","source_segment_start":745,"source_segment_end":748}
+{"raw":"I'm a skill the mountain oh he I've already skilled the mountain","reason":"The verb phrase is not intelligible enough to normalize.","source_segment_start":749,"source_segment_end":751}
+{"raw":"a good braw","reason":"The final noun is unclear.","source_segment_start":759,"source_segment_end":761}
