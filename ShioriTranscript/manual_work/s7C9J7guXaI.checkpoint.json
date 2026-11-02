@@ -7,6 +7,8 @@
   "originals_moved": false,
   "source_sha256": "ef0e2310b4e7b1bf21377e00a7218f3d1fa272b572d4188620ed50668065e74f",
   "remaining_normalized_characters": 0,
-  "next_action": "All 257 draft rows have manual semantic decisions. Next: manually segment every accepted/recovered utterance into sentence-level raw/actually pairs, apply only confirmed raw ASR fixes, separate unresolved LOW material, validate the full JSONL, then move the original TXT and JSON byte-for-byte from crawler_en to raw.",
-  "reviewed_through_draft_row": 257
+  "next_action": "Continue manual segmentation from draft row 21, preserving only supported recoveries and marking uncertain content LOW. Do not create clean or move originals until all 257 rows are segmented and final coverage/schema checks pass.",
+  "reviewed_through_draft_row": 257,
+  "segmented_through_draft_row": 20,
+  "segmented_part01_records": 66
 }
