@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 411,
+  "draft_rows": 478,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 55,
+  "low_confidence_fragments": 70,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 927 onward. Segment 927 is music and segments 928-930 are isolated LOW; continue with the speech from segment 931.",
-  "draft_source_segments_through": 926
+  "next_action": "Continue manual draft grouping from source segment 1121 onward. Source transcript coverage is not yet complete; keep unclear names and cut-off fragments in LOW.",
+  "draft_source_segments_through": 1120
 }
