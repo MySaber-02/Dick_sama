@@ -1,0 +1,12 @@
+{"raw":"hello like see how sa","reason":"字幕中该短语识别残缺，无法可靠恢复。","source_segment_start":2302,"source_segment_end":2302}
+{"raw":"325","reason":"孤立数字缺少上下文，无法确认其指代。","source_segment_start":2310,"source_segment_end":2310}
+{"raw":"yeah is I guess theing not satisfy what","reason":"语句识别严重损坏，无法可靠恢复。","source_segment_start":2312,"source_segment_end":2313}
+{"raw":"garbage May","reason":"该短语可能为识别错误，无法确认完整表达。","source_segment_start":2329,"source_segment_end":2329}
+{"raw":"W hold on","reason":"该片段可能是称呼或识别噪声，缺少可靠上下文。","source_segment_start":2338,"source_segment_end":2338}
+{"raw":"okay brain out did I","reason":"短语语义不完整，无法可靠恢复。","source_segment_start":2340,"source_segment_end":2341}
+{"raw":"did you","reason":"字幕在疑问句开头处中断，缺少后续内容。","source_segment_start":2346,"source_segment_end":2346}
+{"raw":"do y","reason":"孤立片段无法确认是饮料名称还是ASR残缺。","source_segment_start":2348,"source_segment_end":2348}
+{"raw":"C","reason":"源字幕中的孤立字母/缩写无法确认，未擅自扩写。","source_segment_start":2389,"source_segment_end":2389}
+{"raw":"12 my birthday y newst","reason":"数字与后续词语的关系无法确认，不能强行整理。","source_segment_start":2394,"source_segment_end":2396}
+{"raw":"sare thank","reason":"短语识别不清，无法确认说话内容。","source_segment_start":2402,"source_segment_end":2402}
+{"raw":"oh","reason":"视频结尾孤立语气词，缺少可判断的语义内容。","source_segment_start":2427,"source_segment_end":2427}
