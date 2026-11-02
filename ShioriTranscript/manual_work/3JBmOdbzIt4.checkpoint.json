@@ -1,13 +1,14 @@
 {
   "video_id": "3JBmOdbzIt4",
-  "status": "partial_manual_draft_in_progress",
+  "status": "full_source_read_draft_complete_pending_semantic_review_and_segmentation",
   "source_segments": 2428,
   "source_txt_sha": "a66eb9b0da0cf4c2b12861a08071957762dd444e",
   "source_json_sha": "83005f39676280a5180884d105fc7bd7ce0ded6c",
-  "source_read_through_segment": 780,
-  "draft_rows": 50,
-  "full_source_coverage_verified": false,
+  "source_read_through_segment": 2428,
+  "draft_rows": 133,
+  "full_source_coverage_verified": true,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue reading and manually grouping source segments 781-2428. Do not create clean or move the original TXT/JSON until the full transcript has been read, all source rows have semantic decisions, uncertain fragments are separated, and the complete JSONL passes validation."
+  "next_action": "Review the 123 draft rows one by one, preserve supported content, mark unresolved portions LOW, manually segment accepted/recovered material into mostly single-sentence raw/actually pairs, validate the full JSONL, and only then archive the source TXT/JSON byte-identically.",
+  "semantic_review_through_draft_row": 0
 }
