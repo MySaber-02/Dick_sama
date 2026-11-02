@@ -10,5 +10,6 @@
   "clean_created": false,
   "originals_moved": false,
   "next_action": "Review the 123 draft rows one by one, preserve supported content, mark unresolved portions LOW, manually segment accepted/recovered material into mostly single-sentence raw/actually pairs, validate the full JSONL, and only then archive the source TXT/JSON byte-identically.",
-  "semantic_review_through_draft_row": 0
+  "semantic_review_through_draft_row": 0,
+  "draft_low_rows": 9
 }
