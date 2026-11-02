@@ -1,0 +1,5 @@
+{"raw":"it's probably the Mei","reason":"专名/人称识别不确定，无法确认是人名还是ASR错误。","source_segment_start":184,"source_segment_end":184}
+{"raw":"go go GRE what is it greget is that the weird word","reason":"该片段中名称和词语识别不清，无法可靠恢复。","source_segment_start":185,"source_segment_end":186}
+{"raw":"Fella we","reason":"句首片段语义不完整，无法确认原话。","source_segment_start":229,"source_segment_end":229}
+{"raw":"who's lasting","reason":"孤立问句缺少明确语境，无法确认所指。","source_segment_start":212,"source_segment_end":212}
+{"raw":"I need to watch your end story","reason":"该表达的具体指代不明确，无法确认是游戏结算还是其他内容。","source_segment_start":315,"source_segment_end":315}
