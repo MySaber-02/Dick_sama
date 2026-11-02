@@ -1,1 +1,1 @@
-3JBmOdbzIt4：全文2428个字幕片段已阅读，人工整理成133条合并草稿，合并文件为 `3JBmOdbzIt4.draft.jsonl`。其中9条草稿暂标为 LOW；目前还没有完成逐条语义终审和单句切分，也没有创建 clean。原始 TXT/JSON 仍留在 crawler_en。下一步逐条审核133条草稿，恢复可靠片段、隔离不确定内容，再按单句为主切分为正式 raw/actually 配对。
+3JBmOdbzIt4：全文2428个原始字幕片段已阅读，整理为133条草稿。已完成第1–80条草稿的人工语义复核与单句切分，暂存320条raw/actually配对，分布在 segmented.part01–part04.jsonl。仍有部分低置信度残片需要单独记录；第81–133条尚待处理。尚未创建正式clean，原始TXT/JSON仍留在crawler_en。下一步从草稿第81条继续。
