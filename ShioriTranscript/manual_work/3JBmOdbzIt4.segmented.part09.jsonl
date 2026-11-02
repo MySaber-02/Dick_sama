@@ -21,16 +21,16 @@
 {"raw":"I didn't say anything","actually":"I did not say anything."}
 {"raw":"I'm going to need someone to help with the calendar then I'll help","actually":"I will need someone to help with the calendar; then I will help."}
 {"raw":"thank you I'll prepare the tray","actually":"Thank you. I will prepare the tray."}
-{"raw":"number seven and nine are ready","actually":"Numbers seven and nine are ready."}
+{"raw":"working on number seven nine is ready","actually":"I am working on number seven. Number nine is ready."}
 {"raw":"check that number nine is correct","actually":"Check that number nine is correct."}
 {"raw":"number seven is a light Splash soda","actually":"Number seven is a light Splash soda."}
 {"raw":"number nine is a regular hamburger with three ketchups one lettuce two mayonnaise","actually":"Number nine is a regular hamburger with three ketchups, one lettuce, and two mayonnaise."}
 {"raw":"where's the lettuce never mind I got it","actually":"Where is the lettuce? Never mind; I found it."}
-{"raw":"regular hamburger this one is number seven regular two lettuce","actually":"This is a regular hamburger for number seven, with two lettuce."}
-{"raw":"number seventeen is ready","actually":"Number seventeen is ready."}
-{"raw":"number 17 wait what I thought that was ready","actually":"Number seventeen? Wait, I thought that was ready."}
+{"raw":"regular hamburger regular hamburger this one is number seven regular two lettuce","actually":"A regular hamburger. This one is number seven, a regular burger with two lettuce."}
+{"raw":"number seventeen is ready to go","actually":"Number seventeen is ready to go."}
+{"raw":"number 17 wait wait wait what that's what I thought","actually":"Number seventeen? Wait, wait, wait. What? I thought that was ready."}
 {"raw":"hello I'm taking it","actually":"Hello, I am taking it."}
-{"raw":"number 17 is ready","actually":"Number seventeen is ready."}
+{"raw":"number 17 is ready 17's going out","actually":"Number seventeen is ready; it is going out."}
 {"raw":"number two is a regular patty with two ketchups and one mayonnaise Y Berry","actually":"Number two is a regular patty with two ketchups, one mayonnaise, and a Y Berry."}
 {"raw":"seven is waiting","actually":"Number seven is waiting."}
 {"raw":"why is another order empty","actually":"Why is another order incomplete?"}
@@ -82,7 +82,7 @@
 {"raw":"by the way was there something at the truck I thought I ordered something","actually":"Was there something at the truck? I thought I ordered something."}
 {"raw":"see if there's any tips that we can pick up","actually":"See whether there are any tips we can collect."}
 {"raw":"I unloaded the truck earlier","actually":"I unloaded the truck earlier."}
-{"raw":"oh thank you thank you you already got the cups then","actually":"Oh, thank you. You already got the cups, then."}
+{"raw":"oh thank you thank you you already got the cups then yeah","actually":"Oh, thank you. You already got the cups, then."}
 {"raw":"they're just on the counter here","actually":"They are just on the counter here."}
 {"raw":"okay I will load thank you","actually":"All right, I will load them. Thank you."}
 {"raw":"this burger good to go","actually":"Is this burger ready to go?"}
@@ -103,15 +103,15 @@
 {"raw":"regular burger three ketchups one mayo","actually":"A regular burger with three ketchups and one mayonnaise."}
 {"raw":"the ketchup's empty","actually":"The ketchup is empty."}
 {"raw":"there should be ketchup in the fridge unless there's no more","actually":"There should be ketchup in the fridge, unless we are out."}
-{"raw":"I'll get more","actually":"I will get more."}
-{"raw":"it's three lettuce","actually":"It needs three lettuce."}
+{"raw":"all right we need I'm going to get more I'm going to get more","actually":"All right, we need more. I am going to get more. I am going to get more."}
+{"raw":"okay it's three lettuce right yeah","actually":"All right, it needs three lettuce, right? Yes."}
 {"raw":"slow day maybe because we got caught peeping yesterday","actually":"It is a slow day, perhaps because we were caught peeping yesterday."}
 {"raw":"last customer coming in","actually":"The last customer is coming in."}
 {"raw":"one two three don't forget the top bun","actually":"One, two, three. Do not forget the top bun."}
 {"raw":"we'll give this one an extra Y Berry","actually":"We will give this one an extra Y Berry."}
 {"raw":"go ahead and deliver it","actually":"Go ahead and deliver it."}
 {"raw":"I'm doing my Y Berry number five","actually":"I am making my Y Berry for number five."}
-{"raw":"I'll go help with cleaning","actually":"I will go help with the cleaning."}
+{"raw":"I'll go help with clean ah","actually":"I will go help with the cleaning."}
 {"raw":"it seems like the buns are not in the right order","actually":"It seems that the buns are not in the right order."}
 {"raw":"there's an order for the buns","actually":"There is a specific order for the buns."}
 {"raw":"I'm taking this home this is mine now","actually":"I am taking this home; it is mine now."}
@@ -119,12 +119,12 @@
 {"raw":"we're closed now","actually":"We are closed now."}
 {"raw":"do not peep if he goes to the restroom no more peeping hold yourself back","actually":"Do not peep on him if he goes to the restroom. No more peeping; restrain yourself."}
 {"raw":"okay look satisfied","actually":"All right, look satisfied."}
-{"raw":"we're a family-friendly business","actually":"We are a family-friendly business."}
+{"raw":"yeah we're a family-friendly business","actually":"Yes, we are a family-friendly business."}
 {"raw":"my foot is on the table you my foot on the table","actually":"My foot is on the table. Your foot is on the table."}
 {"raw":"we worked hard today","actually":"We worked hard today."}
 {"raw":"pickles give the customer pickles","actually":"Pickles; give the customer pickles."}
-{"raw":"well good work our business is flourishing","actually":"Well done; our business is flourishing."}
-{"raw":"anything to promote like a certain birthday","actually":"Is there anything to promote, such as a birthday?"}
+{"raw":"yeah well good work yeah our business is flourishing yeah it really is that's good","actually":"Yes, well done. Our business is flourishing; it really is. That is good."}
+{"raw":"yeah all right anything to promote like a certain birthday","actually":"Yes, all right. Is there anything to promote, such as a birthday?"}
 {"raw":"we're going to be having our very first birthday live formal birthday party night concert","actually":"We are having our very first birthday live formal party-night concert."}
 {"raw":"it's going to be happening on February 1st at 7 p.m. PT","actually":"It will take place on February first at seven p.m. Pacific Time."}
 {"raw":"my birthday yes and also on the 12th at 12 p.m.","actually":"My birthday is also on the twelfth at noon."}
@@ -137,9 +137,9 @@
 {"raw":"dang so quick","actually":"That was very quick."}
 {"raw":"that's us we got the Tomodachi business here too","actually":"That is us; we have the Tomodachi business here too."}
 {"raw":"Advent Eateries where we eat everything as Advent","actually":"Advent Eateries, where we eat everything as Advent."}
-{"raw":"why is there a truck truck it's okay don't worry about it","actually":"Why is there a truck? It is okay; do not worry about it."}
-{"raw":"don't forget to buy Biboo and my merchandise","actually":"Do not forget to buy Biboo's and my merchandise."}
+{"raw":"why is there a truck truck it's it's okay don't worry about it don't worry about it","actually":"Why is there a truck? It is okay; do not worry about it. Do not worry about it."}
+{"raw":"don't forget to buy Biboo and I merchandise merchandise","actually":"Do not forget to buy Biboo's and my merchandise."}
 {"raw":"get your edgy little coat or is it a sweatshirt what is it actually called","actually":"Get your edgy coat—or is it a sweatshirt? What is it actually called?"}
 {"raw":"it's a jacket a jacket with a hood so it's a hoodie","actually":"It is a jacket with a hood, so it is a hoodie."}
-{"raw":"there you go get the little cool hoodie the tomato keychain and for me a cool hat and a meme-tastic PNG","actually":"There you go. Get the cool hoodie, the tomato keychain, and my cool hat and meme-tastic PNG."}
-{"raw":"thank you all for coming out Advent darling bye-bye bye","actually":"Thank you all for coming. Advent, darling; goodbye."}
+{"raw":"there you go yeah I get the little cool hoodie the tomato key chain and for me I got a cool hat and like a meme tastic PNG","actually":"There you go. Get the cool hoodie, the tomato keychain, and my cool hat and meme-tastic PNG."}
+{"raw":"thank you all for coming out Adventure darling bye-bye bye","actually":"Thank you all for coming. Adventure, darling; goodbye."}
