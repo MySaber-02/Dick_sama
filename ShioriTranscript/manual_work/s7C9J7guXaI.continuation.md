@@ -1,1 +1,1 @@
-第二份 s7C9J7guXaI：257 条草稿的逐条语义审核决定现已覆盖至第257条。此前1–220条的审核与 recover/fix 决定保留，221–256条补充 actually 决定，第249条按上下文补全为两分钟路线指令，第257条仍为 LOW。当前还不能进入 clean：下一步必须逐条人工切分已接受与 recover 片段，按单句为主建立 raw/actually 对齐；复核 raw 修正；将无法可靠恢复的内容单独留在低置信度记录；完成全量结构和覆盖核验后，才把原始 TXT/JSON 从 crawler_en 移至 raw，保持原始字节不变。3JBmOdbzIt4 尚未开始。
+第二份 s7C9J7guXaI：257 条草稿语义审核决定已覆盖至第257条。现已完成人工切分第1–20条草稿，暂存66条 raw/actually 配对于 `s7C9J7guXaI.segmented.part01.jsonl`，仅属于 manual_work 中间结果，不是正式 clean。下一步从第21条继续切分；全部257条完成后再统一终审、校验并归档原始 TXT/JSON。第257条仍为 LOW。3JBmOdbzIt4 尚未开始。
