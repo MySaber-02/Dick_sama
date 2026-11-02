@@ -1,9 +1,8 @@
 {
   "scope": "全部剩余A范围文件；B组保持原归属；不以10份为停止范围",
-  "remaining_A": 460,
-  "current_file": "3JBmOdbzIt4",
+  "remaining_A": 459,
+  "current_file": "EN3vJ4WlFww",
   "remaining_files": [
-    "3JBmOdbzIt4",
     "EN3vJ4WlFww",
     "7seUd8nr6-8",
     "mcQ9PXGt38g",
@@ -464,12 +463,13 @@
     "8yBUROiu_ZU",
     "dcShhiwl82c"
   ],
-  "last_completed_file": "s7C9J7guXaI",
-  "last_completed_records": 991,
-  "last_completed_source_segments": 2484,
+  "last_completed_file": "3JBmOdbzIt4",
+  "last_completed_records": 1220,
+  "last_completed_source_segments": 2428,
   "last_completed_low_confidence_rows": 151,
   "last_completed_archive_sha": {
-    "txt": "52ad1965c0b112b322f097fa20a2b0c1daf80262",
-    "json": "fd31a7290f724e5ac7b97ff67da325fd51a6645b"
-  }
+    "txt": "a66eb9b0da0cf4c2b12861a08071957762dd444e",
+    "json": "83005f39676280a5180884d105fc7bd7ce0ded6c"
+  },
+  "last_completed_low_confidence": 90
 }
