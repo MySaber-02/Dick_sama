@@ -1,17 +1,21 @@
 {
-  "status": "clean_created_pending_original_archive",
+  "status": "complete_archived",
   "source_read_through_line": 2484,
   "authored_anchors": 257,
   "last_anchor": "we got byebye",
   "full_source_coverage_verified": true,
-  "originals_moved": false,
+  "originals_moved": true,
   "source_sha256": "ef0e2310b4e7b1bf21377e00a7218f3d1fa272b572d4188620ed50668065e74f",
   "remaining_normalized_characters": 0,
-  "next_action": "Clean JSONL and low-confidence context have been created and schema-validated. Copy the original TXT and JSON from crawler_en to raw, verify the new Git blob SHAs exactly match the source SHAs, then delete the crawler_en originals and update the queue to 3JBmOdbzIt4.",
+  "next_action": "Start the next queued file, 3JBmOdbzIt4. Do not alter the completed s7C9J7guXaI clean or raw files unless a specific review issue is found.",
   "reviewed_through_draft_row": 257,
   "segmented_through_draft_row": 257,
   "segmented_part01_records": 66,
   "segmented_records": 991,
   "low_confidence_rows": 151,
-  "clean_records": 991
+  "clean_records": 991,
+  "archived_txt_path": "ShioriTranscript/raw/s7C9J7guXaI.txt",
+  "archived_json_path": "ShioriTranscript/raw/s7C9J7guXaI.json",
+  "archived_txt_sha": "52ad1965c0b112b322f097fa20a2b0c1daf80262",
+  "archived_json_sha": "fd31a7290f724e5ac7b97ff67da325fd51a6645b"
 }
