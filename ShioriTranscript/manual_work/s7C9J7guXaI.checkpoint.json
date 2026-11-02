@@ -1,5 +1,5 @@
 {
-  "status": "complete_semantic_review_pending_segmentation_and_archive",
+  "status": "clean_created_pending_original_archive",
   "source_read_through_line": 2484,
   "authored_anchors": 257,
   "last_anchor": "we got byebye",
@@ -7,8 +7,11 @@
   "originals_moved": false,
   "source_sha256": "ef0e2310b4e7b1bf21377e00a7218f3d1fa272b572d4188620ed50668065e74f",
   "remaining_normalized_characters": 0,
-  "next_action": "Continue manual segmentation from draft row 21, preserving only supported recoveries and marking uncertain content LOW. Do not create clean or move originals until all 257 rows are segmented and final coverage/schema checks pass.",
+  "next_action": "Clean JSONL and low-confidence context have been created and schema-validated. Copy the original TXT and JSON from crawler_en to raw, verify the new Git blob SHAs exactly match the source SHAs, then delete the crawler_en originals and update the queue to 3JBmOdbzIt4.",
   "reviewed_through_draft_row": 257,
-  "segmented_through_draft_row": 20,
-  "segmented_part01_records": 66
+  "segmented_through_draft_row": 257,
+  "segmented_part01_records": 66,
+  "segmented_records": 991,
+  "low_confidence_rows": 151,
+  "clean_records": 991
 }
