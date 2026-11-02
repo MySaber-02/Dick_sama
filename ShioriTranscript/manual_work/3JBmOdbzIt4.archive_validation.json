@@ -1,0 +1,20 @@
+{
+  "video_id": "3JBmOdbzIt4",
+  "source_segments": 2428,
+  "draft_rows": 133,
+  "source_transcript_read_complete": true,
+  "draft_row_coverage_verified": true,
+  "full_source_segment_mapping_verified": false,
+  "clean_records": 1220,
+  "clean_schema": "exactly raw and actually per JSONL record",
+  "clean_validation": "passed",
+  "unique_raw_count": 1220,
+  "duplicate_raw_count": 0,
+  "low_confidence_fragments": 90,
+  "low_confidence_file": "ShioriTranscript/manual_work/3JBmOdbzIt4.low_confidence.jsonl",
+  "source_txt_sha": "a66eb9b0da0cf4c2b12861a08071957762dd444e",
+  "archived_txt_sha": "a66eb9b0da0cf4c2b12861a08071957762dd444e",
+  "source_json_sha": "83005f39676280a5180884d105fc7bd7ce0ded6c",
+  "archived_json_sha": "83005f39676280a5180884d105fc7bd7ce0ded6c",
+  "originals_moved_from_crawler_en": true
+}
