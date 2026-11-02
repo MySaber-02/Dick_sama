@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 182,
+  "draft_rows": 245,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 26,
+  "low_confidence_fragments": 38,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 481 onward. The 340-480 source span is valid transcript, not a repeated block; uncertain fragments are listed individually in LOW.",
-  "draft_source_segments_through": 480
+  "next_action": "Continue manual draft grouping from source segment 641 onward. Drafts currently cover the opening source material through segment 640, except isolated LOW fragments; the source transcript has not yet been fully drafted or cleaned.",
+  "draft_source_segments_through": 640
 }
