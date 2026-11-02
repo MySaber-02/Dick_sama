@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 62,
+  "draft_rows": 64,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 16,
+  "low_confidence_fragments": 17,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 321 onward. Do not create clean or move original files until the full 2423-segment transcript is drafted, reviewed, segmented, and validated.",
-  "draft_source_segments_through": 320
+  "next_action": "Continue manual draft grouping from source segment 481 onward; source segments 340-480 are isolated in LOW because the same ASR sequence repeats in a loop and its authenticity is uncertain.",
+  "draft_source_segments_through": 339
 }
