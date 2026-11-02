@@ -1,0 +1,8 @@
+{"raw":"mix it order","reason":"该片段词序和语义不清，无法可靠还原。","source_row":41}
+{"raw":"like we're watching going on","reason":"语句结构残缺，无法确认表达内容。","source_row":42}
+{"raw":"I will truck","reason":"该短语识别不清，无法确定说话意图。","source_row":43}
+{"raw":"that's my flipping","reason":"句子在名词前中断，无法确认完整内容。","source_row":45}
+{"raw":"it sounded like panicking no it's my you know you're critical","reason":"该片段存在多处识别残缺，无法可靠恢复。","source_row":45}
+{"raw":"yes is it faster","reason":"上下文中的指代和问句结构不清楚。","source_row":46}
+{"raw":"your orders now how can we go to the computer after that","reason":"该句识别残缺，无法确定具体指令。","source_row":49}
+{"raw":"Hong Kong who's Hong Kong it's just the ketchup people try to catch up with","reason":"专名与后续词语关系不明，无法确定是否为双关或识别错误。","source_row":50}
