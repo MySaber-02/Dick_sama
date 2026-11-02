@@ -1,0 +1,5 @@
+{"raw":"my beautiful sexy F","reason":"The ASR fragment after 'sexy' is unclear and cannot be reliably restored.","source_segment_start":15,"source_segment_end":17}
+{"raw":"today I am","reason":"The source sentence is cut off before the predicate.","source_segment_start":18,"source_segment_end":18}
+{"raw":"maybe Media Tonic me","reason":"The company/name phrase is corrupted and cannot be confidently normalized.","source_segment_start":64,"source_segment_end":66}
+{"raw":"they're","reason":"The final source fragment is cut off mid-sentence.","source_segment_start":160,"source_segment_end":160}
+{"raw":"your fat ass is too fat in a good way","reason":"The source contains a potentially distorted insult/appearance remark; retain separately rather than risk changing its tone.","source_segment_start":293,"source_segment_end":294}
