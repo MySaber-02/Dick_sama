@@ -1,5 +1,5 @@
 {
-  "status": "complete_draft_pending_semantic_review",
+  "status": "complete_semantic_review_pending_segmentation_and_archive",
   "source_read_through_line": 2484,
   "authored_anchors": 257,
   "last_anchor": "we got byebye",
@@ -7,6 +7,6 @@
   "originals_moved": false,
   "source_sha256": "ef0e2310b4e7b1bf21377e00a7218f3d1fa272b572d4188620ed50668065e74f",
   "remaining_normalized_characters": 0,
-  "next_action": "Continue manual semantic review from draft row 221; compile only after all 257 rows are reviewed and manually segmented. Saved manual decisions are in s7C9J7guXaI.review_decisions.json.",
-  "reviewed_through_draft_row": 220
+  "next_action": "All 257 draft rows have manual semantic decisions. Next: manually segment every accepted/recovered utterance into sentence-level raw/actually pairs, apply only confirmed raw ASR fixes, separate unresolved LOW material, validate the full JSONL, then move the original TXT and JSON byte-for-byte from crawler_en to raw.",
+  "reviewed_through_draft_row": 257
 }
