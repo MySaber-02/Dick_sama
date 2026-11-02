@@ -1,1 +1,1 @@
-第三份文件 3JBmOdbzIt4 正在处理。原始 JSON 共2428个字幕片段；目前已人工阅读并分组至第780个片段，形成50条 manual_work 草稿记录（part01、part02、part03、part03b）。其中有部分片段标为 LOW 或待复核。全文尚未读完，未创建 clean，原始 TXT/JSON 仍留在 crawler_en。下一步从第781个字幕片段继续；只有全文阅读、逐句处理、低置信度分离和结构核验全部完成后才归档。
+3JBmOdbzIt4：全文2428个字幕片段已阅读，人工整理成123条合并草稿，合并文件为 `3JBmOdbzIt4.draft.jsonl`。其中若干行已标为 LOW；目前还没有完成逐条语义终审和单句切分，也没有创建 clean。原始 TXT/JSON 仍留在 crawler_en。下一步逐条审核123条草稿，恢复可靠片段、隔离不确定内容，再按单句为主切分为正式 raw/actually 配对。
