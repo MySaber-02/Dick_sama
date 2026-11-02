@@ -1,0 +1,90 @@
+{"raw":"double burgers in trouble","reason":"短语结构和说话意图不明确，无法确定是在描述双层汉堡的问题还是发出其他指令。其余可识别语句已单独恢复。","source_row":94,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oh that one","reason":"孤立指示语缺少可确认的指代对象，无法可靠还原。","source_row":96,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I just need the patty this here","reason":"该片段存在语音识别残缺，无法确定完整指令。","source_row":99,"source_segment_start":null,"source_segment_end":null}
+{"raw":"what Dad","reason":"开头称呼/词语识别不确定，未强行补写。","source_row":103,"source_segment_start":null,"source_segment_end":null}
+{"raw":"she came out here make a big","reason":"语句中断且关键动词/宾语无法确定，无法可靠恢复。","source_row":104,"source_segment_start":null,"source_segment_end":null}
+{"raw":"can I drop properly","reason":"语音识别片段语义不完整，无法确定具体动作。","source_row":106,"source_segment_start":null,"source_segment_end":null}
+{"raw":"the burger patties need to hurry up and eat faster","reason":"句子中的主语与动作明显可能存在识别错误，无法确认是在说顾客还是汉堡肉饼，未擅自修正。","source_row":109,"source_segment_start":null,"source_segment_end":null}
+{"raw":"maybe you just touched a hamburger with it","reason":"代词it所指对象无法从当前字幕可靠确认，动作关系不清楚。","source_row":112,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we have a hamburger and","reason":"源字幕在and处中断，缺少后续宾语或谓语，不能构成完整语义。","source_row":113,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oh thank we don't have enough for a double my way","reason":"该短语包含明显的识别残缺，无法确认具体措辞或说话意图。","source_row":115,"source_segment_start":null,"source_segment_end":null}
+{"raw":"and Tommy she's partying","reason":"人名与后续谓语关系不清楚，无法可靠确定说话内容。","source_row":116,"source_segment_start":null,"source_segment_end":null}
+{"raw":"her tummy","reason":"该词组在上下文中的语义不确定，不能确定是识别错误还是原话。","source_row":117,"source_segment_start":null,"source_segment_end":null}
+{"raw":"no no no we have a we have a we have a a","reason":"连续识别残片没有可恢复的完整语义。","source_row":117,"source_segment_start":null,"source_segment_end":null}
+{"raw":"wait 200 popularity what happened what we had ative 200 popularity all of a sudden why 100","reason":"数字和句子结构存在明显识别损坏，无法确定其具体表达。","source_row":118,"source_segment_start":null,"source_segment_end":null}
+{"raw":"he want drink he'll be fun","reason":"该片段语音识别损坏，无法确认完整表达；不以猜测补全。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"she's side she's side big side","reason":"该连续片段无法形成可靠语义，可能存在严重ASR错误。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we fell into","reason":"句子在介词后中断，无法确认后续表达。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"sare thank you","reason":"该短语识别不清，无法确认是说话内容还是ASR错误。","source_row":132,"source_segment_start":null,"source_segment_end":null}
+{"raw":"sometimes families are made in","reason":"句子在介词后中断，后续为音乐/噪声，无法恢复。","source_row":131,"source_segment_start":null,"source_segment_end":null}
+{"raw":"anyone have your bir","reason":"字幕被音乐打断，无法确定句子内容。","source_row":131,"source_segment_start":null,"source_segment_end":null}
+{"raw":"325","reason":"孤立数字缺少上下文，无法确认其指代或表达功能。","source_row":127,"source_segment_start":null,"source_segment_end":null}
+{"raw":"yeah is I guess theing not satisfy what","reason":"语句识别严重损坏，无法可靠恢复。","source_row":127,"source_segment_start":null,"source_segment_end":null}
+{"raw":"her belly is showing hello like see how sa","reason":"后半句识别残缺，无法确定具体表达。","source_row":127,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I will destroy her refill","reason":"该片段的动词和宾语关系不清，无法确认实际意图。","source_row":128,"source_segment_start":null,"source_segment_end":null}
+{"raw":"actually get three B no yeah no you know what yeah yeah okay yeah wow so so kind five","reason":"连续片段存在多处识别残缺，无法可靠恢复完整语义。","source_row":129,"source_segment_start":null,"source_segment_end":null}
+{"raw":"you can mess that uped and left we lost he got three workers","reason":"该句识别残缺且句间关系不明确，无法可靠还原。","source_row":130,"source_segment_start":null,"source_segment_end":null}
+{"raw":"wait from the leaves","reason":"该短语识别不清，无法确定其原意。","source_row":131,"source_segment_start":null,"source_segment_end":null}
+{"raw":"C","reason":"源字幕中的孤立字母/缩写无法确认，未擅自扩写。","source_row":132,"source_segment_start":null,"source_segment_end":null}
+{"raw":"take his if you guys want the you have it on your thing","reason":"句子存在多处残缺，指代和动作关系无法确认。","source_row":123,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Biboo did you put the top let me ready to go","reason":"字幕残缺，无法确定完整问句和后续表达。","source_row":123,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I need 1","reason":"孤立数字和前后句连接不明，无法确认表达。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"wrong time","reason":"该短语在字幕中缺少可确认的语义关系。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"maybe we're talk","reason":"语音识别残缺，无法确认说话内容。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Y Y B","reason":"饮料名称/字母组合识别不确定，无法可靠恢复。","source_row":124,"source_segment_start":null,"source_segment_end":null}
+{"raw":"hi the drink has what do you mean it's too","reason":"句子结构残缺，无法可靠还原。","source_row":126,"source_segment_start":null,"source_segment_end":null}
+{"raw":"W hold on","reason":"该片段可能是称呼或识别噪声，缺少可靠上下文。","source_row":129,"source_segment_start":null,"source_segment_end":null}
+{"raw":"okay brain out did I","reason":"该短语语义不完整，无法可靠恢复。","source_row":129,"source_segment_start":null,"source_segment_end":null}
+{"raw":"did you","reason":"字幕在疑问句开头处中断，缺少后续内容。","source_row":129,"source_segment_start":null,"source_segment_end":null}
+{"raw":"do y","reason":"孤立片段无法确认是饮料名称还是ASR残缺。","source_row":129,"source_segment_start":null,"source_segment_end":null}
+{"raw":"even though that guy","reason":"句子开头与后续指令的关系不清楚。","source_row":130,"source_segment_start":null,"source_segment_end":null}
+{"raw":"leaves pickles pick pickles GL","reason":"该片段存在明显识别错误，无法确定原始措辞。","source_row":131,"source_segment_start":null,"source_segment_end":null}
+{"raw":"12 my birthday y newst","reason":"数字与后续词语的关系无法确认，不能强行整理。","source_row":132,"source_segment_start":null,"source_segment_end":null}
+{"raw":"sare thank","reason":"短语识别不清，无法确认说话内容。","source_row":132,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oh","reason":"视频结尾孤立语气词，缺少可判断的语义内容。","source_row":133,"source_segment_start":null,"source_segment_end":null}
+{"raw":"hello like see how sa","reason":"字幕中该短语识别残缺，无法可靠恢复。","source_row":null,"source_segment_start":2302,"source_segment_end":2302}
+{"raw":"325","reason":"孤立数字缺少上下文，无法确认其指代。","source_row":null,"source_segment_start":2310,"source_segment_end":2310}
+{"raw":"yeah is I guess theing not satisfy what","reason":"语句识别严重损坏，无法可靠恢复。","source_row":null,"source_segment_start":2312,"source_segment_end":2313}
+{"raw":"garbage May","reason":"该短语可能为识别错误，无法确认完整表达。","source_row":null,"source_segment_start":2329,"source_segment_end":2329}
+{"raw":"W hold on","reason":"该片段可能是称呼或识别噪声，缺少可靠上下文。","source_row":null,"source_segment_start":2338,"source_segment_end":2338}
+{"raw":"okay brain out did I","reason":"短语语义不完整，无法可靠恢复。","source_row":null,"source_segment_start":2340,"source_segment_end":2341}
+{"raw":"did you","reason":"字幕在疑问句开头处中断，缺少后续内容。","source_row":null,"source_segment_start":2346,"source_segment_end":2346}
+{"raw":"do y","reason":"孤立片段无法确认是饮料名称还是ASR残缺。","source_row":null,"source_segment_start":2348,"source_segment_end":2348}
+{"raw":"C","reason":"源字幕中的孤立字母/缩写无法确认，未擅自扩写。","source_row":null,"source_segment_start":2389,"source_segment_end":2389}
+{"raw":"12 my birthday y newst","reason":"数字与后续词语的关系无法确认，不能强行整理。","source_row":null,"source_segment_start":2394,"source_segment_end":2396}
+{"raw":"sare thank","reason":"短语识别不清，无法确认说话内容。","source_row":null,"source_segment_start":2402,"source_segment_end":2402}
+{"raw":"oh","reason":"视频结尾孤立语气词，缺少可判断的语义内容。","source_row":null,"source_segment_start":2427,"source_segment_end":2427}
+{"raw":"mix it order","reason":"该片段词序和语义不清，无法可靠还原。","source_row":41,"source_segment_start":null,"source_segment_end":null}
+{"raw":"like we're watching going on","reason":"语句结构残缺，无法确认表达内容。","source_row":42,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I will truck","reason":"该短语识别不清，无法确定说话意图。","source_row":43,"source_segment_start":null,"source_segment_end":null}
+{"raw":"that's my flipping","reason":"句子在名词前中断，无法确认完整内容。","source_row":45,"source_segment_start":null,"source_segment_end":null}
+{"raw":"it sounded like panicking no it's my you know you're critical","reason":"该片段存在多处识别残缺，无法可靠恢复。","source_row":45,"source_segment_start":null,"source_segment_end":null}
+{"raw":"yes is it faster","reason":"上下文中的指代和问句结构不清楚。","source_row":46,"source_segment_start":null,"source_segment_end":null}
+{"raw":"your orders now how can we go to the computer after that","reason":"该句识别残缺，无法确定具体指令。","source_row":49,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Hong Kong who's Hong Kong it's just the ketchup people try to catch up with","reason":"专名与后续词语关系不明，无法确定是否为双关或识别错误。","source_row":50,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oh that guy looks like he's just here for autumn","reason":"“here for autumn”语义和专名不确定，无法确认原话。","source_row":51,"source_segment_start":null,"source_segment_end":null}
+{"raw":"regular burger okay I'll deliver it when we got our regular burger","reason":"后半句语序残缺，无法确认其完整指代。","source_row":51,"source_segment_start":null,"source_segment_end":null}
+{"raw":"why I'm putting stuff in the thing","reason":"问句与后续指令的连接不明，具体指代不清。","source_row":52,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I think it's just over","reason":"该片段缺少明确对象，无法确认“over”的指代。","source_row":53,"source_segment_start":null,"source_segment_end":null}
+{"raw":"maybe disarray yes","reason":"该短语可能是识别错误，无法可靠恢复。","source_row":53,"source_segment_start":null,"source_segment_end":null}
+{"raw":"come here what ready","reason":"短语结构残缺，无法确认具体说话意图。","source_row":53,"source_segment_start":null,"source_segment_end":null}
+{"raw":"the pixel","reason":"孤立词语缺少可靠上下文，无法确认指代。","source_row":53,"source_segment_start":null,"source_segment_end":null}
+{"raw":"what are we really good for digestion support","reason":"开头句式识别不完整，无法确认原始问句。","source_row":54,"source_segment_start":null,"source_segment_end":null}
+{"raw":"what's up little Bob house call","reason":"人名/称呼及后续词语识别不清。","source_row":58,"source_segment_start":null,"source_segment_end":null}
+{"raw":"you're recovering here","reason":"该短语缺少上下文，无法确定具体含义。","source_row":59,"source_segment_start":null,"source_segment_end":null}
+{"raw":"my habre is that how you say it where","reason":"人名或称呼识别不确定，无法可靠恢复。","source_row":60,"source_segment_start":null,"source_segment_end":null}
+{"raw":"more okay let's leave bring ending","reason":"该短语严重残缺，无法确定实际指令。","source_row":67,"source_segment_start":null,"source_segment_end":null}
+{"raw":"then we have to multiply","reason":"该句在当前上下文中语义不明，可能存在ASR错误。","source_row":67,"source_segment_start":null,"source_segment_end":null}
+{"raw":"no let's restock the tips","reason":"“restock the tips”语义不明，无法确认原始表达。","source_row":68,"source_segment_start":null,"source_segment_end":null}
+{"raw":"you gave the right orange orange gentlemen","reason":"该片段可能包含识别错误，无法确定具体词语。","source_row":68,"source_segment_start":null,"source_segment_end":null}
+{"raw":"they're a little more fast","reason":"句子语义不完整，无法确定原意。","source_row":70,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I go doie literature club","reason":"人名/作品名及动作关系识别不清，无法可靠恢复。","source_row":72,"source_segment_start":null,"source_segment_end":null}
+{"raw":"everyone's 200 drink customers aren't increasing though","reason":"数字、名词和句子结构关系不清，无法可靠恢复。","source_row":79,"source_segment_start":null,"source_segment_end":null}
+{"raw":"take the board double hamburger and a drink","reason":"指令结构和“board”的具体含义不明确。","source_row":80,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I'm just washing the meat boil or burn","reason":"开头识别残缺，无法确定说话者是在描述肉类处理还是其他动作。","source_row":81,"source_segment_start":null,"source_segment_end":null}
+{"raw":"ice ice","reason":"孤立词语缺少明确指代，无法判断是口头重复还是具体指令。","source_row":81,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we need more two","reason":"数量表达残缺，无法确定具体需求。","source_row":83,"source_segment_start":null,"source_segment_end":null}
+{"raw":"surprise our company property we got to put the eat in it","reason":"该片段存在多处识别错误，无法可靠恢复。","source_row":84,"source_segment_start":null,"source_segment_end":null}
+{"raw":"do you guys already have this one going down","reason":"该句指代和动作关系不明，无法确定具体意思。","source_row":86,"source_segment_start":null,"source_segment_end":null}
+{"raw":"why did everything change when the fire","reason":"句子在条件/原因部分中断，无法确认后续语义。","source_row":87,"source_segment_start":null,"source_segment_end":null}
+{"raw":"the Beast stands for buns","reason":"可能为游戏内专名或双关，含义无法从当前字幕确认。","source_row":87,"source_segment_start":null,"source_segment_end":null}
