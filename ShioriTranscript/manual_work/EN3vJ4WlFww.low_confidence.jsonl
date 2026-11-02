@@ -1,0 +1,147 @@
+{"raw":"[Music]","reason":"背景音乐，无可用语音内容。","source_segment_start":1,"source_segment_end":6}
+{"raw":"fella all","reason":"该片段语音识别不完整，无法确定原始措辞。","source_segment_start":19,"source_segment_end":19}
+{"raw":"Buton","reason":"人名或昵称识别不确定。","source_segment_start":106,"source_segment_end":106}
+{"raw":"LT it's Mission","reason":"玩家昵称与后续词语边界不明确，无法可靠恢复。","source_segment_start":122,"source_segment_end":123}
+{"raw":"did you P did you spend","reason":"句子中间识别残缺，无法确认完整问句。","source_segment_start":131,"source_segment_end":131}
+{"raw":"F complete get","reason":"该片段可能为游戏提示或玩家昵称识别错误，无法可靠恢复。","source_segment_start":146,"source_segment_end":146}
+{"raw":"it's probably the Mei","reason":"专名/人称识别不确定，无法确认是人名还是ASR错误。","source_segment_start":184,"source_segment_end":184}
+{"raw":"go go GRE what is it greget is that the weird word","reason":"该片段中名称和词语识别不清，无法可靠恢复。","source_segment_start":185,"source_segment_end":186}
+{"raw":"Fella we","reason":"句首片段语义不完整，无法确认原话。","source_segment_start":229,"source_segment_end":229}
+{"raw":"who's lasting","reason":"孤立问句缺少明确语境，无法确认所指。","source_segment_start":212,"source_segment_end":212}
+{"raw":"I need to watch your end story","reason":"该表达的具体指代不明确，无法确认是游戏结算还是其他内容。","source_segment_start":315,"source_segment_end":315}
+{"raw":"was circus","reason":"The source wording is not intelligible enough to restore reliably.","source_segment_start":323,"source_segment_end":323}
+{"raw":"I can hear my nasy self","reason":"The key word is garbled and cannot be restored with confidence.","source_segment_start":327,"source_segment_end":328}
+{"raw":"how about to go in here","reason":"The sentence is incomplete and its intended meaning is unclear.","source_segment_start":335,"source_segment_end":336}
+{"raw":"H I think this one","reason":"The initial token may be a name or recognition noise.","source_segment_start":343,"source_segment_end":343}
+{"raw":"it sax was taken","reason":"The name boundary and sentence structure are unclear.","source_segment_start":349,"source_segment_end":349}
+{"raw":"I'll stop watching you so it embarrass yourself","reason":"The phrase after 'so' is garbled; the intended wording cannot be confirmed.","source_segment_start":351,"source_segment_end":355}
+{"raw":"what a good shy","reason":"The utterance ends in an unclear token.","source_segment_start":391,"source_segment_end":392}
+{"raw":"woman you're here kind of win","reason":"The syntax and intended referent are unclear.","source_segment_start":395,"source_segment_end":397}
+{"raw":"what is Las Vegas stay the moving","reason":"The ASR output is too corrupted to recover reliably.","source_segment_start":398,"source_segment_end":399}
+{"raw":"actually I could the rest is real for you","reason":"The verb phrase is incomplete and cannot be restored with confidence.","source_segment_start":408,"source_segment_end":412}
+{"raw":"we let me see FV perhaps","reason":"The player name and sentence boundary are uncertain.","source_segment_start":415,"source_segment_end":417}
+{"raw":"greetings mon","reason":"The name or form of address is unclear.","source_segment_start":429,"source_segment_end":430}
+{"raw":"caku perhaps staran in my hero Academia but instead of a deu he's a daku","reason":"The anime and character names are heavily corrupted; guessing them would risk changing the meaning.","source_segment_start":438,"source_segment_end":440}
+{"raw":"the obstacles are only 60","reason":"The number and its relationship to the surrounding sentence are unclear.","source_segment_start":461,"source_segment_end":462}
+{"raw":"so it ends like for the","reason":"The source cuts off mid-sentence.","source_segment_start":479,"source_segment_end":480}
+{"raw":"H","reason":"An isolated initial letter may be a name or recognition noise.","source_segment_start":485,"source_segment_end":485}
+{"raw":"never mind I am fight","reason":"The final phrase is incomplete and cannot be restored reliably.","source_segment_start":510,"source_segment_end":512}
+{"raw":"oh B no English H hat peon","reason":"Several words and possible player names are corrupted.","source_segment_start":512,"source_segment_end":514}
+{"raw":"pepperon is out dead aloney","reason":"The player name and final phrase are uncertain.","source_segment_start":514,"source_segment_end":516}
+{"raw":"cat loock","reason":"The phrase appears to be an unclear name or game-specific reference.","source_segment_start":519,"source_segment_end":520}
+{"raw":"good night Alias or alias I did I see","reason":"The name and following phrase are not clear enough to normalize.","source_segment_start":524,"source_segment_end":525}
+{"raw":"you need lasna oh uh stick 6 months still s k","reason":"The name and membership message are heavily corrupted.","source_segment_start":530,"source_segment_end":531}
+{"raw":"the only winning move is to me","reason":"The sentence appears incomplete; the missing words cannot be safely inferred.","source_segment_start":532,"source_segment_end":533}
+{"raw":"wa","reason":"The utterance is cut off and cannot be interpreted.","source_segment_start":536,"source_segment_end":537}
+{"raw":"I Ally","reason":"The short phrase is likely a recognition error, but the intended words are uncertain.","source_segment_start":589,"source_segment_end":590}
+{"raw":"here why is some only rotating between you guys","reason":"The sentence is incomplete and its subject is unclear.","source_segment_start":606,"source_segment_end":607}
+{"raw":"sayov Spotlight","reason":"The name or title before 'Spotlight' is unclear.","source_segment_start":618,"source_segment_end":619}
+{"raw":"kaen right","reason":"The short name or form of address is uncertain.","source_segment_start":662,"source_segment_end":662}
+{"raw":"o doc","reason":"The player name is not clear enough to normalize.","source_segment_start":663,"source_segment_end":663}
+{"raw":"shaie shaie is ready to a Shan your your Shen is this is this sha actually shaie sha Sheen shaie Shan","reason":"The repeated player name is too corrupted to restore confidently.","source_segment_start":676,"source_segment_end":678}
+{"raw":"you're pickle one","reason":"The phrase may be a player nickname or a recognition error.","source_segment_start":692,"source_segment_end":693}
+{"raw":"you guys technically get killed you left it","reason":"The action and referent are unclear in this fragment.","source_segment_start":703,"source_segment_end":705}
+{"raw":"Al G there I'm try","reason":"The name and following words are corrupted.","source_segment_start":728,"source_segment_end":730}
+{"raw":"probably fuckups Mommy Mommy","reason":"The phrase is heavily corrupted and its intended wording is uncertain.","source_segment_start":745,"source_segment_end":748}
+{"raw":"I'm a skill the mountain oh he I've already skilled the mountain","reason":"The verb phrase is not intelligible enough to normalize.","source_segment_start":749,"source_segment_end":751}
+{"raw":"a good braw","reason":"The final noun is unclear.","source_segment_start":759,"source_segment_end":761}
+{"raw":"R you thank you for the SC Co then thank you thank you merard","reason":"The names and membership-message wording are corrupted.","source_segment_start":818,"source_segment_end":820}
+{"raw":"I had that same misstion before there there Laie","reason":"The noun and name are uncertain; the sentence cannot be normalized safely.","source_segment_start":829,"source_segment_end":830}
+{"raw":"what are you caring that's quite the the dialogue","reason":"The verb and surrounding phrase are garbled.","source_segment_start":863,"source_segment_end":866}
+{"raw":"oh revet","reason":"The short name or word is unclear.","source_segment_start":869,"source_segment_end":870}
+{"raw":"or a paper a Russian Soul there","reason":"The phrase is too corrupted to recover reliably.","source_segment_start":871,"source_segment_end":874}
+{"raw":"they're like I started connecting with Soul Eater SL Rush and they gave me","reason":"The relationship between the names and the phrase is unclear.","source_segment_start":886,"source_segment_end":889}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":927,"source_segment_end":927}
+{"raw":"I don't know how to say your name something would I think your number what 7 eight","reason":"The name and the following number reference are not clear enough to restore.","source_segment_start":928,"source_segment_end":930}
+{"raw":"you didn't make it fart","reason":"The final word may be a transcription error or a separate utterance; its role is unclear.","source_segment_start":964,"source_segment_end":965}
+{"raw":"new heart o new heart","reason":"The player name or repeated form of address is uncertain.","source_segment_start":1019,"source_segment_end":1020}
+{"raw":"got Airy AR stick Ary","reason":"The name is heavily corrupted and cannot be restored confidently.","source_segment_start":1023,"source_segment_end":1025}
+{"raw":"you got C Centaurus or your centrus","reason":"The player name is unclear and may be a misrecognition.","source_segment_start":1032,"source_segment_end":1034}
+{"raw":"man cus","reason":"This short fragment is not intelligible enough to interpret.","source_segment_start":1034,"source_segment_end":1035}
+{"raw":"SX","reason":"The isolated player name is uncertain.","source_segment_start":1036,"source_segment_end":1037}
+{"raw":"DP ham","reason":"The player name is unclear.","source_segment_start":1039,"source_segment_end":1040}
+{"raw":"an Aston knite","reason":"The character or name reference is unclear.","source_segment_start":1040,"source_segment_end":1041}
+{"raw":"erectile this Junction","reason":"The phrase is garbled and may be a name or wordplay; the intended wording is uncertain.","source_segment_start":1043,"source_segment_end":1045}
+{"raw":"Brian hot tiity dog","reason":"The name or phrase is uncertain.","source_segment_start":1048,"source_segment_end":1051}
+{"raw":"I need more sites packets","reason":"The word before 'packets' is unclear and cannot be safely corrected.","source_segment_start":1065,"source_segment_end":1067}
+{"raw":"oh wa","reason":"The fragment is incomplete and cannot be interpreted.","source_segment_start":1071,"source_segment_end":1073}
+{"raw":"970","reason":"The isolated number's referent is not fully clear; retain only with surrounding context if needed.","source_segment_start":1080,"source_segment_end":1081}
+{"raw":"rence rence","reason":"The player name is uncertain.","source_segment_start":1093,"source_segment_end":1094}
+{"raw":"Hy cetus","reason":"The player name is unclear.","source_segment_start":1105,"source_segment_end":1107}
+{"raw":"sex rence","reason":"The player name or phrase is unclear.","source_segment_start":1121,"source_segment_end":1122}
+{"raw":"Kieran what","reason":"The name and surrounding phrase are not clear enough to normalize.","source_segment_start":1122,"source_segment_end":1123}
+{"raw":"yeah make sure to rotate to be I just say like re I leave it to you guys","reason":"The sentence is severely fragmented and cannot be restored reliably.","source_segment_start":1135,"source_segment_end":1137}
+{"raw":"oh this one your early ones too falling alone","reason":"The phrase is too corrupted to determine the intended meaning.","source_segment_start":1138,"source_segment_end":1141}
+{"raw":"how about I do this one if you cling to this one","reason":"The game instruction is incomplete and its referent is unclear.","source_segment_start":1146,"source_segment_end":1148}
+{"raw":"except the","reason":"The utterance is cut off mid-sentence.","source_segment_start":1153,"source_segment_end":1154}
+{"raw":"Le take back to back crowds","reason":"The name and the final noun are unclear; the likely word cannot be confirmed.","source_segment_start":1177,"source_segment_end":1178}
+{"raw":"situs packet a no it's I bit strain","reason":"The product/word and the following phrase are corrupted.","source_segment_start":1185,"source_segment_end":1188}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1211,"source_segment_end":1211}
+{"raw":"oh no I'm all taing the wrong","reason":"The phrase is cut off and the verb is corrupted.","source_segment_start":1237,"source_segment_end":1238}
+{"raw":"Leist","reason":"The name or word is unclear.","source_segment_start":1255,"source_segment_end":1256}
+{"raw":"the m wash me in there","reason":"The meme name is not clear enough to restore confidently.","source_segment_start":1260,"source_segment_end":1261}
+{"raw":"f","reason":"An isolated letter from the description of the meme is not interpretable.","source_segment_start":1265,"source_segment_end":1266}
+{"raw":"my Brat Fella","reason":"The character/name reference may be misrecognized; retain as uncertain pending confirmation.","source_segment_start":1274,"source_segment_end":1275}
+{"raw":"game d","reason":"The source ends the phrase mid-word or mid-sentence.","source_segment_start":1281,"source_segment_end":1282}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1283,"source_segment_end":1283}
+{"raw":"Fulk","reason":"The player name is uncertain.","source_segment_start":1294,"source_segment_end":1295}
+{"raw":"Fang","reason":"The player name is uncertain.","source_segment_start":1294,"source_segment_end":1295}
+{"raw":"the reev and take for thec","reason":"The phrase is heavily corrupted and cannot be restored reliably.","source_segment_start":1404,"source_segment_end":1406}
+{"raw":"mey","reason":"The name is unclear.","source_segment_start":1347,"source_segment_end":1349}
+{"raw":"lazy Hill Dre","reason":"The player name is uncertain.","source_segment_start":1355,"source_segment_end":1356}
+{"raw":"Howen","reason":"The player name is uncertain.","source_segment_start":1395,"source_segment_end":1396}
+{"raw":"my name is shorin s","reason":"The source ends in an incomplete self-introduction.","source_segment_start":1437,"source_segment_end":1440}
+{"raw":"vea","reason":"This is an isolated ending fragment and cannot be interpreted on its own.","source_segment_start":1441,"source_segment_end":1441}
+{"raw":"where to into frog frog Elites her personal","reason":"The game-mode phrase is too corrupted to restore reliably.","source_segment_start":1462,"source_segment_end":1464}
+{"raw":"bomos","reason":"The player name or game term is uncertain.","source_segment_start":1469,"source_segment_end":1470}
+{"raw":"[Applause]","reason":"Non-speech audience sound.","source_segment_start":1475,"source_segment_end":1475}
+{"raw":"personal heal","reason":"The final word is unclear; it may be a game-related phrase, but cannot be confirmed.","source_segment_start":1488,"source_segment_end":1490}
+{"raw":"vomos Danny","reason":"The names are uncertain.","source_segment_start":1511,"source_segment_end":1512}
+{"raw":"thank you n and win good luck","reason":"The name and phrase boundaries are unclear.","source_segment_start":1513,"source_segment_end":1515}
+{"raw":"Brian oh yeah work it's okay good Lu would work","reason":"The sentence is fragmented and the final name/phrase is uncertain.","source_segment_start":1517,"source_segment_end":1519}
+{"raw":"the cod's the same Michael thank for the","reason":"The ending is cut off and the wording is incomplete.","source_segment_start":1531,"source_segment_end":1533}
+{"raw":"sh hugged you","reason":"The phrase is unclear and may refer to a player action or recognition error.","source_segment_start":1558,"source_segment_end":1560}
+{"raw":"leth cup","reason":"The isolated phrase is not intelligible enough to normalize.","source_segment_start":1576,"source_segment_end":1577}
+{"raw":"I might just R to a place","reason":"The verb phrase is corrupted and the intended action is unclear.","source_segment_start":1595,"source_segment_end":1598}
+{"raw":"I'm a waste behind oh hey there's near here","reason":"The phrase is fragmented and cannot be restored reliably.","source_segment_start":1607,"source_segment_end":1608}
+{"raw":"N N is cute but I think they're like shipped so I stay away from NES","reason":"The names and relationship reference are uncertain.","source_segment_start":1609,"source_segment_end":1612}
+{"raw":"before they came near","reason":"This fragment is separated from its preceding sentence and lacks a clear referent.","source_segment_start":1631,"source_segment_end":1633}
+{"raw":"who where are these notifications","reason":"The sentence is incomplete and cannot be normalized safely.","source_segment_start":1634,"source_segment_end":1636}
+{"raw":"too B","reason":"The phrase is too short and unclear to interpret.","source_segment_start":1673,"source_segment_end":1675}
+{"raw":"noites man","reason":"The name or phrase is uncertain.","source_segment_start":1700,"source_segment_end":1702}
+{"raw":"we skip at","reason":"The fragment is incomplete and cannot be interpreted.","source_segment_start":1703,"source_segment_end":1705}
+{"raw":"y be","reason":"The name or word is unclear.","source_segment_start":1704,"source_segment_end":1706}
+{"raw":"ski a skiper d Don ski a skip","reason":"The repeated phrase is not intelligible enough to restore.","source_segment_start":1715,"source_segment_end":1717}
+{"raw":"if you died early you","reason":"The source cuts off mid-sentence.","source_segment_start":1757,"source_segment_end":1760}
+{"raw":"Slime scraper here ay for being a one night","reason":"The opening game-mode phrase and following words are too corrupted to restore reliably.","source_segment_start":1766,"source_segment_end":1768}
+{"raw":"motion or did I take ti","reason":"The medication name is incomplete; do not infer a specific drug.","source_segment_start":1777,"source_segment_end":1779}
+{"raw":"auto fisted here not that gig even fced","reason":"The phrase is heavily corrupted and the intended wording is uncertain.","source_segment_start":1792,"source_segment_end":1794}
+{"raw":"the first name in the ship is usually like the","reason":"The explanation is cut off before the rule is completed.","source_segment_start":1794,"source_segment_end":1796}
+{"raw":"the G","reason":"The letter/name reference is unclear.","source_segment_start":1804,"source_segment_end":1806}
+{"raw":"R we go with a name like that","reason":"The name and phrase boundary are uncertain.","source_segment_start":1817,"source_segment_end":1819}
+{"raw":"HMA","reason":"The abbreviation or name is not identifiable from this fragment alone.","source_segment_start":1863,"source_segment_end":1865}
+{"raw":"n 2 be you won good job Sky Ark wow you w hard mode","reason":"The player names and phrase are too corrupted to normalize.","source_segment_start":1870,"source_segment_end":1872}
+{"raw":"forgive your squad on fire","reason":"The game-mode name is uncertain; the ASR text may be corrupted.","source_segment_start":1882,"source_segment_end":1884}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1872,"source_segment_end":1872}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1916,"source_segment_end":1916}
+{"raw":"World wee","reason":"The fragment is incomplete and cannot be interpreted.","source_segment_start":1917,"source_segment_end":1918}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1919,"source_segment_end":1919}
+{"raw":"small town girl living in a medieval world","reason":"This appears to be a recognizable song lyric or parody; exclude the extended lyric passage from clean.","source_segment_start":1921,"source_segment_end":1924}
+{"raw":"just a city boy from Detroit","reason":"This appears to continue the recognizable song reference; exclude the lyric passage from clean.","source_segment_start":1925,"source_segment_end":1926}
+{"raw":"I'm just a midnight upnight up girl","reason":"The phrase is both lyric-like and corrupted; do not infer the missing words.","source_segment_start":1939,"source_segment_end":1940}
+{"raw":"freaky Dicky in the circus sheets we cir oh [ __ ] circus freak number","reason":"The phrase is heavily corrupted and cannot be reliably restored.","source_segment_start":1956,"source_segment_end":1958}
+{"raw":"[Music]","reason":"Background music without recoverable speech.","source_segment_start":1959,"source_segment_end":1959}
+{"raw":"good luck with Burks Lance","reason":"The names are uncertain.","source_segment_start":1961,"source_segment_end":1962}
+{"raw":"Crush and the Doomer","reason":"The names or game references are uncertain.","source_segment_start":1963,"source_segment_end":1964}
+{"raw":"SpongeBob I'm sorry hog","reason":"The word after the apology is unclear.","source_segment_start":1980,"source_segment_end":1982}
+{"raw":"SpongeBob square than Spong SpongeBob would go f did I","reason":"The phrase is severely corrupted and cannot be restored reliably.","source_segment_start":1991,"source_segment_end":1995}
+{"raw":"H have a good day fan and chy","reason":"The names and phrase are unclear.","source_segment_start":2098,"source_segment_end":2100}
+{"raw":"chill cinder block","reason":"The name or phrase is not clear enough to interpret.","source_segment_start":2103,"source_segment_end":2106}
+{"raw":"people n of dead","reason":"The phrase is corrupted and cannot be restored reliably.","source_segment_start":2112,"source_segment_end":2114}
+{"raw":"I didn't it get well obviously someone wanted to play it","reason":"The first clause is incomplete and its meaning is unclear.","source_segment_start":2150,"source_segment_end":2154}
+{"raw":"Vomos oh we are Vos see","reason":"The phrase and names are too corrupted to normalize.","source_segment_start":2178,"source_segment_end":2181}
+{"raw":"you six but I am here","reason":"The player name or place reference is unclear.","source_segment_start":2179,"source_segment_end":2180}
+{"raw":"it's like the bass one of Korean song the skibby one","reason":"The song description is incomplete and the title is not recoverable.","source_segment_start":2201,"source_segment_end":2205}
+{"raw":"space with Z the zero","reason":"The phrase is not intelligible enough to restore.","source_segment_start":2207,"source_segment_end":2208}
+{"raw":"you never skip ski is it Burnice or Bernice","reason":"The name and phrase are unclear.","source_segment_start":2226,"source_segment_end":2228}
+{"raw":"I'm still kind of","reason":"The source cuts off mid-sentence.","source_segment_start":2238,"source_segment_end":2240}
