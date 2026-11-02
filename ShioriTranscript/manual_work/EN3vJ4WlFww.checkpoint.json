@@ -6,13 +6,13 @@
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
   "source_read_through_segment": 2423,
   "source_transcript_read_complete": true,
-  "draft_rows": 590,
+  "draft_rows": 646,
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 0,
   "segmented_records": 0,
-  "low_confidence_fragments": 93,
+  "low_confidence_fragments": 105,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual draft grouping from source segment 1441 onward. The full transcript remains in crawler_en; do not create clean or archive originals until all 2423 segments are covered and validated.",
-  "draft_source_segments_through": 1440
+  "next_action": "Continue manual draft grouping from source segment 1601 onward. Preserve all recoverable speech and keep uncertain ASR fragments in LOW.",
+  "draft_source_segments_through": 1600
 }
