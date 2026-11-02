@@ -12,8 +12,41 @@
 
 ## 交接状态（2026-11-02）
 
-接手范围包含原 A、B 两组的所有剩余文件，原分组排他限制已取消。任务清单用于查询历史进度，不再划分当前权限。
+接手范围包含原 A、B 两组的所有剩余文件，原分组排他限制已取消。任务清单用于查询历史进度，不再划分当前权限。已归档文件不得重复处理。
 
-已归档的数据不要重复处理。当前 `s7C9J7guXaI` 共257条草稿，逐条语义审核决定已覆盖至257；完整审核决定见 `manual_work/s7C9J7guXaI.review_decisions.json`。目前第1–20条已人工切分为66条中间配对，保存在 `manual_work/s7C9J7guXaI.segmented.part01.jsonl`，该文件不是正式训练集。第21–257条仍待切分与终审；LOW及未核实草稿不能进入正式训练集。原始 TXT/JSON 尚未移动。`3JBmOdbzIt4` 尚未开始。
+### 已完成：`s7C9J7guXaI`
 
-Python处理辅助脚本不在本次上传范围；尚未完成的人工决定已另存为JSON。交接仅记录当前进度，不表示所有历史样本均已按最新标准复核。
+- 257 条草稿均已完成逐条语义决定。
+- `clean/s7C9J7guXaI.jsonl`：991 条人工整理配对；每条只有 `raw` 和 `actually` 两个字段，JSONL 结构校验通过。
+- `manual_work/s7C9J7guXaI.low_confidence.jsonl`：151 条含低置信度残余的源草稿行，作为人工复核上下文，不进入 SFT。
+- 原始 TXT 和 JSON 已从 `crawler_en` 移动至 `raw`。归档前后 Git blob SHA 完全一致，原始字节未变。
+- 2484 个原始字幕片段已覆盖；未能可靠恢复的片段没有被编入 clean。
+
+### 下一批：接下来 20 个文件
+
+当前队列从 `3JBmOdbzIt4` 开始。接下来 20 个文件为：
+
+1. `3JBmOdbzIt4`
+2. `EN3vJ4WlFww`
+3. `7seUd8nr6-8`
+4. `mcQ9PXGt38g`
+5. `YZYnMPyJDtQ`
+6. `Y-_3O6wZI_U`
+7. `0XPeLT3nfy0`
+8. `Z-VzJibKJqQ`
+9. `RyelZGrCxWY`
+10. `O7Gg2_1AsPU`
+11. `ehbTci8o8NA`
+12. `3mMbyik-hho`
+13. `cZcDQqw3WO4`
+14. `4g9JyWS9YAQ`
+15. `E7sBKou_yMA`
+16. `h3-50N7Q-rE`
+17. `6BfzpTaUfT8`
+18. `KdKyQ-JCBac`
+19. `lNpOfFG4HlQ`
+20. `9zTF9XRtmLU`
+
+这些文件均已核实仍在 `crawler_en`，尚未在 `raw` 或 `clean` 中归档。按顺序逐个处理，单个文件完成语义审核、切分、结构校验和原始文件归档后，才更新为完成。
+
+Python处理辅助脚本不在本次上传范围；不使用自动语言清洗脚本、规则批量改写或外部模型代替人工语义判断。
