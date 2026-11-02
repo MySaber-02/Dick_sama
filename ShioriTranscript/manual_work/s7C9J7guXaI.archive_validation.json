@@ -1,0 +1,17 @@
+{
+  "video_id": "s7C9J7guXaI",
+  "source_segments": 2484,
+  "source_txt_sha": "52ad1965c0b112b322f097fa20a2b0c1daf80262",
+  "source_json_sha": "fd31a7290f724e5ac7b97ff67da325fd51a6645b",
+  "archived_txt_sha": "52ad1965c0b112b322f097fa20a2b0c1daf80262",
+  "archived_json_sha": "fd31a7290f724e5ac7b97ff67da325fd51a6645b",
+  "originals_moved_from_crawler_en": true,
+  "byte_identical": {
+    "txt": true,
+    "json": true
+  },
+  "clean_records": 991,
+  "low_confidence_source_rows": 151,
+  "clean_schema": "each JSONL record contains exactly raw and actually",
+  "validation": "passed"
+}
