@@ -48,3 +48,7 @@
 {"raw":"vandaliz","reason":"单词被截断，无法判断完整表达。","source_row":220,"source_segment_start":null,"source_segment_end":null}
 {"raw":"Queso please I watch your stuff","reason":"专名识别不确定，无法可靠确认称呼对象。","source_row":220,"source_segment_start":null,"source_segment_end":null}
 {"raw":"we change you","reason":"短语语义不连贯，可能存在主语或动词识别错误，无法可靠还原。","source_row":214,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Keanu Kiana's in our guard he just","reason":"专名和后续动作被识别成不完整片段，无法确认具体人物及其行为。","source_row":221,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oops let's go to some","reason":"句子在动作描述中途截断，无法确认后续内容。","source_row":240,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Klaya","reason":"单独出现的人名/称呼，缺少足够语境确认拼写。","source_row":246,"source_segment_start":null,"source_segment_end":null}
+{"raw":"put on here there","reason":"字幕为不完整指令，无法确认物品和动作。","source_row":247,"source_segment_start":null,"source_segment_end":null}
