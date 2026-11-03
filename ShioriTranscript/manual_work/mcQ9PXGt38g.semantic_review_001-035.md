@@ -23,3 +23,12 @@ Reviewed each of draft rows 1-35 against the corresponding source transcript seg
 - Ambiguous rows are marked LOW and must not enter clean.
 - Next semantic review range: 36-320.
 - Formal clean creation and original-file archival remain blocked until all review and source-coverage reconciliation are complete.
+
+
+## 后续校正（2026-11-03）
+
+在复核后续上下文及源字幕话轮边界后，修正了早期初审中的两项保守处理：
+- 第19行不再整体视为LOW；将可确认的 `Roblox` 和重复问句 `Are we starting?` 拆为SFT，仅将无法确认的 `big bow` 保留为LOW。
+- 第25行保留为有上下文支撑的省略表达 `Like a diagonal.`，不再标为LOW，也不改写为推测性的 `Perhaps diagonal.`。
+
+第32行 `how do you pay` 仍为LOW；第35行中的 `oh she's a blog` 仍为LOW。
