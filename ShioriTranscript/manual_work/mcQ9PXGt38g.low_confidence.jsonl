@@ -16,7 +16,6 @@
 {"raw":"oh she she's missing the","reason":"句子中途截断，无法确认后续宾语。","source_draft_row":90}
 {"raw":"actually a lot of you guys I'm going to give it","reason":"句子在动词后截断，缺少动作对象。","source_draft_row":100}
 {"raw":"the one-sided me","reason":"该片段无法确认具体指代。","source_draft_row":110}
-{"raw":"every was any of you guys balloons","reason":"字幕严重错乱，无法可靠恢复。","source_draft_row":110}
 {"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","source_draft_row":153}
 {"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":156}
 {"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
@@ -149,3 +148,14 @@
 {"raw":"it's so","reason":"句子未完成，缺少后续内容。","source_draft_row":101}
 {"raw":"I this color","reason":"语句残缺，无法确定 I this color 的实际词语和句法关系。","source_draft_row":105}
 {"raw":"press down the","reason":"操作指令被截断，缺少后续按键或对象。","source_draft_row":107}
+{"raw":"can I get inside my the dude","reason":"ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。","source_draft_row":111}
+{"raw":"unless that good","reason":"短语不完整，无法确认 unless 后的具体表达。","source_draft_row":112}
+{"raw":"oh there seconds wait rotate wait","reason":"多个短片段连续识别，词语边界和动作含义不清。","source_draft_row":112}
+{"raw":"this is what","reason":"句子在 what 后中断，缺少后续内容。","source_draft_row":112}
+{"raw":"okay that looks","reason":"句子中途截断，缺少后续谓语或评价对象。","source_draft_row":114}
+{"raw":"everyone's soy not last","reason":"ASR短语语义不明，无法确认 soy 和 not last 的关系。","source_draft_row":119}
+{"raw":"she do it","reason":"句子结构不完整，无法确认是疑问、陈述还是自我修正。","source_draft_row":122}
+{"raw":"yeah I am a","reason":"句子在冠词后中断，缺少后续名词或补语。","source_draft_row":130}
+{"raw":"I'm hoping hidden behind this couch","reason":"句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。","source_draft_row":131}
+{"raw":"position my my favorite sausage","reason":"操作指令与名词短语粘连，无法可靠恢复完整句意。","source_draft_row":132}
+{"raw":"it's really","reason":"句子在 really 后中断，缺少后续内容。","source_draft_row":133}
