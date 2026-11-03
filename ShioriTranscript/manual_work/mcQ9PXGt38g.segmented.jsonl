@@ -1,4 +1,4 @@
-{"raw":"hey hey the hat crabs","actually":"Hey. The hat has crabs."}
+{"raw":"hey hey the hat crabs","actually":"Hey. Hey. The hat crabs."}
 {"raw":"what game are we playing today","actually":"What game are we playing today?"}
 {"raw":"wow I don't know these","actually":"I do not recognize these."}
 {"raw":"meta meta chameleon meta chameleon","actually":"Meta Chameleon."}
@@ -16,7 +16,8 @@
 {"raw":"yes I know we can make like a table","actually":"Yes, I know. We can make something like a table."}
 {"raw":"it's jumping on both sides","actually":"It is jumping on both sides."}
 {"raw":"what's this what did I actually press","actually":"What is this? What did I press?"}
-{"raw":"roblox big bow are we starting are we starting are we starting","actually":"Roblox. Are we starting?"}
+{"raw":"Roblox","actually":"Roblox."}
+{"raw":"Are we starting? Are we starting? Are we starting?","actually":"Are we starting?"}
 {"raw":"I don't know okay","actually":"I do not know."}
 {"raw":"this is going to be pure chaos","actually":"This is going to be pure chaos."}
 {"raw":"oh jeez oh back","actually":"Oh jeez. Oh, back."}
@@ -30,7 +31,7 @@
 {"raw":"has any of us played this game before","actually":"Has anyone here played this game before?"}
 {"raw":"no","actually":"No."}
 {"raw":"oh wait they're different they're different for hunter","actually":"The controls are different for the hunter."}
-{"raw":"like a diagonal","actually":"Perhaps diagonal."}
+{"raw":"like a diagonal","actually":"Like a diagonal."}
 {"raw":"oh Jesus Christ","actually":"Oh, Jesus Christ."}
 {"raw":"how do I panicking","actually":"I am panicking."}
 {"raw":"oh god","actually":"Oh god."}
@@ -56,7 +57,6 @@
 {"raw":"I want to do I want to","actually":"I want to do it."}
 {"raw":"I'm not doing a good job","actually":"I am not doing a good job."}
 {"raw":"good job guys","actually":"Good job, everyone."}
-{"raw":"how do you pay","actually":"How do you pay?"}
 {"raw":"how do you how do you when you're rocking","actually":"How do you do it while moving?"}
 {"raw":"middle click middle click middle click middle click","actually":"Use the middle mouse button."}
 {"raw":"I'll think about this later","actually":"I will think about this later."}
@@ -68,9 +68,9 @@
 {"raw":"oh there's so much more to have to merge with object","actually":"There is much more to merge with an object."}
 {"raw":"let me mute them cuz uh I'm dead","actually":"I will mute them because I am dead."}
 {"raw":"wait is there even music in this","actually":"Is there any music in this?"}
-{"raw":"too bad that like proximity chat has like a little bit of a stutter","actually":"The proximity chat seems to stutter a little."}
-{"raw":"cuz when we tried it it had like the ah sort of quality to it","actually":"It had a similar quality when we tried it before."}
-{"raw":"there's no music in this really huh","actually":"There is no music in this, is there?"}
+{"raw":"too bad that like proximity chat has like a little bit of a stutter","actually":"Unfortunately, proximity chat has a slight stutter."}
+{"raw":"cuz when we tried it it had like the ah sort of quality to it","actually":"It had that sort of quality when we tried it before."}
+{"raw":"there's no music in this really huh","actually":"There is really no music in this, is there?"}
 {"raw":"interesting okay I will now listen","actually":"Interesting. I will listen now."}
 {"raw":"just don't know","actually":"I do not know."}
 {"raw":"I can at least like know the map in the future","actually":"At least I can learn the map for the future."}
@@ -79,7 +79,7 @@
 {"raw":"wait how do I move","actually":"How do I move?"}
 {"raw":"that's pretty good","actually":"That is pretty good."}
 {"raw":"I just don't know I just don't know","actually":"I do not know. I just do not know."}
-{"raw":"Morice just crouched down and just cowering in this little tiny corner","actually":"Morice is crouching and cowering in this tiny corner."}
+{"raw":"Morice just crouched down and just cowering in this little tiny corner","actually":"Morice is crouched down, cowering in a tiny corner."}
 {"raw":"wait are they going to be found","actually":"Are they going to be found?"}
 {"raw":"I might try to look for music or something","actually":"I might look for some music."}
 {"raw":"let's see","actually":"Let us see."}
@@ -93,25 +93,22 @@
 {"raw":"too slow too much","actually":"It is too slow and too much."}
 {"raw":"that's a gunshot","actually":"That sounds like a gunshot."}
 {"raw":"I'll take this one","actually":"I will use this one."}
-{"raw":"wow Mory is living","actually":"Mory is still alive."}
+{"raw":"wow Mory is living","actually":"Mory is alive."}
 {"raw":"there's music playing I can barely hear it","actually":"There is music playing, but I can barely hear it."}
 {"raw":"maybe I should adjust my volume then","actually":"I may need to adjust my volume."}
 {"raw":"oh yeah there is music","actually":"There is music."}
 {"raw":"it's very subtle though unless I max out my thing","actually":"It is very quiet unless I turn my volume all the way up."}
-{"raw":"are you","actually":"Are you?"}
-{"raw":"wow really neither are you","actually":"Wow, really? Neither are you."}
 {"raw":"I'm trying really hard to shade this","actually":"I am trying very hard to shade this."}
 {"raw":"did you add chest hair yours","actually":"Did you add chest hair to yours?"}
 {"raw":"no I'm trying to shade my cleavage but I don't know how to shade","actually":"No, I am trying to shade my cleavage, but I do not know how."}
 {"raw":"you don't you don't need to it's okay","actually":"You do not need to. It is okay."}
 {"raw":"I like it","actually":"I like it."}
-{"raw":"the way it's going to figure it out","actually":"I will figure it out."}
 {"raw":"I can't figure out how to shade it","actually":"I cannot work out how to shade it."}
 {"raw":"that's better than mine","actually":"That looks better than mine."}
 {"raw":"it's okay","actually":"It is okay."}
 {"raw":"oh you look really good","actually":"You look really good."}
-{"raw":"oh I should have just had like a giant eyeball","actually":"I should have used a giant eyeball."}
-{"raw":"actually I'll put that on my back of my head","actually":"I will put it on the back of my head."}
+{"raw":"oh I should have just had like a giant eyeball","actually":"I should have had a giant eyeball."}
+{"raw":"actually I'll put that on my back of my head","actually":"Actually, I will put it on the back of my head."}
 {"raw":"we have six seconds","actually":"We have six seconds."}
 {"raw":"does this look like an eyeball","actually":"Does this look like an eyeball?"}
 {"raw":"I don't know where it is I don't know man","actually":"I do not know where it is."}
@@ -1273,15 +1270,36 @@
 {"raw":"It's not working. I'm pressing X. Nothing's working.","actually":"It is not working. I am pressing X. Nothing is working."}
 {"raw":"Bye-bye.","actually":"Goodbye."}
 {"raw":"A golden bikini.","actually":"A golden bikini."}
+{"raw":"Where is everyone hiding? Well, you found them so fast.","actually":"Where is everyone hiding? You found them very quickly."}
+{"raw":"She looked kind of obvious.","actually":"She looked rather obvious."}
+{"raw":"Did she look really obvious?","actually":"Did she look really obvious?"}
+{"raw":"Yeah, she, it was really cute.","actually":"Yes, it was really cute."}
+{"raw":"Maybe she had a friend nearby.","actually":"Maybe she had a friend nearby."}
 {"raw":"There is a whistle. I heard a whistle. Are they on auto-whistle too?","actually":"I heard a whistle. Are they using automatic whistles too?"}
+{"raw":"Where is everyone?","actually":"Where is everyone?"}
+{"raw":"I'll come back to this. Let's go from our obvious ones.","actually":"I will come back to this. Let us start with the obvious ones."}
+{"raw":"Yeah. If I was someone who played this for only one day, where would I be hiding?","actually":"If I were someone who had played this for only one day, where would I hide?"}
 {"raw":"I keep hearing the whistles. It bothers me.","actually":"I keep hearing the whistles, and they bother me."}
-{"raw":"I can turn this up. I need to hear the whistle too.","actually":"I can turn up the volume because I need to hear the whistle too."}
+{"raw":"I can turn this up. I need to hear the whistle too.","actually":"I can turn up the volume. I need to hear the whistle too."}
+{"raw":"Guess they're not here.","actually":"They are probably not here."}
+{"raw":"I need someone to move. I need someone to freak out.","actually":"I need someone to move. I need someone to panic."}
+{"raw":"Where' the whistlers at?","actually":"Where are the whistlers?"}
+{"raw":"Mhm. You go this way. Is it just a circle?","actually":"Go this way. Is it just a circle?"}
+{"raw":"I don't know. It smells like crap, though. There's one around me.","actually":"I do not know. It smells terrible, though. There is one around me."}
 {"raw":"I heard a really loud whistle. Where is it? Where's the whistler?","actually":"I heard a very loud whistle. Where is it? Where is the person whistling?"}
-{"raw":"We're going to be so bad at this, aren't we?","actually":"We are going to be very bad at this, are we not?"}
+{"raw":"We're going to be so bad at this, aren't we?","actually":"We are going to be so bad at this, aren't we?"}
 {"raw":"I heard it. I heard it. I'm not going to waste time here.","actually":"I heard it. I will not waste time here."}
-{"raw":"Oh, you found someone. Nice. Where are the others?","actually":"You found someone. Nice. Where are the others?"}
-{"raw":"I hear them. I know. Me too. I think the whistles actually make it worse.","actually":"I hear them too. I think the whistles make it worse."}
-{"raw":"It's like they make me bad at my job.","actually":"They make me worse at my job."}
+{"raw":"Oh, you found someone. Nice. Where are the others?","actually":"Oh, you found someone. Nice. Where are the others?"}
+{"raw":"Guess that's not one. I heard another whistle.","actually":"That is probably not one. I heard another whistle."}
+{"raw":"I'm I'm glad at least found Iris.","actually":"I am glad Iris was found."}
+{"raw":"Yeah, let's just at least have Iris.","actually":"Let us at least have Iris."}
+{"raw":"I hear it. Where? Where?","actually":"I hear it. Where? Where?"}
+{"raw":"We need to find someone as obvious as Mory again.","actually":"We need to find someone as obvious as Mory again."}
+{"raw":"Do you think she's hiding this time?","actually":"Do you think she is hiding this time?"}
+{"raw":"I think I think maybe she could be hiding this time.","actually":"I think she may be hiding this time."}
+{"raw":"I hear I hear them.","actually":"I hear them."}
+{"raw":"I know. Me too. I think the whistles actually make it worse.","actually":"I know. Me too. I think the whistles make it worse."}
+{"raw":"It's like it makes me bad at my job.","actually":"It makes me worse at my job."}
 {"raw":"They can also make clones, so we need to keep that in mind.","actually":"They can also make clones, so we need to remember that."}
 {"raw":"I think L said if we kill one clone, it kills them too.","actually":"I think L said that killing one clone kills all of them."}
 {"raw":"Does it? Yeah. So if you get one clone, they all die.","actually":"Does it? Yes. If you find one clone, they all die."}
