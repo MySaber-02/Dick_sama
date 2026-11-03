@@ -6,12 +6,12 @@
   "source_json_sha": "f4067e3ed859b70b263f6eec200df087a29e3278",
   "source_read_through_segment": 2791,
   "source_transcript_read_complete": true,
-  "draft_rows": 30,
+  "draft_rows": 70,
   "draft_coverage_verified": false,
-  "semantic_review_through_draft_row": 30,
+  "semantic_review_through_draft_row": 70,
   "segmented_records": 0,
-  "low_confidence_fragments": 9,
+  "low_confidence_fragments": 14,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manually drafting the remaining source segments 161-2791 into raw/actually review groups. Verify full source coverage, resolve or isolate low-confidence fragments, then segment and validate the final clean JSONL. The first 30 draft rows cover the opening portion of the transcript."
+  "next_action": "Continue manually drafting the remaining transcript from approximately 1700 seconds onward, with source-segment coverage tracking. Review all 70 current draft rows, resolve LOW items where context permits, then validate final clean JSONL and archive originals only after full coverage is verified."
 }
