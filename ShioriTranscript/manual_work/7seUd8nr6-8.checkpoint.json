@@ -10,14 +10,18 @@
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 279,
   "final_semantic_review_complete": false,
-  "segmented_records": 58,
-  "low_confidence_fragments": 25,
+  "segmented_records": 117,
+  "low_confidence_fragments": 26,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manual sentence-level segmentation from draft row 31 onward. Keep LOW rows out of segmented SFT data. After all draft rows are reviewed and segmented, validate source coverage, create clean JSONL, then move the original TXT/JSON to raw with byte-identical SHA verification.",
+  "next_action": "Continue manual sentence-level segmentation from draft row 51 onward. Keep all whole-row and subfragment LOW items in the separate review file. After the remaining draft is segmented, perform final semantic and source coverage review, then create clean JSONL and move originals to raw with byte-identical SHA verification.",
   "low_confidence_path": "ShioriTranscript/manual_work/7seUd8nr6-8.low_confidence.jsonl",
   "draft_schema_validation": "passed",
   "draft_duplicate_raw_count": 0,
   "low_confidence_source_rows_match": true,
-  "segmented_through_draft_row": 30
+  "segmented_through_draft_row": 50,
+  "low_confidence_full_draft_rows": 25,
+  "low_confidence_subfragments": 1,
+  "segmented_schema_validation": "passed",
+  "segmented_duplicate_raw_count": 0
 }
