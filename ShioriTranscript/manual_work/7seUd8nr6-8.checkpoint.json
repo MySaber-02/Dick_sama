@@ -1,6 +1,6 @@
 {
   "video_id": "7seUd8nr6-8",
-  "status": "manual_draft_and_segmentation_complete_final_review_pending",
+  "status": "segmentation_reconciled_partial_final_review_pending",
   "source_segments": 2791,
   "source_txt_sha": "3051fca05cf7a29b0107b105b2b4401da8610a91",
   "source_json_sha": "f4067e3ed859b70b263f6eec200df087a29e3278",
@@ -10,11 +10,11 @@
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 279,
   "final_semantic_review_complete": false,
-  "segmented_records": 1196,
-  "low_confidence_fragments": 63,
+  "segmented_records": 1134,
+  "low_confidence_fragments": 66,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Complete final semantic review of the 1196 staging records and reconcile every source transcript passage to either a staging record or a LOW entry. Only then write clean/7seUd8nr6-8.jsonl, validate, and move the original TXT/JSON to raw with byte-identical SHA verification.",
+  "next_action": "Manually reconcile the remaining 13 segmented raw text differences against the original transcript and draft, review semantics across all 1134 staging records and 66 LOW fragments, then create clean JSONL and archive originals only after complete source coverage is verified.",
   "low_confidence_path": "ShioriTranscript/manual_work/7seUd8nr6-8.low_confidence.jsonl",
   "draft_schema_validation": "passed",
   "draft_duplicate_raw_count": 0,
@@ -22,10 +22,10 @@
   "segmented_through_draft_row": 279,
   "low_confidence_full_draft_rows": 25,
   "low_confidence_subfragments": 37,
-  "segmented_schema_validation": "passed",
+  "segmented_schema_validation": "failed",
   "segmented_duplicate_raw_count": 0,
-  "segmented_contains_LOW": false,
+  "segmented_contains_LOW": true,
   "segmented_empty_field_count": 0,
   "final_jsonl_schema_validation": "staging_passed",
-  "source_coverage_proof": "not_yet_established"
+  "source_coverage_proof": "partial_monotonic_token_alignment_1121_of_1134_records; 13 raw text differences require manual reconciliation"
 }
