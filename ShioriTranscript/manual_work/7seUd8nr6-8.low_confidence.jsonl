@@ -35,3 +35,8 @@
 {"raw":"it's okay in forever","reason":"该短语语法残缺，无法确认是在表达时间、安慰还是其他内容。","source_row":149,"source_segment_start":null,"source_segment_end":null}
 {"raw":"I watched Caso do that in his water park simulator","reason":"创作者/频道名称与相邻字幕中的 Casio、Queso 等发音争议无法可靠对应，暂不确认专名。","source_row":155,"source_segment_start":null,"source_segment_end":null}
 {"raw":"man with some wolf things","reason":"该短语缺少上下文，无法确认所指物品或游戏内容。","source_row":158,"source_segment_start":null,"source_segment_end":null}
+{"raw":"and have like a little","reason":"句子在未完成的计划描述中途截断，无法确认后续要建立的对象。","source_row":165,"source_segment_start":null,"source_segment_end":null}
+{"raw":"this is going to become like Whizzy yeah Wney Wiz","reason":"专名/作品名称存在多种识别结果，无法可靠确定拼写。","source_row":166,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I will finally wait explain","reason":"字幕语序和识别结果明显损坏，无法判断完整句意。","source_row":170,"source_segment_start":null,"source_segment_end":null}
+{"raw":"automatic FL","reason":"游戏内物品或状态名称识别不确定，无法确认原词。","source_row":182,"source_segment_start":null,"source_segment_end":null}
+{"raw":"uh no pass six hours","reason":"票种/时长短语缺少清晰边界，无法确认是请求内容还是菜单文字。","source_row":182,"source_segment_start":null,"source_segment_end":null}
