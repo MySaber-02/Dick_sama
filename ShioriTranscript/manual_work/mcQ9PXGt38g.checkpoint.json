@@ -2,7 +2,7 @@
   "video_id": "mcQ9PXGt38g",
   "status": "manual_draft_in_progress",
   "source_segments": 3061,
-  "source_read_through_segment": 3061,
+  "source_read_through_segment": 278,
   "source_transcript_read_complete": false,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
   "draft_rows": 47,
@@ -11,5 +11,5 @@
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue reading the original transcript from the last reviewed source passage. Complete draft coverage, move LOW fragments to the dedicated review file, then sentence-segment and verify before clean."
+  "next_action": "Continue manual reading from source segment 279 of 3061; do not claim the full source has been reviewed. Continue draft rows after the first 47, then segment and reconcile coverage before clean."
 }
