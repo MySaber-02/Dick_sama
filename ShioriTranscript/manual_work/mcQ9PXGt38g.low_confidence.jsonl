@@ -17,3 +17,6 @@
 {"raw":"actually a lot of you guys I'm going to give it","reason":"句子在动词后截断，缺少动作对象。","source_draft_row":100}
 {"raw":"the one-sided me","reason":"该片段无法确认具体指代。","source_draft_row":110}
 {"raw":"every was any of you guys balloons","reason":"字幕严重错乱，无法可靠恢复。","source_draft_row":110}
+{"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","source_draft_row":153}
+{"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":156}
+{"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
