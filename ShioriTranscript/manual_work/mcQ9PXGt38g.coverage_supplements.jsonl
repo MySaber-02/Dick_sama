@@ -325,3 +325,8 @@
 {"draft_row":355,"raw":"Maybe it's because of the metallic.","actually":"Maybe it is because of the metallic setting.","status":"SFT"}
 {"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。","status":"LOW"}
 {"draft_row":215,"raw":"Turn my body. I want to turn my body so my butt is staying.","actually":"Turn my body. I want to turn my body so my rear stays in place.","status":"SFT"}
+{"draft_row":193,"raw":"I feel like my","reason":"句子残缺，无法确认后续表达。","status":"LOW"}
+{"draft_row":198,"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","status":"LOW"}
+{"draft_row":199,"raw":"are we all just","reason":"句子中断，缺少后续谓语。","status":"LOW"}
+{"draft_row":200,"raw":"I don't know if","reason":"句子在条件从句中途截断。","status":"LOW"}
+{"draft_row":200,"raw":"you were like","reason":"句子残缺，缺少后续内容。","status":"LOW"}
