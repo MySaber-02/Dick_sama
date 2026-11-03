@@ -24,12 +24,15 @@
     {
       "order": 3,
       "video_id": "mcQ9PXGt38g",
-      "status": "manual_draft_in_progress",
+      "status": "source_read_complete_segmentation_in_progress",
       "source_segments": 3061,
       "read_through": 559,
-      "draft_rows": 75,
-      "low_confidence": 2,
-      "clean": false
+      "draft_rows": 393,
+      "low_confidence": 67,
+      "clean": false,
+      "source_read_through": 3061,
+      "segmented_records": 886,
+      "segmented_through_draft_row": 320
     },
     {
       "order": 4,
@@ -70,5 +73,5 @@
   "completed_in_this_turn": [
     "mcQ9PXGt38g: created initial 75-row manual draft and LOW review placeholders; source reading through segment 559/3061"
   ],
-  "next": "Continue mcQ9PXGt38g from source segment 560; finish 7seUd8nr6-8 final review before treating it as complete."
+  "next": "Continue mcQ9PXGt38g segmentation from unique draft row 321 through 393, then complete source-coverage reconciliation and semantic review before clean. The batch's remaining files follow the queue in the manifest."
 }
