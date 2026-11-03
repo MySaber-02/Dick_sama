@@ -79,3 +79,32 @@
 {"raw":"my clip Mike come back don't you","reason":"字幕尾部“my clip Mike”及话轮边界不清，需回听；上下文可确认前半段，但不能可靠恢复该短语。","source_draft_row":341}
 {"raw":"what is the point there this look of the text","reason":"其中“this look of the text”识别异常，不能可靠判断原词。","source_draft_row":327}
 {"raw":"I want nothing more than right","reason":"字幕识别语义不完整，无法可靠恢复。","source_draft_row":336}
+{"raw":"Maybe if I can...","reason":"条件从句未完成，缺少后续内容。","source_draft_row":357}
+{"raw":"It's a ceiling mode that you...","reason":"术语与句子结构无法确认，不能根据游戏操作背景补全。","source_draft_row":358}
+{"raw":"So, like, um... turn","reason":"语句残缺，可能是口头犹豫与操作指令混合，无法可靠切分。","source_draft_row":359}
+{"raw":"There's got to be... I think...","reason":"话轮中断，无法确认后续表达。","source_draft_row":360}
+{"raw":"Ah, I don't think they'll...","reason":"句子被截断，缺少后续内容。","source_draft_row":361}
+{"raw":"Thanks for fan","reason":"ASR识别异常，无法确认具体词语。","source_draft_row":361}
+{"raw":"I don't know. It's kind of...","reason":"句子中断，缺少后续判断。","source_draft_row":361}
+{"raw":"Is it? Maybe not. Down","reason":"话轮和动作词边界不清，无法可靠恢复。","source_draft_row":361}
+{"raw":"This is not the right...","reason":"句子未完成，缺少对象。","source_draft_row":363}
+{"raw":"It was... I didn't turn to the...","reason":"两处残句，无法确认动作对象。","source_draft_row":363}
+{"raw":"If only the color matching was bad","reason":"疑似形容词识别错误，但无法确认原词。","source_draft_row":364}
+{"raw":"Elizabeth looks like Michael Ducks became a home hi okay aka money god","reason":"ASR严重错乱，无法可靠恢复整段表达。","source_draft_row":364}
+{"raw":"Bread now for the gingerbread party","reason":"语义与语法异常，无法确认是否为“bring bread”等表达。","source_draft_row":366}
+{"raw":"I think she's going to...","reason":"句子中断，未说明后续动作。","source_draft_row":366}
+{"raw":"I don't want to want to make a...","reason":"句子中途断裂，无法确认想制作的对象。","source_draft_row":376}
+{"raw":"These books are so dumb that they're so good","reason":"“books”可能是ASR错词，但无法确认实际名词。","source_draft_row":376}
+{"raw":"Holo centipede","reason":"需回听确认是否为“holo”或其他专名。","source_draft_row":378}
+{"raw":"Okay, don't worry. On the back side, my collab","reason":"“my collab”可能为错词或专名，需回听。","source_draft_row":379}
+{"raw":"I want nothing more than right","reason":"句子严重残缺，无法可靠恢复。","source_draft_row":379}
+{"raw":"A beautiful part of our centing","reason":"“centing”疑似ASR错词，无法确认原词。","source_draft_row":379}
+{"raw":"I just want to be a queen doesn't like bugs","reason":"疑似两个说话者的话轮粘连，需回听确认分句。","source_draft_row":380}
+{"raw":"Hopefully not what it's called","reason":"话轮边界和语义不清，保留待核。","source_draft_row":383}
+{"raw":"Serendipity is not Serendipity","reason":"可能是有意的玩笑或ASR重复，需核对音频。","source_draft_row":383}
+{"raw":"Yes. Going to be in LA and you want the World Serendipity","reason":"后半句可能包含活动名称或ASR错词，无法可靠补全。","source_draft_row":383}
+{"raw":"It's so...","reason":"句子未完成。","source_draft_row":384}
+{"raw":"I really like the, the...","reason":"自我重复后句子中断，后续内容不明确。","source_draft_row":385}
+{"raw":"Very often...","reason":"句子未完成，缺少后续内容。","source_draft_row":386}
+{"raw":"I'm just about...","reason":"句子中断，无法确定后续语义。","source_draft_row":387}
+{"raw":"Pretty good guy. Oh my god. Baby","reason":"ASR片段边界不清，需回听确认是否为连续话语。","source_draft_row":390}
