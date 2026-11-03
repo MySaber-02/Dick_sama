@@ -1,17 +1,18 @@
 {
   "video_id": "7seUd8nr6-8",
-  "status": "manual_draft_in_progress",
+  "status": "manual_draft_full_transcript_read_draft_in_progress",
   "source_segments": 2791,
   "source_txt_sha": "3051fca05cf7a29b0107b105b2b4401da8610a91",
   "source_json_sha": "f4067e3ed859b70b263f6eec200df087a29e3278",
   "source_read_through_segment": 2791,
   "source_transcript_read_complete": true,
-  "draft_rows": 70,
+  "draft_rows": 279,
   "draft_coverage_verified": false,
-  "semantic_review_through_draft_row": 70,
+  "semantic_review_through_draft_row": 279,
+  "final_semantic_review_complete": false,
   "segmented_records": 0,
-  "low_confidence_fragments": 14,
+  "low_confidence_fragments": 25,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Continue manually drafting the remaining transcript from approximately 1700 seconds onward, with source-segment coverage tracking. Review all 70 current draft rows, resolve LOW items where context permits, then validate final clean JSONL and archive originals only after full coverage is verified."
+  "next_action": "Review all 279 draft rows against the source, repair ASR/name errors, split each draft into sentence-level records, verify segment coverage, separate LOW rows into a non-SFT review file, validate clean JSONL, then move the original TXT/JSON to raw without byte changes."
 }
