@@ -65,3 +65,17 @@
 {"raw":"how do you make things less I don't realize","reason":"句子结构损坏，无法确认完整意思。","source_draft_row":293}
 {"raw":"this so this ain't it","reason":"语序异常且疑似重复识别，需回听确认。","source_draft_row":294}
 {"raw":"what yeah cuz I thought I was like what's that black thing about her neck","reason":"多处语音片段重叠，需回听确认准确措辞。","source_draft_row":295}
+{"raw":"what she would I don't know maybe what about being like one of those something intimidating well so maybe maybe that's I don't go to as much","reason":"该段中间出现语义断裂，尤其是“that's I don't go to as much”缺少可确认指代；只保留可独立确认的话轮。","source_draft_row":325}
+{"raw":"I've been waiting for","reason":"句子被截断，无法确认等待的对象或事件。","source_draft_row":325}
+{"raw":"oh do you really not this map though","reason":"疑似ASR漏词或错词，无法确认是 know 还是 not。","source_draft_row":324}
+{"raw":"there this look of the text","reason":"ASR词组无法可靠恢复，不能根据语境臆造。","source_draft_row":327}
+{"raw":"start doing the after","reason":"短语疑似识别错词，无法确认是 after、other 或其他表达。","source_draft_row":328}
+{"raw":"maybe turn off how do you","reason":"两个未完成片段，缺少可靠语义。","source_draft_row":329}
+{"raw":"I really hope you find","reason":"句子中途改口并由后续重复句完成；保留完整重复句，残片单独待核。","source_draft_row":330}
+{"raw":"I cannot with no pants mine","reason":"口语片段语义不明，不能确定 no pants 与 mine 的关系。","source_draft_row":333}
+{"raw":"I really","reason":"句子中途截断，后续转为另一问句。","source_draft_row":334}
+{"raw":"I'm not","reason":"句子未完成，缺少后续谓语。","source_draft_row":335}
+{"raw":"it is a really big night though it's so bright yeah I didn't realize please I'm right there she's not going to see us she's not going to see us whistle whistle whistle whistle my clip Mike come back don't","reason":"与后续草稿行的同一段字幕发生重叠，且尾部人名/短语识别不可靠；避免重复写入SFT，需回听或核对原始时间段。","source_draft_row":338}
+{"raw":"my clip Mike come back don't you","reason":"字幕尾部“my clip Mike”及话轮边界不清，需回听；上下文可确认前半段，但不能可靠恢复该短语。","source_draft_row":341}
+{"raw":"what is the point there this look of the text","reason":"其中“this look of the text”识别异常，不能可靠判断原词。","source_draft_row":327}
+{"raw":"I want nothing more than right","reason":"字幕识别语义不完整，无法可靠恢复。","source_draft_row":336}
