@@ -32,3 +32,6 @@
 {"raw":"did you just","reason":"字幕在问句中途截断，缺少后续内容，无法可靠恢复。","source_row":74,"source_segment_start":null,"source_segment_end":null}
 {"raw":"you know what got me she Noella got me","reason":"该处人物称呼疑似专名或昵称，字幕识别为不完整短语，无法可靠确认具体名称。","source_row":119,"source_segment_start":null,"source_segment_end":null}
 {"raw":"we need full moto to hand out the flyers","reason":"full moto 可能是游戏内状态、工具或口误，无法确认具体词语和含义。","source_row":130,"source_segment_start":null,"source_segment_end":null}
+{"raw":"it's okay in forever","reason":"该短语语法残缺，无法确认是在表达时间、安慰还是其他内容。","source_row":149,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I watched Caso do that in his water park simulator","reason":"创作者/频道名称与相邻字幕中的 Casio、Queso 等发音争议无法可靠对应，暂不确认专名。","source_row":155,"source_segment_start":null,"source_segment_end":null}
+{"raw":"man with some wolf things","reason":"该短语缺少上下文，无法确认所指物品或游戏内容。","source_row":158,"source_segment_start":null,"source_segment_end":null}
