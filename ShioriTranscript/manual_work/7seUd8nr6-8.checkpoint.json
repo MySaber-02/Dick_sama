@@ -10,11 +10,11 @@
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 279,
   "final_semantic_review_complete": false,
-  "segmented_records": 1219,
-  "low_confidence_fragments": 62,
+  "segmented_records": 1196,
+  "low_confidence_fragments": 63,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Perform final semantic review and source-coverage reconciliation across the 279 draft rows and segmented SFT staging. Correct any ASR/name errors, then create clean JSONL from reviewed segmented records, validate JSONL and duplicate/source coverage, and move original TXT/JSON to raw with byte-identical SHA verification.",
+  "next_action": "Perform final sentence-level semantic review and source-coverage reconciliation across all 279 draft rows, 1196 segmented records, and low-confidence fragments. Resolve any supported corrections; then create clean JSONL, validate it, and move original TXT/JSON to raw with byte-identical SHA verification.",
   "low_confidence_path": "ShioriTranscript/manual_work/7seUd8nr6-8.low_confidence.jsonl",
   "draft_schema_validation": "passed",
   "draft_duplicate_raw_count": 0,
@@ -23,6 +23,6 @@
   "low_confidence_full_draft_rows": 25,
   "low_confidence_subfragments": 37,
   "segmented_schema_validation": "passed",
-  "segmented_duplicate_raw_count": 23,
+  "segmented_duplicate_raw_count": 0,
   "segmented_contains_LOW": false
 }
