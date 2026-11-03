@@ -180,3 +180,4 @@
 {"raw":"Time to","reason":"动作短语被截断，缺少后续内容。","source_draft_row":212}
 {"raw":"I have to give her","reason":"句子在 give her 后中断，缺少后续内容。","source_draft_row":227}
 {"raw":"you can't see any","reason":"句子在 any 后中断，缺少被指代的对象。","source_draft_row":219}
+{"raw":"like Callie is up by last time","reason":"人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。","source_draft_row":216}
