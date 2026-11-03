@@ -24,15 +24,19 @@
     {
       "order": 3,
       "video_id": "mcQ9PXGt38g",
-      "status": "source_read_complete_segmentation_in_progress",
+      "status": "segmentation_completed_semantic_review_and_coverage_reconciliation_pending",
       "source_segments": 3061,
       "read_through": 559,
       "draft_rows": 393,
-      "low_confidence": 67,
+      "low_confidence": 116,
       "clean": false,
       "source_read_through": 3061,
-      "segmented_records": 886,
-      "segmented_through_draft_row": 320
+      "segmented_records": 1267,
+      "segmented_through_draft_row": 393,
+      "schema_validation": "passed",
+      "sft_low_overlap": 0,
+      "exact_raw_duplicates": 23,
+      "archive": false
     },
     {
       "order": 4,
@@ -71,7 +75,8 @@
     }
   ],
   "completed_in_this_turn": [
-    "mcQ9PXGt38g: created initial 75-row manual draft and LOW review placeholders; source reading through segment 559/3061"
+    "mcQ9PXGt38g: created initial 75-row manual draft and LOW review placeholders; source reading through segment 559/3061",
+    "mcQ9PXGt38g: read all 3061 source segments; completed first-pass sentence segmentation through all 393 unique draft rows; 1267 SFT candidates and 116 LOW; schema and SFT/LOW overlap checks passed; semantic/source coverage reconciliation and clean/archive remain pending"
   ],
-  "next": "Continue mcQ9PXGt38g segmentation from unique draft row 321 through 393, then complete source-coverage reconciliation and semantic review before clean. The batch's remaining files follow the queue in the manifest."
+  "next": "Complete coverage reconciliation and semantic review for mcQ9PXGt38g before clean/archive. Do not remove exact repeated short utterances without source evidence; then proceed to YZYnMPyJDtQ."
 }
