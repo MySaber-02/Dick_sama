@@ -105,7 +105,7 @@
 {"draft_row":110,"raw":"Turn up the metallic. Turn down the metallic. Turn up the roughness.","actually":"Increase the metallic setting, decrease it, and increase the roughness.","status":"SFT"}
 {"draft_row":110,"raw":"This is difficult.","actually":"This is difficult.","status":"SFT"}
 {"draft_row":110,"raw":"Maybe that's better. Really rough. Really rough. That's pretty.","actually":"Maybe that is better. It is really rough. It is really rough. That is pretty.","status":"SFT"}
-{"draft_row":111,"raw":"I'm stressing out.","actually":"I am stressing out.","status":"SFT"}
+{"draft_row":111,"raw":"I'm stressing out","actually":"I am stressing out.","status":"SFT"}
 {"draft_row":111,"raw":"can I get inside my the dude","reason":"ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。","status":"LOW"}
 {"draft_row":112,"raw":"unless that good","reason":"短语不完整，无法确认 unless 后的具体表达。","status":"LOW"}
 {"draft_row":112,"raw":"oh there seconds wait rotate wait","reason":"多个短片段连续识别，词语边界和动作含义不清。","status":"LOW"}
