@@ -7,3 +7,5 @@
 {"raw":"oh she's a blog okay","reason":"ASR词语无法确认，可能是人名或游戏术语。","source_draft_row":35}
 {"raw":"switch to","reason":"指令短语不完整，缺少切换对象。","source_draft_row":37}
 {"raw":"how do you switch to other people when you're five and then you go","reason":"语句严重残缺，无法可靠恢复完整含义。","source_draft_row":37}
+{"raw":"at the right","reason":"独立短语残缺，缺少后续语义。","source_draft_row":54}
+{"raw":"I have","reason":"句子在谓语后中断，无法确定后续表达。","source_draft_row":55}
