@@ -27,3 +27,5 @@
 {"raw":"I try so hard and I do not get any","reason":"该片段缺少宾语或结果内容，无法确认说话者是在说没有获得设计成果、反馈还是其他内容。","source_row":52,"source_segment_start":null,"source_segment_end":null}
 {"raw":"wait no I'm just going to go through that","reason":"前后关于片尾/游戏制作名单的对话中，该片段指代和具体动作不清，无法确定原句。","source_row":57,"source_segment_start":null,"source_segment_end":null}
 {"raw":"I saw that I stole my swimming suitc screen","reason":"泳装/游戏画面相关词语识别异常，无法判断实际动作和对象。","source_row":68,"source_segment_start":null,"source_segment_end":null}
+{"raw":"was that Kessle guys is it not it's pronounced Kessle","reason":"人名/昵称的发音在相邻字幕中存在多种识别结果，无法可靠确认拼写。","source_row":78,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I want to Valyria","reason":"该处人名或地名识别不确定，无法确认说话者指向的对象。","source_row":89,"source_segment_start":null,"source_segment_end":null}
