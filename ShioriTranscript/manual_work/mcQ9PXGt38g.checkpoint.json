@@ -11,7 +11,7 @@
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue manual comparison of each candidate in draft rows 1-320 against segmented and source text. Apply only source-supported edits; move unsupported inferences to LOW. Do not create clean until review and source coverage reconciliation are complete.",
+  "next_action": "Continue manual comparison of draft rows 36-320 against source segments. Apply only source-supported edits; move unsupported inferences to LOW. After all rows are reviewed, reconcile source coverage before creating clean or archiving originals.",
   "segmented_duplicate_raw_count": 23,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
@@ -20,9 +20,9 @@
   "draft_duplicate_raw_count": 0,
   "segmented_sft_low_overlap_count": 0,
   "duplicate_raw_policy": "Do not automatically remove repeated short utterances. These may be genuine repeated speech; verify against source timestamps before any deduplication.",
-  "semantic_review_range": "1-320",
-  "semantic_reviewed_draft_rows": 0,
-  "earlier_semantic_review_pending": "1-320",
+  "semantic_review_range": "36-320",
+  "semantic_reviewed_draft_rows": 35,
+  "earlier_semantic_review_pending": "36-320",
   "source_coverage_reconciled": false,
   "semantic_review_status": "in_progress",
   "semantic_review_notes": [
@@ -30,6 +30,7 @@
     "Row 81 actually omits the adverb 'lovingly' from 'stroke my ego lovingly'; restore the adverb if source speaker attribution confirms it belongs to this utterance.",
     "Row 91 maps 'it's a check out' to 'it's a giveaway'; this is an unsupported inference and should be moved to LOW unless the source audio/transcript context confirms the intended phrase.",
     "Row 25 'like a diagonal' should remain a fragment rather than be converted to the conjecture 'Perhaps diagonal.'",
-    "Other flagged candidates include 'how do you pay' (likely paint in the painting-game context but verify against source), several fused speaker turns, and summaries that omit self-corrections or meaningful content."
+    "Other flagged candidates include 'how do you pay' (likely paint in the painting-game context but verify against source), several fused speaker turns, and summaries that omit self-corrections or meaningful content.",
+    "Rows 1-35 manually reviewed against source transcript. Corrected row 1 'has crabs' to literal 'the hat crabs'; restored omitted 'Oh, jeez. Oh, back.' in row 21. Rows 19, 25, 32, and 35 moved to LOW because source transcript alone does not resolve the ambiguity. See mcQ9PXGt38g.semantic_review_001-035.md."
   ]
 }
