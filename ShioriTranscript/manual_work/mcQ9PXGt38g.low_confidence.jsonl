@@ -173,3 +173,4 @@
 {"raw":"your spot knowledge takes anymore","reason":"ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。","source_draft_row":172}
 {"raw":"oh god what a","reason":"感叹句在冠词后截断，缺少可恢复的宾语或评价。","source_draft_row":175}
 {"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","source_draft_row":175}
+{"raw":"150 is a little","reason":"比较句在 little 后中断，缺少评价内容。","source_draft_row":199}
