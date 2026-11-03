@@ -11,7 +11,7 @@
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Reconcile every draft row (1-393) to SFT or LOW and verify source coverage against all 3061 source segments. Review semantics in rows 1-320, then recheck 321-393, correct remaining raw/actually drift, validate final JSONL, create clean, and move original TXT/JSON from crawler_en to raw with byte-identical SHA verification.",
+  "next_action": "Begin manual semantic review of draft rows 1-320, using nearby original transcript segments when needed. Keep uncertain fragments in LOW; preserve repeated utterances unless source evidence shows subtitle duplication. Then reconcile coverage.",
   "segmented_duplicate_raw_count": 23,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
@@ -20,8 +20,8 @@
   "draft_duplicate_raw_count": 0,
   "segmented_sft_low_overlap_count": 0,
   "duplicate_raw_policy": "Do not automatically remove repeated short utterances. These may be genuine repeated speech; verify against source timestamps before any deduplication.",
-  "semantic_review_range": "321-393",
-  "semantic_reviewed_draft_rows": 73,
+  "semantic_review_range": "1-320",
+  "semantic_reviewed_draft_rows": 0,
   "earlier_semantic_review_pending": "1-320",
   "source_coverage_reconciled": false
 }
