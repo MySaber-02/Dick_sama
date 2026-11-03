@@ -30,3 +30,5 @@
 {"raw":"was that Kessle guys is it not it's pronounced Kessle","reason":"人名/昵称的发音在相邻字幕中存在多种识别结果，无法可靠确认拼写。","source_row":78,"source_segment_start":null,"source_segment_end":null}
 {"raw":"I want to Valyria","reason":"该处人名或地名识别不确定，无法确认说话者指向的对象。","source_row":89,"source_segment_start":null,"source_segment_end":null}
 {"raw":"did you just","reason":"字幕在问句中途截断，缺少后续内容，无法可靠恢复。","source_row":74,"source_segment_start":null,"source_segment_end":null}
+{"raw":"you know what got me she Noella got me","reason":"该处人物称呼疑似专名或昵称，字幕识别为不完整短语，无法可靠确认具体名称。","source_row":119,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we need full moto to hand out the flyers","reason":"full moto 可能是游戏内状态、工具或口误，无法确认具体词语和含义。","source_row":130,"source_segment_start":null,"source_segment_end":null}
