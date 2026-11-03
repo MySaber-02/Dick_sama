@@ -173,3 +173,4 @@
 {"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","source_draft_row":175}
 {"raw":"150 is a little","reason":"比较句在 little 后中断，缺少评价内容。","source_draft_row":199}
 {"raw":"this will go","reason":"句子在 go 后中断，无法确认说话者准备表达的判断。","source_draft_row":208}
+{"raw":"without moving room","reason":"字幕在 moving 与 room 之间的词语边界不清，无法确认完整操作指令。","source_draft_row":209}
