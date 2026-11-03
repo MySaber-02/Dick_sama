@@ -339,3 +339,4 @@
 {"draft_row":205,"raw":"just barely not","reason":"短语中途截断，无法确认完整判断。","status":"LOW"}
 {"draft_row":206,"raw":"They keep telling","reason":"句子在 telling 后中断，缺少后续内容。","status":"LOW"}
 {"draft_row":212,"raw":"Time to","reason":"动作短语被截断，缺少后续内容。","status":"LOW"}
+{"draft_row":216,"raw":"like Callie is up by last time","reason":"人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。","status":"LOW"}
