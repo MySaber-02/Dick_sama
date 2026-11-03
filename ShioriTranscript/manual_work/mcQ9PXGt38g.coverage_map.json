@@ -1,0 +1,145 @@
+{
+  "video_id": "mcQ9PXGt38g",
+  "source_coverage_additions": [
+    {
+      "draft_row": 394,
+      "source_segment_indices": [
+        137,
+        138
+      ],
+      "start_time": 885.92,
+      "end_time": 888.959,
+      "status": "SFT",
+      "raw": "They just have to last a minute and a half-ish."
+    },
+    {
+      "draft_row": 395,
+      "source_segment_indices": [
+        167,
+        168
+      ],
+      "start_time": 978.72,
+      "end_time": 980.72,
+      "status": "LOW",
+      "raw": "Herb is still okay. Oh, but Re is in her situ."
+    },
+    {
+      "draft_row": 396,
+      "source_segment_indices": [
+        192
+      ],
+      "start_time": 1057.36,
+      "end_time": 1057.36,
+      "status": "LOW",
+      "raw": "Twenty-five."
+    },
+    {
+      "draft_row": 397,
+      "source_segment_indices": [
+        194,
+        195,
+        196
+      ],
+      "start_time": 1059.039,
+      "end_time": 1062.559,
+      "status": "SFT",
+      "raw": "Three hundred is kind of long. Wait, how do you do that? Um, three hundred."
+    },
+    {
+      "draft_row": 398,
+      "source_segment_indices": [
+        422,
+        423
+      ],
+      "start_time": 1607.84,
+      "end_time": 1609.36,
+      "status": "SFT",
+      "raw": "Oh, she's hiding underneath."
+    },
+    {
+      "draft_row": 399,
+      "source_segment_indices": [
+        447,
+        448
+      ],
+      "start_time": 1661.12,
+      "end_time": 1665.44,
+      "status": "SFT",
+      "raw": "Sacrifice. I did."
+    },
+    {
+      "draft_row": 400,
+      "source_segment_indices": [
+        466,
+        467,
+        468,
+        469
+      ],
+      "start_time": 1693.919,
+      "end_time": 1698.88,
+      "status": "SFT",
+      "raw": "It's the tiniest size. 1.0. Don't be any bigger. You'll lose out."
+    },
+    {
+      "draft_row": 401,
+      "source_segment_indices": [
+        558,
+        559
+      ],
+      "start_time": 1882.24,
+      "end_time": 1883.679,
+      "status": "SFT",
+      "raw": "It's not working. I'm pressing X. Nothing's working."
+    },
+    {
+      "draft_row": 402,
+      "source_segment_indices": [
+        671
+      ],
+      "start_time": 2186.56,
+      "end_time": 2186.56,
+      "status": "LOW",
+      "raw": "Y."
+    },
+    {
+      "draft_row": 403,
+      "source_segment_indices": [
+        702
+      ],
+      "start_time": 2277.76,
+      "end_time": 2277.76,
+      "status": "LOW",
+      "raw": "Y."
+    },
+    {
+      "draft_row": 404,
+      "source_segment_indices": [
+        2071
+      ],
+      "start_time": 5666.32,
+      "end_time": 5666.32,
+      "status": "SFT",
+      "raw": "Bye-bye."
+    },
+    {
+      "draft_row": 405,
+      "source_segment_indices": [
+        174
+      ],
+      "start_time": 1006.8,
+      "end_time": 1006.8,
+      "status": "LOW",
+      "raw": "Luigi wins strategy."
+    },
+    {
+      "draft_row": 406,
+      "source_segment_indices": [
+        252
+      ],
+      "start_time": 1182.96,
+      "end_time": 1182.96,
+      "status": "SFT",
+      "raw": "A golden bikini."
+    }
+  ]
+}
