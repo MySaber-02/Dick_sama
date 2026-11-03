@@ -60,12 +60,13 @@
 ### 当前处理：`mcQ9PXGt38g`（2026-11-03）
 
 - 原始字幕共3061个片段，全文已阅读；完整来源到SFT/LOW的逐段核对仍未完成。
-- 原始草稿393条；第1～190条已完成人工语义复核。草稿文件另含13条来源覆盖补充记录。
-- `manual_work/mcQ9PXGt38g.segmented.jsonl`：1455条SFT候选，结构校验通过。
-- `manual_work/mcQ9PXGt38g.low_confidence.jsonl`：175条LOW记录，不进入SFT。
-- `manual_work/mcQ9PXGt38g.coverage_supplements.jsonl`：254条覆盖记录，其中194条SFT、60条LOW。
-- 保留24处完全相同的raw重复出现，不自动去重；草稿另有1处完全相同raw重复，也暂时保留。SFT与LOW之间无完全相同raw重叠。
-- 第151～190条已经重新逐行对照源字幕复核，纠正了此前的错行风险，并恢复162～180行遗漏的58条句子级SFT候选；复核记录见 `manual_work/mcQ9PXGt38g.semantic_review_151-190.md`。
-- 下一步从原始草稿第191条继续复核。尚未创建clean，原始TXT/JSON仍在`crawler_en`，未归档。
+- 原始草稿393条；第1～230条已完成人工语义复核。草稿文件另含13条来源覆盖补充记录。
+- `manual_work/mcQ9PXGt38g.segmented.jsonl`：1528条SFT候选，结构校验通过。
+- `manual_work/mcQ9PXGt38g.low_confidence.jsonl`：183条LOW记录，不进入SFT。
+- `manual_work/mcQ9PXGt38g.coverage_supplements.jsonl`：342条覆盖记录，其中267条SFT、75条LOW。
+- 保留26处完全相同的raw重复出现，不自动去重；草稿另有1处完全相同raw重复，也暂时保留。SFT与LOW之间无完全相同raw重叠。
+- 第191～230条已逐行对照源字幕复核，恢复重复发言、问句、反应和自我修正，并补回73条句子级SFT候选；复核记录见 `manual_work/mcQ9PXGt38g.semantic_review_191-230.md`。
+- 覆盖台账仍有4条LOW原因文本不一致，且本轮有17条LOW片段尚未同步到补充台账；完整3061段来源覆盖核对仍未完成。
+- 下一步从原始草稿第231条继续复核。尚未创建clean，原始TXT/JSON仍在`crawler_en`，未归档。
 
 Python处理辅助脚本不在本次上传范围；不使用自动语言清洗脚本、规则批量改写或外部模型代替人工语义判断。
