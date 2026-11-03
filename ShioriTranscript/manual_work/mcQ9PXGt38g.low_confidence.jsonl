@@ -13,3 +13,7 @@
 {"raw":"I wish please be the dirt please be","reason":"句子中断且语义无法确定。","source_draft_row":84}
 {"raw":"no is that not no you have to be the","reason":"话轮重叠，句子残缺，无法确认指代对象。","source_draft_row":85}
 {"raw":"I would never keep having to whistle","reason":"语音识别严重错乱，无法可靠恢复。","source_draft_row":85}
+{"raw":"oh she she's missing the","reason":"句子中途截断，无法确认后续宾语。","source_draft_row":90}
+{"raw":"actually a lot of you guys I'm going to give it","reason":"句子在动词后截断，缺少动作对象。","source_draft_row":100}
+{"raw":"the one-sided me","reason":"该片段无法确认具体指代。","source_draft_row":110}
+{"raw":"every was any of you guys balloons","reason":"字幕严重错乱，无法可靠恢复。","source_draft_row":110}
