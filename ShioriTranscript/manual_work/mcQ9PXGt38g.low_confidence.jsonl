@@ -119,3 +119,14 @@
 {"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":402,"source_segment_indices":[671]}
 {"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":403,"source_segment_indices":[702]}
 {"raw":"Luigi wins strategy.","reason":"字幕语义不完整，无法确认是玩家发言、系统提示还是ASR误识别。","source_draft_row":405,"source_segment_indices":[174]}
+{"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。"}
+{"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。"}
+{"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。"}
+{"draft_row":278,"raw":"The phrase order means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。"}
+{"draft_row":280,"raw":"Of course, ... is the one to kill the tour guide.","reason":"缺少明确主语，无法确认人物指代。"}
+{"draft_row":310,"raw":"Anna.","reason":"孤立人名/音节，无法确认是否为称呼或ASR噪声。"}
+{"draft_row":314,"raw":"Who's Who keeps shooting?","reason":"人名/游戏术语识别不确定，需回听。"}
+{"draft_row":316,"raw":"Reparative.","reason":"词语识别异常，无法确认原词。"}
+{"draft_row":349,"raw":"1800.","reason":"孤立数字，无法确定是分数、时间还是其他数值。"}
+{"draft_row":350,"raw":"Freaking.","reason":"孤立语气词，缺少足够上下文确认完整表达。"}
+{"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。"}
