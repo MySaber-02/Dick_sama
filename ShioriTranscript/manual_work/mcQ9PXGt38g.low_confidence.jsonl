@@ -174,3 +174,9 @@
 {"raw":"150 is a little","reason":"比较句在 little 后中断，缺少评价内容。","source_draft_row":199}
 {"raw":"this will go","reason":"句子在 go 后中断，无法确认说话者准备表达的判断。","source_draft_row":208}
 {"raw":"without moving room","reason":"字幕在 moving 与 room 之间的词语边界不清，无法确认完整操作指令。","source_draft_row":209}
+{"raw":"just barely not","reason":"短语中途截断，无法确认完整判断。","source_draft_row":205}
+{"raw":"How do I get this coloring this","reason":"操作问句的结尾词语不清，无法确认准确表达。","source_draft_row":205}
+{"raw":"They keep telling","reason":"句子在 telling 后中断，缺少后续内容。","source_draft_row":206}
+{"raw":"Time to","reason":"动作短语被截断，缺少后续内容。","source_draft_row":212}
+{"raw":"I have to give her","reason":"句子在 give her 后中断，缺少后续内容。","source_draft_row":227}
+{"raw":"you can't see any","reason":"句子在 any 后中断，缺少被指代的对象。","source_draft_row":219}
