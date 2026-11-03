@@ -1,2 +1,6 @@
 {"raw":"can I finally do","reason":"ASR片段不完整或上下文不足，暂不确定准确含义。"}
 {"raw":"yeah she's a moment ago","reason":"ASR片段不完整或上下文不足，暂不确定准确含义。"}
+{"raw":"can I finally do","reason":"句子未完成，无法确定后续动作或对象。","source_draft_row":12}
+{"raw":"yeah she's a moment ago","reason":"字幕语序和指代不完整，无法可靠恢复。","source_draft_row":16}
+{"raw":"how do I how do I leave this post off first time","reason":"语音识别结果不连贯，无法确认 post off 的实际词语和动作。","source_draft_row":15}
+{"raw":"I think everyone","reason":"句子在从句中途截断，缺少后续内容。","source_draft_row":22}
