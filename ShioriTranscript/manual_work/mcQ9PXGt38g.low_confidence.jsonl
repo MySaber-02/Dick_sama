@@ -20,3 +20,10 @@
 {"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","source_draft_row":153}
 {"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":156}
 {"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
+{"raw":"should I get","reason":"句子中途截断，缺少后续宾语或动作。","source_draft_row":181}
+{"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","source_draft_row":189}
+{"raw":"I feel like my oh","reason":"句子残缺，无法确认后续表达。","source_draft_row":194}
+{"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","source_draft_row":198}
+{"raw":"are we all just","reason":"句子中断，缺少后续谓语。","source_draft_row":199}
+{"raw":"I don't know if","reason":"句子在条件从句中途截断。","source_draft_row":200}
+{"raw":"you were like","reason":"句子残缺，缺少后续内容。","source_draft_row":200}
