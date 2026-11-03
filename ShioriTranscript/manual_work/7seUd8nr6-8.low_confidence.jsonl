@@ -42,3 +42,9 @@
 {"raw":"uh no pass six hours","reason":"票种/时长短语缺少清晰边界，无法确认是请求内容还是菜单文字。","source_row":182,"source_segment_start":null,"source_segment_end":null}
 {"raw":"oh I see popcorn but I don't","reason":"句子在转折处中断，后续内容缺失，无法确认说话者的完整表达。","source_row":196,"source_segment_start":null,"source_segment_end":null}
 {"raw":"yeah we'll have to like no girl","reason":"多个说话者的短句交叠，后半部分语义残缺，无法可靠拆分。","source_row":206,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I know my he paid sorry","reason":"语音识别将多段短语拼接，无法确定付款与道歉内容的完整关系。","source_row":212,"source_segment_start":null,"source_segment_end":null}
+{"raw":"use your wilds","reason":"游戏术语可能是近音词，缺少足够上下文确认原词。","source_row":215,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Queso was here Queso vandalized our park Queso how could he do that Queso why","reason":"人物/创作者名称在相邻片段中存在发音争议，无法可靠确认拼写和指代。","source_row":219,"source_segment_start":null,"source_segment_end":null}
+{"raw":"vandaliz","reason":"单词被截断，无法判断完整表达。","source_row":220,"source_segment_start":null,"source_segment_end":null}
+{"raw":"Queso please I watch your stuff","reason":"专名识别不确定，无法可靠确认称呼对象。","source_row":220,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we change you","reason":"短语语义不连贯，可能存在主语或动词识别错误，无法可靠还原。","source_row":214,"source_segment_start":null,"source_segment_end":null}
