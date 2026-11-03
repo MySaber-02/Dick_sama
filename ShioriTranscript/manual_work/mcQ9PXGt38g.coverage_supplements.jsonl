@@ -216,8 +216,80 @@
 {"draft_row":188,"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","status":"LOW"}
 {"draft_row":189,"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","status":"LOW"}
 {"draft_row":190,"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","status":"LOW"}
+{"draft_row":193,"raw":"oh oh my my three wonderful points","actually":"Oh, oh, my, my three wonderful points.","status":"SFT"}
+{"draft_row":203,"raw":"I'm so ready I'm so ready for this map","actually":"I am so ready. I am so ready for this map.","status":"SFT"}
+{"draft_row":203,"raw":"Hunter. Okay, Hunter's in channel one now, I guess.","actually":"Hunter. Okay, the hunter is in channel one now, I guess.","status":"SFT"}
+{"draft_row":203,"raw":"Wait, Hunter is in channel one now, right?","actually":"Wait, the hunter is in channel one now, right?","status":"SFT"}
+{"draft_row":203,"raw":"That's why, that's why Bae moved there, right?","actually":"That is why, that is why Bae moved there, right?","status":"SFT"}
+{"draft_row":203,"raw":"Yeah. Okay.","actually":"Yeah. Okay.","status":"SFT"}
+{"draft_row":204,"raw":"Keep on going. Keep on going.","actually":"Keep on going. Keep on going.","status":"SFT"}
+{"draft_row":204,"raw":"Ah, no. Can I not turn to the side?","actually":"Ah, no. Can I not turn to the side?","status":"SFT"}
+{"draft_row":204,"raw":"Why can't I...? Uh, there it is.","actually":"Why cannot I...? Uh, there it is.","status":"SFT"}
+{"draft_row":204,"raw":"Hey. Dang it. Hang on.","actually":"Hey. Dang it. Hang on.","status":"SFT"}
+{"draft_row":204,"raw":"Oh shoot, I just made a clone by accident.","actually":"Oh shoot, I just made a clone by accident.","status":"SFT"}
+{"draft_row":205,"raw":"How about you? I don't know about this, but...","actually":"How about you? I do not know about this, but...","status":"SFT"}
+{"draft_row":205,"raw":"Right. You get more points if you play.","actually":"Right. You get more points if you play.","status":"SFT"}
+{"draft_row":206,"raw":"Oh my god. Telling me to hang my body too much. Really?","actually":"Oh my god. They are telling me to hang my body too much. Really?","status":"SFT"}
+{"draft_row":206,"raw":"Yeah, right.","actually":"Yeah, right.","status":"SFT"}
+{"draft_row":206,"raw":"That's what I'm saying.","actually":"That is what I am saying.","status":"SFT"}
+{"draft_row":206,"raw":"They're so strict.","actually":"They are so strict.","status":"SFT"}
+{"draft_row":206,"raw":"I know. They're straight.","actually":"I know. They are straight.","status":"SFT"}
+{"draft_row":207,"raw":"But this is okay? Are you sure?","actually":"But this is okay? Are you sure?","status":"SFT"}
+{"draft_row":207,"raw":"How is this okay?","actually":"How is this okay?","status":"SFT"}
+{"draft_row":207,"raw":"I will never find a hiding spot.","actually":"I will never find a hiding spot.","status":"SFT"}
+{"draft_row":207,"raw":"Yeah, same.","actually":"Yeah, same.","status":"SFT"}
+{"draft_row":208,"raw":"Maybe I should be a bit more blue.","actually":"Maybe I should be a bit more blue.","status":"SFT"}
+{"draft_row":208,"raw":"Seems kind of unfair, but okay.","actually":"It seems kind of unfair, but okay.","status":"SFT"}
+{"draft_row":208,"raw":"What? Why can't I go back there?","actually":"What? Why cannot I go back there?","status":"SFT"}
+{"draft_row":209,"raw":"I want to turn my body.","actually":"I want to turn my body.","status":"SFT"}
+{"draft_row":209,"raw":"Is this better?","actually":"Is this better?","status":"SFT"}
+{"draft_row":209,"raw":"I have no idea.","actually":"I have no idea.","status":"SFT"}
+{"draft_row":209,"raw":"I go on top","actually":"I will go on top.","status":"SFT"}
 {"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。","status":"LOW"}
 {"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。","status":"LOW"}
+{"draft_row":210,"raw":"Let's figure out.","actually":"Let us figure this out.","status":"SFT"}
+{"draft_row":210,"raw":"Maybe a little this.","actually":"Maybe a little of this.","status":"SFT"}
+{"draft_row":210,"raw":"Come on.","actually":"Come on.","status":"SFT"}
+{"draft_row":211,"raw":"Okay, I can't get this color.","actually":"Okay, I cannot get this color.","status":"SFT"}
+{"draft_row":211,"raw":"This color sucks.","actually":"This color sucks.","status":"SFT"}
+{"draft_row":211,"raw":"Also, this brush must be better.","actually":"Also, this brush must be better.","status":"SFT"}
+{"draft_row":211,"raw":"Spin, spin, spin, spin.","actually":"Spin, spin, spin, spin.","status":"SFT"}
+{"draft_row":211,"raw":"I don't have time, man.","actually":"I do not have time, man.","status":"SFT"}
+{"draft_row":211,"raw":"I have to do this now.","actually":"I have to do this now.","status":"SFT"}
+{"draft_row":211,"raw":"I hate this body.","actually":"I hate this body.","status":"SFT"}
+{"draft_row":212,"raw":"We're on a white tile.","actually":"We are on a white tile.","status":"SFT"}
+{"draft_row":212,"raw":"I'll do my feet blue ones first.","actually":"I will do my feet blue ones first.","status":"SFT"}
+{"draft_row":212,"raw":"Okay. Um...","actually":"Okay. Um...","status":"SFT"}
+{"draft_row":212,"raw":"Oops.","actually":"Oops.","status":"SFT"}
+{"draft_row":212,"raw":"Oh, what have I done?","actually":"Oh, what have I done?","status":"SFT"}
+{"draft_row":212,"raw":"What did you do?","actually":"What did you do?","status":"SFT"}
+{"draft_row":212,"raw":"All right. Okay.","actually":"All right. Okay.","status":"SFT"}
+{"draft_row":212,"raw":"Fifty seconds.","actually":"Fifty seconds.","status":"SFT"}
+{"draft_row":213,"raw":"I don't need the voice.","actually":"I do not need the voice.","status":"SFT"}
+{"draft_row":213,"raw":"Don't remind me of the time, man.","actually":"Do not remind me of the time, man.","status":"SFT"}
+{"draft_row":213,"raw":"Climb up a bit. Climb.","actually":"Climb up a bit. Climb.","status":"SFT"}
+{"draft_row":213,"raw":"How do I climb?","actually":"How do I climb?","status":"SFT"}
+{"draft_row":213,"raw":"I made it metallic all the way.","actually":"I made it metallic all the way.","status":"SFT"}
+{"draft_row":213,"raw":"Okay. Oh god.","actually":"Okay. Oh god.","status":"SFT"}
+{"draft_row":213,"raw":"Can you climb? Climb.","actually":"Can you climb? Climb.","status":"SFT"}
+{"draft_row":214,"raw":"Yeah, yeah.","actually":"Yeah, yeah.","status":"SFT"}
+{"draft_row":214,"raw":"Oh, wait, what?","actually":"Oh, wait, what?","status":"SFT"}
+{"draft_row":214,"raw":"Okay, okay, okay.","actually":"Okay, okay, okay.","status":"SFT"}
+{"draft_row":215,"raw":"How do I do that?","actually":"How do I do that?","status":"SFT"}
+{"draft_row":215,"raw":"I think we can be proud of this.","actually":"I think we can be proud of this.","status":"SFT"}
+{"draft_row":215,"raw":"I'm so proud of this.","actually":"I am so proud of this.","status":"SFT"}
+{"draft_row":215,"raw":"I'm not proud of this.","actually":"I am not proud of this.","status":"SFT"}
+{"draft_row":216,"raw":"I think I think my hiding spots are funny","actually":"I think, I think my hiding spots are funny.","status":"SFT"}
+{"draft_row":217,"raw":"Okay, okay.","actually":"Okay, okay.","status":"SFT"}
+{"draft_row":217,"raw":"Huh?","actually":"Huh?","status":"SFT"}
+{"draft_row":217,"raw":"Please no.","actually":"Please no.","status":"SFT"}
+{"draft_row":217,"raw":"Okay.","actually":"Okay.","status":"SFT"}
+{"draft_row":217,"raw":"Surely.","actually":"Surely.","status":"SFT"}
+{"draft_row":219,"raw":"No","actually":"No.","status":"SFT"}
+{"draft_row":220,"raw":"Is it B? Oh, B.","actually":"Is it B? Oh, B.","status":"SFT"}
+{"draft_row":220,"raw":"Wait, who? Who?","actually":"Wait, who? Who?","status":"SFT"}
+{"draft_row":223,"raw":"Oh god. Nice.","actually":"Oh god. Nice.","status":"SFT"}
+{"draft_row":226,"raw":"God damn.","actually":"God damn.","status":"SFT"}
 {"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。","status":"LOW"}
 {"draft_row":277,"raw":"Welcome to Osaka. I'm your guide.","actually":"Welcome to Osaka. I am your guide.","status":"SFT"}
 {"draft_row":277,"raw":"Osaka is also home to Universal Studios Japan.","actually":"Osaka is also home to Universal Studios Japan.","status":"SFT"}
