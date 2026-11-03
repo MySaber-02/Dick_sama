@@ -139,3 +139,13 @@
 {"raw":"I'm bad at B","reason":"句尾识别片段中的 B 所指不明，可能是未完成的自我修正。","source_draft_row":66}
 {"raw":"yeah probably want","reason":"句子在 want 后中断，缺少宾语；不根据下一话轮补全。","source_draft_row":67}
 {"raw":"or do you think she","reason":"问句在从句中途截断，后续由另一说话者接续，不能补全。","source_draft_row":69}
+{"raw":"the cl","reason":"ASR片段在单词中途截断，无法确认 cl 的完整词语。","source_draft_row":75}
+{"raw":"oh lo and","reason":"句子起始处的短语无法确认，不能据此补出人物或动作。","source_draft_row":82}
+{"raw":"look your","reason":"说话者在 look your 处中断，缺少完整指代和谓语。","source_draft_row":83}
+{"raw":"it's a check out","reason":"字幕识别为 check out，无法根据当前上下文确认其具体含义；不能推断为 giveaway。","source_draft_row":91}
+{"raw":"Bale zoo","reason":"字幕识别短语无法确认，可能是人名、口误或ASR错误。","source_draft_row":98}
+{"raw":"Ending Iris","reason":"片段可能是人名或操作词，也可能是ASR错误，无法确认完整表达。","source_draft_row":98}
+{"raw":"why am I so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":100}
+{"raw":"it's so","reason":"句子未完成，缺少后续内容。","source_draft_row":101}
+{"raw":"I this color","reason":"语句残缺，无法确定 I this color 的实际词语和句法关系。","source_draft_row":105}
+{"raw":"press down the","reason":"操作指令被截断，缺少后续按键或对象。","source_draft_row":107}
