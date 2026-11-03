@@ -114,3 +114,8 @@
 {"raw":"I don't want to be the bad holo centipede","reason":"“bad”可能是“back”的ASR错词，但缺少音频证据确认。","source_draft_row":378}
 {"raw":"On the back side, my collab","reason":"短语中的“my collab”无法可靠识别，单独保留待核。","source_draft_row":379}
 {"raw":"I'm just...","reason":"自我起句未完成，缺少后续内容。","source_draft_row":387}
+{"raw":"Herb is still okay. Oh, but Re is in her situ.","reason":"“situ”是残缺识别词，无法确认完整词语或指代。","source_draft_row":395,"source_segment_indices":[167,168]}
+{"raw":"Twenty-five.","reason":"孤立数字缺少单位和具体指代，暂不猜测是秒数或其他数值。","source_draft_row":396,"source_segment_indices":[192]}
+{"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":402,"source_segment_indices":[671]}
+{"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":403,"source_segment_indices":[702]}
+{"raw":"Luigi wins strategy.","reason":"字幕语义不完整，无法确认是玩家发言、系统提示还是ASR误识别。","source_draft_row":405,"source_segment_indices":[174]}
