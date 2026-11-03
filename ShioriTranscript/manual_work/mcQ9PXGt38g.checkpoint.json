@@ -6,15 +6,15 @@
   "source_transcript_read_complete": true,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
   "draft_rows": 420,
-  "segmented_records": 620,
-  "low_confidence_fragments": 50,
+  "segmented_records": 756,
+  "low_confidence_fragments": 57,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue sentence-level segmentation from draft row 251 onward. Once all 420 draft rows are segmented, remove exact duplicate raw entries, reconcile every source passage to SFT staging or LOW, review semantic fidelity, and only then create clean JSONL and archive originals with SHA verification.",
-  "segmented_duplicate_raw_count": 1,
+  "next_action": "Continue sentence-level segmentation from draft row 286 onward. After all 420 draft rows are segmented, remove duplicate raw entries, reconcile all source coverage, review semantic fidelity, then create clean JSONL and archive originals with SHA verification.",
+  "segmented_duplicate_raw_count": 2,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
   "segmented_empty_field_count": 0,
-  "segmented_through_draft_row": 250
+  "segmented_through_draft_row": 285
 }
