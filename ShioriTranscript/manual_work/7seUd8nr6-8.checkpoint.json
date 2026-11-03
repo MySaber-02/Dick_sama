@@ -1,6 +1,6 @@
 {
   "video_id": "7seUd8nr6-8",
-  "status": "segmentation_reconciled_partial_final_review_pending",
+  "status": "staging_reconciled_semantic_review_pending",
   "source_segments": 2791,
   "source_txt_sha": "3051fca05cf7a29b0107b105b2b4401da8610a91",
   "source_json_sha": "f4067e3ed859b70b263f6eec200df087a29e3278",
@@ -11,10 +11,10 @@
   "semantic_review_through_draft_row": 279,
   "final_semantic_review_complete": false,
   "segmented_records": 1133,
-  "low_confidence_fragments": 66,
+  "low_confidence_fragments": 65,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Manually reconcile the remaining 13 segmented raw text differences against the original transcript and draft, review semantics across all 1134 staging records and 66 LOW fragments, then create clean JSONL and archive originals only after complete source coverage is verified.",
+  "next_action": "Continue final semantic review of staging rows and reconcile each source passage to a segmented record or LOW entry. Do not create clean or archive originals until complete coverage and semantic checks are confirmed.",
   "low_confidence_path": "ShioriTranscript/manual_work/7seUd8nr6-8.low_confidence.jsonl",
   "draft_schema_validation": "passed",
   "draft_duplicate_raw_count": 0,
@@ -27,5 +27,5 @@
   "segmented_contains_LOW": false,
   "segmented_empty_field_count": 0,
   "final_jsonl_schema_validation": "staging_passed",
-  "source_coverage_proof": "partial_monotonic_token_alignment_1121_of_1134_records; 13 raw text differences require manual reconciliation"
+  "source_coverage_proof": "partial_monotonic_token_alignment_requires_manual_reconciliation; draft and source-ASR wording differ in several places"
 }
