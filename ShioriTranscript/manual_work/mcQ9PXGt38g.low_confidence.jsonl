@@ -55,3 +55,13 @@
 {"raw":"I don't I'll try around the","reason":"语序混乱且句子截断，无法可靠恢复。","source_draft_row":251}
 {"raw":"but you didn't tend to slide it out the other way","reason":"语音识别错乱，无法确认动作描述。","source_draft_row":251}
 {"raw":"it I'm so","reason":"句子严重残缺，无法恢复。","source_draft_row":251}
+{"raw":"yeah no but then I want no you guys you guys","reason":"对话中多人插话，语句无法可靠切分。","source_draft_row":286}
+{"raw":"no I'm hiding in blank blank in blank blank","reason":"原字幕明确缺失词语，无法恢复具体地点。","source_draft_row":287}
+{"raw":"look like I can't tell","reason":"短语残缺，无法确定说话者要表达的判断。","source_draft_row":288}
+{"raw":"no can't get that from","reason":"句子被截断，缺少后续动作对象。","source_draft_row":289}
+{"raw":"okay so I shall","reason":"句子未完成。","source_draft_row":290}
+{"raw":"I am so hight","reason":"疑似ASR错词，无法确认具体形容词。","source_draft_row":291}
+{"raw":"how do you make things less","reason":"问句未完成，缺少宾语或属性。","source_draft_row":292}
+{"raw":"how do you make things less I don't realize","reason":"句子结构损坏，无法确认完整意思。","source_draft_row":293}
+{"raw":"this so this ain't it","reason":"语序异常且疑似重复识别，需回听确认。","source_draft_row":294}
+{"raw":"what yeah cuz I thought I was like what's that black thing about her neck","reason":"多处语音片段重叠，需回听确认准确措辞。","source_draft_row":295}
