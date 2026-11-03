@@ -24,19 +24,25 @@
     {
       "order": 3,
       "video_id": "mcQ9PXGt38g",
-      "status": "segmentation_completed_semantic_review_and_coverage_reconciliation_pending",
+      "status": "semantic_review_in_progress_source_coverage_pending",
       "source_segments": 3061,
-      "read_through": 559,
+      "read_through": 3061,
       "draft_rows": 393,
-      "low_confidence": 116,
+      "low_confidence": 151,
       "clean": false,
       "source_read_through": 3061,
-      "segmented_records": 1267,
+      "segmented_records": 1384,
       "segmented_through_draft_row": 393,
       "schema_validation": "passed",
       "sft_low_overlap": 0,
       "exact_raw_duplicates": 23,
-      "archive": false
+      "archive": false,
+      "coverage_supplements": 146,
+      "coverage_supplement_sft": 116,
+      "coverage_supplement_low": 30,
+      "semantic_reviewed_draft_rows": 110,
+      "next_review_range": "111-320",
+      "draft_raw_duplicates": 1
     },
     {
       "order": 4,
@@ -76,7 +82,8 @@
   ],
   "completed_in_this_turn": [
     "mcQ9PXGt38g: created initial 75-row manual draft and LOW review placeholders; source reading through segment 559/3061",
-    "mcQ9PXGt38g: read all 3061 source segments; completed first-pass sentence segmentation through all 393 unique draft rows; 1267 SFT candidates and 116 LOW; schema and SFT/LOW overlap checks passed; semantic/source coverage reconciliation and clean/archive remain pending"
+    "mcQ9PXGt38g: read all 3061 source segments; completed first-pass sentence segmentation through all 393 unique draft rows; 1267 SFT candidates and 116 LOW; schema and SFT/LOW overlap checks passed; semantic/source coverage reconciliation and clean/archive remain pending",
+    "mcQ9PXGt38g: manually reviewed original draft rows 71-110 against source transcript; restored omitted speech and self-corrections, corrected the 'it's a check out' inference to LOW, added source-backed sentence-level SFT/LOW coverage, and validated staging (1384 SFT, 151 LOW, 23 exact SFT raw duplicates, no SFT/LOW overlap). Source-to-SFT/LOW reconciliation and clean/archive remain pending."
   ],
-  "next": "Complete coverage reconciliation and semantic review for mcQ9PXGt38g before clean/archive. Do not remove exact repeated short utterances without source evidence; then proceed to YZYnMPyJDtQ."
+  "next": "Continue mcQ9PXGt38g semantic review from original draft row 111 through row 320. Reconcile all source coverage before clean/archive; do not proceed to YZYnMPyJDtQ until this file is complete."
 }
