@@ -2,14 +2,14 @@
   "video_id": "mcQ9PXGt38g",
   "status": "manual_draft_in_progress",
   "source_segments": 3061,
-  "source_read_through_segment": 839,
+  "source_read_through_segment": 1118,
   "source_transcript_read_complete": false,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
-  "draft_rows": 121,
+  "draft_rows": 161,
   "segmented_records": 0,
   "low_confidence_fragments": 2,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue reading after the source passage around 2567 seconds; keep incomplete ASR in LOW, then complete remaining source coverage before segmentation."
+  "next_action": "Continue reading the original transcript after approximately 3277 seconds. Draft further source passages, preserve uncertain fragments in LOW, and complete the full 3061-segment source before segmentation."
 }
