@@ -63,3 +63,5 @@
 {"raw":"we change you","reason":"该短语在对话中语义不连贯，无法仅凭附近字幕确认是玩笑、称呼还是ASR误识别。","source_row":221,"source_segment_start":5028.4,"source_segment_end":5030.8}
 {"raw":"you're fixing","reason":"该短语在相邻话轮中被截断，无法确认是陈述、疑问还是对对方行为的回应。","source_row":216,"source_segment_start":5057.6,"source_segment_end":5060.719}
 {"raw":"oh why is this money","reason":"句子语序异常，缺少可靠上下文确认其原意。","source_row":216,"source_segment_start":5060.719,"source_segment_end":5063.44}
+{"raw":"and then they'll be like when we get there","reason":"句子在 when 从句前后缺少必要成分，无法确定说话者要表达的内容。","source_row":215,"source_segment_start":null,"source_segment_end":null}
+{"raw":"go ahead go paint your last we don't","reason":"末尾 we don't 为未完成片段，无法确认被打断的后续内容。","source_row":279,"source_segment_start":null,"source_segment_end":null}
