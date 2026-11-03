@@ -137,16 +137,85 @@
 {"draft_row":144,"raw":"What are you doing? I'm drawing myself as you. Me? Yeah.","actually":"What are you doing? I am drawing myself as you. Me? Yeah.","status":"SFT"}
 {"draft_row":144,"raw":"You got to do like a wink.","actually":"You have to do a wink.","status":"SFT"}
 {"draft_row":145,"raw":"Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.","actually":"You have to do a smile and feathers, but that is a lot of work, so I am just going to make you black.","status":"SFT"}
-{"draft_row":163,"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","status":"LOW"}
-{"draft_row":165,"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","status":"LOW"}
+{"draft_row":153,"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","status":"LOW"}
+{"draft_row":156,"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","status":"LOW"}
+{"draft_row":159,"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","status":"LOW"}
+{"draft_row":162,"raw":"I had one in me","reason":"代词 one 的具体指代不明，无法确认说的是口哨、玩家还是其他对象。","status":"LOW"}
+{"draft_row":162,"raw":"I unfortunately am blind","actually":"Unfortunately, I cannot see.","status":"SFT"}
+{"draft_row":162,"raw":"oh whistles in six seconds","actually":"Oh, the whistles will sound in six seconds.","status":"SFT"}
+{"draft_row":162,"raw":"three two","actually":"Three, two.","status":"SFT"}
+{"draft_row":162,"raw":"I didn't hear any","actually":"I did not hear any.","status":"SFT"}
+{"draft_row":162,"raw":"I better run","actually":"I had better run.","status":"SFT"}
+{"draft_row":163,"raw":"I just noted her here but I I don't know where","actually":"I just noted her here, but I do not know where.","status":"SFT"}
+{"draft_row":163,"raw":"oh my god I hear them","actually":"Oh my god. I hear them.","status":"SFT"}
+{"draft_row":163,"raw":"yeah I hear someone but I don't see anyone","actually":"Yeah, I hear someone, but I cannot see anyone.","status":"SFT"}
+{"draft_row":164,"raw":"I mean this place was a place of people","actually":"I mean, this place had people in it.","status":"SFT"}
+{"draft_row":164,"raw":"I feel blind as hell I'm just going to shoot this toilet paper","actually":"I cannot see anything. I am going to shoot this toilet paper.","status":"SFT"}
+{"draft_row":164,"raw":"oh they hate me so much it is over","actually":"Oh, they hate me so much. It is over.","status":"SFT"}
+{"draft_row":165,"raw":"oh the person this thing","reason":"ASR短片段缺少完整句法和指代对象，不能补出人物或物品。","status":"LOW"}
+{"draft_row":165,"raw":"you found be at least","reason":"be 可能是人名或ASR识别错误，未确认前不改写为 Bae 等名字。","status":"LOW"}
+{"draft_row":165,"raw":"oh my god I'm literally blind","actually":"Oh my god, I cannot see anything.","status":"SFT"}
+{"draft_row":165,"raw":"no it's okay I'm blind too","actually":"No, it is okay. I cannot see either.","status":"SFT"}
+{"draft_row":165,"raw":"yeah yeah yeah good job yeah","actually":"Yeah, yeah, good job. Yeah.","status":"SFT"}
+{"draft_row":166,"raw":"where are the other ones","actually":"Where are the others?","status":"SFT"}
+{"draft_row":166,"raw":"I heard them near the starting oh she was at the top","actually":"I heard them near the starting area. Oh, she was at the top.","status":"SFT"}
+{"draft_row":166,"raw":"oh pretty good yeah let's rejoin their call","actually":"Oh, pretty good. Yeah, let us rejoin their call.","status":"SFT"}
+{"draft_row":167,"raw":"okay for this one oh Mori and Humoko were somewhere around here","actually":"Okay, for this one, Mori and Humoko were somewhere around here.","status":"SFT"}
+{"draft_row":167,"raw":"that was pretty good you know it's too good very good","actually":"That was pretty good, you know. It is too good. Very good.","status":"SFT"}
+{"draft_row":168,"raw":"oh when you","reason":"条件/时间从句被截断，没有可核实的后续内容。","status":"LOW"}
+{"draft_row":168,"raw":"time to become infected let's try infection","actually":"Time to become infected. Let us try Infection.","status":"SFT"}
+{"draft_row":168,"raw":"everyone gets infected","actually":"Everyone gets infected.","status":"SFT"}
+{"draft_row":168,"raw":"that's the mode I see in clips","actually":"That is the mode I have seen in clips.","status":"SFT"}
+{"draft_row":168,"raw":"oh that's hard","actually":"Oh, that is difficult.","status":"SFT"}
+{"draft_row":169,"raw":"you have more painting time for the the chameleons then","actually":"Do the chameleons have more painting time, then?","status":"SFT"}
+{"draft_row":169,"raw":"okay yeah that might be nice","actually":"Okay. Yes, that might be nice.","status":"SFT"}
+{"draft_row":169,"raw":"wait can you repeat what's infection","actually":"Wait, can you repeat what Infection is?","status":"SFT"}
+{"draft_row":169,"raw":"so when you die you become a hunter","actually":"When you die, you become a hunter.","status":"SFT"}
+{"draft_row":170,"raw":"oh I see okay so it's just more hunters at the end","actually":"Oh, I see. Okay, so there are more hunters at the end.","status":"SFT"}
+{"draft_row":170,"raw":"should we do like a last timer for it then for like the actual","actually":"Should we set a timer for the actual round?","status":"SFT"}
+{"draft_row":171,"raw":"yeah we can't say where we are because","actually":"Yeah, we cannot say where we are.","status":"SFT"}
+{"draft_row":171,"raw":"yeah become a hunter huh","actually":"Yeah, become a hunter? Huh.","status":"SFT"}
+{"draft_row":171,"raw":"just make sure to leave the voice chat when you become a hunter then I think","actually":"Just make sure to leave the voice chat when you become a hunter, I think.","status":"SFT"}
+{"draft_row":172,"raw":"your spot knowledge takes anymore","reason":"ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。","status":"LOW"}
+{"draft_row":172,"raw":"yeah yeah okay but you also that means you also can't check what other people are doing after you're done painting right","actually":"Okay, but that also means you cannot check what others are doing after you finish painting, right?","status":"SFT"}
+{"draft_row":172,"raw":"yeah yep yeah","actually":"Yes.","status":"SFT"}
+{"draft_row":173,"raw":"would there be no whistle on this one","actually":"Would there be no whistle in this mode?","status":"SFT"}
+{"draft_row":173,"raw":"okay makes sense sure","actually":"Okay, that makes sense. Sure.","status":"SFT"}
+{"draft_row":173,"raw":"I guess we can see each other","actually":"I suppose we can see each other.","status":"SFT"}
+{"draft_row":173,"raw":"in fact you can't see each other","actually":"In fact, you cannot see each other.","status":"SFT"}
+{"draft_row":174,"raw":"I think it might be part of the game mode where you can't switch POVs anyway","actually":"I think it might be part of the game mode that you cannot switch viewpoints anyway.","status":"SFT"}
+{"draft_row":174,"raw":"yeah okay okay the game chat no okay","actually":"Yeah, okay, okay. The game chat? No. Okay.","status":"SFT"}
+{"draft_row":174,"raw":"so don't try to reveal yourself too hard when you're talking","actually":"So do not give away too much about your location when talking.","status":"SFT"}
 {"draft_row":175,"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies.","status":"SFT"}
 {"draft_row":175,"raw":"I'm a hunter.","actually":"I am a hunter.","status":"SFT"}
-{"draft_row":176,"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","status":"LOW"}
-{"draft_row":176,"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","status":"LOW"}
-{"draft_row":176,"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","status":"LOW"}
-{"draft_row":187,"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","status":"LOW"}
-{"draft_row":187,"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","status":"LOW"}
-{"draft_row":189,"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","status":"LOW"}
+{"draft_row":175,"raw":"oh god what a","reason":"感叹句在冠词后截断，缺少可恢复的宾语或评价。","status":"LOW"}
+{"draft_row":175,"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","status":"LOW"}
+{"draft_row":175,"raw":"oh yeah get out of here","actually":"Oh yeah, get out of here.","status":"SFT"}
+{"draft_row":175,"raw":"I need to paint","actually":"I need to paint.","status":"SFT"}
+{"draft_row":175,"raw":"oh my god how do I turn around","actually":"Oh my god. How do I turn around?","status":"SFT"}
+{"draft_row":176,"raw":"can I just shoot as many times possible","actually":"Can I shoot as many times as possible?","status":"SFT"}
+{"draft_row":176,"raw":"yeah you need to shoot a lot","actually":"Yeah, you need to shoot a lot.","status":"SFT"}
+{"draft_row":176,"raw":"oh god okay yeah no it's too obvious too obvious","actually":"Oh god. Okay. Yeah, no, it is too obvious. Too obvious.","status":"SFT"}
+{"draft_row":176,"raw":"uh try not to give too much away","actually":"Try not to give too much away.","status":"SFT"}
+{"draft_row":177,"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","status":"LOW"}
+{"draft_row":177,"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","status":"LOW"}
+{"draft_row":177,"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","status":"LOW"}
+{"draft_row":177,"raw":"you got to make that yourself you know","actually":"You have to make that yourself, you know.","status":"SFT"}
+{"draft_row":178,"raw":"oh just by like an artist spamming yourself","actually":"Is it done by repeatedly painting yourself?","status":"SFT"}
+{"draft_row":178,"raw":"I mean kind of you just you just got to be a good artist you know","actually":"I mean, kind of. You just have to be a good artist, you know.","status":"SFT"}
+{"draft_row":178,"raw":"I see","actually":"I see.","status":"SFT"}
+{"draft_row":179,"raw":"this is stupid but you know I might as well","actually":"This is stupid, but I might as well try.","status":"SFT"}
+{"draft_row":179,"raw":"no no no","actually":"No, no, no.","status":"SFT"}
+{"draft_row":179,"raw":"I love when it's dumb enough so it just might work","actually":"I love it when something is dumb enough that it might work.","status":"SFT"}
+{"draft_row":180,"raw":"this is so stupid I think they're going to find me but whatever","actually":"This is so stupid. I think they are going to find me, but whatever.","status":"SFT"}
+{"draft_row":180,"raw":"yeah okay wait we got still still got time","actually":"Yeah, okay, wait. We still have time.","status":"SFT"}
+{"draft_row":180,"raw":"sun cost fallacy I don't know man","actually":"Sunk-cost fallacy. I do not know, man.","status":"SFT"}
+{"draft_row":182,"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","status":"LOW"}
+{"draft_row":183,"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","status":"LOW"}
+{"draft_row":188,"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","status":"LOW"}
+{"draft_row":188,"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","status":"LOW"}
+{"draft_row":189,"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","status":"LOW"}
+{"draft_row":190,"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","status":"LOW"}
 {"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。","status":"LOW"}
 {"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。","status":"LOW"}
 {"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。","status":"LOW"}
