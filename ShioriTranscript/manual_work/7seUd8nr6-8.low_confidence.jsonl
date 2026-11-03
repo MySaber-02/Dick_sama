@@ -61,3 +61,5 @@
 {"raw":"um I don't know I thought it just we mop it to not like that","reason":"该句语序损坏，无法确认原说话者的完整意思。","source_row":278,"source_segment_start":null,"source_segment_end":null}
 {"raw":"all right I realized","reason":"独立残句，缺少后续内容，无法确定表达意图。","source_row":279,"source_segment_start":null,"source_segment_end":null}
 {"raw":"we change you","reason":"该短语在对话中语义不连贯，无法仅凭附近字幕确认是玩笑、称呼还是ASR误识别。","source_row":221,"source_segment_start":5028.4,"source_segment_end":5030.8}
+{"raw":"you're fixing","reason":"该短语在相邻话轮中被截断，无法确认是陈述、疑问还是对对方行为的回应。","source_row":216,"source_segment_start":5057.6,"source_segment_end":5060.719}
+{"raw":"oh why is this money","reason":"句子语序异常，缺少可靠上下文确认其原意。","source_row":216,"source_segment_start":5060.719,"source_segment_end":5063.44}
