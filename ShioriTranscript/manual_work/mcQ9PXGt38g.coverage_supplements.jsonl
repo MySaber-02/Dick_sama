@@ -137,8 +137,16 @@
 {"draft_row":144,"raw":"What are you doing? I'm drawing myself as you. Me? Yeah.","actually":"What are you doing? I am drawing myself as you. Me? Yeah.","status":"SFT"}
 {"draft_row":144,"raw":"You got to do like a wink.","actually":"You have to do a wink.","status":"SFT"}
 {"draft_row":145,"raw":"Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.","actually":"You have to do a smile and feathers, but that is a lot of work, so I am just going to make you black.","status":"SFT"}
+{"draft_row":163,"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","status":"LOW"}
+{"draft_row":165,"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","status":"LOW"}
 {"draft_row":175,"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies.","status":"SFT"}
 {"draft_row":175,"raw":"I'm a hunter.","actually":"I am a hunter.","status":"SFT"}
+{"draft_row":176,"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","status":"LOW"}
+{"draft_row":176,"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","status":"LOW"}
+{"draft_row":176,"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","status":"LOW"}
+{"draft_row":187,"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","status":"LOW"}
+{"draft_row":187,"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","status":"LOW"}
+{"draft_row":189,"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","status":"LOW"}
 {"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。","status":"LOW"}
 {"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。","status":"LOW"}
 {"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。","status":"LOW"}
