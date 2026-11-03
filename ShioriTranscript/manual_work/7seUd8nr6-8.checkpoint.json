@@ -10,8 +10,8 @@
   "draft_coverage_verified": false,
   "semantic_review_through_draft_row": 279,
   "final_semantic_review_complete": false,
-  "segmented_records": 326,
-  "low_confidence_fragments": 31,
+  "segmented_records": 325,
+  "low_confidence_fragments": 32,
   "clean_created": false,
   "originals_moved": false,
   "next_action": "Continue sentence-level segmentation from draft row 101 onward. Keep all whole-row LOW items and subfragments in the low-confidence review file. After the remaining draft is segmented, perform final semantic and source coverage review, then create clean JSONL and move originals to raw with byte-identical SHA verification.",
@@ -21,8 +21,8 @@
   "low_confidence_source_rows_match": true,
   "segmented_through_draft_row": 100,
   "low_confidence_full_draft_rows": 25,
-  "low_confidence_subfragments": 6,
+  "low_confidence_subfragments": 7,
   "segmented_schema_validation": "passed",
   "segmented_duplicate_raw_count": 0,
-  "segmented_contains_LOW": true
+  "segmented_contains_LOW": false
 }
