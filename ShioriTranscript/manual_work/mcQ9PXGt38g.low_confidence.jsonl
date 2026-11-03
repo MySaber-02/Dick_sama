@@ -48,3 +48,10 @@
 {"raw":"I'm trying to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
 {"raw":"then believe","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":235}
 {"raw":"I'm just not the right","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":236}
+{"raw":"you guys are so","reason":"句子中途截断，无法确认后续评价内容。","source_draft_row":251}
+{"raw":"you were just point","reason":"ASR识别不完整，无法确认 point 所指含义。","source_draft_row":251}
+{"raw":"but this is","reason":"句子残缺，缺少后续内容。","source_draft_row":251}
+{"raw":"you got","reason":"独立残句，无法确认说话者后续表达。","source_draft_row":251}
+{"raw":"I don't I'll try around the","reason":"语序混乱且句子截断，无法可靠恢复。","source_draft_row":251}
+{"raw":"but you didn't tend to slide it out the other way","reason":"语音识别错乱，无法确认动作描述。","source_draft_row":251}
+{"raw":"it I'm so","reason":"句子严重残缺，无法恢复。","source_draft_row":251}
