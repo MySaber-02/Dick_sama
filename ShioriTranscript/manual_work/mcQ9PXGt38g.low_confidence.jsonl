@@ -108,3 +108,9 @@
 {"raw":"Very often...","reason":"句子未完成，缺少后续内容。","source_draft_row":386}
 {"raw":"I'm just about...","reason":"句子中断，无法确定后续语义。","source_draft_row":387}
 {"raw":"Pretty good guy. Oh my god. Baby","reason":"ASR片段边界不清，需回听确认是否为连续话语。","source_draft_row":390}
+{"raw":"I think with the right paint","reason":"句子未完成，后续转为不确定的补充语，无法确定完整判断。","source_draft_row":361}
+{"raw":"Gigi, you just went to","reason":"话轮中途截断，后续地点或动作缺失。","source_draft_row":374}
+{"raw":"My painting... A little bit","reason":"字幕片段不完整，无法确认是在描述画作还是修饰其他内容。","source_draft_row":375}
+{"raw":"I don't want to be the bad holo centipede","reason":"“bad”可能是“back”的ASR错词，但缺少音频证据确认。","source_draft_row":378}
+{"raw":"On the back side, my collab","reason":"短语中的“my collab”无法可靠识别，单独保留待核。","source_draft_row":379}
+{"raw":"I'm just...","reason":"自我起句未完成，缺少后续内容。","source_draft_row":387}
