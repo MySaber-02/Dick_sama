@@ -21,7 +21,7 @@
 {"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
 {"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","source_draft_row":188}
 {"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","source_draft_row":189}
-{"raw":"I feel like my oh","reason":"句子残缺，无法确认后续表达。","source_draft_row":194}
+{"raw":"I feel like my","reason":"句子残缺，无法确认后续表达。","source_draft_row":193}
 {"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","source_draft_row":198}
 {"raw":"are we all just","reason":"句子中断，缺少后续谓语。","source_draft_row":199}
 {"raw":"I don't know if","reason":"句子在条件从句中途截断。","source_draft_row":200}
