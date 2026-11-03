@@ -40,3 +40,5 @@
 {"raw":"I will finally wait explain","reason":"字幕语序和识别结果明显损坏，无法判断完整句意。","source_row":170,"source_segment_start":null,"source_segment_end":null}
 {"raw":"automatic FL","reason":"游戏内物品或状态名称识别不确定，无法确认原词。","source_row":182,"source_segment_start":null,"source_segment_end":null}
 {"raw":"uh no pass six hours","reason":"票种/时长短语缺少清晰边界，无法确认是请求内容还是菜单文字。","source_row":182,"source_segment_start":null,"source_segment_end":null}
+{"raw":"oh I see popcorn but I don't","reason":"句子在转折处中断，后续内容缺失，无法确认说话者的完整表达。","source_row":196,"source_segment_start":null,"source_segment_end":null}
+{"raw":"yeah we'll have to like no girl","reason":"多个说话者的短句交叠，后半部分语义残缺，无法可靠拆分。","source_row":206,"source_segment_start":null,"source_segment_end":null}
