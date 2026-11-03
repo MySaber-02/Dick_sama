@@ -19,7 +19,7 @@
 {"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","source_draft_row":153}
 {"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":156}
 {"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
-{"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","source_draft_row":187}
+{"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","source_draft_row":188}
 {"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","source_draft_row":189}
 {"raw":"I feel like my oh","reason":"句子残缺，无法确认后续表达。","source_draft_row":194}
 {"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","source_draft_row":198}
@@ -159,10 +159,17 @@
 {"raw":"I'm hoping hidden behind this couch","reason":"句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。","source_draft_row":131}
 {"raw":"position my my favorite sausage","reason":"操作指令与名词短语粘连，无法可靠恢复完整句意。","source_draft_row":132}
 {"raw":"it's really","reason":"句子在 really 后中断，缺少后续内容。","source_draft_row":133}
-{"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","source_draft_row":163}
-{"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","source_draft_row":165}
-{"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","source_draft_row":189}
-{"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","source_draft_row":176}
-{"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","source_draft_row":176}
-{"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","source_draft_row":176}
-{"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","source_draft_row":187}
+{"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","source_draft_row":182}
+{"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","source_draft_row":183}
+{"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","source_draft_row":190}
+{"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","source_draft_row":177}
+{"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","source_draft_row":177}
+{"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","source_draft_row":177}
+{"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","source_draft_row":188}
+{"raw":"I had one in me","reason":"代词 one 的具体指代不明，无法确认说的是口哨、玩家还是其他对象。","source_draft_row":162}
+{"raw":"oh the person this thing","reason":"ASR短片段缺少完整句法和指代对象，不能补出人物或物品。","source_draft_row":165}
+{"raw":"you found be at least","reason":"be 可能是人名或ASR识别错误，未确认前不改写为 Bae 等名字。","source_draft_row":165}
+{"raw":"oh when you","reason":"条件/时间从句被截断，没有可核实的后续内容。","source_draft_row":168}
+{"raw":"your spot knowledge takes anymore","reason":"ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。","source_draft_row":172}
+{"raw":"oh god what a","reason":"感叹句在冠词后截断，缺少可恢复的宾语或评价。","source_draft_row":175}
+{"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","source_draft_row":175}
