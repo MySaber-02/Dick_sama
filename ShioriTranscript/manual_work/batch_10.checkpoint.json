@@ -1,0 +1,74 @@
+{
+  "batch": "next_10_files",
+  "updated": "2026-11-03",
+  "repository": "MySaber-02/Dick_sama",
+  "branch": "main",
+  "policy": "Follow AGENTS.md, README_DATASET.md and ShioriTranscript/一号标准.md. Never mark a file complete until manual semantic review, source coverage reconciliation, clean JSONL validation and byte-identical raw archive are complete.",
+  "files": [
+    {
+      "order": 1,
+      "video_id": "EN3vJ4WlFww",
+      "status": "clean_exists_archive_incomplete",
+      "clean": "ShioriTranscript/clean/EN3vJ4WlFww.jsonl",
+      "note": "Originals copied to raw and SHA verified, but source originals remain in crawler_en; needs archive policy reconciliation."
+    },
+    {
+      "order": 2,
+      "video_id": "7seUd8nr6-8",
+      "status": "final_semantic_review_pending",
+      "draft_rows": 279,
+      "segmented_records": 1131,
+      "low_confidence": 67,
+      "clean": false
+    },
+    {
+      "order": 3,
+      "video_id": "mcQ9PXGt38g",
+      "status": "manual_draft_in_progress",
+      "source_segments": 3061,
+      "read_through": 559,
+      "draft_rows": 75,
+      "low_confidence": 2,
+      "clean": false
+    },
+    {
+      "order": 4,
+      "video_id": "YZYnMPyJDtQ",
+      "status": "not_started"
+    },
+    {
+      "order": 5,
+      "video_id": "Y-_3O6wZI_U",
+      "status": "not_started"
+    },
+    {
+      "order": 6,
+      "video_id": "0XPeLT3nfy0",
+      "status": "not_started"
+    },
+    {
+      "order": 7,
+      "video_id": "Z-VzJibKJqQ",
+      "status": "not_started"
+    },
+    {
+      "order": 8,
+      "video_id": "RyelZGrCxWY",
+      "status": "not_started"
+    },
+    {
+      "order": 9,
+      "video_id": "O7Gg2_1AsPU",
+      "status": "not_started"
+    },
+    {
+      "order": 10,
+      "video_id": "ehbTci8o8NA",
+      "status": "not_started"
+    }
+  ],
+  "completed_in_this_turn": [
+    "mcQ9PXGt38g: created initial 75-row manual draft and LOW review placeholders; source reading through segment 559/3061"
+  ],
+  "next": "Continue mcQ9PXGt38g from source segment 560; finish 7seUd8nr6-8 final review before treating it as complete."
+}
