@@ -130,3 +130,12 @@
 {"draft_row":349,"raw":"1800.","reason":"孤立数字，无法确定是分数、时间还是其他数值。"}
 {"draft_row":350,"raw":"Freaking.","reason":"孤立语气词，缺少足够上下文确认完整表达。"}
 {"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。"}
+{"raw":"big bow","reason":"原始字幕中的短语无法确认，且与后续问句存在话轮边界；不根据上下文猜测专名或词语。","source_draft_row":19}
+{"raw":"how do you pay","reason":"字幕识别为 pay；虽然上下文涉及绘画操作，但没有音频证据确认应为 paint。","source_draft_row":32}
+{"raw":"are you","reason":"孤立句尾残片，缺少前文，无法确定其完整问句或指代。","source_draft_row":48}
+{"raw":"wow really neither are you","reason":"该片段依赖前文且涉及多话轮，缺少被回应内容，无法可靠确定语义。","source_draft_row":48}
+{"raw":"the way it's going to figure it out","reason":"原字幕句法和指代不清，不能无依据改写为“I will figure it out”。","source_draft_row":52}
+{"raw":"If I was","reason":"孤立的条件从句起始片段，后续由另一话轮重新起句，无法单独构成可靠样本。","source_draft_row":61}
+{"raw":"I'm bad at B","reason":"句尾识别片段中的 B 所指不明，可能是未完成的自我修正。","source_draft_row":66}
+{"raw":"yeah probably want","reason":"句子在 want 后中断，缺少宾语；不根据下一话轮补全。","source_draft_row":67}
+{"raw":"or do you think she","reason":"问句在从句中途截断，后续由另一说话者接续，不能补全。","source_draft_row":69}
