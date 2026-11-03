@@ -14,5 +14,9 @@
   "low_confidence_fragments": 25,
   "clean_created": false,
   "originals_moved": false,
-  "next_action": "Review all 279 draft rows against the source, repair ASR/name errors, split each draft into sentence-level records, verify segment coverage, separate LOW rows into a non-SFT review file, validate clean JSONL, then move the original TXT/JSON to raw without byte changes."
+  "next_action": "Complete final semantic review of the 254 non-LOW rows, verify source-segment coverage and raw fidelity, then create clean JSONL from reviewed rows and move the original TXT/JSON to raw with byte-identical SHA verification. Do not mark complete until all checks pass.",
+  "low_confidence_path": "ShioriTranscript/manual_work/7seUd8nr6-8.low_confidence.jsonl",
+  "draft_schema_validation": "passed",
+  "draft_duplicate_raw_count": 0,
+  "low_confidence_source_rows_match": true
 }
