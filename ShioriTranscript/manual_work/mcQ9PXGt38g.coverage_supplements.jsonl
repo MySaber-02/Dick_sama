@@ -39,21 +39,72 @@
 {"draft_row":70,"raw":"I hear I hear them.","actually":"I hear them.","status":"SFT"}
 {"draft_row":70,"raw":"I know. Me too. I think the whistles actually make it worse.","actually":"I know. Me too. I think the whistles make it worse.","status":"SFT"}
 {"draft_row":70,"raw":"It's like it makes me bad at my job.","actually":"It makes me worse at my job.","status":"SFT"}
+{"draft_row":71,"raw":"They're taunting me.","actually":"They are taunting me.","status":"SFT"}
+{"draft_row":71,"raw":"I know.","actually":"I know.","status":"SFT"}
+{"draft_row":71,"raw":"You should... Maybe if you cry and make them feel bad.","actually":"You should... Maybe if you cry and make them feel bad.","status":"SFT"}
+{"draft_row":72,"raw":"Okay. Cry. Who? Where's the freaking babies at?","actually":"Okay, cry. Who? Where are the freaking babies?","status":"SFT"}
+{"draft_row":72,"raw":"Yeah. Oh, you found one.","actually":"Yes. Oh, you found one.","status":"SFT"}
+{"draft_row":72,"raw":"I was wondering about that. I guess I just missed her the first time.","actually":"I was wondering about that. I guess I just missed her the first time.","status":"SFT"}
+{"draft_row":73,"raw":"There's another one.","actually":"There is another one.","status":"SFT"}
+{"draft_row":73,"raw":"So, we need what? Two more, or is that three more?","actually":"So, do we need two more, or three more?","status":"SFT"}
+{"draft_row":73,"raw":"With three more? With three more.","actually":"Three more? Three more.","status":"SFT"}
 {"draft_row":74,"raw":"They can also make clones, so we need to keep that in mind.","actually":"They can also make clones, so we need to remember that.","status":"SFT"}
-{"draft_row":74,"raw":"I think L said if we kill one clone, it kills them too.","actually":"I think L said that killing one clone kills all of them.","status":"SFT"}
-{"draft_row":74,"raw":"Does it? Yeah. So if you get one clone, they all die.","actually":"Does it? Yes. If you find one clone, they all die.","status":"SFT"}
+{"draft_row":74,"raw":"I think L said if we kill one clone, it kills them too.","actually":"I think L said that if we kill one clone, it kills them too.","status":"SFT"}
+{"draft_row":74,"raw":"Does it? Yeah. So if you get one clone, they all die.","actually":"Does it? Yes. If you get one clone, they all die.","status":"SFT"}
+{"draft_row":75,"raw":"Just like real life. Just like in real life.","actually":"Just like real life. Just like in real life.","status":"SFT"}
+{"draft_row":75,"raw":"Hey. Hey. That sounds like it was over here.","actually":"Hey, hey. That sounds like it was over here.","status":"SFT"}
+{"draft_row":75,"raw":"But where? Where? But where?","actually":"But where? Where? But where?","status":"SFT"}
+{"draft_row":75,"raw":"the cl","reason":"ASR片段在单词中途截断，无法确认 cl 的完整词语。","status":"LOW"}
+{"draft_row":82,"raw":"why are you all hiding together yeah","actually":"Why are you all hiding together? Yeah.","status":"SFT"}
+{"draft_row":82,"raw":"oh lo and","reason":"句子起始处的短语无法确认，不能据此补出人物或动作。","status":"LOW"}
+{"draft_row":83,"raw":"look your","reason":"说话者在 look your 处中断，缺少完整指代和谓语。","status":"LOW"}
+{"draft_row":91,"raw":"it's a check out","reason":"字幕识别为 check out，无法根据当前上下文确认其具体含义；不能推断为 giveaway。","status":"LOW"}
 {"draft_row":98,"raw":"You're not blind.","actually":"You are not blind.","status":"SFT"}
 {"draft_row":98,"raw":"I am not blind. I approve that I'm not blind.","actually":"I am not blind. I confirm that I am not blind.","status":"SFT"}
 {"draft_row":98,"raw":"The name and the password of the lobby are in the chat.","actually":"The lobby name and password are in the chat.","status":"SFT"}
+{"draft_row":98,"raw":"Bale zoo","reason":"字幕识别短语无法确认，可能是人名、口误或ASR错误。","status":"LOW"}
+{"draft_row":98,"raw":"Ending Iris","reason":"片段可能是人名或操作词，也可能是ASR错误，无法确认完整表达。","status":"LOW"}
+{"draft_row":99,"raw":"Yeah. Yeah. She already felt so good.","actually":"Yeah. Yeah. She already felt so good.","status":"SFT"}
+{"draft_row":99,"raw":"Oh, I see you now. I should have been bigger. Yay.","actually":"Oh, I see you now. I should have been bigger. Yay.","status":"SFT"}
+{"draft_row":100,"raw":"Okay, here we go.","actually":"Okay, here we go.","status":"SFT"}
+{"draft_row":100,"raw":"Oh, pretty.","actually":"Oh, pretty.","status":"SFT"}
+{"draft_row":100,"raw":"I don't want to stand in the spot area.","actually":"I do not want to stand in the spot area.","status":"SFT"}
+{"draft_row":100,"raw":"No. Oh no, I made a mistake.","actually":"No. Oh no, I made a mistake.","status":"SFT"}
+{"draft_row":100,"raw":"why am I so","reason":"句子中途截断，缺少后续谓语。","status":"LOW"}
+{"draft_row":101,"raw":"Okay, if this is the max we can go, why not?","actually":"Okay, if this is the max we can go, why not?","status":"SFT"}
+{"draft_row":101,"raw":"Oh, don't worry. I can't go inside.","actually":"Oh, do not worry. I cannot go inside.","status":"SFT"}
+{"draft_row":101,"raw":"No, you could. Yeah, we're so cooked, bro.","actually":"No, you could. Yeah, we are so cooked, bro.","status":"SFT"}
+{"draft_row":101,"raw":"it's so","reason":"句子未完成，缺少后续内容。","status":"LOW"}
+{"draft_row":102,"raw":"I think I'm good. I think my pose is good here, just like this.","actually":"I think I am good. I think my pose is good here, just like this.","status":"SFT"}
+{"draft_row":102,"raw":"I think you could get flat on the ground. Maybe better like that.","actually":"I think you could lie flat on the ground. Maybe that would be better.","status":"SFT"}
 {"draft_row":103,"raw":"I wish I could get this exact vertical.","actually":"I wish I could make this exactly vertical.","status":"SFT"}
-{"draft_row":103,"raw":"Vertical. Vertical. You got to vertical yourself.","actually":"You need to position yourself vertically.","status":"SFT"}
-{"draft_row":103,"raw":"How are you guys getting under things? Vertical. Vertical.","actually":"How are you getting underneath things?","status":"SFT"}
+{"draft_row":103,"raw":"Vertical. Vertical. You got to vertical yourself.","actually":"Vertical. Vertical. You need to make yourself vertical.","status":"SFT"}
+{"draft_row":103,"raw":"How are you guys getting under things? Vertical. Vertical.","actually":"How are you guys getting underneath things? Vertical. Vertical.","status":"SFT"}
 {"draft_row":104,"raw":"What do you mean by vertical?","actually":"What do you mean by vertical?","status":"SFT"}
+{"draft_row":104,"raw":"No, no, no, no. What the heck? No, no, no.","actually":"No, no, no, no. What the heck? No, no, no.","status":"SFT"}
+{"draft_row":104,"raw":"Oh, yes, yes, yes. Okay, okay. Body.","actually":"Oh, yes, yes, yes. Okay, okay. Body.","status":"SFT"}
+{"draft_row":104,"raw":"How do I grab this color?","actually":"How do I grab this color?","status":"SFT"}
+{"draft_row":105,"raw":"How do I...? Why can't I grab this color?","actually":"How do I...? Why can't I grab this color?","status":"SFT"}
+{"draft_row":105,"raw":"Oh, there we go.","actually":"Oh, there we go.","status":"SFT"}
+{"draft_row":105,"raw":"No, go in.","actually":"No, go in.","status":"SFT"}
+{"draft_row":105,"raw":"That's why I can't draw. Maybe this is a bad idea.","actually":"That is why I cannot draw. Maybe this is a bad idea.","status":"SFT"}
+{"draft_row":105,"raw":"I this color","reason":"语句残缺，无法确定 I this color 的实际词语和句法关系。","status":"LOW"}
+{"draft_row":106,"raw":"No, go away. Absolutely traumatized.","actually":"No, go away. I am absolutely traumatized.","status":"SFT"}
+{"draft_row":106,"raw":"I can't, I can't draw. Well, actually, wait. We should kind of try and get the texture at least. Am I not a good color?","actually":"I cannot draw. Well, actually, wait. We should try to get the texture, at least. Am I not a good color?","status":"SFT"}
+{"draft_row":107,"raw":"Make the bad brush smaller.","actually":"Make the brush smaller.","status":"SFT"}
+{"draft_row":107,"raw":"All right, time for the wheel. How do I rotate? How do I rotate?","actually":"All right, time for the wheel. How do I rotate? How do I rotate?","status":"SFT"}
+{"draft_row":107,"raw":"This is not... I can't, I can't do this.","actually":"This is not... I cannot do this.","status":"SFT"}
+{"draft_row":107,"raw":"press down the","reason":"操作指令被截断，缺少后续按键或对象。","status":"LOW"}
+{"draft_row":108,"raw":"What in the world? How do I rotate myself?","actually":"What in the world? How do I rotate myself?","status":"SFT"}
+{"draft_row":108,"raw":"Um, it's that color. How do I change my Pokemon?","actually":"Um, it is that color. How do I change my Pokémon?","status":"SFT"}
+{"draft_row":108,"raw":"All right, metallic. Oh, I got it. I have an idea. Okay. Darker.","actually":"All right, metallic. Oh, I got it. I have an idea. Okay, darker.","status":"SFT"}
 {"draft_row":109,"raw":"I already survived. I deserve to die for once.","actually":"I have already survived. I deserve to die for once.","status":"SFT"}
-{"draft_row":109,"raw":"You deserve it. Yeah. Thank you.","actually":"You deserve it. Thank you.","status":"SFT"}
+{"draft_row":109,"raw":"You deserve it. Yeah. Thank you.","actually":"You deserve it. Yeah. Thank you.","status":"SFT"}
 {"draft_row":109,"raw":"Metallics. Turn up the roughness.","actually":"Increase the metallic setting. Increase the roughness.","status":"SFT"}
+{"draft_row":109,"raw":"Yes.","actually":"Yes.","status":"SFT"}
 {"draft_row":110,"raw":"Turn up the metallic. Turn down the metallic. Turn up the roughness.","actually":"Increase the metallic setting, decrease it, and increase the roughness.","status":"SFT"}
 {"draft_row":110,"raw":"This is difficult.","actually":"This is difficult.","status":"SFT"}
+{"draft_row":110,"raw":"Maybe that's better. Really rough. Really rough. That's pretty.","actually":"Maybe that is better. It is really rough. It is really rough. That is pretty.","status":"SFT"}
 {"draft_row":142,"raw":"It's like they want us to flirt.","actually":"It is as if they want us to flirt.","status":"SFT"}
 {"draft_row":175,"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies.","status":"SFT"}
 {"draft_row":175,"raw":"I'm a hunter.","actually":"I am a hunter.","status":"SFT"}
