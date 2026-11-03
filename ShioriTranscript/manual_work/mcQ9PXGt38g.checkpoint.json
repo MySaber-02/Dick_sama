@@ -2,14 +2,14 @@
   "video_id": "mcQ9PXGt38g",
   "status": "manual_draft_in_progress",
   "source_segments": 3061,
-  "source_read_through_segment": 1681,
+  "source_read_through_segment": 1958,
   "source_transcript_read_complete": false,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
-  "draft_rows": 239,
+  "draft_rows": 273,
   "segmented_records": 0,
   "low_confidence_fragments": 2,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue source reading after approximately 4682 seconds; finish the rest of the transcript, mark uncertain ASR fragments LOW, and only then begin segmentation."
+  "next_action": "Continue reading from the next source passage after approximately 5376 seconds. Preserve incomplete or unreliable ASR in LOW and finish the remaining transcript before segmentation."
 }
