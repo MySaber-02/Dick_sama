@@ -60,3 +60,4 @@
 {"raw":"I did it just said the that's it just the the","reason":"字幕严重重复且语义残缺，无法可靠恢复。","source_row":278,"source_segment_start":null,"source_segment_end":null}
 {"raw":"um I don't know I thought it just we mop it to not like that","reason":"该句语序损坏，无法确认原说话者的完整意思。","source_row":278,"source_segment_start":null,"source_segment_end":null}
 {"raw":"all right I realized","reason":"独立残句，缺少后续内容，无法确定表达意图。","source_row":279,"source_segment_start":null,"source_segment_end":null}
+{"raw":"we change you","reason":"该短语在对话中语义不连贯，无法仅凭附近字幕确认是玩笑、称呼还是ASR误识别。","source_row":221,"source_segment_start":5028.4,"source_segment_end":5030.8}
