@@ -52,3 +52,11 @@
 {"raw":"oops let's go to some","reason":"句子在动作描述中途截断，无法确认后续内容。","source_row":240,"source_segment_start":null,"source_segment_end":null}
 {"raw":"Klaya","reason":"单独出现的人名/称呼，缺少足够语境确认拼写。","source_row":246,"source_segment_start":null,"source_segment_end":null}
 {"raw":"put on here there","reason":"字幕为不完整指令，无法确认物品和动作。","source_row":247,"source_segment_start":null,"source_segment_end":null}
+{"raw":"some pool","reason":"独立残句，缺少可恢复的谓语和指代对象。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"the tea","reason":"语境中疑似识别错误，无法确认具体名词。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I'll use it sand","reason":"语序和词语识别异常，无法确认说话者实际表达。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"you want to tell us to have","reason":"句子在不定式结构中途截断，无法确认后续内容。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"what is nice like this","reason":"语义残缺且缺少可靠上下文，无法确定原句。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"I did it just said the that's it just the the","reason":"字幕严重重复且语义残缺，无法可靠恢复。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"um I don't know I thought it just we mop it to not like that","reason":"该句语序损坏，无法确认原说话者的完整意思。","source_row":278,"source_segment_start":null,"source_segment_end":null}
+{"raw":"all right I realized","reason":"独立残句，缺少后续内容，无法确定表达意图。","source_row":279,"source_segment_start":null,"source_segment_end":null}
