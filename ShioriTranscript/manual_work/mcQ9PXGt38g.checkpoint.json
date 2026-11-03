@@ -6,12 +6,12 @@
   "source_transcript_read_complete": true,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
   "draft_rows": 393,
-  "segmented_records": 1398,
-  "low_confidence_fragments": 168,
+  "segmented_records": 1455,
+  "low_confidence_fragments": 175,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Review original draft rows 151-320 against source; rows 151-189 have partial SFT/LOW staging edits only and are NOT marked reviewed. Complete semantic review and reconcile all 3061 source segments before clean/archive.",
+  "next_action": "Continue manual source-backed review from original draft row 191 through 320. Then review remaining original rows through 393 and reconcile all 3061 source subtitle segments to SFT/LOW before clean creation and raw archival.",
   "segmented_duplicate_raw_count": 24,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
@@ -20,9 +20,9 @@
   "draft_duplicate_raw_count": 1,
   "segmented_sft_low_overlap_count": 0,
   "duplicate_raw_policy": "Do not automatically remove repeated short utterances. These may be genuine repeated speech; verify against source timestamps before any deduplication.",
-  "semantic_review_range": "151-320",
-  "semantic_reviewed_draft_rows": 150,
-  "earlier_semantic_review_pending": "151-320",
+  "semantic_review_range": "191-320",
+  "semantic_reviewed_draft_rows": 190,
+  "earlier_semantic_review_pending": "191-320",
   "source_coverage_reconciled": false,
   "semantic_review_status": "in_progress",
   "semantic_review_notes": [
@@ -37,9 +37,11 @@
     "Current staging validation after review through row 110: 1,384 segmented SFT records; 151 LOW records; 146 coverage-ledger records (116 SFT, 30 LOW); 23 exact duplicate raw occurrences retained; 1 duplicate raw in the draft retained; no exact SFT/LOW raw overlap, no empty fields and no schema errors. Full 3,061-segment source reconciliation remains pending.",
     "Rows 111-150 manually reviewed against the source TXT. Restored speaker turns, repetitions, self-corrections and omitted reactions; kept unresolved ASR fragments such as 'everyone's soy. Not last', 'position my my favorite sausage', and the unfinished 'I'm hoping hidden behind this couch' in LOW. Salvaged 'Were any of you guys balloons?' as source-supported SFT. See mcQ9PXGt38g.semantic_review_111-150.md.",
     "Latest staging validation: 1,398 SFT candidate records, 168 LOW records, 185 coverage-ledger records (136 SFT / 49 LOW); 24 exact duplicate raw occurrences retained, no exact SFT/LOW raw overlap, no schema errors. Review through row 150 remains the only confirmed completed semantic-review range. Source reconciliation pending.",
-    "2026-11-03 sync audit: reverted mistaken cross-row actually assignment in draft lines 151-189 to the prior aligned version. Partial staging edits on those lines are not an assertion of completed semantic review. Reconciled five LOW-ledger entries to LOW records."
+    "2026-11-03 sync audit: reverted mistaken cross-row actually assignment in draft lines 151-189 to the prior aligned version. Partial staging edits on those lines are not an assertion of completed semantic review. Reconciled five LOW-ledger entries to LOW records.",
+    "Rows 151-190 manually reviewed against source TXT; restored 58 omitted SFT samples from rows 162-180, corrected an affirmative 'You can fly' merged into an erroneous negative, added 7 LOW fragments, and realigned 8 LOW source-row references. See mcQ9PXGt38g.semantic_review_151-190.md.",
+    "Latest staging integrity after review through original row 190: 1,455 SFT candidates, 175 LOW records, 254 coverage-ledger records (194 SFT and 60 LOW). 24 exact duplicate SFT raw occurrences retained; no exact SFT/LOW raw overlap or SFT structural errors. Full source-to-SFT/LOW reconciliation remains pending."
   ],
-  "coverage_supplement_records": 185,
-  "coverage_supplement_sft_records": 136,
-  "coverage_supplement_low_records": 49
+  "coverage_supplement_records": 254,
+  "coverage_supplement_sft_records": 194,
+  "coverage_supplement_low_records": 60
 }
