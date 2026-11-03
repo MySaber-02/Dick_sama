@@ -105,7 +105,38 @@
 {"draft_row":110,"raw":"Turn up the metallic. Turn down the metallic. Turn up the roughness.","actually":"Increase the metallic setting, decrease it, and increase the roughness.","status":"SFT"}
 {"draft_row":110,"raw":"This is difficult.","actually":"This is difficult.","status":"SFT"}
 {"draft_row":110,"raw":"Maybe that's better. Really rough. Really rough. That's pretty.","actually":"Maybe that is better. It is really rough. It is really rough. That is pretty.","status":"SFT"}
-{"draft_row":142,"raw":"It's like they want us to flirt.","actually":"It is as if they want us to flirt.","status":"SFT"}
+{"draft_row":111,"raw":"I'm stressing out.","actually":"I am stressing out.","status":"SFT"}
+{"draft_row":111,"raw":"can I get inside my the dude","reason":"ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。","status":"LOW"}
+{"draft_row":112,"raw":"unless that good","reason":"短语不完整，无法确认 unless 后的具体表达。","status":"LOW"}
+{"draft_row":112,"raw":"oh there seconds wait rotate wait","reason":"多个短片段连续识别，词语边界和动作含义不清。","status":"LOW"}
+{"draft_row":112,"raw":"this is what","reason":"句子在 what 后中断，缺少后续内容。","status":"LOW"}
+{"draft_row":114,"raw":"okay that looks","reason":"句子中途截断，缺少后续谓语或评价对象。","status":"LOW"}
+{"draft_row":118,"raw":"Yeah. Yeah. Yeah.","actually":"Yeah. Yeah. Yeah.","status":"SFT"}
+{"draft_row":119,"raw":"Oh my gosh. Oh my gosh.","actually":"Oh my gosh. Oh my gosh.","status":"SFT"}
+{"draft_row":119,"raw":"everyone's soy not last","reason":"ASR短语语义不明，无法确认 soy 和 not last 的关系。","status":"LOW"}
+{"draft_row":122,"raw":"Yes.","actually":"Yes.","status":"SFT"}
+{"draft_row":122,"raw":"she do it","reason":"句子结构不完整，无法确认是疑问、陈述还是自我修正。","status":"LOW"}
+{"draft_row":130,"raw":"yeah I am a","reason":"句子在冠词后中断，缺少后续名词或补语。","status":"LOW"}
+{"draft_row":131,"raw":"Oh god. Oh no.","actually":"Oh god. Oh no.","status":"SFT"}
+{"draft_row":131,"raw":"I'm hoping hidden behind this couch","reason":"句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。","status":"LOW"}
+{"draft_row":132,"raw":"position my my favorite sausage","reason":"操作指令与名词短语粘连，无法可靠恢复完整句意。","status":"LOW"}
+{"draft_row":133,"raw":"it's really","reason":"句子在 really 后中断，缺少后续内容。","status":"LOW"}
+{"draft_row":141,"raw":"Were any of you guys balloons?","actually":"Were any of you guys balloons?","status":"SFT"}
+{"draft_row":142,"raw":"I know. Oh, it's like they want us to flirt.","actually":"I know. Oh, it is as if they want us to flirt.","status":"SFT"}
+{"draft_row":142,"raw":"I was hunting you guys.","actually":"I was hunting you guys.","status":"SFT"}
+{"draft_row":142,"raw":"Oh, it looks like we're all the hunters.","actually":"Oh, it looks like we are all the hunters.","status":"SFT"}
+{"draft_row":142,"raw":"For real? Are you joking?","actually":"For real? Are you joking?","status":"SFT"}
+{"draft_row":142,"raw":"How convenient.","actually":"How convenient.","status":"SFT"}
+{"draft_row":142,"raw":"Is this a joke?","actually":"Is this a joke?","status":"SFT"}
+{"draft_row":143,"raw":"Is this a joke? What? Am I a joke to you?","actually":"Is this a joke? What? Am I a joke to you?","status":"SFT"}
+{"draft_row":143,"raw":"Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.","actually":"Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.","status":"SFT"}
+{"draft_row":143,"raw":"Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?","actually":"Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?","status":"SFT"}
+{"draft_row":144,"raw":"I'm going to go draw myself as you.","actually":"I am going to go draw myself as you.","status":"SFT"}
+{"draft_row":144,"raw":"This too is Blood Quill.","actually":"This too is Blood Quill.","status":"SFT"}
+{"draft_row":144,"raw":"How do I do your eyes?","actually":"How do I do your eyes?","status":"SFT"}
+{"draft_row":144,"raw":"What are you doing? I'm drawing myself as you. Me? Yeah.","actually":"What are you doing? I am drawing myself as you. Me? Yeah.","status":"SFT"}
+{"draft_row":144,"raw":"You got to do like a wink.","actually":"You have to do a wink.","status":"SFT"}
+{"draft_row":145,"raw":"Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.","actually":"You have to do a smile and feathers, but that is a lot of work, so I am just going to make you black.","status":"SFT"}
 {"draft_row":175,"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies.","status":"SFT"}
 {"draft_row":175,"raw":"I'm a hunter.","actually":"I am a hunter.","status":"SFT"}
 {"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。","status":"LOW"}
