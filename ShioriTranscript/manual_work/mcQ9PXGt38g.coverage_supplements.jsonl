@@ -330,3 +330,4 @@
 {"draft_row":199,"raw":"are we all just","reason":"句子中断，缺少后续谓语。","status":"LOW"}
 {"draft_row":200,"raw":"I don't know if","reason":"句子在条件从句中途截断。","status":"LOW"}
 {"draft_row":200,"raw":"you were like","reason":"句子残缺，缺少后续内容。","status":"LOW"}
+{"draft_row":220,"raw":"oh never seen Bay","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
