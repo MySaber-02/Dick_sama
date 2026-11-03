@@ -5,16 +5,17 @@
   "source_read_through_segment": 3061,
   "source_transcript_read_complete": true,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
-  "draft_rows": 420,
+  "draft_rows": 393,
   "segmented_records": 886,
   "low_confidence_fragments": 67,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue sentence-level segmentation from draft row 321 onward. After all 420 draft rows are segmented, deduplicate, reconcile all source coverage, complete semantic review, then create clean JSONL and archive originals with SHA verification.",
+  "next_action": "Continue segmentation from the next unique draft row after the already segmented material; source reading is complete. The draft was deduplicated to remove repeated entries accidentally appended twice.",
   "segmented_duplicate_raw_count": 0,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
   "segmented_empty_field_count": 0,
-  "segmented_through_draft_row": 320
+  "segmented_through_draft_row": 320,
+  "draft_duplicate_raw_count": 0
 }
