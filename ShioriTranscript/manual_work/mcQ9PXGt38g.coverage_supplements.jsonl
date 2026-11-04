@@ -478,11 +478,11 @@
 {"draft_row":250,"raw":"the ruffies didn't believe in us","actually":"The ruffies didn't believe in us.","status":"SFT"}
 {"draft_row":250,"raw":"there's really just a lot of","reason":"句子在 of 后中断，缺少被描述的对象。","status":"LOW"}
 {"draft_row":250,"raw":"but","reason":"转折连词位于片段末尾，后续内容缺失。","status":"LOW"}
-{"draft_row":277,"raw":"Welcome to Osaka. I'm your guide.","actually":"Welcome to Osaka. I am your guide.","status":"SFT"}
+{"draft_row":277,"raw":"Hi. Welcome to Osaka. I'm your guide.","actually":"Hi. Welcome to Osaka. I am your guide.","status":"SFT"}
 {"draft_row":277,"raw":"Osaka is also home to Universal Studios Japan.","actually":"Osaka is also home to Universal Studios Japan.","status":"SFT"}
-{"draft_row":277,"raw":"This looks like a Universal-themed area.","actually":"This looks like an area themed around Universal Studios.","status":"SFT"}
-{"draft_row":278,"raw":"Have you ever been to Osaka? I'm the tour guide. Of course I've been to Osaka.","actually":"Have you ever been to Osaka? I am the tour guide, so of course I have been there.","status":"SFT"}
-{"draft_row":278,"raw":"The phrase order means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。","status":"LOW"}
+{"draft_row":277,"raw":"Yeah, this does look a little Universal-themed area.","actually":"Yeah, this does look a little like a Universal-themed area.","status":"SFT"}
+{"draft_row":278,"raw":"Have you ever been to Osaka? Um, I'm the tour guide. Of course I've been to Osaka.","actually":"Have you ever been to Osaka? I am the tour guide. Of course I have been to Osaka.","status":"SFT"}
+{"draft_row":278,"raw":"You know, if you hear the phrase order, it means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。","status":"LOW"}
 {"draft_row":280,"raw":"That was really good. That was very smart.","actually":"That was very good. That was very smart.","status":"SFT"}
 {"draft_row":280,"raw":"Of course, ... is the one to kill the tour guide.","reason":"缺少明确主语，无法确认人物指代。","status":"LOW"}
 {"draft_row":290,"raw":"Infectctor.","actually":"Infection.","status":"SFT"}
@@ -511,3 +511,42 @@
 {"draft_row":355,"raw":"Iridescent.","actually":"Iridescent.","status":"SFT"}
 {"draft_row":355,"raw":"Maybe it's because of the metallic.","actually":"Maybe it is because of the metallic setting.","status":"SFT"}
 {"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。","status":"LOW"}
+{"draft_row":274,"source_segment_indices":[1960],"raw":"That's better.","actually":"That is better.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1960],"raw":"Check on the side.","actually":"Check on the side.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1962],"raw":"Maybe it's too bright.","actually":"Maybe it is too bright.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1964],"raw":"Never cook again, I say to myself.","actually":"I tell myself never to cook again.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1965],"raw":"Oh, but I like your cooking.","actually":"Oh, but I like your cooking.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1966],"raw":"Oh.","actually":"Oh.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1967],"raw":"You're so sweet.","actually":"You are so sweet.","status":"SFT"}
+{"draft_row":274,"source_segment_indices":[1968],"raw":"Yeah, I'm hungry.","actually":"Yes, I am hungry.","status":"SFT"}
+{"draft_row":275,"source_segment_indices":[1972],"raw":"I'd be happy.","actually":"I would be happy.","status":"SFT"}
+{"draft_row":275,"source_segment_indices":[1972,1973],"raw":"No, I would feel bad for her, but I would be happy.","actually":"No, I would feel bad for her, but I would be happy.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1974],"raw":"She's getting so many points.","actually":"She is getting so many points.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1975],"raw":"Oh, she must be in plain sight.","actually":"Oh, she must be in plain sight.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1976],"raw":"Whoa.","actually":"Whoa.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1977],"raw":"Uh-oh. Uh-oh.","actually":"Uh-oh. Uh-oh.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1978],"raw":"No, she knows how to play the game.","actually":"No, she knows how to play the game.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1979],"raw":"So many points.","actually":"So many points.","status":"SFT"}
+{"draft_row":276,"source_segment_indices":[1981],"raw":"This is distracting.","actually":"This is distracting.","status":"SFT"}
+{"draft_row":277,"source_segment_indices":[1982],"raw":"Welcome to Osaka.","actually":"Welcome to Osaka.","status":"SFT"}
+{"draft_row":277,"source_segment_indices":[1984],"raw":"Uh, yeah.","actually":"Uh, yes.","status":"SFT"}
+{"draft_row":277,"source_segment_indices":[1987],"raw":"Yes. Yes.","actually":"Yes. Yes.","status":"SFT"}
+{"draft_row":279,"source_segment_indices":[1994],"raw":"It was cute. I liked it. Good job.","actually":"It was cute. I liked it. Good job.","status":"SFT"}
+{"draft_row":279,"source_segment_indices":[1995,1996],"raw":"It was cuz I was missing the headband, wasn't it?","actually":"It was because I was missing the headband, wasn't it?","status":"SFT"}
+{"draft_row":279,"source_segment_indices":[1997],"raw":"Yes.","actually":"Yes.","status":"SFT"}
+{"draft_row":280,"source_segment_indices":[1999],"raw":"I get it. I get it.","actually":"I understand. I understand.","status":"SFT"}
+{"draft_row":280,"source_segment_indices":[2000],"raw":"I understand. I understood.","actually":"I understand. I understood.","status":"SFT"}
+{"draft_row":280,"source_segment_indices":[2001],"raw":"She did not understand the assignment.","actually":"She did not understand the assignment.","status":"SFT"}
+{"draft_row":271,"source_segment_indices":[1943],"raw":"I...","reason":"单词 I 后被截断，无法确定所指动作。","status":"LOW"}
+{"draft_row":272,"source_segment_indices":[1954],"raw":"it I'm so","reason":"ASR 残缺，缺少可确认的谓语。","status":"LOW"}
+{"draft_row":273,"source_segment_indices":[1959],"raw":"this color was it","reason":"颜色指代和问句边界不清，不猜测完整问句。","status":"LOW"}
+{"draft_row":274,"source_segment_indices":[1960,1961],"raw":"so once again","reason":"连接片段不完整，后续意图不清。","status":"LOW"}
+{"draft_row":274,"source_segment_indices":[1963],"raw":"time for that","reason":"that 所指动作不明。","status":"LOW"}
+{"draft_row":275,"source_segment_indices":[1969],"raw":"might as well just paint as a neg","reason":"neg 的名称/含义不确定，不能猜专名。","status":"LOW"}
+{"draft_row":275,"source_segment_indices":[1970],"raw":"should we just become a naggie","reason":"naggie 可能是名称或 ASR 错误。","status":"LOW"}
+{"draft_row":275,"source_segment_indices":[1971],"raw":"what if she doesn't fight any of us","reason":"躲藏场景中可能为 find，但原字幕为 fight，证据不足。","status":"LOW"}
+{"draft_row":276,"source_segment_indices":[1980],"raw":"wish we would hide","reason":"原句疑似缺词，不补充未确认的问句或主语。","status":"LOW"}
+{"draft_row":277,"source_segment_indices":[1984],"raw":"Osaka got to be more","reason":"字幕残缺且疑似 ASR 错误。","status":"LOW"}
+{"draft_row":279,"source_segment_indices":[1993],"raw":"wasn't my spot wonderful story","reason":"主谓和指代不清，不能拼成确定命题。","status":"LOW"}
+{"draft_row":279,"source_segment_indices":[1994],"raw":"I","reason":"句子开头被打断，后续发言另行保留。","status":"LOW"}
+{"draft_row":279,"source_segment_indices":[1997,1998],"raw":"have someone not hanging their clothes","reason":"缺乏能够确定含义的字幕证据。","status":"LOW"}

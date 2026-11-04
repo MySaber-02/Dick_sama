@@ -57,16 +57,14 @@
 
 以下列表记录本批次处理顺序，实时状态以 `ShioriTranscript/manual_work/batch_10.checkpoint.json` 为准。单个文件完成语义审核、切分、结构校验和原始文件归档后，才更新为完成。
 
-### 当前处理：`mcQ9PXGt38g`（2026-11-03）
+### 当前处理：`mcQ9PXGt38g`（2026-11-04）
 
-- 原始字幕共3061个片段，全文已阅读；完整来源到SFT/LOW的逐段核对仍未完成。
-- 原始草稿393条；第1～250条已完成人工语义复核。草稿文件另含13条来源覆盖补充记录。
-- `manual_work/mcQ9PXGt38g.segmented.jsonl`：1620条SFT候选，结构校验通过。
-- `manual_work/mcQ9PXGt38g.low_confidence.jsonl`：197条LOW记录，不进入SFT。
-- `manual_work/mcQ9PXGt38g.coverage_supplements.jsonl`：513条覆盖记录，其中405条SFT、108条LOW。
-- 保留50处完全相同的raw重复出现，不自动去重；草稿另有1处完全相同raw重复，也暂时保留。SFT与LOW之间无完全相同raw重叠。
-- 第231～250条已逐行对照源字幕复核，修复了第240～250条此前遗漏的SFT话轮，恢复重复表达、犹豫和自我修正；复核记录见 `manual_work/mcQ9PXGt38g.semantic_review_231-250.md`。
-- 第191～250条的SFT/LOW覆盖台账已重新核对，当前无未匹配的LOW原因或来源行号。
-- 下一步从原始草稿第251条继续复核。完整3061段来源覆盖核对仍未完成，尚未创建clean，原始TXT/JSON仍在`crawler_en`，未归档。
+- 3,061 段原始字幕已全文阅读；**来源逐段覆盖验证未完成**。
+- 原始草稿 393 条，另有 13 条来源补充记录。第 1～250 条有此前完整语义审核记录；第 251～270 条已提交 draft 修改，**但未完成 SFT/LOW 与来源覆盖台账核验**。
+- 本次按原始 JSON 的第 1938～2005 段复核第 271～280 条，恢复跨行倒数、重复、改口和被遗漏的句子；另更正第 270 条原字幕的遮蔽标记。
+- 候选 `manual_work/mcQ9PXGt38g.segmented.jsonl`：**1646 条 SFT**；`low_confidence.jsonl`：**209 条 LOW**；`coverage_supplements.jsonl`：**552 条覆盖补充记录**（431 SFT / 121 LOW）。
+- 本次新增 26 条 SFT、12 条 LOW，并将原先误标成第 251 条的 LOW `it I'm so` 更正到第 272 条。逐条决策见 `manual_work/mcQ9PXGt38g.semantic_review_271-280.md`。
+- SFT 字段结构校验通过，与 LOW 完全相同的 raw 重叠数为 0；真实重复发言不自动去重。
+- 下一步审查原始草稿第 281～320 条，同时补齐第 251～270 条的 SFT/LOW 和来源覆盖核验。完成所有 393 条草稿和 3,061 段字幕核对之前，**不创建 clean，也不归档原始文件**。
 
 Python处理辅助脚本不在本次上传范围；不使用自动语言清洗脚本、规则批量改写或外部模型代替人工语义判断。

@@ -6,13 +6,13 @@
   "source_transcript_read_complete": true,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
   "draft_rows": 393,
-  "segmented_records": 1620,
-  "low_confidence_fragments": 197,
+  "segmented_records": 1646,
+  "low_confidence_fragments": 209,
   "clean_created": false,
   "originals_moved": false,
   "draft_coverage_verified": false,
-  "next_action": "Continue manual source-backed review from original draft row 251 through 320. Then review remaining original rows through 393 and reconcile all 3061 source subtitle segments to SFT/LOW before clean creation and raw archival.",
-  "segmented_duplicate_raw_count": 50,
+  "next_action": "Review 281-320; reconcile prior draft-only edits in rows 251-270 with segmented SFT/LOW/source ledger. Continue through 393 and prove all 3061 source segments before clean/archive.",
+  "segmented_duplicate_raw_count": 51,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
   "segmented_empty_field_count": 0,
@@ -20,7 +20,7 @@
   "draft_duplicate_raw_count": 1,
   "segmented_sft_low_overlap_count": 0,
   "duplicate_raw_policy": "Do not automatically remove repeated short utterances. These may be genuine repeated speech; verify against source timestamps before any deduplication.",
-  "semantic_review_range": "251-320",
+  "semantic_review_range": "281-320",
   "semantic_reviewed_draft_rows": 250,
   "earlier_semantic_review_pending": "231-320",
   "source_coverage_reconciled": false,
@@ -44,9 +44,24 @@
     "Current staging snapshot after review through row 230: 1,528 SFT candidates, 183 LOW records, 342 coverage-ledger records (267 SFT and 75 LOW), 26 exact duplicate raw occurrences retained. No exact SFT/LOW raw overlap or SFT schema errors. Four LOW ledger reason mismatches remain, and 12 LOW records in rows 191-230 are not yet represented in the coverage supplement ledger. Full 3,061-source-segment reconciliation remains pending.",
     "Rows 231-250 manually reviewed against the source TXT. Re-segmented the previously staged 46 records for rows 231-239 and restored missing dialogue for rows 240-250, producing 138 source-aligned SFT records. Added 15 LOW fragments and corrected provenance for earlier LOW entries; removed 'indo country' from LOW after recovering it as SFT. See mcQ9PXGt38g.semantic_review_231-250.md.",
     "Coverage synchronization after review through row 250: SFT and LOW ledger entries for rows 191-250 were reconciled against the staging files; no unmatched LOW reason/provenance entries remain in that range. Full 3061-source-segment reconciliation remains pending.",
-    "Post-commit ledger audit: rebuilt the supplement ledger from the prior 342-entry version, preserved earlier records, added 138 row-231-250 SFT entries, and synchronized all LOW entries for rows 191-250. Corrected ledger count: 513 (405 SFT / 108 LOW)."
+    "Post-commit ledger audit: rebuilt the supplement ledger from the prior 342-entry version, preserved earlier records, added 138 row-231-250 SFT entries, and synchronized all LOW entries for rows 191-250. Corrected ledger count: 513 (405 SFT / 108 LOW).",
+    "2026-11-04: reviewed source segments 1938-2005 and draft rows 271-280; restored 10/9/8 vs 7/6 countdown boundary and 26 missing SFT utterances, recorded 13 LOW provenance decisions (12 new LOW, 1 corrected from row 251 to 272). Preserved the masked profanity in adjacent row 270. Source coverage reconciliation remains incomplete; rows 251-270 staging not yet audited. See semantic_review_271-280.md."
   ],
-  "coverage_supplement_records": 513,
-  "coverage_supplement_sft_records": 405,
-  "coverage_supplement_low_records": 108
+  "coverage_supplement_records": 552,
+  "coverage_supplement_sft_records": 431,
+  "coverage_supplement_low_records": 121,
+  "post_250_review_ranges": [
+    {
+      "range": "251-270",
+      "draft_actually_edited": true,
+      "staging_source_coverage_audit_complete": false
+    },
+    {
+      "range": "271-280",
+      "draft_source_review_complete": true,
+      "source_segment_range": "1938-2005",
+      "sft_low_staging_updated": true,
+      "full_source_coverage_proven": false
+    }
+  ]
 }

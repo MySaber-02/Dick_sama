@@ -814,24 +814,24 @@
 {"raw":"I don't want to paint now","actually":"I do not want to paint now."}
 {"raw":"you have 40 seconds you better paint fast","actually":"You have forty seconds. You need to paint quickly."}
 {"raw":"shoot oops shoot shoot shoot","actually":"Shoot. Oops. Shoot."}
-{"raw":"yeah oh shit stop I need to stop whatever","actually":"Stop. I need to stop."}
+{"raw":"yeah oh [__] stop I need to stop whatever","actually":"Yeah. Oh [__]. Stop. I need to stop. Whatever."}
 {"raw":"30 seconds","actually":"There are thirty seconds left."}
 {"raw":"I'm trying from above","actually":"I am trying from above."}
-{"raw":"ah stop floating","actually":"Stop floating."}
+{"raw":"ah stop floating","actually":"Ah, stop floating."}
 {"raw":"20 seconds I'm too bright","actually":"There are twenty seconds left. I am too bright."}
-{"raw":"you know what whatever good enough it's fine it's okay","actually":"This is good enough. It is fine."}
+{"raw":"you know what whatever good enough it's fine it's okay","actually":"You know what? Whatever. Good enough. It's fine. It's okay."}
 {"raw":"how do I stop floating","actually":"How do I stop floating?"}
-{"raw":"check from all angles I'm trying give me a moment of space","actually":"Check from all angles. I am trying. Give me a moment."}
-{"raw":"10 9 8 seven six","actually":"Ten, nine, eight, seven, six."}
-{"raw":"check from angle I don't know how to change the angle","actually":"I do not know how to change the angle."}
-{"raw":"three uh I can't this body won't turn right","actually":"This body will not turn."}
+{"raw":"check from all angles I'm trying give me a moment of space","actually":"Check from all angles. I'm trying. Give me a moment of space."}
+{"raw":"10 9 8","actually":"Ten, nine, eight."}
+{"raw":"seven six","actually":"Seven, six."}
+{"raw":"check from angle I don't know how to change the angle","actually":"Check from an angle. I don't know how to change the angle."}
+{"raw":"three uh I can't this body won't turn right","actually":"Three. Uh, I can't... This body won't turn right."}
 {"raw":"my hiding spot is so good","actually":"My hiding spot is very good."}
-{"raw":"what you want me to do okay","actually":"What do you want me to do?"}
-{"raw":"you better hope maybe","actually":"Maybe."}
-{"raw":"one second maybe I should color myself","actually":"Maybe I should color myself."}
-{"raw":"one second can I color I think you can","actually":"Can I color it? I think so."}
-{"raw":"down move down","actually":"Move down."}
-{"raw":"this color was it","actually":"Is this the right color?"}
+{"raw":"what you want me to do okay","actually":"What do you want me to do? Okay."}
+{"raw":"you better hope maybe","actually":"You had better hope. Maybe."}
+{"raw":"one second maybe I should color myself","actually":"One second. Maybe I should color myself."}
+{"raw":"one second can I color I think you can","actually":"One second. Can I color? I think you can."}
+{"raw":"down move down","actually":"Down. Move down."}
 {"raw":"hey this is such a good pose honestly it just works","actually":"This is a very good pose. It works."}
 {"raw":"yeah wait where was where was everybody else","actually":"Where was everyone else?"}
 {"raw":"you're tour guide","actually":"You were the tour guide."}
@@ -1403,10 +1403,10 @@
 {"raw":"I know. Oh, it's like they want us to flirt.","actually":"I know. Oh, it is as if they want us to flirt."}
 {"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies."}
 {"raw":"I'm a hunter.","actually":"I am a hunter."}
-{"raw":"Welcome to Osaka. I'm your guide.","actually":"Welcome to Osaka. I am your guide."}
+{"raw":"Hi. Welcome to Osaka. I'm your guide.","actually":"Hi. Welcome to Osaka. I am your guide."}
 {"raw":"Osaka is also home to Universal Studios Japan.","actually":"Osaka is also home to Universal Studios Japan."}
-{"raw":"This looks like a Universal-themed area.","actually":"This looks like an area themed around Universal Studios."}
-{"raw":"Have you ever been to Osaka? I'm the tour guide. Of course I've been to Osaka.","actually":"Have you ever been to Osaka? I am the tour guide, so of course I have been there."}
+{"raw":"Yeah, this does look a little Universal-themed area.","actually":"Yeah, this does look a little like a Universal-themed area."}
+{"raw":"Have you ever been to Osaka? Um, I'm the tour guide. Of course I've been to Osaka.","actually":"Have you ever been to Osaka? I am the tour guide. Of course I have been to Osaka."}
 {"raw":"That was really good. That was very smart.","actually":"That was very good. That was very smart."}
 {"raw":"Infectctor.","actually":"Infection."}
 {"raw":"Still doing okay? You guys like Infection? Do you prefer the other game?","actually":"Are we still playing? Do you like Infection, or do you prefer the other game?"}
@@ -1618,3 +1618,29 @@
 {"raw":"No","actually":"No."}
 {"raw":"Turn my body. I want to turn my body so my butt is staying.","actually":"Turn my body. I want to turn my body so my rear stays in place."}
 {"raw":"I go on top","actually":"I will go on top."}
+{"raw":"That's better.","actually":"That is better."}
+{"raw":"Check on the side.","actually":"Check on the side."}
+{"raw":"Maybe it's too bright.","actually":"Maybe it is too bright."}
+{"raw":"Never cook again, I say to myself.","actually":"I tell myself never to cook again."}
+{"raw":"Oh, but I like your cooking.","actually":"Oh, but I like your cooking."}
+{"raw":"Oh.","actually":"Oh."}
+{"raw":"You're so sweet.","actually":"You are so sweet."}
+{"raw":"Yeah, I'm hungry.","actually":"Yes, I am hungry."}
+{"raw":"I'd be happy.","actually":"I would be happy."}
+{"raw":"No, I would feel bad for her, but I would be happy.","actually":"No, I would feel bad for her, but I would be happy."}
+{"raw":"She's getting so many points.","actually":"She is getting so many points."}
+{"raw":"Oh, she must be in plain sight.","actually":"Oh, she must be in plain sight."}
+{"raw":"Whoa.","actually":"Whoa."}
+{"raw":"Uh-oh. Uh-oh.","actually":"Uh-oh. Uh-oh."}
+{"raw":"No, she knows how to play the game.","actually":"No, she knows how to play the game."}
+{"raw":"So many points.","actually":"So many points."}
+{"raw":"This is distracting.","actually":"This is distracting."}
+{"raw":"Welcome to Osaka.","actually":"Welcome to Osaka."}
+{"raw":"Uh, yeah.","actually":"Uh, yes."}
+{"raw":"Yes. Yes.","actually":"Yes. Yes."}
+{"raw":"It was cute. I liked it. Good job.","actually":"It was cute. I liked it. Good job."}
+{"raw":"It was cuz I was missing the headband, wasn't it?","actually":"It was because I was missing the headband, wasn't it?"}
+{"raw":"Yes.","actually":"Yes."}
+{"raw":"I get it. I get it.","actually":"I understand. I understand."}
+{"raw":"I understand. I understood.","actually":"I understand. I understood."}
+{"raw":"She did not understand the assignment.","actually":"She did not understand the assignment."}

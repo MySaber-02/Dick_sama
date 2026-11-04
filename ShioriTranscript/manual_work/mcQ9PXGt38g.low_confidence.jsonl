@@ -50,7 +50,7 @@
 {"raw":"you got","reason":"独立残句，无法确认说话者后续表达。","source_draft_row":251}
 {"raw":"I don't I'll try around the","reason":"语序混乱且句子截断，无法可靠恢复。","source_draft_row":251}
 {"raw":"but you didn't tend to slide it out the other way","reason":"语音识别错乱，无法确认动作描述。","source_draft_row":251}
-{"raw":"it I'm so","reason":"句子严重残缺，无法恢复。","source_draft_row":251}
+{"raw":"it I'm so","reason":"ASR 残缺，缺少可确认的谓语。","source_draft_row":272,"source_segment_indices":[1954]}
 {"raw":"yeah no but then I want no you guys you guys","reason":"对话中多人插话，语句无法可靠切分。","source_draft_row":286}
 {"raw":"no I'm hiding in blank blank in blank blank","reason":"原字幕明确缺失词语，无法恢复具体地点。","source_draft_row":287}
 {"raw":"look like I can't tell","reason":"短语残缺，无法确定说话者要表达的判断。","source_draft_row":288}
@@ -118,7 +118,7 @@
 {"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。"}
 {"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。"}
 {"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。"}
-{"draft_row":278,"raw":"The phrase order means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。"}
+{"draft_row":278,"raw":"You know, if you hear the phrase order, it means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。"}
 {"draft_row":280,"raw":"Of course, ... is the one to kill the tour guide.","reason":"缺少明确主语，无法确认人物指代。"}
 {"draft_row":310,"raw":"Anna.","reason":"孤立人名/音节，无法确认是否为称呼或ASR噪声。"}
 {"draft_row":314,"raw":"Who's Who keeps shooting?","reason":"人名/游戏术语识别不确定，需回听。"}
@@ -195,3 +195,15 @@
 {"raw":"this is","reason":"句子在 is 后中断，缺少表语或补充内容。","source_draft_row":247}
 {"raw":"there's really just a lot of","reason":"句子在 of 后中断，缺少被描述的对象。","source_draft_row":250}
 {"raw":"but","reason":"转折连词位于片段末尾，后续内容缺失。","source_draft_row":250}
+{"raw":"I...","reason":"单词 I 后被截断，无法确定所指动作。","source_draft_row":271,"source_segment_indices":[1943]}
+{"raw":"this color was it","reason":"颜色指代和问句边界不清，不猜测完整问句。","source_draft_row":273,"source_segment_indices":[1959]}
+{"raw":"so once again","reason":"连接片段不完整，后续意图不清。","source_draft_row":274,"source_segment_indices":[1960,1961]}
+{"raw":"time for that","reason":"that 所指动作不明。","source_draft_row":274,"source_segment_indices":[1963]}
+{"raw":"might as well just paint as a neg","reason":"neg 的名称/含义不确定，不能猜专名。","source_draft_row":275,"source_segment_indices":[1969]}
+{"raw":"should we just become a naggie","reason":"naggie 可能是名称或 ASR 错误。","source_draft_row":275,"source_segment_indices":[1970]}
+{"raw":"what if she doesn't fight any of us","reason":"躲藏场景中可能为 find，但原字幕为 fight，证据不足。","source_draft_row":275,"source_segment_indices":[1971]}
+{"raw":"wish we would hide","reason":"原句疑似缺词，不补充未确认的问句或主语。","source_draft_row":276,"source_segment_indices":[1980]}
+{"raw":"Osaka got to be more","reason":"字幕残缺且疑似 ASR 错误。","source_draft_row":277,"source_segment_indices":[1984]}
+{"raw":"wasn't my spot wonderful story","reason":"主谓和指代不清，不能拼成确定命题。","source_draft_row":279,"source_segment_indices":[1993]}
+{"raw":"I","reason":"句子开头被打断，后续发言另行保留。","source_draft_row":279,"source_segment_indices":[1994]}
+{"raw":"have someone not hanging their clothes","reason":"缺乏能够确定含义的字幕证据。","source_draft_row":279,"source_segment_indices":[1997,1998]}
