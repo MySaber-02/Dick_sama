@@ -28,20 +28,20 @@
       "source_segments": 3061,
       "read_through": 3061,
       "draft_rows": 393,
-      "low_confidence": 183,
+      "low_confidence": 197,
       "clean": false,
       "source_read_through": 3061,
-      "segmented_records": 1528,
+      "segmented_records": 1620,
       "segmented_through_draft_row": 393,
       "schema_validation": "passed",
       "sft_low_overlap": 0,
-      "exact_raw_duplicates": 26,
+      "exact_raw_duplicates": 50,
       "archive": false,
-      "coverage_supplements": 342,
-      "coverage_supplement_sft": 267,
-      "coverage_supplement_low": 75,
-      "semantic_reviewed_draft_rows": 230,
-      "next_review_range": "231-320",
+      "coverage_supplements": 634,
+      "coverage_supplement_sft": 526,
+      "coverage_supplement_low": 108,
+      "semantic_reviewed_draft_rows": 250,
+      "next_review_range": "251-320",
       "draft_raw_duplicates": 1
     },
     {
@@ -87,7 +87,8 @@
     "mcQ9PXGt38g: manually reviewed original draft rows 111-150; restored omitted dialogue and self-corrections, retained uncertain ASR fragments in LOW, salvaged the source-supported 'Were any of you guys balloons?' question, and validated staging (1401 SFT, 161 LOW, 24 exact SFT raw duplicates, no SFT/LOW overlap). Full source reconciliation and clean/archive remain pending.",
     "mcQ9PXGt38g: audited and restored misaligned draft actually rows 151-189; kept their semantic review pending; reconciled SFT/LOW ledger (1398 SFT candidates, 168 LOW, 185 ledger entries), with no schema or SFT/LOW raw-overlap failures.",
     "mcQ9PXGt38g: source-backed semantic review completed for draft rows 151-190; restored 58 missing staged SFT records, added 7 LOW records, corrected 8 LOW source-row references, resegmented a fused affirmative/negative exchange, and validated current staging (1,455 SFT, 175 LOW, 254 ledger). Clean/archive remain pending source-coverage reconciliation.",
-    "mcQ9PXGt38g: reviewed draft rows 191-230 against source; updated 40 actually fields, restored 73 SFT candidates, and retained unresolved fragments in LOW. Current staging is 1,528 SFT, 183 LOW, and 342 ledger records. Twelve LOW records in this range remain unsynced and four ledger reason mismatches remain; clean/archive pending."
+    "mcQ9PXGt38g: reviewed draft rows 191-230 against source; updated 40 actually fields, restored 73 SFT candidates, and retained unresolved fragments in LOW. Current staging is 1,528 SFT, 183 LOW, and 342 ledger records. Twelve LOW records in this range remain unsynced and four ledger reason mismatches remain; clean/archive pending.",
+    "mcQ9PXGt38g: reviewed original draft rows 231-250; corrected 20 actually fields, resegmented 46 existing SFT entries and restored 138 source-aligned SFT utterances. Added 15 LOW fragments, corrected earlier LOW provenance, and reconciled SFT/LOW coverage ledger entries through row 250. Formal clean/archive remain pending full source reconciliation."
   ],
-  "next": "Continue original draft rows 231-320 for mcQ9PXGt38g; reconcile remaining LOW ledger entries and all 3061 source segments before clean/archive."
+  "next": "Continue mcQ9PXGt38g original draft rows 251-320; complete rows through 393 and reconcile all 3061 source segments before creating clean or archiving originals."
 }

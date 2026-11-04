@@ -561,51 +561,143 @@
 {"raw":"tiny oh yeah let's try country","actually":"Tiny? Oh yeah, let us try Country."}
 {"raw":"oh no how big is the country","actually":"Oh no. How big is Country?"}
 {"raw":"did I accidentally disable names","actually":"Did I accidentally disable names?"}
-{"raw":"did maybe you can do that","actually":"Maybe that is possible."}
-{"raw":"yeah I think so","actually":"I think so."}
-{"raw":"why not who says who says country is pretty big","actually":"Why not? Who says Country is big?"}
-{"raw":"oh okay that's why people level two little bed","actually":"That explains why people are level two."}
-{"raw":"yeah wait hold on this is a small one","actually":"Wait, this is a small one."}
+{"raw":"maybe you can do that","actually":"Maybe you can do that."}
+{"raw":"yeah I think so","actually":"Yeah, I think so."}
+{"raw":"why not","actually":"Why not?"}
+{"raw":"who says who says country is pretty big","actually":"Who says? Who says Country is pretty big?"}
+{"raw":"oh okay that's why people","actually":"Oh, okay. That's why people..."}
+{"raw":"yeah","actually":"Yeah."}
+{"raw":"wait hold on this is a small one","actually":"Wait, hold on. This is a small one."}
+{"raw":"indo country","actually":"Indo Country."}
+{"raw":"yeah","actually":"Yeah."}
 {"raw":"I'll do my best","actually":"I will do my best."}
-{"raw":"don't get me if you see me","actually":"If you see me, do not catch me."}
-{"raw":"going to promise I promise you","actually":"I promise."}
-{"raw":"okay okay let's see how this rules","actually":"Let us see how this works."}
-{"raw":"it's my turn it's my meadows meadows","actually":"It is my turn. The map is Meadows."}
-{"raw":"yeah let's go hide","actually":"Let us hide."}
-{"raw":"don't say where we're hiding","actually":"Do not say where we are hiding."}
-{"raw":"okay oh no a dang it no gnome","actually":"Oh no, there is a gnome."}
-{"raw":"I have a really good idea","actually":"I have a good idea."}
-{"raw":"no I don't want to do this","actually":"I do not want to do this."}
-{"raw":"that looks funny that looks","actually":"That looks funny."}
-{"raw":"is that like a onelegged thing","actually":"Is that a one-legged object?"}
+{"raw":"don't get me if you see me","actually":"Don't catch me if you see me."}
+{"raw":"I promise you","actually":"I promise you."}
+{"raw":"okay","actually":"Okay."}
+{"raw":"okay","actually":"Okay."}
+{"raw":"let's see how this rules","actually":"Let's see how this works."}
+{"raw":"it's my turn","actually":"It's my turn."}
+{"raw":"meadows meadows","actually":"Meadows. Meadows."}
+{"raw":"yeah","actually":"Yeah."}
+{"raw":"let's go","actually":"Let's go."}
+{"raw":"hide","actually":"Hide."}
+{"raw":"don't say where we're hiding","actually":"Don't say where we're hiding."}
+{"raw":"okay","actually":"Okay."}
+{"raw":"oh no","actually":"Oh no."}
+{"raw":"a dang it","actually":"Ah, dang it."}
+{"raw":"no gnome","actually":"No gnome."}
+{"raw":"I have a really good idea","actually":"I have a really good idea."}
+{"raw":"no I don't want to do this","actually":"No, I don't want to do this."}
+{"raw":"that looks funny","actually":"That looks funny."}
+{"raw":"is that like a onelegged thing","actually":"Is that like a one-legged thing?"}
 {"raw":"oh man","actually":"Oh man."}
-{"raw":"oh I'm so cooked","actually":"I am in trouble."}
+{"raw":"oh I'm so cooked","actually":"I'm in trouble."}
 {"raw":"me too","actually":"Me too."}
-{"raw":"let's cook together","actually":"Let us be in trouble together."}
-{"raw":"give up on this idea give up on this idea you're not doing it","actually":"Give up on this idea. It is not working."}
-{"raw":"okay we got a lot of time okay still got 3 minutes","actually":"We still have three minutes."}
+{"raw":"let's cook together","actually":"Let's be in trouble together."}
+{"raw":"give up on this idea","actually":"Give up on this idea."}
+{"raw":"give up on this idea","actually":"Give up on this idea."}
+{"raw":"you're not doing it","actually":"You're not doing it."}
+{"raw":"okay we got a lot of time","actually":"Okay, we have a lot of time."}
+{"raw":"okay still got 3 minutes","actually":"Okay, we still have three minutes."}
 {"raw":"how do I do this","actually":"How do I do this?"}
-{"raw":"got to get that idea","actually":"I need to make that idea work."}
-{"raw":"it's nice during hiding time you can't see other people running kind of stuck","actually":"During hiding time, you cannot see other people running, so you feel stuck."}
-{"raw":"hold on I want it","actually":"Hold on. I want that."}
-{"raw":"not that other","actually":"Not the other one."}
-{"raw":"just a little jump there","actually":"Just a little jump."}
-{"raw":"nope","actually":"No."}
-{"raw":"maybe I should go higher up","actually":"Maybe I should go higher."}
+{"raw":"got to get that idea","actually":"Got to get that idea."}
+{"raw":"it's nice during hiding time you can't see other people running kind of stuck","actually":"It's nice during hiding time. You can't see other people running; you're kind of stuck."}
+{"raw":"hold on I want it","actually":"Hold on. I want it."}
+{"raw":"just a little jump there","actually":"Just a little jump there."}
+{"raw":"nope","actually":"Nope."}
+{"raw":"maybe I should go higher up","actually":"Maybe I should go higher up."}
 {"raw":"how do I move again","actually":"How do I move again?"}
-{"raw":"maybe that place might be right there","actually":"That place might be right there."}
-{"raw":"yeah it's not happening","actually":"It is not working."}
-{"raw":"a bit troublesome","actually":"This is troublesome."}
-{"raw":"okay how do I how do I increase the roughness though","actually":"How do I increase the roughness?"}
-{"raw":"do you think I could be good like this","actually":"Do you think this could work?"}
-{"raw":"it could be why don't we try it right over here","actually":"It might. Let us try it here."}
-{"raw":"why am I floating really weirdly","actually":"Why am I floating strangely?"}
-{"raw":"I want to be quiet and not spoil it","actually":"I want to stay quiet and not give anything away."}
+{"raw":"maybe that place might be right there","actually":"Maybe that place might be right there."}
+{"raw":"please","actually":"Please."}
+{"raw":"yeah it's not happening","actually":"Yeah, it's not happening."}
+{"raw":"a bit troublesome","actually":"A bit troublesome."}
+{"raw":"okay how do I how do I increase the roughness though","actually":"Okay, how do I...? How do I increase the roughness, though?"}
+{"raw":"do you think I could be good like this","actually":"Do you think I could be good like this?"}
+{"raw":"it could be","actually":"It could be."}
+{"raw":"why don't we try it right over here","actually":"Why don't we try it right over here?"}
+{"raw":"why am I floating really weirdly","actually":"Why am I floating really weirdly?"}
+{"raw":"I want to be quiet and not spoil it","actually":"I want to be quiet and not spoil it."}
 {"raw":"I want to go that way","actually":"I want to go that way."}
-{"raw":"then you just got to color yourself up","actually":"You need to color yourself."}
-{"raw":"we're out of time","actually":"We are out of time."}
-{"raw":"you have 100 seconds","actually":"You have one hundred seconds."}
-{"raw":"I know that's too metallic","actually":"That is too metallic."}
+{"raw":"then you just got to color yourself up","actually":"Then you just have to color yourself up."}
+{"raw":"we're out of time","actually":"We're out of time."}
+{"raw":"you have 100 seconds","actually":"You have 100 seconds."}
+{"raw":"I know","actually":"I know."}
+{"raw":"that's too metallic","actually":"That's too metallic."}
+{"raw":"oh shoot okay","actually":"Oh shoot. Okay."}
+{"raw":"I'm boring","actually":"I'm boring."}
+{"raw":"the heck was it like that","actually":"The heck was it like that?"}
+{"raw":"no no no","actually":"No, no, no."}
+{"raw":"oh I see","actually":"Oh, I see."}
+{"raw":"oh yeah you're boring","actually":"Oh yeah, you're boring."}
+{"raw":"what the heck","actually":"What the heck?"}
+{"raw":"okay yeah no this is so bad guys whatever","actually":"Okay. Yeah. No, this is so bad, guys. Whatever."}
+{"raw":"oh my god","actually":"Oh my god."}
+{"raw":"ah that's that's from different angles though","actually":"Ah, that's... that's from different angles, though."}
+{"raw":"one second","actually":"One second."}
+{"raw":"hold on","actually":"Hold on."}
+{"raw":"use little details","actually":"Use little details."}
+{"raw":"I know","actually":"I know."}
+{"raw":"I'm trying","actually":"I'm trying."}
+{"raw":"let's get artistic","actually":"Let's get artistic."}
+{"raw":"well that's on it","actually":"Well, that's on it."}
+{"raw":"I'm so cooked","actually":"I'm in trouble."}
+{"raw":"I love things that are cooked","actually":"I love things that are cooked."}
+{"raw":"let's go","actually":"Let's go."}
+{"raw":"if we can't do better","actually":"If we can't do better."}
+{"raw":"spin around spin around","actually":"Spin around. Spin around."}
+{"raw":"wait one second","actually":"Wait. One second."}
+{"raw":"don't try anything","actually":"Don't try anything."}
+{"raw":"oh why am I why am I why am I darker now","actually":"Oh, why am I...? Why am I...? Why am I darker now?"}
+{"raw":"I see","actually":"I see."}
+{"raw":"it's kind of gross looking","actually":"It's kind of gross-looking."}
+{"raw":"look from the front look from the front","actually":"Look from the front. Look from the front."}
+{"raw":"we got to look from the front","actually":"We have to look from the front."}
+{"raw":"that's no good","actually":"That's no good."}
+{"raw":"I think you should rotate yourself","actually":"I think you should rotate yourself."}
+{"raw":"oh no no no","actually":"Oh no. No. No."}
+{"raw":"don't try anything funny","actually":"Don't try anything funny."}
+{"raw":"oh that's really bad","actually":"Oh, that's really bad."}
+{"raw":"oh spin yourself around","actually":"Oh, spin yourself around."}
+{"raw":"I don't have time to do that","actually":"I don't have time to do that."}
+{"raw":"not the camera not the camera yourself yes","actually":"Not the camera. Not the camera. Yourself. Yes."}
+{"raw":"I give up on that idea","actually":"I give up on that idea."}
+{"raw":"I don't know man","actually":"I don't know, man."}
+{"raw":"it's too it's too late","actually":"It's too... it's too late."}
+{"raw":"we have to lock in","actually":"We have to lock in."}
+{"raw":"whatever dude it's whatever it's whatever","actually":"Whatever, dude. It's whatever. It's whatever."}
+{"raw":"we need the rougher color","actually":"We need the rougher color."}
+{"raw":"move closer to them closer closer","actually":"Move closer to them. Closer. Closer."}
+{"raw":"right here","actually":"Right here."}
+{"raw":"so stupid","actually":"So stupid."}
+{"raw":"what do you mean","actually":"What do you mean?"}
+{"raw":"oh no","actually":"Oh no."}
+{"raw":"maybe it could be good","actually":"Maybe it could be good."}
+{"raw":"it's fine","actually":"It's fine."}
+{"raw":"Boo is so scary","actually":"Boo is so scary."}
+{"raw":"I should have gone to the other side but it's too late","actually":"I should have gone to the other side, but it's too late."}
+{"raw":"I'm trying to pick the color","actually":"I'm trying to pick the color."}
+{"raw":"I really don't know how","actually":"I really don't know how."}
+{"raw":"why","actually":"Why?"}
+{"raw":"I want a lighter color","actually":"I want a lighter color."}
+{"raw":"give me the lighter color","actually":"Give me the lighter color."}
+{"raw":"why","actually":"Why?"}
+{"raw":"why is the game only giving me lighter color","actually":"Why is the game only giving me lighter color?"}
+{"raw":"it's over","actually":"It's over."}
+{"raw":"please no please please","actually":"Please. No. Please. Please."}
+{"raw":"you know I was there","actually":"You know I was there."}
+{"raw":"there we go","actually":"There we go."}
+{"raw":"no no","actually":"No. No."}
+{"raw":"oh thank you okay","actually":"Oh, thank you. Okay."}
+{"raw":"stay there","actually":"Stay there."}
+{"raw":"no","actually":"No."}
+{"raw":"are we gone","actually":"Are we gone?"}
+{"raw":"stay away stay away stay away stay away","actually":"Stay away. Stay away. Stay away. Stay away."}
+{"raw":"okay then I can stay away from me","actually":"Okay, then I can stay away from me."}
+{"raw":"can I go away from here now","actually":"Can I go away from here now?"}
+{"raw":"I'm getting pointed","actually":"I'm getting pointed."}
+{"raw":"there's a lot of a lot of hunters out there now","actually":"There's a lot of... a lot of hunters out there now."}
+{"raw":"yeah","actually":"Yeah."}
+{"raw":"the ruffies didn't believe in us","actually":"The ruffies didn't believe in us."}
 {"raw":"but you guys would never become hunters would you","actually":"You would never become hunters, would you?"}
 {"raw":"no never","actually":"No, never."}
 {"raw":"we're not part of Bloodborne","actually":"We are not part of Bloodborne."}

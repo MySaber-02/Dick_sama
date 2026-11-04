@@ -31,20 +31,19 @@
 {"raw":"oh never seen Bay","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":220}
 {"raw":"H","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":223}
 {"raw":"wait we only have","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":223}
-{"raw":"and then turn the drive","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":223}
-{"raw":"country looks","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":224}
-{"raw":"yeah house","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":225}
-{"raw":"indo country","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":226}
-{"raw":"yeah herself as a jor","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":227}
-{"raw":"want to be a hidden","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":228}
-{"raw":"oh this doesn't feel like with that because it looks funny","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":229}
-{"raw":"your time","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
-{"raw":"get out of here spot","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":231}
-{"raw":"you could become a little","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":232}
-{"raw":"I'm going to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":233}
-{"raw":"I'm trying to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
-{"raw":"then believe","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":235}
-{"raw":"I'm just not the right","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":236}
+{"raw":"and then turn the drive","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
+{"raw":"country looks","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
+{"raw":"yeah house","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
+{"raw":"herself as a jor","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":232}
+{"raw":"want to be a hidden","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":233}
+{"raw":"oh this doesn't feel like with that because it looks funny","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
+{"raw":"your time","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
+{"raw":"get out of here spot","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":235}
+{"raw":"you could become a little","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":236}
+{"raw":"I'm going to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":237}
+{"raw":"I'm trying to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":239}
+{"raw":"then believe","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":239}
+{"raw":"I'm just not the right","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":238}
 {"raw":"you guys are so","reason":"句子中途截断，无法确认后续评价内容。","source_draft_row":251}
 {"raw":"you were just point","reason":"ASR识别不完整，无法确认 point 所指含义。","source_draft_row":251}
 {"raw":"but this is","reason":"句子残缺，缺少后续内容。","source_draft_row":251}
@@ -181,3 +180,18 @@
 {"raw":"I have to give her","reason":"句子在 give her 后中断，缺少后续内容。","source_draft_row":227}
 {"raw":"you can't see any","reason":"句子在 any 后中断，缺少被指代的对象。","source_draft_row":219}
 {"raw":"like Callie is up by last time","reason":"人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。","source_draft_row":216}
+{"raw":"did","reason":"句子从助动词开始即被截断，无法确认完整问题。","source_draft_row":231}
+{"raw":"level two little bed","reason":"ASR短语缺少清晰词语边界，无法确认具体含义。","source_draft_row":231}
+{"raw":"going to promise","reason":"缺少明确主语，无法确认该片段的完整表达。","source_draft_row":232}
+{"raw":"it's my","reason":"句子在 my 后中断，缺少后续内容。","source_draft_row":233}
+{"raw":"that looks","reason":"句子在 looks 后中断，缺少后续内容。","source_draft_row":234}
+{"raw":"not that other","reason":"比较对象缺失，句子不完整。","source_draft_row":236}
+{"raw":"spin your","reason":"动作指令在 your 后中断，缺少动作对象。","source_draft_row":241}
+{"raw":"I so cooked","reason":"该短语语法残缺，无法确认是否漏识别助动词。","source_draft_row":242}
+{"raw":"I mean it seems like it already","reason":"句子在 already 后中断，缺少后续内容。","source_draft_row":242}
+{"raw":"so","reason":"单独的连接词或语气词，无法确认其后续表达。","source_draft_row":244}
+{"raw":"said don't try anything funny","reason":"句子缺少明确主语，无法确认是谁发出该提醒。","source_draft_row":245}
+{"raw":"you're trying to","reason":"句子在 to 后中断，缺少动作内容。","source_draft_row":245}
+{"raw":"this is","reason":"句子在 is 后中断，缺少表语或补充内容。","source_draft_row":247}
+{"raw":"there's really just a lot of","reason":"句子在 of 后中断，缺少被描述的对象。","source_draft_row":250}
+{"raw":"but","reason":"转折连词位于片段末尾，后续内容缺失。","source_draft_row":250}
