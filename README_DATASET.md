@@ -63,7 +63,7 @@
 - 原始草稿393条；第1～250条已完成人工语义复核。草稿文件另含13条来源覆盖补充记录。
 - `manual_work/mcQ9PXGt38g.segmented.jsonl`：1620条SFT候选，结构校验通过。
 - `manual_work/mcQ9PXGt38g.low_confidence.jsonl`：197条LOW记录，不进入SFT。
-- `manual_work/mcQ9PXGt38g.coverage_supplements.jsonl`：634条覆盖记录，其中526条SFT、108条LOW。
+- `manual_work/mcQ9PXGt38g.coverage_supplements.jsonl`：513条覆盖记录，其中405条SFT、108条LOW。
 - 保留50处完全相同的raw重复出现，不自动去重；草稿另有1处完全相同raw重复，也暂时保留。SFT与LOW之间无完全相同raw重叠。
 - 第231～250条已逐行对照源字幕复核，修复了第240～250条此前遗漏的SFT话轮，恢复重复表达、犹豫和自我修正；复核记录见 `manual_work/mcQ9PXGt38g.semantic_review_231-250.md`。
 - 第191～250条的SFT/LOW覆盖台账已重新核对，当前无未匹配的LOW原因或来源行号。

@@ -27,7 +27,7 @@ Compared original draft rows 231-250 with the source TXT. Updated all 20 corresp
 - Replaced 46 previously staged records for rows 231-239 with 138 source-aligned sentence-level SFT records for rows 231-250.
 - Added 15 LOW fragments; corrected earlier LOW source-row metadata and removed "indo country" from LOW after recovering it as SFT.
 - Reconciled SFT and LOW coverage-ledger entries for rows 191-250.
-- Current staging: 1620 SFT, 197 LOW, 634 coverage-ledger entries (526 SFT / 108 LOW). No exact SFT/LOW raw overlap; SFT schema checks pass.
+- Current staging: 1620 SFT, 197 LOW, 513 coverage-ledger entries (405 SFT / 108 LOW). No exact SFT/LOW raw overlap; SFT schema checks pass.
 
 ## Status
 

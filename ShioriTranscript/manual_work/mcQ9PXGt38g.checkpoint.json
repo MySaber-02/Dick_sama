@@ -43,9 +43,10 @@
     "Rows 191-230 manually reviewed against the source TXT. Restored omitted speaker turns, repeated questions/reactions, self-corrections, and 73 missing SFT candidates; retained unresolved fragments in LOW. Corrected row 222 to five repeated 'No' tokens. See mcQ9PXGt38g.semantic_review_191-230.md.",
     "Current staging snapshot after review through row 230: 1,528 SFT candidates, 183 LOW records, 342 coverage-ledger records (267 SFT and 75 LOW), 26 exact duplicate raw occurrences retained. No exact SFT/LOW raw overlap or SFT schema errors. Four LOW ledger reason mismatches remain, and 12 LOW records in rows 191-230 are not yet represented in the coverage supplement ledger. Full 3,061-source-segment reconciliation remains pending.",
     "Rows 231-250 manually reviewed against the source TXT. Re-segmented the previously staged 46 records for rows 231-239 and restored missing dialogue for rows 240-250, producing 138 source-aligned SFT records. Added 15 LOW fragments and corrected provenance for earlier LOW entries; removed 'indo country' from LOW after recovering it as SFT. See mcQ9PXGt38g.semantic_review_231-250.md.",
-    "Coverage synchronization after review through row 250: SFT and LOW ledger entries for rows 191-250 were reconciled against the staging files; no unmatched LOW reason/provenance entries remain in that range. Full 3061-source-segment reconciliation remains pending."
+    "Coverage synchronization after review through row 250: SFT and LOW ledger entries for rows 191-250 were reconciled against the staging files; no unmatched LOW reason/provenance entries remain in that range. Full 3061-source-segment reconciliation remains pending.",
+    "Post-commit ledger audit: rebuilt the supplement ledger from the prior 342-entry version, preserved earlier records, added 138 row-231-250 SFT entries, and synchronized all LOW entries for rows 191-250. Corrected ledger count: 513 (405 SFT / 108 LOW)."
   ],
-  "coverage_supplement_records": 634,
-  "coverage_supplement_sft_records": 526,
+  "coverage_supplement_records": 513,
+  "coverage_supplement_sft_records": 405,
   "coverage_supplement_low_records": 108
 }
