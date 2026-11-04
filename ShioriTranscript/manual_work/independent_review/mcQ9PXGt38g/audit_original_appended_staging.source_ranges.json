@@ -1,0 +1,970 @@
+[
+  {
+    "original_staging_row": 1384,
+    "original_staged_raw": "You're not blind.",
+    "source_segments": [
+      691,
+      691
+    ]
+  },
+  {
+    "original_staging_row": 1385,
+    "original_staged_raw": "I am not blind. I approve that I'm not blind.",
+    "source_segments": [
+      692,
+      693
+    ]
+  },
+  {
+    "original_staging_row": 1386,
+    "original_staged_raw": "The name and the password of the lobby are in the chat.",
+    "source_segments": [
+      695,
+      696
+    ]
+  },
+  {
+    "original_staging_row": 1387,
+    "original_staged_raw": "I wish I could get this exact vertical.",
+    "source_segments": [
+      721,
+      722
+    ]
+  },
+  {
+    "original_staging_row": 1388,
+    "original_staged_raw": "Vertical. Vertical. You got to vertical yourself.",
+    "source_segments": [
+      722,
+      723
+    ]
+  },
+  {
+    "original_staging_row": 1389,
+    "original_staged_raw": "How are you guys getting under things? Vertical. Vertical.",
+    "source_segments": [
+      724,
+      726
+    ]
+  },
+  {
+    "original_staging_row": 1390,
+    "original_staged_raw": "What do you mean by vertical?",
+    "source_segments": [
+      729,
+      730
+    ]
+  },
+  {
+    "original_staging_row": 1391,
+    "original_staged_raw": "I already survived. I deserve to die for once.",
+    "source_segments": [
+      758,
+      759
+    ]
+  },
+  {
+    "original_staging_row": 1392,
+    "original_staged_raw": "You deserve it. Yeah. Thank you.",
+    "source_segments": [
+      760,
+      761
+    ]
+  },
+  {
+    "original_staging_row": 1393,
+    "original_staged_raw": "Metallics. Turn up the roughness.",
+    "source_segments": [
+      762,
+      763
+    ]
+  },
+  {
+    "original_staging_row": 1394,
+    "original_staged_raw": "Turn up the metallic. Turn down the metallic. Turn up the roughness.",
+    "source_segments": [
+      765,
+      767
+    ]
+  },
+  {
+    "original_staging_row": 1395,
+    "original_staged_raw": "This is difficult.",
+    "source_segments": [
+      768,
+      768
+    ]
+  },
+  {
+    "original_staging_row": 1396,
+    "original_staged_raw": "I know. Oh, it's like they want us to flirt.",
+    "source_segments": [
+      978,
+      979
+    ]
+  },
+  {
+    "original_staging_row": 1397,
+    "original_staged_raw": "Always remember, lips sealed tight, ladies.",
+    "source_segments": [
+      1207,
+      1208
+    ]
+  },
+  {
+    "original_staging_row": 1398,
+    "original_staged_raw": "I'm a hunter.",
+    "source_segments": [
+      1209,
+      1209
+    ]
+  },
+  {
+    "original_staging_row": 1436,
+    "original_staged_raw": "Yeah. Yeah. She already felt so good.",
+    "source_segments": [
+      697,
+      698
+    ]
+  },
+  {
+    "original_staging_row": 1437,
+    "original_staged_raw": "Oh, I see you now. I should have been bigger. Yay.",
+    "source_segments": [
+      699,
+      701
+    ]
+  },
+  {
+    "original_staging_row": 1438,
+    "original_staged_raw": "Okay, here we go.",
+    "source_segments": [
+      703,
+      704
+    ]
+  },
+  {
+    "original_staging_row": 1439,
+    "original_staged_raw": "Oh, pretty.",
+    "source_segments": [
+      705,
+      705
+    ]
+  },
+  {
+    "original_staging_row": 1440,
+    "original_staged_raw": "I don't want to stand in the spot area.",
+    "source_segments": [
+      707,
+      707
+    ]
+  },
+  {
+    "original_staging_row": 1441,
+    "original_staged_raw": "No. Oh no, I made a mistake.",
+    "source_segments": [
+      708,
+      709
+    ]
+  },
+  {
+    "original_staging_row": 1442,
+    "original_staged_raw": "Okay, if this is the max we can go, why not?",
+    "source_segments": [
+      710,
+      712
+    ]
+  },
+  {
+    "original_staging_row": 1443,
+    "original_staged_raw": "Oh, don't worry. I can't go inside.",
+    "source_segments": [
+      714,
+      714
+    ]
+  },
+  {
+    "original_staging_row": 1444,
+    "original_staged_raw": "No, you could. Yeah, we're so cooked, bro.",
+    "source_segments": [
+      715,
+      716
+    ]
+  },
+  {
+    "original_staging_row": 1445,
+    "original_staged_raw": "I think I'm good. I think my pose is good here, just like this.",
+    "source_segments": [
+      717,
+      718
+    ]
+  },
+  {
+    "original_staging_row": 1446,
+    "original_staged_raw": "I think you could get flat on the ground. Maybe better like that.",
+    "source_segments": [
+      719,
+      720
+    ]
+  },
+  {
+    "original_staging_row": 1447,
+    "original_staged_raw": "No, no, no, no. What the heck? No, no, no.",
+    "source_segments": [
+      727,
+      728
+    ]
+  },
+  {
+    "original_staging_row": 1448,
+    "original_staged_raw": "Oh, yes, yes, yes. Okay, okay. Body.",
+    "source_segments": [
+      730,
+      731
+    ]
+  },
+  {
+    "original_staging_row": 1449,
+    "original_staged_raw": "How do I grab this color?",
+    "source_segments": [
+      732,
+      732
+    ]
+  },
+  {
+    "original_staging_row": 1450,
+    "original_staged_raw": "How do I...? Why can't I grab this color?",
+    "source_segments": [
+      733,
+      733
+    ]
+  },
+  {
+    "original_staging_row": 1451,
+    "original_staged_raw": "Oh, there we go.",
+    "source_segments": [
+      734,
+      734
+    ]
+  },
+  {
+    "original_staging_row": 1452,
+    "original_staged_raw": "No, go in.",
+    "source_segments": [
+      735,
+      735
+    ]
+  },
+  {
+    "original_staging_row": 1453,
+    "original_staged_raw": "That's why I can't draw. Maybe this is a bad idea.",
+    "source_segments": [
+      736,
+      737
+    ]
+  },
+  {
+    "original_staging_row": 1454,
+    "original_staged_raw": "No, go away. Absolutely traumatized.",
+    "source_segments": [
+      738,
+      739
+    ]
+  },
+  {
+    "original_staging_row": 1455,
+    "original_staged_raw": "I can't, I can't draw. Well, actually, wait. We should kind of try and get the texture at least. Am I not a good color?",
+    "source_segments": [
+      740,
+      743
+    ]
+  },
+  {
+    "original_staging_row": 1456,
+    "original_staged_raw": "Make the bad brush smaller.",
+    "source_segments": [
+      744,
+      744
+    ]
+  },
+  {
+    "original_staging_row": 1457,
+    "original_staged_raw": "All right, time for the wheel. How do I rotate? How do I rotate?",
+    "source_segments": [
+      745,
+      748
+    ]
+  },
+  {
+    "original_staging_row": 1458,
+    "original_staged_raw": "This is not... I can't, I can't do this.",
+    "source_segments": [
+      749,
+      749
+    ]
+  },
+  {
+    "original_staging_row": 1459,
+    "original_staged_raw": "What in the world? How do I rotate myself?",
+    "source_segments": [
+      750,
+      751
+    ]
+  },
+  {
+    "original_staging_row": 1460,
+    "original_staged_raw": "Um, it's that color. How do I change my Pokemon?",
+    "source_segments": [
+      752,
+      754
+    ]
+  },
+  {
+    "original_staging_row": 1461,
+    "original_staged_raw": "All right, metallic. Oh, I got it. I have an idea. Okay. Darker.",
+    "source_segments": [
+      755,
+      757
+    ]
+  },
+  {
+    "original_staging_row": 1462,
+    "original_staged_raw": "Yes.",
+    "source_segments": [
+      764,
+      764
+    ]
+  },
+  {
+    "original_staging_row": 1463,
+    "original_staged_raw": "Maybe that's better. Really rough. Really rough. That's pretty.",
+    "source_segments": [
+      769,
+      771
+    ]
+  },
+  {
+    "original_staging_row": 1464,
+    "original_staged_raw": "Oh my gosh. Oh my gosh.",
+    "source_segments": [
+      818,
+      821
+    ]
+  },
+  {
+    "original_staging_row": 1465,
+    "original_staged_raw": "Yes.",
+    "source_segments": [
+      845,
+      845
+    ]
+  },
+  {
+    "original_staging_row": 1466,
+    "original_staged_raw": "Oh god. Oh no.",
+    "source_segments": [
+      898,
+      899
+    ]
+  },
+  {
+    "original_staging_row": 1467,
+    "original_staged_raw": "Were any of you guys balloons?",
+    "source_segments": [
+      968,
+      969
+    ]
+  },
+  {
+    "original_staging_row": 1468,
+    "original_staged_raw": "I was hunting you guys.",
+    "source_segments": [
+      970,
+      972
+    ]
+  },
+  {
+    "original_staging_row": 1469,
+    "original_staged_raw": "Oh, it looks like we're all the hunters.",
+    "source_segments": [
+      973,
+      974
+    ]
+  },
+  {
+    "original_staging_row": 1470,
+    "original_staged_raw": "For real? Are you joking?",
+    "source_segments": [
+      975,
+      975
+    ]
+  },
+  {
+    "original_staging_row": 1471,
+    "original_staged_raw": "How convenient.",
+    "source_segments": [
+      976,
+      976
+    ]
+  },
+  {
+    "original_staging_row": 1472,
+    "original_staged_raw": "Is this a joke?",
+    "source_segments": [
+      977,
+      977
+    ]
+  },
+  {
+    "original_staging_row": 1473,
+    "original_staged_raw": "Is this a joke? What? Am I a joke to you?",
+    "source_segments": [
+      980,
+      981
+    ]
+  },
+  {
+    "original_staging_row": 1474,
+    "original_staged_raw": "Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.",
+    "source_segments": [
+      982,
+      983
+    ]
+  },
+  {
+    "original_staging_row": 1475,
+    "original_staged_raw": "Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?",
+    "source_segments": [
+      984,
+      988
+    ]
+  },
+  {
+    "original_staging_row": 1476,
+    "original_staged_raw": "I'm going to go draw myself as you.",
+    "source_segments": [
+      989,
+      989
+    ]
+  },
+  {
+    "original_staging_row": 1477,
+    "original_staged_raw": "This too is Blood Quill.",
+    "source_segments": [
+      990,
+      990
+    ]
+  },
+  {
+    "original_staging_row": 1478,
+    "original_staged_raw": "How do I do your eyes?",
+    "source_segments": [
+      991,
+      991
+    ]
+  },
+  {
+    "original_staging_row": 1479,
+    "original_staged_raw": "What are you doing? I'm drawing myself as you. Me? Yeah.",
+    "source_segments": [
+      993,
+      996
+    ]
+  },
+  {
+    "original_staging_row": 1480,
+    "original_staged_raw": "You got to do like a wink.",
+    "source_segments": [
+      997,
+      997
+    ]
+  },
+  {
+    "original_staging_row": 1481,
+    "original_staged_raw": "Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.",
+    "source_segments": [
+      998,
+      1002
+    ]
+  },
+  {
+    "original_staging_row": 1482,
+    "original_staged_raw": "Yeah. Yeah. Yeah.",
+    "source_segments": [
+      816,
+      817
+    ]
+  },
+  {
+    "original_staging_row": 1483,
+    "original_staged_raw": "I unfortunately am blind",
+    "source_segments": [
+      1120,
+      1120
+    ]
+  },
+  {
+    "original_staging_row": 1484,
+    "original_staged_raw": "oh whistles in six seconds",
+    "source_segments": [
+      1121,
+      1121
+    ]
+  },
+  {
+    "original_staging_row": 1485,
+    "original_staged_raw": "three two",
+    "source_segments": [
+      1122,
+      1122
+    ]
+  },
+  {
+    "original_staging_row": 1486,
+    "original_staged_raw": "I didn't hear any",
+    "source_segments": [
+      1124,
+      1124
+    ]
+  },
+  {
+    "original_staging_row": 1487,
+    "original_staged_raw": "I better run",
+    "source_segments": [
+      1127,
+      1127
+    ]
+  },
+  {
+    "original_staging_row": 1488,
+    "original_staged_raw": "I just noted her here but I I don't know where",
+    "source_segments": [
+      1128,
+      1129
+    ]
+  },
+  {
+    "original_staging_row": 1489,
+    "original_staged_raw": "oh my god I hear them",
+    "source_segments": [
+      1130,
+      1131
+    ]
+  },
+  {
+    "original_staging_row": 1490,
+    "original_staged_raw": "yeah I hear someone but I don't see anyone",
+    "source_segments": [
+      1132,
+      1133
+    ]
+  },
+  {
+    "original_staging_row": 1491,
+    "original_staged_raw": "I mean this place was a place of people",
+    "source_segments": [
+      1135,
+      1136
+    ]
+  },
+  {
+    "original_staging_row": 1492,
+    "original_staged_raw": "I feel blind as hell I'm just going to shoot this toilet paper",
+    "source_segments": [
+      1137,
+      1138
+    ]
+  },
+  {
+    "original_staging_row": 1493,
+    "original_staged_raw": "oh they hate me so much it is over",
+    "source_segments": [
+      1139,
+      1140
+    ]
+  },
+  {
+    "original_staging_row": 1494,
+    "original_staged_raw": "oh my god I'm literally blind",
+    "source_segments": [
+      1142,
+      1143
+    ]
+  },
+  {
+    "original_staging_row": 1495,
+    "original_staged_raw": "no it's okay I'm blind too",
+    "source_segments": [
+      1144,
+      1144
+    ]
+  },
+  {
+    "original_staging_row": 1496,
+    "original_staged_raw": "yeah yeah yeah good job yeah",
+    "source_segments": [
+      1146,
+      1147
+    ]
+  },
+  {
+    "original_staging_row": 1497,
+    "original_staged_raw": "where are the other ones",
+    "source_segments": [
+      1148,
+      1148
+    ]
+  },
+  {
+    "original_staging_row": 1498,
+    "original_staged_raw": "I heard them near the starting oh she was at the top",
+    "source_segments": [
+      1149,
+      1150
+    ]
+  },
+  {
+    "original_staging_row": 1499,
+    "original_staged_raw": "oh pretty good yeah let's rejoin their call",
+    "source_segments": [
+      1151,
+      1152
+    ]
+  },
+  {
+    "original_staging_row": 1500,
+    "original_staged_raw": "okay for this one oh Mori and Humoko were somewhere around here",
+    "source_segments": [
+      1153,
+      1155
+    ]
+  },
+  {
+    "original_staging_row": 1501,
+    "original_staged_raw": "that was pretty good you know it's too good very good",
+    "source_segments": [
+      1155,
+      1159
+    ]
+  },
+  {
+    "original_staging_row": 1502,
+    "original_staged_raw": "time to become infected let's try infection",
+    "source_segments": [
+      1160,
+      1161
+    ]
+  },
+  {
+    "original_staging_row": 1503,
+    "original_staged_raw": "everyone gets infected",
+    "source_segments": [
+      1162,
+      1162
+    ]
+  },
+  {
+    "original_staging_row": 1504,
+    "original_staged_raw": "that's the mode I see in clips",
+    "source_segments": [
+      1165,
+      1165
+    ]
+  },
+  {
+    "original_staging_row": 1505,
+    "original_staged_raw": "oh that's hard",
+    "source_segments": [
+      1166,
+      1166
+    ]
+  },
+  {
+    "original_staging_row": 1506,
+    "original_staged_raw": "you have more painting time for the the chameleons then",
+    "source_segments": [
+      1167,
+      1168
+    ]
+  },
+  {
+    "original_staging_row": 1507,
+    "original_staged_raw": "okay yeah that might be nice",
+    "source_segments": [
+      1169,
+      1170
+    ]
+  },
+  {
+    "original_staging_row": 1508,
+    "original_staged_raw": "wait can you repeat what's infection",
+    "source_segments": [
+      1171,
+      1171
+    ]
+  },
+  {
+    "original_staging_row": 1509,
+    "original_staged_raw": "so when you die you become a hunter",
+    "source_segments": [
+      1172,
+      1172
+    ]
+  },
+  {
+    "original_staging_row": 1510,
+    "original_staged_raw": "oh I see okay so it's just more hunters at the end",
+    "source_segments": [
+      1173,
+      1174
+    ]
+  },
+  {
+    "original_staging_row": 1511,
+    "original_staged_raw": "should we do like a last timer for it then for like the actual",
+    "source_segments": [
+      1175,
+      1176
+    ]
+  },
+  {
+    "original_staging_row": 1512,
+    "original_staged_raw": "yeah we can't say where we are because",
+    "source_segments": [
+      1177,
+      1178
+    ]
+  },
+  {
+    "original_staging_row": 1513,
+    "original_staged_raw": "yeah become a hunter huh",
+    "source_segments": [
+      1179,
+      1181
+    ]
+  },
+  {
+    "original_staging_row": 1514,
+    "original_staged_raw": "just make sure to leave the voice chat when you become a hunter then I think",
+    "source_segments": [
+      1182,
+      1184
+    ]
+  },
+  {
+    "original_staging_row": 1515,
+    "original_staged_raw": "yeah yeah okay but you also that means you also can't check what other people are doing after you're done painting right",
+    "source_segments": [
+      1185,
+      1189
+    ]
+  },
+  {
+    "original_staging_row": 1516,
+    "original_staged_raw": "yeah yep yeah",
+    "source_segments": [
+      1190,
+      1192
+    ]
+  },
+  {
+    "original_staging_row": 1517,
+    "original_staged_raw": "would there be no whistle on this one",
+    "source_segments": [
+      1195,
+      1195
+    ]
+  },
+  {
+    "original_staging_row": 1518,
+    "original_staged_raw": "okay makes sense sure",
+    "source_segments": [
+      1196,
+      1196
+    ]
+  },
+  {
+    "original_staging_row": 1519,
+    "original_staged_raw": "I guess we can see each other",
+    "source_segments": [
+      1197,
+      1198
+    ]
+  },
+  {
+    "original_staging_row": 1520,
+    "original_staged_raw": "in fact you can't see each other",
+    "source_segments": [
+      1198,
+      1199
+    ]
+  },
+  {
+    "original_staging_row": 1521,
+    "original_staged_raw": "I think it might be part of the game mode where you can't switch POVs anyway",
+    "source_segments": [
+      1200,
+      1201
+    ]
+  },
+  {
+    "original_staging_row": 1522,
+    "original_staged_raw": "yeah okay okay the game chat no okay",
+    "source_segments": [
+      1202,
+      1203
+    ]
+  },
+  {
+    "original_staging_row": 1523,
+    "original_staged_raw": "so don't try to reveal yourself too hard when you're talking",
+    "source_segments": [
+      1204,
+      1205
+    ]
+  },
+  {
+    "original_staging_row": 1524,
+    "original_staged_raw": "oh yeah get out of here",
+    "source_segments": [
+      1210,
+      1211
+    ]
+  },
+  {
+    "original_staging_row": 1525,
+    "original_staged_raw": "I need to paint",
+    "source_segments": [
+      1213,
+      1213
+    ]
+  },
+  {
+    "original_staging_row": 1526,
+    "original_staged_raw": "oh my god how do I turn around",
+    "source_segments": [
+      1215,
+      1216
+    ]
+  },
+  {
+    "original_staging_row": 1527,
+    "original_staged_raw": "can I just shoot as many times possible",
+    "source_segments": [
+      1217,
+      1217
+    ]
+  },
+  {
+    "original_staging_row": 1528,
+    "original_staged_raw": "yeah you need to shoot a lot",
+    "source_segments": [
+      1218,
+      1218
+    ]
+  },
+  {
+    "original_staging_row": 1529,
+    "original_staged_raw": "oh god okay yeah no it's too obvious too obvious",
+    "source_segments": [
+      1218,
+      1221
+    ]
+  },
+  {
+    "original_staging_row": 1530,
+    "original_staged_raw": "uh try not to give too much away",
+    "source_segments": [
+      1222,
+      1223
+    ]
+  },
+  {
+    "original_staging_row": 1531,
+    "original_staged_raw": "you got to make that yourself you know",
+    "source_segments": [
+      1232,
+      1233
+    ]
+  },
+  {
+    "original_staging_row": 1532,
+    "original_staged_raw": "oh just by like an artist spamming yourself",
+    "source_segments": [
+      1234,
+      1235
+    ]
+  },
+  {
+    "original_staging_row": 1533,
+    "original_staged_raw": "I mean kind of you just you just got to be a good artist you know",
+    "source_segments": [
+      1236,
+      1237
+    ]
+  },
+  {
+    "original_staging_row": 1534,
+    "original_staged_raw": "I see",
+    "source_segments": [
+      1238,
+      1238
+    ]
+  },
+  {
+    "original_staging_row": 1535,
+    "original_staged_raw": "this is stupid but you know I might as well",
+    "source_segments": [
+      1239,
+      1240
+    ]
+  },
+  {
+    "original_staging_row": 1536,
+    "original_staged_raw": "no no no",
+    "source_segments": [
+      1241,
+      1241
+    ]
+  },
+  {
+    "original_staging_row": 1537,
+    "original_staged_raw": "I love when it's dumb enough so it just might work",
+    "source_segments": [
+      1242,
+      1243
+    ]
+  },
+  {
+    "original_staging_row": 1538,
+    "original_staged_raw": "this is so stupid I think they're going to find me but whatever",
+    "source_segments": [
+      1245,
+      1246
+    ]
+  },
+  {
+    "original_staging_row": 1539,
+    "original_staged_raw": "yeah okay wait we got still still got time",
+    "source_segments": [
+      1247,
+      1249
+    ]
+  },
+  {
+    "original_staging_row": 1540,
+    "original_staged_raw": "sun cost fallacy I don't know man",
+    "source_segments": [
+      1249,
+      1249
+    ]
+  },
+  {
+    "original_staging_row": 1541,
+    "original_staged_raw": "oh oh my my three wonderful points",
+    "source_segments": [
+      1335,
+      1336
+    ]
+  }
+]

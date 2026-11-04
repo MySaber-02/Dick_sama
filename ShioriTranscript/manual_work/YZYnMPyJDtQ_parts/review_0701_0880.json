@@ -1,0 +1,543 @@
+[
+  {
+    "source_segment_indices": [
+      701,
+      702,
+      703
+    ],
+    "raw": "then I could take the tower. So, what if I do this instead? So, I take the tower with this. Or is it the castle?",
+    "status": "SFT",
+    "actually": "Then I could take the tower. What if I do this instead and take the tower with this? Or is it called a castle?"
+  },
+  {
+    "source_segment_indices": [
+      704,
+      705,
+      706,
+      707
+    ],
+    "raw": "I do this that moves there, but we don't really care about it at this point. Um, I could also move it like here.",
+    "status": "SFT",
+    "actually": "I do this; that moves there, but we do not care about it now. I could also move it here."
+  },
+  {
+    "source_segment_indices": [
+      708,
+      709,
+      710,
+      711
+    ],
+    "raw": "I figured that would happen. But I could be a total I could be a total like total tick and I could take everything from the piece, right? So, if I do this,",
+    "status": "LOW",
+    "reason": "Clear prediction and capture question recovered separately; unclear tick insult should not be guessed."
+  },
+  {
+    "source_segment_indices": [
+      712,
+      713,
+      714
+    ],
+    "raw": "can I be like a total a-hole? Wait, it's a rook. Oh, man. Uh, so if I could I just be a a jacko'lantern.",
+    "status": "SFT",
+    "actually": "Can I behave like a jerk? Wait, it is a rook. Could I just be a jack-o'-lantern?"
+  },
+  {
+    "source_segment_indices": [
+      715
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      716,
+      717,
+      718,
+      719,
+      720
+    ],
+    "raw": "So, I could do this. Okay, I'm really I'm going to let you know now. I'm really bad at cornering things. What if I What if I just take everything? One, two, three.",
+    "status": "SFT",
+    "actually": "I could do this. I should warn you that I am very bad at cornering things. What if I take everything? One, two, three."
+  },
+  {
+    "source_segment_indices": [
+      721,
+      722,
+      723,
+      724
+    ],
+    "raw": "This is a stalemate. You have a mate in three. I'm really bad at at doing checkmate. I probably will get a stalemate. Okay.",
+    "status": "SFT",
+    "actually": "This is a stalemate. You have mate in three. I am very bad at checkmating, so I will probably get a stalemate."
+  },
+  {
+    "source_segment_indices": [
+      725,
+      726,
+      727,
+      728,
+      729,
+      730,
+      731
+    ],
+    "raw": "Okay. I'm going to take a hint here. Give me a hint. Give me a hint. I actually don't know how to corner things. That's my issue. Give me a hint right now. Wait, is a stalemate if the king's by itself? I actually have to take the king. Rook to F5. Okay. Uh,",
+    "status": "SFT",
+    "actually": "I will ask for a hint because I do not know how to corner things. Is it a stalemate if the king is alone? I need to take the king. Rook to F5."
+  },
+  {
+    "source_segment_indices": [
+      732,
+      733,
+      734,
+      735
+    ],
+    "raw": "rook to F5. So, oh, wait. It could jump here. I didn't. No way. I can't jump here. Is there another rook?",
+    "status": "SFT",
+    "actually": "Rook to F5. It could jump here—no, I cannot jump here. Is there another rook?"
+  },
+  {
+    "source_segment_indices": [
+      736,
+      737
+    ],
+    "raw": "Rook to F5. I'm sure we'll get there eventually.",
+    "status": "SFT",
+    "actually": "Rook to F5. I am sure we will get there eventually."
+  },
+  {
+    "source_segment_indices": [
+      738,
+      739,
+      740,
+      741,
+      742,
+      743
+    ],
+    "raw": "So, if I go here, wait, wait, wait, wait. I can take this now. Wait. But you don't want you don't want me to corner it, right? Rook is a castle. Oh, shoot. I'm so sorry. I'm so sorry.",
+    "status": "SFT",
+    "actually": "If I go here—wait, I can take this now. But you do not want me to corner it, correct? The rook is a castle. Sorry."
+  },
+  {
+    "source_segment_indices": [
+      744,
+      745,
+      746
+    ],
+    "raw": "I think I need to learn my terminology. Okay. What if we do here? What if we go from here? What do we do?",
+    "status": "SFT",
+    "actually": "I think I need to learn the terminology. What if we go here? What do we do from here?"
+  },
+  {
+    "source_segment_indices": [
+      747,
+      748,
+      749,
+      750
+    ],
+    "raw": "Take it anyway. Okay. If I take this, I just have to not take the last pawn, right? Is that what it is? So, I take this",
+    "status": "SFT",
+    "actually": "Take it anyway. If I take this, I just need to leave the last pawn, correct?"
+  },
+  {
+    "source_segment_indices": [
+      751,
+      752,
+      753,
+      754,
+      755,
+      756
+    ],
+    "raw": "and now it's there. Okay. So, so I just have to not take the last one. Is that what it is? Eat all the pieces. He has nothing. You want to corner the king? Oh god, this is where I'm really horrendously bad.",
+    "status": "SFT",
+    "actually": "Now it is there. Do I just leave the last one? Take all the pieces; he has nothing. You want to corner the king? This is where I am extremely bad."
+  },
+  {
+    "source_segment_indices": [
+      757,
+      758,
+      759,
+      760,
+      761,
+      762
+    ],
+    "raw": "What's the best way to Okay, if I go here, if I go here, okay, if I go here, the king cannot go towards the white pieces. And if I move my queen somewhere, um,",
+    "status": "LOW",
+    "reason": "Clear hypothetical movement recovered separately; best-way question and queen plan unfinished."
+  },
+  {
+    "source_segment_indices": [
+      763,
+      764,
+      765,
+      766,
+      767,
+      768
+    ],
+    "raw": "we'll figure it out. I'll go learn I'll go learn it. Okay. Okay, you can Oh no, my poor thing. That's okay. If you take it, the tower can get you. Or sorry, the castle. Now, if I go over here, I don't think that could take you.",
+    "status": "SFT",
+    "actually": "We will figure it out; I will learn. If you take it, the tower can take you—or rather, the castle. I do not think it can take you if I go here."
+  },
+  {
+    "source_segment_indices": [
+      769,
+      770,
+      771,
+      772,
+      773
+    ],
+    "raw": "I can No, that's that's a horrible idea. I can go here. Can I Can I do this? Queen to G6. G6. G6. Over here. Okay. If I If I do it here, what happens?",
+    "status": "SFT",
+    "actually": "That is a horrible idea. I can go here. Can I do this? Queen to G6. What happens if I move here?"
+  },
+  {
+    "source_segment_indices": [
+      774,
+      775,
+      776,
+      777,
+      778,
+      779
+    ],
+    "raw": "Okay. But that's a trap because I don't want to make the king alone, right? So, if I move it here, can I still corner it with here? Uh, mate, that was a mate. My move is better. What's my move anyway?",
+    "status": "SFT",
+    "actually": "That is a trap because I do not want to leave the king alone, correct? Could I still corner it from here? That was mate. My move is better; what is my move anyway?"
+  },
+  {
+    "source_segment_indices": [
+      780,
+      781,
+      782,
+      783,
+      784
+    ],
+    "raw": "Take it. Take it with the queen, right? There's one more pawn. So, I just have to not use the pawn then. You almost had checkmate. I did. It's okay. We'll do some more games. is learning.",
+    "status": "SFT",
+    "actually": "Take it with the queen, correct? There is one pawn left, so I should not use the pawn. I nearly had checkmate? That is okay; we will play more games. This is learning."
+  },
+  {
+    "source_segment_indices": [
+      785
+    ],
+    "raw": "So So if I take this, I think it's okay.",
+    "status": "SFT",
+    "actually": "I think taking this is okay."
+  },
+  {
+    "source_segment_indices": [
+      786
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      787,
+      788,
+      789
+    ],
+    "raw": "If I take it, I could do it here and then it could go from there. Fudge me. Dang it. Um,",
+    "status": "SFT",
+    "actually": "If I take it, I could do this and go from there. How frustrating."
+  },
+  {
+    "source_segment_indices": [
+      790,
+      791,
+      792
+    ],
+    "raw": "take everything. Okay, what if I just take it? Just don't kill the last pawn. I see.",
+    "status": "SFT",
+    "actually": "Take everything, but do not kill the last pawn. I see."
+  },
+  {
+    "source_segment_indices": [
+      793
+    ],
+    "raw": "Is this bullying?",
+    "status": "SFT",
+    "actually": "Is this bullying?"
+  },
+  {
+    "source_segment_indices": [
+      794,
+      795,
+      796,
+      797,
+      798
+    ],
+    "raw": "Okay, but now I'm going to leave that. What if I start moving my horse? Is there a time limit? There's no time limit for now, I guess. So, let me let me move this here.",
+    "status": "SFT",
+    "actually": "I will leave that. What if I move my horse? Is there a time limit? I suppose there is none now; let me move here."
+  },
+  {
+    "source_segment_indices": [
+      799,
+      800,
+      801,
+      802,
+      803
+    ],
+    "raw": "Oh, I know. We'll uh we'll move this here. I'm going to work up my my bishop. We'll just we'll just move this here. It's totally okay. I know what to do, guys. I'm not going to look anymore.",
+    "status": "SFT",
+    "actually": "I know; I will move here and develop my bishop. It is fine. I know what to do; I will stop looking now."
+  },
+  {
+    "source_segment_indices": [
+      804,
+      805,
+      806,
+      807,
+      808,
+      809
+    ],
+    "raw": "What the hell? Why is that moving? I'm going to move this here. Okay, I'm going to move that here. I'm not looking anymore. I'm going to going to completely wing it. Oh no, it's a trap. It was a trap. It wants to take that.",
+    "status": "SFT",
+    "actually": "Why is that moving? I will move this here and improvise without looking. It is a trap; it wants to take that."
+  },
+  {
+    "source_segment_indices": [
+      810,
+      811,
+      812,
+      813,
+      814
+    ],
+    "raw": "Okay, but what's it going to do? No one cares. It's not going to be able to move down anyway. Oh, what is what is happening? Okay.",
+    "status": "SFT",
+    "actually": "What will it do? Nobody cares; it cannot move down anyway. What is happening?"
+  },
+  {
+    "source_segment_indices": [
+      815,
+      816,
+      817
+    ],
+    "raw": "I can you can you like sacrifice yourself? If you go here. Okay. If I go here, can you",
+    "status": "LOW",
+    "reason": "Clear sacrifice request recovered separately; following hypothetical and question unfinished."
+  },
+  {
+    "source_segment_indices": [
+      818,
+      819,
+      820,
+      821
+    ],
+    "raw": "Oh, I did. I win. I won. Oh, I won. I didn't even know I'd win. Wow. I did it, guys. I don't know how I did it. I won. I didn't even realize.",
+    "status": "SFT",
+    "actually": "I won. I did not even know I would win. I did it, but I do not know how; I did not realize."
+  },
+  {
+    "source_segment_indices": [
+      822,
+      823,
+      824,
+      825,
+      826,
+      827
+    ],
+    "raw": "Wow. Well, that was that was kebab. Probably you do a rematch until I sort of figure things out. So, oh, what happens if you do a new game? They're just like you. What happens if you do a new game? Is it just like a new person?",
+    "status": "SFT",
+    "actually": "That was Kebab. I should probably rematch until I understand. What happens if I start a new game? They are like you. Is it a different person?"
+  },
+  {
+    "source_segment_indices": [
+      828,
+      829,
+      830
+    ],
+    "raw": "It's still kebab. It literally makes no sense. There is burger though, but I was kind of bad at it. So,",
+    "status": "SFT",
+    "actually": "It is still Kebab; it makes no sense. There is Burger, though I was rather bad at it."
+  },
+  {
+    "source_segment_indices": [
+      831,
+      832,
+      833,
+      834
+    ],
+    "raw": "okay. Well, that was the thing. So, starting off the center, review the three misses. Oh, I didn't even know you could review.",
+    "status": "SFT",
+    "actually": "That happened. Start in the center; review the three misses? I did not know reviewing was possible."
+  },
+  {
+    "source_segment_indices": [
+      835,
+      836,
+      837,
+      838,
+      839,
+      840
+    ],
+    "raw": "All right. Well, I learned a little there. Um, so pawn and then you call you call the tower the castle, right? Your queen had controlled the entire row. Yeah. And then the the horse is called the what?",
+    "status": "SFT",
+    "actually": "I learned a little. You call the tower the castle, correct? Your queen controlled the entire row. What is the horse called?"
+  },
+  {
+    "source_segment_indices": [
+      841,
+      842,
+      843,
+      844,
+      845,
+      846
+    ],
+    "raw": "I don't know. Tower is the rook. Oh. Oh, I see. Tower is the rook. You got the knight. You got the bishop. King and queen. Okay. Tower is rook. Tower is rook. You call it the tower or the castle, not",
+    "status": "LOW",
+    "reason": "Clear piece-name explanation recovered separately; final contrast is unfinished."
+  },
+  {
+    "source_segment_indices": [
+      847,
+      848,
+      849,
+      850
+    ],
+    "raw": "um let me try. There's probably opening moves. I'm just going to Google it really quick and let's listen to something that's not just Irish songs.",
+    "status": "SFT",
+    "actually": "There are probably opening moves. I will search for them and listen to something other than Irish songs."
+  },
+  {
+    "source_segment_indices": [
+      851,
+      852
+    ],
+    "raw": "That's still an Irish song. So, chess opening moves. I'm just really curious.",
+    "status": "SFT",
+    "actually": "That is still an Irish song. I am curious about chess opening moves."
+  },
+  {
+    "source_segment_indices": [
+      853,
+      854,
+      855,
+      856
+    ],
+    "raw": "Oh, okay. So, there's things called Ruy Lopez, Sicilian defense, French defense.",
+    "status": "SFT",
+    "actually": "There are openings called Ruy Lopez, Sicilian Defense, and French Defense."
+  },
+  {
+    "source_segment_indices": [
+      857,
+      858
+    ],
+    "raw": "I can't imagine the French doing much though.",
+    "status": "SFT",
+    "actually": "I cannot imagine the French doing much, though."
+  },
+  {
+    "source_segment_indices": [
+      859,
+      860,
+      861,
+      862
+    ],
+    "raw": "The Queen's Gambit and the Italian game. Okay, I'm just going to follow what Google says. We're going to practice it if I if I'm probably going to lose.",
+    "status": "SFT",
+    "actually": "The Queen's Gambit and the Italian Game. I will follow Google's instructions and practice, though I will probably lose."
+  },
+  {
+    "source_segment_indices": [
+      863,
+      864,
+      865,
+      866
+    ],
+    "raw": "Okay, so there's one that's called pawns on D4, E4, and D5 and E5. D4. So D4 would be over here. D4, E4.",
+    "status": "SFT",
+    "actually": "There is one with pawns on D4, E4, D5 and E5. D4 is here; E4."
+  },
+  {
+    "source_segment_indices": [
+      867,
+      868,
+      869,
+      870,
+      871
+    ],
+    "raw": "Uh D5. How do you even get to D5? I guess it takes a little bit little bit longer. Don't bring the queen out too early. Premature queen development can make it vulnerable to attack.",
+    "status": "SFT",
+    "actually": "How do you get to D5? I suppose it takes longer. Do not bring the queen out too early; that leaves her vulnerable to attack."
+  },
+  {
+    "source_segment_indices": [
+      872,
+      873,
+      874,
+      875,
+      876
+    ],
+    "raw": "Bring the knights and bishops out to active squares. Okay, I'm just going to practice out an opening. So, let's see.",
+    "status": "SFT",
+    "actually": "Bring the knights and bishops to active squares. I will practice an opening. Let us see."
+  },
+  {
+    "source_segment_indices": [
+      877,
+      878,
+      879,
+      880
+    ],
+    "raw": "So the the open game is when you put I think a pawn to E4. I see. And the Ruy Lopez is white pins to black's knight.",
+    "status": "SFT",
+    "actually": "I think the open game means moving a pawn to E4. I see. In the Ruy Lopez, white pins black's knight."
+  },
+  {
+    "source_segment_indices": [
+      708
+    ],
+    "raw": "I figured that would happen.",
+    "actually": "I expected that to happen.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      710,
+      711
+    ],
+    "raw": "I could take everything from the piece, right?",
+    "actually": "I could take everything from the piece, correct?",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      759,
+      760
+    ],
+    "raw": "if I go here, the king cannot go towards the white pieces.",
+    "actually": "If I go here, the king cannot move toward the white pieces.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      815,
+      816
+    ],
+    "raw": "can you like sacrifice yourself?",
+    "actually": "Could you sacrifice yourself?",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      841,
+      842,
+      843,
+      844,
+      845,
+      846
+    ],
+    "raw": "I don't know. Tower is the rook. Oh. Oh, I see. Tower is the rook. You got the knight. You got the bishop. King and queen. Okay. Tower is rook. Tower is rook. You call it the tower or the castle,",
+    "actually": "I do not know. The tower is the rook; there are also the knight, bishop, king and queen. You call it a tower or castle.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

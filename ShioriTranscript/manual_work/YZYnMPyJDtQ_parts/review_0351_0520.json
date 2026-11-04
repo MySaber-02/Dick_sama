@@ -1,0 +1,565 @@
+[
+  {
+    "source_segment_indices": [
+      351,
+      352
+    ],
+    "raw": "what does this accomplish? Could I Could I take the horse then?",
+    "status": "SFT",
+    "actually": "What does this achieve? Could I take the horse then?"
+  },
+  {
+    "source_segment_indices": [
+      353,
+      354,
+      355
+    ],
+    "raw": "It frees the rook. I don't know what that means to fork the queen. Uh, the king, the queen.",
+    "status": "SFT",
+    "actually": "It frees the rook. I do not know what forking the queen means—the king, the queen."
+  },
+  {
+    "source_segment_indices": [
+      356,
+      357,
+      358
+    ],
+    "raw": "So, you want to take the rook? Which one's the rook? Is that the knight?",
+    "status": "SFT",
+    "actually": "You want to take the rook? Which piece is the rook? Is it the knight?"
+  },
+  {
+    "source_segment_indices": [
+      359,
+      360,
+      361
+    ],
+    "raw": "Don't take the tower. Take take this one. Right. Is horse rook.",
+    "status": "SFT",
+    "actually": "Do not take the tower; take this one. Is the horse the rook?"
+  },
+  {
+    "source_segment_indices": [
+      362,
+      363,
+      364
+    ],
+    "raw": "Take tower or knight. I'm assuming this is the knight. I'm going to take this one then.",
+    "status": "SFT",
+    "actually": "Take the tower or knight. I assume this is the knight, so I will take it."
+  },
+  {
+    "source_segment_indices": [
+      365
+    ],
+    "raw": "Let me think about it.",
+    "status": "SFT",
+    "actually": "Let me think about it."
+  },
+  {
+    "source_segment_indices": [
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373
+    ],
+    "raw": "What does that do? So that forces that I could probably Okay, I'm not going to I'm not going to remove that tower. I feel like that's a trap. Um, does the king take diagonally? So, for example, like this thing, it can go here and here or is the king like a cardinal direction kind of guy?",
+    "status": "SFT",
+    "actually": "What does that do? I will not remove that tower; it feels like a trap. Does the king capture diagonally, or only in cardinal directions?"
+  },
+  {
+    "source_segment_indices": [
+      374,
+      375,
+      376,
+      377,
+      378
+    ],
+    "raw": "You want to see how I improve? It can it can go diagonally. So, I see one space in any direction. So, it would be a trap if I take that right now. Uh, what I'll do, I might take the tower with the",
+    "status": "LOW",
+    "reason": "Clear diagonal-movement explanation recovered separately; unfinished plan to take the tower."
+  },
+  {
+    "source_segment_indices": [
+      379,
+      380,
+      381,
+      382,
+      383
+    ],
+    "raw": "uh I'm not sure about this one right now. But if I'm not Oh, it it might take my my horse. I'm probably going to lose my horse right now. I don't think it matters.",
+    "status": "SFT",
+    "actually": "I am unsure about this one. It might take my horse; I will probably lose the horse now. I do not think it matters."
+  },
+  {
+    "source_segment_indices": [
+      384,
+      385,
+      386,
+      387,
+      388
+    ],
+    "raw": "I could sacrifice it here. The king takes it, but I really doubt that the king's going to take the fall. I But this would be the safest one. So, I'm gonna do this",
+    "status": "SFT",
+    "actually": "I could sacrifice it here and the king could take it, but I doubt the king will take the fall. This seems safest, so I will do it."
+  },
+  {
+    "source_segment_indices": [
+      389
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      390,
+      391,
+      392
+    ],
+    "raw": "and we'll see. Uh, it went over there. Okay. I think it's still protected.",
+    "status": "SFT",
+    "actually": "We will see; it went there. I think it is still protected."
+  },
+  {
+    "source_segment_indices": [
+      393,
+      394
+    ],
+    "raw": "So, I'm just going to leave that east. Uh, let's let's take it slow. Let",
+    "status": "LOW",
+    "reason": "Unclear 'leave that east' phrase; clear slow-down instruction recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      395,
+      396,
+      397,
+      398
+    ],
+    "raw": "me think really quick. It's illegal to move the king into check. I'll have to think about that. It's threatening my tower. Yeah, I know.",
+    "status": "SFT",
+    "actually": "Let me think. It is illegal to move the king into check; I need to consider that. It threatens my tower; I know."
+  },
+  {
+    "source_segment_indices": [
+      399,
+      400,
+      401,
+      402,
+      403,
+      404
+    ],
+    "raw": "But I don't really have much of a choice here. I think so. If it takes my tower, I think I have to move the king. I don't really have much of a choice. What I could do, I'm going to let it take my tower.",
+    "status": "SFT",
+    "actually": "I do not think I have much choice. If it takes my tower, I think I have to move the king. I will let it take the tower."
+  },
+  {
+    "source_segment_indices": [
+      405,
+      406,
+      407
+    ],
+    "raw": "I move that. The horse still protects it. And then I have the tower here to defend it.",
+    "status": "SFT",
+    "actually": "I move that; the horse still protects it, and I have the tower here to defend it."
+  },
+  {
+    "source_segment_indices": [
+      408,
+      409,
+      410
+    ],
+    "raw": "Um, so I won't take back seating here. I kind of need to learn this on my own right now. So, let me move.",
+    "status": "SFT",
+    "actually": "I will not accept advice about how to play right now; I need to learn this myself. Let me move."
+  },
+  {
+    "source_segment_indices": [
+      411,
+      412,
+      413
+    ],
+    "raw": "Yeah, let me move this. Maybe I'll sacrifice that. I feel like I could just take my horse, though.",
+    "status": "SFT",
+    "actually": "Let me move this. Perhaps I will sacrifice it, though I feel it could take my horse."
+  },
+  {
+    "source_segment_indices": [
+      414,
+      415
+    ],
+    "raw": "Maybe I'll do this. Maybe he'll think I'm dumb.",
+    "status": "SFT",
+    "actually": "Perhaps I will do this; maybe he will think I am foolish."
+  },
+  {
+    "source_segment_indices": [
+      416,
+      417
+    ],
+    "raw": "Uh, let's see. You can pull back the queen.",
+    "status": "SFT",
+    "actually": "You can pull the queen back."
+  },
+  {
+    "source_segment_indices": [
+      418,
+      419,
+      420,
+      421,
+      422,
+      423
+    ],
+    "raw": "If I do pull back the queen, um, if I take it to F4, the queen Wait, can But the queen can mimic horses, right? If the queen can mimic horses,",
+    "status": "SFT",
+    "actually": "If I pull the queen back to F4—wait, the queen can imitate horses, correct?"
+  },
+  {
+    "source_segment_indices": [
+      424
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      425,
+      426,
+      427,
+      428,
+      429,
+      430
+    ],
+    "raw": "I think it's safe here. So, it's going to it's going to take like literally anything here, which is the issue. And then I have to sort of circumvent that.",
+    "status": "SFT",
+    "actually": "I think it is safe here. The problem is that it will capture anything here, so I need to work around that."
+  },
+  {
+    "source_segment_indices": [
+      431,
+      432,
+      433,
+      434,
+      435
+    ],
+    "raw": "Uh the queens can't jump. Oh, they can't do horse movements. They can only do diagonal and tower, right? I think which is the bishop and the tower or sorry, it's a castle, isn't it?",
+    "status": "SFT",
+    "actually": "Queens cannot jump; they cannot move like horses. They move diagonally and like a tower, meaning the bishop and tower—or rather, castle."
+  },
+  {
+    "source_segment_indices": [
+      436
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      437,
+      438,
+      439,
+      440
+    ],
+    "raw": "Queen can only move in straight lines. So, if I go here, uh, it's safe from the horse. It's safe from the bishop.",
+    "status": "SFT",
+    "actually": "The queen moves only in straight lines. Going here is safe from the horse and bishop."
+  },
+  {
+    "source_segment_indices": [
+      441,
+      442,
+      443
+    ],
+    "raw": "Is F5 safe then? I think F5 is okay. Yeah, it is. Okay, I'm going to go to F5 then.",
+    "status": "SFT",
+    "actually": "Is F5 safe? I think it is. Yes, it is; I will go to F5."
+  },
+  {
+    "source_segment_indices": [
+      444,
+      445,
+      446
+    ],
+    "raw": "Uh, I just kind of need to learn it on my own. So, I'll do here. I think F3 F3 is a horrible idea.",
+    "status": "SFT",
+    "actually": "I need to learn this myself. I will go here; I think F3 is a horrible idea."
+  },
+  {
+    "source_segment_indices": [
+      447,
+      448
+    ],
+    "raw": "Okay. So, it moves there. What I could do?",
+    "status": "SFT",
+    "actually": "It moves there. What could I do?"
+  },
+  {
+    "source_segment_indices": [
+      449,
+      450,
+      451,
+      452
+    ],
+    "raw": "I've already take Oh, the queen's right there. Okay. I didn't realize. Um, actually, if I move this and it takes one of these.",
+    "status": "LOW",
+    "reason": "Clear queen observation recovered separately; surrounding capture and conditional phrases unfinished."
+  },
+  {
+    "source_segment_indices": [
+      453,
+      454,
+      455,
+      456,
+      457
+    ],
+    "raw": "Oh, yeah. Okay. I'm going to sacrifice it because now it doesn't have anywhere else to go except there. Okay. But however, I could take it here now.",
+    "status": "SFT",
+    "actually": "I will sacrifice it because it has nowhere else to go except there. However, I can capture it here now."
+  },
+  {
+    "source_segment_indices": [
+      458,
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "raw": "Uh tower can't reach it. I think the horse can reach it. That's okay. It's a trap. The horse is going to reach it. One, two, three. Yeah. So, I just have to move this then. Uh what I'll do, let's sacrifice a queen for a queen.",
+    "status": "SFT",
+    "actually": "The tower cannot reach it, but I think the horse can. It is a trap. One, two, three; I need to move this. Let us exchange a queen for a queen."
+  },
+  {
+    "source_segment_indices": [
+      464,
+      465,
+      466,
+      467,
+      468
+    ],
+    "raw": "I can go over here. Just move it down. Uh, bishop can't take me. Tower can't take me. I think it should be okay. So, I'm going to do it.",
+    "status": "SFT",
+    "actually": "I can go here, moving down. Neither the bishop nor tower can capture me. I think it should be okay, so I will do it."
+  },
+  {
+    "source_segment_indices": [
+      469,
+      470,
+      471
+    ],
+    "raw": "All right, that moves. Uh, let's see. I'm just going to have to wing it. Uh, let's see. I need to remove more things.",
+    "status": "SFT",
+    "actually": "That moves. I will have to improvise; I need to remove more pieces."
+  },
+  {
+    "source_segment_indices": [
+      472
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      473,
+      474,
+      475,
+      476,
+      477,
+      478
+    ],
+    "raw": "Oh, no. That would No, that would be bad. Okay, I need to free up more pieces. I think that's my issue. So, if I do here, uh, queen could take it. Horse cannot take it.",
+    "status": "SFT",
+    "actually": "That would be bad. I think I need to free more pieces. If I move here, the queen could capture it but the horse could not."
+  },
+  {
+    "source_segment_indices": [
+      479,
+      480,
+      481,
+      482
+    ],
+    "raw": "And then I have two pawns to save. So, it's okay. So, let me just Oh, wait. I can check right now. King can only take your horse at this time.",
+    "status": "SFT",
+    "actually": "I have two pawns to save, so it is okay. Wait, I can give check now. The king can only take your horse at this time."
+  },
+  {
+    "source_segment_indices": [
+      483,
+      484,
+      485,
+      486
+    ],
+    "raw": "Move queen to B8. B8. B8. B8. Okay. So, if I do this, horse can't take it. Um, queen is too late.",
+    "status": "SFT",
+    "actually": "Move the queen to B8. If I do this, the horse cannot take it, and the queen is too late."
+  },
+  {
+    "source_segment_indices": [
+      487,
+      488,
+      489,
+      490,
+      491
+    ],
+    "raw": "Let me try it. Tower can't move up either. So, if I do that, the horse gets there. I could take the tower though. The Oh, but I I lose my thing. I don't think.",
+    "status": "LOW",
+    "reason": "Clear move reasoning recovered separately; unfinished losing-my-thing conclusion remains unresolved."
+  },
+  {
+    "source_segment_indices": [
+      492,
+      493
+    ],
+    "raw": "Okay. I think free rook this way. You got a free tower.",
+    "status": "SFT",
+    "actually": "I think this gives a free rook; you get a free tower."
+  },
+  {
+    "source_segment_indices": [
+      494,
+      495,
+      496
+    ],
+    "raw": "Oh no, the queen cannot. Oh, but the horse will take my thing. So my queen is safe right now.",
+    "status": "SFT",
+    "actually": "The queen cannot, but the horse will take my piece. My queen is safe now."
+  },
+  {
+    "source_segment_indices": [
+      497,
+      498
+    ],
+    "raw": "His knight is trapped now. So he can pull the knight out.",
+    "status": "SFT",
+    "actually": "His knight is trapped now, so he can pull it out."
+  },
+  {
+    "source_segment_indices": [
+      499
+    ],
+    "raw": "What does that mean?",
+    "status": "SFT",
+    "actually": "What does that mean?"
+  },
+  {
+    "source_segment_indices": [
+      500,
+      501,
+      502
+    ],
+    "raw": "The tower is protected by the horse. That's what I'm thinking. I feel like I should escape.",
+    "status": "SFT",
+    "actually": "The tower is protected by the horse; that is what I think. I feel I should escape."
+  },
+  {
+    "source_segment_indices": [
+      503,
+      504
+    ],
+    "raw": "Actually, I think this trap name in fact. Um",
+    "status": "LOW",
+    "reason": "Unclear 'trap name' phrase; do not guess its exact subject/object."
+  },
+  {
+    "source_segment_indices": [
+      505,
+      506,
+      507,
+      508,
+      509,
+      510
+    ],
+    "raw": "because if I go here, the knight can still take me. If I go here, the queen takes me. If I go here, actually, I think going here is probably safe. No, no, no. The pawn takes me. If I go here, the queen takes me.",
+    "status": "SFT",
+    "actually": "Here the knight can still take me; there the queen takes me. This might be safe—no, the pawn takes me. Here the queen takes me."
+  },
+  {
+    "source_segment_indices": [
+      511
+    ],
+    "raw": "So, I think I just got",
+    "status": "LOW",
+    "reason": "Unfinished 'I think I just got'."
+  },
+  {
+    "source_segment_indices": [
+      512
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      513,
+      514,
+      515,
+      516
+    ],
+    "raw": "Uh, however, if I It seems I can go anywhere else. So if I go here, nothing can take me. Okay, I think I think I have to go here. Can I go here?",
+    "status": "SFT",
+    "actually": "It seems I can go elsewhere. Nothing can take me here; I think I have to go here. Can I?"
+  },
+  {
+    "source_segment_indices": [
+      517,
+      518,
+      519,
+      520
+    ],
+    "raw": "Uh, now I can go here, too, actually. So, should I do F4 and then I free up the horse? Uh, I guess I can do that. Let me think.",
+    "status": "SFT",
+    "actually": "I can go here too. Should I move to F4 and free the horse? I suppose I can; let me think."
+  },
+  {
+    "source_segment_indices": [
+      374,
+      375,
+      376,
+      377
+    ],
+    "raw": "You want to see how I improve? It can it can go diagonally. So, I see one space in any direction. So, it would be a trap if I take that right now.",
+    "actually": "Do you want to see how I improve? It can move diagonally, one space in any direction. Taking that now would be a trap.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      394
+    ],
+    "raw": "Uh, let's let's take it slow.",
+    "actually": "Let us take it slowly.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      449,
+      450
+    ],
+    "raw": "Oh, the queen's right there. Okay. I didn't realize.",
+    "actually": "The queen is right there; I did not realize.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      487,
+      488,
+      489,
+      490
+    ],
+    "raw": "Let me try it. Tower can't move up either. So, if I do that, the horse gets there. I could take the tower though.",
+    "actually": "Let me try it. The tower cannot move up either. If I do that, the horse goes there; I could take the tower, though.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

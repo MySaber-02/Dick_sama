@@ -1,0 +1,188 @@
+[
+  {
+    "source_segments": [
+      782,
+      783
+    ],
+    "source_excerpt": "I'm praying. I'm praying so bad.",
+    "existing_raw": "I'm praying I'm praying so bad",
+    "finding": "No speech omission. Literal token matcher greedily picks an earlier Im in782 instead of final Im of782. Use final Im of782 followed by praying in783."
+  },
+  {
+    "source_segments": [
+      806,
+      807
+    ],
+    "source_excerpt": "you can totally win this.",
+    "existing_raw": "you can totally win this",
+    "finding": "No omission. Matcher picks first you can of806 (before tell this), but this occurrence starts at final you can of806."
+  },
+  {
+    "source_segments": [
+      813,
+      814
+    ],
+    "source_excerpt": "I'm so funny.",
+    "existing_raw": "I'm so funny.",
+    "finding": "This occurrence starts at final Im so of813, not earlier Im so bad. Existing distinct I dont know Im so bad remains."
+  },
+  {
+    "source_segments": [
+      814,
+      816
+    ],
+    "source_excerpt": "From the right angle. From the right angle, it's really good. Angle, it's really good.",
+    "finding": "Two genuine From the right angle starts. Existing separated From the right angle record takes first one; longer assessment starts second From the of814 and right angle815. Need source excerpt occurrence anchoring, not greedy first match for both."
+  },
+  {
+    "source_segments": [
+      853,
+      854
+    ],
+    "source_excerpt": "I think you're close.",
+    "existing_raw": "I think you're close",
+    "finding": "No omission. Starts at second I think of853, after I think she sees me. Matcher uses first I think then later youre."
+  },
+  {
+    "source_segments": [
+      808,
+      811
+    ],
+    "existing_raw": "oh my god I'm not even painting it correctly really",
+    "finding": "painting intentionally fixes paying from810 in explicit paint/brush context. Do not revert to paying to satisfy word matching."
+  },
+  {
+    "source_segments": [
+      832,
+      832
+    ],
+    "existing_raw": "I can't use the eyedropper either",
+    "finding": "eyedropper intentionally fixes source eyropper; source830 clearly names same tool."
+  },
+  {
+    "source_segments": [
+      968,
+      969
+    ],
+    "existing_raw": "Were any of you guys balloons?",
+    "finding": "Source was any ... question. Were is grammatical correction in raw; restore raw Was any of you guys balloons? actually Were any of you balloons? Source every before was is separate LOW."
+  },
+  {
+    "source_segments": [
+      1250,
+      1251
+    ],
+    "existing_raw": "so I can just like undo my art",
+    "finding": "Starts final so I of1250; boundary correction already provided."
+  },
+  {
+    "source_segments": [
+      1279,
+      1280
+    ],
+    "existing_raw": "oh wait what the heck the environment",
+    "finding": "Starts final Oh of1279, not the first Oh before theres letters; boundary correction already provided."
+  },
+  {
+    "source_segments": [
+      1328,
+      1329
+    ],
+    "existing_raw": "how you guys doing how you guys doing bro",
+    "finding": "First How belongs last word1328, next source1329 starts you guys doing; widen start to1328."
+  },
+  {
+    "source_segments": [
+      1349,
+      1352
+    ],
+    "existing_raw": "and I was like no Liz look I knew you'd climb",
+    "finding": "And is final word1349, before source1350 I was like; preserve linked repeated conjunction by boundary widening."
+  },
+  {
+    "source_segments": [
+      1054,
+      1055
+    ],
+    "existing_raw": "I see there's someone near here",
+    "finding": "Existing SFT main348 already has I see. It starts at final I see of1054, after the distinct I can do this. Do not add another I see occurrence; matcher picked first I of1054."
+  },
+  {
+    "source_segments": [
+      1262,
+      1263
+    ],
+    "existing_raw": "I don't think this this is going to work",
+    "finding": "Starts second I in1262, after I may have this. Boundary already1262–1263; missing I is greedy alignment to earlier I, not omitted output."
+  },
+  {
+    "source_segments": [
+      606,
+      606
+    ],
+    "existing_raw": "I can press.",
+    "finding": "The precise source is606; three records shared604–606 causing greedy Imissing. Source segmentation corrected by last boundary file."
+  },
+  {
+    "source_segments": [
+      1331,
+      1332
+    ],
+    "existing_raw": "I feel like my",
+    "finding": "Existing LOW must begin final I of1331, following clear I saw someone really close to me; retain separate Oh of1332 as SFT."
+  },
+  {
+    "source_segments": [
+      802,
+      803
+    ],
+    "existing_raw": "oh I'm good I'm so bad",
+    "finding": "Existing raw already contains Oh. It begins second Oh of802, after Oh thats good, not the first Oh of802. Direct34 record is a source-faithful replacement, not an extra utterance."
+  },
+  {
+    "source_segments": [
+      598,
+      599
+    ],
+    "existing_raw": "I wish. Please be the dirt. Please be",
+    "integrated_decision_snapshot": 431,
+    "finding": "Verified source598 ends ...I just ran. I; LOW begins final I598 then wish599. Matcher picked earlier I of I just ran; missing final I is not a raw omission. Do not add another I."
+  },
+  {
+    "source_segments": [
+      866,
+      867
+    ],
+    "existing_raw": "oh she totally sees you",
+    "integrated_decision_snapshot": 627,
+    "finding": "Verified source866 contains Oh no. Oh no. She sees you. Oh, she. This SFT begins final Oh she of866 then totally sees you867. Earlier Oh/She belong to distinct preceding SFT. Greedy first identical words cause false gap; no new utterance."
+  },
+  {
+    "source_segments": [
+      880,
+      881,
+      882
+    ],
+    "existing_raw": "I was like, I'm looking at the balloons right now.",
+    "integrated_decision_snapshot": 637,
+    "finding": "Verified source880 ends ...I thought it was good. I; this SFT begins final I880 then was like881. Matching earlier I thought ...was incorrectly consumes earlier I/was and leaves actual late I/was falsely uncovered."
+  },
+  {
+    "source_segments": [
+      1062,
+      1062
+    ],
+    "existing_raw": "No, you thought Secretary.",
+    "integrated_decision_snapshot": 752,
+    "finding": "Verified source1062 is No, Im bad. No, you thought Secretary. LOW starts second No, after the clear No Im bad SFT. First-No greedy match is not missing source content."
+  },
+  {
+    "source_segments": [
+      1376,
+      1376
+    ],
+    "existing_raw": "It was",
+    "integrated_decision_snapshot": 982,
+    "finding": "Verified source1376 contains 150. Cut it off by half. It was. LOW begins final It after half, whereas greedy matcher picks earlier it in Cut it off. Raw It was is intact; do not create another occurrence."
+  }
+]

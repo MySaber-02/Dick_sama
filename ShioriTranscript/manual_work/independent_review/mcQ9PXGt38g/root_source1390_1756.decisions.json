@@ -1,0 +1,2652 @@
+[
+  {
+    "source_segments": [
+      1390,
+      1391
+    ],
+    "raw": "I'm still try this one for once.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1392,
+      1392
+    ],
+    "raw": "Close to my body.",
+    "actually": "Close to my body.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1393,
+      1395
+    ],
+    "raw": "Oh, hell. I did not intentional. Now it's intentional. I see. I see you. Thank you.",
+    "actually": "I did not intend that. Now it is intentional. I understand; I see you. Thank you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1396,
+      1396
+    ],
+    "raw": "I don't like this map.",
+    "actually": "I dislike this map.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1397,
+      1397
+    ],
+    "raw": "Oh no.",
+    "actually": "Unfortunately.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1398,
+      1398
+    ],
+    "raw": "Stop that.",
+    "actually": "Stop that.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1399,
+      1399
+    ],
+    "raw": "How do you open a door?",
+    "actually": "How do you open a door?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1400,
+      1400
+    ],
+    "raw": "I'm so ready. I'm so ready for this map.",
+    "actually": "I am ready for this map.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1401,
+      1404
+    ],
+    "raw": "Hunter. Okay, Hunter's in channel one now, I guess. Wait, Hunter is channel one now, right? That's why that's why Bae moved there, right?",
+    "actually": "I suppose hunters are in channel one now. They are in channel one, correct? That is why Bae moved there, correct?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1405,
+      1405
+    ],
+    "raw": "Yeah. Okay.",
+    "actually": "Yes; all right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1406,
+      1407
+    ],
+    "raw": "Keep on going. Keep on going. Ah, no. Can I not be turning the side?",
+    "actually": "Keep going. No; can I not turn to the side?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1408,
+      1408
+    ],
+    "raw": "Why can't I? Uh, there it is.",
+    "actually": "Why can I not? There it is.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1409,
+      1410
+    ],
+    "raw": "Hey, Dang it.",
+    "actually": "Hello. How frustrating.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1411,
+      1411
+    ],
+    "raw": "Hang on.",
+    "actually": "Wait.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1412,
+      1413
+    ],
+    "raw": "Oh, shoot. I just made a clone by accident.",
+    "actually": "I accidentally made a clone.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1414,
+      1416
+    ],
+    "raw": "How about you? I don't know about this, but just barely not.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1414,
+      1414
+    ],
+    "raw": "How about you?",
+    "actually": "How about you?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1417,
+      1417
+    ],
+    "raw": "Right. You get more points if you play.",
+    "actually": "You receive more points if you play.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1418,
+      1418
+    ],
+    "raw": "How do I get this coloring this?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1419,
+      1420
+    ],
+    "raw": "Oh my god. telling me to hang my body too much. Really? This is very much in",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1421,
+      1421
+    ],
+    "raw": "Yeah, right.",
+    "actually": "Yes, right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1422,
+      1422
+    ],
+    "raw": "And",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1423,
+      1423
+    ],
+    "raw": "that's what I'm saying.",
+    "actually": "That is what I mean.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1424,
+      1424
+    ],
+    "raw": "They keep telling they're so strict.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1424,
+      1424
+    ],
+    "raw": "they're so strict.",
+    "actually": "They are very strict.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1425,
+      1425
+    ],
+    "raw": "I know. They're straight.",
+    "actually": "I know; they are straight.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1426,
+      1426
+    ],
+    "raw": "But this is okay. Are you sure?",
+    "actually": "This is fine. Are you sure?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1427,
+      1427
+    ],
+    "raw": "How is this okay?",
+    "actually": "How is this fine?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1428,
+      1428
+    ],
+    "raw": "I will never find a hiding spot.",
+    "actually": "I will never find a hiding place.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1429,
+      1429
+    ],
+    "raw": "Yeah, same.",
+    "actually": "The same is true for me.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1430,
+      1431
+    ],
+    "raw": "Maybe I should be a bit more blue. No, I think this will go",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1430,
+      1430
+    ],
+    "raw": "Maybe I should be a bit more blue.",
+    "actually": "Perhaps I should be a little bluer.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1432,
+      1432
+    ],
+    "raw": "seems kind of unfair, but okay. What?",
+    "actually": "It seems somewhat unfair, but all right. What?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1433,
+      1433
+    ],
+    "raw": "Why can't I go back there?",
+    "actually": "Why can I not go back there?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1434,
+      1436
+    ],
+    "raw": "I want to turn my body. How do I turn my body without moving room?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1434,
+      1435
+    ],
+    "raw": "I want to turn my body. How do I turn my body without moving",
+    "actually": "I want to turn my body. How do I turn my body without moving?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1437,
+      1437
+    ],
+    "raw": "Is this better?",
+    "actually": "Is this better?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1438,
+      1440
+    ],
+    "raw": "I have no idea. Let's just maybe um",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1438,
+      1438
+    ],
+    "raw": "I have no idea.",
+    "actually": "I have no idea.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1441,
+      1441
+    ],
+    "raw": "I go on top.",
+    "actually": "I will go on top.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1442,
+      1443
+    ],
+    "raw": "Let's figure out it's still too in colorwise.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1444,
+      1444
+    ],
+    "raw": "Maybe a little this.",
+    "actually": "Perhaps a little of this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1445,
+      1446
+    ],
+    "raw": "What if I want to turn my There a better Maybe there's a better",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1447,
+      1449
+    ],
+    "raw": "Come on. Okay. I can't get this color. This color sucks.",
+    "actually": "Come on. I cannot get this color; it is bad.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1450,
+      1450
+    ],
+    "raw": "Also, this brush must be better.",
+    "actually": "This brush must also be better.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1451,
+      1451
+    ],
+    "raw": "Spin, spin, spin, spin.",
+    "actually": "Spin.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1452,
+      1453
+    ],
+    "raw": "I don't have time, man. I have to do this now. I hate this body.",
+    "actually": "I lack time and must do this now. I hate this body.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1454,
+      1454
+    ],
+    "raw": "We're on a white tile.",
+    "actually": "We are on a white tile.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1455,
+      1455
+    ],
+    "raw": "I'll do my feet blue ones first.",
+    "actually": "I will do my blue feet first.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1456,
+      1456
+    ],
+    "raw": "Okay. Um",
+    "actually": "All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1457,
+      1457
+    ],
+    "raw": "Oops.",
+    "actually": "Oops.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1458,
+      1459
+    ],
+    "raw": "Time to Oh, what have I done?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1459,
+      1459
+    ],
+    "raw": "Oh, what have I done?",
+    "actually": "What have I done?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1460,
+      1461
+    ],
+    "raw": "What did you do? All right.",
+    "actually": "What did you do? All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1462,
+      1462
+    ],
+    "raw": "Okay.",
+    "actually": "All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1463,
+      1463
+    ],
+    "raw": "50 seconds.",
+    "actually": "Fifty seconds.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1464,
+      1464
+    ],
+    "raw": "I don't need the voice.",
+    "actually": "I do not need the voice.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1465,
+      1465
+    ],
+    "raw": "Don't remind me of the time, man.",
+    "actually": "Do not remind me of the time.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1466,
+      1466
+    ],
+    "raw": "Climb up a bit.",
+    "actually": "Climb a little.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1467,
+      1467
+    ],
+    "raw": "Climb. How do I climb?",
+    "actually": "Climb; how do I climb?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1468,
+      1468
+    ],
+    "raw": "I made a metallic all the way.",
+    "actually": "I made it metallic all the way.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1469,
+      1469
+    ],
+    "raw": "Okay.",
+    "actually": "All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1470,
+      1470
+    ],
+    "raw": "Oh god.",
+    "actually": "That is concerning.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1471,
+      1471
+    ],
+    "raw": "Can you climb? Climb.",
+    "actually": "Can you climb? Climb.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1472,
+      1472
+    ],
+    "raw": "Oh,",
+    "actually": "Oh.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1473,
+      1473
+    ],
+    "raw": "we're still in infected mode, right?",
+    "actually": "We are still in infected mode, correct?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1474,
+      1474
+    ],
+    "raw": "Yeah. Yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1475,
+      1476
+    ],
+    "raw": "Don't reveal too much about where you are.",
+    "actually": "Do not reveal too much about your location.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1477,
+      1478
+    ],
+    "raw": "Oh, wait. What?",
+    "actually": "Wait, what?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1479,
+      1480
+    ],
+    "raw": "Okay. Okay. Okay. Yeah. Yeah.",
+    "actually": "All right; yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1481,
+      1482
+    ],
+    "raw": "Turn my body. I want to turn my body so my butt is staying.",
+    "actually": "Turn my body; I want to turn it so my butt stays in place.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1483,
+      1483
+    ],
+    "raw": "How do I do that?",
+    "actually": "How do I do that?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1484,
+      1484
+    ],
+    "raw": "I think we can be proud of this.",
+    "actually": "I think we can be proud of this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1485,
+      1485
+    ],
+    "raw": "I'm so proud of this.",
+    "actually": "I am very proud of this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1486,
+      1486
+    ],
+    "raw": "I'm not proud of this.",
+    "actually": "I am not proud of this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1487,
+      1488
+    ],
+    "raw": "Sometimes the spots you think the best are immediately found. Who knows?",
+    "actually": "Sometimes the places you think are best are found immediately. Who knows?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1489,
+      1489
+    ],
+    "raw": "Like Callie is up by last time.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1490,
+      1491
+    ],
+    "raw": "Yeah. Exactly. Exactly. To be fair, I think I think my hiding spots are funny.",
+    "actually": "Exactly. To be fair, I think my hiding places are funny.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1492,
+      1493
+    ],
+    "raw": "Okay. Okay. Huh?",
+    "actually": "All right; what?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1494,
+      1494
+    ],
+    "raw": "Please no.",
+    "actually": "Please, no.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1495,
+      1496
+    ],
+    "raw": "Okay. Surely.",
+    "actually": "All right. Surely.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1497,
+      1498
+    ],
+    "raw": "Oh, it's just B some. Is it B? Oh, B.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1498,
+      1498
+    ],
+    "raw": "Is it B? Oh, B.",
+    "actually": "Is it B? B.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1499,
+      1502
+    ],
+    "raw": "She has to find somebody. She has to find one to add on. She has to find somebody to add on. Otherwise, the infection's not going to spread.",
+    "actually": "She needs to find someone to add, or the infection will not spread.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1503,
+      1503
+    ],
+    "raw": "immediately went to me.",
+    "actually": "It immediately went to me.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1504,
+      1504
+    ],
+    "raw": "She loves you.",
+    "actually": "She loves you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1505,
+      1505
+    ],
+    "raw": "We can switch to free camera, right?",
+    "actually": "We can switch to free camera, correct?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1506,
+      1506
+    ],
+    "raw": "Goodbye.",
+    "actually": "Goodbye.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1507,
+      1509
+    ],
+    "raw": "Isn't it better not to because if we turn into infected, we could probably see each other or something. No,",
+    "actually": "Would it not be better to avoid that? If we become infected, we could probably see each other or something. No—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1510,
+      1511
+    ],
+    "raw": "I don't. In this mode, I'm assuming you can't switch to other people, right?",
+    "actually": "No, I do not. I assume you cannot switch to other people in this mode, correct?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1512,
+      1513
+    ],
+    "raw": "No. Don't come over here.",
+    "actually": "No. Do not come here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1514,
+      1514
+    ],
+    "raw": "I'm just I'm just",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1515,
+      1515
+    ],
+    "raw": "You can't see any. Okay. Okay. Nice.",
+    "actually": "You cannot see any. All right; good.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1516,
+      1516
+    ],
+    "raw": "Don't come here.",
+    "actually": "Do not come here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1517,
+      1519
+    ],
+    "raw": "Okay. We can look at B's perspective. Wait, who? Who? Oh, never seen Bay. Okay. Okay.",
+    "actually": "We can look at B’s perspective. Wait, who? I have never seen Bay. All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1520,
+      1524
+    ],
+    "raw": "No. No. No. Oh, no. Oh, yes. Yes. Yes. Yes. Okay. Yes. They don't notice. They don't.",
+    "actually": "No. Unfortunately—yes. They do not notice.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1525,
+      1526
+    ],
+    "raw": "I shouldn't say anything. I don't even know where I am anymore.",
+    "actually": "I should say nothing; I do not even know where I am anymore.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1527,
+      1527
+    ],
+    "raw": "Yes.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1528,
+      1528
+    ],
+    "raw": "I'm so glad the time is cut.",
+    "actually": "I am glad the time is shortened.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1529,
+      1529
+    ],
+    "raw": "They do not notice.",
+    "actually": "They do not notice.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1530,
+      1530
+    ],
+    "raw": "Somewhere. I'm somewhere.",
+    "actually": "I am somewhere.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1531,
+      1531
+    ],
+    "raw": "They do not notice.",
+    "actually": "They do not notice.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1532,
+      1532
+    ],
+    "raw": "No, no, no, no, no.",
+    "actually": "No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1533,
+      1534
+    ],
+    "raw": "I know. I know her. She's not going to find us.",
+    "actually": "I know her; she will not find us.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1535,
+      1535
+    ],
+    "raw": "I know. I know.",
+    "actually": "I know.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1536,
+      1536
+    ],
+    "raw": "Okay. Help us out, girl.",
+    "actually": "Help us.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1537,
+      1537
+    ],
+    "raw": "I'm just a little guy.",
+    "actually": "I am just a little person.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1538,
+      1538
+    ],
+    "raw": "Help us find them.",
+    "actually": "Help us find them.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1539,
+      1539
+    ],
+    "raw": "I am. I just got here.",
+    "actually": "I am; I just arrived.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1540,
+      1542
+    ],
+    "raw": "Oh my god. How do you Okay. H. Wait. We only have Oh god. Nice.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1543,
+      1543
+    ],
+    "raw": "Oh yeah. Not much time.",
+    "actually": "Yes; there is little time.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1544,
+      1545
+    ],
+    "raw": "We have 30 seconds. Okay. That's a yikes.",
+    "actually": "We have thirty seconds, which is concerning.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1546,
+      1547
+    ],
+    "raw": "I guess we should do whistle for the next round if we're in time.",
+    "actually": "I suppose we should use whistles next round if we have time.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1548,
+      1550
+    ],
+    "raw": "It's a good idea. I think it also just depends on the map cuz last time I was like,",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1548,
+      1550
+    ],
+    "raw": "It's a good idea. I think it also just depends on the map",
+    "actually": "That is a good idea. I think it also depends on the map.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1551,
+      1551
+    ],
+    "raw": "I hate this map.",
+    "actually": "I hate this map.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1552,
+      1554
+    ],
+    "raw": "Yeah, this map is so hard. Oh my god.",
+    "actually": "This map is very difficult.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1555,
+      1555
+    ],
+    "raw": "Oh, they're taunting now.",
+    "actually": "They are taunting now.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1556,
+      1556
+    ],
+    "raw": "They're so rude.",
+    "actually": "They are very rude.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1557,
+      1557
+    ],
+    "raw": "I know.",
+    "actually": "I know.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1558,
+      1559
+    ],
+    "raw": "Thankfully, they're not in the bathroom, but",
+    "actually": "Thankfully, they are not in the bathroom, but—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1560,
+      1562
+    ],
+    "raw": "God, I hate this map. Where are they? What the heck? Oh. Oh my god.",
+    "actually": "I hate this map. Where are they? That is surprising.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1563,
+      1564
+    ],
+    "raw": "It was a balloon. Okay. Oh, both of them were so original.",
+    "actually": "It was a balloon. Both were very original.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1565,
+      1565
+    ],
+    "raw": "Oh my god. So, they were in this.",
+    "actually": "So they were in this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1566,
+      1567
+    ],
+    "raw": "Where were they? Oh, wow. Everyone was in this room. God damn.",
+    "actually": "Where were they? Everyone was in this room. That is surprising.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1568,
+      1568
+    ],
+    "raw": "Nice.",
+    "actually": "Good.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1569,
+      1569
+    ],
+    "raw": "Unbelievable.",
+    "actually": "Unbelievable.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1570,
+      1570
+    ],
+    "raw": "Wow.",
+    "actually": "That is surprising.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1571,
+      1573
+    ],
+    "raw": "All right. All righty. Let's move over since one of them are there.",
+    "actually": "All right; let us move over, since one of them is there.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1574,
+      1574
+    ],
+    "raw": "Good job.",
+    "actually": "Well done.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1575,
+      1575
+    ],
+    "raw": "Really good though. I have to give her.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1575,
+      1575
+    ],
+    "raw": "Really good though.",
+    "actually": "Very good, though.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1576,
+      1576
+    ],
+    "raw": "This is actually nice.",
+    "actually": "This is nice.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1577,
+      1577
+    ],
+    "raw": "She missed.",
+    "actually": "She missed.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1578,
+      1579
+    ],
+    "raw": "Wow. I see that worked. Rebu, what the heck?",
+    "actually": "I see that worked. Rebu, what?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1580,
+      1580
+    ],
+    "raw": "I can't believe it.",
+    "actually": "I cannot believe it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1581,
+      1582
+    ],
+    "raw": "Like a soul. I love this one. Why can't I see names?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1581,
+      1582
+    ],
+    "raw": "I love this one. Why can't I see names?",
+    "actually": "I love this one. Why can I not see names?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1583,
+      1584
+    ],
+    "raw": "Yeah, I feel like mine is a little unfair.",
+    "actually": "I feel that mine is somewhat unfair.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1585,
+      1590
+    ],
+    "raw": "Okay, maybe we should pick the maps cuz I think the smaller ones like or like the ones that are more open probably don't need like that much time. But like for example, that one probably I think the time varies depending on the map.",
+    "actually": "Perhaps we should choose the maps. Smaller or more open maps probably need less time; I think the time varies by map.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1591,
+      1592
+    ],
+    "raw": "Yeah, that's true. I'm not sure what the size of the maps are.",
+    "actually": "That is true. I am unsure how large the maps are.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1593,
+      1595
+    ],
+    "raw": "Yeah, those maps we haven't done. Right. Tiny.",
+    "actually": "Yes; those are maps we have not played, correct? Tiny.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1596,
+      1596
+    ],
+    "raw": "Oh yeah. Let's try country.",
+    "actually": "Let us try Country.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1597,
+      1597
+    ],
+    "raw": "And then turn the drive.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1598,
+      1598
+    ],
+    "raw": "Oh no.",
+    "actually": "Unfortunately.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1599,
+      1599
+    ],
+    "raw": "How big is the country?",
+    "actually": "How large is Country?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1600,
+      1600
+    ],
+    "raw": "Country looks.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1601,
+      1601
+    ],
+    "raw": "Yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1602,
+      1602
+    ],
+    "raw": "House.",
+    "actually": "House.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1603,
+      1603
+    ],
+    "raw": "Did I accidentally disable names? Did I",
+    "actually": "Did I accidentally disable names? Did I—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1604,
+      1605
+    ],
+    "raw": "Maybe you can do that.",
+    "actually": "Perhaps you can do that.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1606,
+      1606
+    ],
+    "raw": "Yeah, I think so.",
+    "actually": "I think so.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1607,
+      1610
+    ],
+    "raw": "Why not? Who says who says country is pretty big? Oh, okay. That's why people level two little bed.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1607,
+      1608
+    ],
+    "raw": "Why not? Who says who says country is pretty big? Oh, okay.",
+    "actually": "Why not? Who says Country is quite large? Understood.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1611,
+      1611
+    ],
+    "raw": "Yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1612,
+      1612
+    ],
+    "raw": "Wait, hold on.",
+    "actually": "Wait.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1613,
+      1613
+    ],
+    "raw": "This is a small one.",
+    "actually": "This is a small one.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1614,
+      1614
+    ],
+    "raw": "Indo country.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1615,
+      1615
+    ],
+    "raw": "Yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1616,
+      1616
+    ],
+    "raw": "Herself as a jor.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1617,
+      1617
+    ],
+    "raw": "I'll do my best.",
+    "actually": "I will do my best.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1618,
+      1619
+    ],
+    "raw": "Don't get me if you see me. going to promise. I promise you.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1618,
+      1618
+    ],
+    "raw": "Don't get me if you see me.",
+    "actually": "Do not get me if you see me.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1620,
+      1620
+    ],
+    "raw": "Okay.",
+    "actually": "All right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1621,
+      1621
+    ],
+    "raw": "Okay. Let's see how this rules.",
+    "actually": "Let us see how this rules.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1622,
+      1622
+    ],
+    "raw": "It's my turn.",
+    "actually": "It is my turn.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1623,
+      1625
+    ],
+    "raw": "It's my meadows. Meadows. Meadows.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1624,
+      1625
+    ],
+    "raw": "meadows. Meadows. Meadows.",
+    "actually": "Meadows.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1626,
+      1626
+    ],
+    "raw": "Yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1627,
+      1627
+    ],
+    "raw": "Let's go.",
+    "actually": "Let us go.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1628,
+      1628
+    ],
+    "raw": "Hide. Want to be a hidden.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1629,
+      1629
+    ],
+    "raw": "Don't say where we're hiding. Okay.",
+    "actually": "Do not say where we are hiding.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1630,
+      1630
+    ],
+    "raw": "Oh no. A dang it. No gnome.",
+    "actually": "Unfortunately; no gnome.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1631,
+      1631
+    ],
+    "raw": "I have a really good idea.",
+    "actually": "I have a very good idea.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1632,
+      1632
+    ],
+    "raw": "No, I don't want to do this.",
+    "actually": "I do not want to do this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1633,
+      1633
+    ],
+    "raw": "That looks funny. That looks",
+    "actually": "That looks funny. That looks—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1634,
+      1635
+    ],
+    "raw": "Oh, this doesn't feel like with that because it looks funny.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1636,
+      1636
+    ],
+    "raw": "Your time.",
+    "actually": "Your time.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1637,
+      1637
+    ],
+    "raw": "Is that like a onelegged thing?",
+    "actually": "Is that a one-legged thing?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1638,
+      1638
+    ],
+    "raw": "Oh man.",
+    "actually": "That is concerning.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1639,
+      1639
+    ],
+    "raw": "Get out of here spot. Oh.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1640,
+      1640
+    ],
+    "raw": "Oh, I'm so cooked.",
+    "actually": "I am in serious trouble.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1641,
+      1641
+    ],
+    "raw": "Me, too.",
+    "actually": "I am too.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1642,
+      1642
+    ],
+    "raw": "Let's cook together.",
+    "actually": "Let us cook together.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1643,
+      1644
+    ],
+    "raw": "Give up on this idea. Give up on this idea. You're not doing it.",
+    "actually": "Give up that idea; you are not doing it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1645,
+      1646
+    ],
+    "raw": "Okay. We got a lot of time. Okay. Still got 3 minutes.",
+    "actually": "We have much time; three minutes remain.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1647,
+      1648
+    ],
+    "raw": "How do I do this? Got to get that idea.",
+    "actually": "How do I do this? I need that idea.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1649,
+      1649
+    ],
+    "raw": "You could become a little",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1650,
+      1651
+    ],
+    "raw": "It's nice during hiding time you can't see other people running kind of stuck.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1652,
+      1652
+    ],
+    "raw": "Hold on. I want it.",
+    "actually": "Wait; I want it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1653,
+      1654
+    ],
+    "raw": "Not that other just a little jump there.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1654,
+      1654
+    ],
+    "raw": "just a little jump there.",
+    "actually": "Just a small jump there.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1655,
+      1655
+    ],
+    "raw": "Nope.",
+    "actually": "No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1656,
+      1657
+    ],
+    "raw": "Maybe I should go higher up. How do I move again?",
+    "actually": "Perhaps I should go higher. How do I move again?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1658,
+      1658
+    ],
+    "raw": "Maybe that place might be right there.",
+    "actually": "Perhaps that place is right there.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1659,
+      1659
+    ],
+    "raw": "Please.",
+    "actually": "Please.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1660,
+      1661
+    ],
+    "raw": "Yeah, it's not happening. a bit troublesome.",
+    "actually": "It is not happening; somewhat troublesome.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1662,
+      1662
+    ],
+    "raw": "I'm going to",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1663,
+      1664
+    ],
+    "raw": "Okay. How do I How do I increase the roughness, though?",
+    "actually": "How do I increase the roughness?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1665,
+      1667
+    ],
+    "raw": "Do you think I could be good like this? It could be. Why don't we try it right over here?",
+    "actually": "Could I be good like this? Possibly. Why not try here?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1668,
+      1668
+    ],
+    "raw": "I'm just not the right.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1669,
+      1669
+    ],
+    "raw": "Why am I floating really weirdly?",
+    "actually": "Why am I floating so strangely?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1670,
+      1670
+    ],
+    "raw": "I want to be quiet and not spoil it.",
+    "actually": "I want to be quiet and avoid spoiling it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1671,
+      1671
+    ],
+    "raw": "I want to go that way.",
+    "actually": "I want to go that way.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1672,
+      1672
+    ],
+    "raw": "Then you just got to color yourself up.",
+    "actually": "Then you need to color yourself.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1673,
+      1678
+    ],
+    "raw": "We're out of time. You have 100 seconds. I'm trying to then believe.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1673,
+      1675
+    ],
+    "raw": "We're out of time. You have 100 seconds.",
+    "actually": "We are out of time. You have one hundred seconds.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1679,
+      1679
+    ],
+    "raw": "I know. That's too metallic.",
+    "actually": "I know; that is too metallic.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1680,
+      1680
+    ],
+    "raw": "Oh, shoot. Okay,",
+    "actually": "That is concerning; all right.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1681,
+      1681
+    ],
+    "raw": "I'm boring.",
+    "actually": "I am boring.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1682,
+      1682
+    ],
+    "raw": "The heck was it like that? No, no, no.",
+    "actually": "Why was it like that? No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1683,
+      1683
+    ],
+    "raw": "Oh, I see.",
+    "actually": "I understand.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1684,
+      1684
+    ],
+    "raw": "Oh, yeah. You're boring. What the heck?",
+    "actually": "Yes; you are boring. That is surprising.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1685,
+      1686
+    ],
+    "raw": "Okay. Yeah.",
+    "actually": "All right; yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1687,
+      1687
+    ],
+    "raw": "No, this is so bad, guys. Whatever.",
+    "actually": "No, this is very bad. Whatever.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1688,
+      1690
+    ],
+    "raw": "Spin your Oh my god. Ah, that's that's from different angles, though. One second.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1688,
+      1690
+    ],
+    "raw": "that's that's from different angles, though. One second.",
+    "actually": "That is from different angles, though. One moment.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1691,
+      1691
+    ],
+    "raw": "Hold on.",
+    "actually": "Wait.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1692,
+      1693
+    ],
+    "raw": "Use little details. I know. I'm trying. Let's get artistic.",
+    "actually": "Use small details. I know; I am trying. Let us be artistic.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1694,
+      1694
+    ],
+    "raw": "Well, that's on it.",
+    "actually": "That is on it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1695,
+      1695
+    ],
+    "raw": "I so cooked. I'm so cooked.",
+    "actually": "I am in serious trouble.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1696,
+      1696
+    ],
+    "raw": "I love things that are cooked.",
+    "actually": "I love cooked things.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1697,
+      1697
+    ],
+    "raw": "I mean, it seems like it already.",
+    "actually": "It already seems that way.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1698,
+      1699
+    ],
+    "raw": "Let's go. If we can't do better. Spin around. Spin around. Wait. One second.",
+    "actually": "Let us go, if we cannot do better. Spin around. Wait a moment.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1700,
+      1700
+    ],
+    "raw": "Don't try anything. Oh,",
+    "actually": "Do not try anything.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1701,
+      1702
+    ],
+    "raw": "why am I Why am I Why am I darker now? I see.",
+    "actually": "Why am I darker now? I understand.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1703,
+      1703
+    ],
+    "raw": "It's kind of gross looking.",
+    "actually": "It looks somewhat unpleasant.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1704,
+      1705
+    ],
+    "raw": "Look from the front. Look from the front. We got to look from the front.",
+    "actually": "Look from the front; we need to look from the front.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1706,
+      1706
+    ],
+    "raw": "That's no good.",
+    "actually": "That is not good.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1707,
+      1707
+    ],
+    "raw": "I think you should rotate yourself. So",
+    "actually": "I think you should rotate yourself. So—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1708,
+      1708
+    ],
+    "raw": "Oh, no. No. No.",
+    "actually": "No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1709,
+      1711
+    ],
+    "raw": "Said don't try anything funny. Don't try anything funny. You're trying to Oh, that's really bad.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1709,
+      1710
+    ],
+    "raw": "Said don't try anything funny. Don't try anything funny.",
+    "actually": "I said not to try anything funny.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1711,
+      1711
+    ],
+    "raw": "that's really bad.",
+    "actually": "That is very bad.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1712,
+      1713
+    ],
+    "raw": "Oh, spin yourself around. I don't have time to do that.",
+    "actually": "Spin yourself around. I lack time for that.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1714,
+      1716
+    ],
+    "raw": "Not the camera. Not the camera yourself. Yes. Keep busing. Keep busing. Keep busing.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1714,
+      1715
+    ],
+    "raw": "Not the camera. Not the camera yourself. Yes.",
+    "actually": "Not the camera; yourself. Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1717,
+      1717
+    ],
+    "raw": "I give up on that idea.",
+    "actually": "I give up that idea.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1718,
+      1718
+    ],
+    "raw": "I don't know, man.",
+    "actually": "I do not know.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1719,
+      1720
+    ],
+    "raw": "It's too It's too late. We have to lock in.",
+    "actually": "It is too late; we need to concentrate.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1721,
+      1721
+    ],
+    "raw": "Whatever.",
+    "actually": "Whatever.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1722,
+      1722
+    ],
+    "raw": "Dude, it's whatever. It's whatever.",
+    "actually": "It does not matter.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1723,
+      1723
+    ],
+    "raw": "This is We need the rougher color.",
+    "actually": "We need the rougher color.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1724,
+      1724
+    ],
+    "raw": "Move closer to them. Closer. Closer.",
+    "actually": "Move closer to them.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1725,
+      1725
+    ],
+    "raw": "Right here.",
+    "actually": "Here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1726,
+      1727
+    ],
+    "raw": "So stupid. What do you mean?",
+    "actually": "That is very foolish. What do you mean?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1728,
+      1728
+    ],
+    "raw": "Oh no.",
+    "actually": "Unfortunately.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1729,
+      1730
+    ],
+    "raw": "Maybe it could be good. It's fine.",
+    "actually": "Perhaps it could be good. It is fine.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1731,
+      1731
+    ],
+    "raw": "Boo is so scary.",
+    "actually": "Boo is very frightening.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1732,
+      1733
+    ],
+    "raw": "I should have gone to the other side, but it's too late.",
+    "actually": "I should have gone to the other side, but it is too late.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1734,
+      1735
+    ],
+    "raw": "I'm trying to pick the color. I really don't know how.",
+    "actually": "I am trying to choose the color, but do not know how.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1736,
+      1738
+    ],
+    "raw": "Why? I want a lighter color. Give me the lighter color. Why? Why is the game only giving me lighter color?",
+    "actually": "Why? I want a lighter color; give me one. Why does the game only give me lighter colors?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1739,
+      1739
+    ],
+    "raw": "It's over.",
+    "actually": "It is over.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1740,
+      1740
+    ],
+    "raw": "Please. No. Please. Please.",
+    "actually": "Please, no.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1741,
+      1741
+    ],
+    "raw": "You know I was there.",
+    "actually": "You know I was there.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1742,
+      1742
+    ],
+    "raw": "There we go.",
+    "actually": "There we are.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1743,
+      1743
+    ],
+    "raw": "No. No.",
+    "actually": "No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1744,
+      1746
+    ],
+    "raw": "Oh, thank you. Okay. Stay there. No.",
+    "actually": "Thank you. Stay there. No.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1747,
+      1749
+    ],
+    "raw": "Are we gone? Stay away. Stay away. Stay away. Stay away. Okay, then I can stay away from me.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1747,
+      1748
+    ],
+    "raw": "Are we gone? Stay away. Stay away. Stay away. Stay away.",
+    "actually": "Are we gone? Stay away.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1750,
+      1750
+    ],
+    "raw": "Can I go away from here now?",
+    "actually": "Can I leave here now?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1751,
+      1751
+    ],
+    "raw": "I'm getting pointed.",
+    "actually": "I am being pointed at.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1752,
+      1753
+    ],
+    "raw": "There's a lot of a lot of hunters out there now.",
+    "actually": "There are many hunters out there now.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1754,
+      1756
+    ],
+    "raw": "Yeah, there's really just a lot of The ruffies didn't believe in us. But",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered."
+  },
+  {
+    "source_segments": [
+      1754,
+      1755
+    ],
+    "raw": "Yeah, there's really just a lot of",
+    "actually": "Yes; there are many.",
+    "status": "SFT",
+    "reason": ""
+  }
+]

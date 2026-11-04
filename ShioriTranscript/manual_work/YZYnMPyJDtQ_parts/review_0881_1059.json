@@ -1,0 +1,599 @@
+[
+  {
+    "source_segment_indices": [
+      881,
+      882,
+      883
+    ],
+    "raw": "They don't really tell me which one's which. Oh, maybe that's how it works.",
+    "status": "SFT",
+    "actually": "They do not explain which is which. Perhaps that is how it works.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      884,
+      885,
+      886,
+      887,
+      888,
+      889
+    ],
+    "raw": "Let me look. Chess opening and book moves. Whoa. Whoa. I see here. If you guys are also curious about learning, this is the the openings of chess.com in case you're curious. Oh, there's so",
+    "status": "SFT",
+    "actually": "Let me look at chess openings and book moves. I see. If you are interested in learning, these are chess.com's openings.",
+    "raw_fixes": [
+      [
+        "Chest opening",
+        "Chess opening"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      890,
+      891,
+      892,
+      893,
+      894,
+      895
+    ],
+    "raw": "many openings. Okay, so based on the openings, there's Sicilian defense, which is the I think here to over here. There's the French defense, same place, but I think it depends on how they answer. There's a Ruy Lopez opening. You",
+    "status": "SFT",
+    "actually": "There are many openings: the Sicilian Defense, the French Defense, and the Ruy Lopez. I think the first moves go here and there, depending on how the opponent responds.",
+    "raw_fixes": [
+      [
+        "Roy Lopez",
+        "Ruy Lopez"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      896,
+      897,
+      898,
+      899,
+      900
+    ],
+    "raw": "really have to memorize these, don't you? Well, let's take it by um I'm just going to move this here. So, I'm going to move it here. It could turn into any of those defenses.",
+    "status": "SFT",
+    "actually": "You really need to memorize these, do you not? I will move this here; it could develop into any of those defenses.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      901,
+      902,
+      903,
+      904,
+      905
+    ],
+    "raw": "It moved right there. What kind of defense is this? Based on what I am seeing, I can then proceed to move over here and this will become the Italian game. So, this thing.",
+    "status": "SFT",
+    "actually": "It moved there. What defense is this? From what I see, I can move here to make the Italian Game.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      906,
+      907
+    ],
+    "raw": "Yeah. So this becomes a RAR's Italian game if I move it there.",
+    "status": "LOW",
+    "reason": "Unclear possessive/name before Italian Game; clear conditional designation recovered separately.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      908,
+      909,
+      910,
+      911,
+      912
+    ],
+    "raw": "Now once that moves there, I think that's really it. That's just kind of it ends there. Once they do that, that's the end of the defense. Yeah, you're on your own.",
+    "status": "SFT",
+    "actually": "I think that is where the defense ends after that move. You are on your own afterward.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      913,
+      914,
+      915,
+      916,
+      917,
+      918
+    ],
+    "raw": "So once that happens, we we did an opening. That was Italian. That was Italian. Uh what can we do from here? It didn't really tell me what to do from there. So, we don't want to leave you uh unsafe.",
+    "status": "SFT",
+    "actually": "We played an Italian opening. What can we do now? It did not tell me what to do next, and we do not want to leave you unsafe.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      919,
+      920,
+      921,
+      922,
+      923,
+      924
+    ],
+    "raw": "I'm should probably not move you. I could probably I can move this. What would it do? Eventually, the bishop might take it if that thing moves. So, I'm not going to do it there.",
+    "status": "SFT",
+    "actually": "I should probably not move you. I could move this, but the bishop might eventually take it if that piece moves, so I will not go there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      925,
+      926,
+      927,
+      928,
+      929,
+      930
+    ],
+    "raw": "I could probably just go here with this So, I'm just going to wing it right now. So, I let me let me wing it so I can sort of just learn the pieces in general and practice how my mind works. So, once that happens, uh, it's still a bad idea.",
+    "status": "SFT",
+    "actually": "I could go here. I will improvise to learn the pieces and practice my thinking. After that, it is still a bad idea.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      931
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      932,
+      933,
+      934,
+      935,
+      936,
+      937
+    ],
+    "raw": "This would be taken by the horse. Nothing would take this, but the tower could take it eventually. Could the horse take it? The queen could take it. Um, probably a bad idea. Don't move that.",
+    "status": "SFT",
+    "actually": "The horse would take this. Nothing would take that, though the tower might eventually. Could the horse take it? The queen could. Probably a bad idea; do not move it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      938,
+      939,
+      940,
+      941
+    ],
+    "raw": "But if I want to learn how to open up all the places, should I just be starting everything with a horse then?",
+    "status": "SFT",
+    "actually": "If I want to learn how to open everything up, should I start with a horse?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      942,
+      943,
+      944
+    ],
+    "raw": "So my question is, is the best move to be able to upgrade all the pawns?",
+    "status": "SFT",
+    "actually": "Is the best move to be able to upgrade all the pawns?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      945,
+      946
+    ],
+    "raw": "Start developing an intuition for the pieces.",
+    "status": "SFT",
+    "actually": "Start developing an intuition for the pieces.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      947,
+      948,
+      949,
+      950,
+      951
+    ],
+    "raw": "Don't be afraid to lose pieces. Okay. So if I move this here, uh, bishop could take it. So ignore that. Uh, if I do it here, nothing could take it. So, it's fine. Okay, let me move that there.",
+    "status": "SFT",
+    "actually": "Do not fear losing pieces. Here the bishop could take it, so ignore that. Nothing could take it here; I will move it there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      952,
+      953,
+      954,
+      955,
+      956
+    ],
+    "raw": "Horse moves there. I um that's a sacrifice. Not a good idea. If I go from here, horse could take it. Not a good idea. If I go from here, that could take it. Bad.",
+    "status": "SFT",
+    "actually": "The horse moves there. That is a sacrifice and a bad idea. Here the horse could take it; here that could take it. Bad.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      958
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      959,
+      960,
+      961
+    ],
+    "raw": "I could probably take this now. Should I unlock my queen now? You can upgrade horses.",
+    "status": "SFT",
+    "actually": "I could take this now. Should I release my queen? You can upgrade horses.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      962,
+      963,
+      964
+    ],
+    "raw": "Can you? Is that a thing? Losing pieces can help you if you take uh one more piece than the opponent in the chain.",
+    "status": "SFT",
+    "actually": "Can you? Is that possible? Losing pieces can help if you capture one more piece than your opponent in the sequence.",
+    "raw_fixes": [
+      [
+        "Lucy pieces",
+        "Losing pieces"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      965,
+      966,
+      967
+    ],
+    "raw": "Develop your pieces first before the queen. It's not a thing. I see. So,",
+    "status": "SFT",
+    "actually": "Develop your pieces before the queen. It is not possible? I see.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      968,
+      969,
+      970
+    ],
+    "raw": "not that one. Let me uh I will try to learn my intuition. So if I move this here,",
+    "status": "SFT",
+    "actually": "Not that one. I will try to develop my intuition. If I move this here—",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      971,
+      972,
+      973
+    ],
+    "raw": "queen can't take it yet. Voice can also the knight can also not take it. So nothing will happen.",
+    "status": "LOW",
+    "reason": "Unclear Voice false start; clear queen/knight capture statements recovered separately.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      974,
+      975,
+      976,
+      977
+    ],
+    "raw": "Let me just do this just so I know how it feels. But I feel like you're supposed to protect the the end sides. Um",
+    "status": "SFT",
+    "actually": "Let me try this to learn how it feels, though I feel you should protect the ends.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      978,
+      979,
+      980,
+      981
+    ],
+    "raw": "this is that same tactic earlier. So I'm going to move this here. Oh, but then it leaves me defenseless. So that's actually not a good idea.",
+    "status": "SFT",
+    "actually": "It is the same tactic as before, so I will move this here. But that leaves me defenseless, so it is not a good idea.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      982,
+      983,
+      984,
+      985
+    ],
+    "raw": "I could put it here. That could take it. But then the the bishop can go over here. But then I could take the bishop. But then I lose my thing. So",
+    "status": "SFT",
+    "actually": "I could go here; it could take it. Then the bishop can go here, and I can take the bishop, but I lose my piece.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      986,
+      987,
+      988,
+      989,
+      990,
+      991
+    ],
+    "raw": "if I go over here, same issue, but it's a pawn. And pawns are kind of not as helpful. I think you're just supposed to develop your pieces toward control. You don't need to know opens. Just think of ways to do that.",
+    "status": "SFT",
+    "actually": "Here the same problem involves a pawn, which I think is less useful. Develop your pieces toward control; you need not know openings, just ways to do that.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      992,
+      993
+    ],
+    "raw": "You can also castle. I don't know what castling is.",
+    "status": "SFT",
+    "actually": "You can also castle. I do not know what castling means.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      994,
+      995
+    ],
+    "raw": "I also I I think promoting is when your pawns get to the end as far as I know.",
+    "status": "SFT",
+    "actually": "As far as I know, promotion is when your pawns reach the end.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      996,
+      997,
+      998
+    ],
+    "raw": "Nothing wrong with moving a knight there. But then wouldn't that sacrifice it, if I remember right?",
+    "status": "SFT",
+    "actually": "There is nothing wrong with moving a knight there. But would that not sacrifice it, if I remember correctly?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      999,
+      1000
+    ],
+    "raw": "5D. Hi Zeta. Do you know chess? I bet you know 6D chess",
+    "status": "SFT",
+    "actually": "Five-dimensional. Hello, Zeta; do you know chess? I bet you know six-dimensional chess.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007
+    ],
+    "raw": "castling is uh if your king and your tower have a line of sight with each other. Um let me try to practice that. So, if I move this here right now, let me let me just move it. I'm just going to practice certain things. So, that could take that.",
+    "status": "SFT",
+    "actually": "Castling is when your king and tower have a line of sight. Let me practice that by moving this. That could take that.",
+    "raw_fixes": [
+      [
+        "casting",
+        "castling"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1008,
+      1009,
+      1010,
+      1011
+    ],
+    "raw": "So, now that it has a line of sight, what exactly like do you do? Move your king to G3. G3.",
+    "status": "SFT",
+    "actually": "Now they have a line of sight; what do you do? Move your king to G3.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1012,
+      1013,
+      1014,
+      1015
+    ],
+    "raw": "Uh, I'm not sure how to move it towards that. You can castle the next turn. Right now, it's kind of in danger, though.",
+    "status": "SFT",
+    "actually": "I am unsure how to move it there. You can castle next turn, though it seems in danger now.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1016,
+      1017,
+      1018,
+      1019,
+      1020,
+      1021
+    ],
+    "raw": "Oh, no, it's not. It can't take it from there. But my queen can Oh, but it's also a trap because uh this will take both. I see. So, if I do this here, it could take the queen. Oh, no. King to G1.",
+    "status": "SFT",
+    "actually": "No, it is not; it cannot be captured from there. But this is a trap because it will take both. Moving here could lose the queen. King to G1.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1022,
+      1023,
+      1024,
+      1025
+    ],
+    "raw": "G1. Oh, this is G1. Okay. So, if I do this, I'll just practice. So, it's Oh, whoa. What happened? Let me Let me redo it.",
+    "status": "SFT",
+    "actually": "This is G1. I will practice it. What happened? Let me repeat it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1026,
+      1027,
+      1028,
+      1029,
+      1030
+    ],
+    "raw": "So, if I take it to G1, it puts the the tower at the other side. Oh, so that's what castling is. It just hops to the other side. Why? Why is that?",
+    "status": "SFT",
+    "actually": "Moving it to G1 puts the tower on the other side. So that is castling; it hops over. Why?",
+    "raw_fixes": [
+      [
+        "GM1",
+        "G1"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1031,
+      1032,
+      1033
+    ],
+    "raw": "Doesn't it only work on the first row, too? The move is called castling. I see. Huh.",
+    "status": "SFT",
+    "actually": "Does it not only work on the first row too? The move is called castling. I see.",
+    "raw_fixes": [
+      [
+        "first rope",
+        "first row"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039
+    ],
+    "raw": "I'll have to I'll have to see a situation that benefits it then. So, now this could take that. That could take that. I could probably do it here. That could take my horse.",
+    "status": "SFT",
+    "actually": "I need to see a situation where that helps. This could take that; that could take that. Here it could take my horse.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045,
+      1046,
+      1047
+    ],
+    "raw": "Well, I'm just learning right now. So, I should probably learn how like the multiple ways I can lose a piece. So, if I take this here, queen cannot take it yet. Um, but the queen will also be able to take, excuse me, this. So, actually, I don't think it's a good idea.",
+    "status": "SFT",
+    "actually": "I am learning, so I should learn the ways I can lose pieces. If I take this here, the queen cannot take it yet, but she can take this. I do not think that is a good idea.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1048,
+      1049,
+      1050,
+      1051
+    ],
+    "raw": "Did I set it here? Oh, I didn't mean to do that. Um, let me let me undo that. So, I should probably unlock my queen.",
+    "status": "SFT",
+    "actually": "Did I put it here? I did not mean to do that; let me undo it. I should probably release my queen.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1052
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1053,
+      1054,
+      1055,
+      1056
+    ],
+    "raw": "I think I might have to sacrifice it. Sacrifice the horse. Fork is attacking two pieces at once. They have to make a decision.",
+    "status": "SFT",
+    "actually": "I think I may need to sacrifice the horse. A fork attacks two pieces at once, forcing a decision.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1057,
+      1058,
+      1059
+    ],
+    "raw": "A fork. Best way you can do is bishop B4. Uh, bishop. Bishop B4. B4. Oh.",
+    "status": "SFT",
+    "actually": "A fork. The best move you can make is bishop B4.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      906,
+      907
+    ],
+    "raw": "Italian game if I move it there.",
+    "actually": "It becomes the Italian Game if I move it there.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      971
+    ],
+    "raw": "queen can't take it yet.",
+    "actually": "The queen cannot take it yet.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      972,
+      973
+    ],
+    "raw": "the knight can also not take it. So nothing will happen.",
+    "actually": "The knight cannot take it either, so nothing will happen.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      957
+    ],
+    "raw": "Um,",
+    "actually": "Um.",
+    "status": "SFT"
+  }
+]

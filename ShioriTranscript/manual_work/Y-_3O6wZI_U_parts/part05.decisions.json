@@ -1,0 +1,524 @@
+[
+  {
+    "source_segments": [
+      721,
+      722
+    ],
+    "raw": "Why? Okay, so this part is now done, I hope.",
+    "actually": "Why? I hope this part is finished now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      723,
+      723
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      724,
+      726
+    ],
+    "raw": "Uh, there is a little bit of a conundrum though. No, no, there's no conundrum. Okay, now I have to put the the roofs.",
+    "actually": "There is a small problem—no, there is not. I need to put on the roofs now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      726,
+      731
+    ],
+    "raw": "Crane and Batman. Who the [ __ ] Crane? Hold up, let me Google Batman. Oh, I mean. Oh golly gee whiz, who is this Crane? Oh shoot, he was pretty. He was pretty.",
+    "actually": "Crane and Batman? Who is Crane? Let me look up Batman. Who is this Crane? He was attractive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      732,
+      737
+    ],
+    "raw": "That's not a type. That's not a type, is it? He's your favorite SpongeBob character. He's a good character. Questionable. What type is that? Pretty.",
+    "actually": "That is not a type, is it? He is your favorite SpongeBob character and a good, though questionable, character. What type is that? Attractive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      737,
+      741
+    ],
+    "raw": "Uh, let's see. This is the way it's facing. Oh, I might have messed this up again. Okay, let me fix this for a second time.",
+    "actually": "Let me see which way this faces. I may have made another mistake; let me fix it a second time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      740,
+      740
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      742,
+      750
+    ],
+    "raw": "Cillian Murphy, is that the actor? I'm not familiar with actors. I usually just watch movies, uh, think someone's pretty and then uh never watch a [ __ ] again. Not because I avoid them, it's just I don't usually go out of my way to watch [ __ ]. But Nosferatu, I read the book for a bit so I had to read that one. I had to.",
+    "actually": "Is Cillian Murphy the actor? I know little about actors. I usually watch a film, find someone attractive, and do not watch them again. I do not avoid them, but rarely seek out films. I had read some of Nosferatu, so I had to read that one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      751,
+      752
+    ],
+    "raw": "okay let me here",
+    "reason": "The action after let me is missing; do not infer.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      752,
+      758
+    ],
+    "raw": "Anyway, you guys are so nice. Thank you for letting me fangirl. I rarely have the dopamine rush for things. That sort of fulfillment only gets cured by shopping or finishing stuff.",
+    "actually": "You are kind; thank you for letting me express my enthusiasm. I rarely experience that excitement. Shopping or completing things is usually what provides that fulfillment.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      758,
+      761
+    ],
+    "raw": "Uh, let's see. This way, this way. It's fun. Yeah, how about you guys fangirl? Is there a particular person you like?",
+    "actually": "This way; it is fun. What about your enthusiasm? Is there a particular person you like?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      761,
+      769
+    ],
+    "raw": "You know, I was thinking, uh, after hearing about like Angelina Jolie, I thought she's like a very very kind woman. So although although like uh physically she's just like woman, I think she's a very pretty person, if that makes sense. I too would not mind adopting uh 10,000 children like she does, I guess.",
+    "actually": "After hearing about Angelina Jolie, I thought she was very kind. Physically, I simply see her as a woman, but I find her beautiful as a person. I suppose I would also be willing to adopt ten thousand children like she does.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      769,
+      776
+    ],
+    "raw": "I don't know, something I always thought of was when I was little, it's like oh people people need help. I should go adopt them. It's some stupid thinking. I don't know why I'm like this. Maybe that's why I feel so strongly for strays too.",
+    "actually": "As a child, I thought I should adopt people who needed help. I consider that foolish thinking and do not know why I think that way. Perhaps it also explains my strong feelings about strays.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      777,
+      777
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      778,
+      780
+    ],
+    "raw": "Um, I mean actors or characters, I don't really pay attention to either. Adopting urge.",
+    "actually": "I do not usually pay attention to actors or characters. An urge to adopt.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      780,
+      785
+    ],
+    "raw": "Let's see this one. Okay, over here. By the way, novel nights, are you going to play Payday with me?",
+    "actually": "This one goes here. By the way, novel nights, will you play Payday with me?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      781,
+      781
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      785,
+      787
+    ],
+    "raw": "Oh, Sonic, thank for the SC. No, I'm talking about like fictional people or actors and stuff, people in films.",
+    "actually": "Thank you for the Super Chat, Sonic. I mean fictional people or actors in films.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      788,
+      791
+    ],
+    "raw": "Keanu, Gary Oldman. Wait, Keanu. Oh, you know who else look pretty? The dude from Titanic. I forgot his name. He was a wolf in Wolf Street though.",
+    "actually": "Keanu and Gary Oldman. Another attractive person is the man from Titanic; I forgot his name. He was a wolf in Wolf Street.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      791,
+      796
+    ],
+    "raw": "Gary Oldman. Young Keanu. See, I only know Keanu Reeves because uh he was in Cyberpunk. Oh wow, Keanu looks so different. He looks he looks okay. He looks very posh. He looks very posh.",
+    "actually": "Gary Oldman and young Keanu. I know Keanu Reeves only from Cyberpunk. He looks different and quite posh.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      797,
+      802
+    ],
+    "raw": "Oh [ __ ], was my Google showing? Hold up. Don't, you didn't see anything. Oh good God, TikTok, go away. You didn't see anything. If you saw Keanu Reeves, it was just the Ghost of Christmas Past.",
+    "actually": "Was my Google search visible? Wait; you saw nothing. TikTok, go away. If you saw Keanu Reeves, it was only the Ghost of Christmas Past.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      802,
+      804
+    ],
+    "raw": "It's okay. It's it's a public domain technically. I'm just going to lie to myself and say yes. Ding dong, ding dong.",
+    "actually": "It is technically public domain; I will tell myself that, even if it is false. Ding-dong.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      805,
+      809
+    ],
+    "raw": "Wait, this one's not working in here. Am I missing something? I need one regular brick, okay, and I put this on the side. Okay, I put it on the side.",
+    "actually": "This does not fit here. Am I missing something? I need an ordinary brick and put it on the side.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      810,
+      814
+    ],
+    "raw": "Then some weird freaky Dicky side stuff, but okay. And then for this one I put it at the bottom.",
+    "actually": "Then there are some strange side parts. I put this one at the bottom.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      814,
+      818
+    ],
+    "raw": "No, don't tell Hena. Hma, Hma's like taking a nice little vacation. I could do more scrapbook streams then. Maybe you won't notice.",
+    "actually": "Do not tell Hena. Hma is on vacation, so I could do more scrapbook streams. Perhaps you will not notice.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      818,
+      818
+    ],
+    "raw": "k y",
+    "reason": "Unclear isolated name/syllables preceding next actor reference.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      818,
+      823
+    ],
+    "raw": "Willem Dafoe. Oh, hold up, I almost I almost did it again. Silly me. Let me use a different browser to look up what Willem Dafoe looks like. How about Willem Dafoe young?",
+    "actually": "Willem Dafoe; wait, I nearly did that again. Let me use a different browser to look up young Willem Dafoe.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      823,
+      825
+    ],
+    "raw": "Eh, he looks okay. He looks like he was a villain. Wasn't he in uh Spider-Man?",
+    "actually": "He looks fine and seems to have played a villain. Was he not in Spider-Man?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      825,
+      830
+    ],
+    "raw": "Uh, let's see. Oh, head pat. Head. I give head pat. Uh, is there, do I have a head pat thing? I don't think I do, but instead of head pat I give. Wait, what did I do? Oh, sorry, I give that confetti.",
+    "actually": "A head pat. Do I have a head-pat effect? I do not think so. Instead, I give—what did I do? Sorry, I give confetti.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      830,
+      832
+    ],
+    "raw": "He was in Death Note? Really? Okay, I'm on the page 32, step 40 now. So now I need uh.",
+    "actually": "Was he in Death Note? Really? I am on page thirty-two, step forty, and need something now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      833,
+      837
+    ],
+    "raw": "Ding, this thing. At least I think it's that. Dang dog. Got this, and then it need like a circular looking thing.",
+    "actually": "I think it is this piece. I have this and need something circular.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      838,
+      839
+    ],
+    "raw": "but potential I'm this thing",
+    "status": "LOW",
+    "reason": "Unclear ASR phrase between circular piece reference and statement of uncertainty."
+  },
+  {
+    "source_segments": [
+      839,
+      839
+    ],
+    "raw": "I have no idea.",
+    "actually": "I do not know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      840,
+      844
+    ],
+    "raw": "Oh, it's a frog. It's a frog. Yeah, I've never. This is my first time playing with Legos, to technically my second time because I did it last stream.",
+    "actually": "It is a frog. This is my first time building Lego—technically my second, because I did it during the last stream.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      844,
+      850
+    ],
+    "raw": "Oh, Yoshi, thank for the SC. Have fun, Pickle. Why did why is your parents want to watch with you? Tell them it has titties. The moment you mention that, your dad's like all for it. You'll know, you'll know he has different priorities.",
+    "actually": "Thank you for the Super Chat, Yoshi. Have fun, Pickle. Why do your parents want to watch with you? Tell them it contains nudity; your father will immediately approve, showing his different priorities.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      847,
+      847
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      851,
+      857
+    ],
+    "raw": "I didn't expect it, to be honest. I didn't expect it. I I went in with no knowledge of what was to happen. I only know things from the book, and uh I I basically stopped at the page where they were on the ship.",
+    "actually": "I did not expect it. I knew little about what would happen beyond the book, which I stopped reading around the ship passage.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      857,
+      863
+    ],
+    "raw": "It's because Anina, or sorry Amina, starts being the protagonist. She starts writing in her journal, and at that point I think I lost interest. No offense, like Van Helsing is a really cool character. I should go back to there.",
+    "actually": "Anina—sorry, Amina—becomes the protagonist and writes in her journal. I think that is where I lost interest. Van Helsing is an interesting character; I should return to it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      864,
+      866
+    ],
+    "raw": "It has a happy ending though. I don't want happy endings. How can I enjoy the story if it has a happy ending?",
+    "actually": "It has a happy ending, which I do not want. How can I enjoy the story if it ends happily?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      867,
+      871
+    ],
+    "raw": "And let's go this one. It work. Okay, it's all right. It's there now. Now I put the frog.",
+    "actually": "This one works. It is in place now, and I put on the frog.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      871,
+      874
+    ],
+    "raw": "Oh, happy birthday, Zippo. I hope you have a wonderful birthday. Yeah, no problem, no problem. Thank you for being here.",
+    "actually": "Happy birthday, Zippo. I hope you have a wonderful birthday. You are welcome, and thank you for being here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      874,
+      877
+    ],
+    "raw": "He's very gifted. Do you have a body double for a slower body? A body double?",
+    "actually": "He is talented. Do you have a body double for a slower body? A body double?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      878,
+      878
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      879,
+      881
+    ],
+    "raw": "Oh, what what was it? Was it uh they were focused, he was focusing on like the facial expressions then?",
+    "actually": "Was he focusing on facial expressions?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      882,
+      886
+    ],
+    "raw": "You like happy endings? I think it's because it's Dracula. I wanted I kind of wanted the sad ending. That's why I really like Nosferatu.",
+    "actually": "Do you like happy endings? Because this is Dracula, I wanted a sad ending. That is why I like Nosferatu.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      886,
+      892
+    ],
+    "raw": "Okay, okay, the frog is now on there. Now I need um a horn here. Um, this piece over here. Sorry, I can't do it there. It's a lot easier just setting it up here, but this is what I have so far.",
+    "actually": "The frog is in place. I need a horn here and this piece. Sorry, it is easier to assemble it here. This is my progress.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      892,
+      899
+    ],
+    "raw": "And then uh where is this piece? Oh good God, they go like this way and then tilt it this way, and it's telling me I should combine the horn with this thing. This thing.",
+    "actually": "Where is this piece? They go this way, then tilt this way. I am supposed to combine the horn with this item.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      899,
+      904
+    ],
+    "raw": "Man, you know what my what my favorite animes are? I haven't seen. No, no, Van Helsing is an old dude in the the thing. I haven't watched Van Helsing the movie though. I should watch that too. I would not mind it.",
+    "actually": "Do you know my favorite anime? Van Helsing is an older man in the story. I have not seen the Van Helsing film but would like to watch it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      905,
+      910
+    ],
+    "raw": "We combine it really quick. My favorite anime, do you know what my favorite anime is? I do like Gintama. I'm so happy seeing so much Gintama on my timeline. It makes me very happy. But besides that, uh, what's my depressing favorite animes?",
+    "actually": "Let us combine it quickly. Do you know my favorite anime? I like Gintama and enjoy seeing it on my timeline. Besides that, which depressing anime are my favorites?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      911,
+      912
+    ],
+    "raw": "Uh, see, also welcome, welcome if you're new.",
+    "actually": "Welcome if you are new.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      913,
+      919
+    ],
+    "raw": "Actually, Happy Sugar Life is not my favorite anime. I did like the anime though. I thought it was like pretty [ __ ] up and in a like holy crap, I don't know what's going to happen next for the scene. But it's actually not my favorite anime.",
+    "actually": "Happy Sugar Life is not my favorite anime, though I liked its disturbing and unpredictable scenes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      920,
+      925
+    ],
+    "raw": "Uh, my favorite anime is Devilman Crybaby. That was like my first introduction to that. I also liked Ain. I do like Made in Abyss. I hate to, I hate Tokyo Ghoul.",
+    "actually": "My favorite anime is Devilman Crybaby, which was my introduction to that. I also liked Ain and like Made in Abyss. I dislike Tokyo Ghoul.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      925,
+      930
+    ],
+    "raw": "Uh, Cowboy Bebop is good. I like that. Trigun, Trigun is like it's it's okay. Here, let me do the movement. It it's okay. Trigun's only, actually no, is it Trigun? No, no, Cowboy Bebop is okay. There were some episodes that were better than others.",
+    "actually": "I like Cowboy Bebop. Trigun is okay—actually, I mean Cowboy Bebop is okay; some episodes were better than others. Let me move this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      931,
+      932
+    ],
+    "raw": "There's one episode with a really cute guy.",
+    "actually": "One episode has an attractive man.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      932,
+      932
+    ],
+    "raw": "um he do",
+    "reason": "Unclear name/verb fragment; do not guess the anime character.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      932,
+      937
+    ],
+    "raw": "And uh my favorite episode there was the clown one. That was freaking fantastic. That was a great one. Now Trigun, I didn't watch the original, but I watched the the 3D CG stuff. That was really good too. I really enjoyed that.",
+    "actually": "My favorite episode was the one with the clown; it was excellent. I did not watch the original Trigun, but enjoyed the 3D computer-animated version.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      938,
+      938
+    ],
+    "raw": "promise sein",
+    "reason": "Title is ASR-damaged; do not infer a specific series from first-season commentary alone.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      938,
+      940
+    ],
+    "raw": "I only watch first season. That was good. I read the the rest of it manga form.",
+    "actually": "I watched only the first season and liked it. I read the remainder as manga.",
+    "status": "SFT"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "source_segments": [
+      940,
+      941
+    ],
+    "raw": "Uh, the rest was not that great.",
+    "actually": "The remainder was not very good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      941,
+      942
+    ],
+    "raw": "What, One Punch Man? I liked it.",
+    "actually": "One Punch Man? I liked it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      942,
+      945
+    ],
+    "raw": "Uh, let's see. Here's the horn. I got to connect it. I have not kept up with Made in Abyss though.",
+    "actually": "Here is the horn; I need to connect it. I have not kept up with Made in Abyss.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      945,
+      950
+    ],
+    "raw": "I also uh I also did see Kaidan Restaurant, which is like restaurant at the top of some stairs. I like that one, but that one's relatively unknown.",
+    "actually": "I also watched and liked Kaidan Restaurant, a restaurant at the top of stairs. It is relatively unknown.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      951,
+      958
+    ],
+    "raw": "And there's this one anime I watched, um um, it was based on a book, The Count of Monte Cristo. That one, that one's an old anime, but it was my dad's favorite book, so I found like I found that it existed in anime form, so I gave it a try.",
+    "actually": "I watched an older anime based on The Count of Monte Cristo. It was my father’s favorite book, so I tried the anime when I discovered it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      958,
+      962
+    ],
+    "raw": "He's also in Van Helsing. Oh, I see, I see. Uh, Evangelion. I'm aware of Evangelion. I actually never watched a whole thing, but I'm I'm aware of like the general premise.",
+    "actually": "He is also in Van Helsing; understood. I know the general premise of Evangelion but have never watched the whole series.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      962,
+      968
+    ],
+    "raw": "Sakura, welcome, welcome. Yeah, my dad likes The Count of Monte Cristo. Now for me the only one that I remember reading was The Three Musketeers. I imagined everyone as an anime boy.",
+    "actually": "Welcome, Sakura. My father likes The Count of Monte Cristo. I remember reading The Three Musketeers and imagining everyone as anime boys.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      969,
+      973
+    ],
+    "raw": "Uh, let's see. How am I supposed to connect this? Oh, it's supposed to look downwards. It's kind of weird, but where's the frog in all this? So this was the thing. Oh, I see now.",
+    "actually": "How should I connect this? It faces downward, which is strange. Where does the frog go? I understand now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      974,
+      979
+    ],
+    "raw": "My mother, she's not really into anime. And then I watch uh JoJo's Bizarre Adventure, only like seasons one and two. I didn't get to three. Actually, did I get to three? I did get to three. I did get to three.",
+    "actually": "My mother is not interested in anime. I watched the first two seasons of JoJo’s Bizarre Adventure and did not reach the third—actually, I did reach it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      979,
+      983
+    ],
+    "raw": "Um, let's see. They're in Fate/Grand Order. Oh, I also know they have a Sherlock in there. I wanted to watch Sherlock Hound.",
+    "actually": "They are in Fate/Grand Order, which also has Sherlock. I wanted to watch Sherlock Hound.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      983,
+      987
+    ],
+    "raw": "I do like anime based on books, but but I I don't usually go out of my way to find them. I used to watch anime a whole lot more, but then you kind of don't have time.",
+    "actually": "I like anime based on books but rarely seek them out. I used to watch much more anime, but have less time now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      988,
+      995
+    ],
+    "raw": "I did it. Hold up, connect. I did it, guys. It only took uh like a an hour. So now I'm at step 43. I need to find a regular block piece, and then after this I'll be uh joining Fauna for a bit for her build a world build a tree build build world Care Bear tree thing.",
+    "actually": "I did it after about an hour. I am at step forty-three and need an ordinary block. Afterward, I will join Fauna briefly for her build-a-world, build-a-tree, Care Bear tree activity.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      996,
+      1007
+    ],
+    "raw": "This one is this. So this should be at the front. Okay, wait, this looks some freaky winky wonky shiz. I think I'm missing something. Yeah, think I missed a step. So this should also be over here.",
+    "actually": "This should go at the front, but it looks strange. I think I missed a step. This should also go here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1006,
+      1006
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1007,
+      1011
+    ],
+    "raw": "Oh, there you go. Man, I have so much stuff to prepare for something. I never watch uh I wanted to watch uh I think it was Hellsing. I never got to watch that.",
+    "actually": "There we are. I have much to prepare for something. I wanted to watch Hellsing, I think, but never watched it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1012,
+      1013
+    ],
+    "raw": "Bleach, Bleach is okay. I like the white-haired dude, Hitsugaya. He was cute.",
+    "actually": "Bleach is okay. I liked the attractive white-haired character, Hitsugaya.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1014,
+      1018
+    ],
+    "raw": "Um, Rich, what's what's the premise of Vampire Hunter D? I assume they hunting they hunting vampires though. I like Gothic things for stories. I would be interested in trying it out.",
+    "actually": "Rich, what is the premise of Vampire Hunter D? I assume they hunt vampires. I like Gothic stories and would be interested in trying it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1019,
+      1022
+    ],
+    "raw": "Attack on Titan, I like the first season. I might have watched a second one, but I kind of didn't care after that point. I like Serial Experiment Lain.",
+    "actually": "I liked the first season of Attack on Titan and may have watched the second, but lost interest afterward. I like Serial Experiments Lain.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1022,
+      1024
+    ],
+    "raw": "You guys should watch Mononoke. Not the Ghibli one, but like uh.",
+    "actually": "You should watch Mononoke, though I do not mean the Ghibli film.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1024,
+      1025
+    ],
+    "raw": "the kassi Udi dude",
+    "reason": "Unclear character-name ASR; do not invent a particular spelling.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1025,
+      1029
+    ],
+    "raw": "You should watch it. Hellsing Ultimate. I should I should watch it. I own the DVD actually. The question is when will I make time to watch it?",
+    "actually": "You should watch it. I should watch Hellsing Ultimate and own the DVD, but need to find time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1029,
+      1031
+    ],
+    "raw": "Hm, I'm missing one more piece. This one.",
+    "actually": "I am missing one more piece; this one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1032,
+      1032
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1033,
+      1034
+    ],
+    "raw": "Okay, next page, step 44. This long piece here.",
+    "actually": "Next page, step forty-four. This long piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1035,
+      1039
+    ],
+    "raw": "Wait, each episode is only eight minutes for Hellsing? Seems kind of ridiculous if it's short. Uh, so this piece is now just like done, apparently.",
+    "actually": "Each Hellsing episode is only eight minutes? That seems absurdly short. This piece apparently is finished.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1039,
+      1045
+    ],
+    "raw": "So now I need this thing. Oh, here it is, right here. So um okay, so this is actually going on top. There you go.",
+    "actually": "I need this item; here it is. It goes on top. There we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1042,
+      1042
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1044,
+      1044
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1045,
+      1054
+    ],
+    "raw": "And then I need the this thing. Is this supposed to go on something? Hold up, did I skip a? No, I need. Bah, bah. And then now that's ready, is it right? Yeah, I guess so. Put it here. There you go. So I got some stairs, and I'll just put a thing going on here.",
+    "actually": "I need this piece. Should it go on something? Did I skip something? No; this is ready. Is it correct? I suppose so. I will put it here with the stairs and add a piece here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1049,
+      1049
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1054,
+      1058
+    ],
+    "raw": "Oh shoot, the other way. Yeah, there you go.",
+    "actually": "The other way; there we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1055,
+      1055
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1058,
+      1061
+    ],
+    "raw": "Alex, thank for fifteen months, and Red Brick, hello. I did like D.Gray-man, but uh I think it went on some hiatus or something.",
+    "actually": "Thank you for fifteen months, Alex. Hello, Red Brick. I liked D.Gray-man, but think it went on hiatus.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1061,
+      1069
+    ],
+    "raw": "Okay, you guys probably already know my crush on D.Gray-man. You guys probably already know I had a crush in like at least two characters in there, okay, but not any longer. Piece of [ __ ] has a crush on the other girl. It went quietly.",
+    "actually": "You probably know I had crushes on at least two D.Gray-man characters, but no longer do. One has a crush on another girl. It went quietly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1070,
+      1074
+    ],
+    "raw": "Oh, uh, I need. And then I had a crush on Allen and and the the Asian guy.",
+    "actually": "I need something. I had crushes on Allen and the Asian man.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1074,
+      1078
+    ],
+    "raw": "Uh, no problem, Mouse, no problem. No, I haven't continued My Hero Academia. I was waiting on the ep. I had to see if anyone ended up with who.",
+    "actually": "You are welcome, Mouse. I have not continued My Hero Academia; I was waiting for the episode to see who ended up together.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1078,
+      1085
+    ],
+    "raw": "Can you guys spoil it? Was it released? I heard that they had like a handshake. I refuse to stay anywhere close to romance unless I have absolutely no no interest in the main characters. He does end up with the? I thought there was this uh like a bro shake.",
+    "actually": "Can you spoil it for me? Was it released? I heard they had a handshake. I avoid romance unless I have no interest in the main characters. Does he end up with her? I thought it was a friendly handshake.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1085,
+      1093
+    ],
+    "raw": "Todoroki. Okay, I will give Todoroki a try. So he actually does end up with uh her? I thought it was just a bro shake. I mean they was like an implied like okay they got blushies and like after eight years he probably asked her like you want to go out for McDonald's or something.",
+    "actually": "I will give Todoroki a try. Does he end up with her? I thought it was only a friendly handshake. It was implied by their blushing, and perhaps after eight years he asked her to McDonald’s.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1094,
+      1096
+    ],
+    "raw": "You just got a handshake? [ __ ] yeah, let's go. It's implied. That means I can gaslight myself.",
+    "actually": "They only had a handshake? Good; if it is merely implied, I can convince myself otherwise.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1096,
+      1101
+    ],
+    "raw": "The original Hellsing abridged. Oh, I'm not very familiar with abridged stuff then. Okay, I'll I'll look into it. We'll go which uh Hellsing first? How how long is Hellsing?",
+    "actually": "The original Hellsing abridged? I know little about abridged series, but will look into it. Which Hellsing should I watch first, and how long is it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1101,
+      1107
+    ],
+    "raw": "Cuz what, My Hero Academia is how many episode? I'm just so glad it's over, because Hunter x Hunter is never going to [ __ ] finish. Berserk, I don't even know how long for that one. You guys have been waiting so long. Thankfully I was not one of those people.",
+    "actually": "How many episodes does My Hero Academia have? I am glad it ended, because Hunter x Hunter seems unlikely ever to finish. I do not know how long Berserk has lasted. People have waited a long time; fortunately, I was not among them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1107,
+      1109
+    ],
+    "raw": "Now, I'm not really into fighting games. The Galactic Heroes? No, I don't know that one.",
+    "actually": "I am not interested in fighting games and do not know The Galactic Heroes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1110,
+      1111
+    ],
+    "raw": "Shi down all the shippers",
+    "status": "LOW",
+    "reason": "Unclear initial verb phrase; do not invent profanity or infer shut/shoot from the ASR."
+  },
+  {
+    "source_segments": [
+      1111,
+      1114
+    ],
+    "raw": "What does that mean? As in like uh it's just implied? It's like if you want it, you want it. If you don't want it, nothing.",
+    "actually": "What does that mean? Is the relationship only implied, so you can accept or disregard it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1114,
+      1121
+    ],
+    "raw": "Oh, you have Allen's backstory. Man, it's been so long though. It's one of those things where like you're probably two years old when it comes out and then it's what, you're like 50,000 years old by the time it finishes. Like look at um Kuroshitsuji for crying out loud. That's still not over.",
+    "actually": "Allen’s backstory? It has been so long. A series can begin when you are two and end when you are fifty thousand. Kuroshitsuji, for example, still has not ended.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1121,
+      1126
+    ],
+    "raw": "I had a friend who had a crush on Sebastian. I'm pretty sure that friend no longer has a crush on Sebastian. Sebastian only has a crush on uh I don't know, souls.",
+    "actually": "A friend had a crush on Sebastian, but I am fairly sure no longer does. Sebastian is interested only in souls, I suppose.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1127,
+      1133
+    ],
+    "raw": "Put this on here. Ding, ding dong. Ambiguous. People got upset. Not me. Let's go, ambiguous endings. You know, people got upset over um Assassination Classroom too. That was probably the last manga I actually kept up with.",
+    "actually": "This goes here. People were upset by ambiguity, but I like ambiguous endings. People were also upset by Assassination Classroom, probably the last manga I followed as it was released.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1133,
+      1140
+    ],
+    "raw": "It got kind of tedious, I'll be honest. Basically it was just like, oh finals. You got to do you got to study hard for them finals, and then you repeat that four times. There's only so many times between like before the finals. You're just so [ __ ] boring to watch as an arc.",
+    "actually": "It became tedious. The story repeatedly involved studying for finals, about four times, and that sort of arc became boring to watch.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1140,
+      1142
+    ],
+    "raw": "Okay, now I need a one.",
+    "actually": "Now I need one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1142,
+      1145
+    ],
+    "raw": "Oh, I did watch Devilman, oh sorry, Devil May Cry, the anime. Not the not the sequel or the second one. I haven't seen that one.",
+    "actually": "I watched the Devil May Cry anime—I mean that rather than Devilman. I have not watched its sequel or second version.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1145,
+      1147
+    ],
+    "raw": "I'm on step 50. I need some dynamite.",
+    "actually": "I am on step fifty and need dynamite.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1147,
+      1151
+    ],
+    "raw": "No, I haven't seen Edgerunners. I I lost my Netflix cuz they did that thing where uh you have to be in the same building.",
+    "actually": "I have not seen Edgerunners. I lost Netflix access because of its requirement to be in the same building.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1151,
+      1155
+    ],
+    "raw": "I put this on here. Ding, ding. Oh, that's where you put it.",
+    "actually": "I put this here. That is where it goes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1153,
+      1153
+    ],
+    "raw": "D",
+    "reason": "Isolated ASR syllable between two ding sounds.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1154,
+      1154
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1156,
+      1160
+    ],
+    "raw": "Oh, hey, we're getting somewhere. You can bypass that? I would have to get the password again. I just gave up on it.",
+    "actually": "We are making progress. Can that be bypassed? I would need the password again, and gave up.",
+    "status": "SFT"
+  }
+]

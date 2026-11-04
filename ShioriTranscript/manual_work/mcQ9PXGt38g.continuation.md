@@ -1,0 +1,1 @@
+全文3061源段已人工阅读与SFT/LOW来源核对完成；1861条正式JSONL配对，298条LOW上下文（含accepted_spans），六处原始遮蔽均保留。原始TXT/JSON已移动raw，SHA256不变。原始draft保留历史，其中不受源支持的重复段没有重复进入clean。最终逐源决定见source_indexed_review.json；结构与词匹配例外见current_review及independent_review。

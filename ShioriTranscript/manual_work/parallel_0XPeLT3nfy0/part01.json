@@ -1,0 +1,878 @@
+[
+  {
+    "source_segments": [
+      12,
+      17
+    ],
+    "raw": "B bow B be",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      18,
+      19
+    ],
+    "raw": "I don't even know who's doing which greeting anymore.",
+    "actually": "I no longer know who uses which greeting.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      20,
+      22
+    ],
+    "raw": "Yeah. Yeah, oh, I hope for your sake they are. Yeah, I think so. Mine's not depressed.",
+    "actually": "Yes; I hope they are, for your sake. I think so. Mine is not depressed.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      23,
+      25
+    ],
+    "raw": "How do you look at your party again? Oh, this one.",
+    "actually": "How do you view your party? This one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      26,
+      27
+    ],
+    "raw": "That makes sense.",
+    "actually": "That makes sense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      28,
+      32
+    ],
+    "raw": "Oh, for the depression. Yeah, oh, oh, okay. My pals are not depressed yet, so I'm good.",
+    "actually": "Regarding depression; my Pals are not depressed yet, so I am fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      32,
+      34
+    ],
+    "raw": "Do you guys want talk about your your bases and show it off a little?",
+    "actually": "Would you like to discuss and show your bases?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      34,
+      36
+    ],
+    "raw": "Okay, I don't know if you can tour mine. Mine's really really really far away.",
+    "actually": "I do not know whether you can tour mine; it is very far away.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      36,
+      38
+    ],
+    "raw": "Oh, I guess you can. All right, we can do that. That's called stalking.",
+    "actually": "I suppose you can; we can do that. That is called stalking.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      39,
+      41
+    ],
+    "raw": "Oh, hold up. Uh, I need to change something. There you go.",
+    "actually": "Wait; I need to change something. There we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      41,
+      44
+    ],
+    "raw": "Where are you going? Okay, I think all this time I've been talking to myself. I forgot my my triple audio and messed up.",
+    "actually": "Where are you going? I think I have been talking to myself this whole time; I forgot my triple audio and made a mistake.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      45,
+      46
+    ],
+    "raw": "How how how do I ride on the pal? You need a saddle, I think.",
+    "actually": "How do I ride the Pal? I think you need a saddle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      46,
+      48
+    ],
+    "raw": "Pal, oh, where did everyone go again? I lost everyone. Oh, I don't have that yet.",
+    "actually": "Where did everyone go? I lost them. I do not have that yet.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      49,
+      50
+    ],
+    "raw": "Yeah, you have to make it. Shad, yeah, okay. I I'll just run. I'll just run, I guess, huh?",
+    "actually": "You need to make it. I suppose I will run.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      51,
+      56
+    ],
+    "raw": "Oh, actually, I think I can make one for you. Hold on. Does it work if we're not in the same Guild? I think you just have to give it to them anyway. Maybe I can just drop it. Hold on.",
+    "actually": "I think I can make one for you. Wait; will it work if we are in different guilds? I think you just give it to them; perhaps I can drop it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      57,
+      60
+    ],
+    "raw": "No P saddle we we can’t make we can’t make I can make a meaka saddle I think I have a meaka yeah we have meaka one moment we could do it with that own pause",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      61,
+      64
+    ],
+    "raw": "We're just all trying to figure everything out. It's been a while. Just a just a little bit, yeah.",
+    "actually": "We are all trying to work things out; it has been a while. Just a little while.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      65,
+      66
+    ],
+    "raw": "Oh, I have it already. We have in the PK right we too cuz it was really cute.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      67,
+      68
+    ],
+    "raw": "Yeah, the good thing is that if you die you keep the key items, I think.",
+    "actually": "I think you retain key items when you die, which is useful.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      69,
+      72
+    ],
+    "raw": "Yeah. Okay, should we start off with uh we pick this up? Okay, pick it up.",
+    "actually": "Shall we begin by picking this up? Pick it up.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      73,
+      76
+    ],
+    "raw": "Oh uh the bottom do I have a better is pretty good",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      76,
+      79
+    ],
+    "raw": "They do the same thing anyway. You just ride them, yeah, or eat them. Okay, I'm here. I remember how to play.",
+    "actually": "They do the same thing; you ride or eat them. I am here and remember how to play.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      79,
+      81
+    ],
+    "raw": "There there'sa let's show around not okay I'll be",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      83,
+      84
+    ],
+    "raw": "All right, let's uh check out the H play Palace.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      84,
+      87
+    ],
+    "raw": "Oh, wait, I'm coming. Okay, we're waiting. Okay, have fun. It is still okay I'm here in progress It's a work in progress.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      84,
+      85
+    ],
+    "raw": "Oh, wait, I'm coming. Okay, we're waiting. Okay, have fun.",
+    "actually": "Wait, I am coming. We are waiting. Have fun.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      86,
+      87
+    ],
+    "raw": "I'm here. It's a work in progress.",
+    "actually": "I am here. It is a work in progress.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      87,
+      89
+    ],
+    "raw": "We have the nurse over here. It’s a big sleepover party, sleepover party.",
+    "actually": "The nurse is here; it is a large sleepover party.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      89,
+      91
+    ],
+    "raw": "Food is right by the fire so that they walk in the fire.",
+    "actually": "The food is beside the fire, so they walk into it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      91,
+      92
+    ],
+    "raw": "So so they catch on fire when they eat dinner? Yep, sort of like that.",
+    "actually": "They catch fire while eating dinner? Yes, something like that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      92,
+      94
+    ],
+    "raw": "But I like our house the best. It looks like a dog house.",
+    "actually": "I like our house best; it resembles a doghouse.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      94,
+      97
+    ],
+    "raw": "It's very beautiful. Have a door here. It's I think it's nice. It double bed. It's perfect size.",
+    "actually": "It is beautiful. There is a door here; I think it is nice. A double bed; it is the perfect size.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      97,
+      100
+    ],
+    "raw": "And the best part, it has a nice view down view right. And then if you want even a better view, you can go up onto the roof too.",
+    "actually": "The best part is the view. For an even better view, you can go onto the roof.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      101,
+      103
+    ],
+    "raw": "Oh, I can. Nice view. Yeah, you can snipe people from up here.",
+    "actually": "I can; a nice view. You can shoot people from up here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      103,
+      105
+    ],
+    "raw": "Oh my God, B boo. Good good thinking here.",
+    "actually": "Biboo, that is a good idea.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      106,
+      108
+    ],
+    "raw": "Yeah, this is the the disco stage. A nice of you I'll spinning",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      106,
+      107
+    ],
+    "raw": "Yeah, this is the the disco stage.",
+    "actually": "This is the disco stage.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      109,
+      109
+    ],
+    "raw": "You bless you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      110,
+      111
+    ],
+    "raw": "That's basically it. Yeah, it's a good base. It's very H mine then.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      110,
+      111
+    ],
+    "raw": "That's basically it. Yeah, it's a good base.",
+    "actually": "That is essentially everything; it is a good base.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      111,
+      116
+    ],
+    "raw": "Yeah, wait, we have to read their signs. Did we read their signs? Write their signs, very important. There three read your signs.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      111,
+      113
+    ],
+    "raw": "Yeah, wait, we have to read their signs. Did we read their signs?",
+    "actually": "Wait; we must read their signs. Have we read them?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      116,
+      116
+    ],
+    "raw": "Bow bow home.",
+    "actually": "Bow bow home.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      117,
+      120
+    ],
+    "raw": "Ah it’s now it says oh it still says our smile will be fored did you try to change it this is a bit too long see the wi tiny bit of the wi",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      118,
+      119
+    ],
+    "raw": "Did you try to change it? This is a bit too long.",
+    "actually": "Did you try changing it? This is a little too long.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      120,
+      124
+    ],
+    "raw": "Oh, well, what you can do is you can have it two lines instead of one line, so that so you can press enter and at the end and you’ll split it into two lines.",
+    "actually": "You can use two lines instead of one by pressing Enter to split the text.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      124,
+      126
+    ],
+    "raw": "Like where you want to split, hit enter. It work. I don't think it's going to let us. Why?",
+    "actually": "Press Enter where you want the split. It works. I do not think it will allow us. Why?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      127,
+      129
+    ],
+    "raw": "You can do it like the old Minecraft way where instead oh there got it it’s this not not our smile huh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      130,
+      131
+    ],
+    "raw": "Yeah, I like how this one has a period but not the other letters.",
+    "actually": "I like that this one has a period but the other letters do not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      132,
+      134
+    ],
+    "raw": "What? That's a big home sign. An important statement, very important. Who want to go next? I'll go since we're over right here.",
+    "actually": "That is a large home sign, an important statement. Who wants to go next? I will, since we are here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      135,
+      137
+    ],
+    "raw": "Oh, what's the big white dragon? It's Blue-Eyes White Dragon. Oh my gosh.",
+    "actually": "What is the large white dragon? It is Blue-Eyes White Dragon.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      137,
+      139
+    ],
+    "raw": "I was going to go after you. I don't like it. It looks like a big sheet of paper.",
+    "actually": "I intended to go after you. I dislike it; it resembles a large sheet of paper.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      139,
+      142
+    ],
+    "raw": "Please read my sign. Hard Rock Constructions. We're rock hard, wholesomely. XD. XD.",
+    "actually": "Please read my sign: Hard Rock Constructions. We are rock hard, wholesomely.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      143,
+      145
+    ],
+    "raw": "Recently I I was having some frozen raspberries and I said these frozen raspberries are rock hard.",
+    "actually": "Recently, while eating frozen raspberries, I said they were rock hard.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      145,
+      147
+    ],
+    "raw": "Thank you I miss B Bo a well I’m not now",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      148,
+      151
+    ],
+    "raw": "So welcome to rock car constructions we got a little fountain in the center or the pal sleep here next to the nice own scent and waterfall",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      149,
+      150
+    ],
+    "raw": "We got a little fountain in the center.",
+    "actually": "We have a small fountain in the center.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      151,
+      153
+    ],
+    "raw": "That’s nice. This is my house. Next to it is my workshop, where I workshop things. Nice.",
+    "actually": "That is nice. This is my house; beside it is my workshop, where I work on things.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      154,
+      156
+    ],
+    "raw": "Oh my goodness, if we go in here, I have decorated a little bit. It looks so nice, fancy. Wow.",
+    "actually": "I have decorated this room a little. It looks very nice and elegant.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      156,
+      157
+    ],
+    "raw": "Deoration can fit more than I want flowers",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      157,
+      160
+    ],
+    "raw": "And then if we go up here, this is my bedroom. Oh, excuse me. Oh, you have a nice bedroom. It’s like an actual bedroom.",
+    "actually": "Up here is my bedroom. Excuse me; you have a nice bedroom that resembles a real one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      161,
+      162
+    ],
+    "raw": "Are you sleep my if you go across it connects to my B bathroom it’s a bathro bathroom",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      161,
+      163
+    ],
+    "raw": "If you go across it connects to my B bathroom. It’s a bathro bathroom. Can you actually use it?",
+    "actually": "Across here is my bathroom. Can you actually use it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      164,
+      166
+    ],
+    "raw": "Yeah this is where toilet bath thing the bath glitty is a candle a a that’s nice of flowers too",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      167,
+      168
+    ],
+    "raw": "There’s a toilet here. Can you use that too?",
+    "actually": "There is a toilet here; can you use that too?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      168,
+      169
+    ],
+    "raw": "You you feel free to use my bathroom if you need to. Thank you.",
+    "actually": "Feel free to use my bathroom if you need it. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      169,
+      172
+    ],
+    "raw": "I can't I can't use it, or maybe I am using it. I can't use the toilet.",
+    "actually": "I cannot use it—or perhaps I am using it. I cannot use the toilet.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      172,
+      174
+    ],
+    "raw": "No, it’s we can pretend. We can pretend, we can RP, I guess. Yeah.",
+    "actually": "We can pretend or role-play, I suppose.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      174,
+      176
+    ],
+    "raw": "Um and then we got some on s back here and this is my waterfall’s dcy",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      176,
+      179
+    ],
+    "raw": "Oh, hey, what’s that? Oh, it’s your buddy. Oh, yeah, my buddy, my buddy likes to be in the water. Buddy really likes water.",
+    "actually": "What is that? Your buddy. Yes; my buddy likes being in the water.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      179,
+      183
+    ],
+    "raw": "Yeah it’s D pen what’s his what’s his name pin pin he’s really cute pin",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      180,
+      182
+    ],
+    "raw": "What’s his what’s his name? Pin, pin. He’s really cute.",
+    "actually": "What is his name? Pin. He is very cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      183,
+      184
+    ],
+    "raw": "And this is my be bar out here. I can serve you guys drinks.",
+    "actually": "This is my bar, where I can serve you drinks.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      185,
+      187
+    ],
+    "raw": "Or whatever, imaginary drinks, right? Yeah, imaginary drinks. Oh, it’s very it’s very delicious. Thank you.",
+    "actually": "Imaginary drinks, correct? Yes. It is delicious; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      188,
+      190
+    ],
+    "raw": "Mhm, yeah, is my home, I live here. Wow, wow. It’s that’s not fair, you have a waterfall. Oh, it looks so nice.",
+    "actually": "This is my home, where I live. That is unfair; you have a waterfall. It looks lovely.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      191,
+      195
+    ],
+    "raw": "Oh is this for the pal too people this little uh this thing yeah yeah this this is a advanced version of the own sand so this oh okay it’s really nice",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      191,
+      193
+    ],
+    "raw": "Oh, is this for the pal too? This little uh this thing? Yeah, yeah.",
+    "actually": "Is this small thing also for the Pals? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      195,
+      198
+    ],
+    "raw": "Oh my God bio’s got it all all figured out your life’s all figured out thank you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      197,
+      198
+    ],
+    "raw": "Your life’s all figured out. Thank you.",
+    "actually": "You have your life figured out. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      199,
+      204
+    ],
+    "raw": "Wow, oh, the big Pals, they’re all the shinies. Oh, yeah, I have a big Jeep, a big chicken, a big CL right. So fluffy. Do they lay more stuff or they just big? No, they’re just bigger.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      199,
+      200
+    ],
+    "raw": "Wow, oh, the big Pals, they’re all the shinies.",
+    "actually": "The large Pals are all the shiny ones.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      202,
+      204
+    ],
+    "raw": "So fluffy. Do they lay more stuff or they just big? No, they’re just bigger.",
+    "actually": "Very fluffy. Do they lay more, or are they just larger? They are just larger.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      204,
+      208
+    ],
+    "raw": "I want to check my crise next to yours where your CR is so big c there’s something wrong with us why is this so happy big it’s fine B will take it easy for now",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      209,
+      209
+    ],
+    "raw": "Uhuh, okay.",
+    "actually": "Yes; all right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1,
+      1
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2,
+      2
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      3,
+      3
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      4,
+      4
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      5,
+      5
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      6,
+      6
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      7,
+      7
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      8,
+      8
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      9,
+      9
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      10,
+      10
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      11,
+      11
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      13,
+      13
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      14,
+      14
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      16,
+      16
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      82,
+      82
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

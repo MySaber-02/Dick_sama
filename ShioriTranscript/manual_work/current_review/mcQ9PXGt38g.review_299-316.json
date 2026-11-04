@@ -1,0 +1,1041 @@
+[
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2149,
+      2150
+    ],
+    "raw": "And then I draw. I don't know how mask looks, but I'll try.",
+    "status": "SFT",
+    "actually": "Then I draw. I do not know what the mask looks like, but I will try."
+  },
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2151
+    ],
+    "raw": "Try. Maybe.",
+    "status": "SFT",
+    "actually": "Try, perhaps."
+  },
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2152,
+      2153,
+      2154
+    ],
+    "raw": "Oh, maybe better to be in now. You better go in with white.",
+    "status": "SFT",
+    "actually": "Perhaps it is better to be in now. You had better go in wearing white."
+  },
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2155
+    ],
+    "raw": "Oh, maybe. Sorry. What color was that?",
+    "status": "SFT",
+    "actually": "Perhaps. Sorry, what color was that?"
+  },
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2156
+    ],
+    "raw": "No color.",
+    "status": "SFT",
+    "actually": "No color."
+  },
+  {
+    "draft_row": 299,
+    "source_segment_indices": [
+      2157
+    ],
+    "raw": "Oh, this a disadvantage.",
+    "status": "SFT",
+    "actually": "This is a disadvantage."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2158
+    ],
+    "raw": "I see.",
+    "status": "SFT",
+    "actually": "I see."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2159
+    ],
+    "raw": "How do you make things less?",
+    "status": "LOW",
+    "reason": "Unfinished 'make things less' without a named quality."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2160
+    ],
+    "raw": "I'm kind of scary.",
+    "status": "SFT",
+    "actually": "I am rather scary."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2161,
+      2162
+    ],
+    "raw": "How do you make things less? Roughness.",
+    "status": "SFT",
+    "actually": "How do you reduce it? Roughness."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2163,
+      2164
+    ],
+    "raw": "Why? Why am I so supposed to be like the air holes?",
+    "status": "LOW",
+    "reason": "Unfinished self-description followed by unclear air-holes question."
+  },
+  {
+    "draft_row": 300,
+    "source_segment_indices": [
+      2165,
+      2166,
+      2167
+    ],
+    "raw": "How do you make things less? I don't realize maybe",
+    "status": "LOW",
+    "reason": "Unfinished question and realization; insufficient evidence to complete."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2168,
+      2169
+    ],
+    "raw": "so you can put me pupils that do want little details.",
+    "status": "LOW",
+    "reason": "Unclear pupil/detail instruction."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2170,
+      2171,
+      2172
+    ],
+    "raw": "Really? I just I just need to never move ever again.",
+    "status": "SFT",
+    "actually": "Really? I just need to never move again."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2173
+    ],
+    "raw": "Draw. Okay, let's",
+    "status": "LOW",
+    "reason": "Interrupted instruction; clear Draw recovered separately."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2174
+    ],
+    "raw": "sound pretty confident.",
+    "status": "SFT",
+    "actually": "You sound quite confident."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2175
+    ],
+    "raw": "Really draw.",
+    "status": "SFT",
+    "actually": "Really draw."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2176
+    ],
+    "raw": "Yeah,",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2177
+    ],
+    "raw": "I am moving right now at this instant.",
+    "status": "SFT",
+    "actually": "I am moving at this very instant."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2178
+    ],
+    "raw": "30 seconds.",
+    "status": "SFT",
+    "actually": "Thirty seconds."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2179
+    ],
+    "raw": "I like",
+    "status": "LOW",
+    "reason": "Interrupted 'I like'."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2180
+    ],
+    "raw": "I don't like that. I don't like that.",
+    "status": "SFT",
+    "actually": "I do not like that."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2181
+    ],
+    "raw": "Okay.",
+    "status": "SFT",
+    "actually": "Okay."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2182,
+      2183,
+      2184
+    ],
+    "raw": "Well, it is what it is. I don't know about this look,",
+    "status": "SFT",
+    "actually": "It is what it is. I am unsure about this look."
+  },
+  {
+    "draft_row": 302,
+    "source_segment_indices": [
+      2185,
+      2186,
+      2187
+    ],
+    "raw": "guys. This ain't it. This This ain't it, bro. This ain't it.",
+    "status": "SFT",
+    "actually": "Everyone, this is not good."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2188,
+      2189
+    ],
+    "raw": "This ain't it, bro. This This ain't it.",
+    "status": "SFT",
+    "actually": "This is not good."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2190
+    ],
+    "raw": "There we go.",
+    "status": "SFT",
+    "actually": "There we are."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2191,
+      2192,
+      2193
+    ],
+    "raw": "This So, this ain't it. It looks more like a dog. This ain't it.",
+    "status": "SFT",
+    "actually": "This is not good; it looks more like a dog."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2194
+    ],
+    "raw": "Okay.",
+    "status": "SFT",
+    "actually": "Okay."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2195
+    ],
+    "raw": "It looks good.",
+    "status": "SFT",
+    "actually": "It looks good."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2196
+    ],
+    "raw": "Hope's helping.",
+    "status": "LOW",
+    "reason": "Unclear 'Hope’s helping' reference/ASR."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2197,
+      2198
+    ],
+    "raw": "Okay, moving to solo. Goodbye. Yeah. Goodbye.",
+    "status": "SFT",
+    "actually": "I am moving to solo. Goodbye."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2199
+    ],
+    "raw": "Goodbye.",
+    "status": "SFT",
+    "actually": "Goodbye."
+  },
+  {
+    "draft_row": 303,
+    "source_segment_indices": [
+      2200
+    ],
+    "raw": "Oh, wait. Where?",
+    "status": "SFT",
+    "actually": "Wait, where?"
+  },
+  {
+    "draft_row": 304,
+    "source_segment_indices": [
+      2201
+    ],
+    "raw": "There we go.",
+    "status": "SFT",
+    "actually": "There we are."
+  },
+  {
+    "draft_row": 304,
+    "source_segment_indices": [
+      2202
+    ],
+    "raw": "Why does Iris look like this?",
+    "status": "SFT",
+    "actually": "Why does Iris look like this?"
+  },
+  {
+    "draft_row": 304,
+    "source_segment_indices": [
+      2203,
+      2204
+    ],
+    "raw": "Well, it's the husband.",
+    "status": "LOW",
+    "reason": "Unclear husband/hazmat recognition; do not invent the intended word."
+  },
+  {
+    "draft_row": 304,
+    "source_segment_indices": [
+      2205,
+      2206
+    ],
+    "raw": "Oh, I thought she had like a leash on or something.",
+    "status": "SFT",
+    "actually": "I thought she had a leash on or something."
+  },
+  {
+    "draft_row": 304,
+    "source_segment_indices": [
+      2207,
+      2208,
+      2209
+    ],
+    "raw": "What? Yeah, cuz I thought I was like, \"What's that black thing about her neck?\"",
+    "status": "SFT",
+    "actually": "What? Yes; I was wondering what the black thing around her neck was."
+  },
+  {
+    "draft_row": 305,
+    "source_segment_indices": [
+      2210
+    ],
+    "raw": "It's over.",
+    "status": "SFT",
+    "actually": "It is over."
+  },
+  {
+    "draft_row": 305,
+    "source_segment_indices": [
+      2211
+    ],
+    "raw": "Hello, Darkness, my old friend.",
+    "status": "SFT",
+    "actually": "Hello, darkness, my old friend."
+  },
+  {
+    "draft_row": 305,
+    "source_segment_indices": [
+      2212
+    ],
+    "raw": "Oh, I'm going to talk with you.",
+    "status": "SFT",
+    "actually": "I am going to talk with you."
+  },
+  {
+    "draft_row": 305,
+    "source_segment_indices": [
+      2213,
+      2214
+    ],
+    "raw": "If you see me, guys, just save me for the edge, please. Very obvious.",
+    "status": "LOW",
+    "reason": "Unclear request to save speaker for the edge/end; keep source instead of completing."
+  },
+  {
+    "draft_row": 306,
+    "source_segment_indices": [
+      2215
+    ],
+    "raw": "It's kind of sad. Iris is all alone.",
+    "status": "SFT",
+    "actually": "It is rather sad that Iris is all alone."
+  },
+  {
+    "draft_row": 306,
+    "source_segment_indices": [
+      2216
+    ],
+    "raw": "Yeah, I should come back.",
+    "status": "SFT",
+    "actually": "I should return."
+  },
+  {
+    "draft_row": 306,
+    "source_segment_indices": [
+      2217
+    ],
+    "raw": "But she's in the back rooms at least.",
+    "status": "SFT",
+    "actually": "At least she is in the Backrooms."
+  },
+  {
+    "draft_row": 306,
+    "source_segment_indices": [
+      2218,
+      2219,
+      2220
+    ],
+    "raw": "Yeah, she's in the back rooms. There's lots of friends in the back rooms. Yeah, scary friends.",
+    "status": "SFT",
+    "actually": "She is in the Backrooms; there are many friends there, frightening friends."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2221
+    ],
+    "raw": "Oh, there you go.",
+    "status": "SFT",
+    "actually": "There you go."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2222,
+      2223
+    ],
+    "raw": "Oh, no. She'll be alone, I guess.",
+    "status": "SFT",
+    "actually": "Oh no; I suppose she will be alone."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2224
+    ],
+    "raw": "No, she's not.",
+    "status": "SFT",
+    "actually": "No, she is not."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2225
+    ],
+    "raw": "Oh. Oh, she tried the same trick twice.",
+    "status": "SFT",
+    "actually": "She tried the same trick twice."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2226,
+      2227,
+      2228
+    ],
+    "raw": "Already a blood bath. Think I'm wrong.",
+    "status": "SFT",
+    "actually": "Already a bloodbath. I think I am wrong."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2229
+    ],
+    "raw": "Act natural.",
+    "status": "SFT",
+    "actually": "Act natural."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2230
+    ],
+    "raw": "I think I'm the wrong color.",
+    "status": "SFT",
+    "actually": "I think I am the wrong color."
+  },
+  {
+    "draft_row": 307,
+    "source_segment_indices": [
+      2231
+    ],
+    "raw": "Act natural.",
+    "status": "SFT",
+    "actually": "Act natural."
+  },
+  {
+    "draft_row": 308,
+    "source_segment_indices": [
+      2232,
+      2233
+    ],
+    "raw": "What is natural? We're in the back rooms.",
+    "status": "SFT",
+    "actually": "What is natural? We are in the Backrooms."
+  },
+  {
+    "draft_row": 308,
+    "source_segment_indices": [
+      2234
+    ],
+    "raw": "I'm in a my natural environment.",
+    "status": "SFT",
+    "actually": "I am in my natural environment."
+  },
+  {
+    "draft_row": 308,
+    "source_segment_indices": [
+      2235,
+      2236
+    ],
+    "raw": "No. You're good.",
+    "status": "SFT",
+    "actually": "No, you are fine."
+  },
+  {
+    "draft_row": 308,
+    "source_segment_indices": [
+      2237,
+      2238
+    ],
+    "raw": "Uh, maybe we're good.",
+    "status": "SFT",
+    "actually": "Perhaps we are fine."
+  },
+  {
+    "draft_row": 308,
+    "source_segment_indices": [
+      2239
+    ],
+    "raw": "You might be.",
+    "status": "SFT",
+    "actually": "You might be."
+  },
+  {
+    "draft_row": 309,
+    "source_segment_indices": [
+      2240,
+      2241
+    ],
+    "raw": "I don't know. Oh, not the force whistles.",
+    "status": "SFT",
+    "actually": "I do not know. Not the forced whistles."
+  },
+  {
+    "draft_row": 309,
+    "source_segment_indices": [
+      2242,
+      2243
+    ],
+    "raw": "Wait, is there only three of us left now?",
+    "status": "SFT",
+    "actually": "Wait, are only three of us left now?"
+  },
+  {
+    "draft_row": 309,
+    "source_segment_indices": [
+      2244
+    ],
+    "raw": "Um, I think so. Yeah,",
+    "status": "SFT",
+    "actually": "I think so, yes."
+  },
+  {
+    "draft_row": 309,
+    "source_segment_indices": [
+      2245
+    ],
+    "raw": "that feels so good.",
+    "status": "SFT",
+    "actually": "That feels very good."
+  },
+  {
+    "draft_row": 309,
+    "source_segment_indices": [
+      2246,
+      2247
+    ],
+    "raw": "Am I good at this game? Am I Am I really good at this game?",
+    "status": "SFT",
+    "actually": "Am I good at this game? Am I very good at it?"
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2248,
+      2249
+    ],
+    "raw": "Great. You're very good at hide and seek.",
+    "status": "SFT",
+    "actually": "Great; you are very good at hide-and-seek."
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2250,
+      2251
+    ],
+    "raw": "Good at this game. I think Maybe I'm good at this game.",
+    "status": "SFT",
+    "actually": "Perhaps I am good at this game."
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2252
+    ],
+    "raw": "I think you are.",
+    "status": "SFT",
+    "actually": "I think you are."
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2253
+    ],
+    "raw": "I don't know.",
+    "status": "SFT",
+    "actually": "I do not know."
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2254
+    ],
+    "raw": "Are you sure?",
+    "status": "SFT",
+    "actually": "Are you sure?"
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2255,
+      2256
+    ],
+    "raw": "Maybe. Maybe. Anna.",
+    "status": "LOW",
+    "reason": "Clear tentative response recovered separately; Anna reference unclear."
+  },
+  {
+    "draft_row": 311,
+    "source_segment_indices": [
+      2257
+    ],
+    "raw": "The timer is so long.",
+    "status": "SFT",
+    "actually": "The timer is very long."
+  },
+  {
+    "draft_row": 311,
+    "source_segment_indices": [
+      2258,
+      2259
+    ],
+    "raw": "Yeah, you get a lot of I mean, it's a big map. I get it.",
+    "status": "SFT",
+    "actually": "You get a lot of time—I mean, it is a large map. I understand."
+  },
+  {
+    "draft_row": 311,
+    "source_segment_indices": [
+      2260,
+      2261
+    ],
+    "raw": "That's true. That's true. I just don't trust Herb, you know.",
+    "status": "SFT",
+    "actually": "That is true; I just do not trust Herb."
+  },
+  {
+    "draft_row": 311,
+    "source_segment_indices": [
+      2262
+    ],
+    "raw": "She She's a pro at this, too.",
+    "status": "SFT",
+    "actually": "She is a professional at this too."
+  },
+  {
+    "draft_row": 311,
+    "source_segment_indices": [
+      2263
+    ],
+    "raw": "Pretty good. Yeah,",
+    "status": "SFT",
+    "actually": "Quite good, yes."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2264,
+      2265
+    ],
+    "raw": "I do love Iris's hazmat suit. It's good stuff.",
+    "status": "SFT",
+    "actually": "I love Iris’s hazmat suit; it is good.",
+    "raw_fixes": [
+      [
+        "Irish's",
+        "Iris's"
+      ]
+    ]
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2266
+    ],
+    "raw": "Oh, no. No, no, no.",
+    "status": "SFT",
+    "actually": "Oh no."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2267,
+      2268
+    ],
+    "raw": "See, this is I don't trust being really thorough.",
+    "status": "LOW",
+    "reason": "Interrupted distrust clause followed by missing-subject thoroughness phrase."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2269
+    ],
+    "raw": "Mhm.",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2270
+    ],
+    "raw": "Dang.",
+    "status": "SFT",
+    "actually": "How frustrating."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2271
+    ],
+    "raw": "It's just us two. More. More.",
+    "status": "SFT",
+    "actually": "It is just the two of us. More."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2272
+    ],
+    "raw": "Oh god.",
+    "status": "SFT",
+    "actually": "Oh dear."
+  },
+  {
+    "draft_row": 312,
+    "source_segment_indices": [
+      2273
+    ],
+    "raw": "For now.",
+    "status": "SFT",
+    "actually": "For now."
+  },
+  {
+    "draft_row": 313,
+    "source_segment_indices": [
+      2274,
+      2275,
+      2276
+    ],
+    "raw": "It sure is. It sure for now. Don't tell me where you are. You should probably get you. your last rites.",
+    "status": "SFT",
+    "actually": "It certainly is, for now. Do not tell me where you are. You should probably receive your last rites.",
+    "raw_fixes": [
+      [
+        "last rights",
+        "last rites"
+      ]
+    ]
+  },
+  {
+    "draft_row": 313,
+    "source_segment_indices": [
+      2277,
+      2278,
+      2279,
+      2280
+    ],
+    "raw": "Yeah. No, I get it cuz we're She's so big on my screen. Oh my gosh. As people leave the call, I forget people in this room.",
+    "status": "LOW",
+    "reason": "Clear on-screen size comment recovered separately; interrupted clauses cannot be reliably completed."
+  },
+  {
+    "draft_row": 314,
+    "source_segment_indices": [
+      2281,
+      2282
+    ],
+    "raw": "Oh, just got to last a little bit more.",
+    "status": "SFT",
+    "actually": "We just need to last a little longer."
+  },
+  {
+    "draft_row": 314,
+    "source_segment_indices": [
+      2283,
+      2284,
+      2285
+    ],
+    "raw": "As much as I'd love to tab out and make you smaller, I'm not going to do that. Obscuring me perfectly.",
+    "status": "SFT",
+    "actually": "Although I would love to switch tabs and make you smaller, I will not. You are obscuring me perfectly."
+  },
+  {
+    "draft_row": 314,
+    "source_segment_indices": [
+      2286,
+      2287
+    ],
+    "raw": "There's Who's Who keeps shooting? Iris is so scary.",
+    "status": "SFT",
+    "actually": "Who keeps shooting? Iris is very scary."
+  },
+  {
+    "draft_row": 314,
+    "source_segment_indices": [
+      2288,
+      2289
+    ],
+    "raw": "She is, especially in the like the red light.",
+    "status": "SFT",
+    "actually": "She is, especially in the red light."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2290
+    ],
+    "raw": "Oh my gosh. Oh, thank God.",
+    "status": "SFT",
+    "actually": "Thank goodness."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2291
+    ],
+    "raw": "Just hold on.",
+    "status": "SFT",
+    "actually": "Hold on."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2292,
+      2293,
+      2294
+    ],
+    "raw": "I think I think maybe last will take this home. Last right will take this home.",
+    "status": "LOW",
+    "reason": "Incomplete hope and unclear last/last right reference."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2295
+    ],
+    "raw": "I hope so.",
+    "status": "SFT",
+    "actually": "I hope so."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2296
+    ],
+    "raw": "Definitely. Don't get Don't get caught.",
+    "status": "SFT",
+    "actually": "Definitely; do not get caught."
+  },
+  {
+    "draft_row": 315,
+    "source_segment_indices": [
+      2297,
+      2298
+    ],
+    "raw": "Okay. If I get caught, you have to live for us. Okay.",
+    "status": "SFT",
+    "actually": "If I get caught, you have to survive for us, okay?"
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2299
+    ],
+    "raw": "Um, I don't think I can.",
+    "status": "SFT",
+    "actually": "I do not think I can."
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2300
+    ],
+    "raw": "I got to write my last fanfiction.",
+    "status": "SFT",
+    "actually": "I have to write my last fanfiction."
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2301
+    ],
+    "raw": "They have really good noses.",
+    "status": "SFT",
+    "actually": "They have very good noses."
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2302,
+      2303,
+      2304
+    ],
+    "raw": "It's okay. We just have to stink up their noses. So, they have to be like reparative.",
+    "status": "LOW",
+    "reason": "Clear smell tactic recovered separately; intended reparative result unclear."
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2305
+    ],
+    "raw": "No. No.",
+    "status": "SFT",
+    "actually": "No."
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2306,
+      2307
+    ],
+    "raw": "I will make the biggest thing ever. So, they have to stay away from us.",
+    "status": "SFT",
+    "actually": "I will make the biggest thing ever, so they have to stay away from us."
+  },
+  {
+    "draft_row": 301,
+    "source_segment_indices": [
+      2173
+    ],
+    "raw": "Draw.",
+    "actually": "Draw.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 305,
+    "source_segment_indices": [
+      2214
+    ],
+    "raw": "Very obvious.",
+    "actually": "Very obvious.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 310,
+    "source_segment_indices": [
+      2255
+    ],
+    "raw": "Maybe. Maybe.",
+    "actually": "Perhaps.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 313,
+    "source_segment_indices": [
+      2277,
+      2278
+    ],
+    "raw": "She's so big on my screen. Oh my gosh.",
+    "actually": "She is very large on my screen.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 316,
+    "source_segment_indices": [
+      2302,
+      2303
+    ],
+    "raw": "It's okay. We just have to stink up their noses.",
+    "actually": "It is fine; we just need to fill their noses with a bad smell.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

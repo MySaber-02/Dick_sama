@@ -1,0 +1,434 @@
+[
+  {
+    "source_segments": [
+      1381,
+      1381
+    ],
+    "raw": "uh heart",
+    "reason": "Unclear syllable after falling; no inference of a physical heart.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1381,
+      1387
+    ],
+    "raw": "Something's amiss. Uh-oh, everything's breaking. Okay, okay. Oh Jesus Christ, everything's breaking. Everything's breaking under my fingers.",
+    "actually": "Something is wrong, and everything is breaking under my fingers.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1385,
+      1385
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1387,
+      1390
+    ],
+    "raw": "Okay, leave that. Just leave that for now. Um, this, something messed up in here additionally. Now have to figure that out.",
+    "actually": "Leave that for now. Something else is wrong here, and I need to resolve it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1391,
+      1395
+    ],
+    "raw": "Oh, thank you, thank you, K and Gamer Panda. Thank you, thank you. I think I feel like I already said thank you, but just in case I did, you.",
+    "actually": "Thank you, K and Gamer Panda. I think I already thanked you, but am doing so again in case.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1395,
+      1399
+    ],
+    "raw": "Oh no, I've been put back in previous steps. That's it, the feet comes off. I'm removing my socks. Now to guess how to do this, I got to go back a few steps.",
+    "actually": "I have been set back to earlier steps. I am removing my socks and need to go back a few steps to work this out.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1400,
+      1400
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1401,
+      1404
+    ],
+    "raw": "That's right, removing my feet live on stream. What the hell is this?",
+    "actually": "I am removing my feet live on stream. What is this?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1403,
+      1403
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1405,
+      1405
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1406,
+      1406
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1407,
+      1410
+    ],
+    "raw": "Have to figure this out. I'm struggling cuz like it kind of fell apart on me, so now I have to figure out where it fell apart and how to fix it.",
+    "actually": "I am struggling because it fell apart. I need to identify where and how to fix it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1411,
+      1418
+    ],
+    "raw": "Okay, I'm just removing this. This is so annoying. Stop falling. Stop falling apart. I know, even though it's a bomb factory they still want you to be efficient.",
+    "actually": "I am removing this. It is frustrating; stop falling apart. Even at a bomb factory, they still expect efficiency.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1418,
+      1424
+    ],
+    "raw": "Okay, so I did this section. What am I supposed to do here exactly? I think uh it's facing the wrong way. All right, so that's done. Now have to figure out how this was meant to be. This makes no sense.",
+    "actually": "I finished this section. What should I do here? I think it faces the wrong way. That is done; I need to work out how this should be arranged. It makes no sense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1425,
+      1425
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1426,
+      1429
+    ],
+    "raw": "Here, I'm going back to step 48. Step 48, please tell me how to do things. Everything fell apart and now I must redo.",
+    "actually": "I am returning to step forty-eight for instructions because everything fell apart and must be redone.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1430,
+      1433
+    ],
+    "raw": "Okay, step four, what is this? This way. All right, I see the error of my ways, where it fell apart. You should be over here.",
+    "actually": "What is this? This way; I see my mistake and where it fell apart. It should be here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1434,
+      1437
+    ],
+    "raw": "Now you go to step 48. That looks perfectly right, so now on to step 49.",
+    "actually": "Step forty-eight looks correct; now step forty-nine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1437,
+      1442
+    ],
+    "raw": "Oh, thank you, Kocho, thank you so much. I hope you have a great New Year. Are you guys doing anything for New Year's actually? Are you going to watch like fireworks, or you're going to set something on fire?",
+    "actually": "Thank you, Kocho. I hope you have a great New Year. Will you watch fireworks or set something on fire for New Year’s?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1443,
+      1448
+    ],
+    "raw": "So according to this, this should actually be here and I should remove this piece. This is the piece that's bothering me. I think that's what it was. I see.",
+    "actually": "According to this, the piece goes here and I should remove this other piece, which seems to be the problem. I understand.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1449,
+      1453
+    ],
+    "raw": "So now that's done. You're going to stay home and practice what? Touchit? What's that? Is that like Waluigi? You're going to hang out with fam?",
+    "actually": "That is finished. What will you practice at home? Touchit? What is that; is it like Waluigi? Will you spend time with family?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1453,
+      1457
+    ],
+    "raw": "Oh, I hope you have a great time. Oh, you'll be drinking? Well, drink responsibly. Sonic 3 on New Year? That'll be interesting.",
+    "actually": "I hope you have a good time. If you drink, drink responsibly. Sonic 3 on New Year’s sounds interesting.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1457,
+      1462
+    ],
+    "raw": "Check a stream of the countdown. Oh, oh yeah. Oh wait, they're doing the countdown. Oh wait, did they announce a time out actually? I'm not sure if they have announced. Try not to fall asleep.",
+    "actually": "Check the countdown stream. Did they announce the time? I am unsure. Try not to fall asleep.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1462,
+      1469
+    ],
+    "raw": "Well, I'll be doing an early stream on that day. I don't remember the time though. I think it's 8 p.m. 11 p.m. JST, okay. Yeah, I was thinking it'll be early for some of us. Waiting room's already up? Neat, neat.",
+    "actually": "I will stream early that day, though I do not remember the time. I think eight p.m.—eleven p.m. JST, understood. It will be early for some of us. The waiting room is already available; good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1470,
+      1478
+    ],
+    "raw": "Uh, let's see. So this should be. These are the pieces that discombobulated, or however you want to say it. So now that I have this, I feel like there's a piece that I'm missing. It's supposed to be a roof piece, but I can't find it. Uh-oh, that's bad.",
+    "actually": "These are the pieces that came apart. I think a roof piece is missing and cannot find it; that is a problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1479,
+      1488
+    ],
+    "raw": "Um, about this piece, can I do anything with this? Not quite. Maybe I'm supposed to remove this. This makes no sense right now. It makes like ultra less sense if I do remove it. All right, I'm I'm a little confused with all these extra pieces, but here's like branch.",
+    "actually": "Can I use this piece? Not quite. Perhaps I should remove it, but that makes even less sense. I am confused by the extra pieces; here is a branch.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1489,
+      1489
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1490,
+      1496
+    ],
+    "raw": "Oh, maybe maybe this is facing the wrong way. No, it should, the frog should be facing this way, so it's actually not incorrect. Then the frog should be facing the other way. No, it makes no sense. This this way. You need to face this way.",
+    "actually": "Perhaps this faces the wrong way. No, the frog should face this way, so it is correct. Then the frog should face the other way. That makes no sense; face this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1497,
+      1497
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1498,
+      1504
+    ],
+    "raw": "Okay, I got the little pipes. They're kind of facing the wrong way but whatever. Got this, and then I'm missing I'm missing some pieces actually, which is a little strange, and I don't really know how to go about this then.",
+    "actually": "I have the small pipes, although they face the wrong way. Some pieces seem to be missing, and I do not know how to proceed.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1505,
+      1510
+    ],
+    "raw": "And page 53, uh, that right piece next to the horn-looking thing, I am not seeing that for whatever reason. It's this one. I assume this goes like here. That would work.",
+    "actually": "On page fifty-three, I cannot see the right-hand piece next to the horn-shaped part. This one; I assume it goes here, which would work.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1511,
+      1518
+    ],
+    "raw": "Yeah, okay, maybe maybe not this piece. If I put it higher up and hopefully not break anything because that's the annoying piece, like this, it doesn't connect properly.",
+    "actually": "Perhaps it is not this piece. I could put it higher without breaking anything, but it does not connect properly like this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1516,
+      1516
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1518,
+      1521
+    ],
+    "raw": "Okay, I I'm stuck. Recorded to one of your covers? Oh, thank you, thank you, Jinx. Uh, I'm stuck, so I'm stuck at this section.",
+    "actually": "I am stuck at this section. Recorded to one of my covers? Thank you, Jinx.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1522,
+      1529
+    ],
+    "raw": "Hold up, I had to undo some things, but uh I think, am I missing a piece here? Because it's not perfectly even. Actually, I don't know if you notice it, but that piece doesn't have anything underneath the layer. And then there's like a few pieces that I just can't seem to find.",
+    "actually": "I had to undo some work. Am I missing a piece? It is uneven, and this piece has nothing underneath the layer. I also cannot find several pieces.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1530,
+      1534
+    ],
+    "raw": "Well, it's possible I could have missed a step, but not that I know of. It's because everything kept breaking when I try to put it together, so that's also an issue.",
+    "actually": "I might have missed a step, but do not know of one. Things kept breaking during assembly, which is another problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1535,
+      1544
+    ],
+    "raw": "Uh, this might connect to the tree. I feel like there should be at the back here, but one of the pieces isn't equipped like properly. Maybe like this, maybe maybe it should be the other way, like this. No, that makes no sense. It has to connect with this though, right? That doesn't make sense like that. How about this piece?",
+    "actually": "This may connect to the back of the tree, but one piece seems incorrectly fitted. Perhaps it goes the other way. That makes no sense, though it should connect with this. What about this piece?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1545,
+      1551
+    ],
+    "raw": "All right, I guessed, but this probably is not meant to be the way. Maybe I'm missing another another piece. Let me just put this together. It's supposed to be this way. Okay, I'll put it back.",
+    "actually": "I guessed, but it is probably incorrect. Perhaps another piece is missing. I will assemble it this way and put it back.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1551,
+      1556
+    ],
+    "raw": "I don't know how I'm supposed to print my 2,000 pictures of photography. I feel like I have to do that that in like batches at this point. It's going to be quite cumbersome.",
+    "actually": "I do not know how to print my two thousand photographs. I think I need to do so in batches, which will be cumbersome.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1556,
+      1559
+    ],
+    "raw": "Uh, I don't think I dropped any pieces. I mean, I'll see in a bit. Oh, I'm getting dizzy.",
+    "actually": "I do not think I dropped any pieces, but will check shortly. I am becoming dizzy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1559,
+      1566
+    ],
+    "raw": "Yeah, also I'm waiting for all my snacks to send. Kattoo, scissor or the eye? I think the eye is cooler. I mean, you could do scissors, but if people look at an eye it's more like, oh that's a cool eye, but scissors is like, what do what do the scissors represent?",
+    "actually": "I am also waiting for all my snacks to be sent. Kattoo, scissors or an eye? I prefer the eye. People may simply think it looks interesting, while scissors prompt questions about their meaning.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1566,
+      1571
+    ],
+    "raw": "This one kind of looks like it's not perfect actually for whatever reason, so maybe doesn't meant to be on here. I'm stuck.",
+    "actually": "This looks imperfect, so perhaps it does not belong here. I am stuck.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1569,
+      1569
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1572,
+      1578
+    ],
+    "raw": "Okay, this is facing that way, should be facing this way, it looks like, but it's not, so it's not correct, I guess. Makes no sense. Has to be this way. Has to be. Actually doesn't do anything other, okay.",
+    "actually": "This appears intended to face this way rather than that way, so I suppose it is incorrect. It makes no sense; it must go this way. It does not seem to do anything else.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1576,
+      1576
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1579,
+      1584
+    ],
+    "raw": "Yeah, okay, I think I got it, but now that that's done, uh, what piece? I'm kind of ignoring the vine at this moment. I think it's just kind of a hassle to deal with, so I'm just going to ignore it. It's just meant to look pretty.",
+    "actually": "I think I have it. Which piece is next? I am ignoring the vine because it is troublesome and only decorative.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1585,
+      1591
+    ],
+    "raw": "Uh, I need this hoof. I need to put something at the bottom, but the hoof does not have anything at the bottom that kind of connects well to it. Yeah, that's weird. What is this hoof supposed to connect to?",
+    "actually": "I need this hoof and something underneath, but it has nothing underneath that connects properly. That is strange; what should it connect to?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1592,
+      1600
+    ],
+    "raw": "All right, I'm stuck on uh 53. According to this, uh, this hoof is meant to be somewhere around like over, overhead or somewhere. And I am missing the leg piece at 53, unless unless it's this gray piece, but it doesn't look like it at.",
+    "actually": "I am stuck on step fifty-three. The hoof seems intended to go somewhere overhead, but the leg piece is missing, unless it is this gray piece, which does not seem to be it.",
+    "status": "SFT"
+  }
+]

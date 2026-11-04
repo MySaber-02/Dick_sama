@@ -1,0 +1,376 @@
+[
+  {
+    "source_segments": [
+      598,
+      599
+    ],
+    "raw": "I wish. Please be the dirt. Please be",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      600,
+      601
+    ],
+    "raw": "No. Is that not? No, you have to be the",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      643,
+      643
+    ],
+    "raw": "It's a check out.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear ASR phrase; not giveaway.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      729,
+      730
+    ],
+    "raw": "If this is not",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished qualification attached to preceding vertical question.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      731,
+      731
+    ],
+    "raw": "Oh.",
+    "actually": "Oh.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      735,
+      735
+    ],
+    "raw": "I this color",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear missing predicate; retain exact fragment.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      747,
+      748
+    ],
+    "raw": "Press down the",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      765,
+      765
+    ],
+    "raw": "Okay. That's",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Self-interrupted demonstrative phrase; do not add predicate.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      777,
+      777
+    ],
+    "raw": "Unless that good",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      778,
+      779
+    ],
+    "raw": "Oh, there seconds",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Fragmented ASR interjection with unresolved timing reference.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      779,
+      779
+    ],
+    "raw": "Wait. Rotate. Wait.",
+    "actually": "Wait. Rotate it. Wait.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      781,
+      781
+    ],
+    "raw": "This is what",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      791,
+      791
+    ],
+    "raw": "Okay, that looks",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      792,
+      793
+    ],
+    "raw": "Oh my god.",
+    "actually": "Oh my god.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      799,
+      800
+    ],
+    "raw": "Yeah, as long as I'm alive, we'll be just fine.",
+    "actually": "Yes, as long as I am alive, we will be fine.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      802,
+      803
+    ],
+    "raw": "Oh, I'm good. I'm so bad.",
+    "actually": "I am good. I am very bad.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      819,
+      820
+    ],
+    "raw": "Everyone's soy. Not last.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Meaning of soy and not last cannot be established from these ASR words.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      867,
+      868
+    ],
+    "raw": "Oh, she she's missing the",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      880,
+      882
+    ],
+    "raw": "I was like, I'm looking at the balloons right now.",
+    "actually": "I was saying that I am looking at the balloons now.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      968,
+      968
+    ],
+    "raw": "every",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Extraneous/incomplete ASR fragment at sentence boundary; clear balloon question preserved separately.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      985,
+      986
+    ],
+    "raw": "No, no. I just It's just It's just convenient, you know?",
+    "actually": "No, it is just convenient.",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      987,
+      988
+    ],
+    "raw": "It is. Yeah. Oh, wait. What if it's kind of crazy?",
+    "actually": "It is. Yes. Wait, what if it is rather unusual?",
+    "status": "SFT",
+    "reason": "",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1062,
+      1062
+    ],
+    "raw": "No, you thought Secretary.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain ASR noun/name and intended statement.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1081,
+      1081
+    ],
+    "raw": "They sound so close, but I am so",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1104,
+      1105
+    ],
+    "raw": "Someone H was just random.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "H and referent cannot be reliably resolved.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1302,
+      1302
+    ],
+    "raw": "Do you need to move coals or",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Voice-call context suggests calls, but unfinished alternative after or cannot be supplied. Preserve entire literal incomplete question rather than only move coals.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1314,
+      1314
+    ],
+    "raw": "Never move over.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear intended action and whether Never is ASR corruption; avoid inferring instruction.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1331,
+      1332
+    ],
+    "raw": "I feel like my",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1337,
+      1337
+    ],
+    "raw": "I senpai.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "ASR name/predicate unclear.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1374,
+      1374
+    ],
+    "raw": "You can't go this.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished restriction lacks object/action.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1376,
+      1376
+    ],
+    "raw": "It was",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1382,
+      1382
+    ],
+    "raw": "150 is a little",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1386,
+      1386
+    ],
+    "raw": "I don't know if",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  },
+  {
+    "source_segments": [
+      1389,
+      1389
+    ],
+    "raw": "You were like",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.",
+    "action": "ensure_source_occurrence_not_blind_append"
+  }
+]

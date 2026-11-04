@@ -1,209 +1,298 @@
-{"raw":"can I finally do","reason":"ASR片段不完整或上下文不足，暂不确定准确含义。"}
-{"raw":"yeah she's a moment ago","reason":"ASR片段不完整或上下文不足，暂不确定准确含义。"}
-{"raw":"can I finally do","reason":"句子未完成，无法确定后续动作或对象。","source_draft_row":12}
-{"raw":"yeah she's a moment ago","reason":"字幕语序和指代不完整，无法可靠恢复。","source_draft_row":16}
-{"raw":"how do I how do I leave this post off first time","reason":"语音识别结果不连贯，无法确认 post off 的实际词语和动作。","source_draft_row":15}
-{"raw":"I think everyone","reason":"句子在从句中途截断，缺少后续内容。","source_draft_row":22}
-{"raw":"oh she's a blog okay","reason":"ASR词语无法确认，可能是人名或游戏术语。","source_draft_row":35}
-{"raw":"switch to","reason":"指令短语不完整，缺少切换对象。","source_draft_row":37}
-{"raw":"how do you switch to other people when you're five and then you go","reason":"语句严重残缺，无法可靠恢复完整含义。","source_draft_row":37}
-{"raw":"at the right","reason":"独立短语残缺，缺少后续语义。","source_draft_row":54}
-{"raw":"I have","reason":"句子在谓语后中断，无法确定后续表达。","source_draft_row":55}
-{"raw":"put the best five in the four","reason":"字幕中的数字及上下文识别异常，无法确认完整表达。","source_draft_row":79}
-{"raw":"I wish please be the dirt please be","reason":"句子中断且语义无法确定。","source_draft_row":84}
-{"raw":"no is that not no you have to be the","reason":"话轮重叠，句子残缺，无法确认指代对象。","source_draft_row":85}
-{"raw":"I would never keep having to whistle","reason":"语音识别严重错乱，无法可靠恢复。","source_draft_row":85}
-{"raw":"oh she she's missing the","reason":"句子中途截断，无法确认后续宾语。","source_draft_row":90}
-{"raw":"actually a lot of you guys I'm going to give it","reason":"句子在动词后截断，缺少动作对象。","source_draft_row":100}
-{"raw":"the one-sided me","reason":"该片段无法确认具体指代。","source_draft_row":110}
-{"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","source_draft_row":153}
-{"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":156}
-{"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","source_draft_row":159}
-{"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","source_draft_row":188}
-{"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","source_draft_row":189}
-{"raw":"I feel like my","reason":"句子残缺，无法确认后续表达。","source_draft_row":193}
-{"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","source_draft_row":198}
-{"raw":"are we all just","reason":"句子中断，缺少后续谓语。","source_draft_row":199}
-{"raw":"I don't know if","reason":"句子在条件从句中途截断。","source_draft_row":200}
-{"raw":"you were like","reason":"句子残缺，缺少后续内容。","source_draft_row":200}
-{"raw":"oh it's just B some","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":217}
-{"raw":"I'm just I'm just","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":219}
-{"raw":"oh never seen Bay","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":220}
-{"raw":"H","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":223}
-{"raw":"wait we only have","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":223}
-{"raw":"and then turn the drive","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
-{"raw":"country looks","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
-{"raw":"yeah house","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":230}
-{"raw":"herself as a jor","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":232}
-{"raw":"want to be a hidden","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":233}
-{"raw":"oh this doesn't feel like with that because it looks funny","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
-{"raw":"your time","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":234}
-{"raw":"get out of here spot","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":235}
-{"raw":"you could become a little","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":236}
-{"raw":"I'm going to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":237}
-{"raw":"I'm trying to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":239}
-{"raw":"then believe","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":239}
-{"raw":"I'm just not the right","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","source_draft_row":238}
-{"raw":"you guys are so","reason":"句子中途截断，无法确认后续评价内容。","source_draft_row":251}
-{"raw":"you were just point","reason":"ASR识别不完整，无法确认 point 所指含义。","source_draft_row":251}
-{"raw":"but this is","reason":"句子残缺，缺少后续内容。","source_draft_row":251}
-{"raw":"you got","reason":"独立残句，无法确认说话者后续表达。","source_draft_row":251}
-{"raw":"I don't I'll try around the","reason":"语序混乱且句子截断，无法可靠恢复。","source_draft_row":251}
-{"raw":"but you didn't tend to slide it out the other way","reason":"语音识别错乱，无法确认动作描述。","source_draft_row":251}
-{"raw":"it I'm so","reason":"ASR 残缺，缺少可确认的谓语。","source_draft_row":272,"source_segment_indices":[1954]}
-{"raw":"yeah no but then I want no you guys you guys","reason":"对话中多人插话，语句无法可靠切分。","source_draft_row":286}
-{"raw":"no I'm hiding in blank blank in blank blank","reason":"原字幕明确缺失词语，无法恢复具体地点。","source_draft_row":287}
-{"raw":"look like I can't tell","reason":"短语残缺，无法确定说话者要表达的判断。","source_draft_row":288}
-{"raw":"no can't get that from","reason":"句子被截断，缺少后续动作对象。","source_draft_row":289}
-{"raw":"okay so I shall","reason":"句子未完成。","source_draft_row":290}
-{"raw":"I am so hight","reason":"疑似ASR错词，无法确认具体形容词。","source_draft_row":291}
-{"raw":"how do you make things less","reason":"问句未完成，缺少宾语或属性。","source_draft_row":292}
-{"raw":"how do you make things less I don't realize","reason":"句子结构损坏，无法确认完整意思。","source_draft_row":293}
-{"raw":"this so this ain't it","reason":"语序异常且疑似重复识别，需回听确认。","source_draft_row":294}
-{"raw":"what yeah cuz I thought I was like what's that black thing about her neck","reason":"多处语音片段重叠，需回听确认准确措辞。","source_draft_row":295}
-{"raw":"what she would I don't know maybe what about being like one of those something intimidating well so maybe maybe that's I don't go to as much","reason":"该段中间出现语义断裂，尤其是“that's I don't go to as much”缺少可确认指代；只保留可独立确认的话轮。","source_draft_row":325}
-{"raw":"I've been waiting for","reason":"句子被截断，无法确认等待的对象或事件。","source_draft_row":325}
-{"raw":"oh do you really not this map though","reason":"疑似ASR漏词或错词，无法确认是 know 还是 not。","source_draft_row":324}
-{"raw":"there this look of the text","reason":"ASR词组无法可靠恢复，不能根据语境臆造。","source_draft_row":327}
-{"raw":"start doing the after","reason":"短语疑似识别错词，无法确认是 after、other 或其他表达。","source_draft_row":328}
-{"raw":"maybe turn off how do you","reason":"两个未完成片段，缺少可靠语义。","source_draft_row":329}
-{"raw":"I really hope you find","reason":"句子中途改口并由后续重复句完成；保留完整重复句，残片单独待核。","source_draft_row":330}
-{"raw":"I cannot with no pants mine","reason":"口语片段语义不明，不能确定 no pants 与 mine 的关系。","source_draft_row":333}
-{"raw":"I really","reason":"句子中途截断，后续转为另一问句。","source_draft_row":334}
-{"raw":"I'm not","reason":"句子未完成，缺少后续谓语。","source_draft_row":335}
-{"raw":"it is a really big night though it's so bright yeah I didn't realize please I'm right there she's not going to see us she's not going to see us whistle whistle whistle whistle my clip Mike come back don't","reason":"与后续草稿行的同一段字幕发生重叠，且尾部人名/短语识别不可靠；避免重复写入SFT，需回听或核对原始时间段。","source_draft_row":338}
-{"raw":"my clip Mike come back don't you","reason":"字幕尾部“my clip Mike”及话轮边界不清，需回听；上下文可确认前半段，但不能可靠恢复该短语。","source_draft_row":341}
-{"raw":"what is the point there this look of the text","reason":"其中“this look of the text”识别异常，不能可靠判断原词。","source_draft_row":327}
-{"raw":"I want nothing more than right","reason":"字幕识别语义不完整，无法可靠恢复。","source_draft_row":336}
-{"raw":"Maybe if I can...","reason":"条件从句未完成，缺少后续内容。","source_draft_row":357}
-{"raw":"It's a ceiling mode that you...","reason":"术语与句子结构无法确认，不能根据游戏操作背景补全。","source_draft_row":358}
-{"raw":"So, like, um... turn","reason":"语句残缺，可能是口头犹豫与操作指令混合，无法可靠切分。","source_draft_row":359}
-{"raw":"There's got to be... I think...","reason":"话轮中断，无法确认后续表达。","source_draft_row":360}
-{"raw":"Ah, I don't think they'll...","reason":"句子被截断，缺少后续内容。","source_draft_row":361}
-{"raw":"Thanks for fan","reason":"ASR识别异常，无法确认具体词语。","source_draft_row":361}
-{"raw":"I don't know. It's kind of...","reason":"句子中断，缺少后续判断。","source_draft_row":361}
-{"raw":"Is it? Maybe not. Down","reason":"话轮和动作词边界不清，无法可靠恢复。","source_draft_row":361}
-{"raw":"This is not the right...","reason":"句子未完成，缺少对象。","source_draft_row":363}
-{"raw":"It was... I didn't turn to the...","reason":"两处残句，无法确认动作对象。","source_draft_row":363}
-{"raw":"If only the color matching was bad","reason":"疑似形容词识别错误，但无法确认原词。","source_draft_row":364}
-{"raw":"Elizabeth looks like Michael Ducks became a home hi okay aka money god","reason":"ASR严重错乱，无法可靠恢复整段表达。","source_draft_row":364}
-{"raw":"Bread now for the gingerbread party","reason":"语义与语法异常，无法确认是否为“bring bread”等表达。","source_draft_row":366}
-{"raw":"I think she's going to...","reason":"句子中断，未说明后续动作。","source_draft_row":366}
-{"raw":"I don't want to want to make a...","reason":"句子中途断裂，无法确认想制作的对象。","source_draft_row":376}
-{"raw":"These books are so dumb that they're so good","reason":"“books”可能是ASR错词，但无法确认实际名词。","source_draft_row":376}
-{"raw":"Holo centipede","reason":"需回听确认是否为“holo”或其他专名。","source_draft_row":378}
-{"raw":"Okay, don't worry. On the back side, my collab","reason":"“my collab”可能为错词或专名，需回听。","source_draft_row":379}
-{"raw":"I want nothing more than right","reason":"句子严重残缺，无法可靠恢复。","source_draft_row":379}
-{"raw":"A beautiful part of our centing","reason":"“centing”疑似ASR错词，无法确认原词。","source_draft_row":379}
-{"raw":"I just want to be a queen doesn't like bugs","reason":"疑似两个说话者的话轮粘连，需回听确认分句。","source_draft_row":380}
-{"raw":"Hopefully not what it's called","reason":"话轮边界和语义不清，保留待核。","source_draft_row":383}
-{"raw":"Serendipity is not Serendipity","reason":"可能是有意的玩笑或ASR重复，需核对音频。","source_draft_row":383}
-{"raw":"Yes. Going to be in LA and you want the World Serendipity","reason":"后半句可能包含活动名称或ASR错词，无法可靠补全。","source_draft_row":383}
-{"raw":"It's so...","reason":"句子未完成。","source_draft_row":384}
-{"raw":"I really like the, the...","reason":"自我重复后句子中断，后续内容不明确。","source_draft_row":385}
-{"raw":"Very often...","reason":"句子未完成，缺少后续内容。","source_draft_row":386}
-{"raw":"I'm just about...","reason":"句子中断，无法确定后续语义。","source_draft_row":387}
-{"raw":"Pretty good guy. Oh my god. Baby","reason":"ASR片段边界不清，需回听确认是否为连续话语。","source_draft_row":390}
-{"raw":"I think with the right paint","reason":"句子未完成，后续转为不确定的补充语，无法确定完整判断。","source_draft_row":361}
-{"raw":"Gigi, you just went to","reason":"话轮中途截断，后续地点或动作缺失。","source_draft_row":374}
-{"raw":"My painting... A little bit","reason":"字幕片段不完整，无法确认是在描述画作还是修饰其他内容。","source_draft_row":375}
-{"raw":"I don't want to be the bad holo centipede","reason":"“bad”可能是“back”的ASR错词，但缺少音频证据确认。","source_draft_row":378}
-{"raw":"On the back side, my collab","reason":"短语中的“my collab”无法可靠识别，单独保留待核。","source_draft_row":379}
-{"raw":"I'm just...","reason":"自我起句未完成，缺少后续内容。","source_draft_row":387}
-{"raw":"Herb is still okay. Oh, but Re is in her situ.","reason":"“situ”是残缺识别词，无法确认完整词语或指代。","source_draft_row":395,"source_segment_indices":[167,168]}
-{"raw":"Twenty-five.","reason":"孤立数字缺少单位和具体指代，暂不猜测是秒数或其他数值。","source_draft_row":396,"source_segment_indices":[192]}
-{"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":402,"source_segment_indices":[671]}
-{"raw":"Y.","reason":"孤立字母/音节，无法判断是否为语音、名字或ASR噪声。","source_draft_row":403,"source_segment_indices":[702]}
-{"raw":"Luigi wins strategy.","reason":"字幕语义不完整，无法确认是玩家发言、系统提示还是ASR误识别。","source_draft_row":405,"source_segment_indices":[174]}
-{"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。"}
-{"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。"}
-{"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。"}
-{"draft_row":278,"raw":"You know, if you hear the phrase order, it means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。"}
-{"draft_row":280,"raw":"Of course, ... is the one to kill the tour guide.","reason":"缺少明确主语，无法确认人物指代。"}
-{"draft_row":310,"raw":"Anna.","reason":"孤立人名/音节，无法确认是否为称呼或ASR噪声。"}
-{"draft_row":314,"raw":"Who's Who keeps shooting?","reason":"人名/游戏术语识别不确定，需回听。"}
-{"draft_row":316,"raw":"Reparative.","reason":"词语识别异常，无法确认原词。"}
-{"draft_row":349,"raw":"1800.","reason":"孤立数字，无法确定是分数、时间还是其他数值。"}
-{"draft_row":350,"raw":"Freaking.","reason":"孤立语气词，缺少足够上下文确认完整表达。"}
-{"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。"}
-{"raw":"big bow","reason":"原始字幕中的短语无法确认，且与后续问句存在话轮边界；不根据上下文猜测专名或词语。","source_draft_row":19}
-{"raw":"how do you pay","reason":"字幕识别为 pay；虽然上下文涉及绘画操作，但没有音频证据确认应为 paint。","source_draft_row":32}
-{"raw":"are you","reason":"孤立句尾残片，缺少前文，无法确定其完整问句或指代。","source_draft_row":48}
-{"raw":"wow really neither are you","reason":"该片段依赖前文且涉及多话轮，缺少被回应内容，无法可靠确定语义。","source_draft_row":48}
-{"raw":"the way it's going to figure it out","reason":"原字幕句法和指代不清，不能无依据改写为“I will figure it out”。","source_draft_row":52}
-{"raw":"If I was","reason":"孤立的条件从句起始片段，后续由另一话轮重新起句，无法单独构成可靠样本。","source_draft_row":61}
-{"raw":"I'm bad at B","reason":"句尾识别片段中的 B 所指不明，可能是未完成的自我修正。","source_draft_row":66}
-{"raw":"yeah probably want","reason":"句子在 want 后中断，缺少宾语；不根据下一话轮补全。","source_draft_row":67}
-{"raw":"or do you think she","reason":"问句在从句中途截断，后续由另一说话者接续，不能补全。","source_draft_row":69}
-{"raw":"the cl","reason":"ASR片段在单词中途截断，无法确认 cl 的完整词语。","source_draft_row":75}
-{"raw":"oh lo and","reason":"句子起始处的短语无法确认，不能据此补出人物或动作。","source_draft_row":82}
-{"raw":"look your","reason":"说话者在 look your 处中断，缺少完整指代和谓语。","source_draft_row":83}
-{"raw":"it's a check out","reason":"字幕识别为 check out，无法根据当前上下文确认其具体含义；不能推断为 giveaway。","source_draft_row":91}
-{"raw":"Bale zoo","reason":"字幕识别短语无法确认，可能是人名、口误或ASR错误。","source_draft_row":98}
-{"raw":"Ending Iris","reason":"片段可能是人名或操作词，也可能是ASR错误，无法确认完整表达。","source_draft_row":98}
-{"raw":"why am I so","reason":"句子中途截断，缺少后续谓语。","source_draft_row":100}
-{"raw":"it's so","reason":"句子未完成，缺少后续内容。","source_draft_row":101}
-{"raw":"I this color","reason":"语句残缺，无法确定 I this color 的实际词语和句法关系。","source_draft_row":105}
-{"raw":"press down the","reason":"操作指令被截断，缺少后续按键或对象。","source_draft_row":107}
-{"raw":"can I get inside my the dude","reason":"ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。","source_draft_row":111}
-{"raw":"unless that good","reason":"短语不完整，无法确认 unless 后的具体表达。","source_draft_row":112}
-{"raw":"oh there seconds wait rotate wait","reason":"多个短片段连续识别，词语边界和动作含义不清。","source_draft_row":112}
-{"raw":"this is what","reason":"句子在 what 后中断，缺少后续内容。","source_draft_row":112}
-{"raw":"okay that looks","reason":"句子中途截断，缺少后续谓语或评价对象。","source_draft_row":114}
-{"raw":"everyone's soy not last","reason":"ASR短语语义不明，无法确认 soy 和 not last 的关系。","source_draft_row":119}
-{"raw":"she do it","reason":"句子结构不完整，无法确认是疑问、陈述还是自我修正。","source_draft_row":122}
-{"raw":"yeah I am a","reason":"句子在冠词后中断，缺少后续名词或补语。","source_draft_row":130}
-{"raw":"I'm hoping hidden behind this couch","reason":"句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。","source_draft_row":131}
-{"raw":"position my my favorite sausage","reason":"操作指令与名词短语粘连，无法可靠恢复完整句意。","source_draft_row":132}
-{"raw":"it's really","reason":"句子在 really 后中断，缺少后续内容。","source_draft_row":133}
-{"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","source_draft_row":182}
-{"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","source_draft_row":183}
-{"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","source_draft_row":190}
-{"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","source_draft_row":177}
-{"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","source_draft_row":177}
-{"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","source_draft_row":177}
-{"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","source_draft_row":188}
-{"raw":"I had one in me","reason":"代词 one 的具体指代不明，无法确认说的是口哨、玩家还是其他对象。","source_draft_row":162}
-{"raw":"oh the person this thing","reason":"ASR短片段缺少完整句法和指代对象，不能补出人物或物品。","source_draft_row":165}
-{"raw":"you found be at least","reason":"be 可能是人名或ASR识别错误，未确认前不改写为 Bae 等名字。","source_draft_row":165}
-{"raw":"oh when you","reason":"条件/时间从句被截断，没有可核实的后续内容。","source_draft_row":168}
-{"raw":"your spot knowledge takes anymore","reason":"ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。","source_draft_row":172}
-{"raw":"oh god what a","reason":"感叹句在冠词后截断，缺少可恢复的宾语或评价。","source_draft_row":175}
-{"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","source_draft_row":175}
-{"raw":"150 is a little","reason":"比较句在 little 后中断，缺少评价内容。","source_draft_row":199}
-{"raw":"this will go","reason":"句子在 go 后中断，无法确认说话者准备表达的判断。","source_draft_row":208}
-{"raw":"without moving room","reason":"字幕在 moving 与 room 之间的词语边界不清，无法确认完整操作指令。","source_draft_row":209}
-{"raw":"just barely not","reason":"短语中途截断，无法确认完整判断。","source_draft_row":205}
-{"raw":"How do I get this coloring this","reason":"操作问句的结尾词语不清，无法确认准确表达。","source_draft_row":205}
-{"raw":"They keep telling","reason":"句子在 telling 后中断，缺少后续内容。","source_draft_row":206}
-{"raw":"Time to","reason":"动作短语被截断，缺少后续内容。","source_draft_row":212}
-{"raw":"I have to give her","reason":"句子在 give her 后中断，缺少后续内容。","source_draft_row":227}
-{"raw":"you can't see any","reason":"句子在 any 后中断，缺少被指代的对象。","source_draft_row":219}
-{"raw":"like Callie is up by last time","reason":"人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。","source_draft_row":216}
-{"raw":"did","reason":"句子从助动词开始即被截断，无法确认完整问题。","source_draft_row":231}
-{"raw":"level two little bed","reason":"ASR短语缺少清晰词语边界，无法确认具体含义。","source_draft_row":231}
-{"raw":"going to promise","reason":"缺少明确主语，无法确认该片段的完整表达。","source_draft_row":232}
-{"raw":"it's my","reason":"句子在 my 后中断，缺少后续内容。","source_draft_row":233}
-{"raw":"that looks","reason":"句子在 looks 后中断，缺少后续内容。","source_draft_row":234}
-{"raw":"not that other","reason":"比较对象缺失，句子不完整。","source_draft_row":236}
-{"raw":"spin your","reason":"动作指令在 your 后中断，缺少动作对象。","source_draft_row":241}
-{"raw":"I so cooked","reason":"该短语语法残缺，无法确认是否漏识别助动词。","source_draft_row":242}
-{"raw":"I mean it seems like it already","reason":"句子在 already 后中断，缺少后续内容。","source_draft_row":242}
-{"raw":"so","reason":"单独的连接词或语气词，无法确认其后续表达。","source_draft_row":244}
-{"raw":"said don't try anything funny","reason":"句子缺少明确主语，无法确认是谁发出该提醒。","source_draft_row":245}
-{"raw":"you're trying to","reason":"句子在 to 后中断，缺少动作内容。","source_draft_row":245}
-{"raw":"this is","reason":"句子在 is 后中断，缺少表语或补充内容。","source_draft_row":247}
-{"raw":"there's really just a lot of","reason":"句子在 of 后中断，缺少被描述的对象。","source_draft_row":250}
-{"raw":"but","reason":"转折连词位于片段末尾，后续内容缺失。","source_draft_row":250}
-{"raw":"I...","reason":"单词 I 后被截断，无法确定所指动作。","source_draft_row":271,"source_segment_indices":[1943]}
-{"raw":"this color was it","reason":"颜色指代和问句边界不清，不猜测完整问句。","source_draft_row":273,"source_segment_indices":[1959]}
-{"raw":"so once again","reason":"连接片段不完整，后续意图不清。","source_draft_row":274,"source_segment_indices":[1960,1961]}
-{"raw":"time for that","reason":"that 所指动作不明。","source_draft_row":274,"source_segment_indices":[1963]}
-{"raw":"might as well just paint as a neg","reason":"neg 的名称/含义不确定，不能猜专名。","source_draft_row":275,"source_segment_indices":[1969]}
-{"raw":"should we just become a naggie","reason":"naggie 可能是名称或 ASR 错误。","source_draft_row":275,"source_segment_indices":[1970]}
-{"raw":"what if she doesn't fight any of us","reason":"躲藏场景中可能为 find，但原字幕为 fight，证据不足。","source_draft_row":275,"source_segment_indices":[1971]}
-{"raw":"wish we would hide","reason":"原句疑似缺词，不补充未确认的问句或主语。","source_draft_row":276,"source_segment_indices":[1980]}
-{"raw":"Osaka got to be more","reason":"字幕残缺且疑似 ASR 错误。","source_draft_row":277,"source_segment_indices":[1984]}
-{"raw":"wasn't my spot wonderful story","reason":"主谓和指代不清，不能拼成确定命题。","source_draft_row":279,"source_segment_indices":[1993]}
-{"raw":"I","reason":"句子开头被打断，后续发言另行保留。","source_draft_row":279,"source_segment_indices":[1994]}
-{"raw":"have someone not hanging their clothes","reason":"缺乏能够确定含义的字幕证据。","source_draft_row":279,"source_segment_indices":[1997,1998]}
+{"raw": "Mechan", "reason": "Uncertain ASR, keep separate from clear Extreme Chameleon.", "source_segment_indices": [9], "accepted_spans": []}
+{"raw": "Can I finally do", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [20, 21], "accepted_spans": []}
+{"raw": "for random metallic?", "reason": "Unclear opening fragment; the next statement is separately recovered, not converted into a question.", "source_segment_indices": [22], "accepted_spans": []}
+{"raw": "How do I How do I leave this post off first time?", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [25, 26], "accepted_spans": []}
+{"raw": "Yeah, she's a moment ago.", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [27, 28], "accepted_spans": []}
+{"raw": "big bow", "reason": "Uncertain/incomplete ASR, kept without inventing meaning.", "source_segment_indices": [35], "accepted_spans": []}
+{"raw": "I think everyone", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [45, 46], "accepted_spans": []}
+{"raw": "How do I", "reason": "Abandoned question; do not invent object.", "source_segment_indices": [55], "accepted_spans": []}
+{"raw": "I want to do I want to", "reason": "Unfinished attempt; do not invent do it.", "source_segment_indices": [71, 72], "accepted_spans": []}
+{"raw": "How do you pay?", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [75], "accepted_spans": []}
+{"raw": "How do you How do you when you're rocking?", "reason": "Incomplete construction, cannot replace rocking with moving without evidence.", "source_segment_indices": [76, 77], "accepted_spans": []}
+{"raw": "Oh, she's a blog. Okay.", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [83], "accepted_spans": []}
+{"raw": "Switch to", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [90], "accepted_spans": []}
+{"raw": "How do you switch to other people when you're five and then you go", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [91, 92, 93], "accepted_spans": []}
+{"raw": "Need my other loi.", "reason": "Uncertain ASR final word; do not silently omit a potentially meaningful music category.", "source_segment_indices": [119, 120], "accepted_spans": []}
+{"raw": "She do circus music.", "reason": "Uncertain ASR: cannot establish whether this is an instruction or an observation.", "source_segment_indices": [132], "accepted_spans": []}
+{"raw": "Oh, but Re is in her situ.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [167, 168], "accepted_spans": []}
+{"raw": "Luigi wins strategy.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [174], "accepted_spans": []}
+{"raw": "Never bunn it.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [175], "accepted_spans": []}
+{"raw": "In the same taunt. You got a taunt. I'm not going to talk.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [184, 185, 186], "accepted_spans": []}
+{"raw": "There is there is a there is", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [187], "accepted_spans": []}
+{"raw": "so Gigi can put on the like the go off 30 seconds.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [188, 189], "accepted_spans": []}
+{"raw": "How do you auto?", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [202], "accepted_spans": []}
+{"raw": "We we", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [209, 210], "accepted_spans": []}
+{"raw": "I think I think", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [216], "accepted_spans": []}
+{"raw": "How do you get really?", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [219], "accepted_spans": []}
+{"raw": "What's the What's the difference between 1.0 1.4 for one point. That's the I think that's the size of what you want to be.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [222, 223, 224, 225], "accepted_spans": []}
+{"raw": "She already.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [233], "accepted_spans": []}
+{"raw": "Here's my a gay.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [249], "accepted_spans": []}
+{"raw": "Guess we're taking to hide.", "reason": "Uncertain or incomplete ASR; retain exact source context.", "source_segment_indices": [251], "accepted_spans": []}
+{"raw": "The way it's going to figure it out.", "reason": "Uncertain/incomplete ASR, kept without inventing meaning.", "source_segment_indices": [288], "accepted_spans": []}
+{"raw": "at the right.", "reason": "Uncertain/incomplete ASR, kept without inventing meaning.", "source_segment_indices": [292], "accepted_spans": []}
+{"raw": "I have", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [295], "accepted_spans": []}
+{"raw": "If I was", "reason": "Uncertain source fragment.", "source_segment_indices": [317], "accepted_spans": []}
+{"raw": "I'm bad at B.", "reason": "Uncertain source fragment.", "source_segment_indices": [342], "accepted_spans": []}
+{"raw": "probably want.", "reason": "Uncertain source fragment.", "source_segment_indices": [346], "accepted_spans": []}
+{"raw": "Do you think she's hiding this time or do you think she", "reason": "Uncertain source fragment.", "source_segment_indices": [352, 353], "accepted_spans": ["Do you think she's hiding this time"]}
+{"raw": "Just like real life. Just like in real life. The cl Hey. Hey, that sounds like it was over here.", "reason": "Uncertain source fragment.", "source_segment_indices": [383, 384, 385], "accepted_spans": []}
+{"raw": "H.", "reason": "Uncertain source fragment.", "source_segment_indices": [387], "accepted_spans": []}
+{"raw": "He thinks it's because I I ted my cleavage on.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [393, 394, 395], "accepted_spans": []}
+{"raw": "Only 40 whistle again. I know people.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [406], "accepted_spans": []}
+{"raw": "The the red icons. Oh, it's", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [427], "accepted_spans": []}
+{"raw": "I'm so scared of your short. You were so close to me so many times.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [443, 444], "accepted_spans": ["You were so close to me so many times."]}
+{"raw": "No one expected me to be right now. What the hell?", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [445, 446], "accepted_spans": []}
+{"raw": "What you", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [452], "accepted_spans": []}
+{"raw": "I'll be medium cuz I'm", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [470], "accepted_spans": []}
+{"raw": "Oh, okay. I guess the maze of Japanese. Oh,", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [475, 476], "accepted_spans": []}
+{"raw": "Why would you love [ __ ] Why would you hide?", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [478, 479], "accepted_spans": ["Why would you hide?"]}
+{"raw": "Oh, wait. This map is", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [480], "accepted_spans": []}
+{"raw": "Uh uh uh.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [488], "accepted_spans": []}
+{"raw": "What the heck was that? is now trying.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [489, 490], "accepted_spans": ["What the heck was that?"]}
+{"raw": "Let's go. How do I change my garbage bump? Ah,", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [498, 499], "accepted_spans": ["Let's go."]}
+{"raw": "How do you go to second?", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [504], "accepted_spans": []}
+{"raw": "No, my good will protect you. Boo. Right.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [517, 518], "accepted_spans": []}
+{"raw": "Here. Go anymore. It's okay.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [526, 527, 528], "accepted_spans": ["It's okay."]}
+{"raw": "I think this is she's hungry.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [535], "accepted_spans": []}
+{"raw": "How do I fly flat down?", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [536], "accepted_spans": []}
+{"raw": "How do I lie flat down? A. You know what? Fine. Ah, but it’s not a good but", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [539, 540], "accepted_spans": ["How do I lie flat down?", "A.", "You know what? Fine."]}
+{"raw": "I think I just left another side. Other side. People are going to be looking and trying to match the shadow.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [542, 543, 544, 545], "accepted_spans": ["Other side. People are going to be looking and trying to match the shadow."]}
+{"raw": "I can't. My ex is on paint.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [546, 547], "accepted_spans": []}
+{"raw": "You can make still clone. Oh my gosh.", "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered.", "source_segment_indices": [553], "accepted_spans": []}
+{"raw": "Put the best five in the four.", "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion.", "source_segment_indices": [578], "accepted_spans": []}
+{"raw": "Look your", "reason": "Unfinished phrase; do not silently change your to you are.", "source_segment_indices": [596, 597, 598, 599], "accepted_spans": []}
+{"raw": "We're all in the climb.", "reason": "Meaning of climb in this phrase is unclear.", "source_segment_indices": [596, 597, 598, 599], "accepted_spans": []}
+{"raw": "I wish. Please be the dirt. Please be", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [598, 599], "accepted_spans": []}
+{"raw": "No. Is that not? No, you have to be the", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [600, 601], "accepted_spans": []}
+{"raw": "I can press.", "reason": "Unfinished action with no object; do not invent it.", "source_segment_indices": [606], "accepted_spans": []}
+{"raw": "It's a check out.", "reason": "Unclear ASR phrase; not giveaway.", "source_segment_indices": [643], "accepted_spans": []}
+{"raw": "Y.", "reason": "Isolated letter or ASR syllable; no reliable lexical meaning.", "source_segment_indices": [671], "accepted_spans": []}
+{"raw": "With me.", "reason": "Isolated phrase has no reliable interrogative intent.", "source_segment_indices": [672, 673, 674], "accepted_spans": []}
+{"raw": "Hunter block.", "reason": "Unclear noun phrase; do not invent hunter is blocked.", "source_segment_indices": [686, 687, 688], "accepted_spans": []}
+{"raw": "Bale zoo.", "reason": "Unresolved ASR/name phrase; do not guess.", "source_segment_indices": [690], "accepted_spans": []}
+{"raw": "Ending Iris.", "reason": "Unclear whether this is a name or interrupted command; do not infer.", "source_segment_indices": [694], "accepted_spans": []}
+{"raw": "Y.", "reason": "Isolated letter or ASR syllable, distinct real occurrence from671.", "source_segment_indices": [702], "accepted_spans": []}
+{"raw": "Why am I so", "reason": "Question stops before its predicate; retain incomplete source.", "source_segment_indices": [706], "accepted_spans": []}
+{"raw": "It's so", "reason": "Sentence stops before its complement.", "source_segment_indices": [713], "accepted_spans": []}
+{"raw": "If this is not", "reason": "Unfinished qualification attached to preceding vertical question.", "source_segment_indices": [729, 730], "accepted_spans": []}
+{"raw": "I this color", "reason": "Unclear missing predicate; retain exact fragment.", "source_segment_indices": [735], "accepted_spans": []}
+{"raw": "Press down the", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [747, 748], "accepted_spans": []}
+{"raw": "Okay. That's", "reason": "Self-interrupted demonstrative phrase; do not add predicate.", "source_segment_indices": [765], "accepted_spans": []}
+{"raw": "Can I get inside my the dude?", "reason": "The referent and ASR noun boundary cannot be reliably resolved.", "source_segment_indices": [772], "accepted_spans": []}
+{"raw": "Unless that good", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [777], "accepted_spans": []}
+{"raw": "Oh, there seconds", "reason": "Fragmented ASR interjection with unresolved timing reference.", "source_segment_indices": [778, 779], "accepted_spans": []}
+{"raw": "This is what", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [781], "accepted_spans": []}
+{"raw": "Okay, that looks", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [791], "accepted_spans": []}
+{"raw": "To find yourself.", "reason": "Unfinished purpose phrase; no imperative or necessity is stated.", "source_segment_indices": [801], "accepted_spans": []}
+{"raw": "Everyone's soy. Not last.", "reason": "Meaning of soy and not last cannot be established from these ASR words.", "source_segment_indices": [819, 820], "accepted_spans": []}
+{"raw": "She do it.", "reason": "Text alone cannot establish whether this was a command or an observation.", "source_segment_indices": [844], "accepted_spans": []}
+{"raw": "Oh, she she's missing the", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [867, 868], "accepted_spans": []}
+{"raw": "Yeah, I am a", "reason": "Incomplete predicate ends after article.", "source_segment_indices": [897], "accepted_spans": []}
+{"raw": "I'm hoping hidden behind this couch.", "reason": "Unclear subject/object of hope; do not invent who is hidden.", "source_segment_indices": [902, 903], "accepted_spans": []}
+{"raw": "Position my my favorite sausage.", "reason": "Unclear ASR phrase and speaker boundary; do not infer an instruction.", "source_segment_indices": [907, 908], "accepted_spans": []}
+{"raw": "It's really", "reason": "Sentence ends before adjective or complement.", "source_segment_indices": [913, 914], "accepted_spans": []}
+{"raw": "Actually, a lot of you guys I'm going to give it", "reason": "Incomplete action/object, with interrupted leading phrase.", "source_segment_indices": [927, 928], "accepted_spans": []}
+{"raw": "Infection.", "reason": "Detached mode word has unclear link to preceding statement.", "source_segment_indices": [961, 962, 963], "accepted_spans": []}
+{"raw": "The one-sided me.", "reason": "Unclear nominal phrase; retain source determiner from preceding caption.", "source_segment_indices": [964, 965], "accepted_spans": []}
+{"raw": "every", "reason": "Extraneous/incomplete ASR fragment at sentence boundary; clear balloon question preserved separately.", "source_segment_indices": [968], "accepted_spans": []}
+{"raw": "H.", "reason": "Isolated letter/syllable, not reliably identifiable.", "source_segment_indices": [992], "accepted_spans": []}
+{"raw": "No, you thought Secretary.", "reason": "Uncertain ASR noun/name and intended statement.", "source_segment_indices": [1062], "accepted_spans": []}
+{"raw": "They sound so close, but I am so", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1081], "accepted_spans": []}
+{"raw": "Someone H was just random.", "reason": "H and referent cannot be reliably resolved.", "source_segment_indices": [1104, 1105], "accepted_spans": []}
+{"raw": "Oh, the person this thing.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1141], "accepted_spans": []}
+{"raw": "No, it's okay. I'm blind, too. You found be at least.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1144, 1145], "accepted_spans": ["No, it's okay. I'm blind, too."]}
+{"raw": "when you", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1164], "accepted_spans": []}
+{"raw": "Should we do like a last timer for it then for like the actual? Yeah.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1175, 1176, 1177], "accepted_spans": ["Yeah."]}
+{"raw": "Yeah. We can't say where we are because Yeah. become a hunter.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1178, 1179, 1180], "accepted_spans": ["Yeah. We can't say where we are", "Yeah.", "become a hunter."]}
+{"raw": "Takes anymore. Okay.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1194], "accepted_spans": []}
+{"raw": "Oh god. What a", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1212], "accepted_spans": []}
+{"raw": "Where should I", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1214], "accepted_spans": []}
+{"raw": "Mhm. Maybe any of you could become Emones at any moment.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1224, 1225, 1226], "accepted_spans": []}
+{"raw": "How do you put I can see my mind is picture on. You got to make that yourself, you know.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1230, 1231, 1232, 1233], "accepted_spans": ["You got to make that yourself, you know."]}
+{"raw": "Oh, just by like an artist spamming yourself.", "reason": "Uncertain or incomplete ASR; clear subspans recorded separately.", "source_segment_indices": [1234, 1235], "accepted_spans": []}
+{"raw": "I got to go within.", "reason": "The intended action/referent of within is unclear in this ASR fragment.", "source_segment_indices": [1256], "accepted_spans": []}
+{"raw": "It's not do space bar and then", "reason": "Damaged command fragment stops before next action; no inferred key sequence.", "source_segment_indices": [1267], "accepted_spans": []}
+{"raw": "Should I get", "reason": "Question stops before object.", "source_segment_indices": [1297], "accepted_spans": []}
+{"raw": "Do you need to move coals or", "reason": "Voice-call context suggests calls, but unfinished alternative after or cannot be supplied. Preserve entire literal incomplete question rather than only move coals.", "source_segment_indices": [1302], "accepted_spans": []}
+{"raw": "Never move over.", "reason": "Unclear intended action and whether Never is ASR corruption; avoid inferring instruction.", "source_segment_indices": [1314], "accepted_spans": []}
+{"raw": "I feel like my", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1331, 1332], "accepted_spans": []}
+{"raw": "I senpai.", "reason": "ASR name/predicate unclear.", "source_segment_indices": [1337], "accepted_spans": []}
+{"raw": "You can't go this.", "reason": "Unfinished restriction lacks object/action.", "source_segment_indices": [1374], "accepted_spans": []}
+{"raw": "It was", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1376], "accepted_spans": []}
+{"raw": "Are we all just", "reason": "Question stops before verb/complement.", "source_segment_indices": [1381], "accepted_spans": []}
+{"raw": "150 is a little", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1382], "accepted_spans": []}
+{"raw": "I don't know if", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1386], "accepted_spans": []}
+{"raw": "You were like", "reason": "Unfinished ASR fragment; preserve separately, do not infer missing content.", "source_segment_indices": [1389], "accepted_spans": []}
+{"raw": "I'm still try this one for once.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1390, 1391], "accepted_spans": []}
+{"raw": "How about you? I don't know about this, but just barely not.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1414, 1415, 1416], "accepted_spans": ["How about you?"]}
+{"raw": "How do I get this coloring this?", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1418], "accepted_spans": []}
+{"raw": "Oh my god. telling me to hang my body too much. Really? This is very much in", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1419, 1420], "accepted_spans": []}
+{"raw": "And", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1422], "accepted_spans": []}
+{"raw": "They keep telling they're so strict.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1424], "accepted_spans": ["they're so strict."]}
+{"raw": "Maybe I should be a bit more blue. No, I think this will go", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1430, 1431], "accepted_spans": ["Maybe I should be a bit more blue."]}
+{"raw": "I want to turn my body. How do I turn my body without moving room?", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1434, 1435, 1436], "accepted_spans": ["I want to turn my body. How do I turn my body without moving"]}
+{"raw": "I have no idea. Let's just maybe um", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1438, 1439, 1440], "accepted_spans": ["I have no idea."]}
+{"raw": "Let's figure out it's still too in colorwise.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1442, 1443], "accepted_spans": []}
+{"raw": "What if I want to turn my There a better Maybe there's a better", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1445, 1446], "accepted_spans": []}
+{"raw": "Time to Oh, what have I done?", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1458, 1459], "accepted_spans": ["Oh, what have I done?"]}
+{"raw": "Like Callie is up by last time.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1489], "accepted_spans": []}
+{"raw": "Oh, it's just B some. Is it B? Oh, B.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1497, 1498], "accepted_spans": ["Is it B? Oh, B."]}
+{"raw": "I'm just I'm just", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1514], "accepted_spans": []}
+{"raw": "Oh my god. How do you Okay. H. Wait. We only have Oh god. Nice.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1540, 1541, 1542], "accepted_spans": []}
+{"raw": "It's a good idea. I think it also just depends on the map cuz last time I was like,", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1548, 1549, 1550], "accepted_spans": ["It's a good idea. I think it also just depends on the map"]}
+{"raw": "Really good though. I have to give her.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1575], "accepted_spans": ["Really good though."]}
+{"raw": "Like a soul. I love this one. Why can't I see names?", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1581, 1582], "accepted_spans": ["I love this one. Why can't I see names?"]}
+{"raw": "And then turn the drive.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1597], "accepted_spans": []}
+{"raw": "Country looks.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1600], "accepted_spans": []}
+{"raw": "Why not? Who says who says country is pretty big? Oh, okay. That's why people level two little bed.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1607, 1608, 1609, 1610], "accepted_spans": ["Why not? Who says who says country is pretty big? Oh, okay."]}
+{"raw": "Indo country.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1614], "accepted_spans": []}
+{"raw": "Herself as a jor.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1616], "accepted_spans": []}
+{"raw": "Don't get me if you see me. going to promise. I promise you.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1618, 1619], "accepted_spans": ["Don't get me if you see me."]}
+{"raw": "It's my meadows. Meadows. Meadows.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1623, 1624, 1625], "accepted_spans": ["meadows. Meadows. Meadows."]}
+{"raw": "Hide. Want to be a hidden.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1628], "accepted_spans": []}
+{"raw": "Oh, this doesn't feel like with that because it looks funny.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1634, 1635], "accepted_spans": []}
+{"raw": "Get out of here spot. Oh.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1639], "accepted_spans": []}
+{"raw": "You could become a little", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1649], "accepted_spans": []}
+{"raw": "It's nice during hiding time you can't see other people running kind of stuck.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1650, 1651], "accepted_spans": []}
+{"raw": "Not that other just a little jump there.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1653, 1654], "accepted_spans": ["just a little jump there."]}
+{"raw": "I'm going to", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1662], "accepted_spans": []}
+{"raw": "I'm just not the right.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1668], "accepted_spans": []}
+{"raw": "We're out of time. You have 100 seconds. I'm trying to then believe.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1673, 1674, 1675, 1676, 1677, 1678], "accepted_spans": ["We're out of time. You have 100 seconds."]}
+{"raw": "Spin your Oh my god. Ah, that's that's from different angles, though. One second.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1688, 1689, 1690], "accepted_spans": ["that's that's from different angles, though. One second."]}
+{"raw": "Said don't try anything funny. Don't try anything funny. You're trying to Oh, that's really bad.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1709, 1710, 1711], "accepted_spans": ["Said don't try anything funny. Don't try anything funny.", "that's really bad."]}
+{"raw": "Not the camera. Not the camera yourself. Yes. Keep busing. Keep busing. Keep busing.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1714, 1715, 1716], "accepted_spans": ["Not the camera. Not the camera yourself. Yes."]}
+{"raw": "Are we gone? Stay away. Stay away. Stay away. Stay away. Okay, then I can stay away from me.", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1747, 1748, 1749], "accepted_spans": ["Are we gone? Stay away. Stay away. Stay away. Stay away."]}
+{"raw": "Yeah, there's really just a lot of The ruffies didn't believe in us. But", "reason": "Uncertain/incomplete ASR; separately accepted clear subspans remain covered.", "source_segment_indices": [1754, 1755, 1756], "accepted_spans": ["Yeah, there's really just a lot of"]}
+{"raw": "The one who did. Hi. Hi.", "reason": "The initial fragment is unclear; the clear greetings are separately recovered.", "source_segment_indices": [1766], "accepted_spans": ["Hi. Hi."]}
+{"raw": "Nobody will.", "reason": "Unfinished clause; cannot determine the omitted action.", "source_segment_indices": [1775], "accepted_spans": []}
+{"raw": "Smells like", "reason": "Unfinished smell comparison, without a recoverable complement.", "source_segment_indices": [1809], "accepted_spans": []}
+{"raw": "You guys are so", "reason": "Unfinished assessment of the group.", "source_segment_indices": [1833], "accepted_spans": []}
+{"raw": "You were just point.", "reason": "Unclear incomplete phrase 'You were just point.'", "source_segment_indices": [1841], "accepted_spans": []}
+{"raw": "All right. Sorry, guys. I got to jet. I got to head to studio. But this is", "reason": "Departure statement recovered separately; trailing 'But this is' incomplete.", "source_segment_indices": [1842, 1843], "accepted_spans": ["All right. Sorry, guys. I got to jet. I got to head to studio."]}
+{"raw": "I was getting really that big. There's a lot of opportunities for camouflage. You got", "reason": "Malformed opening and unfinished ending; clear camouflage sentence recovered separately.", "source_segment_indices": [1859, 1860, 1861], "accepted_spans": ["There's a lot of opportunities for camouflage."]}
+{"raw": "Okay. just", "reason": "Clear 'Okay' recovered separately; trailing 'just' incomplete.", "source_segment_indices": [1877], "accepted_spans": ["Okay."]}
+{"raw": "uh do you think I could do it? I don't. I'll try around the I'm going to do it.", "reason": "Question and commitment recovered separately; intervening fragments remain uncertain.", "source_segment_indices": [1878, 1879], "accepted_spans": ["uh do you think I could do it?", "I'm going to do it."]}
+{"raw": "Oh, you have to put metallic up to one and the roughness to zero to make it look velocity.", "reason": "Clear material-setting instructions recovered separately; 'look velocity' unresolved.", "source_segment_indices": [1887, 1888, 1889], "accepted_spans": ["Oh, you have to put metallic up to one and the roughness to zero"]}
+{"raw": "All right. Better hope it's a little bit rough, but you didn't tend to slide it out the other way.", "reason": "Intended sliding/roughness instruction cannot be reliably reconstructed; clear initial reaction recovered separately.", "source_segment_indices": [1906, 1907, 1908, 1909], "accepted_spans": ["All right."]}
+{"raw": "You know what? Whatever. Good enough. I", "reason": "Clear good-enough reaction recovered separately; trailing I unfinished.", "source_segment_indices": [1943], "accepted_spans": ["You know what? Whatever. Good enough."]}
+{"raw": "it I'm so", "reason": "Unfinished it/I'm so phrase.", "source_segment_indices": [1954], "accepted_spans": []}
+{"raw": "This color. Was it?", "reason": "Unclear color question 'This color. Was it?'.", "source_segment_indices": [1959], "accepted_spans": []}
+{"raw": "That's better. Check on the side. So, once again,", "reason": "Clear assessment/instruction recovered separately; trailing so once again unfinished.", "source_segment_indices": [1960, 1961], "accepted_spans": ["That's better. Check on the side."]}
+{"raw": "Time for that. Never cook again, I say to myself.", "reason": "Time-for-that fragment unresolved; complete cooking remark recovered separately.", "source_segment_indices": [1963, 1964], "accepted_spans": ["Never cook again, I say to myself."]}
+{"raw": "Might as well just paint as a neg. Should we just become a naggie? What if she doesn't fight any of us?", "reason": "Unclear neg/naggie and fight/find recognition; do not guess a name or verb.", "source_segment_indices": [1969, 1970, 1971], "accepted_spans": []}
+{"raw": "Wish we would hide.", "reason": "Unclear wish-we-would-hide statement.", "source_segment_indices": [1980], "accepted_spans": []}
+{"raw": "Uh, yeah. Osaka got to be more also home to Universal Studios Japan.", "reason": "Malformed Osaka-more-home phrase; clear acknowledgment and destination fragment recovered separately.", "source_segment_indices": [1984, 1985], "accepted_spans": ["Uh, yeah.", "also home to Universal Studios Japan."]}
+{"raw": "Um I'm the tour guide. Of course I've been to Osaka. You know, if you hear the phrase order, it means eat until you drop. It's practically.", "reason": "Clear guide assertion and literal phrase explanation recovered separately; unfinished practically remains unresolved.", "source_segment_indices": [1989, 1990, 1991, 1992], "accepted_spans": ["Um I'm the tour guide. Of course I've been to Osaka.", "You know, if you hear the phrase order, it means eat until you drop."]}
+{"raw": "Yes. Have someone not hanging their clothes.", "reason": "Clear Yes recovered separately; have-someone-not-hanging-clothes fragment unclear.", "source_segment_indices": [1997, 1998], "accepted_spans": ["Yes."]}
+{"raw": "is the one to kill the tour guide.", "reason": "Missing subject of the tour-guide killing remark.", "source_segment_indices": [2005], "accepted_spans": []}
+{"raw": "Off. Yes. Yes. Are they up?", "reason": "Initial 'Off' unclear; clear question and affirmations recovered separately.", "source_segment_indices": [2030], "accepted_spans": ["Yes. Yes. Are they up?"]}
+{"raw": "Dang. You were It was me, weren't you? You were really sure.", "reason": "Unclear interrupted reference 'You were It was me, weren’t you?'; clear ensuing certainty statement recovered.", "source_segment_indices": [2039, 2040], "accepted_spans": ["You were really sure."]}
+{"raw": "I I I don't", "reason": "Unfinished negative clause.", "source_segment_indices": [2041], "accepted_spans": []}
+{"raw": "Let us live. I was so", "reason": "Clear request recovered separately; unfinished 'I was so' remains uncertain.", "source_segment_indices": [2055], "accepted_spans": ["Let us live."]}
+{"raw": "Oh, nice. The best. I like really good.", "reason": "Clear praise recovered separately; interrupted 'I like' uncertain.", "source_segment_indices": [2057, 2058, 2059], "accepted_spans": ["Oh, nice. The best.", "really good."]}
+{"raw": "She was the artist award, honestly.", "reason": "Malformed 'She was the artist award' does not identify the intended speech act reliably.", "source_segment_indices": [2066], "accepted_spans": []}
+{"raw": "Infectctor. Still doing. Okay.", "reason": "Unclear 'Infectctor' and disconnected 'Still doing'; clear Okay recovered separately.", "source_segment_indices": [2079, 2080], "accepted_spans": ["Okay."]}
+{"raw": "Yeah. No, but then I want No, you guys, you guys.", "reason": "Unfinished correction and request; cannot identify the intended completion.", "source_segment_indices": [2103, 2104], "accepted_spans": []}
+{"raw": "Okay, I won't distract you guys. I'll go to my lonely back.", "reason": "Incomplete destination after 'my lonely'; clear promise not to distract recovered separately.", "source_segment_indices": [2115, 2116, 2117], "accepted_spans": ["Okay, I won't distract you guys."]}
+{"raw": "Okay, I still have three minutes. I don't want to be alone for three minutes. Look like I can't tell.", "reason": "Clear remaining-time/loneliness statement recovered separately; 'Look like I can't tell' is incomplete.", "source_segment_indices": [2118, 2119, 2120], "accepted_spans": ["Okay, I still have three minutes. I don't want to be alone for three minutes."]}
+{"raw": "No. Can't get that from", "reason": "Unfinished 'Can't get that from'.", "source_segment_indices": [2129], "accepted_spans": []}
+{"raw": "Oh, I'm in sh That's why. How do I Okay, here we go.", "reason": "Unclear 'I'm in sh'; clear realization/reaction recovered separately.", "source_segment_indices": [2130, 2131], "accepted_spans": ["Okay, here we go."]}
+{"raw": "Okay, so I shall", "reason": "Unfinished plan 'so I shall'.", "source_segment_indices": [2132], "accepted_spans": []}
+{"raw": "Okay, guess I'm not the color.", "reason": "Unclear 'I'm not the color' lacks a reliable interpretation.", "source_segment_indices": [2138], "accepted_spans": []}
+{"raw": "That's not the color a little bit. I am so hight", "reason": "Unclear interrupted color/high statement.", "source_segment_indices": [2140, 2141], "accepted_spans": []}
+{"raw": "Yeah. A dropper now.", "reason": "Unclear noun sequence 'a dropper now'.", "source_segment_indices": [2146], "accepted_spans": []}
+{"raw": "It really doesn't.", "reason": "Unfinished negative clause.", "source_segment_indices": [2147], "accepted_spans": []}
+{"raw": "How do you make things less?", "reason": "Unfinished 'make things less' without a named quality.", "source_segment_indices": [2159], "accepted_spans": []}
+{"raw": "Why? Why am I so supposed to be like the air holes?", "reason": "Unfinished self-description followed by unclear air-holes question.", "source_segment_indices": [2163, 2164], "accepted_spans": []}
+{"raw": "How do you make things less? I don't realize maybe", "reason": "Unfinished question and realization; insufficient evidence to complete.", "source_segment_indices": [2165, 2166, 2167], "accepted_spans": []}
+{"raw": "so you can put me pupils that do want little details.", "reason": "Unclear pupil/detail instruction.", "source_segment_indices": [2168, 2169], "accepted_spans": []}
+{"raw": "Draw. Okay, let's", "reason": "Interrupted instruction; clear Draw recovered separately.", "source_segment_indices": [2173], "accepted_spans": ["Draw."]}
+{"raw": "I like", "reason": "Interrupted 'I like'.", "source_segment_indices": [2179], "accepted_spans": []}
+{"raw": "Hope's helping.", "reason": "Unclear 'Hope’s helping' reference/ASR.", "source_segment_indices": [2196], "accepted_spans": []}
+{"raw": "Well, it's the husband.", "reason": "Unclear husband/hazmat recognition; do not invent the intended word.", "source_segment_indices": [2203, 2204], "accepted_spans": []}
+{"raw": "If you see me, guys, just save me for the edge, please. Very obvious.", "reason": "Unclear request to save speaker for the edge/end; keep source instead of completing.", "source_segment_indices": [2213, 2214], "accepted_spans": ["Very obvious."]}
+{"raw": "Maybe. Maybe. Anna.", "reason": "Clear tentative response recovered separately; Anna reference unclear.", "source_segment_indices": [2255, 2256], "accepted_spans": ["Maybe. Maybe."]}
+{"raw": "See, this is I don't trust being really thorough.", "reason": "Interrupted distrust clause followed by missing-subject thoroughness phrase.", "source_segment_indices": [2267, 2268], "accepted_spans": []}
+{"raw": "Yeah. No, I get it cuz we're She's so big on my screen. Oh my gosh. As people leave the call, I forget people in this room.", "reason": "Clear on-screen size comment recovered separately; interrupted clauses cannot be reliably completed.", "source_segment_indices": [2277, 2278, 2279, 2280], "accepted_spans": ["She's so big on my screen. Oh my gosh."]}
+{"raw": "I think I think maybe last will take this home. Last right will take this home.", "reason": "Incomplete hope and unclear last/last right reference.", "source_segment_indices": [2292, 2293, 2294], "accepted_spans": []}
+{"raw": "It's okay. We just have to stink up their noses. So, they have to be like reparative.", "reason": "Clear smell tactic recovered separately; intended reparative result unclear.", "source_segment_indices": [2302, 2303, 2304], "accepted_spans": ["It's okay. We just have to stink up their noses."]}
+{"raw": "I like smelling good. You can do whatever you want, but I like it's last.", "reason": "Clear preference for smelling good recovered separately; ending 'but I like it’s last' unclear.", "source_segment_indices": [2309, 2310], "accepted_spans": ["I like smelling good. You can do whatever you want,"]}
+{"raw": "The tow not going to work. She made a mistake. She made a mistake.", "reason": "Unclear opening 'The tow not going to work'; clear mistake statement recovered separately.", "source_segment_indices": [2334, 2335], "accepted_spans": ["She made a mistake. She made a mistake."]}
+{"raw": "Oh, do you really not this map though?", "reason": "Unclear missing verb in map-related question.", "source_segment_indices": [2371], "accepted_spans": []}
+{"raw": "Well, so maybe maybe that's I don't go to as much.", "reason": "Unclear tentative suggestion and unfinished destination/frequency reference.", "source_segment_indices": [2385, 2386], "accepted_spans": []}
+{"raw": "It's my time. It's my time. I've been waiting for", "reason": "Clear anticipation recovered separately; unfinished waiting clause.", "source_segment_indices": [2387, 2388], "accepted_spans": ["It's my time. It's my time."]}
+{"raw": "Yeah. kind of maybe myself in a t could be good.", "reason": "Unclear 'myself in a t' suggestion; do not invent missing noun.", "source_segment_indices": [2395, 2396, 2397], "accepted_spans": ["Yeah. kind of maybe"]}
+{"raw": "There. This look of the text. No one will ever know.", "reason": "Unclear text-related instruction; clear assertion of concealment recovered separately.", "source_segment_indices": [2404, 2405], "accepted_spans": ["No one will ever know."]}
+{"raw": "This is the base. Start doing the after.", "reason": "Clear identification of base recovered separately; 'Start doing the after' unresolved.", "source_segment_indices": [2413], "accepted_spans": ["This is the base."]}
+{"raw": "Okay. Okay. Okay. That is this time to rock. Where can I go down?", "reason": "Malformed time-to-rock clause; clear question recovered separately.", "source_segment_indices": [2420, 2421, 2422], "accepted_spans": ["Where can I go down?"]}
+{"raw": "Maybe. Turn off.", "reason": "Unclear truncated switch-off suggestion.", "source_segment_indices": [2427, 2428], "accepted_spans": []}
+{"raw": "How do you There.", "reason": "Unfinished procedural question; clear There recovered separately.", "source_segment_indices": [2429], "accepted_spans": ["There."]}
+{"raw": "I cannot with no pants. Mine 30 seconds. You need to get another one.", "reason": "Unfinished pants-related clause; clear countdown/instruction recovered separately.", "source_segment_indices": [2458, 2459, 2460], "accepted_spans": ["30 seconds. You need to get another one."]}
+{"raw": "Please find me. I really What do you want? What do you want? I need I need more KIP specifically to fly.", "reason": "Clear request/question recovered separately; unclear KIP flying reference.", "source_segment_indices": [2473, 2474, 2475], "accepted_spans": ["Please find me.", "What do you want? What do you want?"]}
+{"raw": "It's a nice thing to move around. No, I'm not doing that. I'm committing you there.", "reason": "Unclear interrupted moving/commitment exchange; clear commitment recovered separately.", "source_segment_indices": [2489, 2490, 2491, 2492], "accepted_spans": ["No, I'm not doing that. I'm committing"]}
+{"raw": "What do you mean the details? brush. The detail gray.", "reason": "Clear details question recovered separately; disconnected brush/detail/gray sequence unresolved.", "source_segment_indices": [2497, 2498, 2499], "accepted_spans": ["What do you mean the details?"]}
+{"raw": "How do I run? He just committed. Callie", "reason": "Clear running question recovered separately; subsequent Callie/committed fragment unclear.", "source_segment_indices": [2503, 2504], "accepted_spans": ["How do I run?"]}
+{"raw": "It is a really big night though. It's so bright. Yeah, I didn't realize. Please. I'm right there.", "reason": "Unclear big night/map recognition; clear brightness and location comments recovered separately.", "source_segment_indices": [2513, 2514, 2515], "accepted_spans": ["It's so bright.", "Yeah, I didn't realize. Please. I'm right there."]}
+{"raw": "My clip. Mike. Come back. Don't you?", "reason": "Unclear clip/Mike fragment and unfinished instruction.", "source_segment_indices": [2519, 2520], "accepted_spans": []}
+{"raw": "Oh, go racking the points.", "reason": "Unclear racking-points phrase.", "source_segment_indices": [2525, 2526], "accepted_spans": []}
+{"raw": "I think she needs help. I think I think I think this thing look at me. Look at it.", "reason": "Clear help statement and look instructions recovered separately; middle unfinished thought unresolved.", "source_segment_indices": [2535, 2536, 2537], "accepted_spans": ["I think she needs help.", "look at me. Look at it."]}
+{"raw": "Find a big map. I feel bad. She's trying really hard.", "reason": "Unclear find/big-map boundary; clear sympathy statement recovered separately.", "source_segment_indices": [2543, 2544, 2545], "accepted_spans": ["I feel bad. She's trying really hard."]}
+{"raw": "I think she's so whistle. Let's all whistle.", "reason": "Unfinished assessment; clear whistle request recovered separately.", "source_segment_indices": [2551, 2552], "accepted_spans": ["whistle. Let's all whistle."]}
+{"raw": "Oh, you guys are so hiding. You have to see everyone.", "reason": "Unclear hiding assessment; clear instruction recovered separately.", "source_segment_indices": [2564, 2565], "accepted_spans": ["You have to see everyone."]}
+{"raw": "Oh, that's actually a good", "reason": "Unfinished assessment.", "source_segment_indices": [2570], "accepted_spans": []}
+{"raw": "She already looks nothing like what they're hanging off of.", "reason": "Unclear pronoun and attachment reference; do not substitute unsupported subject.", "source_segment_indices": [2575, 2576, 2577], "accepted_spans": []}
+{"raw": "That hunter sounds good. Good at it.", "reason": "Unfinished hunter reference followed by short responses; clear approval recovered separately.", "source_segment_indices": [2586, 2587, 2588], "accepted_spans": ["sounds good."]}
+{"raw": "1800. She's still She's still in too. Welcome back, Callie.", "reason": "Number and in-too reference unclear; clear welcome recovered separately.", "source_segment_indices": [2592, 2593, 2594], "accepted_spans": ["Welcome back, Callie."]}
+{"raw": "I can't keep playing with me. Don't worry. I'm really good at hiding. Freaking not a single person.", "reason": "Malformed playing-with-me and truncated complaint; clear reassurance recovered separately.", "source_segment_indices": [2607, 2608, 2609, 2610], "accepted_spans": ["Don't worry. I'm really good at hiding."]}
+{"raw": "Honestly, honestly, I couldn't find anyone else either from your perspective. They were to find them either. I think there's supposed to be hidden when we look. Yeah.", "reason": "Clear perspective assessment recovered separately; subsequent fragments unresolved.", "source_segment_indices": [2615, 2616, 2617, 2618, 2619], "accepted_spans": ["Honestly, honestly, I couldn't find anyone else either from your perspective."]}
+{"raw": "We actually start though. When we actually start, we should", "reason": "Unfinished plan for when the game starts.", "source_segment_indices": [2642, 2643], "accepted_spans": []}
+{"raw": "second. Look at that. Do you see this? Perhaps move. Was I on the hunter pad? Oh, that's 500. Oh,", "reason": "Clear look question and hunter-pad question recovered separately; disconnected second/move/500 fragments unresolved.", "source_segment_indices": [2644, 2645, 2646], "accepted_spans": ["Look at that. Do you see this?", "Was I on the hunter pad?", "Perhaps move.", "Oh, that's 500. Oh,"]}
+{"raw": "but then I would get point garbage. Big garbage.", "reason": "Unclear point garbage phrase.", "source_segment_indices": [2647, 2648], "accepted_spans": []}
+{"raw": "I think it's a good garbage.", "reason": "Unclear good-garbage phrase.", "source_segment_indices": [2654], "accepted_spans": []}
+{"raw": "I'm not the right shape. Oo, iridescent. Maybe it's cuz metallic.", "reason": "Clear shape/iridescence observations recovered separately; unfinished metallic explanation.", "source_segment_indices": [2658, 2659, 2660, 2661], "accepted_spans": ["I'm not the right shape.", "Oo, iridescent."]}
+{"raw": "Maybe if I can.", "reason": "Unfinished tentative condition.", "source_segment_indices": [2679], "accepted_spans": []}
+{"raw": "Let's try cute. Let's try cute. Once again, I", "reason": "Try cute likely Q but not certain without audio; trailing thought unfinished.", "source_segment_indices": [2687, 2688, 2689], "accepted_spans": []}
+{"raw": "think it needs to be It's a ceiling mode that you", "reason": "Unfinished requirement and ceiling-mode phrase.", "source_segment_indices": [2690, 2691, 2692], "accepted_spans": []}
+{"raw": "So, like um", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2703], "accepted_spans": []}
+{"raw": "I think", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2714], "accepted_spans": []}
+{"raw": "I just thought you die.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2717], "accepted_spans": []}
+{"raw": "Tide it. I'll press X to delete it.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2720], "accepted_spans": ["I'll press X to delete it."]}
+{"raw": "Ah,", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2721], "accepted_spans": []}
+{"raw": "I don't think they'll", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2722], "accepted_spans": []}
+{"raw": "I think we'll stay here. Thanks for fan.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2723], "accepted_spans": ["I think we'll stay here."]}
+{"raw": "I think with the right paint. I don't know. It's kind of", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2724, 2725], "accepted_spans": []}
+{"raw": "This is not the right", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2749], "accepted_spans": []}
+{"raw": "I can do the rest. It was", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2751], "accepted_spans": ["I can do the rest."]}
+{"raw": "I didn't turn to the", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2752, 2753], "accepted_spans": []}
+{"raw": "I thought it looks Yeah. Yeah. That looks like like Michael Michael Jackson.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2759, 2760], "accepted_spans": ["Yeah. Yeah. That looks like like Michael Michael Jackson."]}
+{"raw": "Elizabeth looks like Michael Ducks became a home.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2762, 2763], "accepted_spans": []}
+{"raw": "Okay. Aka money. God.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2765, 2766, 2767], "accepted_spans": []}
+{"raw": "Okay. Oh, I like the", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2773], "accepted_spans": []}
+{"raw": "Yeah. I saw a fox and ran across the street. bread now for the gingerbread party.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2781, 2782, 2783], "accepted_spans": ["Yeah. I saw a fox and ran across the street."]}
+{"raw": "Actually, I don't trust her. I think she's going to Oh,", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2784, 2785, 2786], "accepted_spans": ["Actually, I don't trust her."]}
+{"raw": "Oh, dare. I did it.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2799], "accepted_spans": ["I did it."]}
+{"raw": "I'm going to Uhoh.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2817, 2818], "accepted_spans": []}
+{"raw": "Oh, but just shot like a piece of lettuce. Yeah.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2831, 2832, 2833], "accepted_spans": []}
+{"raw": "Oh no. Oh no. She's going to blind. Oh no. Maybe she won't. Maybe she won't. What's that?", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2834, 2835, 2836], "accepted_spans": ["Maybe she won't. Maybe she won't. What's that?"]}
+{"raw": "Oh, okay. If they're away from your room, just let me know if they're like I don't know.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2856, 2857, 2858, 2859], "accepted_spans": ["okay. If they're away from your room, just let me know"]}
+{"raw": "Gigging. You just went to Where's your painting?", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2888, 2889], "accepted_spans": ["Where's your painting?"]}
+{"raw": "My painting a little bit.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2896, 2897], "accepted_spans": []}
+{"raw": "Yeah, exactly. You couldn't see us no matter how much we're inside.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2911, 2912, 2913], "accepted_spans": []}
+{"raw": "I don't want to want to make a", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2915], "accepted_spans": []}
+{"raw": "Hol. Yeah.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2931], "accepted_spans": []}
+{"raw": "Why? It's awesome. I don't want to be the bad", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2934, 2935], "accepted_spans": ["Why? It's awesome."]}
+{"raw": "Okay, don't worry. On the back side, my collab. Trust me. Trust me. Oh my god. Back here.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2939, 2940, 2941], "accepted_spans": []}
+{"raw": "I want nothing more than right.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2942], "accepted_spans": []}
+{"raw": "A beautiful centipede. a beautiful part of our centing.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2947, 2948], "accepted_spans": ["A beautiful centipede."]}
+{"raw": "Yes. I just want to be a", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2951], "accepted_spans": []}
+{"raw": "Transcends every single moment. One time in a lifetime.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2971, 2972, 2973], "accepted_spans": []}
+{"raw": "Hopefully not what it's called.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2983, 2984], "accepted_spans": []}
+{"raw": "Serendipity tickets available. Yay. Yes. Going to be in LA and you want", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2989, 2990], "accepted_spans": ["Serendipity tickets available. Yay."]}
+{"raw": "the World Serendipity.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2991, 2992], "accepted_spans": []}
+{"raw": "It's so about serendipity.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [2999, 3000], "accepted_spans": []}
+{"raw": "I really like the blood raven clip. I really like the the", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3005, 3006], "accepted_spans": ["I really like the blood raven clip."]}
+{"raw": "Very often shorts. Really good shorts.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3020, 3021], "accepted_spans": ["shorts. Really good shorts."]}
+{"raw": "Not violent too much now in the slightest. No,", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3022, 3023], "accepted_spans": []}
+{"raw": "I don't even know what we are. I'm just reading. I'm just about", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3030, 3031, 3032], "accepted_spans": ["I don't even know what we are. I'm just reading."]}
+{"raw": "Stream a dippity. Stream a dippity. Please stream a stream.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3035, 3036], "accepted_spans": []}
+{"raw": "Yeah. Serendipity guys. Pretty good guy. Oh my god. baby.", "reason": "Uncertain/incomplete ASR; separately recovered clear substrings are accepted subspans.", "source_segment_indices": [3053, 3054, 3055, 3056], "accepted_spans": []}

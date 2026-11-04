@@ -1,0 +1,461 @@
+[
+  {
+    "source_segments": [
+      139,
+      141
+    ],
+    "raw": "Oh, thank you Remy and Christian zip. Welcome, welcome. It's to put something in the middle.",
+    "actually": "Thank you, Remy and Christian zip. Welcome. Something needs to go in the middle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      141,
+      143
+    ],
+    "raw": "Oh man, do I need a a to do a tutorial for this?",
+    "actually": "Do I need a tutorial for this?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      143,
+      145
+    ],
+    "raw": "Okay, hold up. I'm trying to pick this up. It's very hard with gloves too.",
+    "actually": "Wait; I am trying to pick this up. The gloves make it difficult.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      145,
+      148
+    ],
+    "raw": "I have this piece, so we probably need like three of these. And then the last piece.",
+    "actually": "I have this piece, so we probably need three of them. Then the last piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      148,
+      150
+    ],
+    "raw": "I will be assuming not not anywhere near here actually this one not it I wait",
+    "reason": "Unfinished assumptions and ASR boundaries are unclear; keep subsequent clear questions separately.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      150,
+      152
+    ],
+    "raw": "What the hell? Why did I build this? What the f is this? But this is definitely meant for this though.",
+    "actually": "Why did I build this, and what is it? This is definitely intended for this, though.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      152,
+      154
+    ],
+    "raw": "Okay, so I have all these tree pieces. Do they they look right, right?",
+    "actually": "I have all these tree pieces. They look correct, do they not?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      155,
+      157
+    ],
+    "raw": "Flip the two circles 180 and attach the joint to the sides.",
+    "actually": "Rotate both circles by one hundred eighty degrees and attach the joint to the sides.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      157,
+      159
+    ],
+    "raw": "Okay, hold up. Let me do this without gloves. It's really freaking annoying. Flip it 180.",
+    "actually": "Wait; let me remove the gloves. This is frustrating. Rotate it by one hundred eighty degrees.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      160,
+      162
+    ],
+    "raw": "My hands are tied. I'm doing this all with my feet.",
+    "actually": "My hands are tied, so I am doing this with my feet.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      162,
+      165
+    ],
+    "raw": "Um, am I supposed to connect them with each other? Like one circle goes at one of them? Oh, that kind of makes sense.",
+    "actually": "Should I connect them to each other, with one circle on one of them? That makes some sense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      165,
+      168
+    ],
+    "raw": "Let me let me look. Let me zoom. The magic of uh Disney, or as I like to call it the Wisney, the Wisney feet. Let me look at this closer. Enhance.",
+    "actually": "Let me look and zoom in. The magic of Disney, or what I call Wisney feet. Let me inspect it more closely; enlarge it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      169,
+      170
+    ],
+    "raw": "Oh, thank you fire mind. Happy end of the year.",
+    "actually": "Thank you, fire mind. Happy end of the year.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      170,
+      173
+    ],
+    "raw": "Oh, wait, what are we doing tomorrow? Is tomorrow the VRChat stuff? I think tomorrow's VRChat.",
+    "actually": "What are we doing tomorrow? Is VRChat tomorrow? I think it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      174,
+      177
+    ],
+    "raw": "Okay, I'm going to let you know now I'm probably going to piss you off only because I don't know what the fudge I'm doing.",
+    "actually": "I should warn you that I may frustrate you because I do not know what I am doing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      177,
+      179
+    ],
+    "raw": "So this is connected now. That means that this should be connected, but it's weird cuz this looks like.",
+    "actually": "This is connected now, so this should also be connected, but it looks strange.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      180,
+      184
+    ],
+    "raw": "Oh, this is actually this piece. This is the bottom piece. It's connected for whatever freaking reason. So this is connected to this joint based on what I'm looking at.",
+    "actually": "This is the bottom piece, which is connected for some reason. It appears connected to this joint.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      184,
+      187
+    ],
+    "raw": "But this doesn't connect there, so what the fudge am I looking at?",
+    "actually": "This does not connect there, so what am I looking at?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      187,
+      191
+    ],
+    "raw": "Okay, I think I did it. I did it. I I might have done it. Maybe. I hope so. No, no idea. Uh, never mind, I lied. I completely lied. Oh, is this it? No, it makes no sense. Ah, I'm okay.",
+    "actually": "I think I may have done it; I hope so, but I do not know. Never mind, that was incorrect. Is this it? No, it makes no sense. I am okay.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      192,
+      197
+    ],
+    "raw": "Uh, okay, so based on this can I skip this page? Can I skip this page? I have some very very difficult perception issues. I try to force something in and then like the piece just went out.",
+    "actually": "Can I skip this page? I am having substantial difficulty interpreting this. When I tried to force a piece in, another piece came out.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      197,
+      198
+    ],
+    "raw": "I got thank for the SC and uh Hecker",
+    "reason": "Acknowledgement/name ASR is fragmented; do not invent who is thanked.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      198,
+      199
+    ],
+    "raw": "Happy New Year. I can't. No, please let me skip.",
+    "actually": "Happy New Year. I cannot do this; please let me skip it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      199,
+      199
+    ],
+    "raw": "a ski a",
+    "reason": "Unclear ASR syllables.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      199,
+      203
+    ],
+    "raw": "I'm so confused. I need you guys to show up and just do this for me and then get the [ __ ] out of my place.",
+    "actually": "I am very confused. I need you to come over, do this for me, and then leave my home.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      203,
+      207
+    ],
+    "raw": "Okay, okay, I'm going to I'm going to go baby steps, okay? I'm trying to follow the instructions but there's no text and there's no text in here.",
+    "actually": "I will proceed in small steps. I am trying to follow the instructions, but they contain no text.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      207,
+      208
+    ],
+    "raw": "So I have this piece. Okay, you're in Step 31, right? You're in Step 31.",
+    "actually": "I have this piece. We are on step thirty-one, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      208,
+      215
+    ],
+    "raw": "So this piece, it looks like it has the bottom wheels on it, but then it has a piece that has no bottom wheels on it, and it looks like it's supposed to connect to one of the edges. So it should be connecting to maybe the dark brown edge. Maybe that's what it is.",
+    "actually": "This piece seems to have wheels underneath, while another does not. It appears intended to connect to an edge, perhaps the dark brown edge. Perhaps that is it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      215,
+      218
+    ],
+    "raw": "No, I don't think I miss any steps. I think I'm just very stupid. It has to be the dark brown one, right?",
+    "actually": "I do not think I missed any steps; I think I simply do not understand. It must be the dark brown one, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      218,
+      222
+    ],
+    "raw": "But the weird part is the hinge there doesn't connect to this, so maybe I don't know. I would assume this is meant to be connected, but it ain't it ain't connecting.",
+    "actually": "The strange part is that the hinge does not connect to this. I am unsure; I assume these should connect, but they do not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      223,
+      226
+    ],
+    "raw": "Uh, why won't you go in? Go in. You have to go in. Please go in. If I beg, if I plead, will you just enter the Lego piece as intended?",
+    "actually": "Why will you not fit? Please fit into the Lego piece as intended. Would begging make you fit?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      226,
+      229
+    ],
+    "raw": "I don't I don't think this is right, but at least it kind of works. Is this right? Does this look right? Does that look right to you?",
+    "actually": "I do not think this is correct, but it works somewhat. Does it look correct to you?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      229,
+      232
+    ],
+    "raw": "Yeah, it's my first time. I I don't know how to do this. Does this look right? No, it's not. Oh my freaking God.",
+    "actually": "It is my first time, and I do not know how to do this. Does it look correct? No, it is not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      232,
+      236
+    ],
+    "raw": "Okay, okay, are you sure I can't skip? Okay, hold up. Sakura tree step 31 Legos. I need. Okay, an hour and 55 minutes. Oh good God, we took two hours last time. How to do step 31.",
+    "actually": "Are you sure I cannot skip it? Wait; I need Lego cherry blossom tree step thirty-one. An hour and fifty-five minutes; we spent two hours last time. How do I do step thirty-one?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      236,
+      239
+    ],
+    "raw": "Okay, ignore. Okay, I'm going to press on this TikTok. You can't hear anything right now. Uh, bonsai part two.",
+    "actually": "Ignore that. I will open this TikTok. You cannot hear anything at present. Bonsai, part two.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      240,
+      243
+    ],
+    "raw": "Oh good God, why did they make it into a PowerPoint? All right, okay, this this might be it. They also have copyrighted music.",
+    "actually": "Why did they make this as a PowerPoint? This might be it. They also use copyrighted music.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      243,
+      246
+    ],
+    "raw": "Okay, uh-huh, uh-huh. Why did they do it in a freaking stop motion? What's wrong with you? All right, all right, this is. Wait, did they skip a step?",
+    "actually": "Why did they use stop-motion? What is wrong with you? Wait, did they skip a step?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      247,
+      249
+    ],
+    "raw": "No, why did they skip a step? Okay, stop motion, stop motion, stop right there. Okay, so stop motion on TikTok.",
+    "actually": "Why did they skip a step? Stop there. This is stop-motion on TikTok.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      250,
+      254
+    ],
+    "raw": "So what the how the [ __ ] did they do this actually? Wait, why are they connected to some weird [ __ ]? How do I how do I go back at TikTok? Okay, okay, stop motion.",
+    "actually": "How did they do this? Why are they connected to something strange? How do I go back on TikTok? Stop-motion.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      255,
+      258
+    ],
+    "raw": "Okay, so so uh I I did this part right. This part, this part is completely correct based on the stop motion. All right, next step, next step.",
+    "actually": "I did this part correctly according to the stop-motion video. Next step.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      259,
+      263
+    ],
+    "raw": "Oh good God, they went way too fast for stop motion. So the next step is they split it, split something apart and they put it. I think they hide a brown piece, I think.",
+    "actually": "That was too fast for stop-motion. Next, they separate something and place it. I think they conceal a brown piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      263,
+      268
+    ],
+    "raw": "Oh my God, uh-huh. Wait, actually, uh-huh. They skipped the [ __ ] stuff. What is the sorcery? What is the sorcery?",
+    "actually": "Wait; they skipped parts. How is this possible?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      268,
+      272
+    ],
+    "raw": "Oh, sorry, I hope you don't see the [ __ ] TikTok at the bottom. I think you do. Do you see that at the bottom right? That's a TikTok right now.",
+    "actually": "Sorry; I hope the TikTok at the bottom is not visible, but I think it is. Can you see it at the bottom right? That is TikTok.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      272,
+      275
+    ],
+    "raw": "Okay, hold up, hold up. There's some sorcery at at work here. I'm trying to figure it out.",
+    "actually": "Wait; something mysterious is happening, and I am trying to understand it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      275,
+      278
+    ],
+    "raw": "Oh good God, they're telling me to log into to TikTok. [ __ ] off. Okay, okay, uh-huh. Stop telling me to log in.",
+    "actually": "They are asking me to log into TikTok. Leave me alone; stop asking me to log in.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      278,
+      281
+    ],
+    "raw": "Oh good God, okay, I'm just going to completely wing it. They put two giant blocks somewhere. I don't know what.",
+    "actually": "I will improvise. They put two large blocks somewhere, but I do not know what.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      281,
+      283
+    ],
+    "raw": "I think there's supposed to be another double air chocolate on here",
+    "reason": "Unclear piece description represented as double air chocolate; do not invent its geometry.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      283,
+      287
+    ],
+    "raw": "Uh, like here. I don't know, man. I'm guessing. I'm guessing. I'm hoping this works. I think this is right, guys. If I guess correct enough, I think this is working.",
+    "actually": "Perhaps here. I do not know; I am guessing and hope it works. I think this is correct and seems to work if I guess correctly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      287,
+      290
+    ],
+    "raw": "All right, I'm about to tell you my my life's progress. I'm about to show you and you're going to be like she finally freaking did it.",
+    "actually": "I am about to show you my progress, and you will think I finally did it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      290,
+      294
+    ],
+    "raw": "Does this look right? Does this look right, guys? Is this it? Is this it? And then I'm supposed to put the triple triple chocolate piece somewhere.",
+    "actually": "Does this look correct? Is this it? Then I am supposed to put the triple chocolate piece somewhere.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      294,
+      299
+    ],
+    "raw": "And then if I like if I close this they look right. It's like a. It is. I did it. I did. The TikTok did not help. I'm letting you know now the TikTok did not help.",
+    "actually": "If I close this, they look correct. They do; I did it. The TikTok did not help.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      299,
+      300
+    ],
+    "raw": "I did it. [ __ ] you TikTok. I'm going to keep you though.",
+    "actually": "I did it. I am angry with TikTok, though I will keep you.",
+    "status": "SFT"
+  }
+]

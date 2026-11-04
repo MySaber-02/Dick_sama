@@ -1,0 +1,434 @@
+[
+  {
+    "source_segments": [
+      1,
+      13
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Opening music captions only; original occurrences retained in source JSON."
+  },
+  {
+    "source_segments": [
+      14,
+      14
+    ],
+    "raw": "Do you want to play a game?",
+    "actually": "Would you like to play a game?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      14,
+      15
+    ],
+    "raw": "sh in sh Nella",
+    "reason": "Opening self-introduction ASR is damaged; do not invent the repeated name fragments.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      15,
+      17
+    ],
+    "raw": "Here at your service and welcome to Lego lives bomb explosion stream. Woohoo!",
+    "actually": "I am at your service. Welcome to the Lego lives bomb-explosion stream.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      18,
+      18
+    ],
+    "raw": "All right, welcome.",
+    "actually": "Welcome.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      19,
+      19
+    ],
+    "raw": "novits and novel lights",
+    "reason": "Fan-name ASR uncertain; no inferred spelling for two distinct spoken labels.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      20,
+      26
+    ],
+    "raw": "To a continuation of my second life, the time I got reincarnated into a bomb making factory and I had to build a Lego in time otherwise the bomb explodes while I'm in this Factory. I don't know. I just keep dying to bombs.",
+    "actually": "We are continuing my second life: I was reincarnated into a bomb-making factory and must build Lego in time, or the bomb explodes while I am there. I do not know; I keep dying to bombs.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      27,
+      28
+    ],
+    "raw": "Uh, okay, so last time we left off, let me check the page first before we continue.",
+    "actually": "Let me check which page we reached before continuing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      29,
+      29
+    ],
+    "raw": "Also, how's the Audio?",
+    "actually": "How is the audio?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      29,
+      32
+    ],
+    "raw": "I think we were on page 30, which is Step 33 slash 34. Good, okay.",
+    "actually": "I think we were on page thirty, steps thirty-three and thirty-four. Good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      33,
+      34
+    ],
+    "raw": "Cool. A rescue squad. You might you might need one. You might need one.",
+    "actually": "A rescue squad; you might need one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      34,
+      36
+    ],
+    "raw": "Also, oh, hold up. Oh, okay, let me redo this really quick.",
+    "actually": "Wait; let me redo this quickly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      35,
+      35
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption, not speech."
+  },
+  {
+    "source_segments": [
+      37,
+      40
+    ],
+    "raw": "Is supposed to show uh the music so you guys are not left wondering what the fudge it is.",
+    "actually": "It is supposed to show the music so you know what it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      40,
+      41
+    ],
+    "raw": "Oh, maybe cuz it's in 4k it gets scents weird on here",
+    "reason": "The verb represented as scents is unclear; do not invent scaling or censorship action.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      41,
+      44
+    ],
+    "raw": "That's weird. That's some freaky Dicky freaky Dicky freaky Dicky things. Okay, there you go. There you go. It's a lot better there now.",
+    "actually": "That is strange. Those are unusual things. There we are; it is much better now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      44,
+      47
+    ],
+    "raw": "All right, let me get to the this the page the page first and then where is this?",
+    "actually": "Let me reach the page first. Where is this?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      48,
+      48
+    ],
+    "raw": "Bo okay we got you got to close closer",
+    "reason": "ASR contains unclear words and overlapping sentence start; retain separately.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      49,
+      49
+    ],
+    "raw": "Camera inspection right now.",
+    "actually": "A camera inspection now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      49,
+      50
+    ],
+    "raw": "but before we actually like kill me",
+    "reason": "Unclear conditional/self-reference; do not invent killing action or game trigger.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      50,
+      52
+    ],
+    "raw": "What page are we on, 30 or 29?",
+    "actually": "Which page are we on, thirty or twenty-nine?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      52,
+      54
+    ],
+    "raw": "Yeah, it's a Lego building stream but under under pressure.",
+    "actually": "It is a Lego-building stream under pressure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      54,
+      57
+    ],
+    "raw": "Okay, I'm pretty sure I got stuck on page 28 though, which is uh this section, this looking thing. Do you like the scan lines?",
+    "actually": "I am fairly sure I got stuck on page twenty-eight, this section here. Do you like the scan lines?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      58,
+      61
+    ],
+    "raw": "So I built this on page 28. I think this one set up, but then I got stuck on um Step 29 slash 30, which is I believe 29 and 30.",
+    "actually": "I built this on page twenty-eight. I think this one is set up, but I got stuck on steps twenty-nine and thirty, I believe.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      61,
+      64
+    ],
+    "raw": "Wait, is this backwards? Well, what direction is this supposed to be here for you? Is that a 30?",
+    "actually": "Is this backwards? Which direction should it face for you? Is that thirty?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      64,
+      69
+    ],
+    "raw": "Okay, this is this is backwards for you, I guess like this. No, wait, is it flipped? Oh, I think it's flipped. Okay, I hope you guys know how to read the flip side.",
+    "actually": "This seems backwards for you. Like this? Wait, is it flipped? I think it is. I hope you can read the flipped side.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      69,
+      71
+    ],
+    "raw": "Let me let me unflip this. There you go.",
+    "actually": "Let me unflip this. There we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      71,
+      75
+    ],
+    "raw": "There, this is still. Oh no, that's still flipped. What what which flip is this? Like this? Okay, I guess that looks fine for you, so I got to face this way.",
+    "actually": "It is still flipped. Which flip is this? Like this? I suppose that looks fine for you, so I need to face this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      75,
+      78
+    ],
+    "raw": "So I'm on page uh what number is this? Oh good God, it's just like playing a game but all the controls are reversed. What number is this anyway?",
+    "actually": "What page number is this? It is like playing a game with reversed controls. What number is it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      78,
+      80
+    ],
+    "raw": "Step 32. Step 32. This is the sakura tree we're building last time, I think.",
+    "actually": "Step thirty-two. I think this is the cherry blossom tree we were building last time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      81,
+      84
+    ],
+    "raw": "Uh, we're supposed to build like a platform. Oh, what the fudge is this? I don't even know what the hell this is.",
+    "actually": "We are supposed to build a platform. What is this? I do not know what it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      84,
+      88
+    ],
+    "raw": "Where did I leave off at? Oh good gosh, there's so much uh so much things that could go wrong. I'm a little scared at easily losing things. I even built this thing.",
+    "actually": "Where did I stop? Many things could go wrong, and I am concerned about losing things easily. I even built this item.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      88,
+      89
+    ],
+    "raw": "I don't know what this dude that is",
+    "reason": "ASR noun and clause boundary unclear; preserve rather than invent an object.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      89,
+      91
+    ],
+    "raw": "But based on this maybe we already finished the section.",
+    "actually": "Based on this, perhaps we already finished the section.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      91,
+      93
+    ],
+    "raw": "What the fudge is this? What am I looking at?",
+    "actually": "What is this? What am I looking at?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      93,
+      97
+    ],
+    "raw": "Okay, so I have this thing. Based on page 30 and 29 they should be on top of something but they're supposed to to spread, right?",
+    "actually": "I have this piece. According to pages thirty and twenty-nine, they should be on something, but they should spread apart, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      97,
+      100
+    ],
+    "raw": "I made it two parts that mirrored each other, but not the other thing. Like these kind of mirror the these mirror perfectly.",
+    "actually": "I made it as two parts that mirror each other, but not the other item. These mirror each other perfectly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      100,
+      104
+    ],
+    "raw": "But I I'm stuck on p uh step 30 cuz it looks like it's supposed to spread out. I think that must be this. That must be this thing.",
+    "actually": "I am stuck on step thirty because it seems intended to spread out. I think that must be this piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      104,
+      107
+    ],
+    "raw": "So if I spread this out it looks like the 30th. Okay, cool. So that's step 30. That's spread out now.",
+    "actually": "If I spread this out, it resembles step thirty. Good; that is step thirty, spread out now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      107,
+      110
+    ],
+    "raw": "Now if I go to 31 it's supposed to have another sibling that kind of looks like that, but then that's the part where I've I've completely lost myself.",
+    "actually": "Step thirty-one is supposed to have another matching piece like that, but this is where I became completely confused.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      111,
+      113
+    ],
+    "raw": "So how should I how should I do this? Actually have limited space.",
+    "actually": "How should I do this? I have limited space.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      113,
+      116
+    ],
+    "raw": "So I'm here, we want to be on step 31. Step 31, which is like this way this way this way this way.",
+    "actually": "I am here, and we need step thirty-one, which goes this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      117,
+      120
+    ],
+    "raw": "No, I'm getting I'm getting a debuff. Okay, I'm getting a debuff soon but not now. Let me have my piece.",
+    "actually": "I am getting a debuff—soon, but not now. Let me have my piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      120,
+      124
+    ],
+    "raw": "Okay, I'm stuck on uh this thing, this thing. So is it supposed to spread out?",
+    "actually": "I am stuck on this piece. Is it supposed to spread apart?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      124,
+      126
+    ],
+    "raw": "All right, someone has peer pressured me into the timer. If I die it's your fault. Totally your fault.",
+    "actually": "Someone pressured me into using the timer. If I die, it is entirely your fault.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      127,
+      129
+    ],
+    "raw": "Okay, uh, let's see. I'm going to let you know now I'm completely stupid. So this is here, that's good.",
+    "actually": "Let me see. I should tell you that I am completely incompetent at this. This goes here; good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      129,
+      136
+    ],
+    "raw": "Now for this part it's like a Triple Decker, if that's how you call it, but aren't they supposed to be able to spread? So I have this part, but it doesn't look like it's going to spread. I don't get it, guys. I don't get it.",
+    "actually": "This part resembles a triple-decker structure, if that is the term, but should they not be able to spread apart? This part does not appear to spread, and I do not understand.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      136,
+      139
+    ],
+    "raw": "And then I have this other part that's that like is also spreadable. Am I supposed to just spread them together?",
+    "actually": "I also have another part that can spread apart. Am I supposed to spread them together?",
+    "status": "SFT"
+  }
+]

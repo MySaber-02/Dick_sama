@@ -1,0 +1,530 @@
+[
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1938
+    ],
+    "raw": "30 seconds.",
+    "status": "SFT",
+    "actually": "Thirty seconds."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1939,
+      1940
+    ],
+    "raw": "I'm trying from above.",
+    "status": "SFT",
+    "actually": "I am trying from above."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1941
+    ],
+    "raw": "Ah, stop floating.",
+    "status": "SFT",
+    "actually": "Stop floating."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1942
+    ],
+    "raw": "20 seconds. I'm too bright.",
+    "status": "SFT",
+    "actually": "Twenty seconds; I am too bright."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1943
+    ],
+    "raw": "You know what? Whatever. Good enough. I",
+    "status": "LOW",
+    "reason": "Clear good-enough reaction recovered separately; trailing I unfinished."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1944
+    ],
+    "raw": "It's fine. It's okay.",
+    "status": "SFT",
+    "actually": "It is fine."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1945
+    ],
+    "raw": "How do I stop floating?",
+    "status": "SFT",
+    "actually": "How do I stop floating?"
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1946,
+      1947
+    ],
+    "raw": "Check from all angles. I'm trying. Give me a moment of space. 10 9 8",
+    "status": "SFT",
+    "actually": "Check from all angles. I am trying; give me a moment of space. Ten, nine, eight."
+  },
+  {
+    "draft_row": 272,
+    "source_segment_indices": [
+      1948,
+      1949
+    ],
+    "raw": "seven six Check from angle I don't know how to change the angle three",
+    "status": "SFT",
+    "actually": "Seven, six. Check from an angle. I do not know how to change the angle. Three."
+  },
+  {
+    "draft_row": 272,
+    "source_segment_indices": [
+      1950
+    ],
+    "raw": "uh",
+    "status": "SFT",
+    "actually": "Um."
+  },
+  {
+    "draft_row": 272,
+    "source_segment_indices": [
+      1951
+    ],
+    "raw": "I can't this body won't turn right",
+    "status": "SFT",
+    "actually": "I cannot; this body will not turn correctly."
+  },
+  {
+    "draft_row": 272,
+    "source_segment_indices": [
+      1952,
+      1953
+    ],
+    "raw": "my hiding spot is so good what you want me to do okay",
+    "status": "SFT",
+    "actually": "My hiding spot is very good. What do you want me to do? Okay."
+  },
+  {
+    "draft_row": 272,
+    "source_segment_indices": [
+      1954
+    ],
+    "raw": "it I'm so",
+    "status": "LOW",
+    "reason": "Unfinished it/I'm so phrase."
+  },
+  {
+    "draft_row": 273,
+    "source_segment_indices": [
+      1955,
+      1956,
+      1957
+    ],
+    "raw": "You better hope. Maybe. One second. Maybe I should color myself. One second. Can I color? I think you can.",
+    "status": "SFT",
+    "actually": "You had better hope. Perhaps; one second. Perhaps I should color myself. One second. Can I color? I think you can."
+  },
+  {
+    "draft_row": 273,
+    "source_segment_indices": [
+      1958
+    ],
+    "raw": "Down. Move down.",
+    "status": "SFT",
+    "actually": "Down; move down."
+  },
+  {
+    "draft_row": 273,
+    "source_segment_indices": [
+      1959
+    ],
+    "raw": "This color. Was it?",
+    "status": "LOW",
+    "reason": "Unclear color question 'This color. Was it?'."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1960,
+      1961
+    ],
+    "raw": "That's better. Check on the side. So, once again,",
+    "status": "LOW",
+    "reason": "Clear assessment/instruction recovered separately; trailing so once again unfinished."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1962
+    ],
+    "raw": "maybe it's too bright.",
+    "status": "SFT",
+    "actually": "Perhaps it is too bright."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1963,
+      1964
+    ],
+    "raw": "Time for that. Never cook again, I say to myself.",
+    "status": "LOW",
+    "reason": "Time-for-that fragment unresolved; complete cooking remark recovered separately."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1965
+    ],
+    "raw": "Oh, but I like your cooking.",
+    "status": "SFT",
+    "actually": "But I like your cooking."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1966,
+      1967
+    ],
+    "raw": "Oh, you're so sweet.",
+    "status": "SFT",
+    "actually": "You are very sweet."
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1968
+    ],
+    "raw": "Yeah, I'm hungry.",
+    "status": "SFT",
+    "actually": "Yes, I am hungry."
+  },
+  {
+    "draft_row": 275,
+    "source_segment_indices": [
+      1969,
+      1970,
+      1971
+    ],
+    "raw": "Might as well just paint as a neg. Should we just become a naggie? What if she doesn't fight any of us?",
+    "status": "LOW",
+    "reason": "Unclear neg/naggie and fight/find recognition; do not guess a name or verb."
+  },
+  {
+    "draft_row": 275,
+    "source_segment_indices": [
+      1972,
+      1973
+    ],
+    "raw": "I'd be happy. No, I would feel bad for her, but I would be happy.",
+    "status": "SFT",
+    "actually": "I would be happy—no, I would feel bad for her, but I would be happy."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1974
+    ],
+    "raw": "She's getting so many points.",
+    "status": "SFT",
+    "actually": "She is getting many points."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1975
+    ],
+    "raw": "Oh, she must be in plain sight.",
+    "status": "SFT",
+    "actually": "She must be in plain sight."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1976
+    ],
+    "raw": "Whoa.",
+    "status": "SFT",
+    "actually": "Whoa."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1977
+    ],
+    "raw": "Uhoh. Uhoh.",
+    "status": "SFT",
+    "actually": "Uh-oh."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1978
+    ],
+    "raw": "No, she knows how to play the game.",
+    "status": "SFT",
+    "actually": "No, she knows how to play the game."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1979
+    ],
+    "raw": "So many points.",
+    "status": "SFT",
+    "actually": "So many points."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1980
+    ],
+    "raw": "Wish we would hide.",
+    "status": "LOW",
+    "reason": "Unclear wish-we-would-hide statement."
+  },
+  {
+    "draft_row": 276,
+    "source_segment_indices": [
+      1981
+    ],
+    "raw": "This is distracting.",
+    "status": "SFT",
+    "actually": "This is distracting."
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1982
+    ],
+    "raw": "Welcome to Osaka.",
+    "status": "SFT",
+    "actually": "Welcome to Osaka."
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1983
+    ],
+    "raw": "Hi. Welcome to Osaka. I'm your guide.",
+    "status": "SFT",
+    "actually": "Hello, welcome to Osaka. I am your guide."
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1984,
+      1985
+    ],
+    "raw": "Uh, yeah. Osaka got to be more also home to Universal Studios Japan.",
+    "status": "LOW",
+    "reason": "Malformed Osaka-more-home phrase; clear acknowledgment and destination fragment recovered separately."
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1986,
+      1987
+    ],
+    "raw": "Yeah, this does look a little Universal themed area. Yes. Yes.",
+    "status": "SFT",
+    "actually": "This area does look somewhat Universal-themed. Yes."
+  },
+  {
+    "draft_row": 278,
+    "source_segment_indices": [
+      1988
+    ],
+    "raw": "Have you ever been to Osaka?",
+    "status": "SFT",
+    "actually": "Have you ever been to Osaka?"
+  },
+  {
+    "draft_row": 278,
+    "source_segment_indices": [
+      1989,
+      1990,
+      1991,
+      1992
+    ],
+    "raw": "Um I'm the tour guide. Of course I've been to Osaka. You know, if you hear the phrase order, it means eat until you drop. It's practically.",
+    "status": "LOW",
+    "reason": "Clear guide assertion and literal phrase explanation recovered separately; unfinished practically remains unresolved."
+  },
+  {
+    "draft_row": 279,
+    "source_segment_indices": [
+      1993
+    ],
+    "raw": "Wasn't my spot. Wonderful story.",
+    "status": "SFT",
+    "actually": "It was not my spot. Wonderful story."
+  },
+  {
+    "draft_row": 279,
+    "source_segment_indices": [
+      1994,
+      1995,
+      1996
+    ],
+    "raw": "I It was cute. I liked it. Good job. It was cuz I was missing the headband, wasn't it?",
+    "status": "SFT",
+    "actually": "It was cute; I liked it. Good job. Was it because I was missing the headband?"
+  },
+  {
+    "draft_row": 279,
+    "source_segment_indices": [
+      1997,
+      1998
+    ],
+    "raw": "Yes. Have someone not hanging their clothes.",
+    "status": "LOW",
+    "reason": "Clear Yes recovered separately; have-someone-not-hanging-clothes fragment unclear."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      1999
+    ],
+    "raw": "I get it. I get it.",
+    "status": "SFT",
+    "actually": "I understand."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      2000
+    ],
+    "raw": "I understand. I understood.",
+    "status": "SFT",
+    "actually": "I understand—I understood."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      2001
+    ],
+    "raw": "She did not understand the assignment.",
+    "status": "SFT",
+    "actually": "She did not understand the assignment."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      2002,
+      2003
+    ],
+    "raw": "That was really good. That was very smart.",
+    "status": "SFT",
+    "actually": "That was very good and clever."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      2004
+    ],
+    "raw": "Of course,",
+    "status": "SFT",
+    "actually": "Of course."
+  },
+  {
+    "draft_row": 280,
+    "source_segment_indices": [
+      2005
+    ],
+    "raw": "is the one to kill the tour guide.",
+    "status": "LOW",
+    "reason": "Missing subject of the tour-guide killing remark."
+  },
+  {
+    "draft_row": 271,
+    "source_segment_indices": [
+      1943
+    ],
+    "raw": "You know what? Whatever. Good enough.",
+    "actually": "Never mind; it is good enough.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1960
+    ],
+    "raw": "That's better. Check on the side.",
+    "actually": "That is better; check from the side.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 274,
+    "source_segment_indices": [
+      1964
+    ],
+    "raw": "Never cook again, I say to myself.",
+    "actually": "I tell myself never to cook again.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1984
+    ],
+    "raw": "Uh, yeah.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 277,
+    "source_segment_indices": [
+      1984,
+      1985
+    ],
+    "raw": "also home to Universal Studios Japan.",
+    "actually": "Also home to Universal Studios Japan.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 278,
+    "source_segment_indices": [
+      1989,
+      1990
+    ],
+    "raw": "Um I'm the tour guide. Of course I've been to Osaka.",
+    "actually": "I am the tour guide; of course I have been to Osaka.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 278,
+    "source_segment_indices": [
+      1990,
+      1991,
+      1992
+    ],
+    "raw": "You know, if you hear the phrase order, it means eat until you drop.",
+    "actually": "If you hear the phrase order, it means eat until you drop.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 279,
+    "source_segment_indices": [
+      1997
+    ],
+    "raw": "Yes.",
+    "actually": "Yes.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

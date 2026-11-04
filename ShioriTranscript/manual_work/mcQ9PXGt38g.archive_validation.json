@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "clean_records": 1861,
+  "low_contexts": 298,
+  "source_segments": 3061,
+  "all_source_segment_indices_disposed": true,
+  "schema_passed": true,
+  "original_sha256": {
+    "txt": "ca47af64596e79acfb3e808d2a7b34b6644867fd723e243544ddafd3b4c85a32",
+    "json": "42526ef77779231091214804040f3ed822ab511822d9182643c373a341dd9def"
+  },
+  "originals_moved_not_copied": true,
+  "mask_occurrences": {
+    "source": 6,
+    "sft": 5,
+    "low": 1
+  },
+  "manual_word_diagnostic_exceptions": "independent_review/mcQ9PXGt38g/"
+}

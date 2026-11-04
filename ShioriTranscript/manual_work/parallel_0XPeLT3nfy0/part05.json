@@ -1,0 +1,663 @@
+[
+  {
+    "source_segments": [
+      881,
+      884
+    ],
+    "raw": "That’s pretty that’s okay that’s enough it’s okay I have like 64 arrows so I think I don’t go there and I can’t do anything",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      881,
+      883
+    ],
+    "raw": "That’s pretty, that’s okay, that’s enough. It’s okay, I have like 64 arrows.",
+    "actually": "That is enough; I have about sixty-four arrows.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      885,
+      891
+    ],
+    "raw": "What about our inventory? I think our inventory, I’ll drop some more. Maybe maybe you can like drop by, um, make a chest right before we fight the thing and drop stuff that might not be as important. Yeah, whatever works.",
+    "actually": "What about our inventory? I will drop more items. Perhaps make a chest before the fight and leave less important items there. Whatever works.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      891,
+      897
+    ],
+    "raw": "Yeah what what what I miss something can I ride you mag check oh no I don’t have a saddle with you wait take this take this I have some how can I not have a saddle for you than thank you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      892,
+      892
+    ],
+    "raw": "What what what, I miss something? Can I ride you?",
+    "actually": "Did I miss something? Can I ride you?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      894,
+      897
+    ],
+    "raw": "Oh, no, I don’t have a saddle with you. Wait, take this, take this, I have some. How can I not have a saddle for you? Thank you.",
+    "actually": "I do not have a saddle for you. Take this; I have some. How can I lack a saddle for you? Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      897,
+      903
+    ],
+    "raw": "I’m going to check if I have some more arrows. I feel like I have more than just. All right, I got to go back to my base. That was, that’s a lot of work actually, to ride you.",
+    "actually": "I will check for more arrows; I feel I have more than just— I need to return to my base. Riding you requires much work.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      904,
+      908
+    ],
+    "raw": "Travel one again uh how do I build the another chest um press press B okay on your list is there another person it’s been a little while",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      904,
+      906
+    ],
+    "raw": "Uh, how do I build the another chest? Um, press press B. Okay.",
+    "actually": "How do I build another chest? Press B.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      908,
+      912
+    ],
+    "raw": "They’re high leveled I think everyone else is why not here yeah I know I guess I don’t and then I useless to",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      908,
+      910
+    ],
+    "raw": "They’re high leveled. I think everyone else is.",
+    "actually": "They are high-level; I think everyone else is too.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      913,
+      919
+    ],
+    "raw": "Okay, I guess I’m ready then. You ready? Almost ready. Yeah, I’m I’m pretty much ready whenever. I’m just uh clearing out my inventory real quick.",
+    "actually": "I suppose I am ready. Are you? Almost. I am essentially ready; I am just clearing my inventory.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      919,
+      921
+    ],
+    "raw": "Oh crap, oh crap, I’m on fire. Ah, ah. It would be nice if my pals would like put me out of fire.",
+    "actually": "I am on fire. It would be helpful if my Pals extinguished it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      922,
+      924
+    ],
+    "raw": "Right, I will put that away. They’re putting stuff in there. That’s one.",
+    "actually": "I will put that away. They are putting items in there; that is one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      925,
+      935
+    ],
+    "raw": "Okay when you guys oh that’s question hopefully I’m good to go I think we are have about egg multiple eggs wow that’s fast oh to true too wow we don’t have many left I don’t think I have enough materials though I guess I have some more than enough do I not have a high they",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      926,
+      927
+    ],
+    "raw": "Hopefully I’m good to go. I think we are.",
+    "actually": "I hope I am ready; I think we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      930,
+      932
+    ],
+    "raw": "I don’t think I have enough materials, though. I guess I have some more than enough.",
+    "actually": "I do not think I have enough materials—perhaps I have more than enough.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      936,
+      945
+    ],
+    "raw": "Bye we just making some house f w be a what do you have we have the crossbow crossbow okay that’s good I just have the the Primitive one the baby bow baby bow I like the baby bow though you like it yeah is that the the three short one um yeah I think so I like that one three baby",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      937,
+      943
+    ],
+    "raw": "What do you have? We have the crossbow. Crossbow, okay, that’s good. I just have the the primitive one, the baby bow. Baby bow? I like the baby bow, though. You like it? Yeah. Is that the the three-shot one? Um, yeah, I think so. I like that one.",
+    "actually": "What do you have? A crossbow. Good; I have the primitive bow, which I like. Is it the three-shot one? I think so; I like that one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      946,
+      950
+    ],
+    "raw": "Yeah, he’s just watching us. I don’t know what’s his problem. I don’t even think I have him out. Is that is that our pal? Ah, it’s the one that we have out right now. Yeah.",
+    "actually": "He is watching us; I do not know his problem. I do not think I deployed him. Is he our Pal? It is the one we have deployed.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      950,
+      954
+    ],
+    "raw": "Oh, is a is a bat better than a stone spear, by the way? What did you say? A bat. Is that better than a stone spear? Ah, I think so. Oh, okay, guess we’ll do a home run.",
+    "actually": "Is a bat better than a stone spear? What did you say? A bat. I think so. I suppose we will hit a home run.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      955,
+      958
+    ],
+    "raw": "Hm. Okay, I think we’re good. I think we should be good. I’m going to SP, yeah.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      956,
+      958
+    ],
+    "raw": "Okay, I think we’re good. I think we should be good.",
+    "actually": "I think we are ready.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      959,
+      968
+    ],
+    "raw": "Yeah where was where where am I going uh going to we’re going to do some bosses I’m going to take you to Chile first oh there we go sounds like a restaurant I was in by be was that the the grassy yeah yeah yeah okay we go there the human okay I’m in here okay we’re going to go",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      959,
+      963
+    ],
+    "raw": "Yeah, where was, where where am I going? Uh, going to, we’re going to do some bosses. I’m going to take you to Chillet first. Oh, there we go. Sounds like a restaurant.",
+    "actually": "Where am I going? We will fight bosses; I will take you to Chillet first. That sounds like a restaurant.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      969,
+      972
+    ],
+    "raw": "Okay, um, I sorted my pow balls and now I don’t know where they are. It’s okay, take your time. Thank you.",
+    "actually": "I sorted my pow balls and no longer know where they are. It is fine; take your time. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      972,
+      975
+    ],
+    "raw": "Oh my gosh, that’s a, this how long it takes for girls to get ready then. Let’s go. Take these. Yeah, let’s go slay, girl.",
+    "actually": "This is how long it takes girls to get ready. Take these; let us go, girl.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      976,
+      978
+    ],
+    "raw": "Oh, slay. Oh, I got a finger gun. My gun’s missing. Hm.",
+    "actually": "I have a finger gun; my gun is missing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      979,
+      984
+    ],
+    "raw": "Take, oh, thank you. Oh, wow, thank you so much. I just hope I don’t die. Eat something; we’re a little hungry. I have some uh food I can share. Well, it’s supposedly berries, we have some.",
+    "actually": "Thank you; I hope I do not die. Eat something; we are a little hungry. I have food to share, apparently berries.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      984,
+      989
+    ],
+    "raw": "I think I’m glitched, maybe. Where are you? I can only finger gun, my weapons are gone. Oh, well, but you can still shoot, right? I sure that’s not weapons enough if we shoot people with that help. Oh, okay.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      984,
+      987
+    ],
+    "raw": "I think I’m glitched, maybe. Where are you? I can only finger gun, my weapons are gone. Oh, well, but you can still shoot, right?",
+    "actually": "I might be glitched. Where are you? I only have finger guns; my weapons vanished. You can still shoot, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      989,
+      993
+    ],
+    "raw": "I have to relog. I’ll be right back. Take time. Okay, I’m stuck, it’s okay. I’m stuck. I’m going to go admire IRyS’s uh Pal. Like, I like this one.",
+    "actually": "I need to log in again; I will return shortly. Take your time. I am stuck. I will admire IRyS’s Pal; I like this one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      994,
+      998
+    ],
+    "raw": "Buie oh yeah I have he looks cool I really like the the penguin too it’s like a musketeer did you or French I can’t tell same thing oh is this yeah this is a shiny one",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      994,
+      998
+    ],
+    "raw": "He looks cool. I really like the the penguin too. It’s like a musketeer or French, I can’t tell. Same thing. Oh, is this? Yeah, this is a shiny one.",
+    "actually": "He looks good. I like the penguin too; like a musketeer or French, I cannot tell. The same thing. Is this a shiny? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      999,
+      1004
+    ],
+    "raw": "Oh, they’re breeding. Oh, but there’s not enough cake. That’s, yeah, they need cake. They need cake for the romance to spawn. They need cake. Cake cake is romantic, so they need cake. How many combinations are there?",
+    "actually": "They are breeding, but there is insufficient cake. They need cake for romance, because cake is romantic. How many combinations exist?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1006,
+      1009
+    ],
+    "raw": "I thought you need eggs to make cake. Well, I mean, kind of. Okay. Oh, he’s fire moves and teleports.",
+    "actually": "I thought cake required eggs. Somewhat. He uses fire moves and teleports.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1010,
+      1014
+    ],
+    "raw": "Oh, let’s see. So so you can make any of the Pals mate with each other, or it has to be specific ones? Oh, I’m glitched, yeah, oh no.",
+    "actually": "Can any Pals mate, or do you need specific ones? I am glitched.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1015,
+      1023
+    ],
+    "raw": "Glitch. Oh, everything breeds with everything else except humans. So I think with everything, and the result will be something different, so it will make a different thing. But it will be not the same species as the two parents. So it’s like another another species. Two species will make another species every time or something like that.",
+    "actually": "Everything except humans can breed with everything else, I think, producing a species different from either parent, or something like that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1023,
+      1026
+    ],
+    "raw": "I hope I make up like a a really screwed up monstrosity. What? Jeez. What, you’re so F. Okay, I’m ready. Fear and Hunger.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1023,
+      1025
+    ],
+    "raw": "I hope I make up like a a really screwed up monstrosity. What? Jeez.",
+    "actually": "I hope I create a grotesque monstrosity. What? That is surprising.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1026,
+      1026
+    ],
+    "raw": "Okay, I’m ready. Fear and Hunger.",
+    "actually": "I am ready. Fear and Hunger.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1027,
+      1030
+    ],
+    "raw": "We have a flashing blue light on my screen. Oh, yeah, flashing blue light. What is? I see it too. It sometimes happens, I don’t know why, though. What if you hit it?",
+    "actually": "A blue light is flashing on my screen. I see it too; it sometimes happens, but I do not know why. What if you hit it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1031,
+      1037
+    ],
+    "raw": "Biboo, I have so much wheat, I don’t have the option to make bread. This is a pretty I need. You need to make a mill. Yeah, okay, I have a, I I just forgot I needed to convert it. Yeah, you have to convert to flour, and then you can make bread.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1031,
+      1032
+    ],
+    "raw": "Biboo, I have so much wheat, I don’t have the option to make bread.",
+    "actually": "Biboo, I have much wheat but no option to make bread.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1033,
+      1037
+    ],
+    "raw": "You need to make a mill. Yeah, okay, I have a, I I just forgot I needed to convert it. Yeah, you have to convert to flour, and then you can make bread.",
+    "actually": "You need a mill. I forgot to convert it. Convert it into flour, then make bread.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1038,
+      1045
+    ],
+    "raw": "Understood. Okay, we ready? I think so, I think so. I guess we’s going to catch up with us after she bakes, or you? I don’t need to bake anything. Yeah, I’m I’m around my base right next to IRyS’s, so. Oh, this, oh, good for you. We’re by the the church thing.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1038,
+      1040
+    ],
+    "raw": "Understood. Okay, we ready? I think so, I think so.",
+    "actually": "Understood. Are we ready? I think so.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1041,
+      1045
+    ],
+    "raw": "I don’t need to bake anything. Yeah, I’m I’m around my base right next to IRyS’s, so. Oh, good for you. We’re by the the church thing.",
+    "actually": "I do not need to bake. I am near my base, beside IRyS’s. Good for you; we are near the church.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1046,
+      1060
+    ],
+    "raw": "Okay the skilled Islander who does nothing else all day he’s taking oh cra cra why you do that why what you do what happened do huh what did we just do he You Killed Someone why why who did you kill is this is this your pal it’s it was the Alpha and Omega who did it wasn’t it yeah but why why did okay well viol they don’t like people who slack off bi boo I need to teach him a lesson he looks like he’s having a good Str time you kill this one too I didn’t kill anyone it was my maybe you press the button by accident",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1046,
+      1047
+    ],
+    "raw": "Okay, the skilled islander who does nothing else all day.",
+    "actually": "The skilled islander who does nothing else all day.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1048,
+      1052
+    ],
+    "raw": "Why you do that? Why? What you do? What happened? Huh, what did we just do? You killed someone. Why, why? Who did you kill? Is this is this your pal?",
+    "actually": "Why did you do that? What happened? What did we do? You killed someone. Why? Who? Is this your Pal?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1052,
+      1053
+    ],
+    "raw": "It was the Alpha and Omega who did it, wasn’t it?",
+    "actually": "It was Alpha and Omega who did it, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1055,
+      1056
+    ],
+    "raw": "They don’t like people who slack off, Biboo. I need to teach him a lesson.",
+    "actually": "They dislike people who avoid work, Biboo. I need to teach him a lesson.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1057,
+      1059
+    ],
+    "raw": "You kill this one too? I didn’t kill anyone. It was my, maybe you press the button by accident.",
+    "actually": "Did you kill this one too? I killed nobody. It was my—perhaps you pressed the button accidentally.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1060,
+      1063
+    ],
+    "raw": "Okay, let’s go. Hi, you think he’ll reincarnate and then we can capture him?",
+    "actually": "Let us go. Do you think he will reincarnate so we can capture him?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1065,
+      1068
+    ],
+    "raw": "Yeah this violin so many malas they’re all angry at me it’s because you hit them I didn’t do anything okay the the one is this way",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1065,
+      1068
+    ],
+    "raw": "They’re all angry at me. It’s because you hit them. I didn’t do anything. Okay, the the one is this way.",
+    "actually": "They are all angry with me. You hit them. I did nothing. It is this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1069,
+      1070
+    ],
+    "raw": "Want to pick this up? This way.",
+    "actually": "Would you like to pick this up? This way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1071,
+      1075
+    ],
+    "raw": "Okay people what is that what a bird oh it’s a glider bird it’s really fast wow oh there another floppy where uhoh no scary wow the this a pretty",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1071,
+      1073
+    ],
+    "raw": "What is that, what a bird? Oh, it’s a glider bird, it’s really fast.",
+    "actually": "What is that? A bird? It is a very fast glider bird.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1076,
+      1083
+    ],
+    "raw": "Nice wow oh no I have to kill you I wonder how you can just see a texture seam in the sky darn it is that a tower or a texture seam I can’t tell I have no idea there’s no way it’s a tower right what would be that tall when are you dying oh shoot oh man am I",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1076,
+      1082
+    ],
+    "raw": "Oh, no, I have to kill you. I wonder how you can just see a texture seam in the sky. Darn it, is that a tower or a texture seam? I can’t tell. I have no idea, there’s no way it’s a tower, right? What would be that tall?",
+    "actually": "I need to kill you. You can see a texture seam in the sky. Is it a tower or a texture seam? I cannot tell; surely it is not a tower. What could be that tall?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1082,
+      1084
+    ],
+    "raw": "When are you dying? Oh, shoot, oh man. Am I helping?",
+    "actually": "When will you die? Am I helping?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1084,
+      1088
+    ],
+    "raw": "Oh, yeah, now I see the seam too. Yeah, it’s a it’s the skybox. See, that’s where it’s, that’s where it loops. That’s so funny, that is so funny. I like it.",
+    "actually": "I see the seam too. It is the skybox; that is where it loops. That is funny; I like it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1088,
+      1092
+    ],
+    "raw": "I accidentally killed the thing I wanted to catch. Yeah, that happened to me, cuz Cremis I want to catch, but since it’s low level, I like touch it and it dies.",
+    "actually": "I accidentally killed what I wanted to catch. That happened to me with Cremis; its level is so low that it dies when I touch it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1092,
+      1097
+    ],
+    "raw": "Okay here’s a boss if you guys want it did we catch before although I’m getting distracted by all these things I wish I wish should destroy it’s like what’s going on",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1092,
+      1095
+    ],
+    "raw": "Okay, here’s a boss if you guys want it. Did we catch before? Although I’m getting distracted by all these things.",
+    "actually": "Here is a boss if you want it. Have we caught it before? These things are distracting me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1097,
+      1104
+    ],
+    "raw": "Oh, why do you take so so long to die? What happens if I tap it once in the face? I think it might die. I I think he might die too, so I might not even attack. We killed him last time, and arrows, and then let’s just use a crossbow.",
+    "actually": "Why do you take so long to die? What happens if I hit its face once? I think it might die. I agree, so I may avoid attacking. We killed him last time; use a crossbow.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1105,
+      1109
+    ],
+    "raw": "Wow, why? Okay, you guys do the rest. Oh, no, okay, that’s fine, it’s fine. Okay, I didn’t want it anyway. Oh, you’re killing something.",
+    "actually": "Why? You do the rest. That is fine; I did not want it anyway. You are killing something.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      918,
+      918
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      933,
+      933
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1005,
+      1005
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1064,
+      1064
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1110,
+      1110
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH"
+  }
+]

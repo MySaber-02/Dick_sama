@@ -1,0 +1,533 @@
+[
+  {
+    "source_segments": [
+      500,
+      501
+    ],
+    "raw": "This piece, is it meant to be this piece?",
+    "actually": "Is this the intended piece?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      502,
+      502
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      503,
+      503
+    ],
+    "raw": "soon it has",
+    "reason": "Isolated ASR word before the stairs reference is unclear.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      504,
+      505
+    ],
+    "raw": "Stairs. No, it's not it. Okay. Oh, thank you.",
+    "actually": "Stairs; no, that is not it. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      506,
+      510
+    ],
+    "raw": "Always. Oh, nice, nice, turned out to be bricks. Is that a good thing or a bad thing? Cuz I have Lego bricks and I assume Lego bricks are good.",
+    "actually": "Always, it turned out to be bricks. Is that good or bad? I have Lego bricks, which I assume are good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      510,
+      510
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      511,
+      511
+    ],
+    "raw": "She fell sideways through a window.",
+    "actually": "She fell sideways through a window.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      512,
+      516
+    ],
+    "raw": "I'll be honest, I barely remember anything from Twilight. I only remember that one Hawaiian scene that made no sense. Uh, Jacob was kind of a piece of [ __ ] later on. It it was just awful.",
+    "actually": "I barely remember Twilight except for a Hawaiian scene that made no sense. Jacob later behaved badly; it was awful.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      516,
+      522
+    ],
+    "raw": "Uh, let's see. There's supposed to be. No, wait, I think I did something wrong. I'm on step 34. I need two pieces of something.",
+    "actually": "Let me see. Wait, I think I made a mistake. I am on step thirty-four and need two pieces of something.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      522,
+      525
+    ],
+    "raw": "I don't think I did that piece right. I'm just going to guess and hope it works.",
+    "actually": "I do not think I built that piece correctly. I will guess and hope it works.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      525,
+      529
+    ],
+    "raw": "I never got to watch a 1992 Nosferatu movie actually. At least like if I did, I probably forgot it, but I never got to watch that. I saw it though on SpongeBob.",
+    "actually": "I never watched a 1992 Nosferatu film, or have forgotten if I did. I saw it on SpongeBob, though.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      529,
+      534
+    ],
+    "raw": "I'm sorry to hear about the bricks, uh, Always. I'm not very familiar with bad bricks. Kane Parx, thank you for the support, by the way.",
+    "actually": "I am sorry to hear about the bricks, Always. I am unfamiliar with bad bricks. Thank you for the support, Kane Parx.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      534,
+      539
+    ],
+    "raw": "Gosh, we should watch Mega fishes, Megalopolis, I think that's what it is. We should watch that. Now that one's a, that movie makes no sense. It's going to be so bad, but I don't know if it's a good bad.",
+    "actually": "We should watch Mega fishes—Megalopolis, I think that is the title. It makes no sense and will be bad, though I do not know whether it is entertainingly bad.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      539,
+      544
+    ],
+    "raw": "Andy, welcome, welcome. I like Megalopolis. It was a passion project. I respect the passion that was put into a Megalo.",
+    "actually": "Welcome, Andy. I like Megalopolis. It was a passion project, and I respect the passion invested in it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      543,
+      543
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      544,
+      549
+    ],
+    "raw": "Uh, maybe if I put the stairs here. No, I need different stairs. That's not stairs. What stairs can I find here? Stairs, where art thou?",
+    "actually": "Perhaps the stairs go here. No, I need different stairs; these are not stairs. Where can I find stairs?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      549,
+      553
+    ],
+    "raw": "Uh, let me let me finish this piece. I think I need a dark brown piece by itself over here. Gosh, these branches are hard. I bet I have to do it again.",
+    "actually": "Let me finish this piece. I think I need a separate dark brown piece here. These branches are difficult; I expect I will need to repeat this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      553,
+      557
+    ],
+    "raw": "Okay, did that. Yeah, I did it. Now I need a piece that's like an L-shape, and that's the piece I currently cannot find.",
+    "actually": "I did that. Now I need an L-shaped piece that I cannot find.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      558,
+      558
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      559,
+      565
+    ],
+    "raw": "Ah, I think I'm missing. Cannot find a certain section. Um, yeah, I can't find it. There is an L-shaped piece that I'm supposed to be able to find. Can you use your majestical eyes to find it?",
+    "actually": "I cannot find a particular part, an L-shaped piece that should be here. Can you use your excellent eyesight to find it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      566,
+      570
+    ],
+    "raw": "Oh, oh, welcome to the novel nights. I hope you enjoy Europe. I want to visit there, maybe next year if possible. That'd be neat. I want to visit haunted castles.",
+    "actually": "Welcome to the novel nights. I hope you enjoy Europe. I would like to visit, perhaps next year if possible, and see haunted castles.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      571,
+      575
+    ],
+    "raw": "I cannot find the piece I'm looking for. It is in the pile. It looks like an L-shaped thing, but it's like a 90-degree angle.",
+    "actually": "I cannot find the piece in the pile. It looks L-shaped, with a ninety-degree angle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      575,
+      579
+    ],
+    "raw": "Yeah, I want to visit a bunch of haunted castles. Oh, this piece, this piece. You're so smart.",
+    "actually": "I want to visit several haunted castles. This is the piece; you are clever.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      579,
+      585
+    ],
+    "raw": "The issue though is I don't know where to visit. Should I be going to England? I'm also scared to get shanked in London. No offense to Londoners, I just don't know anything. All I know is that you can get shanked in certain places, and I do not want to get shanked.",
+    "actually": "I do not know where to visit. Should I go to England? I am afraid of being stabbed in London. I mean no offense to Londoners and know little about it; I only know stabbings can occur in some places and want to avoid that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      586,
+      590
+    ],
+    "raw": "Okay, I did it. I did it. So now we're on step 36. Now I need a regular set of stairs. Let me find set of stairs first and then another uh this piece, probably this piece.",
+    "actually": "I did it. We are on step thirty-six. I need ordinary stairs first, then another piece, probably this one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      591,
+      593
+    ],
+    "raw": "Germany and Austria. I'm a little scared of like not English-friendly places.",
+    "actually": "Germany and Austria; I am somewhat concerned about places that are not English-friendly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      593,
+      596
+    ],
+    "raw": "lond his Dracula are sure it's not um I forgot where it's called actually or where it is",
+    "reason": "The opening Dracula/location reference is ASR damaged; do not invent a destination.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      596,
+      599
+    ],
+    "raw": "Oh, you passed your drawing exam. Hey, congrats. Oh, three hours of sleep. Congrats. I'm proud of you.",
+    "actually": "You passed your drawing exam; congratulations. Three hours of sleep? Congratulations; I am proud of you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      599,
+      603
+    ],
+    "raw": "Uh, let me. So after this, this should be above this piece. Okay, and now I need to find uh steppies, but the steppies is, I hear this. I found steppies, maybe.",
+    "actually": "This should go above this piece. I now need steps. I found steps, perhaps.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      604,
+      606
+    ],
+    "raw": "Austria, Germany's English-friendly. Oh, cool. They go to Romania.",
+    "actually": "Austria and Germany are English-friendly; good. They go to Romania.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      607,
+      611
+    ],
+    "raw": "Why, he moved to London? Oh, okay, you're talking about the movie or the book technically. That'll be neat. Okay, maybe I'll I'll consider Germany and Austria then. I don't know anything about those places.",
+    "actually": "He moved to London? You mean the film or book. That would be interesting. Perhaps I will consider Germany and Austria; I know nothing about them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      611,
+      616
+    ],
+    "raw": "I think I've had like sausages from Germany. They claimed to be sausages from Germany, so I assumed they were German sausages.",
+    "actually": "I think I have eaten sausages from Germany. They were described that way, so I assumed they were German sausages.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      616,
+      618
+    ],
+    "raw": "What's it called? It's some fancy term. I don't even know how to say it.",
+    "actually": "What is it called? It has a fancy name I do not know how to pronounce.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      618,
+      618
+    ],
+    "raw": "aitel",
+    "reason": "Unclear food-name syllable; do not invent a German dish.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      618,
+      620
+    ],
+    "raw": "Or is that is that pretzel? They yodel and drink beer.",
+    "actually": "Or is that a pretzel? They yodel and drink beer.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      620,
+      623
+    ],
+    "raw": "Okay, now that I have the stairs, where do I put the stairs? The stairs goes over here.",
+    "actually": "Where should I put these stairs? They go here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      623,
+      624
+    ],
+    "raw": "Oh, it's bratwurst. Oh, okay, yeah, that's what I am is.",
+    "actually": "It is bratwurst. Yes, that is what I am.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      624,
+      632
+    ],
+    "raw": "Thank you for the SC. I tried watching Metropolis. I didn't get to finish though. I watched it during uh during class, and at the time it was a black and white movie. Man, when I first heard of Megalopolis I thought it was actually Metrop, was Metropolis, but I was wrong. I still liked it though. I liked watching the movie.",
+    "actually": "Thank you for the Super Chat. I tried watching Metropolis in class but did not finish it; it was a black-and-white film. When I first heard of Megalopolis, I confused it with Metropolis. I was wrong, but still enjoyed watching the film.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      632,
+      635
+    ],
+    "raw": "Alex, thank you for the SC. I hope you have a great New Year too. Thank you, thank you.",
+    "actually": "Thank you for the Super Chat, Alex. I hope you also have a great New Year.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      635,
+      641
+    ],
+    "raw": "Okay, so now I am now on on step 37. I need the two hinges, which is probably this one. Now for these two hinges, um, they hinge. Where do they hinge? Let me split them up first.",
+    "actually": "I am on step thirty-seven and need two hinges, probably these. Where do they hinge? Let me separate them first.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      642,
+      644
+    ],
+    "raw": "Oh, they hinge at the top today, but that would make. No, no, okay.",
+    "actually": "They hinge at the top today, but that would—no, no. Okay.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      645,
+      649
+    ],
+    "raw": "No, I think they would. What the fudge is this monstrosity? I need two of these as well. Two hinges. Two hinges.",
+    "actually": "I think they would. What is this strange structure? I need two of these hinges too.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      649,
+      657
+    ],
+    "raw": "By the way, H was missing in action for a bit. He on vacation, and you know what his status says? Stay out of trouble. And I'm like, what is that supposed to mean? Uh, hello, I'm always staying out of trouble. It's not my fault that the last time he went on vacation I may have done some stuff that I shouldn't have. I'm kidding. Or am I not kidding?",
+    "actually": "H has been away on vacation. His status says to stay out of trouble; what does that mean? I always stay out of trouble. It is not my fault that I may have done things I should not have during his last vacation. I am joking—or perhaps not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      658,
+      662
+    ],
+    "raw": "Uh, there another hinge I'm supposed to get, but I don't see it. Okay, I'm I'm on my I'm on step 37. I need another one of this, but I can't find it right now.",
+    "actually": "I need another hinge but cannot see it. I am on step thirty-seven and cannot find another of this piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      663,
+      667
+    ],
+    "raw": "Do you guys see anything on here that looks like this? Let's move this away cuz this is already set.",
+    "actually": "Do you see anything here that resembles this? Let us move this aside because it is already assembled.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      667,
+      671
+    ],
+    "raw": "I was quirkier than you. Quirkier. Maybe at the bottom. Uh, this is this is my perspective of uh of the bottom, by the way, like around this section. Anything here? Can't see it.",
+    "actually": "I was quirkier than you. Perhaps at the bottom. This is my view of the bottom, around this section. Is it here? I cannot see it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      671,
+      675
+    ],
+    "raw": "Oh no, I didn't use it up already, did I? That would be redonkulous with me. I do see something that could be that, so let me take this apart.",
+    "actually": "I did not already use it, did I? That would be ridiculous. I see something that might be it, so let me take this apart.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      676,
+      680
+    ],
+    "raw": "Okay, I see what it is. Uh, okay, I am correcting my mistakes. I have found it.",
+    "actually": "I see what it is. I am correcting my mistakes and found it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      677,
+      677
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      681,
+      685
+    ],
+    "raw": "So now the thing here is I'm supposed to connect it, but I'm not entirely sure. Oh no, I see. I see the light. It is bright.",
+    "actually": "I am supposed to connect it, but am unsure how. I see now; I see the bright light.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      685,
+      690
+    ],
+    "raw": "You guys should totally watch Nosferatu though. You should watch it. I like the ending. I mean, sucks for uh sucks for things, but I I I really like the ending, and Thomas is pretty.",
+    "actually": "You should watch Nosferatu. I like the ending, although things turn out badly. I like it very much, and Thomas is attractive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      691,
+      695
+    ],
+    "raw": "Let's see. It sucks, all right. It sure does, but there are some parts that were missing. Oh, George, thank you for the SC.",
+    "actually": "Let me see. It is unfortunate, and some parts were missing. Thank you for the Super Chat, George.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      695,
+      696
+    ],
+    "raw": "I hope you have a good end of the year.",
+    "actually": "I hope you have a good end of the year.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      696,
+      699
+    ],
+    "raw": "By the way the town of fen is welcoming oo Fen is that where moment is",
+    "reason": "Uncertain location and character-name ASR; do not infer a travel destination.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      699,
+      700
+    ],
+    "raw": "And castle is really cool, and Edinburgh vaults. Ooh.",
+    "actually": "The castle is interesting, as are the Edinburgh vaults.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      700,
+      703
+    ],
+    "raw": "Sparks, thank you for three months, by the way, and Ry, thank for the SC as well.",
+    "actually": "Thank you for three months, Sparks, and for the Super Chat, Ry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      703,
+      711
+    ],
+    "raw": "Have seen any other? No, I I haven't seen the other ones. I haven't even uh seen the Frankenstein. I don't know why I call it Frankenstein, but I know Frankenstein's not even the name of the the monster, if I remember correctly. I actually never had to read Frankenstein.",
+    "actually": "Have I seen any others? No, I have not seen the others or even Frankenstein. I do not know why I call it that, because I believe Frankenstein is not the monster’s name. I never had to read Frankenstein.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      711,
+      716
+    ],
+    "raw": "No, I don't have a type. I am sure I don't have a type. They have to be usually fictional, but Thomas is so pretty. What the [ __ ]? Maybe it's cuz he's a Victorian man. Victorian men are kind of pretty.",
+    "actually": "I am sure I do not have a type. They usually need to be fictional, but Thomas is attractive. Perhaps it is because he is a Victorian man; Victorian men are attractive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      716,
+      720
+    ],
+    "raw": "What was that one movie that uh Risa made us watch? Did I like anyone there? I don't think so. I think the personalities were [ __ ]. That's.",
+    "actually": "What was the film Risa made us watch? I do not think I liked anyone in it; I thought their personalities were unpleasant.",
+    "status": "SFT"
+  }
+]

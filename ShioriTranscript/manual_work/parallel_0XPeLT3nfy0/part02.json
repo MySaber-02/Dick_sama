@@ -1,0 +1,698 @@
+[
+  {
+    "source_segments": [
+      211,
+      214
+    ],
+    "raw": "No. Okay, let’s go. So if you follow down the road, uh, this way, mhm, just down down the street. Made some progress, a little bit.",
+    "actually": "Let us go down this road. I have made some progress.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      215,
+      216
+    ],
+    "raw": "That’s a lot of progress. Wow, yeah, you will come across my self-sufficient Pals.",
+    "actually": "That is considerable progress. You will find my self-sufficient Pals.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      217,
+      218
+    ],
+    "raw": "Wow, what is that, a big blender? Blend this Co.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      217,
+      217
+    ],
+    "raw": "Wow, what is that, a big blender?",
+    "actually": "What is that? A large blender?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      218,
+      222
+    ],
+    "raw": "Yeah, you blend the pals and then you let the other one drink them, like an energy drink. Did they die? Yeah, they, I mean they disappear.",
+    "actually": "You blend the Pals and let another drink them like an energy drink. Did they die? They disappear, rather.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      222,
+      224
+    ],
+    "raw": "Oh my God, I’ve got the max amount of wood in here. That thing’s on fire. Are you joking?",
+    "actually": "I have the maximum amount of wood here. That is on fire. Are you joking?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      225,
+      228
+    ],
+    "raw": "Nerissa, what do you mean am I joking? About what? I don’t think she’s joking for some reason.",
+    "actually": "Nerissa, what do you mean by asking whether I am joking? About what? For some reason, I do not think she is joking.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      228,
+      229
+    ],
+    "raw": "Oh my God, wait, can you put hum in there together to make them stronger?",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      231,
+      234
+    ],
+    "raw": "Yeah, you’re so scary. That’s nice. I feel like I’m in a nightmare all of a sudden. No, but it’s a",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      231,
+      234
+    ],
+    "raw": "Yeah, you’re so scary. That’s nice. I feel like I’m in a nightmare all of a sudden.",
+    "actually": "You are frightening. That is nice; I suddenly feel as though I am in a nightmare.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      235,
+      237
+    ],
+    "raw": "Open your door, I want to snoop. There’s nothing fun in my house. You can just crawl into the window, can’t you?",
+    "actually": "Open your door; I want to look around. There is nothing interesting in my house. Can you not crawl through the window?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      237,
+      240
+    ],
+    "raw": "Try it anyway. Welcome in. This cannot climb the window. Um, anywhere you go there’s just building stuff.",
+    "actually": "Try anyway; welcome. This cannot climb through the window. There is building material everywhere.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      240,
+      243
+    ],
+    "raw": "Speaking of, your stairs confuse me. Yeah, me too. They’re fine. Stairs, sh.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      240,
+      242
+    ],
+    "raw": "Speaking of, your stairs confuse me. Yeah, me too. They’re fine.",
+    "actually": "Your stairs confuse me. Me too. They are fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      243,
+      246
+    ],
+    "raw": "Yeah, it’s quite uh it’s quite fun. It’s a cute little, it’s it’s it’s humble, but it’s my it’s my place. It’s like a Barbie’s dream house. Yeah, exactly.",
+    "actually": "It is enjoyable; small and charming. It is humble, but it is my home. Like Barbie’s Dreamhouse? Exactly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      246,
+      251
+    ],
+    "raw": "Nerissa, your egg is done. Really? I just went over there and it said it had like a while left. Do you want to know what’s in my egg? Is that why you’re asking? Yeah. What’s in your egg?",
+    "actually": "Nerissa, your egg is ready. Really? It said there was still some time left when I checked. Are you asking because you want to know what is in it? Yes; what is in your egg?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      252,
+      258
+    ],
+    "raw": "Okay, let me quick, um, I need to grab, I need to grab, and we can wait. You got to you got to powder your face or your nose or your wings? Yeah, I need I need to grab another egg to put in when I take that one out. Yeah, I’ve been I I got quite the collection of them.",
+    "actually": "I need to get something; we can wait. Do you need to powder your face, nose, or wings? I need another egg to replace this one when I remove it; I have quite a collection.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      258,
+      260
+    ],
+    "raw": "Let’s see. All right, let’s see what this one is. This one is a Foxparks. And, oh, wow, so so rare.",
+    "actually": "Let us see what this is. It is a Foxparks. Very rare.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      261,
+      264
+    ],
+    "raw": "Why did it say 99 95959? Or can I not see? I guess I can’t see the timer, um, maybe. Yeah, too. Yeah, what what is it that up?",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      261,
+      263
+    ],
+    "raw": "Why did it say 99 95959? Or can I not see? I guess I can’t see the timer, um, maybe.",
+    "actually": "Why did it say “99 95959”? Or can I not see? Perhaps I cannot see the timer.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      265,
+      270
+    ],
+    "raw": "Oh, thank you. Sorry, I don’t have enough leather to make one for f you can do that I we’re level 14 she already a 13 yeah I’m baby this is 19 but she already looks much cooler h I don’t I look cool want",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      265,
+      266
+    ],
+    "raw": "Oh, thank you. Sorry, I don’t have enough leather to make one.",
+    "actually": "Thank you. Sorry, I lack enough leather to make one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      267,
+      269
+    ],
+    "raw": "We’re level 14. She already a 13. Yeah, I’m baby. This is 19, but she already looks much cooler.",
+    "actually": "We are level fourteen; she is already thirteen. I am inexperienced. This is nineteen, but she already looks much cooler.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      271,
+      274
+    ],
+    "raw": "Boo, you look with your witch hat here here here I’ll give you I’ll give you this one take this one oh wow look at youa",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      272,
+      274
+    ],
+    "raw": "Here here here, I’ll give you I’ll give you this one. Take this one. Oh, wow, look at you.",
+    "actually": "Here; I will give you this one. Take it. Look at you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      275,
+      277
+    ],
+    "raw": "Thank you. Put, you’re like a Power Ranger. Yeah, uh, Kyla gave this to me. Look so much cooler now, thank you.",
+    "actually": "Thank you. You resemble a Power Ranger. Kyla gave this to me. You look much cooler now; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      279,
+      283
+    ],
+    "raw": "It matches our hat, right? Yeah, yeah, it does. You look like a fire witch or a cowboy witch. Cowboy witch, what? Yeah, instead of like magic wands, you got guns.",
+    "actually": "It matches our hat, correct? Yes. You look like a fire witch or a cowboy witch. A cowboy witch? You have guns instead of magic wands.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      283,
+      285
+    ],
+    "raw": "Well, shall we go to Shiori’s base, or? Okay, I don’t know how to get there, actually. No, but let’s go.",
+    "actually": "Shall we go to Shiori’s base? I do not actually know how to get there, but let us go.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      285,
+      289
+    ],
+    "raw": "Mea mea and then are we going to run there or fast travel closes maybe I think you’re going to have to walk or fast travel to walk I know where it is",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      286,
+      287
+    ],
+    "raw": "And then are we going to run there or fast travel?",
+    "actually": "Will we run there or use fast travel?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      289,
+      292
+    ],
+    "raw": "I know where it is. Maybe. Yes, I think I know where it is. It’s not too too far. Let let’s have an adventure. Let’s go.",
+    "actually": "I know where it is—perhaps. I think I know; it is not very far. Let us have an adventure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      292,
+      296
+    ],
+    "raw": "Wait, Boo, why can’t I ride Melpaca? Did you make a saddle? I did. Maybe we had to give it. Come on, Cafe, I need to ride with you. Let’s continue.",
+    "actually": "Boo, why can I not ride Melpaca? Did you make a saddle? Yes. Perhaps we needed to give it. Come on, Cafe; I need to ride with you. Let us continue.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      296,
+      300
+    ],
+    "raw": "Your bird’s on fire while you’re flying. He’s fine, he’s he’s fine. Look at him. Yeah, go. Oh, that’s so cute. I like that one.",
+    "actually": "Your bird is on fire while you fly. He is fine; look at him. That is cute; I like that one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      301,
+      306
+    ],
+    "raw": "Okay, is a little slow. All right, I’m going follow Biboo cuz I I don’t remember how to get home. Okay, you don’t remember how to get home? No, once I made a teleporter, I was like, yeah, that’s good enough. All I know is it’s in Canada.",
+    "actually": "It is a little slow. I will follow Biboo because I do not remember the way home. You do not? No; after making a teleporter, I considered that sufficient. I only know it is in Canada.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      307,
+      310
+    ],
+    "raw": "Oh, and this is IRyS’s base, so IRyS lives here. Can I get this found? Oh, that thing looks cool. It’s like toilet paper, I kind of want it.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      307,
+      308
+    ],
+    "raw": "Oh, and this is IRyS’s base, so IRyS lives here.",
+    "actually": "This is IRyS’s base, where she lives.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      308,
+      310
+    ],
+    "raw": "Oh, that thing looks cool. It’s like toilet paper, I kind of want it.",
+    "actually": "That looks interesting, like toilet paper; I would like it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      310,
+      312
+    ],
+    "raw": "We found something. Borrow? Should we borrow it? Oh, yeah, take it, take it.",
+    "actually": "We found something. Should we borrow it? Yes; take it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      313,
+      318
+    ],
+    "raw": "Have I okay maaaaaa is in trouble milaa what are you doinga what’s going on oh are they getting raided here I will help you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      316,
+      319
+    ],
+    "raw": "What’s going on? Oh, are they getting raided? Here, I will help you. I’m just going to watch.",
+    "actually": "What is happening? Are they being raided? I will help you. I will watch.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      319,
+      324
+    ],
+    "raw": "Oh, wait, my God. Oh my God, hold on, I have to be right back. My gun is broken. I need my, oh no. One sec, it’ll be really fast. I have no idea what just happened here. I have no idea what’s going on.",
+    "actually": "Wait; I need to return in a moment. My gun is broken, and I need my—one moment, it will be quick. I have no idea what happened or what is happening.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      325,
+      327
+    ],
+    "raw": "Yeah oh it’s the the CI I need to catch one kind of rude of NAA huh there we go what",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      325,
+      326
+    ],
+    "raw": "I need to catch one.",
+    "actually": "I need to catch one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      328,
+      331
+    ],
+    "raw": "Shiny. Oh, sh, hold on. I hear a shiny. Sounds.",
+    "actually": "A shiny. Wait; I hear the sound of a shiny.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      331,
+      334
+    ],
+    "raw": "I tried to capture a shiny at our base, Biboo, but then everyone killed it. What, everyone in your base killed it? Essentially.",
+    "actually": "I tried to capture a shiny at our base, Biboo, but everyone killed it. Everyone at your base? Essentially.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      334,
+      339
+    ],
+    "raw": "That happened to me. I had like a shiny near my base and I tried to get it, and then my whole entire camp came and destroyed it. Oh, man, what kind of shiny was it? It was a stupid cat. I found another one later, so.",
+    "actually": "That happened to me too: I tried to catch a shiny near my base, but everyone in my camp destroyed it. What kind? A cat; I found another later.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      340,
+      346
+    ],
+    "raw": "Hey, can you guys come back up to near my base? Okay, this way. Yeah, I think this is, uh, that’s Reese’s base.",
+    "actually": "Can you come back up near my base? This way; I think that is Reese’s base.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      347,
+      351
+    ],
+    "raw": "Oh, oh, I do hear the shiny too. Really? I don’t know what the shiny sounds like. Is it whoever finds it get to keep it? Yeah, I mean I think something will kill it, but.",
+    "actually": "I hear the shiny too. Really? I do not know its sound. Does whoever finds it keep it? Yes, though I think something will kill it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      352,
+      357
+    ],
+    "raw": "I think I need to quick check my other camp. Yeah, go ahead. I definitely, I hear it, I hear it down near my camp too. Yeah, I don’t know where it is.",
+    "actually": "I think I need to check my other camp quickly. Go ahead. I hear it near my camp too, but do not know where.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      357,
+      361
+    ],
+    "raw": "It’s getting louder. It is. I know what shiny sounds like. Oh, it’s a shiny sheep. Oh, get your sheep. Does anybody want it? I have three already. We don’t have one. Don’t have. Oh, for sure.",
+    "actually": "It is getting louder. I know the sound of a shiny; it is a shiny sheep. Does anyone want it? I already have three. We do not have one. Certainly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      361,
+      365
+    ],
+    "raw": "I can see you know Reese’s house yeah it’s on the cliff behind the’s house okay oh I see something up there",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      363,
+      365
+    ],
+    "raw": "You know Reese’s house? Yeah, it’s on the cliff behind the’s house. Okay, oh, I see something up there.",
+    "actually": "Do you know Reese’s house? It is on the cliff behind the house. I see something up there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      366,
+      369
+    ],
+    "raw": "Bless you, bless you. We’re going to fall off the cliff. We’re not. Oh, poor pullet, it stood no chance. I think we run him over and now he’s a bit angry.",
+    "actually": "Bless you. We will fall off the cliff. We will not. The poor pullet had no chance; I think we ran him over and now he is somewhat angry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      369,
+      372
+    ],
+    "raw": "Oh, did I? Up up up. Oh, yeah, there it is. Wait. All right, you could probably capture this one; nothing will kill it.",
+    "actually": "Did I? Up there; there it is. You could probably catch this one; nothing will kill it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      372,
+      378
+    ],
+    "raw": "Oh, up up. Oh, really? Are you guys lost? It’s over here. Get it, get it. Okay, okay, okay. I just have to remember how to throw stuff. Yeah, I, Q. Poke it a little bit. Okay, here goes.",
+    "actually": "Are you lost? It is here; catch it. I need to remember how to throw things. Q. Poke it a little; here goes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      379,
+      386
+    ],
+    "raw": "Malaa how do I get oh is it dead back press e press e yeah put put my pack away put my pack away I’m just I’m just watching the kids how do I oh no oh no everything’s about to kill it how do I Q Q okay there you go I it was dead",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      380,
+      383
+    ],
+    "raw": "Oh, is it dead? Back. Press E, press E. Yeah, put put my pack away, put my pack away. I’m just I’m just watching the kids.",
+    "actually": "Is it dead? Go back; press E. Put my pack away. I am just watching the children.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      384,
+      386
+    ],
+    "raw": "How do I, oh no, oh no, everything’s about to kill it. How do I? Q. Q. Okay, there you go.",
+    "actually": "How do I? Everything is about to kill it. Q; there we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      386,
+      390
+    ],
+    "raw": "Oh, oh no, uh, maybe lower the health a little bit more. Use the, I don’t know, I think’ll get it.",
+    "actually": "Perhaps lower its health a little more. Use the—I do not know; I think it will get it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      391,
+      394
+    ],
+    "raw": "Okay, good job. I grab it for you just in case because I felt like’s pal were going to kill it. I’m going to grab it and drop it. Thank you, thank you.",
+    "actually": "Well done. I caught it for you as a precaution because I thought the Pals would kill it. I will take it and drop it. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      394,
+      397
+    ],
+    "raw": "Where are you? Hold on, I’m I’m grabbing it out of my box. I’ll drop it. What should we name it then?",
+    "actually": "Where are you? Wait; I am taking it from my box and will drop it. What should we name it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      397,
+      402
+    ],
+    "raw": "Will I die if I try to jump this? Ah, we did before and we didn’t. Maybe I should shouldn’t try it. I don’t think my wolf can jump that high. Well.",
+    "actually": "Will I die if I attempt this jump? We tried before and did not. Perhaps I should—should not try. I do not think my wolf can jump that high.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      403,
+      409
+    ],
+    "raw": "What call it deep oh actually see like a a deep with a d deep deep deep deep deep oh there’s a fall damage for the M oh wait why did I do that I could just do this DJ DJ e DJ e",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      407,
+      408
+    ],
+    "raw": "Oh, wait, why did I do that? I could just do this.",
+    "actually": "Why did I do that? I could do this instead.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      410,
+      412
+    ],
+    "raw": "Okay, where are you guys? I am in front of the house. No’s house house. Yeah, let’s go. That was pretty smart at me.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      410,
+      411
+    ],
+    "raw": "Okay, where are you guys? I am in front of the house.",
+    "actually": "Where are you? I am in front of the house.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      412,
+      412
+    ],
+    "raw": "That was pretty smart at me.",
+    "actually": "That was quite clever of me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      413,
+      417
+    ],
+    "raw": "Okay, uh, pick this up. Uh, I just, oh, yeah, uh, boop. Oh, it’s so dark. Here you go. Oh, that, thank you, thank you.",
+    "actually": "Pick this up. It is very dark; here you are. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      417,
+      421
+    ],
+    "raw": "Your Pals were probably going to kill it, so I had to grab it really fast. Yeah, I’m sorry, they’re murderers. It’s it’s okay, that’s what happens when you erase things. No.",
+    "actually": "Your Pals would probably kill it, so I needed to catch it quickly. Sorry; they are murderers. It is fine; that happens when you erase things. No.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      422,
+      427
+    ],
+    "raw": "Probably probably let’s bring up Mya again okay where are you guys is going to their box to get the the Jeep out okay we can get we can get Jeep later okay we can we can go to Shori then yeah",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      423,
+      427
+    ],
+    "raw": "Okay, where are you guys? Is going to their box to get the the sheep out. Okay, we can get we can get sheep later. Okay, we can we can go to Shiori then, yeah.",
+    "actually": "Where are you? They are going to their box to get the sheep. We can get the sheep later and go to Shiori now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      428,
+      430
+    ],
+    "raw": "Okay, what’s what’s going on? I forgot that there’s stamina when you glide. There we",
+    "actually": "What is happening? I forgot that gliding uses stamina.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      210,
+      210
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      230,
+      230
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      278,
+      278
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      345,
+      345
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      356,
+      356
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      362,
+      362
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

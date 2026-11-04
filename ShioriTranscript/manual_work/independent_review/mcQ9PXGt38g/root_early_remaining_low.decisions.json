@@ -1,0 +1,132 @@
+[
+  {
+    "source_segments": [
+      20,
+      21
+    ],
+    "raw": "Can I finally do",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      25,
+      26
+    ],
+    "raw": "How do I How do I leave this post off first time?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      27,
+      28
+    ],
+    "raw": "Yeah, she's a moment ago.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      45,
+      46
+    ],
+    "raw": "I think everyone",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      75,
+      75
+    ],
+    "raw": "How do you pay?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      83,
+      83
+    ],
+    "raw": "Oh, she's a blog. Okay.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      90,
+      90
+    ],
+    "raw": "Switch to",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      91,
+      93
+    ],
+    "raw": "How do you switch to other people when you're five and then you go",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      295,
+      295
+    ],
+    "raw": "I have",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      578,
+      578
+    ],
+    "raw": "Put the best five in the four.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; exact source text retained without unsupported completion."
+  },
+  {
+    "source_segments": [
+      35,
+      35
+    ],
+    "raw": "big bow",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR, kept without inventing meaning."
+  },
+  {
+    "source_segments": [
+      288,
+      288
+    ],
+    "raw": "The way it's going to figure it out.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR, kept without inventing meaning."
+  },
+  {
+    "source_segments": [
+      292,
+      292
+    ],
+    "raw": "at the right.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain/incomplete ASR, kept without inventing meaning."
+  }
+]

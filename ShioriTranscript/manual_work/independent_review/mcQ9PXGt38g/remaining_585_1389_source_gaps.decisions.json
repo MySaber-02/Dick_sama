@@ -1,0 +1,262 @@
+[
+  {
+    "source_segments": [
+      660,
+      660
+    ],
+    "raw": "You got this. You got this.",
+    "actually": "You can do this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      671,
+      671
+    ],
+    "raw": "Y.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Isolated letter or ASR syllable; no reliable lexical meaning."
+  },
+  {
+    "source_segments": [
+      689,
+      689
+    ],
+    "raw": "Okay.",
+    "actually": "Okay.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      690,
+      690
+    ],
+    "raw": "Bale zoo.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unresolved ASR/name phrase; do not guess."
+  },
+  {
+    "source_segments": [
+      690,
+      690
+    ],
+    "raw": "Okay. Of course you are.",
+    "actually": "Of course you are.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      694,
+      694
+    ],
+    "raw": "Ending Iris.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear whether this is a name or interrupted command; do not infer."
+  },
+  {
+    "source_segments": [
+      702,
+      702
+    ],
+    "raw": "Y.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Isolated letter or ASR syllable, distinct real occurrence from671."
+  },
+  {
+    "source_segments": [
+      706,
+      706
+    ],
+    "raw": "Why am I so",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Question stops before its predicate; retain incomplete source."
+  },
+  {
+    "source_segments": [
+      713,
+      713
+    ],
+    "raw": "It's so",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Sentence stops before its complement."
+  },
+  {
+    "source_segments": [
+      772,
+      772
+    ],
+    "raw": "Can I get inside my the dude?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "The referent and ASR noun boundary cannot be reliably resolved."
+  },
+  {
+    "source_segments": [
+      844,
+      844
+    ],
+    "raw": "She do it.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Text alone cannot establish whether this was a command or an observation."
+  },
+  {
+    "source_segments": [
+      848,
+      848
+    ],
+    "raw": "That's really good.",
+    "actually": "That is very good.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      897,
+      897
+    ],
+    "raw": "Yeah, I am a",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Incomplete predicate ends after article."
+  },
+  {
+    "source_segments": [
+      902,
+      903
+    ],
+    "raw": "I'm hoping hidden behind this couch.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear subject/object of hope; do not invent who is hidden."
+  },
+  {
+    "source_segments": [
+      907,
+      908
+    ],
+    "raw": "Position my my favorite sausage.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear ASR phrase and speaker boundary; do not infer an instruction."
+  },
+  {
+    "source_segments": [
+      913,
+      914
+    ],
+    "raw": "It's really",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Sentence ends before adjective or complement."
+  },
+  {
+    "source_segments": [
+      927,
+      928
+    ],
+    "raw": "Actually, a lot of you guys I'm going to give it",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Incomplete action/object, with interrupted leading phrase."
+  },
+  {
+    "source_segments": [
+      964,
+      965
+    ],
+    "raw": "The one-sided me.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Unclear nominal phrase; retain source determiner from preceding caption."
+  },
+  {
+    "source_segments": [
+      992,
+      992
+    ],
+    "raw": "H.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Isolated letter/syllable, not reliably identifiable."
+  },
+  {
+    "source_segments": [
+      1256,
+      1256
+    ],
+    "raw": "I got to go within.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "The intended action/referent of within is unclear in this ASR fragment."
+  },
+  {
+    "source_segments": [
+      1267,
+      1267
+    ],
+    "raw": "It's not do space bar and then",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Damaged command fragment stops before next action; no inferred key sequence."
+  },
+  {
+    "source_segments": [
+      1289,
+      1290
+    ],
+    "raw": "Oh my god.",
+    "actually": "Oh my god.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1297,
+      1297
+    ],
+    "raw": "Should I get",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Question stops before object."
+  },
+  {
+    "source_segments": [
+      1331,
+      1332
+    ],
+    "raw": "I feel like my",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Sentence stops after possessive determiner."
+  },
+  {
+    "source_segments": [
+      1332,
+      1332
+    ],
+    "raw": "Oh.",
+    "actually": "Oh.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      1381,
+      1381
+    ],
+    "raw": "Are we all just",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Question stops before verb/complement."
+  }
+]

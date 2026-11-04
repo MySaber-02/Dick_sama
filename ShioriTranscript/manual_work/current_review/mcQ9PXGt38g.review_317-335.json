@@ -1,0 +1,1196 @@
+[
+  {
+    "draft_row": 317,
+    "source_segment_indices": [
+      2308
+    ],
+    "raw": "Me with my old spice.",
+    "status": "SFT",
+    "actually": "Me with my Old Spice."
+  },
+  {
+    "draft_row": 317,
+    "source_segment_indices": [
+      2309,
+      2310
+    ],
+    "raw": "I like smelling good. You can do whatever you want, but I like it's last.",
+    "status": "LOW",
+    "reason": "Clear preference for smelling good recovered separately; ending 'but I like it’s last' unclear."
+  },
+  {
+    "draft_row": 317,
+    "source_segment_indices": [
+      2311,
+      2312,
+      2313
+    ],
+    "raw": "We got to do this together. I got to rub my scent all over you, Mory. Please.",
+    "status": "SFT",
+    "actually": "We need to do this together. I need to rub my scent all over you, Mory. Please."
+  },
+  {
+    "draft_row": 317,
+    "source_segment_indices": [
+      2314
+    ],
+    "raw": "Wait, wait, wait. We might make it.",
+    "status": "SFT",
+    "actually": "Wait; we might succeed."
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2315,
+      2316
+    ],
+    "raw": "Please, please. It would be so funny. Please.",
+    "status": "SFT",
+    "actually": "Please; it would be very funny."
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2317
+    ],
+    "raw": "Oh my god. Oh my god.",
+    "status": "SFT",
+    "actually": "Oh my goodness."
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2318
+    ],
+    "raw": "Did we do it?",
+    "status": "SFT",
+    "actually": "Did we do it?"
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2319,
+      2320,
+      2321
+    ],
+    "raw": "Please. Yes. Now they're going to come over here and be like, \"What the heck?",
+    "status": "SFT",
+    "actually": "Please. Yes; now they will come over and wonder what happened."
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2322
+    ],
+    "raw": "What? Where did you hide even?\"",
+    "status": "SFT",
+    "actually": "What? Where did you hide?"
+  },
+  {
+    "draft_row": 318,
+    "source_segment_indices": [
+      2323,
+      2324
+    ],
+    "raw": "In the lockers. They passed me a million times.",
+    "status": "SFT",
+    "actually": "In the lockers; they passed me many times."
+  },
+  {
+    "draft_row": 319,
+    "source_segment_indices": [
+      2325,
+      2326,
+      2327
+    ],
+    "raw": "Oh, that's so smart. That's good. Good job, too, man. Yeah, let's go back. Let's go.",
+    "status": "SFT",
+    "actually": "That is very clever. Well done to you too. Let us go back."
+  },
+  {
+    "draft_row": 319,
+    "source_segment_indices": [
+      2328
+    ],
+    "raw": "Okay,",
+    "status": "SFT",
+    "actually": "Okay."
+  },
+  {
+    "draft_row": 319,
+    "source_segment_indices": [
+      2329,
+      2330,
+      2331,
+      2332
+    ],
+    "raw": "tube tube. I didn't know you could hide in there without getting without glowing.",
+    "status": "SFT",
+    "actually": "Tube. I did not know you could hide in there without glowing."
+  },
+  {
+    "draft_row": 319,
+    "source_segment_indices": [
+      2333
+    ],
+    "raw": "Smart.",
+    "status": "SFT",
+    "actually": "Clever."
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2334,
+      2335
+    ],
+    "raw": "The tow not going to work. She made a mistake. She made a mistake.",
+    "status": "LOW",
+    "reason": "Unclear opening 'The tow not going to work'; clear mistake statement recovered separately."
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2336
+    ],
+    "raw": "She didn't mean to.",
+    "status": "SFT",
+    "actually": "She did not mean to."
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2337,
+      2338
+    ],
+    "raw": "You like my You like my vibrating cactus.",
+    "status": "SFT",
+    "actually": "Do you like my vibrating cactus?"
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2339
+    ],
+    "raw": "Vibrate.",
+    "status": "SFT",
+    "actually": "Vibrate."
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2340,
+      2341
+    ],
+    "raw": "I don't know why you vibrate when you're cactus. That happened to me, too.",
+    "status": "SFT",
+    "actually": "I do not know why you vibrate as a cactus; that happened to me too."
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2342
+    ],
+    "raw": "Cactus is so good.",
+    "status": "SFT",
+    "actually": "The cactus is very good."
+  },
+  {
+    "draft_row": 321,
+    "source_segment_indices": [
+      2343
+    ],
+    "raw": "I also like the the swan. GG.",
+    "status": "SFT",
+    "actually": "I also like the swan, GG."
+  },
+  {
+    "draft_row": 321,
+    "source_segment_indices": [
+      2344
+    ],
+    "raw": "You like it?",
+    "status": "SFT",
+    "actually": "Do you like it?"
+  },
+  {
+    "draft_row": 321,
+    "source_segment_indices": [
+      2345,
+      2346
+    ],
+    "raw": "I didn't realize you can only paint one clone at a time. Oh,",
+    "status": "SFT",
+    "actually": "I did not realize you could paint only one clone at a time."
+  },
+  {
+    "draft_row": 321,
+    "source_segment_indices": [
+      2347,
+      2348,
+      2349
+    ],
+    "raw": "you have to finish one of your clones and you have to paint the other one next. You guys are cloning yourself.",
+    "status": "SFT",
+    "actually": "You have to finish one clone, then paint the other. You are cloning yourselves."
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2350,
+      2351,
+      2352
+    ],
+    "raw": "Wow. You must you must be painting so quickly if you could start painting clones.",
+    "status": "SFT",
+    "actually": "You must paint very quickly if you can begin painting clones."
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2353
+    ],
+    "raw": "Wait, what?",
+    "status": "SFT",
+    "actually": "Wait, what?"
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2354
+    ],
+    "raw": "What the heck?",
+    "status": "SFT",
+    "actually": "What?"
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2355,
+      2356,
+      2357
+    ],
+    "raw": "You can yourself with Q and then you can make different shades.",
+    "status": "SFT",
+    "actually": "You can clone yourself with Q, then make different shades."
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2358
+    ],
+    "raw": "Okay, maybe this one.",
+    "status": "SFT",
+    "actually": "Perhaps this one."
+  },
+  {
+    "draft_row": 322,
+    "source_segment_indices": [
+      2359
+    ],
+    "raw": "Interesting information.",
+    "status": "SFT",
+    "actually": "Interesting information."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2360,
+      2361
+    ],
+    "raw": "This is a big map. Oops. Whoa. Good luck, everyone.",
+    "status": "SFT",
+    "actually": "This is a large map. Oops. Good luck, everyone."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2362,
+      2363
+    ],
+    "raw": "Is it my time? Please. It's my time. Please. I need this.",
+    "status": "SFT",
+    "actually": "Is it my time? Please; it is my time. I need this."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2364
+    ],
+    "raw": "The hunter.",
+    "status": "SFT",
+    "actually": "The hunter."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2365
+    ],
+    "raw": "Okay, I'm going to try to be square.",
+    "status": "SFT",
+    "actually": "I will try to be square."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2366
+    ],
+    "raw": "Please give it to her.",
+    "status": "SFT",
+    "actually": "Please give it to her."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2367,
+      2368
+    ],
+    "raw": "No, don't give it to me. Don't give it to me.",
+    "status": "SFT",
+    "actually": "No, do not give it to me."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2369
+    ],
+    "raw": "Oh, it's me.",
+    "status": "SFT",
+    "actually": "It is me."
+  },
+  {
+    "draft_row": 323,
+    "source_segment_indices": [
+      2370
+    ],
+    "raw": "Yes.",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2371
+    ],
+    "raw": "Oh, do you really not this map though?",
+    "status": "LOW",
+    "reason": "Unclear missing verb in map-related question."
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2372,
+      2373
+    ],
+    "raw": "All right. Be careful what you say cuz I'm listening very closely.",
+    "status": "SFT",
+    "actually": "Be careful what you say; I am listening very closely."
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2374
+    ],
+    "raw": "Oh, you're listening.",
+    "status": "SFT",
+    "actually": "You are listening."
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2375
+    ],
+    "raw": "Are you listening to me?",
+    "status": "SFT",
+    "actually": "Are you listening to me?"
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2376
+    ],
+    "raw": "Mhm.",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 324,
+    "source_segment_indices": [
+      2377,
+      2378
+    ],
+    "raw": "If you find me, I'll give you Five big wet kisses.",
+    "status": "SFT",
+    "actually": "If you find me, I will give you five big, wet kisses."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2379
+    ],
+    "raw": "What?",
+    "status": "SFT",
+    "actually": "What?"
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2380
+    ],
+    "raw": "She would love that.",
+    "status": "SFT",
+    "actually": "She would love that."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2381
+    ],
+    "raw": "What? She would.",
+    "status": "SFT",
+    "actually": "What? She would."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2382
+    ],
+    "raw": "I don't know. Maybe.",
+    "status": "SFT",
+    "actually": "I do not know; perhaps."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2383,
+      2384
+    ],
+    "raw": "What about being like one of those? Something intimidating.",
+    "status": "SFT",
+    "actually": "What about being one of those? Something intimidating."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2385,
+      2386
+    ],
+    "raw": "Well, so maybe maybe that's I don't go to as much.",
+    "status": "LOW",
+    "reason": "Unclear tentative suggestion and unfinished destination/frequency reference."
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2387,
+      2388
+    ],
+    "raw": "It's my time. It's my time. I've been waiting for",
+    "status": "LOW",
+    "reason": "Clear anticipation recovered separately; unfinished waiting clause."
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2389,
+      2390
+    ],
+    "raw": "It's It's a mansion. It's like a party mansion or something, right?",
+    "status": "SFT",
+    "actually": "It is a mansion, something like a party mansion, correct?"
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2391,
+      2392
+    ],
+    "raw": "Oh, okay.",
+    "status": "SFT",
+    "actually": "Okay."
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2393,
+      2394
+    ],
+    "raw": "Um, what if I wore like a tuxedo?",
+    "status": "SFT",
+    "actually": "What if I wore a tuxedo?"
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2395,
+      2396,
+      2397
+    ],
+    "raw": "Yeah. kind of maybe myself in a t could be good.",
+    "status": "LOW",
+    "reason": "Unclear 'myself in a t' suggestion; do not invent missing noun."
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2398
+    ],
+    "raw": "Spin spin spin.",
+    "status": "SFT",
+    "actually": "Spin."
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2399
+    ],
+    "raw": "But it matches. It matches.",
+    "status": "SFT",
+    "actually": "But it matches."
+  },
+  {
+    "draft_row": 326,
+    "source_segment_indices": [
+      2400
+    ],
+    "raw": "I'm the big boss.",
+    "status": "SFT",
+    "actually": "I am the big boss."
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2401
+    ],
+    "raw": "I don't know where else to go.",
+    "status": "SFT",
+    "actually": "I do not know where else to go."
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2402
+    ],
+    "raw": "There. Like this one.",
+    "status": "SFT",
+    "actually": "There, like this one."
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2403
+    ],
+    "raw": "What's the point?",
+    "status": "SFT",
+    "actually": "What is the point?"
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2404,
+      2405
+    ],
+    "raw": "There. This look of the text. No one will ever know.",
+    "status": "LOW",
+    "reason": "Unclear text-related instruction; clear assertion of concealment recovered separately."
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2406,
+      2407,
+      2408
+    ],
+    "raw": "There. Okay. Okay, let's try the details.",
+    "status": "SFT",
+    "actually": "There; okay. Let us try the details."
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2409,
+      2410,
+      2411
+    ],
+    "raw": "That is my cat. Um, I'm going to try to look at the other one.",
+    "status": "SFT",
+    "actually": "That is my cat. I will try to look at the other one."
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2412
+    ],
+    "raw": "Can I start with the base?",
+    "status": "SFT",
+    "actually": "Can I start with the base?"
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2413
+    ],
+    "raw": "This is the base. Start doing the after.",
+    "status": "LOW",
+    "reason": "Clear identification of base recovered separately; 'Start doing the after' unresolved."
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2414
+    ],
+    "raw": "Yeah.",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2415
+    ],
+    "raw": "What was that?",
+    "status": "SFT",
+    "actually": "What was that?"
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2416,
+      2417
+    ],
+    "raw": "Checking the angles is really important, too. I know you don't do that.",
+    "status": "SFT",
+    "actually": "Checking the angles is very important too; I know you do not do that."
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2418,
+      2419
+    ],
+    "raw": "Tricky. It's tricky. It's tricky.",
+    "status": "SFT",
+    "actually": "It is tricky."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2420,
+      2421,
+      2422
+    ],
+    "raw": "Okay. Okay. Okay. That is this time to rock. Where can I go down?",
+    "status": "LOW",
+    "reason": "Malformed time-to-rock clause; clear question recovered separately."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2423
+    ],
+    "raw": "I love that game.",
+    "status": "SFT",
+    "actually": "I love that game."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2424
+    ],
+    "raw": "My name is Mory.",
+    "status": "SFT",
+    "actually": "My name is Mory."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2425,
+      2426
+    ],
+    "raw": "Get ready for a little bit. It gets kind of gory.",
+    "status": "SFT",
+    "actually": "Get ready; it becomes rather gory."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2427,
+      2428
+    ],
+    "raw": "Maybe. Turn off.",
+    "status": "LOW",
+    "reason": "Unclear truncated switch-off suggestion."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2429
+    ],
+    "raw": "How do you There.",
+    "status": "LOW",
+    "reason": "Unfinished procedural question; clear There recovered separately."
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2430,
+      2431
+    ],
+    "raw": "Oh, all the way up. Oh, that made a noise.",
+    "status": "SFT",
+    "actually": "All the way up; that made a noise."
+  },
+  {
+    "draft_row": 330,
+    "source_segment_indices": [
+      2432,
+      2433
+    ],
+    "raw": "All the way up. I am going to find them and I am going to kill them.",
+    "status": "SFT",
+    "actually": "All the way up. I will find them and kill them."
+  },
+  {
+    "draft_row": 330,
+    "source_segment_indices": [
+      2434
+    ],
+    "raw": "Oh, frightening.",
+    "status": "SFT",
+    "actually": "Frightening."
+  },
+  {
+    "draft_row": 330,
+    "source_segment_indices": [
+      2435,
+      2436,
+      2437
+    ],
+    "raw": "I hope you find me actually. I really hope you find I really hope you find me.",
+    "status": "SFT",
+    "actually": "I hope you find me; I really hope you do."
+  },
+  {
+    "draft_row": 330,
+    "source_segment_indices": [
+      2438
+    ],
+    "raw": "Oh yeah. Is it that good?",
+    "status": "SFT",
+    "actually": "Is it that good?"
+  },
+  {
+    "draft_row": 330,
+    "source_segment_indices": [
+      2439
+    ],
+    "raw": "Yes, it is that good.",
+    "status": "SFT",
+    "actually": "Yes, it is that good."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2440
+    ],
+    "raw": "It is so hard to turn sometimes.",
+    "status": "SFT",
+    "actually": "It is very hard to turn sometimes."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2441
+    ],
+    "raw": "Real good hiding spot.",
+    "status": "SFT",
+    "actually": "A very good hiding spot."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2442,
+      2443
+    ],
+    "raw": "No, we're in a real real good hiding spot.",
+    "status": "SFT",
+    "actually": "No, we are in a very good hiding spot."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2444
+    ],
+    "raw": "You say so. I'm excited to see it.",
+    "status": "SFT",
+    "actually": "If you say so; I am excited to see it."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2445
+    ],
+    "raw": "Please find me. Please.",
+    "status": "SFT",
+    "actually": "Please find me."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2446
+    ],
+    "raw": "All right.",
+    "status": "SFT",
+    "actually": "All right."
+  },
+  {
+    "draft_row": 331,
+    "source_segment_indices": [
+      2447,
+      2448
+    ],
+    "raw": "Yeah, find me, too. Pick the other color.",
+    "status": "SFT",
+    "actually": "Find me too. Pick the other color."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2449,
+      2450
+    ],
+    "raw": "Dang. They're just wanting to show off their cool designs.",
+    "status": "SFT",
+    "actually": "They just want to show off their impressive designs."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2451
+    ],
+    "raw": "Yeah.",
+    "status": "SFT",
+    "actually": "Yes."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2452
+    ],
+    "raw": "Oh, we still got a minute left. Okay,",
+    "status": "SFT",
+    "actually": "We still have a minute left; okay."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2453
+    ],
+    "raw": "that's not the right color.",
+    "status": "SFT",
+    "actually": "That is not the right color."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2454
+    ],
+    "raw": "Ah, there we go.",
+    "status": "SFT",
+    "actually": "There we are."
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2455,
+      2456
+    ],
+    "raw": "What? That's orange. What the heck? Why is it orange?",
+    "status": "SFT",
+    "actually": "What? That is orange; why is it orange?"
+  },
+  {
+    "draft_row": 332,
+    "source_segment_indices": [
+      2457
+    ],
+    "raw": "Okay, that's better.",
+    "status": "SFT",
+    "actually": "That is better."
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2458,
+      2459,
+      2460
+    ],
+    "raw": "I cannot with no pants. Mine 30 seconds. You need to get another one.",
+    "status": "LOW",
+    "reason": "Unfinished pants-related clause; clear countdown/instruction recovered separately."
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2461
+    ],
+    "raw": "Nothing personal.",
+    "status": "SFT",
+    "actually": "Nothing personal.",
+    "raw_fixes": [
+      [
+        "personnel",
+        "personal"
+      ]
+    ]
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2462,
+      2463
+    ],
+    "raw": "Get another one.",
+    "status": "SFT",
+    "actually": "Get another one."
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2464
+    ],
+    "raw": "What do you mean by another one?",
+    "status": "SFT",
+    "actually": "What do you mean by another one?"
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2465,
+      2466
+    ],
+    "raw": "Okay. Do some details. You 20 seconds to do some little details.",
+    "status": "SFT",
+    "actually": "Add some details; you have twenty seconds for small details."
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2467
+    ],
+    "raw": "Yeah. Good luck.",
+    "status": "SFT",
+    "actually": "Good luck."
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2468,
+      2469,
+      2470
+    ],
+    "raw": "You'll never find me. You'll never find me. You'll never ever find me.",
+    "status": "SFT",
+    "actually": "You will never find me."
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2471,
+      2472
+    ],
+    "raw": "You're doing something funny. They're doing funny stuff.",
+    "status": "SFT",
+    "actually": "You are doing something funny; they are doing funny things."
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2473,
+      2474,
+      2475
+    ],
+    "raw": "Please find me. I really What do you want? What do you want? I need I need more KIP specifically to fly.",
+    "status": "LOW",
+    "reason": "Clear request/question recovered separately; unclear KIP flying reference."
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2476
+    ],
+    "raw": "What? It'll be good.",
+    "status": "SFT",
+    "actually": "What? It will be good."
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2477,
+      2478
+    ],
+    "raw": "Okay, let's see what we got. Bye.",
+    "status": "SFT",
+    "actually": "Let us see what we have. Goodbye."
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2479
+    ],
+    "raw": "We'll be good.",
+    "status": "SFT",
+    "actually": "We will be fine."
+  },
+  {
+    "draft_row": 335,
+    "source_segment_indices": [
+      2480
+    ],
+    "raw": "All right, out. I go.",
+    "status": "SFT",
+    "actually": "Out I go."
+  },
+  {
+    "draft_row": 335,
+    "source_segment_indices": [
+      2481,
+      2482
+    ],
+    "raw": "You're going to cactus again? No, never mind. There is no cact. This is so dumb.",
+    "status": "SFT",
+    "actually": "Are you going to be a cactus again? No, never mind; there is no cactus. This is very silly."
+  },
+  {
+    "draft_row": 335,
+    "source_segment_indices": [
+      2483
+    ],
+    "raw": "I'm not.",
+    "status": "SFT",
+    "actually": "I am not."
+  },
+  {
+    "draft_row": 335,
+    "source_segment_indices": [
+      2484,
+      2485,
+      2486
+    ],
+    "raw": "She's on the ground. Cute. There she's little tuxedo.",
+    "status": "SFT",
+    "actually": "She is on the ground. Cute; her little tuxedo."
+  },
+  {
+    "draft_row": 335,
+    "source_segment_indices": [
+      2487
+    ],
+    "raw": "Look at her go. I like Mory's outfit.",
+    "status": "SFT",
+    "actually": "Look at her go; I like Mory’s outfit."
+  },
+  {
+    "draft_row": 317,
+    "source_segment_indices": [
+      2309,
+      2310
+    ],
+    "raw": "I like smelling good. You can do whatever you want,",
+    "actually": "I like smelling good; you can do whatever you want.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 320,
+    "source_segment_indices": [
+      2334,
+      2335
+    ],
+    "raw": "She made a mistake. She made a mistake.",
+    "actually": "She made a mistake.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 325,
+    "source_segment_indices": [
+      2387
+    ],
+    "raw": "It's my time. It's my time.",
+    "actually": "It is my time.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 327,
+    "source_segment_indices": [
+      2404,
+      2405
+    ],
+    "raw": "No one will ever know.",
+    "actually": "Nobody will ever know.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 328,
+    "source_segment_indices": [
+      2413
+    ],
+    "raw": "This is the base.",
+    "actually": "This is the base.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2422
+    ],
+    "raw": "Where can I go down?",
+    "actually": "Where can I go down?",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 329,
+    "source_segment_indices": [
+      2429
+    ],
+    "raw": "There.",
+    "actually": "There.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 333,
+    "source_segment_indices": [
+      2460
+    ],
+    "raw": "30 seconds. You need to get another one.",
+    "actually": "Thirty seconds; you need another one.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2473
+    ],
+    "raw": "Please find me.",
+    "actually": "Please find me.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "draft_row": 334,
+    "source_segment_indices": [
+      2473,
+      2474
+    ],
+    "raw": "What do you want? What do you want?",
+    "actually": "What do you want?",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "target_raw": "it's taco time yay",
+    "source_segments": [
+      668,
+      670
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "I'm praying I'm praying so bad",
+    "source_segments": [
+      782,
+      783
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "but I don't think so man",
+    "source_segments": [
+      788,
+      789
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "you can totally win this",
+    "source_segments": [
+      806,
+      807
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "oh my god I'm not even painting it correctly really",
+    "source_segments": [
+      808,
+      811
+    ],
+    "note": "painting is a reliable ASR correction of paying in the explicit painting game; raw correction intentional."
+  },
+  {
+    "target_raw": "from the right angle it's really good angle it's really good",
+    "source_segments": [
+      814,
+      816
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "she looks like a present",
+    "source_segments": [
+      826,
+      827
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "I can't use the eyedropper either",
+    "source_segments": [
+      832,
+      832
+    ],
+    "note": "eyropper is a reliable spelling/ASR correction to eyedropper, named correctly by nearby source830."
+  },
+  {
+    "target_raw": "y'all are going to be fine",
+    "source_segments": [
+      916,
+      917
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "you were standing I was not down",
+    "source_segments": [
+      945,
+      948
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "Oh, it looks like we we're all the hunters.",
+    "source_segments": [
+      973,
+      974
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "Yeah. You got to do like a smile. And then you got to do um feathers. Except that's a lot of work. So I'm just going to make you black.",
+    "source_segments": [
+      998,
+      1002
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "oh and then maybe like headlights our venom can I do headlights like that kind of",
+    "source_segments": [
+      1020,
+      1025
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "so I can just like undo my art",
+    "source_segments": [
+      1250,
+      1251
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "oh wait what the heck the environment",
+    "source_segments": [
+      1279,
+      1280
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "no Fokco are going to have their revenge",
+    "source_segments": [
+      1286,
+      1287
+    ],
+    "note": "Replace Fokco with source Fuamoko; no unsupported proper-name reinterpretation."
+  },
+  {
+    "target_raw": "how you guys doing how you guys doing bro",
+    "source_segments": [
+      1328,
+      1329
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  },
+  {
+    "target_raw": "and I was like no Liz look I knew you'd climb",
+    "source_segments": [
+      1349,
+      1352
+    ],
+    "note": "Sentence begins in preceding caption; widen provenance only. No new SFT occurrence."
+  }
+]

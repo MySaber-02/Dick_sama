@@ -1,0 +1,311 @@
+{
+  "patches": [
+    {
+      "staging_row_before_merge": 3,
+      "source_segments": [
+        4,
+        5
+      ],
+      "expected_raw": "wow I don't know these",
+      "replacements": [
+        {
+          "raw": "Wow.",
+          "actually": "That is surprising."
+        },
+        {
+          "raw": "I don't know these.",
+          "actually": "I do not recognize these."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 5,
+      "source_segments": [
+        9,
+        11
+      ],
+      "expected_raw": "mechan extreme chameleon extreme",
+      "replacements": [
+        {
+          "raw": "Extreme Chameleon.",
+          "actually": "Extreme Chameleon."
+        },
+        {
+          "raw": "Extreme.",
+          "actually": "Extreme."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 10,
+      "source_segments": [
+        16,
+        17
+      ],
+      "expected_raw": "my first time",
+      "replacements": [
+        {
+          "raw": "My first time. First time.",
+          "actually": "This is my first time."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 13,
+      "source_segments": [
+        22,
+        23
+      ],
+      "expected_raw": "for random metallic you can make yourself metallic",
+      "replacements": [
+        {
+          "raw": "You can make yourself metallic.",
+          "actually": "You can make yourself metallic."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 36,
+      "source_segments": [
+        55,
+        55
+      ],
+      "expected_raw": "how do I panicking",
+      "replacements": [
+        {
+          "raw": "Panicking.",
+          "actually": "Panicking."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 42,
+      "source_segments": [
+        59,
+        59
+      ],
+      "expected_raw": "and then you do this",
+      "replacements": [
+        {
+          "raw": "And then you do this and then",
+          "actually": "Then you do this, and then—"
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 57,
+      "source_segments": [
+        71,
+        72
+      ],
+      "expected_raw": "I want to do I want to",
+      "replacements": []
+    },
+    {
+      "staging_row_before_merge": 60,
+      "source_segments": [
+        76,
+        77
+      ],
+      "expected_raw": "how do you how do you when you're rocking",
+      "replacements": []
+    },
+    {
+      "staging_row_before_merge": 90,
+      "source_segments": [
+        119,
+        120
+      ],
+      "expected_raw": "need my other loi",
+      "replacements": []
+    },
+    {
+      "staging_row_before_merge": 94,
+      "source_segments": [
+        124,
+        124
+      ],
+      "expected_raw": "that's a gunshot",
+      "replacements": [
+        {
+          "raw": "That's a gunshot.",
+          "actually": "That is a gunshot."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 95,
+      "source_segments": [
+        125,
+        126
+      ],
+      "expected_raw": "I'll take this one",
+      "replacements": [
+        {
+          "raw": "Too much.",
+          "actually": "That is too much."
+        },
+        {
+          "raw": "I'll take this one.",
+          "actually": "I will use this one."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 106,
+      "source_segments": [
+        288,
+        289
+      ],
+      "expected_raw": "I can't figure out how to shade it",
+      "replacements": [
+        {
+          "raw": "I can't figure out how to shade it.",
+          "actually": "I cannot work out how to shade it."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 118,
+      "source_segments": [
+        303,
+        303
+      ],
+      "expected_raw": "okay I'll go this way then",
+      "replacements": [
+        {
+          "raw": "Okay. I I'll go this way then.",
+          "actually": "I will go this way, then."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 122,
+      "source_segments": [
+        564,
+        566
+      ],
+      "expected_raw": "oh my god oh no it's over",
+      "replacements": [
+        {
+          "raw": "Oh my god. Oh no. It's over people.",
+          "actually": "Unfortunately, it is over, everyone."
+        }
+      ]
+    },
+    {
+      "staging_row_before_merge": 123,
+      "source_segments": [
+        567,
+        567
+      ],
+      "expected_raw": "people no it's not no it's not",
+      "replacements": [
+        {
+          "raw": "No, it's not. No, it's not.",
+          "actually": "No, it is not."
+        }
+      ]
+    }
+  ],
+  "low_additions": [
+    {
+      "source_segments": [
+        9,
+        9
+      ],
+      "raw": "Mechan",
+      "reason": "Uncertain ASR, keep separate from clear Extreme Chameleon."
+    },
+    {
+      "source_segments": [
+        22,
+        22
+      ],
+      "raw": "for random metallic?",
+      "reason": "Unclear opening fragment; the next statement is separately recovered, not converted into a question."
+    },
+    {
+      "source_segments": [
+        55,
+        55
+      ],
+      "raw": "How do I",
+      "reason": "Abandoned question; do not invent object."
+    },
+    {
+      "source_segments": [
+        71,
+        72
+      ],
+      "raw": "I want to do I want to",
+      "reason": "Unfinished attempt; do not invent do it."
+    },
+    {
+      "source_segments": [
+        76,
+        77
+      ],
+      "raw": "How do you How do you when you're rocking?",
+      "reason": "Incomplete construction, cannot replace rocking with moving without evidence."
+    },
+    {
+      "source_segments": [
+        119,
+        120
+      ],
+      "raw": "Need my other loi.",
+      "reason": "Uncertain ASR final word; do not silently omit a potentially meaningful music category."
+    }
+  ],
+  "additional_source_decisions": [
+    {
+      "source_segments": [
+        312,
+        312
+      ],
+      "raw": "Yeah.",
+      "actually": "Yes."
+    },
+    {
+      "source_segments": [
+        348,
+        348
+      ],
+      "raw": "Okay,",
+      "actually": "All right."
+    },
+    {
+      "source_segments": [
+        369,
+        370
+      ],
+      "raw": "We We There's another one. We",
+      "actually": "There is another one."
+    },
+    {
+      "source_segments": [
+        375,
+        376
+      ],
+      "raw": "We see.",
+      "actually": "We see."
+    },
+    {
+      "source_segments": [
+        387,
+        387
+      ],
+      "raw": "H.",
+      "actually": "LOW"
+    }
+  ],
+  "notes": [
+    "Rows identify the original staging before merging; confirm expected_raw before replacement.",
+    "Restore complete source526-528 LOW accepted subspan for It is okay, not duplicate excluded speech.",
+    "Supersede draft48 LOW are you / wow really neither are you with authentic source274-281 dialogue. There is no isolated are you at that source boundary.",
+    "LOW source273 strap uncertain literal can remain literal strap; do not invent object.",
+    "SFT raw must be punctuated without correcting original grammar.",
+    "Root has manually read all source1–584 against original draft1–80 and original staging1–134; two major skipped source intervals are delivered separately. This is not yet a claim all fragments have final reconciled provenance."
+  ]
+}

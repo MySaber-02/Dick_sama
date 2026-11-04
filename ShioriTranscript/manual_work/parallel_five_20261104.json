@@ -1,0 +1,91 @@
+{
+  "requested": "Finish mcQ9PXGt38g, then four queued files",
+  "assistants_authorized": 2,
+  "current": "mcQ9PXGt38g",
+  "next_four": [
+    "YZYnMPyJDtQ",
+    "Y-_3O6wZI_U",
+    "0XPeLT3nfy0",
+    "Z-VzJibKJqQ"
+  ],
+  "status": "four_queued_files_in_progress",
+  "files": {
+    "mcQ9PXGt38g": {
+      "source_segments": 3061,
+      "originals": {
+        "txt": {
+          "sha256": "ca47af64596e79acfb3e808d2a7b34b6644867fd723e243544ddafd3b4c85a32",
+          "bytes": 76947
+        },
+        "json": {
+          "sha256": "42526ef77779231091214804040f3ed822ab511822d9182643c373a341dd9def",
+          "bytes": 313731
+        }
+      }
+    },
+    "YZYnMPyJDtQ": {
+      "source_segments": 2503,
+      "originals": {
+        "txt": {
+          "sha256": "1c5e0f3665bc1013818017aa7c0e214222cbbcb816f8ea0f79d32ecd2c6c160a",
+          "bytes": 77040
+        },
+        "json": {
+          "sha256": "3f10cec113d6489c65a68b4a184fa9ff79fcaa3ce7383255a622594c2b41a25a",
+          "bytes": 270464
+        }
+      }
+    },
+    "Y-_3O6wZI_U": {
+      "source_segments": 2503,
+      "originals": {
+        "txt": {
+          "sha256": "3182a0748e6217a0b1a8f8dee9042ae9bf87c659fea26ef7df90cda5105f7899",
+          "bytes": 77164
+        },
+        "json": {
+          "sha256": "55b239cd921b3506832b79a92b24605b10e3b3c43cf48016b9fdf35026dfd5ea",
+          "bytes": 270913
+        }
+      }
+    },
+    "0XPeLT3nfy0": {
+      "source_segments": 2659,
+      "originals": {
+        "txt": {
+          "sha256": "1bf9c7a6139fd53a03863e7089a212f5869041c4acb2a1ffcd90c161a5b14a45",
+          "bytes": 77217
+        },
+        "json": {
+          "sha256": "51c7527f3770c805e50eab00781d732635c3490ad32563ccad41287c9cfa00c9",
+          "bytes": 283193
+        }
+      }
+    },
+    "Z-VzJibKJqQ": {
+      "source_segments": 2884,
+      "originals": {
+        "txt": {
+          "sha256": "416eeab1522022e581d2d169142bfa61c2edabecb1b9c37c47b04a3bc048b365",
+          "bytes": 77402
+        },
+        "json": {
+          "sha256": "8e7a827a81e7772c74d5a54a36f5080a545ac823ec0606ea43d074a7f5e85ff1",
+          "bytes": 301113
+        }
+      }
+    }
+  },
+  "current_review_notes": [
+    "Three agents manually reviewed source in assigned ranges.",
+    "Source-indexed decisions cover the original 3061 segments; final token-level provenance and accepted/LOW reconciliation in progress.",
+    "No new queued files started yet."
+  ],
+  "completed_files": {
+    "mcQ9PXGt38g": {
+      "clean_records": 1861,
+      "low_confidence_records": 298,
+      "original_sha256_verified": true
+    }
+  }
+}

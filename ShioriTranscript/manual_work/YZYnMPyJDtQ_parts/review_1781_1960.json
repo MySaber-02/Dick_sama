@@ -1,0 +1,548 @@
+[
+  {
+    "source_segment_indices": [
+      1781,
+      1782,
+      1783,
+      1784
+    ],
+    "raw": "Okay. I'm going to do free horse. Rook E1. E1. Save your horse.",
+    "status": "SFT",
+    "actually": "I will do that. Free horse; rook E1. Save your horse.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1785,
+      1786,
+      1787,
+      1788
+    ],
+    "raw": "Remember to draw lines from enemies. Oh, that's what you mean for the thing. Okay. So, one, two, three. One, two, three.",
+    "status": "SFT",
+    "actually": "Remember to draw lines from enemies. That is what you meant. One, two, three; one, two, three.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1789,
+      1790,
+      1791,
+      1792,
+      1793,
+      1794,
+      1795
+    ],
+    "raw": "So that's what you mean by this? Oh, that's how you simulate like where they can go right now. Oh, okay. Um, you could probably take this one, but then I could just take you. And would there be anything to stop it? I don't think so.",
+    "status": "SFT",
+    "actually": "That is how you simulate their possible moves. You could take this, but I could take you afterward. I do not think anything would stop it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1796,
+      1797,
+      1798,
+      1799,
+      1800,
+      1801
+    ],
+    "raw": "Uh, F1 to E1. F1 to E1. Would anything take it? So, if I move this here, that can't get anything. Uh, that can take that, but then the king could take it.",
+    "status": "SFT",
+    "actually": "F1 to E1. Could anything take it? Moving this means that captures nothing. That could take it, but the king could capture afterward.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1802,
+      1803
+    ],
+    "raw": "Knight to D5 right here.",
+    "status": "SFT",
+    "actually": "Knight to D5, here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1804
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1805,
+      1806,
+      1807,
+      1808
+    ],
+    "raw": "Uh, was it over here? Where did Where was my knight before? Oh, shoot. Can I just like leave it? Okay, it's right there.",
+    "status": "SFT",
+    "actually": "Was it here? Where was my knight? Could I leave it? It is right there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1809
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1810,
+      1811,
+      1812,
+      1813,
+      1814
+    ],
+    "raw": "Hold right click to make arrows. Oh. Oh, I see. Oh, so I can just do this. Okay. So, okay. Okay.",
+    "status": "SFT",
+    "actually": "Hold right-click to draw arrows. I see; I can do this.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1815,
+      1816,
+      1817,
+      1818,
+      1819
+    ],
+    "raw": "I'm so stupid. But so so then that can't go anywhere. You're trapped. Okay. So why is why is this one two one two three? Why is that one in danger then?",
+    "status": "SFT",
+    "actually": "I am foolish, but then that cannot move anywhere; you are trapped. Why is this one in danger? One, two, one, two, three.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1820,
+      1821,
+      1822,
+      1823
+    ],
+    "raw": "That would be bad. That would be bad. Oh, but the arrows are kind of like basic. Redraw the same arrow to delete them. I see.",
+    "status": "SFT",
+    "actually": "That would be bad. The arrows are rather basic. Draw the same arrow again to delete it; I see.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1824,
+      1825,
+      1826,
+      1827,
+      1828,
+      1829,
+      1830
+    ],
+    "raw": "Okay, I'm just going to wing it because we're practicing. Uh, what happens if I do this? If I go there, it could still take there, but then I could take with the king. And if I go there. Oh, but then I can't. I could still take it. I'll just try it.",
+    "status": "SFT",
+    "actually": "I will improvise for practice. Going there lets it capture there, but I could use the king afterward. Here I cannot—or I could still take it. I will try.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1831,
+      1832,
+      1833,
+      1834
+    ],
+    "raw": "It did not do what I wanted, which makes total sense, honestly. So, that's a bad idea. I would lose a piece there. Really bad.",
+    "status": "SFT",
+    "actually": "It did not do what I wanted, which makes sense. That is bad; I would lose a piece there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1835
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1836,
+      1837,
+      1838,
+      1839,
+      1840
+    ],
+    "raw": "would lose a piece there. Um, I could probably just do it over here, frankly. If I go here, nothing touches it. Yeah, I think so. I'm just going to wing it.",
+    "status": "SFT",
+    "actually": "I would lose a piece there. I could move here instead; I think nothing could take it. I will improvise.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1841,
+      1842,
+      1843,
+      1844,
+      1845
+    ],
+    "raw": "What did it take? Hold up. What was that? Oh, it took my horse. Oh, that's what it's in danger. It's kind of in danger regardless, to be honest.",
+    "status": "SFT",
+    "actually": "What did it take? My horse; that is why it was in danger. It is in danger regardless, honestly.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1846,
+      1847,
+      1848,
+      1849,
+      1850,
+      1851,
+      1852,
+      1853,
+      1854,
+      1855,
+      1856
+    ],
+    "raw": "Yeah, I think the horse the horse is in danger no matter what because even if I go here, the tower can take it. If I go take it. Oh, but then I take a piece at the very least. So, I'm essentially like sacrificing it. If I take it, the king's going to take it. If I take it here, that thing's going to take it. If I take it over here, that's going to take it. I feel like no matter what, the horse is kind of dead. So,",
+    "status": "SFT",
+    "actually": "I think the horse is doomed whichever move I make. The tower can take it here, though capturing something first at least gains a piece. Taking these lets the king or another piece capture it. I feel the horse is lost regardless.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1857,
+      1858,
+      1859,
+      1860,
+      1861,
+      1862
+    ],
+    "raw": "moving to D5. D5. Oh. Oh, but that thing can only Can that thing move back? That can move back. That's tempo. Bishop is better. D5 is best outcome. D5 is a trade. Sack the horse for the bishop.",
+    "status": "SFT",
+    "actually": "Move to D5. Can that piece move backward? It can. That is tempo; the bishop is better. D5 is the best outcome, a trade. Sacrifice the horse for the bishop.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1863,
+      1864,
+      1865,
+      1866,
+      1867,
+      1868
+    ],
+    "raw": "So, put it here is what you're saying. And then that gets taken. And then Oh, that's what you mean. Okay. So, then I take it with this. Nothing can still take it right now. Okay.",
+    "status": "SFT",
+    "actually": "You mean put it here, let it be taken, then capture with this. Nothing can take it now.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1869,
+      1870,
+      1871,
+      1872
+    ],
+    "raw": "that moves there. Uh, I could probably I think the king will be fine on its own.",
+    "status": "SFT",
+    "actually": "That moves there. I think the king will be fine alone.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1873,
+      1874,
+      1875,
+      1876,
+      1877,
+      1878,
+      1879
+    ],
+    "raw": "Realistically, I think the king will be fine. So, if I if I take this now, I know that this bishop can end up taking this. But if that happens, I could take the king and take it there. Is it worth it? Do you think it's worth taking uh E5?",
+    "status": "SFT",
+    "actually": "I think the king will be fine. Taking this lets the bishop take that, but then I could use the king to capture there. Is taking E5 worth it?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1880,
+      1881,
+      1882,
+      1883
+    ],
+    "raw": "It's danger. It would take my rook. Yeah, but that's the point. It's a sacrifice, isn't it? It's not worth it. The bishop would take the rook.",
+    "status": "SFT",
+    "actually": "It is dangerous and would lose my rook, but that is the point of a sacrifice, is it not? It is not worth it; the bishop takes the rook.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1884,
+      1885
+    ],
+    "raw": "And is that bad? The bishop can also take the tower, can it?",
+    "status": "SFT",
+    "actually": "Is that bad? Can the bishop also take the tower?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1891
+    ],
+    "raw": "Oh, you're right. You're right. Because it can go this way. You're so good. You're so smart. You're so smart. You're right. It can go backwards. I have forgotten that it can do that. So, don't do anything. I understand. In that case,",
+    "status": "SFT",
+    "actually": "You are right and very clever; it can go backward. I forgot that, so do nothing. I understand.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1892,
+      1893,
+      1894,
+      1895
+    ],
+    "raw": "what I should be doing is jack all. Uh, I could probably just move this. I know it's not going to do anything.",
+    "status": "SFT",
+    "actually": "I should do nothing. I could move this, though I know it achieves nothing.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1896,
+      1897,
+      1898,
+      1899,
+      1900,
+      1901
+    ],
+    "raw": "What is the best one to move then? I can still also move this. It doesn't matter. I'm gonna do No, but then the tower would be exposed. I'm going to try it anyway so I can learn. Now I can move this.",
+    "status": "SFT",
+    "actually": "Which is best to move? I could still move this, but it exposes the tower. I will try anyway to learn. Now I can move this.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1902,
+      1903,
+      1904
+    ],
+    "raw": "Dang, Opera. Why do you always lose memory? There you go. Stop losing memory.",
+    "status": "SFT",
+    "actually": "Opera, why do you keep losing memory? Stop losing memory.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1905
+    ],
+    "raw": "Get rid of the annoying pawn.",
+    "status": "SFT",
+    "actually": "Get rid of the annoying pawn.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1906
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1907,
+      1908,
+      1909,
+      1910
+    ],
+    "raw": "En passant. I don't know what that en passant is. D2 to D3 is good. D2 to D3. Okay, I see no issues with that for now. So, let's do that.",
+    "status": "SFT",
+    "actually": "En passant; I do not know what that means. D2 to D3 seems fine for now, so let us do that.",
+    "raw_fixes": [
+      [
+        "And pass",
+        "En passant"
+      ],
+      [
+        "N pass",
+        "en passant"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1911,
+      1912,
+      1913,
+      1914,
+      1915,
+      1916
+    ],
+    "raw": "So, that did that. Um, it's kind of trapped here. That would be taken by that one, two, three. That would be taken by that. That would be taken by the rook, which is kind of bad. How um",
+    "status": "SFT",
+    "actually": "That happened. It is rather trapped here; those pieces could take these. The rook could take that, which is bad.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1917
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1918,
+      1919,
+      1920
+    ],
+    "raw": "I'll have to Google en passant later. It's difficult to explain in ch and chat. A2 to A4 to A5.",
+    "status": "SFT",
+    "actually": "I will look up en passant later; it is difficult to explain in chat. A2 to A4 to A5.",
+    "raw_fixes": [
+      [
+        "and pass on",
+        "en passant"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1921,
+      1922,
+      1923,
+      1924,
+      1925
+    ],
+    "raw": "A4 to A5. Nothing will hurt it. So I think that's okay. So that's moved. One, two, three. I could take this.",
+    "status": "SFT",
+    "actually": "Nothing would hurt A4 to A5, so I think it is okay. That moved. One, two, three; I could take this.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1926,
+      1927,
+      1928,
+      1929
+    ],
+    "raw": "One, two, three. What? What? Two, three. Um, isn't this bad? F2 is in trouble. Yeah. How would you defend it?",
+    "status": "SFT",
+    "actually": "One, two, three. Is this not bad? F2 is in trouble. How would you defend it?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1930
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1931,
+      1932,
+      1933,
+      1934,
+      1935,
+      1936
+    ],
+    "raw": "I think that No. One, two, three. No, I think we probably go here. If I do E1 to E2, bishop to E3. Uh, bishop to E3 and that will get sacrificed. But then the horse would take it, right?",
+    "status": "SFT",
+    "actually": "I think we should go here. E1 to E2; bishop to E3. That would be sacrificed, but the horse would take it, correct?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1937,
+      1938,
+      1939,
+      1940
+    ],
+    "raw": "Bishop to E3 is the only move. Okay, I'll try it. So, let's simulate. Oh, sorry. Is it over here? Good god, I can't remember.",
+    "status": "SFT",
+    "actually": "Bishop to E3 is the only move? I will try it. Let us simulate it. Was it here? I cannot remember.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1941,
+      1942,
+      1943,
+      1944
+    ],
+    "raw": "E3. So, let's do that. Let's just simulate it. So, that's going to get taken. Yeah. Um, this gets taken by that.",
+    "status": "SFT",
+    "actually": "Let us simulate E3. That will be taken, and this is taken by that.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1945
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1946,
+      1947,
+      1948,
+      1949
+    ],
+    "raw": "Is that meant supposed to happen? Let me just simulate. So if I take it there, but I would rather lose that than like this thing to be honest.",
+    "status": "SFT",
+    "actually": "Is that supposed to happen? Let me simulate it. I would rather lose that than this piece.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1950,
+      1951,
+      1952
+    ],
+    "raw": "So me bishop to E2. It was a little late unfortunately.",
+    "status": "SFT",
+    "actually": "Bishop to E2. Unfortunately, it was a little late.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1953,
+      1954,
+      1955,
+      1956
+    ],
+    "raw": "One, two, three. That going to be taken there. That be taken there. I'd rather I'd better lose this one if I have to. But didn't take the bait. I see.",
+    "status": "SFT",
+    "actually": "Those would be taken there. If I must lose one, I would prefer this one. It did not take the bait; I see.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1957,
+      1958,
+      1959,
+      1960
+    ],
+    "raw": "Let's just try it. So, that's going to take that. If we lose, we lose. So, this could might uh my rook is in danger. So, we're going to have to move this.",
+    "status": "SFT",
+    "actually": "Let us try it. That will take that; if we lose, we lose. My rook is in danger, so we must move this.",
+    "raw_fixes": []
+  }
+]

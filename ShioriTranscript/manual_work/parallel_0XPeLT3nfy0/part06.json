@@ -1,0 +1,703 @@
+[
+  {
+    "source_segments": [
+      1111,
+      1113
+    ],
+    "raw": "Nice I didn’t po it thank you that’s the first cute",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1113,
+      1118
+    ],
+    "raw": "Do you guys have this night cat? Yeah, these night cats are useful on the base. Oh, I don’t. What they do? They they have like a lot of skills for your base.",
+    "actually": "Do you have this night cat? They are useful at the base. I do not; what do they do? They have many base skills.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1118,
+      1123
+    ],
+    "raw": "Oh that’s so cool looking I think we like have one I want that comat okay sure can have it okay oh thank you I just hope I don’t kill it everything seems to die whenever I touch it I think so yum",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1118,
+      1122
+    ],
+    "raw": "Oh, that’s so cool-looking. I think we like have one. Okay, sure, can have it. Okay, oh, thank you. I just hope I don’t kill it. Everything seems to die whenever I touch it.",
+    "actually": "It looks good. I think we have one. You can have it. Thank you; I hope I do not kill it. Everything seems to die when I touch it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1123,
+      1125
+    ],
+    "raw": "Also, I have a danger on me. Am I dying? Are you dying? I don’t I don’t know. Just says danger. Oh, it’s gone now.",
+    "actually": "There is a danger indicator on me. Am I dying? Are you? I do not know; it says danger. It is gone now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1126,
+      1129
+    ],
+    "raw": "Oh, where’s my bow? Okay, I I want throw it, I want throw it. Good good good good. I hope it captures. I think it will. Let’s go.",
+    "actually": "Where is my bow? I want to throw it. Good; I hope it captures. I think it will; let us go.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1130,
+      1134
+    ],
+    "raw": "Oh, nice. Finally it didn’t die for once. Okay, now I will take you to Penking. Penking. Okay, okay, thank you.",
+    "actually": "It finally survived for once. I will take you to Penking. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1135,
+      1137
+    ],
+    "raw": "Oh rence you’re the one in danger oh sorry I’m not in danger it was you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1135,
+      1137
+    ],
+    "raw": "You’re the one in danger. Oh, sorry, I’m not in danger. It was you.",
+    "actually": "You are in danger. Sorry, I was not in danger; you were.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1137,
+      1145
+    ],
+    "raw": "Oh, there’s another Nox. Do anybody want a Nox? Nox are really cute. I love W I love the big birds. Sure, one that I have, it’s a cute. Yeah, it’s cute. Oh, I don’t have. Oh, do you want it? You can have, you can capture it if you want. Hurry. Hey, I missed. Oh, no, get it. Oh, this might be this might be good.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1137,
+      1139
+    ],
+    "raw": "Oh, there’s another Nox. Do anybody want a Nox? Nox are really cute.",
+    "actually": "There is another Nox. Does anyone want one? Nox are cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1139,
+      1139
+    ],
+    "raw": "I love the big birds.",
+    "actually": "I love the large birds.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1141,
+      1145
+    ],
+    "raw": "Yeah, it’s cute. Oh, I don’t have. Oh, do you want it? You can have, you can capture it if you want. Hurry. Hey, I missed. Oh, no, get it. Oh, this might be this might be good.",
+    "actually": "It is cute; I do not have it. Do you want it? You may capture it. Hurry; I missed. Get it; this might be good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1146,
+      1149
+    ],
+    "raw": "44 you want me to hit it one more time oh shoot boy oh me",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1146,
+      1148
+    ],
+    "raw": "44. You want me to hit it one more time? Oh, shoot.",
+    "actually": "Forty-four. Do you want me to hit it again?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1151,
+      1152
+    ],
+    "raw": "Too leled up too woo thank you m",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1151,
+      1151
+    ],
+    "raw": "Leveled up too. Woo, thank you.",
+    "actually": "I also leveled up. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1153,
+      1163
+    ],
+    "raw": "Wow, so many cool Pals. Someone has a base here. Whose base is this? I don’t remember. Oh my gosh, this bridge is kind of scary. It is, yeah. I think it’s K’s, unless it’s yours. No, it’s not Kyla’s. I know where Kyla’s base is. Whose base is this then? Maybe they’re still like setting up. Unnamed Guild, so it’s definitely not Kyla’s.",
+    "actually": "There are many interesting Pals. Whose base is this? I do not remember. This bridge is frightening. I think it is K’s, unless it is yours. It is not Kyla’s; I know where her base is. Perhaps they are still setting up. The guild is unnamed, so it is definitely not Kyla’s.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1164,
+      1171
+    ],
+    "raw": "Okay found a lot of oh I think it’s Irish is it uh her is around the red area yeah we’re we’re heading to the red area cuz we’re going to p p King is in the red area okay okay I’m scared",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1165,
+      1171
+    ],
+    "raw": "Oh, I think it’s IRyS. Is it? Uh, her is around the red area. Yeah, we’re we’re heading to the red area cuz we’re going to P Penking is in the red area. Okay, okay, I’m scared.",
+    "actually": "I think it is IRyS’s. Is it? Hers is near the red area. We are heading there, because Penking is in the red area. I am scared.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1172,
+      1174
+    ],
+    "raw": "Okay, look at this. We’re adventuring. Adventuring, Advent adventure.",
+    "actually": "Look; we are adventuring. Advent adventure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1176,
+      1180
+    ],
+    "raw": "Oh, oh, we should save the pal here. There’s always a free pal here. A free Pal. Yeah, free Pal. Boom boom. Die. Boom boom, headshot.",
+    "actually": "We should rescue the Pal here; there is always a free Pal. Die; headshot.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1182,
+      1184
+    ],
+    "raw": "These are items down first I have to see them oh yeah here’s the here’s the pal right here oh he’s",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1183,
+      1184
+    ],
+    "raw": "Oh, yeah, here’s the here’s the pal right here.",
+    "actually": "Here is the Pal.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1185,
+      1191
+    ],
+    "raw": "Cute. Can we all get him, or just one of us? Only only one, only one of us. Who wants to save him? I already have one of him. I have one, is okay. No have, but I can catch one. You can get it, you can get it. Thank you.",
+    "actually": "Cute. Can we all get him or only one person? Only one. Who wants to rescue him? I have one. I do not, but can catch one. You can have it; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1193,
+      1197
+    ],
+    "raw": "Oh it’s another to he’s a little guy oops oh crap I didn’t mean to kill you oh don’t don’t die I already killed you before or and I did",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1194,
+      1197
+    ],
+    "raw": "He’s a little guy. Oops, oh crap, I didn’t mean to kill you. Oh, don’t don’t die. I already killed you before. And I did it.",
+    "actually": "He is small. I did not intend to kill you; do not die. I killed you before, and did it again.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1198,
+      1203
+    ],
+    "raw": "Sorry, I like collecting the emo-looking ones. They speak to my soul. Oh, wait, go this way. Oh, while we’re here, we should just do the tower. Is there a save point near?",
+    "actually": "Sorry; I like collecting those with an emo appearance. They resonate with me. This way; we should do the tower while here. Is there a nearby save point?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1203,
+      1206
+    ],
+    "raw": "Yeah, yeah, yeah, there is one. Okay, uh, it is, it’s over here. Oh, yeah.",
+    "actually": "There is one; it is here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1208,
+      1211
+    ],
+    "raw": "Yeah, is it inside the tower? No, right here. Oh, you’re down there. Okay, it’s in down here, down here, down. Okay, mhm.",
+    "actually": "Is it inside the tower? No; here. You are down there; understood.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1213,
+      1214
+    ],
+    "raw": "Bye no I don’t want are we ready to Tower’s Tower",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1213,
+      1214
+    ],
+    "raw": "Are we ready to tower? Tower.",
+    "actually": "Are we ready for the tower?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1215,
+      1221
+    ],
+    "raw": "So I didn’t bring any arrows. I must have sorted them somewhere, so I’m just going to run around and my pal. Give us a give some, right? Yeah, I could give half if you want. Uh, okay, I’ll steal, I’ll steal a little bit. Okay, we have a lot of arrow sticks.",
+    "actually": "I brought no arrows; I must have put them somewhere. I will run around with my Pal. Give us some? I can give half. I will take a few; we have many arrow sticks.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1221,
+      1224
+    ],
+    "raw": "People here I’ll drop has everything have my ARS guys it’s okay there you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1226,
+      1233
+    ],
+    "raw": "Now you have more than us. Okay, let’s go. Okay, join. Okay, not me accidentally joining the guild. Hold up, I got to, I got this. Join boss battle. I think I joined. Okay, hold on, wait wait till all four of us. Okay, then hit okay. Okay, I didn’t see Nerissa’s name there, but I saw. Yeah, I’m there.",
+    "actually": "You now have more than we do. Let us go. I accidentally joined the guild; wait, join the boss battle. I think I joined. Wait for all four of us, then select okay. I did not see Nerissa’s name. I am there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1233,
+      1239
+    ],
+    "raw": "Oh, the cutscene. Yeah, every time we do the cutscene it has the little. Oh, who’s this? She’s hot. She’s your type, Shing. I think she’s going to kill you. I don’t know what her face looks like; there’s a little window blocking it.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1235,
+      1239
+    ],
+    "raw": "Oh, who’s this? She’s hot. She’s your type. I think she’s going to kill you. I don’t know what her face looks like; there’s a little window blocking it.",
+    "actually": "Who is this? She is attractive, your type. I think she will kill you. A small window blocks her face, so I do not know what it looks like.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1240,
+      1243
+    ],
+    "raw": "She looks like the girl you don’t want to bring home to your parents. Press why is she blinding Zoe and GIS.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1240,
+      1242
+    ],
+    "raw": "She looks like the girl you don’t want to bring home to your parents.",
+    "actually": "She resembles someone you would not want to introduce to your parents.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1243,
+      1243
+    ],
+    "raw": "Zoe and Grizzbolt.",
+    "actually": "Zoe and Grizzbolt.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1244,
+      1249
+    ],
+    "raw": "Okay, good luck, I’m going to watch. If we die, well, I I’ll first I need to pull, uh, let’s see, let me get you. How do I roll again? How do I roll? Control control control control.",
+    "actually": "Good luck; I will watch. If we die—I first need to pull—let me get you. How do I roll? Control.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1249,
+      1254
+    ],
+    "raw": "That thing’s like flaking weird crap. That is now on fire. So we can catch Zoe? Where is she? Yeah, where is? We can we can catch her, but it’s a different method; you have to do something specific. Tell us how, Biboo.",
+    "actually": "That is emitting strange material and is now on fire. Can we catch Zoe? Where is she? We can, but it requires a particular method. Explain it, Biboo.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1254,
+      1257
+    ],
+    "raw": "Wait did you even did I even I the video it’s a glitch you have to glitch it or something",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1256,
+      1257
+    ],
+    "raw": "It’s a glitch. You have to glitch it or something.",
+    "actually": "It is a glitch; you need to exploit it or something similar.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1258,
+      1259
+    ],
+    "raw": "Oh, but she’s so cute. Keep her.",
+    "actually": "She is cute; keep her.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1260,
+      1265
+    ],
+    "raw": "Uh-oh he’s much more Cal this time I feel right where even is Zoe she’s on top of the Gris bolt oh that’s a dangerous spot to be hot yeah but maybe she likes a danger Goldie",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1261,
+      1265
+    ],
+    "raw": "Where even is Zoe? She’s on top of the Grizzbolt. Oh, that’s a dangerous spot to be. Hot. Yeah, but maybe she likes a danger.",
+    "actually": "Where is Zoe? On Grizzbolt. That is a dangerous place. Attractive; perhaps she likes danger.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1266,
+      1271
+    ],
+    "raw": "Carry and we can capture this dude oh oh myness I don’t think we can capture her Griz bolt no oh man you can capture Griz bolts somewhere else okay but we can’t we can’t take hers",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1266,
+      1271
+    ],
+    "raw": "We can capture this dude? Oh, oh my goodness. I don’t think we can capture her Grizzbolt. No, oh, man. You can capture Grizzbolts somewhere else, okay, but we can’t we can’t take hers.",
+    "actually": "Can we capture him? I do not think we can capture her Grizzbolt. You can catch Grizzbolts elsewhere, but we cannot take hers.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1272,
+      1277
+    ],
+    "raw": "Unfortunately, I guess that’s could have been like a two-in-one combo. It’s Goldie. Okay, I don’t know if Goldie’s okay. Goldie, Goldie’s kind of hurting. There you go, we did it. Nice.",
+    "actually": "Unfortunately; it could have been a two-in-one combination. Goldie is hurt; I do not know if Goldie is all right. We did it; good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1279,
+      1280
+    ],
+    "raw": "Nice, let’s go.",
+    "actually": "Good; let us go.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1282,
+      1286
+    ],
+    "raw": "Oh the Lea’s pretty and then there’s this teleportation point oh let me touch it okay question do we all have gliders no yeah okay uh for go take mine thank you thank",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1283,
+      1286
+    ],
+    "raw": "And then there’s this teleportation point. Oh, let me touch it. Okay, question, do we all have gliders? No. Yeah, okay, take mine. Thank you, thank you.",
+    "actually": "There is a teleportation point; let me activate it. Does everyone have a glider? No; take mine. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1287,
+      1289
+    ],
+    "raw": "Okay, we are going to fly straight into the red part. Okay, okay, let’s do our best.",
+    "actually": "We will fly directly into the red area. Let us do our best.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1290,
+      1296
+    ],
+    "raw": "Wait, wait, what if you don’t have enough stamina, by the way? Did you guys not apply it? We did. I best, I don’t know if I have enough stamina for that, so I’m going to just go normally. You might not have thought it.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1290,
+      1292
+    ],
+    "raw": "Wait, wait, what if you don’t have enough stamina, by the way?",
+    "actually": "What if you lack enough stamina?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1293,
+      1295
+    ],
+    "raw": "I don’t know if I have enough stamina for that, so I’m going to just go normally.",
+    "actually": "I am unsure I have enough stamina, so I will travel normally.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1297,
+      1305
+    ],
+    "raw": "Oh face the face wait did you die you need enough stamina it’s okay you have the teleportation Point that’s right next to it cuz you’re you you unlock the one right next to the tower wait did I die I know did you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1299,
+      1305
+    ],
+    "raw": "Wait, did you die? You need enough stamina. It’s okay, you have the teleportation point that’s right next to it, cuz you’re you you unlock the one right next to the tower. Wait, did I die?",
+    "actually": "Did you die? You need enough stamina. It is fine; you unlocked the teleportation point beside the tower. Did I die?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1305,
+      1312
+    ],
+    "raw": "There’s the thing that we could wa wait where go to your base first go to your base first and then just go to the teleportation point that you unlocked right before we did the tower that’s right next to it we’re watching your stuff we have all your pals and your thank you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1306,
+      1312
+    ],
+    "raw": "Go to your base first, go to your base first, and then just go to the teleportation point that you unlocked right before we did the tower. That’s right next to it. We’re watching your stuff. We have all your Pals and your. Thank you.",
+    "actually": "Go to your base, then the teleportation point you unlocked before the tower fight. It is beside it. We are watching your belongings and have your Pals. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1314,
+      1319
+    ],
+    "raw": "I like how it was the last minute thought, like, you know, you kind of need stamina for this first. I too should level that up, that one. Yeah, all right, let’s enhance my thing.",
+    "actually": "I like that needing stamina was a last-minute realization. I should also improve that; let us upgrade it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1320,
+      1326
+    ],
+    "raw": "Yeah all right where are you guys I’m at the desolate church I am St oh no yeah okay are we going to be near um moris some place out of I’m going to lead them to Mori base and then to P King all right I’ll do that",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1320,
+      1322
+    ],
+    "raw": "Yeah, all right, where are you guys? I’m at the Desolate Church.",
+    "actually": "Where are you? I am at the Desolate Church.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1324,
+      1326
+    ],
+    "raw": "I’m going to lead them to Mori base, and then to Penking. All right, I’ll do that then.",
+    "actually": "I will lead them to Mori’s base, then to Penking. I will do that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1327,
+      1333
+    ],
+    "raw": "Okay there there there there was make sure we equip everything huh take all and oh pick up okay the glider equi I think we do now I think so come over here okay and then go away we did",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1328,
+      1330
+    ],
+    "raw": "Make sure we equip everything. Huh, take all and, oh, pick up.",
+    "actually": "Ensure everything is equipped. Take all and pick it up.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1334,
+      1337
+    ],
+    "raw": "What’s up, Rissa? Not much, how’s it going? It’s it’s going all right. I’m going to check my technology point stuff. Um, good good idea. I should see.",
+    "actually": "How are you, Rissa? Not much; how are you? All right. I will check my technology points. Good idea; I should check too.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1338,
+      1340
+    ],
+    "raw": "Do you guys have Flack we don’t have the little blue one there oh FL oh my",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1150,
+      1150
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1175,
+      1175
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1181,
+      1181
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1192,
+      1192
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1207,
+      1207
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1212,
+      1212
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1225,
+      1225
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1278,
+      1278
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1281,
+      1281
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1313,
+      1313
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  }
+]

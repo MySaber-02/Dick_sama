@@ -1,0 +1,575 @@
+[
+  {
+    "source_segment_indices": [
+      1240,
+      1241
+    ],
+    "raw": "I'm seeing a lot of those okay so if I do that",
+    "status": "LOW",
+    "reason": "Clear frequency observation recovered separately; following condition unfinished."
+  },
+  {
+    "source_segment_indices": [
+      1242
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1243,
+      1244,
+      1245
+    ],
+    "raw": "let me just let me just think so the king would take that and then it oh it forces it. Oh, I see.",
+    "status": "SFT",
+    "actually": "Let me think: the king would take that, and it forces it. I see."
+  },
+  {
+    "source_segment_indices": [
+      1246,
+      1247,
+      1248,
+      1249,
+      1250
+    ],
+    "raw": "So, you do there. Oh, but it moves away. I see. Um because I did that the horse tower.",
+    "status": "LOW",
+    "reason": "Clear movement observation recovered separately; because/horse/tower sequence unfinished."
+  },
+  {
+    "source_segment_indices": [
+      1249
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1251,
+      1252
+    ],
+    "raw": "Okay. What is another one? So, I can learn the pieces here.",
+    "status": "SFT",
+    "actually": "What is another option, so I can learn the pieces?"
+  },
+  {
+    "source_segment_indices": [
+      1253,
+      1254
+    ],
+    "raw": "King can't take because the other pawn takes the king. H.",
+    "status": "SFT",
+    "actually": "The king cannot take it because the other pawn takes the king."
+  },
+  {
+    "source_segment_indices": [
+      1255,
+      1256,
+      1257
+    ],
+    "raw": "Uh, you don't like F5? I'm still learning, man. D4 to F5. D4. D4 to F5. I don't see anything in D4. B5 to C3.",
+    "status": "SFT",
+    "actually": "You do not like F5? I am still learning. D4 to F5? I see nothing on D4. B5 to C3."
+  },
+  {
+    "source_segment_indices": [
+      1258,
+      1259,
+      1260,
+      1261,
+      1262,
+      1263
+    ],
+    "raw": "B5 to C3. Okay. C3. C3. So, if I take it over here, queen still can't move. B5 to C3. And then eventually I might be able to make my way up there. I assume. Uh I'll just try it as a as a test.",
+    "status": "SFT",
+    "actually": "If I move from B5 to C3, the queen still cannot move. I assume I might eventually work my way up there. I will try it as a test."
+  },
+  {
+    "source_segment_indices": [
+      1264,
+      1265,
+      1266,
+      1267,
+      1268
+    ],
+    "raw": "Okay, that moved. Uh is it safe to move this? I think it is. But I wonder why it moved it there. I have a question. Why did it move it there?",
+    "status": "SFT",
+    "actually": "It moved. Is this safe to move? I think so. Why did it move there?"
+  },
+  {
+    "source_segment_indices": [
+      1269,
+      1270,
+      1271,
+      1272,
+      1273,
+      1274,
+      1275
+    ],
+    "raw": "I know I can take it with a tower right now. Or sorry, it's called the the rook. I can take it with the rook. I don't think the rook is in danger of literally anything. So, it's fine to do it. It's just safe to eat. I just find it maybe it just didn't have anything else.",
+    "status": "SFT",
+    "actually": "I can take it with the tower—or rather, rook. I do not think anything threatens the rook, so it is safe to capture. Perhaps it had no other move."
+  },
+  {
+    "source_segment_indices": [
+      1276,
+      1277,
+      1278
+    ],
+    "raw": "Um, that's a trap. However, Oh, no. It's still not a trap. Okay. I was going to try to upgrade this.",
+    "status": "SFT",
+    "actually": "That is a trap—no, it is not. I was going to try upgrading this."
+  },
+  {
+    "source_segment_indices": [
+      1279,
+      1280,
+      1281
+    ],
+    "raw": "Okay. Don't move that. Don't move that. What I could do is the horse can take that. So, not that one.",
+    "status": "SFT",
+    "actually": "Do not move that; the horse could take it."
+  },
+  {
+    "source_segment_indices": [
+      1282,
+      1283,
+      1284,
+      1285
+    ],
+    "raw": "I could do here, but it doesn't really it doesn't really help. What I What if I move the tower and I just start moving up and down?",
+    "status": "SFT",
+    "actually": "I could move here, but it does not help. What if I move the tower up and down?"
+  },
+  {
+    "source_segment_indices": [
+      1286,
+      1287,
+      1288,
+      1289
+    ],
+    "raw": "Can I Can I move my rook, guys? Can I do A1 to A3 and then I could just like sort of troll around with it? Is that safe? I can do that.",
+    "status": "SFT",
+    "actually": "Can I move my rook from A1 to A3 and use it to annoy them? Is that safe? I can do that."
+  },
+  {
+    "source_segment_indices": [
+      1290,
+      1291
+    ],
+    "raw": "Can I not just use my my rook with anything? You can.",
+    "status": "SFT",
+    "actually": "Can I not use my rook with anything? You can."
+  },
+  {
+    "source_segment_indices": [
+      1292
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1293,
+      1294,
+      1295,
+      1296,
+      1297
+    ],
+    "raw": "Uh, you can do it. It's not a H3. I don't know what H3 is right now. You could if you do three rem Wait, if you do three repeat moves, it's a draw. What? Why?",
+    "status": "SFT",
+    "actually": "You can do it. It is not H3; I do not know what H3 is now. Repeating three moves gives a draw? Why?"
+  },
+  {
+    "source_segment_indices": [
+      1298,
+      1299,
+      1300
+    ],
+    "raw": "Well, that's so unfair. I was going to move it here and then here and then I could eat it from here.",
+    "status": "SFT",
+    "actually": "That is unfair. I planned to move here, then here, then capture it from here."
+  },
+  {
+    "source_segment_indices": [
+      1301,
+      1302,
+      1303
+    ],
+    "raw": "It's a Rick rook lift. Lift. He can threaten a lot. Huh. If it's forced.",
+    "status": "LOW",
+    "reason": "Unclear Rick introduction and forced fragment; clear rook-lift claim recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1304,
+      1305
+    ],
+    "raw": "So, he's not stalling. They made rules against trolling. H3 is the pawn.",
+    "status": "SFT",
+    "actually": "He is not stalling; they made rules against trolling. H3 is the pawn."
+  },
+  {
+    "source_segment_indices": [
+      1306,
+      1307,
+      1308,
+      1309
+    ],
+    "raw": "But then, wouldn't it get eaten by the pawn? Assuming it takes the bait anyway. And then what? Once that happens, I guess I could take the",
+    "status": "LOW",
+    "reason": "Clear bait question recovered separately; capture continuation unfinished."
+  },
+  {
+    "source_segment_indices": [
+      1310,
+      1311
+    ],
+    "raw": "No, I guess you're right. It doesn't really benefit. Let's try it.",
+    "status": "SFT",
+    "actually": "You are right; it does not help much. Let us try it."
+  },
+  {
+    "source_segment_indices": [
+      1312,
+      1313,
+      1314,
+      1315
+    ],
+    "raw": "And then I'm just going to Oh, it doesn't. Okay. Because what's going to happen is No, it's kind of a trap.",
+    "status": "LOW",
+    "reason": "Unfinished move prediction; clear trap assessment recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1316,
+      1317
+    ],
+    "raw": "So, it moved it there. I'm not going to move that.",
+    "status": "SFT",
+    "actually": "It moved there. I will not move that."
+  },
+  {
+    "source_segment_indices": [
+      1318,
+      1319,
+      1320,
+      1321
+    ],
+    "raw": "I could take um I could take the tower this way if it doesn't move. Anyway, I think it's going to move. It's the issue.",
+    "status": "SFT",
+    "actually": "I could take the tower this way if it does not move, but I think it will move."
+  },
+  {
+    "source_segment_indices": [
+      1322,
+      1323,
+      1324,
+      1325,
+      1326,
+      1327,
+      1328,
+      1329
+    ],
+    "raw": "If I eat this, it could be eaten by this because I would want the tower, but the tower is probably gonna be like second up. So, I think it's a trap, so I'm not going to do it. Uh, if I move it here, it could still be taken by the tower later. So, I don't think that's a good idea.",
+    "status": "SFT",
+    "actually": "Taking this could let that take it. I want the tower, but I think it will be next, so this seems a trap and I will not do it. Moving here could still lose it to the tower later, so I do not think that is good."
+  },
+  {
+    "source_segment_indices": [
+      1330
+    ],
+    "raw": "The knight protects the tower.",
+    "status": "SFT",
+    "actually": "The knight protects the tower."
+  },
+  {
+    "source_segment_indices": [
+      1331,
+      1332,
+      1333,
+      1334,
+      1335
+    ],
+    "raw": "All right, I'll take a hint here. Give me a a grid grid to grid, for example. Give me like D2 to D5 or something. So tell tell me from here. I need a hint.",
+    "status": "SFT",
+    "actually": "Give me a hint using starting and destination squares, such as D2 to D5."
+  },
+  {
+    "source_segment_indices": [
+      1336,
+      1337,
+      1338
+    ],
+    "raw": "If you do C4 to D5. C4. I don't know how to get C4. A6 to B5. A6.",
+    "status": "SFT",
+    "actually": "C4 to D5? I do not know how to get C4. A6 to B5."
+  },
+  {
+    "source_segment_indices": [
+      1339,
+      1340,
+      1341,
+      1342,
+      1343
+    ],
+    "raw": "A6 to B5. Okay. So if I go from here, it should be safe. Yeah. Okay. I'll try this one. I'll just try it. Learn all the methods. So the horse goes there.",
+    "status": "SFT",
+    "actually": "A6 to B5 should be safe; I will try it to learn the methods. The horse goes there."
+  },
+  {
+    "source_segment_indices": [
+      1344,
+      1345,
+      1346
+    ],
+    "raw": "Um, this would get sacrificed, but you lose the horse. I'm pretty sure the king will take it.",
+    "status": "SFT",
+    "actually": "This would be sacrificed; you lose the horse. I am fairly sure the king will take it."
+  },
+  {
+    "source_segment_indices": [
+      1347,
+      1348,
+      1349,
+      1350
+    ],
+    "raw": "Could I do anything from here? It's also good. So, from here, C3 to D5. C3 to D5. If I move it here. Okay. And nothing can take it. Okay.",
+    "status": "SFT",
+    "actually": "Could I do anything here? C3 to D5 is good too. Nothing can take it there."
+  },
+  {
+    "source_segment_indices": [
+      1351,
+      1352,
+      1353
+    ],
+    "raw": "Yeah, nothing can take this. So, let's try this one. Uh, that moved.",
+    "status": "SFT",
+    "actually": "Nothing can take this, so let us try it. That moved."
+  },
+  {
+    "source_segment_indices": [
+      1354,
+      1355,
+      1356
+    ],
+    "raw": "I think I could take from any position now except this one. Uh, if I do this, it's safe.",
+    "status": "SFT",
+    "actually": "I think I could capture from any position except this one now. Doing this is safe."
+  },
+  {
+    "source_segment_indices": [
+      1357,
+      1358,
+      1359,
+      1360
+    ],
+    "raw": "So, is it okay if I move from D5 to F6? It's a fork right there. Okay. So, we'll take we'll take it.",
+    "status": "SFT",
+    "actually": "Is moving from D5 to F6 okay? It is a fork there; we will take it."
+  },
+  {
+    "source_segment_indices": [
+      1361,
+      1362,
+      1363,
+      1364,
+      1365,
+      1366
+    ],
+    "raw": "So, now that's moved. I could, okay, I could take their queen immediately. I'll lose the horse, which I think is called a knight, but I think it's worth it because it's a queen. So, I'm going to go do this now.",
+    "status": "SFT",
+    "actually": "I can take their queen immediately. I will lose the horse, which I think is called a knight, but it seems worth it for a queen. I will do it."
+  },
+  {
+    "source_segment_indices": [
+      1367,
+      1368,
+      1369,
+      1370
+    ],
+    "raw": "All right. I'm surprised it didn't eat me yet. Now, this horse uh went to It can't really do anything.",
+    "status": "SFT",
+    "actually": "I am surprised it has not captured me. This horse cannot really do anything."
+  },
+  {
+    "source_segment_indices": [
+      1371,
+      1372,
+      1373,
+      1374,
+      1375,
+      1376
+    ],
+    "raw": "It could just move pieces, and I'm sure we'll defend the king anyway. So, what I could do is just to be a total total dick, I'm probably going to eat the rook. Oh, sorry, the pawn. It's the pawn.",
+    "status": "SFT",
+    "actually": "It can move pieces, but I am sure we will defend the king. To be deliberately antagonistic, I will take the rook—sorry, the pawn."
+  },
+  {
+    "source_segment_indices": [
+      1377,
+      1378,
+      1379,
+      1380,
+      1381,
+      1382
+    ],
+    "raw": "I'm just going to remove it. So, this way I can have uh more pieces. Yeah, and plus it protects it. Oh, wait. It can take Oh, shoot. I just realized. Yeah, that's fine. That's fine. We'll wing it. So, if I We did that.",
+    "status": "SFT",
+    "actually": "I will remove it to have more pieces, and it protects it too. Wait, it can take it; I just realized. That is fine; we will improvise. We did that."
+  },
+  {
+    "source_segment_indices": [
+      1383
+    ],
+    "raw": "I got greedy. I got greedy.",
+    "status": "SFT",
+    "actually": "I became greedy."
+  },
+  {
+    "source_segment_indices": [
+      1384,
+      1385,
+      1386,
+      1387,
+      1388,
+      1389
+    ],
+    "raw": "Let's not do that. Oh, but we can sacrifice this now. So, if I take this, my hope is that the tower No, the tower can still move to the right and then I'll be leaving it sort of uh unguarded.",
+    "status": "SFT",
+    "actually": "Let us not do that. We could sacrifice this, hoping the tower—but it could move right, leaving it unguarded."
+  },
+  {
+    "source_segment_indices": [
+      1390,
+      1391,
+      1392,
+      1393,
+      1394
+    ],
+    "raw": "So, if I do it here, if I move it here, nothing can take it. Yeah, nothing can take it here. I'm thinking of going from E2 to C3. What do you think?",
+    "status": "SFT",
+    "actually": "Nothing can take it if I move it here. I am considering E2 to C3; what do you think?"
+  },
+  {
+    "source_segment_indices": [
+      1395,
+      1396,
+      1397
+    ],
+    "raw": "And then this way I can probably get the queen out and just uh travel. What do you call it? Diagonally.",
+    "status": "SFT",
+    "actually": "Then I could probably free the queen to move diagonally."
+  },
+  {
+    "source_segment_indices": [
+      1398,
+      1399,
+      1400,
+      1401
+    ],
+    "raw": "G3 to G5. Uh G G3. No, wait. Actually, I guess it could. No, you could. Another tower will try to take it, I assume.",
+    "status": "SFT",
+    "actually": "G3 to G5. Actually, I suppose it could. Another tower will try to take it, I assume."
+  },
+  {
+    "source_segment_indices": [
+      1402,
+      1403,
+      1404,
+      1405,
+      1406
+    ],
+    "raw": "Let's try it because then realistically Okay. And then you can take it from here. Okay. So that happened.",
+    "status": "SFT",
+    "actually": "Let us try it; then you can take it from here. That happened."
+  },
+  {
+    "source_segment_indices": [
+      1407,
+      1408,
+      1409,
+      1410,
+      1411,
+      1412,
+      1413,
+      1414
+    ],
+    "raw": "Um one, two, three. One, two. Well, one, two, three. I think this is going to be a little bit of a trap here. Uh what I could do is probably just move this. One, two, three. And then it's going to land maybe over here.",
+    "status": "SFT",
+    "actually": "One, two, three; one, two. I think this may be a trap. I could move this; then it may land here."
+  },
+  {
+    "source_segment_indices": [
+      1415,
+      1416,
+      1417,
+      1418,
+      1419
+    ],
+    "raw": "Now your pawn's open to advance. Take his horse. What's the best way? Oh, actually, I can do this. Yeah, if I do it here, nothing can reach it. I think it's fine.",
+    "status": "SFT",
+    "actually": "Your pawn can advance now. Take his horse; what is the best way? I can do this. Nothing can reach it here, so I think it is fine."
+  },
+  {
+    "source_segment_indices": [
+      1420
+    ],
+    "raw": "All right, so that's happened. Um,",
+    "status": "SFT",
+    "actually": "That has happened."
+  },
+  {
+    "source_segment_indices": [
+      1240
+    ],
+    "raw": "I'm seeing a lot of those",
+    "actually": "I am seeing many suggestions like that.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1246,
+      1247
+    ],
+    "raw": "So, you do there. Oh, but it moves away. I see.",
+    "actually": "You move there, but it moves away. I see.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1301,
+      1302
+    ],
+    "raw": "rook lift. Lift. He can threaten a lot.",
+    "actually": "A rook lift; he can threaten many things.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1306,
+      1307
+    ],
+    "raw": "But then, wouldn't it get eaten by the pawn? Assuming it takes the bait anyway.",
+    "actually": "Would the pawn not take it then, assuming it takes the bait?",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1315
+    ],
+    "raw": "it's kind of a trap.",
+    "actually": "It is something of a trap.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

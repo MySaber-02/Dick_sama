@@ -1,552 +1,673 @@
-{"draft_row":19,"raw":"Roblox","actually":"Roblox.","status":"SFT"}
-{"draft_row":19,"raw":"Are we starting? Are we starting? Are we starting?","actually":"Are we starting?","status":"SFT"}
-{"draft_row":19,"raw":"big bow","reason":"原始字幕中的短语无法确认，且与后续问句存在话轮边界；不根据上下文猜测专名或词语。","status":"LOW"}
-{"draft_row":32,"raw":"how do you pay","reason":"字幕识别为 pay；虽然上下文涉及绘画操作，但没有音频证据确认应为 paint。","status":"LOW"}
-{"draft_row":48,"raw":"are you","reason":"孤立句尾残片，缺少前文，无法确定其完整问句或指代。","status":"LOW"}
-{"draft_row":48,"raw":"wow really neither are you","reason":"该片段依赖前文且涉及多话轮，缺少被回应内容，无法可靠确定语义。","status":"LOW"}
-{"draft_row":52,"raw":"the way it's going to figure it out","reason":"原字幕句法和指代不清，不能无依据改写为“I will figure it out”。","status":"LOW"}
-{"draft_row":57,"raw":"Where is everyone hiding? Well, you found them so fast.","actually":"Where is everyone hiding? You found them very quickly.","status":"SFT"}
-{"draft_row":57,"raw":"She looked kind of obvious.","actually":"She looked rather obvious.","status":"SFT"}
-{"draft_row":58,"raw":"Did she look really obvious?","actually":"Did she look really obvious?","status":"SFT"}
-{"draft_row":58,"raw":"Yeah, she, it was really cute.","actually":"Yes, it was really cute.","status":"SFT"}
-{"draft_row":58,"raw":"Maybe she had a friend nearby.","actually":"Maybe she had a friend nearby.","status":"SFT"}
-{"draft_row":59,"raw":"There is a whistle. I heard a whistle. Are they on auto-whistle too?","actually":"I heard a whistle. Are they using automatic whistles too?","status":"SFT"}
-{"draft_row":60,"raw":"Where is everyone?","actually":"Where is everyone?","status":"SFT"}
-{"draft_row":60,"raw":"I'll come back to this. Let's go from our obvious ones.","actually":"I will come back to this. Let us start with the obvious ones.","status":"SFT"}
-{"draft_row":61,"raw":"Yeah. If I was someone who played this for only one day, where would I be hiding?","actually":"If I were someone who had played this for only one day, where would I hide?","status":"SFT"}
-{"draft_row":61,"raw":"If I was","reason":"孤立的条件从句起始片段，后续由另一话轮重新起句，无法单独构成可靠样本。","status":"LOW"}
-{"draft_row":62,"raw":"I keep hearing the whistles. It bothers me.","actually":"I keep hearing the whistles, and they bother me.","status":"SFT"}
-{"draft_row":62,"raw":"I can turn this up. I need to hear the whistle too.","actually":"I can turn up the volume. I need to hear the whistle too.","status":"SFT"}
-{"draft_row":63,"raw":"Guess they're not here.","actually":"They are probably not here.","status":"SFT"}
-{"draft_row":63,"raw":"I need someone to move. I need someone to freak out.","actually":"I need someone to move. I need someone to panic.","status":"SFT"}
-{"draft_row":63,"raw":"Where' the whistlers at?","actually":"Where are the whistlers?","status":"SFT"}
-{"draft_row":64,"raw":"Mhm. You go this way. Is it just a circle?","actually":"Go this way. Is it just a circle?","status":"SFT"}
-{"draft_row":64,"raw":"I don't know. It smells like crap, though. There's one around me.","actually":"I do not know. It smells terrible, though. There is one around me.","status":"SFT"}
-{"draft_row":65,"raw":"I heard a really loud whistle. Where is it? Where's the whistler?","actually":"I heard a very loud whistle. Where is it? Where is the person whistling?","status":"SFT"}
-{"draft_row":65,"raw":"We're going to be so bad at this, aren't we?","actually":"We are going to be so bad at this, aren't we?","status":"SFT"}
-{"draft_row":66,"raw":"I heard it. I heard it. I'm not going to waste time here.","actually":"I heard it. I will not waste time here.","status":"SFT"}
-{"draft_row":66,"raw":"Oh, you found someone. Nice. Where are the others?","actually":"Oh, you found someone. Nice. Where are the others?","status":"SFT"}
-{"draft_row":66,"raw":"I'm bad at B","reason":"句尾识别片段中的 B 所指不明，可能是未完成的自我修正。","status":"LOW"}
-{"draft_row":67,"raw":"Guess that's not one. I heard another whistle.","actually":"That is probably not one. I heard another whistle.","status":"SFT"}
-{"draft_row":67,"raw":"I'm I'm glad at least found Iris.","actually":"I am glad Iris was found.","status":"SFT"}
-{"draft_row":67,"raw":"Yeah, let's just at least have Iris.","actually":"Let us at least have Iris.","status":"SFT"}
-{"draft_row":67,"raw":"yeah probably want","reason":"句子在 want 后中断，缺少宾语；不根据下一话轮补全。","status":"LOW"}
-{"draft_row":68,"raw":"I hear it. Where? Where?","actually":"I hear it. Where? Where?","status":"SFT"}
-{"draft_row":68,"raw":"We need to find someone as obvious as Mory again.","actually":"We need to find someone as obvious as Mory again.","status":"SFT"}
-{"draft_row":69,"raw":"Do you think she's hiding this time?","actually":"Do you think she is hiding this time?","status":"SFT"}
-{"draft_row":69,"raw":"I think I think maybe she could be hiding this time.","actually":"I think she may be hiding this time.","status":"SFT"}
-{"draft_row":69,"raw":"or do you think she","reason":"问句在从句中途截断，后续由另一说话者接续，不能补全。","status":"LOW"}
-{"draft_row":70,"raw":"I hear I hear them.","actually":"I hear them.","status":"SFT"}
-{"draft_row":70,"raw":"I know. Me too. I think the whistles actually make it worse.","actually":"I know. Me too. I think the whistles make it worse.","status":"SFT"}
-{"draft_row":70,"raw":"It's like it makes me bad at my job.","actually":"It makes me worse at my job.","status":"SFT"}
-{"draft_row":71,"raw":"They're taunting me.","actually":"They are taunting me.","status":"SFT"}
-{"draft_row":71,"raw":"I know.","actually":"I know.","status":"SFT"}
-{"draft_row":71,"raw":"You should... Maybe if you cry and make them feel bad.","actually":"You should... Maybe if you cry and make them feel bad.","status":"SFT"}
-{"draft_row":72,"raw":"Okay. Cry. Who? Where's the freaking babies at?","actually":"Okay, cry. Who? Where are the freaking babies?","status":"SFT"}
-{"draft_row":72,"raw":"Yeah. Oh, you found one.","actually":"Yes. Oh, you found one.","status":"SFT"}
-{"draft_row":72,"raw":"I was wondering about that. I guess I just missed her the first time.","actually":"I was wondering about that. I guess I just missed her the first time.","status":"SFT"}
-{"draft_row":73,"raw":"There's another one.","actually":"There is another one.","status":"SFT"}
-{"draft_row":73,"raw":"So, we need what? Two more, or is that three more?","actually":"So, do we need two more, or three more?","status":"SFT"}
-{"draft_row":73,"raw":"With three more? With three more.","actually":"Three more? Three more.","status":"SFT"}
-{"draft_row":74,"raw":"They can also make clones, so we need to keep that in mind.","actually":"They can also make clones, so we need to remember that.","status":"SFT"}
-{"draft_row":74,"raw":"I think L said if we kill one clone, it kills them too.","actually":"I think L said that if we kill one clone, it kills them too.","status":"SFT"}
-{"draft_row":74,"raw":"Does it? Yeah. So if you get one clone, they all die.","actually":"Does it? Yes. If you get one clone, they all die.","status":"SFT"}
-{"draft_row":75,"raw":"Just like real life. Just like in real life.","actually":"Just like real life. Just like in real life.","status":"SFT"}
-{"draft_row":75,"raw":"Hey. Hey. That sounds like it was over here.","actually":"Hey, hey. That sounds like it was over here.","status":"SFT"}
-{"draft_row":75,"raw":"But where? Where? But where?","actually":"But where? Where? But where?","status":"SFT"}
-{"draft_row":75,"raw":"the cl","reason":"ASR片段在单词中途截断，无法确认 cl 的完整词语。","status":"LOW"}
-{"draft_row":82,"raw":"why are you all hiding together yeah","actually":"Why are you all hiding together? Yeah.","status":"SFT"}
-{"draft_row":82,"raw":"oh lo and","reason":"句子起始处的短语无法确认，不能据此补出人物或动作。","status":"LOW"}
-{"draft_row":83,"raw":"look your","reason":"说话者在 look your 处中断，缺少完整指代和谓语。","status":"LOW"}
-{"draft_row":91,"raw":"it's a check out","reason":"字幕识别为 check out，无法根据当前上下文确认其具体含义；不能推断为 giveaway。","status":"LOW"}
-{"draft_row":98,"raw":"You're not blind.","actually":"You are not blind.","status":"SFT"}
-{"draft_row":98,"raw":"I am not blind. I approve that I'm not blind.","actually":"I am not blind. I confirm that I am not blind.","status":"SFT"}
-{"draft_row":98,"raw":"The name and the password of the lobby are in the chat.","actually":"The lobby name and password are in the chat.","status":"SFT"}
-{"draft_row":98,"raw":"Bale zoo","reason":"字幕识别短语无法确认，可能是人名、口误或ASR错误。","status":"LOW"}
-{"draft_row":98,"raw":"Ending Iris","reason":"片段可能是人名或操作词，也可能是ASR错误，无法确认完整表达。","status":"LOW"}
-{"draft_row":99,"raw":"Yeah. Yeah. She already felt so good.","actually":"Yeah. Yeah. She already felt so good.","status":"SFT"}
-{"draft_row":99,"raw":"Oh, I see you now. I should have been bigger. Yay.","actually":"Oh, I see you now. I should have been bigger. Yay.","status":"SFT"}
-{"draft_row":100,"raw":"Okay, here we go.","actually":"Okay, here we go.","status":"SFT"}
-{"draft_row":100,"raw":"Oh, pretty.","actually":"Oh, pretty.","status":"SFT"}
-{"draft_row":100,"raw":"I don't want to stand in the spot area.","actually":"I do not want to stand in the spot area.","status":"SFT"}
-{"draft_row":100,"raw":"No. Oh no, I made a mistake.","actually":"No. Oh no, I made a mistake.","status":"SFT"}
-{"draft_row":100,"raw":"why am I so","reason":"句子中途截断，缺少后续谓语。","status":"LOW"}
-{"draft_row":101,"raw":"Okay, if this is the max we can go, why not?","actually":"Okay, if this is the max we can go, why not?","status":"SFT"}
-{"draft_row":101,"raw":"Oh, don't worry. I can't go inside.","actually":"Oh, do not worry. I cannot go inside.","status":"SFT"}
-{"draft_row":101,"raw":"No, you could. Yeah, we're so cooked, bro.","actually":"No, you could. Yeah, we are so cooked, bro.","status":"SFT"}
-{"draft_row":101,"raw":"it's so","reason":"句子未完成，缺少后续内容。","status":"LOW"}
-{"draft_row":102,"raw":"I think I'm good. I think my pose is good here, just like this.","actually":"I think I am good. I think my pose is good here, just like this.","status":"SFT"}
-{"draft_row":102,"raw":"I think you could get flat on the ground. Maybe better like that.","actually":"I think you could lie flat on the ground. Maybe that would be better.","status":"SFT"}
-{"draft_row":103,"raw":"I wish I could get this exact vertical.","actually":"I wish I could make this exactly vertical.","status":"SFT"}
-{"draft_row":103,"raw":"Vertical. Vertical. You got to vertical yourself.","actually":"Vertical. Vertical. You need to make yourself vertical.","status":"SFT"}
-{"draft_row":103,"raw":"How are you guys getting under things? Vertical. Vertical.","actually":"How are you guys getting underneath things? Vertical. Vertical.","status":"SFT"}
-{"draft_row":104,"raw":"What do you mean by vertical?","actually":"What do you mean by vertical?","status":"SFT"}
-{"draft_row":104,"raw":"No, no, no, no. What the heck? No, no, no.","actually":"No, no, no, no. What the heck? No, no, no.","status":"SFT"}
-{"draft_row":104,"raw":"Oh, yes, yes, yes. Okay, okay. Body.","actually":"Oh, yes, yes, yes. Okay, okay. Body.","status":"SFT"}
-{"draft_row":104,"raw":"How do I grab this color?","actually":"How do I grab this color?","status":"SFT"}
-{"draft_row":105,"raw":"How do I...? Why can't I grab this color?","actually":"How do I...? Why can't I grab this color?","status":"SFT"}
-{"draft_row":105,"raw":"Oh, there we go.","actually":"Oh, there we go.","status":"SFT"}
-{"draft_row":105,"raw":"No, go in.","actually":"No, go in.","status":"SFT"}
-{"draft_row":105,"raw":"That's why I can't draw. Maybe this is a bad idea.","actually":"That is why I cannot draw. Maybe this is a bad idea.","status":"SFT"}
-{"draft_row":105,"raw":"I this color","reason":"语句残缺，无法确定 I this color 的实际词语和句法关系。","status":"LOW"}
-{"draft_row":106,"raw":"No, go away. Absolutely traumatized.","actually":"No, go away. I am absolutely traumatized.","status":"SFT"}
-{"draft_row":106,"raw":"I can't, I can't draw. Well, actually, wait. We should kind of try and get the texture at least. Am I not a good color?","actually":"I cannot draw. Well, actually, wait. We should try to get the texture, at least. Am I not a good color?","status":"SFT"}
-{"draft_row":107,"raw":"Make the bad brush smaller.","actually":"Make the brush smaller.","status":"SFT"}
-{"draft_row":107,"raw":"All right, time for the wheel. How do I rotate? How do I rotate?","actually":"All right, time for the wheel. How do I rotate? How do I rotate?","status":"SFT"}
-{"draft_row":107,"raw":"This is not... I can't, I can't do this.","actually":"This is not... I cannot do this.","status":"SFT"}
-{"draft_row":107,"raw":"press down the","reason":"操作指令被截断，缺少后续按键或对象。","status":"LOW"}
-{"draft_row":108,"raw":"What in the world? How do I rotate myself?","actually":"What in the world? How do I rotate myself?","status":"SFT"}
-{"draft_row":108,"raw":"Um, it's that color. How do I change my Pokemon?","actually":"Um, it is that color. How do I change my Pokémon?","status":"SFT"}
-{"draft_row":108,"raw":"All right, metallic. Oh, I got it. I have an idea. Okay. Darker.","actually":"All right, metallic. Oh, I got it. I have an idea. Okay, darker.","status":"SFT"}
-{"draft_row":109,"raw":"I already survived. I deserve to die for once.","actually":"I have already survived. I deserve to die for once.","status":"SFT"}
-{"draft_row":109,"raw":"You deserve it. Yeah. Thank you.","actually":"You deserve it. Yeah. Thank you.","status":"SFT"}
-{"draft_row":109,"raw":"Metallics. Turn up the roughness.","actually":"Increase the metallic setting. Increase the roughness.","status":"SFT"}
-{"draft_row":109,"raw":"Yes.","actually":"Yes.","status":"SFT"}
-{"draft_row":110,"raw":"Turn up the metallic. Turn down the metallic. Turn up the roughness.","actually":"Increase the metallic setting, decrease it, and increase the roughness.","status":"SFT"}
-{"draft_row":110,"raw":"This is difficult.","actually":"This is difficult.","status":"SFT"}
-{"draft_row":110,"raw":"Maybe that's better. Really rough. Really rough. That's pretty.","actually":"Maybe that is better. It is really rough. It is really rough. That is pretty.","status":"SFT"}
-{"draft_row":111,"raw":"I'm stressing out","actually":"I am stressing out.","status":"SFT"}
-{"draft_row":111,"raw":"can I get inside my the dude","reason":"ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。","status":"LOW"}
-{"draft_row":112,"raw":"unless that good","reason":"短语不完整，无法确认 unless 后的具体表达。","status":"LOW"}
-{"draft_row":112,"raw":"oh there seconds wait rotate wait","reason":"多个短片段连续识别，词语边界和动作含义不清。","status":"LOW"}
-{"draft_row":112,"raw":"this is what","reason":"句子在 what 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":114,"raw":"okay that looks","reason":"句子中途截断，缺少后续谓语或评价对象。","status":"LOW"}
-{"draft_row":118,"raw":"Yeah. Yeah. Yeah.","actually":"Yeah. Yeah. Yeah.","status":"SFT"}
-{"draft_row":119,"raw":"Oh my gosh. Oh my gosh.","actually":"Oh my gosh. Oh my gosh.","status":"SFT"}
-{"draft_row":119,"raw":"everyone's soy not last","reason":"ASR短语语义不明，无法确认 soy 和 not last 的关系。","status":"LOW"}
-{"draft_row":122,"raw":"Yes.","actually":"Yes.","status":"SFT"}
-{"draft_row":122,"raw":"she do it","reason":"句子结构不完整，无法确认是疑问、陈述还是自我修正。","status":"LOW"}
-{"draft_row":130,"raw":"yeah I am a","reason":"句子在冠词后中断，缺少后续名词或补语。","status":"LOW"}
-{"draft_row":131,"raw":"Oh god. Oh no.","actually":"Oh god. Oh no.","status":"SFT"}
-{"draft_row":131,"raw":"I'm hoping hidden behind this couch","reason":"句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。","status":"LOW"}
-{"draft_row":132,"raw":"position my my favorite sausage","reason":"操作指令与名词短语粘连，无法可靠恢复完整句意。","status":"LOW"}
-{"draft_row":133,"raw":"it's really","reason":"句子在 really 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":141,"raw":"Were any of you guys balloons?","actually":"Were any of you guys balloons?","status":"SFT"}
-{"draft_row":142,"raw":"I know. Oh, it's like they want us to flirt.","actually":"I know. Oh, it is as if they want us to flirt.","status":"SFT"}
-{"draft_row":142,"raw":"I was hunting you guys.","actually":"I was hunting you guys.","status":"SFT"}
-{"draft_row":142,"raw":"Oh, it looks like we're all the hunters.","actually":"Oh, it looks like we are all the hunters.","status":"SFT"}
-{"draft_row":142,"raw":"For real? Are you joking?","actually":"For real? Are you joking?","status":"SFT"}
-{"draft_row":142,"raw":"How convenient.","actually":"How convenient.","status":"SFT"}
-{"draft_row":142,"raw":"Is this a joke?","actually":"Is this a joke?","status":"SFT"}
-{"draft_row":143,"raw":"Is this a joke? What? Am I a joke to you?","actually":"Is this a joke? What? Am I a joke to you?","status":"SFT"}
-{"draft_row":143,"raw":"Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.","actually":"Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.","status":"SFT"}
-{"draft_row":143,"raw":"Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?","actually":"Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?","status":"SFT"}
-{"draft_row":144,"raw":"I'm going to go draw myself as you.","actually":"I am going to go draw myself as you.","status":"SFT"}
-{"draft_row":144,"raw":"This too is Blood Quill.","actually":"This too is Blood Quill.","status":"SFT"}
-{"draft_row":144,"raw":"How do I do your eyes?","actually":"How do I do your eyes?","status":"SFT"}
-{"draft_row":144,"raw":"What are you doing? I'm drawing myself as you. Me? Yeah.","actually":"What are you doing? I am drawing myself as you. Me? Yeah.","status":"SFT"}
-{"draft_row":144,"raw":"You got to do like a wink.","actually":"You have to do a wink.","status":"SFT"}
-{"draft_row":145,"raw":"Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.","actually":"You have to do a smile and feathers, but that is a lot of work, so I am just going to make you black.","status":"SFT"}
-{"draft_row":153,"raw":"no you thought secretary","reason":"ASR识别词语不完整，无法确认该处称呼或句子。","status":"LOW"}
-{"draft_row":156,"raw":"they sound so close but I am so","reason":"句子中途截断，缺少后续谓语。","status":"LOW"}
-{"draft_row":159,"raw":"someone H was just random","reason":"语音识别残缺，无法确认人物名称和句意。","status":"LOW"}
-{"draft_row":162,"raw":"I had one in me","reason":"代词 one 的具体指代不明，无法确认说的是口哨、玩家还是其他对象。","status":"LOW"}
-{"draft_row":162,"raw":"I unfortunately am blind","actually":"Unfortunately, I cannot see.","status":"SFT"}
-{"draft_row":162,"raw":"oh whistles in six seconds","actually":"Oh, the whistles will sound in six seconds.","status":"SFT"}
-{"draft_row":162,"raw":"three two","actually":"Three, two.","status":"SFT"}
-{"draft_row":162,"raw":"I didn't hear any","actually":"I did not hear any.","status":"SFT"}
-{"draft_row":162,"raw":"I better run","actually":"I had better run.","status":"SFT"}
-{"draft_row":163,"raw":"I just noted her here but I I don't know where","actually":"I just noted her here, but I do not know where.","status":"SFT"}
-{"draft_row":163,"raw":"oh my god I hear them","actually":"Oh my god. I hear them.","status":"SFT"}
-{"draft_row":163,"raw":"yeah I hear someone but I don't see anyone","actually":"Yeah, I hear someone, but I cannot see anyone.","status":"SFT"}
-{"draft_row":164,"raw":"I mean this place was a place of people","actually":"I mean, this place had people in it.","status":"SFT"}
-{"draft_row":164,"raw":"I feel blind as hell I'm just going to shoot this toilet paper","actually":"I cannot see anything. I am going to shoot this toilet paper.","status":"SFT"}
-{"draft_row":164,"raw":"oh they hate me so much it is over","actually":"Oh, they hate me so much. It is over.","status":"SFT"}
-{"draft_row":165,"raw":"oh the person this thing","reason":"ASR短片段缺少完整句法和指代对象，不能补出人物或物品。","status":"LOW"}
-{"draft_row":165,"raw":"you found be at least","reason":"be 可能是人名或ASR识别错误，未确认前不改写为 Bae 等名字。","status":"LOW"}
-{"draft_row":165,"raw":"oh my god I'm literally blind","actually":"Oh my god, I cannot see anything.","status":"SFT"}
-{"draft_row":165,"raw":"no it's okay I'm blind too","actually":"No, it is okay. I cannot see either.","status":"SFT"}
-{"draft_row":165,"raw":"yeah yeah yeah good job yeah","actually":"Yeah, yeah, good job. Yeah.","status":"SFT"}
-{"draft_row":166,"raw":"where are the other ones","actually":"Where are the others?","status":"SFT"}
-{"draft_row":166,"raw":"I heard them near the starting oh she was at the top","actually":"I heard them near the starting area. Oh, she was at the top.","status":"SFT"}
-{"draft_row":166,"raw":"oh pretty good yeah let's rejoin their call","actually":"Oh, pretty good. Yeah, let us rejoin their call.","status":"SFT"}
-{"draft_row":167,"raw":"okay for this one oh Mori and Humoko were somewhere around here","actually":"Okay, for this one, Mori and Humoko were somewhere around here.","status":"SFT"}
-{"draft_row":167,"raw":"that was pretty good you know it's too good very good","actually":"That was pretty good, you know. It is too good. Very good.","status":"SFT"}
-{"draft_row":168,"raw":"oh when you","reason":"条件/时间从句被截断，没有可核实的后续内容。","status":"LOW"}
-{"draft_row":168,"raw":"time to become infected let's try infection","actually":"Time to become infected. Let us try Infection.","status":"SFT"}
-{"draft_row":168,"raw":"everyone gets infected","actually":"Everyone gets infected.","status":"SFT"}
-{"draft_row":168,"raw":"that's the mode I see in clips","actually":"That is the mode I have seen in clips.","status":"SFT"}
-{"draft_row":168,"raw":"oh that's hard","actually":"Oh, that is difficult.","status":"SFT"}
-{"draft_row":169,"raw":"you have more painting time for the the chameleons then","actually":"Do the chameleons have more painting time, then?","status":"SFT"}
-{"draft_row":169,"raw":"okay yeah that might be nice","actually":"Okay. Yes, that might be nice.","status":"SFT"}
-{"draft_row":169,"raw":"wait can you repeat what's infection","actually":"Wait, can you repeat what Infection is?","status":"SFT"}
-{"draft_row":169,"raw":"so when you die you become a hunter","actually":"When you die, you become a hunter.","status":"SFT"}
-{"draft_row":170,"raw":"oh I see okay so it's just more hunters at the end","actually":"Oh, I see. Okay, so there are more hunters at the end.","status":"SFT"}
-{"draft_row":170,"raw":"should we do like a last timer for it then for like the actual","actually":"Should we set a timer for the actual round?","status":"SFT"}
-{"draft_row":171,"raw":"yeah we can't say where we are because","actually":"Yeah, we cannot say where we are.","status":"SFT"}
-{"draft_row":171,"raw":"yeah become a hunter huh","actually":"Yeah, become a hunter? Huh.","status":"SFT"}
-{"draft_row":171,"raw":"just make sure to leave the voice chat when you become a hunter then I think","actually":"Just make sure to leave the voice chat when you become a hunter, I think.","status":"SFT"}
-{"draft_row":172,"raw":"your spot knowledge takes anymore","reason":"ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。","status":"LOW"}
-{"draft_row":172,"raw":"yeah yeah okay but you also that means you also can't check what other people are doing after you're done painting right","actually":"Okay, but that also means you cannot check what others are doing after you finish painting, right?","status":"SFT"}
-{"draft_row":172,"raw":"yeah yep yeah","actually":"Yes.","status":"SFT"}
-{"draft_row":173,"raw":"would there be no whistle on this one","actually":"Would there be no whistle in this mode?","status":"SFT"}
-{"draft_row":173,"raw":"okay makes sense sure","actually":"Okay, that makes sense. Sure.","status":"SFT"}
-{"draft_row":173,"raw":"I guess we can see each other","actually":"I suppose we can see each other.","status":"SFT"}
-{"draft_row":173,"raw":"in fact you can't see each other","actually":"In fact, you cannot see each other.","status":"SFT"}
-{"draft_row":174,"raw":"I think it might be part of the game mode where you can't switch POVs anyway","actually":"I think it might be part of the game mode that you cannot switch viewpoints anyway.","status":"SFT"}
-{"draft_row":174,"raw":"yeah okay okay the game chat no okay","actually":"Yeah, okay, okay. The game chat? No. Okay.","status":"SFT"}
-{"draft_row":174,"raw":"so don't try to reveal yourself too hard when you're talking","actually":"So do not give away too much about your location when talking.","status":"SFT"}
-{"draft_row":175,"raw":"Always remember, lips sealed tight, ladies.","actually":"Remember to keep your lips sealed, ladies.","status":"SFT"}
-{"draft_row":175,"raw":"I'm a hunter.","actually":"I am a hunter.","status":"SFT"}
-{"draft_row":175,"raw":"oh god what a","reason":"感叹句在冠词后截断，缺少可恢复的宾语或评价。","status":"LOW"}
-{"draft_row":175,"raw":"where should I","reason":"问题中途截断，缺少动作或地点指代。","status":"LOW"}
-{"draft_row":175,"raw":"oh yeah get out of here","actually":"Oh yeah, get out of here.","status":"SFT"}
-{"draft_row":175,"raw":"I need to paint","actually":"I need to paint.","status":"SFT"}
-{"draft_row":175,"raw":"oh my god how do I turn around","actually":"Oh my god. How do I turn around?","status":"SFT"}
-{"draft_row":176,"raw":"can I just shoot as many times possible","actually":"Can I shoot as many times as possible?","status":"SFT"}
-{"draft_row":176,"raw":"yeah you need to shoot a lot","actually":"Yeah, you need to shoot a lot.","status":"SFT"}
-{"draft_row":176,"raw":"oh god okay yeah no it's too obvious too obvious","actually":"Oh god. Okay. Yeah, no, it is too obvious. Too obvious.","status":"SFT"}
-{"draft_row":176,"raw":"uh try not to give too much away","actually":"Try not to give too much away.","status":"SFT"}
-{"draft_row":177,"raw":"maybe any of you could become Emones at any moment","reason":"ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。","status":"LOW"}
-{"draft_row":177,"raw":"moved out moved out really","reason":"短语的词语边界和动作含义不清，无法可靠恢复。","status":"LOW"}
-{"draft_row":177,"raw":"how do you put I can see my mind is picture on","reason":"问句与后续短语粘连，缺少可靠的句法和指代关系。","status":"LOW"}
-{"draft_row":177,"raw":"you got to make that yourself you know","actually":"You have to make that yourself, you know.","status":"SFT"}
-{"draft_row":178,"raw":"oh just by like an artist spamming yourself","actually":"Is it done by repeatedly painting yourself?","status":"SFT"}
-{"draft_row":178,"raw":"I mean kind of you just you just got to be a good artist you know","actually":"I mean, kind of. You just have to be a good artist, you know.","status":"SFT"}
-{"draft_row":178,"raw":"I see","actually":"I see.","status":"SFT"}
-{"draft_row":179,"raw":"this is stupid but you know I might as well","actually":"This is stupid, but I might as well try.","status":"SFT"}
-{"draft_row":179,"raw":"no no no","actually":"No, no, no.","status":"SFT"}
-{"draft_row":179,"raw":"I love when it's dumb enough so it just might work","actually":"I love it when something is dumb enough that it might work.","status":"SFT"}
-{"draft_row":180,"raw":"this is so stupid I think they're going to find me but whatever","actually":"This is so stupid. I think they are going to find me, but whatever.","status":"SFT"}
-{"draft_row":180,"raw":"yeah okay wait we got still still got time","actually":"Yeah, okay, wait. We still have time.","status":"SFT"}
-{"draft_row":180,"raw":"sun cost fallacy I don't know man","actually":"Sunk-cost fallacy. I do not know, man.","status":"SFT"}
-{"draft_row":182,"raw":"I got to go within","reason":"短语的实际动作含义无法确认，不能擅自解释为进入某个位置。","status":"LOW"}
-{"draft_row":183,"raw":"it's not do space bar and then","reason":"操作指令片段语法损坏，无法确认按键和后续动作。","status":"LOW"}
-{"draft_row":188,"raw":"should I get","reason":"句子起始后中断，缺少后续动作或对象。","status":"LOW"}
-{"draft_row":188,"raw":"move coals or","reason":"操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。","status":"LOW"}
-{"draft_row":189,"raw":"move calls","reason":"ASR疑似识别错词，无法确认是移动频道还是移动角色。","status":"LOW"}
-{"draft_row":190,"raw":"never move over","reason":"孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。","status":"LOW"}
-{"draft_row":193,"raw":"oh oh my my three wonderful points","actually":"Oh, oh, my, my three wonderful points.","status":"SFT"}
-{"draft_row":193,"raw":"I feel like my","reason":"句子残缺，无法确认后续表达。","status":"LOW"}
-{"draft_row":198,"raw":"you can't go this","reason":"句子不完整，无法确认限制条件。","status":"LOW"}
-{"draft_row":199,"raw":"are we all just","reason":"句子中断，缺少后续谓语。","status":"LOW"}
-{"draft_row":199,"raw":"150 is a little","reason":"比较句在 little 后中断，缺少评价内容。","status":"LOW"}
-{"draft_row":200,"raw":"I don't know if","reason":"句子在条件从句中途截断。","status":"LOW"}
-{"draft_row":200,"raw":"you were like","reason":"句子残缺，缺少后续内容。","status":"LOW"}
-{"draft_row":203,"raw":"I'm so ready I'm so ready for this map","actually":"I am so ready. I am so ready for this map.","status":"SFT"}
-{"draft_row":203,"raw":"Hunter. Okay, Hunter's in channel one now, I guess.","actually":"Hunter. Okay, the hunter is in channel one now, I guess.","status":"SFT"}
-{"draft_row":203,"raw":"Wait, Hunter is in channel one now, right?","actually":"Wait, the hunter is in channel one now, right?","status":"SFT"}
-{"draft_row":203,"raw":"That's why, that's why Bae moved there, right?","actually":"That is why, that is why Bae moved there, right?","status":"SFT"}
-{"draft_row":203,"raw":"Yeah. Okay.","actually":"Yeah. Okay.","status":"SFT"}
-{"draft_row":204,"raw":"Keep on going. Keep on going.","actually":"Keep on going. Keep on going.","status":"SFT"}
-{"draft_row":204,"raw":"Ah, no. Can I not turn to the side?","actually":"Ah, no. Can I not turn to the side?","status":"SFT"}
-{"draft_row":204,"raw":"Why can't I...? Uh, there it is.","actually":"Why cannot I...? Uh, there it is.","status":"SFT"}
-{"draft_row":204,"raw":"Hey. Dang it. Hang on.","actually":"Hey. Dang it. Hang on.","status":"SFT"}
-{"draft_row":204,"raw":"Oh shoot, I just made a clone by accident.","actually":"Oh shoot, I just made a clone by accident.","status":"SFT"}
-{"draft_row":205,"raw":"How about you? I don't know about this, but...","actually":"How about you? I do not know about this, but...","status":"SFT"}
-{"draft_row":205,"raw":"Right. You get more points if you play.","actually":"Right. You get more points if you play.","status":"SFT"}
-{"draft_row":205,"raw":"just barely not","reason":"短语中途截断，无法确认完整判断。","status":"LOW"}
-{"draft_row":205,"raw":"How do I get this coloring this","reason":"操作问句的结尾词语不清，无法确认准确表达。","status":"LOW"}
-{"draft_row":206,"raw":"Oh my god. Telling me to hang my body too much. Really?","actually":"Oh my god. They are telling me to hang my body too much. Really?","status":"SFT"}
-{"draft_row":206,"raw":"Yeah, right.","actually":"Yeah, right.","status":"SFT"}
-{"draft_row":206,"raw":"That's what I'm saying.","actually":"That is what I am saying.","status":"SFT"}
-{"draft_row":206,"raw":"They're so strict.","actually":"They are so strict.","status":"SFT"}
-{"draft_row":206,"raw":"I know. They're straight.","actually":"I know. They are straight.","status":"SFT"}
-{"draft_row":206,"raw":"They keep telling","reason":"句子在 telling 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":207,"raw":"But this is okay? Are you sure?","actually":"But this is okay? Are you sure?","status":"SFT"}
-{"draft_row":207,"raw":"How is this okay?","actually":"How is this okay?","status":"SFT"}
-{"draft_row":207,"raw":"I will never find a hiding spot.","actually":"I will never find a hiding spot.","status":"SFT"}
-{"draft_row":207,"raw":"Yeah, same.","actually":"Yeah, same.","status":"SFT"}
-{"draft_row":208,"raw":"Maybe I should be a bit more blue.","actually":"Maybe I should be a bit more blue.","status":"SFT"}
-{"draft_row":208,"raw":"Seems kind of unfair, but okay.","actually":"It seems kind of unfair, but okay.","status":"SFT"}
-{"draft_row":208,"raw":"What? Why can't I go back there?","actually":"What? Why cannot I go back there?","status":"SFT"}
-{"draft_row":208,"raw":"this will go","reason":"句子在 go 后中断，无法确认说话者准备表达的判断。","status":"LOW"}
-{"draft_row":209,"raw":"I want to turn my body.","actually":"I want to turn my body.","status":"SFT"}
-{"draft_row":209,"raw":"Is this better?","actually":"Is this better?","status":"SFT"}
-{"draft_row":209,"raw":"I have no idea.","actually":"I have no idea.","status":"SFT"}
-{"draft_row":209,"raw":"I go on top","actually":"I will go on top.","status":"SFT"}
-{"draft_row":209,"raw":"without moving room","reason":"字幕在 moving 与 room 之间的词语边界不清，无法确认完整操作指令。","status":"LOW"}
-{"draft_row":210,"raw":"Let's figure out.","actually":"Let us figure this out.","status":"SFT"}
-{"draft_row":210,"raw":"Maybe a little this.","actually":"Maybe a little of this.","status":"SFT"}
-{"draft_row":210,"raw":"Come on.","actually":"Come on.","status":"SFT"}
-{"draft_row":210,"raw":"It's still too... colorwise.","reason":"“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。","status":"LOW"}
-{"draft_row":210,"raw":"What if I want to turn my...","reason":"句子被截断，缺少动作对象。","status":"LOW"}
-{"draft_row":211,"raw":"Okay, I can't get this color.","actually":"Okay, I cannot get this color.","status":"SFT"}
-{"draft_row":211,"raw":"This color sucks.","actually":"This color sucks.","status":"SFT"}
-{"draft_row":211,"raw":"Also, this brush must be better.","actually":"Also, this brush must be better.","status":"SFT"}
-{"draft_row":211,"raw":"Spin, spin, spin, spin.","actually":"Spin, spin, spin, spin.","status":"SFT"}
-{"draft_row":211,"raw":"I don't have time, man.","actually":"I do not have time, man.","status":"SFT"}
-{"draft_row":211,"raw":"I have to do this now.","actually":"I have to do this now.","status":"SFT"}
-{"draft_row":211,"raw":"I hate this body.","actually":"I hate this body.","status":"SFT"}
-{"draft_row":212,"raw":"We're on a white tile.","actually":"We are on a white tile.","status":"SFT"}
-{"draft_row":212,"raw":"I'll do my feet blue ones first.","actually":"I will do my feet blue ones first.","status":"SFT"}
-{"draft_row":212,"raw":"Okay. Um...","actually":"Okay. Um...","status":"SFT"}
-{"draft_row":212,"raw":"Oops.","actually":"Oops.","status":"SFT"}
-{"draft_row":212,"raw":"Oh, what have I done?","actually":"Oh, what have I done?","status":"SFT"}
-{"draft_row":212,"raw":"What did you do?","actually":"What did you do?","status":"SFT"}
-{"draft_row":212,"raw":"All right. Okay.","actually":"All right. Okay.","status":"SFT"}
-{"draft_row":212,"raw":"Fifty seconds.","actually":"Fifty seconds.","status":"SFT"}
-{"draft_row":212,"raw":"Time to","reason":"动作短语被截断，缺少后续内容。","status":"LOW"}
-{"draft_row":213,"raw":"I don't need the voice.","actually":"I do not need the voice.","status":"SFT"}
-{"draft_row":213,"raw":"Don't remind me of the time, man.","actually":"Do not remind me of the time, man.","status":"SFT"}
-{"draft_row":213,"raw":"Climb up a bit. Climb.","actually":"Climb up a bit. Climb.","status":"SFT"}
-{"draft_row":213,"raw":"How do I climb?","actually":"How do I climb?","status":"SFT"}
-{"draft_row":213,"raw":"I made it metallic all the way.","actually":"I made it metallic all the way.","status":"SFT"}
-{"draft_row":213,"raw":"Okay. Oh god.","actually":"Okay. Oh god.","status":"SFT"}
-{"draft_row":213,"raw":"Can you climb? Climb.","actually":"Can you climb? Climb.","status":"SFT"}
-{"draft_row":214,"raw":"Yeah, yeah.","actually":"Yeah, yeah.","status":"SFT"}
-{"draft_row":214,"raw":"Oh, wait, what?","actually":"Oh, wait, what?","status":"SFT"}
-{"draft_row":214,"raw":"Okay, okay, okay.","actually":"Okay, okay, okay.","status":"SFT"}
-{"draft_row":215,"raw":"How do I do that?","actually":"How do I do that?","status":"SFT"}
-{"draft_row":215,"raw":"I think we can be proud of this.","actually":"I think we can be proud of this.","status":"SFT"}
-{"draft_row":215,"raw":"I'm so proud of this.","actually":"I am so proud of this.","status":"SFT"}
-{"draft_row":215,"raw":"I'm not proud of this.","actually":"I am not proud of this.","status":"SFT"}
-{"draft_row":215,"raw":"Turn my body. I want to turn my body so my butt is staying.","actually":"Turn my body. I want to turn my body so my rear stays in place.","status":"SFT"}
-{"draft_row":216,"raw":"I think I think my hiding spots are funny","actually":"I think, I think my hiding spots are funny.","status":"SFT"}
-{"draft_row":216,"raw":"like Callie is up by last time","reason":"人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。","status":"LOW"}
-{"draft_row":217,"raw":"Okay, okay.","actually":"Okay, okay.","status":"SFT"}
-{"draft_row":217,"raw":"Huh?","actually":"Huh?","status":"SFT"}
-{"draft_row":217,"raw":"Please no.","actually":"Please no.","status":"SFT"}
-{"draft_row":217,"raw":"Okay.","actually":"Okay.","status":"SFT"}
-{"draft_row":217,"raw":"Surely.","actually":"Surely.","status":"SFT"}
-{"draft_row":217,"raw":"oh it's just B some","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":219,"raw":"No","actually":"No.","status":"SFT"}
-{"draft_row":219,"raw":"I'm just I'm just","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":219,"raw":"you can't see any","reason":"句子在 any 后中断，缺少被指代的对象。","status":"LOW"}
-{"draft_row":220,"raw":"Is it B? Oh, B.","actually":"Is it B? Oh, B.","status":"SFT"}
-{"draft_row":220,"raw":"Wait, who? Who?","actually":"Wait, who? Who?","status":"SFT"}
-{"draft_row":220,"raw":"oh never seen Bay","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":223,"raw":"Oh god. Nice.","actually":"Oh god. Nice.","status":"SFT"}
-{"draft_row":223,"raw":"H","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":223,"raw":"wait we only have","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":226,"raw":"God damn.","actually":"God damn.","status":"SFT"}
-{"draft_row":227,"raw":"I have to give her","reason":"句子在 give her 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":230,"raw":"and then turn the drive","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":230,"raw":"country looks","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":230,"raw":"yeah house","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":231,"raw":"did I accidentally disable names","actually":"Did I accidentally disable names?","status":"SFT"}
-{"draft_row":231,"raw":"maybe you can do that","actually":"Maybe you can do that.","status":"SFT"}
-{"draft_row":231,"raw":"yeah I think so","actually":"Yeah, I think so.","status":"SFT"}
-{"draft_row":231,"raw":"why not","actually":"Why not?","status":"SFT"}
-{"draft_row":231,"raw":"who says who says country is pretty big","actually":"Who says? Who says Country is pretty big?","status":"SFT"}
-{"draft_row":231,"raw":"oh okay that's why people","actually":"Oh, okay. That's why people...","status":"SFT"}
-{"draft_row":231,"raw":"yeah","actually":"Yeah.","status":"SFT"}
-{"draft_row":231,"raw":"wait hold on this is a small one","actually":"Wait, hold on. This is a small one.","status":"SFT"}
-{"draft_row":231,"raw":"did","reason":"句子从助动词开始即被截断，无法确认完整问题。","status":"LOW"}
-{"draft_row":231,"raw":"level two little bed","reason":"ASR短语缺少清晰词语边界，无法确认具体含义。","status":"LOW"}
-{"draft_row":232,"raw":"indo country","actually":"Indo Country.","status":"SFT"}
-{"draft_row":232,"raw":"yeah","actually":"Yeah.","status":"SFT"}
-{"draft_row":232,"raw":"I'll do my best","actually":"I will do my best.","status":"SFT"}
-{"draft_row":232,"raw":"don't get me if you see me","actually":"Don't catch me if you see me.","status":"SFT"}
-{"draft_row":232,"raw":"I promise you","actually":"I promise you.","status":"SFT"}
-{"draft_row":232,"raw":"okay","actually":"Okay.","status":"SFT"}
-{"draft_row":232,"raw":"okay","actually":"Okay.","status":"SFT"}
-{"draft_row":232,"raw":"let's see how this rules","actually":"Let's see how this works.","status":"SFT"}
-{"draft_row":232,"raw":"herself as a jor","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":232,"raw":"going to promise","reason":"缺少明确主语，无法确认该片段的完整表达。","status":"LOW"}
-{"draft_row":233,"raw":"it's my turn","actually":"It's my turn.","status":"SFT"}
-{"draft_row":233,"raw":"meadows meadows","actually":"Meadows. Meadows.","status":"SFT"}
-{"draft_row":233,"raw":"yeah","actually":"Yeah.","status":"SFT"}
-{"draft_row":233,"raw":"let's go","actually":"Let's go.","status":"SFT"}
-{"draft_row":233,"raw":"hide","actually":"Hide.","status":"SFT"}
-{"draft_row":233,"raw":"don't say where we're hiding","actually":"Don't say where we're hiding.","status":"SFT"}
-{"draft_row":233,"raw":"okay","actually":"Okay.","status":"SFT"}
-{"draft_row":233,"raw":"oh no","actually":"Oh no.","status":"SFT"}
-{"draft_row":233,"raw":"a dang it","actually":"Ah, dang it.","status":"SFT"}
-{"draft_row":233,"raw":"no gnome","actually":"No gnome.","status":"SFT"}
-{"draft_row":233,"raw":"want to be a hidden","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":233,"raw":"it's my","reason":"句子在 my 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":234,"raw":"I have a really good idea","actually":"I have a really good idea.","status":"SFT"}
-{"draft_row":234,"raw":"no I don't want to do this","actually":"No, I don't want to do this.","status":"SFT"}
-{"draft_row":234,"raw":"that looks funny","actually":"That looks funny.","status":"SFT"}
-{"draft_row":234,"raw":"is that like a onelegged thing","actually":"Is that like a one-legged thing?","status":"SFT"}
-{"draft_row":234,"raw":"oh this doesn't feel like with that because it looks funny","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":234,"raw":"your time","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":234,"raw":"that looks","reason":"句子在 looks 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":235,"raw":"oh man","actually":"Oh man.","status":"SFT"}
-{"draft_row":235,"raw":"oh I'm so cooked","actually":"I'm in trouble.","status":"SFT"}
-{"draft_row":235,"raw":"me too","actually":"Me too.","status":"SFT"}
-{"draft_row":235,"raw":"let's cook together","actually":"Let's be in trouble together.","status":"SFT"}
-{"draft_row":235,"raw":"give up on this idea","actually":"Give up on this idea.","status":"SFT"}
-{"draft_row":235,"raw":"give up on this idea","actually":"Give up on this idea.","status":"SFT"}
-{"draft_row":235,"raw":"you're not doing it","actually":"You're not doing it.","status":"SFT"}
-{"draft_row":235,"raw":"okay we got a lot of time","actually":"Okay, we have a lot of time.","status":"SFT"}
-{"draft_row":235,"raw":"okay still got 3 minutes","actually":"Okay, we still have three minutes.","status":"SFT"}
-{"draft_row":235,"raw":"get out of here spot","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":236,"raw":"how do I do this","actually":"How do I do this?","status":"SFT"}
-{"draft_row":236,"raw":"got to get that idea","actually":"Got to get that idea.","status":"SFT"}
-{"draft_row":236,"raw":"it's nice during hiding time you can't see other people running kind of stuck","actually":"It's nice during hiding time. You can't see other people running; you're kind of stuck.","status":"SFT"}
-{"draft_row":236,"raw":"hold on I want it","actually":"Hold on. I want it.","status":"SFT"}
-{"draft_row":236,"raw":"just a little jump there","actually":"Just a little jump there.","status":"SFT"}
-{"draft_row":236,"raw":"nope","actually":"Nope.","status":"SFT"}
-{"draft_row":236,"raw":"you could become a little","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":236,"raw":"not that other","reason":"比较对象缺失，句子不完整。","status":"LOW"}
-{"draft_row":237,"raw":"maybe I should go higher up","actually":"Maybe I should go higher up.","status":"SFT"}
-{"draft_row":237,"raw":"how do I move again","actually":"How do I move again?","status":"SFT"}
-{"draft_row":237,"raw":"maybe that place might be right there","actually":"Maybe that place might be right there.","status":"SFT"}
-{"draft_row":237,"raw":"please","actually":"Please.","status":"SFT"}
-{"draft_row":237,"raw":"yeah it's not happening","actually":"Yeah, it's not happening.","status":"SFT"}
-{"draft_row":237,"raw":"a bit troublesome","actually":"A bit troublesome.","status":"SFT"}
-{"draft_row":237,"raw":"okay how do I how do I increase the roughness though","actually":"Okay, how do I...? How do I increase the roughness, though?","status":"SFT"}
-{"draft_row":237,"raw":"I'm going to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":238,"raw":"do you think I could be good like this","actually":"Do you think I could be good like this?","status":"SFT"}
-{"draft_row":238,"raw":"it could be","actually":"It could be.","status":"SFT"}
-{"draft_row":238,"raw":"why don't we try it right over here","actually":"Why don't we try it right over here?","status":"SFT"}
-{"draft_row":238,"raw":"why am I floating really weirdly","actually":"Why am I floating really weirdly?","status":"SFT"}
-{"draft_row":238,"raw":"I want to be quiet and not spoil it","actually":"I want to be quiet and not spoil it.","status":"SFT"}
-{"draft_row":238,"raw":"I'm just not the right","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":239,"raw":"I want to go that way","actually":"I want to go that way.","status":"SFT"}
-{"draft_row":239,"raw":"then you just got to color yourself up","actually":"Then you just have to color yourself up.","status":"SFT"}
-{"draft_row":239,"raw":"we're out of time","actually":"We're out of time.","status":"SFT"}
-{"draft_row":239,"raw":"you have 100 seconds","actually":"You have 100 seconds.","status":"SFT"}
-{"draft_row":239,"raw":"I know","actually":"I know.","status":"SFT"}
-{"draft_row":239,"raw":"that's too metallic","actually":"That's too metallic.","status":"SFT"}
-{"draft_row":239,"raw":"I'm trying to","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":239,"raw":"then believe","reason":"字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。","status":"LOW"}
-{"draft_row":240,"raw":"oh shoot okay","actually":"Oh shoot. Okay.","status":"SFT"}
-{"draft_row":240,"raw":"I'm boring","actually":"I'm boring.","status":"SFT"}
-{"draft_row":240,"raw":"the heck was it like that","actually":"The heck was it like that?","status":"SFT"}
-{"draft_row":240,"raw":"no no no","actually":"No, no, no.","status":"SFT"}
-{"draft_row":240,"raw":"oh I see","actually":"Oh, I see.","status":"SFT"}
-{"draft_row":240,"raw":"oh yeah you're boring","actually":"Oh yeah, you're boring.","status":"SFT"}
-{"draft_row":240,"raw":"what the heck","actually":"What the heck?","status":"SFT"}
-{"draft_row":241,"raw":"okay yeah no this is so bad guys whatever","actually":"Okay. Yeah. No, this is so bad, guys. Whatever.","status":"SFT"}
-{"draft_row":241,"raw":"oh my god","actually":"Oh my god.","status":"SFT"}
-{"draft_row":241,"raw":"ah that's that's from different angles though","actually":"Ah, that's... that's from different angles, though.","status":"SFT"}
-{"draft_row":241,"raw":"one second","actually":"One second.","status":"SFT"}
-{"draft_row":241,"raw":"hold on","actually":"Hold on.","status":"SFT"}
-{"draft_row":241,"raw":"use little details","actually":"Use little details.","status":"SFT"}
-{"draft_row":241,"raw":"I know","actually":"I know.","status":"SFT"}
-{"draft_row":241,"raw":"I'm trying","actually":"I'm trying.","status":"SFT"}
-{"draft_row":241,"raw":"let's get artistic","actually":"Let's get artistic.","status":"SFT"}
-{"draft_row":241,"raw":"spin your","reason":"动作指令在 your 后中断，缺少动作对象。","status":"LOW"}
-{"draft_row":242,"raw":"well that's on it","actually":"Well, that's on it.","status":"SFT"}
-{"draft_row":242,"raw":"I'm so cooked","actually":"I'm in trouble.","status":"SFT"}
-{"draft_row":242,"raw":"I love things that are cooked","actually":"I love things that are cooked.","status":"SFT"}
-{"draft_row":242,"raw":"I so cooked","reason":"该短语语法残缺，无法确认是否漏识别助动词。","status":"LOW"}
-{"draft_row":242,"raw":"I mean it seems like it already","reason":"句子在 already 后中断，缺少后续内容。","status":"LOW"}
-{"draft_row":243,"raw":"let's go","actually":"Let's go.","status":"SFT"}
-{"draft_row":243,"raw":"if we can't do better","actually":"If we can't do better.","status":"SFT"}
-{"draft_row":243,"raw":"spin around spin around","actually":"Spin around. Spin around.","status":"SFT"}
-{"draft_row":243,"raw":"wait one second","actually":"Wait. One second.","status":"SFT"}
-{"draft_row":243,"raw":"don't try anything","actually":"Don't try anything.","status":"SFT"}
-{"draft_row":243,"raw":"oh why am I why am I why am I darker now","actually":"Oh, why am I...? Why am I...? Why am I darker now?","status":"SFT"}
-{"draft_row":243,"raw":"I see","actually":"I see.","status":"SFT"}
-{"draft_row":244,"raw":"it's kind of gross looking","actually":"It's kind of gross-looking.","status":"SFT"}
-{"draft_row":244,"raw":"look from the front look from the front","actually":"Look from the front. Look from the front.","status":"SFT"}
-{"draft_row":244,"raw":"we got to look from the front","actually":"We have to look from the front.","status":"SFT"}
-{"draft_row":244,"raw":"that's no good","actually":"That's no good.","status":"SFT"}
-{"draft_row":244,"raw":"I think you should rotate yourself","actually":"I think you should rotate yourself.","status":"SFT"}
-{"draft_row":244,"raw":"so","reason":"单独的连接词或语气词，无法确认其后续表达。","status":"LOW"}
-{"draft_row":245,"raw":"oh no no no","actually":"Oh no. No. No.","status":"SFT"}
-{"draft_row":245,"raw":"don't try anything funny","actually":"Don't try anything funny.","status":"SFT"}
-{"draft_row":245,"raw":"oh that's really bad","actually":"Oh, that's really bad.","status":"SFT"}
-{"draft_row":245,"raw":"oh spin yourself around","actually":"Oh, spin yourself around.","status":"SFT"}
-{"draft_row":245,"raw":"I don't have time to do that","actually":"I don't have time to do that.","status":"SFT"}
-{"draft_row":245,"raw":"said don't try anything funny","reason":"句子缺少明确主语，无法确认是谁发出该提醒。","status":"LOW"}
-{"draft_row":245,"raw":"you're trying to","reason":"句子在 to 后中断，缺少动作内容。","status":"LOW"}
-{"draft_row":246,"raw":"not the camera not the camera yourself yes","actually":"Not the camera. Not the camera. Yourself. Yes.","status":"SFT"}
-{"draft_row":246,"raw":"I give up on that idea","actually":"I give up on that idea.","status":"SFT"}
-{"draft_row":246,"raw":"I don't know man","actually":"I don't know, man.","status":"SFT"}
-{"draft_row":246,"raw":"it's too it's too late","actually":"It's too... it's too late.","status":"SFT"}
-{"draft_row":246,"raw":"we have to lock in","actually":"We have to lock in.","status":"SFT"}
-{"draft_row":246,"raw":"Keep busing. Keep busing. Keep busing.","reason":"ASR识别为“busing”，可能是操作指令错词，无法确认原词。","status":"LOW"}
-{"draft_row":247,"raw":"whatever dude it's whatever it's whatever","actually":"Whatever, dude. It's whatever. It's whatever.","status":"SFT"}
-{"draft_row":247,"raw":"we need the rougher color","actually":"We need the rougher color.","status":"SFT"}
-{"draft_row":247,"raw":"move closer to them closer closer","actually":"Move closer to them. Closer. Closer.","status":"SFT"}
-{"draft_row":247,"raw":"right here","actually":"Right here.","status":"SFT"}
-{"draft_row":247,"raw":"so stupid","actually":"So stupid.","status":"SFT"}
-{"draft_row":247,"raw":"what do you mean","actually":"What do you mean?","status":"SFT"}
-{"draft_row":247,"raw":"oh no","actually":"Oh no.","status":"SFT"}
-{"draft_row":247,"raw":"maybe it could be good","actually":"Maybe it could be good.","status":"SFT"}
-{"draft_row":247,"raw":"it's fine","actually":"It's fine.","status":"SFT"}
-{"draft_row":247,"raw":"this is","reason":"句子在 is 后中断，缺少表语或补充内容。","status":"LOW"}
-{"draft_row":248,"raw":"Boo is so scary","actually":"Boo is so scary.","status":"SFT"}
-{"draft_row":248,"raw":"I should have gone to the other side but it's too late","actually":"I should have gone to the other side, but it's too late.","status":"SFT"}
-{"draft_row":248,"raw":"I'm trying to pick the color","actually":"I'm trying to pick the color.","status":"SFT"}
-{"draft_row":248,"raw":"I really don't know how","actually":"I really don't know how.","status":"SFT"}
-{"draft_row":248,"raw":"why","actually":"Why?","status":"SFT"}
-{"draft_row":248,"raw":"I want a lighter color","actually":"I want a lighter color.","status":"SFT"}
-{"draft_row":248,"raw":"give me the lighter color","actually":"Give me the lighter color.","status":"SFT"}
-{"draft_row":248,"raw":"why","actually":"Why?","status":"SFT"}
-{"draft_row":248,"raw":"why is the game only giving me lighter color","actually":"Why is the game only giving me lighter color?","status":"SFT"}
-{"draft_row":249,"raw":"it's over","actually":"It's over.","status":"SFT"}
-{"draft_row":249,"raw":"please no please please","actually":"Please. No. Please. Please.","status":"SFT"}
-{"draft_row":249,"raw":"you know I was there","actually":"You know I was there.","status":"SFT"}
-{"draft_row":249,"raw":"there we go","actually":"There we go.","status":"SFT"}
-{"draft_row":249,"raw":"no no","actually":"No. No.","status":"SFT"}
-{"draft_row":249,"raw":"oh thank you okay","actually":"Oh, thank you. Okay.","status":"SFT"}
-{"draft_row":249,"raw":"stay there","actually":"Stay there.","status":"SFT"}
-{"draft_row":249,"raw":"no","actually":"No.","status":"SFT"}
-{"draft_row":249,"raw":"are we gone","actually":"Are we gone?","status":"SFT"}
-{"draft_row":249,"raw":"stay away stay away stay away stay away","actually":"Stay away. Stay away. Stay away. Stay away.","status":"SFT"}
-{"draft_row":249,"raw":"okay then I can stay away from me","actually":"Okay, then I can stay away from me.","status":"SFT"}
-{"draft_row":250,"raw":"can I go away from here now","actually":"Can I go away from here now?","status":"SFT"}
-{"draft_row":250,"raw":"I'm getting pointed","actually":"I'm getting pointed.","status":"SFT"}
-{"draft_row":250,"raw":"there's a lot of a lot of hunters out there now","actually":"There's a lot of... a lot of hunters out there now.","status":"SFT"}
-{"draft_row":250,"raw":"yeah","actually":"Yeah.","status":"SFT"}
-{"draft_row":250,"raw":"the ruffies didn't believe in us","actually":"The ruffies didn't believe in us.","status":"SFT"}
-{"draft_row":250,"raw":"there's really just a lot of","reason":"句子在 of 后中断，缺少被描述的对象。","status":"LOW"}
-{"draft_row":250,"raw":"but","reason":"转折连词位于片段末尾，后续内容缺失。","status":"LOW"}
-{"draft_row":277,"raw":"Hi. Welcome to Osaka. I'm your guide.","actually":"Hi. Welcome to Osaka. I am your guide.","status":"SFT"}
-{"draft_row":277,"raw":"Osaka is also home to Universal Studios Japan.","actually":"Osaka is also home to Universal Studios Japan.","status":"SFT"}
-{"draft_row":277,"raw":"Yeah, this does look a little Universal-themed area.","actually":"Yeah, this does look a little like a Universal-themed area.","status":"SFT"}
-{"draft_row":278,"raw":"Have you ever been to Osaka? Um, I'm the tour guide. Of course I've been to Osaka.","actually":"Have you ever been to Osaka? I am the tour guide. Of course I have been to Osaka.","status":"SFT"}
-{"draft_row":278,"raw":"You know, if you hear the phrase order, it means eat until you drop. It's practically...","reason":"“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。","status":"LOW"}
-{"draft_row":280,"raw":"That was really good. That was very smart.","actually":"That was very good. That was very smart.","status":"SFT"}
-{"draft_row":280,"raw":"Of course, ... is the one to kill the tour guide.","reason":"缺少明确主语，无法确认人物指代。","status":"LOW"}
-{"draft_row":290,"raw":"Infectctor.","actually":"Infection.","status":"SFT"}
-{"draft_row":290,"raw":"Still doing okay? You guys like Infection? Do you prefer the other game?","actually":"Are we still playing? Do you like Infection, or do you prefer the other game?","status":"SFT"}
-{"draft_row":310,"raw":"Good at this game. I think maybe I'm good at this game.","actually":"I think I might be good at this game.","status":"SFT"}
-{"draft_row":310,"raw":"I don't know. Are you sure? Maybe. Maybe.","actually":"I do not know. Are you sure? Maybe.","status":"SFT"}
-{"draft_row":310,"raw":"Anna.","reason":"孤立人名/音节，无法确认是否为称呼或ASR噪声。","status":"LOW"}
-{"draft_row":314,"raw":"Obscuring me perfectly.","actually":"You are obscuring me perfectly.","status":"SFT"}
-{"draft_row":314,"raw":"Iris is so scary. She is especially scary in the red light.","actually":"Iris is frightening, especially in the red light.","status":"SFT"}
-{"draft_row":314,"raw":"Who's Who keeps shooting?","reason":"人名/游戏术语识别不确定，需回听。","status":"LOW"}
-{"draft_row":316,"raw":"We just have to stink up their noses.","actually":"We just have to make their sense of smell unusable.","status":"SFT"}
-{"draft_row":316,"raw":"I will make the biggest thing ever, so they have to stay away from us.","actually":"I will make the biggest thing ever so they have to stay away from us.","status":"SFT"}
-{"draft_row":316,"raw":"Reparative.","reason":"词语识别异常，无法确认原词。","status":"LOW"}
-{"draft_row":319,"raw":"Oh, that's so smart. That's good.","actually":"That is very smart. That is good.","status":"SFT"}
-{"draft_row":319,"raw":"Good job, too, man. Yeah, let's go back. Let's go.","actually":"Good job. Let us go back.","status":"SFT"}
-{"draft_row":319,"raw":"Tube. Tube. I didn't know you could hide in there without glowing. Smart.","actually":"I did not know you could hide in the tube without glowing. That is smart.","status":"SFT"}
-{"draft_row":320,"raw":"She made a mistake. She made a mistake. She didn't mean to.","actually":"She made a mistake, but she did not mean to.","status":"SFT"}
-{"draft_row":320,"raw":"You like my, you like my vibrating cactus.","actually":"Do you like my vibrating cactus?","status":"SFT"}
-{"draft_row":320,"raw":"Vibrate.","actually":"Vibrate.","status":"SFT"}
-{"draft_row":320,"raw":"I don't know why you vibrate when you're a cactus. That happened to me too.","actually":"I do not know why you vibrate when you are a cactus. That happened to me too.","status":"SFT"}
-{"draft_row":320,"raw":"Cactus is so good.","actually":"The cactus is very good.","status":"SFT"}
-{"draft_row":349,"raw":"She's still in, too. Welcome back, Callie.","actually":"She is still in too. Welcome back, Callie.","status":"SFT"}
-{"draft_row":349,"raw":"1800.","reason":"孤立数字，无法确定是分数、时间还是其他数值。","status":"LOW"}
-{"draft_row":350,"raw":"Not a single person.","actually":"There was not a single person.","status":"SFT"}
-{"draft_row":350,"raw":"Freaking.","reason":"孤立语气词，缺少足够上下文确认完整表达。","status":"LOW"}
-{"draft_row":355,"raw":"Iridescent.","actually":"Iridescent.","status":"SFT"}
-{"draft_row":355,"raw":"Maybe it's because of the metallic.","actually":"Maybe it is because of the metallic setting.","status":"SFT"}
-{"draft_row":371,"raw":"Oh, but just shot like a piece of lettuce.","reason":"句子主语和动作关系不清，不能根据游戏场景补全。","status":"LOW"}
-{"draft_row":274,"source_segment_indices":[1960],"raw":"That's better.","actually":"That is better.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1960],"raw":"Check on the side.","actually":"Check on the side.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1962],"raw":"Maybe it's too bright.","actually":"Maybe it is too bright.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1964],"raw":"Never cook again, I say to myself.","actually":"I tell myself never to cook again.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1965],"raw":"Oh, but I like your cooking.","actually":"Oh, but I like your cooking.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1966],"raw":"Oh.","actually":"Oh.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1967],"raw":"You're so sweet.","actually":"You are so sweet.","status":"SFT"}
-{"draft_row":274,"source_segment_indices":[1968],"raw":"Yeah, I'm hungry.","actually":"Yes, I am hungry.","status":"SFT"}
-{"draft_row":275,"source_segment_indices":[1972],"raw":"I'd be happy.","actually":"I would be happy.","status":"SFT"}
-{"draft_row":275,"source_segment_indices":[1972,1973],"raw":"No, I would feel bad for her, but I would be happy.","actually":"No, I would feel bad for her, but I would be happy.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1974],"raw":"She's getting so many points.","actually":"She is getting so many points.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1975],"raw":"Oh, she must be in plain sight.","actually":"Oh, she must be in plain sight.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1976],"raw":"Whoa.","actually":"Whoa.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1977],"raw":"Uh-oh. Uh-oh.","actually":"Uh-oh. Uh-oh.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1978],"raw":"No, she knows how to play the game.","actually":"No, she knows how to play the game.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1979],"raw":"So many points.","actually":"So many points.","status":"SFT"}
-{"draft_row":276,"source_segment_indices":[1981],"raw":"This is distracting.","actually":"This is distracting.","status":"SFT"}
-{"draft_row":277,"source_segment_indices":[1982],"raw":"Welcome to Osaka.","actually":"Welcome to Osaka.","status":"SFT"}
-{"draft_row":277,"source_segment_indices":[1984],"raw":"Uh, yeah.","actually":"Uh, yes.","status":"SFT"}
-{"draft_row":277,"source_segment_indices":[1987],"raw":"Yes. Yes.","actually":"Yes. Yes.","status":"SFT"}
-{"draft_row":279,"source_segment_indices":[1994],"raw":"It was cute. I liked it. Good job.","actually":"It was cute. I liked it. Good job.","status":"SFT"}
-{"draft_row":279,"source_segment_indices":[1995,1996],"raw":"It was cuz I was missing the headband, wasn't it?","actually":"It was because I was missing the headband, wasn't it?","status":"SFT"}
-{"draft_row":279,"source_segment_indices":[1997],"raw":"Yes.","actually":"Yes.","status":"SFT"}
-{"draft_row":280,"source_segment_indices":[1999],"raw":"I get it. I get it.","actually":"I understand. I understand.","status":"SFT"}
-{"draft_row":280,"source_segment_indices":[2000],"raw":"I understand. I understood.","actually":"I understand. I understood.","status":"SFT"}
-{"draft_row":280,"source_segment_indices":[2001],"raw":"She did not understand the assignment.","actually":"She did not understand the assignment.","status":"SFT"}
-{"draft_row":271,"source_segment_indices":[1943],"raw":"I...","reason":"单词 I 后被截断，无法确定所指动作。","status":"LOW"}
-{"draft_row":272,"source_segment_indices":[1954],"raw":"it I'm so","reason":"ASR 残缺，缺少可确认的谓语。","status":"LOW"}
-{"draft_row":273,"source_segment_indices":[1959],"raw":"this color was it","reason":"颜色指代和问句边界不清，不猜测完整问句。","status":"LOW"}
-{"draft_row":274,"source_segment_indices":[1960,1961],"raw":"so once again","reason":"连接片段不完整，后续意图不清。","status":"LOW"}
-{"draft_row":274,"source_segment_indices":[1963],"raw":"time for that","reason":"that 所指动作不明。","status":"LOW"}
-{"draft_row":275,"source_segment_indices":[1969],"raw":"might as well just paint as a neg","reason":"neg 的名称/含义不确定，不能猜专名。","status":"LOW"}
-{"draft_row":275,"source_segment_indices":[1970],"raw":"should we just become a naggie","reason":"naggie 可能是名称或 ASR 错误。","status":"LOW"}
-{"draft_row":275,"source_segment_indices":[1971],"raw":"what if she doesn't fight any of us","reason":"躲藏场景中可能为 find，但原字幕为 fight，证据不足。","status":"LOW"}
-{"draft_row":276,"source_segment_indices":[1980],"raw":"wish we would hide","reason":"原句疑似缺词，不补充未确认的问句或主语。","status":"LOW"}
-{"draft_row":277,"source_segment_indices":[1984],"raw":"Osaka got to be more","reason":"字幕残缺且疑似 ASR 错误。","status":"LOW"}
-{"draft_row":279,"source_segment_indices":[1993],"raw":"wasn't my spot wonderful story","reason":"主谓和指代不清，不能拼成确定命题。","status":"LOW"}
-{"draft_row":279,"source_segment_indices":[1994],"raw":"I","reason":"句子开头被打断，后续发言另行保留。","status":"LOW"}
-{"draft_row":279,"source_segment_indices":[1997,1998],"raw":"have someone not hanging their clothes","reason":"缺乏能够确定含义的字幕证据。","status":"LOW"}
+{"draft_row": 19, "raw": "Roblox", "actually": "Roblox.", "status": "SFT"}
+{"draft_row": 19, "raw": "Are we starting? Are we starting? Are we starting?", "actually": "Are we starting?", "status": "SFT"}
+{"draft_row": 19, "raw": "big bow", "reason": "原始字幕中的短语无法确认，且与后续问句存在话轮边界；不根据上下文猜测专名或词语。", "status": "LOW"}
+{"draft_row": 32, "raw": "how do you pay", "reason": "字幕识别为 pay；虽然上下文涉及绘画操作，但没有音频证据确认应为 paint。", "status": "LOW"}
+{"draft_row": 48, "raw": "are you", "reason": "孤立句尾残片，缺少前文，无法确定其完整问句或指代。", "status": "LOW"}
+{"draft_row": 48, "raw": "wow really neither are you", "reason": "该片段依赖前文且涉及多话轮，缺少被回应内容，无法可靠确定语义。", "status": "LOW"}
+{"draft_row": 52, "raw": "the way it's going to figure it out", "reason": "原字幕句法和指代不清，不能无依据改写为“I will figure it out”。", "status": "LOW"}
+{"draft_row": 57, "raw": "Where is everyone hiding? Well, you found them so fast.", "actually": "Where is everyone hiding? You found them very quickly.", "status": "SFT"}
+{"draft_row": 57, "raw": "She looked kind of obvious.", "actually": "She looked rather obvious.", "status": "SFT"}
+{"draft_row": 58, "raw": "Did she look really obvious?", "actually": "Did she look really obvious?", "status": "SFT"}
+{"draft_row": 58, "raw": "Yeah, she, it was really cute.", "actually": "Yes, it was really cute.", "status": "SFT"}
+{"draft_row": 58, "raw": "Maybe she had a friend nearby.", "actually": "Maybe she had a friend nearby.", "status": "SFT"}
+{"draft_row": 59, "raw": "There is a whistle. I heard a whistle. Are they on auto-whistle too?", "actually": "I heard a whistle. Are they using automatic whistles too?", "status": "SFT"}
+{"draft_row": 60, "raw": "Where is everyone?", "actually": "Where is everyone?", "status": "SFT"}
+{"draft_row": 60, "raw": "I'll come back to this. Let's go from our obvious ones.", "actually": "I will come back to this. Let us start with the obvious ones.", "status": "SFT"}
+{"draft_row": 61, "raw": "Yeah. If I was someone who played this for only one day, where would I be hiding?", "actually": "If I were someone who had played this for only one day, where would I hide?", "status": "SFT"}
+{"draft_row": 61, "raw": "If I was", "reason": "孤立的条件从句起始片段，后续由另一话轮重新起句，无法单独构成可靠样本。", "status": "LOW"}
+{"draft_row": 62, "raw": "I keep hearing the whistles. It bothers me.", "actually": "I keep hearing the whistles, and they bother me.", "status": "SFT"}
+{"draft_row": 62, "raw": "I can turn this up. I need to hear the whistle too.", "actually": "I can turn up the volume. I need to hear the whistle too.", "status": "SFT"}
+{"draft_row": 63, "raw": "Guess they're not here.", "actually": "They are probably not here.", "status": "SFT"}
+{"draft_row": 63, "raw": "I need someone to move. I need someone to freak out.", "actually": "I need someone to move. I need someone to panic.", "status": "SFT"}
+{"draft_row": 63, "raw": "Where' the whistlers at?", "actually": "Where are the whistlers?", "status": "SFT"}
+{"draft_row": 64, "raw": "Mhm. You go this way. Is it just a circle?", "actually": "Go this way. Is it just a circle?", "status": "SFT"}
+{"draft_row": 64, "raw": "I don't know. It smells like crap, though. There's one around me.", "actually": "I do not know. It smells terrible, though. There is one around me.", "status": "SFT"}
+{"draft_row": 65, "raw": "I heard a really loud whistle. Where is it? Where's the whistler?", "actually": "I heard a very loud whistle. Where is it? Where is the person whistling?", "status": "SFT"}
+{"draft_row": 65, "raw": "We're going to be so bad at this, aren't we?", "actually": "We are going to be so bad at this, aren't we?", "status": "SFT"}
+{"draft_row": 66, "raw": "I heard it. I heard it. I'm not going to waste time here.", "actually": "I heard it. I will not waste time here.", "status": "SFT"}
+{"draft_row": 66, "raw": "Oh, you found someone. Nice. Where are the others?", "actually": "Oh, you found someone. Nice. Where are the others?", "status": "SFT"}
+{"draft_row": 66, "raw": "I'm bad at B", "reason": "句尾识别片段中的 B 所指不明，可能是未完成的自我修正。", "status": "LOW"}
+{"draft_row": 67, "raw": "Guess that's not one. I heard another whistle.", "actually": "That is probably not one. I heard another whistle.", "status": "SFT"}
+{"draft_row": 67, "raw": "I'm I'm glad at least found Iris.", "actually": "I am glad Iris was found.", "status": "SFT"}
+{"draft_row": 67, "raw": "Yeah, let's just at least have Iris.", "actually": "Let us at least have Iris.", "status": "SFT"}
+{"draft_row": 67, "raw": "yeah probably want", "reason": "句子在 want 后中断，缺少宾语；不根据下一话轮补全。", "status": "LOW"}
+{"draft_row": 68, "raw": "I hear it. Where? Where?", "actually": "I hear it. Where? Where?", "status": "SFT"}
+{"draft_row": 68, "raw": "We need to find someone as obvious as Mory again.", "actually": "We need to find someone as obvious as Mory again.", "status": "SFT"}
+{"draft_row": 69, "raw": "Do you think she's hiding this time?", "actually": "Do you think she is hiding this time?", "status": "SFT"}
+{"draft_row": 69, "raw": "I think I think maybe she could be hiding this time.", "actually": "I think she may be hiding this time.", "status": "SFT"}
+{"draft_row": 69, "raw": "or do you think she", "reason": "问句在从句中途截断，后续由另一说话者接续，不能补全。", "status": "LOW"}
+{"draft_row": 70, "raw": "I hear I hear them.", "actually": "I hear them.", "status": "SFT"}
+{"draft_row": 70, "raw": "I know. Me too. I think the whistles actually make it worse.", "actually": "I know. Me too. I think the whistles make it worse.", "status": "SFT"}
+{"draft_row": 70, "raw": "It's like it makes me bad at my job.", "actually": "It makes me worse at my job.", "status": "SFT"}
+{"draft_row": 71, "raw": "They're taunting me.", "actually": "They are taunting me.", "status": "SFT"}
+{"draft_row": 71, "raw": "I know.", "actually": "I know.", "status": "SFT"}
+{"draft_row": 71, "raw": "You should... Maybe if you cry and make them feel bad.", "actually": "You should... Maybe if you cry and make them feel bad.", "status": "SFT"}
+{"draft_row": 72, "raw": "Okay. Cry. Who? Where's the freaking babies at?", "actually": "Okay, cry. Who? Where are the freaking babies?", "status": "SFT"}
+{"draft_row": 72, "raw": "Yeah. Oh, you found one.", "actually": "Yes. Oh, you found one.", "status": "SFT"}
+{"draft_row": 72, "raw": "I was wondering about that. I guess I just missed her the first time.", "actually": "I was wondering about that. I guess I just missed her the first time.", "status": "SFT"}
+{"draft_row": 73, "raw": "There's another one.", "actually": "There is another one.", "status": "SFT"}
+{"draft_row": 73, "raw": "So, we need what? Two more, or is that three more?", "actually": "So, do we need two more, or three more?", "status": "SFT"}
+{"draft_row": 73, "raw": "With three more? With three more.", "actually": "Three more? Three more.", "status": "SFT"}
+{"draft_row": 74, "raw": "They can also make clones, so we need to keep that in mind.", "actually": "They can also make clones, so we need to remember that.", "status": "SFT"}
+{"draft_row": 74, "raw": "I think L said if we kill one clone, it kills them too.", "actually": "I think L said that if we kill one clone, it kills them too.", "status": "SFT"}
+{"draft_row": 74, "raw": "Does it? Yeah. So if you get one clone, they all die.", "actually": "Does it? Yes. If you get one clone, they all die.", "status": "SFT"}
+{"draft_row": 75, "raw": "Just like real life. Just like in real life.", "actually": "Just like real life. Just like in real life.", "status": "SFT"}
+{"draft_row": 75, "raw": "Hey. Hey. That sounds like it was over here.", "actually": "Hey, hey. That sounds like it was over here.", "status": "SFT"}
+{"draft_row": 75, "raw": "But where? Where? But where?", "actually": "But where? Where? But where?", "status": "SFT"}
+{"draft_row": 75, "raw": "the cl", "reason": "ASR片段在单词中途截断，无法确认 cl 的完整词语。", "status": "LOW"}
+{"draft_row": 82, "raw": "why are you all hiding together yeah", "actually": "Why are you all hiding together? Yeah.", "status": "SFT"}
+{"draft_row": 82, "raw": "oh lo and", "reason": "句子起始处的短语无法确认，不能据此补出人物或动作。", "status": "LOW"}
+{"draft_row": 83, "raw": "look your", "reason": "说话者在 look your 处中断，缺少完整指代和谓语。", "status": "LOW"}
+{"draft_row": 91, "raw": "it's a check out", "reason": "字幕识别为 check out，无法根据当前上下文确认其具体含义；不能推断为 giveaway。", "status": "LOW"}
+{"draft_row": 98, "raw": "You're not blind.", "actually": "You are not blind.", "status": "SFT"}
+{"draft_row": 98, "raw": "I am not blind. I approve that I'm not blind.", "actually": "I am not blind. I confirm that I am not blind.", "status": "SFT"}
+{"draft_row": 98, "raw": "The name and the password of the lobby are in the chat.", "actually": "The lobby name and password are in the chat.", "status": "SFT"}
+{"draft_row": 98, "raw": "Bale zoo", "reason": "字幕识别短语无法确认，可能是人名、口误或ASR错误。", "status": "LOW"}
+{"draft_row": 98, "raw": "Ending Iris", "reason": "片段可能是人名或操作词，也可能是ASR错误，无法确认完整表达。", "status": "LOW"}
+{"draft_row": 99, "raw": "Yeah. Yeah. She already felt so good.", "actually": "Yeah. Yeah. She already felt so good.", "status": "SFT"}
+{"draft_row": 99, "raw": "Oh, I see you now. I should have been bigger. Yay.", "actually": "Oh, I see you now. I should have been bigger. Yay.", "status": "SFT"}
+{"draft_row": 100, "raw": "Okay, here we go.", "actually": "Okay, here we go.", "status": "SFT"}
+{"draft_row": 100, "raw": "Oh, pretty.", "actually": "Oh, pretty.", "status": "SFT"}
+{"draft_row": 100, "raw": "I don't want to stand in the spot area.", "actually": "I do not want to stand in the spot area.", "status": "SFT"}
+{"draft_row": 100, "raw": "No. Oh no, I made a mistake.", "actually": "No. Oh no, I made a mistake.", "status": "SFT"}
+{"draft_row": 100, "raw": "why am I so", "reason": "句子中途截断，缺少后续谓语。", "status": "LOW"}
+{"draft_row": 101, "raw": "Okay, if this is the max we can go, why not?", "actually": "Okay, if this is the max we can go, why not?", "status": "SFT"}
+{"draft_row": 101, "raw": "Oh, don't worry. I can't go inside.", "actually": "Oh, do not worry. I cannot go inside.", "status": "SFT"}
+{"draft_row": 101, "raw": "No, you could. Yeah, we're so cooked, bro.", "actually": "No, you could. Yeah, we are so cooked, bro.", "status": "SFT"}
+{"draft_row": 101, "raw": "it's so", "reason": "句子未完成，缺少后续内容。", "status": "LOW"}
+{"draft_row": 102, "raw": "I think I'm good. I think my pose is good here, just like this.", "actually": "I think I am good. I think my pose is good here, just like this.", "status": "SFT"}
+{"draft_row": 102, "raw": "I think you could get flat on the ground. Maybe better like that.", "actually": "I think you could lie flat on the ground. Maybe that would be better.", "status": "SFT"}
+{"draft_row": 103, "raw": "I wish I could get this exact vertical.", "actually": "I wish I could make this exactly vertical.", "status": "SFT"}
+{"draft_row": 103, "raw": "Vertical. Vertical. You got to vertical yourself.", "actually": "Vertical. Vertical. You need to make yourself vertical.", "status": "SFT"}
+{"draft_row": 103, "raw": "How are you guys getting under things? Vertical. Vertical.", "actually": "How are you guys getting underneath things? Vertical. Vertical.", "status": "SFT"}
+{"draft_row": 104, "raw": "What do you mean by vertical?", "actually": "What do you mean by vertical?", "status": "SFT"}
+{"draft_row": 104, "raw": "No, no, no, no. What the heck? No, no, no.", "actually": "No, no, no, no. What the heck? No, no, no.", "status": "SFT"}
+{"draft_row": 104, "raw": "Oh, yes, yes, yes. Okay, okay. Body.", "actually": "Oh, yes, yes, yes. Okay, okay. Body.", "status": "SFT"}
+{"draft_row": 104, "raw": "How do I grab this color?", "actually": "How do I grab this color?", "status": "SFT"}
+{"draft_row": 105, "raw": "How do I...? Why can't I grab this color?", "actually": "How do I...? Why can't I grab this color?", "status": "SFT"}
+{"draft_row": 105, "raw": "Oh, there we go.", "actually": "Oh, there we go.", "status": "SFT"}
+{"draft_row": 105, "raw": "No, go in.", "actually": "No, go in.", "status": "SFT"}
+{"draft_row": 105, "raw": "That's why I can't draw. Maybe this is a bad idea.", "actually": "That is why I cannot draw. Maybe this is a bad idea.", "status": "SFT"}
+{"draft_row": 105, "raw": "I this color", "reason": "语句残缺，无法确定 I this color 的实际词语和句法关系。", "status": "LOW"}
+{"draft_row": 106, "raw": "No, go away. Absolutely traumatized.", "actually": "No, go away. I am absolutely traumatized.", "status": "SFT"}
+{"draft_row": 106, "raw": "I can't, I can't draw. Well, actually, wait. We should kind of try and get the texture at least. Am I not a good color?", "actually": "I cannot draw. Well, actually, wait. We should try to get the texture, at least. Am I not a good color?", "status": "SFT"}
+{"draft_row": 107, "raw": "Make the bad brush smaller.", "actually": "Make the brush smaller.", "status": "SFT"}
+{"draft_row": 107, "raw": "All right, time for the wheel. How do I rotate? How do I rotate?", "actually": "All right, time for the wheel. How do I rotate? How do I rotate?", "status": "SFT"}
+{"draft_row": 107, "raw": "This is not... I can't, I can't do this.", "actually": "This is not... I cannot do this.", "status": "SFT"}
+{"draft_row": 107, "raw": "press down the", "reason": "操作指令被截断，缺少后续按键或对象。", "status": "LOW"}
+{"draft_row": 108, "raw": "What in the world? How do I rotate myself?", "actually": "What in the world? How do I rotate myself?", "status": "SFT"}
+{"draft_row": 108, "raw": "Um, it's that color. How do I change my Pokemon?", "actually": "Um, it is that color. How do I change my Pokémon?", "status": "SFT"}
+{"draft_row": 108, "raw": "All right, metallic. Oh, I got it. I have an idea. Okay. Darker.", "actually": "All right, metallic. Oh, I got it. I have an idea. Okay, darker.", "status": "SFT"}
+{"draft_row": 109, "raw": "I already survived. I deserve to die for once.", "actually": "I have already survived. I deserve to die for once.", "status": "SFT"}
+{"draft_row": 109, "raw": "You deserve it. Yeah. Thank you.", "actually": "You deserve it. Yeah. Thank you.", "status": "SFT"}
+{"draft_row": 109, "raw": "Metallics. Turn up the roughness.", "actually": "Increase the metallic setting. Increase the roughness.", "status": "SFT"}
+{"draft_row": 109, "raw": "Yes.", "actually": "Yes.", "status": "SFT"}
+{"draft_row": 110, "raw": "Turn up the metallic. Turn down the metallic. Turn up the roughness.", "actually": "Increase the metallic setting, decrease it, and increase the roughness.", "status": "SFT"}
+{"draft_row": 110, "raw": "This is difficult.", "actually": "This is difficult.", "status": "SFT"}
+{"draft_row": 110, "raw": "Maybe that's better. Really rough. Really rough. That's pretty.", "actually": "Maybe that is better. It is really rough. It is really rough. That is pretty.", "status": "SFT"}
+{"draft_row": 111, "raw": "I'm stressing out", "actually": "I am stressing out.", "status": "SFT"}
+{"draft_row": 111, "raw": "can I get inside my the dude", "reason": "ASR片段中的名词和句法关系无法确认，不能根据上下文补全对象。", "status": "LOW"}
+{"draft_row": 112, "raw": "unless that good", "reason": "短语不完整，无法确认 unless 后的具体表达。", "status": "LOW"}
+{"draft_row": 112, "raw": "oh there seconds wait rotate wait", "reason": "多个短片段连续识别，词语边界和动作含义不清。", "status": "LOW"}
+{"draft_row": 112, "raw": "this is what", "reason": "句子在 what 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 114, "raw": "okay that looks", "reason": "句子中途截断，缺少后续谓语或评价对象。", "status": "LOW"}
+{"draft_row": 118, "raw": "Yeah. Yeah. Yeah.", "actually": "Yeah. Yeah. Yeah.", "status": "SFT"}
+{"draft_row": 119, "raw": "Oh my gosh. Oh my gosh.", "actually": "Oh my gosh. Oh my gosh.", "status": "SFT"}
+{"draft_row": 119, "raw": "everyone's soy not last", "reason": "ASR短语语义不明，无法确认 soy 和 not last 的关系。", "status": "LOW"}
+{"draft_row": 122, "raw": "Yes.", "actually": "Yes.", "status": "SFT"}
+{"draft_row": 122, "raw": "she do it", "reason": "句子结构不完整，无法确认是疑问、陈述还是自我修正。", "status": "LOW"}
+{"draft_row": 130, "raw": "yeah I am a", "reason": "句子在冠词后中断，缺少后续名词或补语。", "status": "LOW"}
+{"draft_row": 131, "raw": "Oh god. Oh no.", "actually": "Oh god. Oh no.", "status": "SFT"}
+{"draft_row": 131, "raw": "I'm hoping hidden behind this couch", "reason": "句子缺少明确主语/宾语，无法确认希望谁藏在沙发后面。", "status": "LOW"}
+{"draft_row": 132, "raw": "position my my favorite sausage", "reason": "操作指令与名词短语粘连，无法可靠恢复完整句意。", "status": "LOW"}
+{"draft_row": 133, "raw": "it's really", "reason": "句子在 really 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 141, "raw": "Were any of you guys balloons?", "actually": "Were any of you guys balloons?", "status": "SFT"}
+{"draft_row": 142, "raw": "I know. Oh, it's like they want us to flirt.", "actually": "I know. Oh, it is as if they want us to flirt.", "status": "SFT"}
+{"draft_row": 142, "raw": "I was hunting you guys.", "actually": "I was hunting you guys.", "status": "SFT"}
+{"draft_row": 142, "raw": "Oh, it looks like we're all the hunters.", "actually": "Oh, it looks like we are all the hunters.", "status": "SFT"}
+{"draft_row": 142, "raw": "For real? Are you joking?", "actually": "For real? Are you joking?", "status": "SFT"}
+{"draft_row": 142, "raw": "How convenient.", "actually": "How convenient.", "status": "SFT"}
+{"draft_row": 142, "raw": "Is this a joke?", "actually": "Is this a joke?", "status": "SFT"}
+{"draft_row": 143, "raw": "Is this a joke? What? Am I a joke to you?", "actually": "Is this a joke? What? Am I a joke to you?", "status": "SFT"}
+{"draft_row": 143, "raw": "Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.", "actually": "Uh, what am I? Yeah. What? What are we, a joke to you? Jeez.", "status": "SFT"}
+{"draft_row": 143, "raw": "Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?", "actually": "Yeah. No, no. I just... It is just convenient, you know? It is. Yeah. Oh, wait. What if it is kind of crazy?", "status": "SFT"}
+{"draft_row": 144, "raw": "I'm going to go draw myself as you.", "actually": "I am going to go draw myself as you.", "status": "SFT"}
+{"draft_row": 144, "raw": "This too is Blood Quill.", "actually": "This too is Blood Quill.", "status": "SFT"}
+{"draft_row": 144, "raw": "How do I do your eyes?", "actually": "How do I do your eyes?", "status": "SFT"}
+{"draft_row": 144, "raw": "What are you doing? I'm drawing myself as you. Me? Yeah.", "actually": "What are you doing? I am drawing myself as you. Me? Yeah.", "status": "SFT"}
+{"draft_row": 144, "raw": "You got to do like a wink.", "actually": "You have to do a wink.", "status": "SFT"}
+{"draft_row": 145, "raw": "Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black.", "actually": "You have to do a smile and feathers, but that is a lot of work, so I am just going to make you black.", "status": "SFT"}
+{"draft_row": 153, "raw": "no you thought secretary", "reason": "ASR识别词语不完整，无法确认该处称呼或句子。", "status": "LOW"}
+{"draft_row": 156, "raw": "they sound so close but I am so", "reason": "句子中途截断，缺少后续谓语。", "status": "LOW"}
+{"draft_row": 159, "raw": "someone H was just random", "reason": "语音识别残缺，无法确认人物名称和句意。", "status": "LOW"}
+{"draft_row": 162, "raw": "I had one in me", "reason": "代词 one 的具体指代不明，无法确认说的是口哨、玩家还是其他对象。", "status": "LOW"}
+{"draft_row": 162, "raw": "I unfortunately am blind", "actually": "Unfortunately, I cannot see.", "status": "SFT"}
+{"draft_row": 162, "raw": "oh whistles in six seconds", "actually": "Oh, the whistles will sound in six seconds.", "status": "SFT"}
+{"draft_row": 162, "raw": "three two", "actually": "Three, two.", "status": "SFT"}
+{"draft_row": 162, "raw": "I didn't hear any", "actually": "I did not hear any.", "status": "SFT"}
+{"draft_row": 162, "raw": "I better run", "actually": "I had better run.", "status": "SFT"}
+{"draft_row": 163, "raw": "I just noted her here but I I don't know where", "actually": "I just noted her here, but I do not know where.", "status": "SFT"}
+{"draft_row": 163, "raw": "oh my god I hear them", "actually": "Oh my god. I hear them.", "status": "SFT"}
+{"draft_row": 163, "raw": "yeah I hear someone but I don't see anyone", "actually": "Yeah, I hear someone, but I cannot see anyone.", "status": "SFT"}
+{"draft_row": 164, "raw": "I mean this place was a place of people", "actually": "I mean, this place had people in it.", "status": "SFT"}
+{"draft_row": 164, "raw": "I feel blind as hell I'm just going to shoot this toilet paper", "actually": "I cannot see anything. I am going to shoot this toilet paper.", "status": "SFT"}
+{"draft_row": 164, "raw": "oh they hate me so much it is over", "actually": "Oh, they hate me so much. It is over.", "status": "SFT"}
+{"draft_row": 165, "raw": "oh the person this thing", "reason": "ASR短片段缺少完整句法和指代对象，不能补出人物或物品。", "status": "LOW"}
+{"draft_row": 165, "raw": "you found be at least", "reason": "be 可能是人名或ASR识别错误，未确认前不改写为 Bae 等名字。", "status": "LOW"}
+{"draft_row": 165, "raw": "oh my god I'm literally blind", "actually": "Oh my god, I cannot see anything.", "status": "SFT"}
+{"draft_row": 165, "raw": "no it's okay I'm blind too", "actually": "No, it is okay. I cannot see either.", "status": "SFT"}
+{"draft_row": 165, "raw": "yeah yeah yeah good job yeah", "actually": "Yeah, yeah, good job. Yeah.", "status": "SFT"}
+{"draft_row": 166, "raw": "where are the other ones", "actually": "Where are the others?", "status": "SFT"}
+{"draft_row": 166, "raw": "I heard them near the starting oh she was at the top", "actually": "I heard them near the starting area. Oh, she was at the top.", "status": "SFT"}
+{"draft_row": 166, "raw": "oh pretty good yeah let's rejoin their call", "actually": "Oh, pretty good. Yeah, let us rejoin their call.", "status": "SFT"}
+{"draft_row": 167, "raw": "okay for this one oh Mori and Humoko were somewhere around here", "actually": "Okay, for this one, Mori and Humoko were somewhere around here.", "status": "SFT"}
+{"draft_row": 167, "raw": "that was pretty good you know it's too good very good", "actually": "That was pretty good, you know. It is too good. Very good.", "status": "SFT"}
+{"draft_row": 168, "raw": "oh when you", "reason": "条件/时间从句被截断，没有可核实的后续内容。", "status": "LOW"}
+{"draft_row": 168, "raw": "time to become infected let's try infection", "actually": "Time to become infected. Let us try Infection.", "status": "SFT"}
+{"draft_row": 168, "raw": "everyone gets infected", "actually": "Everyone gets infected.", "status": "SFT"}
+{"draft_row": 168, "raw": "that's the mode I see in clips", "actually": "That is the mode I have seen in clips.", "status": "SFT"}
+{"draft_row": 168, "raw": "oh that's hard", "actually": "Oh, that is difficult.", "status": "SFT"}
+{"draft_row": 169, "raw": "you have more painting time for the the chameleons then", "actually": "Do the chameleons have more painting time, then?", "status": "SFT"}
+{"draft_row": 169, "raw": "okay yeah that might be nice", "actually": "Okay. Yes, that might be nice.", "status": "SFT"}
+{"draft_row": 169, "raw": "wait can you repeat what's infection", "actually": "Wait, can you repeat what Infection is?", "status": "SFT"}
+{"draft_row": 169, "raw": "so when you die you become a hunter", "actually": "When you die, you become a hunter.", "status": "SFT"}
+{"draft_row": 170, "raw": "oh I see okay so it's just more hunters at the end", "actually": "Oh, I see. Okay, so there are more hunters at the end.", "status": "SFT"}
+{"draft_row": 170, "raw": "should we do like a last timer for it then for like the actual", "actually": "Should we set a timer for the actual round?", "status": "SFT"}
+{"draft_row": 171, "raw": "yeah we can't say where we are because", "actually": "Yeah, we cannot say where we are.", "status": "SFT"}
+{"draft_row": 171, "raw": "yeah become a hunter huh", "actually": "Yeah, become a hunter? Huh.", "status": "SFT"}
+{"draft_row": 171, "raw": "just make sure to leave the voice chat when you become a hunter then I think", "actually": "Just make sure to leave the voice chat when you become a hunter, I think.", "status": "SFT"}
+{"draft_row": 172, "raw": "your spot knowledge takes anymore", "reason": "ASR短语缺少可确定的主谓和含义，不能凭游戏规则猜测。", "status": "LOW"}
+{"draft_row": 172, "raw": "yeah yeah okay but you also that means you also can't check what other people are doing after you're done painting right", "actually": "Okay, but that also means you cannot check what others are doing after you finish painting, right?", "status": "SFT"}
+{"draft_row": 172, "raw": "yeah yep yeah", "actually": "Yes.", "status": "SFT"}
+{"draft_row": 173, "raw": "would there be no whistle on this one", "actually": "Would there be no whistle in this mode?", "status": "SFT"}
+{"draft_row": 173, "raw": "okay makes sense sure", "actually": "Okay, that makes sense. Sure.", "status": "SFT"}
+{"draft_row": 173, "raw": "I guess we can see each other", "actually": "I suppose we can see each other.", "status": "SFT"}
+{"draft_row": 173, "raw": "in fact you can't see each other", "actually": "In fact, you cannot see each other.", "status": "SFT"}
+{"draft_row": 174, "raw": "I think it might be part of the game mode where you can't switch POVs anyway", "actually": "I think it might be part of the game mode that you cannot switch viewpoints anyway.", "status": "SFT"}
+{"draft_row": 174, "raw": "yeah okay okay the game chat no okay", "actually": "Yeah, okay, okay. The game chat? No. Okay.", "status": "SFT"}
+{"draft_row": 174, "raw": "so don't try to reveal yourself too hard when you're talking", "actually": "So do not give away too much about your location when talking.", "status": "SFT"}
+{"draft_row": 175, "raw": "Always remember, lips sealed tight, ladies.", "actually": "Remember to keep your lips sealed, ladies.", "status": "SFT"}
+{"draft_row": 175, "raw": "I'm a hunter.", "actually": "I am a hunter.", "status": "SFT"}
+{"draft_row": 175, "raw": "oh god what a", "reason": "感叹句在冠词后截断，缺少可恢复的宾语或评价。", "status": "LOW"}
+{"draft_row": 175, "raw": "where should I", "reason": "问题中途截断，缺少动作或地点指代。", "status": "LOW"}
+{"draft_row": 175, "raw": "oh yeah get out of here", "actually": "Oh yeah, get out of here.", "status": "SFT"}
+{"draft_row": 175, "raw": "I need to paint", "actually": "I need to paint.", "status": "SFT"}
+{"draft_row": 175, "raw": "oh my god how do I turn around", "actually": "Oh my god. How do I turn around?", "status": "SFT"}
+{"draft_row": 176, "raw": "can I just shoot as many times possible", "actually": "Can I shoot as many times as possible?", "status": "SFT"}
+{"draft_row": 176, "raw": "yeah you need to shoot a lot", "actually": "Yeah, you need to shoot a lot.", "status": "SFT"}
+{"draft_row": 176, "raw": "oh god okay yeah no it's too obvious too obvious", "actually": "Oh god. Okay. Yeah, no, it is too obvious. Too obvious.", "status": "SFT"}
+{"draft_row": 176, "raw": "uh try not to give too much away", "actually": "Try not to give too much away.", "status": "SFT"}
+{"draft_row": 177, "raw": "maybe any of you could become Emones at any moment", "reason": "ASR识别出的专名/角色词无法确认，不能直接推断为 Infection 或其他游戏角色。", "status": "LOW"}
+{"draft_row": 177, "raw": "moved out moved out really", "reason": "短语的词语边界和动作含义不清，无法可靠恢复。", "status": "LOW"}
+{"draft_row": 177, "raw": "how do you put I can see my mind is picture on", "reason": "问句与后续短语粘连，缺少可靠的句法和指代关系。", "status": "LOW"}
+{"draft_row": 177, "raw": "you got to make that yourself you know", "actually": "You have to make that yourself, you know.", "status": "SFT"}
+{"draft_row": 178, "raw": "oh just by like an artist spamming yourself", "actually": "Is it done by repeatedly painting yourself?", "status": "SFT"}
+{"draft_row": 178, "raw": "I mean kind of you just you just got to be a good artist you know", "actually": "I mean, kind of. You just have to be a good artist, you know.", "status": "SFT"}
+{"draft_row": 178, "raw": "I see", "actually": "I see.", "status": "SFT"}
+{"draft_row": 179, "raw": "this is stupid but you know I might as well", "actually": "This is stupid, but I might as well try.", "status": "SFT"}
+{"draft_row": 179, "raw": "no no no", "actually": "No, no, no.", "status": "SFT"}
+{"draft_row": 179, "raw": "I love when it's dumb enough so it just might work", "actually": "I love it when something is dumb enough that it might work.", "status": "SFT"}
+{"draft_row": 180, "raw": "this is so stupid I think they're going to find me but whatever", "actually": "This is so stupid. I think they are going to find me, but whatever.", "status": "SFT"}
+{"draft_row": 180, "raw": "yeah okay wait we got still still got time", "actually": "Yeah, okay, wait. We still have time.", "status": "SFT"}
+{"draft_row": 180, "raw": "sun cost fallacy I don't know man", "actually": "Sunk-cost fallacy. I do not know, man.", "status": "SFT"}
+{"draft_row": 182, "raw": "I got to go within", "reason": "短语的实际动作含义无法确认，不能擅自解释为进入某个位置。", "status": "LOW"}
+{"draft_row": 183, "raw": "it's not do space bar and then", "reason": "操作指令片段语法损坏，无法确认按键和后续动作。", "status": "LOW"}
+{"draft_row": 188, "raw": "should I get", "reason": "句子起始后中断，缺少后续动作或对象。", "status": "LOW"}
+{"draft_row": 188, "raw": "move coals or", "reason": "操作指令词语不确定，无法确认是 move calls、move coals 还是其他表达。", "status": "LOW"}
+{"draft_row": 189, "raw": "move calls", "reason": "ASR疑似识别错词，无法确认是移动频道还是移动角色。", "status": "LOW"}
+{"draft_row": 190, "raw": "never move over", "reason": "孤立指令短语缺少可靠上下文，无法确认其具体对象和意图。", "status": "LOW"}
+{"draft_row": 193, "raw": "oh oh my my three wonderful points", "actually": "Oh, oh, my, my three wonderful points.", "status": "SFT"}
+{"draft_row": 193, "raw": "I feel like my", "reason": "句子残缺，无法确认后续表达。", "status": "LOW"}
+{"draft_row": 198, "raw": "you can't go this", "reason": "句子不完整，无法确认限制条件。", "status": "LOW"}
+{"draft_row": 199, "raw": "are we all just", "reason": "句子中断，缺少后续谓语。", "status": "LOW"}
+{"draft_row": 199, "raw": "150 is a little", "reason": "比较句在 little 后中断，缺少评价内容。", "status": "LOW"}
+{"draft_row": 200, "raw": "I don't know if", "reason": "句子在条件从句中途截断。", "status": "LOW"}
+{"draft_row": 200, "raw": "you were like", "reason": "句子残缺，缺少后续内容。", "status": "LOW"}
+{"draft_row": 203, "raw": "I'm so ready I'm so ready for this map", "actually": "I am so ready. I am so ready for this map.", "status": "SFT"}
+{"draft_row": 203, "raw": "Hunter. Okay, Hunter's in channel one now, I guess.", "actually": "Hunter. Okay, the hunter is in channel one now, I guess.", "status": "SFT"}
+{"draft_row": 203, "raw": "Wait, Hunter is in channel one now, right?", "actually": "Wait, the hunter is in channel one now, right?", "status": "SFT"}
+{"draft_row": 203, "raw": "That's why, that's why Bae moved there, right?", "actually": "That is why, that is why Bae moved there, right?", "status": "SFT"}
+{"draft_row": 203, "raw": "Yeah. Okay.", "actually": "Yeah. Okay.", "status": "SFT"}
+{"draft_row": 204, "raw": "Keep on going. Keep on going.", "actually": "Keep on going. Keep on going.", "status": "SFT"}
+{"draft_row": 204, "raw": "Ah, no. Can I not turn to the side?", "actually": "Ah, no. Can I not turn to the side?", "status": "SFT"}
+{"draft_row": 204, "raw": "Why can't I...? Uh, there it is.", "actually": "Why cannot I...? Uh, there it is.", "status": "SFT"}
+{"draft_row": 204, "raw": "Hey. Dang it. Hang on.", "actually": "Hey. Dang it. Hang on.", "status": "SFT"}
+{"draft_row": 204, "raw": "Oh shoot, I just made a clone by accident.", "actually": "Oh shoot, I just made a clone by accident.", "status": "SFT"}
+{"draft_row": 205, "raw": "How about you? I don't know about this, but...", "actually": "How about you? I do not know about this, but...", "status": "SFT"}
+{"draft_row": 205, "raw": "Right. You get more points if you play.", "actually": "Right. You get more points if you play.", "status": "SFT"}
+{"draft_row": 205, "raw": "just barely not", "reason": "短语中途截断，无法确认完整判断。", "status": "LOW"}
+{"draft_row": 205, "raw": "How do I get this coloring this", "reason": "操作问句的结尾词语不清，无法确认准确表达。", "status": "LOW"}
+{"draft_row": 206, "raw": "Oh my god. Telling me to hang my body too much. Really?", "actually": "Oh my god. They are telling me to hang my body too much. Really?", "status": "SFT"}
+{"draft_row": 206, "raw": "Yeah, right.", "actually": "Yeah, right.", "status": "SFT"}
+{"draft_row": 206, "raw": "That's what I'm saying.", "actually": "That is what I am saying.", "status": "SFT"}
+{"draft_row": 206, "raw": "They're so strict.", "actually": "They are so strict.", "status": "SFT"}
+{"draft_row": 206, "raw": "I know. They're straight.", "actually": "I know. They are straight.", "status": "SFT"}
+{"draft_row": 206, "raw": "They keep telling", "reason": "句子在 telling 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 207, "raw": "But this is okay? Are you sure?", "actually": "But this is okay? Are you sure?", "status": "SFT"}
+{"draft_row": 207, "raw": "How is this okay?", "actually": "How is this okay?", "status": "SFT"}
+{"draft_row": 207, "raw": "I will never find a hiding spot.", "actually": "I will never find a hiding spot.", "status": "SFT"}
+{"draft_row": 207, "raw": "Yeah, same.", "actually": "Yeah, same.", "status": "SFT"}
+{"draft_row": 208, "raw": "Maybe I should be a bit more blue.", "actually": "Maybe I should be a bit more blue.", "status": "SFT"}
+{"draft_row": 208, "raw": "Seems kind of unfair, but okay.", "actually": "It seems kind of unfair, but okay.", "status": "SFT"}
+{"draft_row": 208, "raw": "What? Why can't I go back there?", "actually": "What? Why cannot I go back there?", "status": "SFT"}
+{"draft_row": 208, "raw": "this will go", "reason": "句子在 go 后中断，无法确认说话者准备表达的判断。", "status": "LOW"}
+{"draft_row": 209, "raw": "I want to turn my body.", "actually": "I want to turn my body.", "status": "SFT"}
+{"draft_row": 209, "raw": "Is this better?", "actually": "Is this better?", "status": "SFT"}
+{"draft_row": 209, "raw": "I have no idea.", "actually": "I have no idea.", "status": "SFT"}
+{"draft_row": 209, "raw": "I go on top", "actually": "I will go on top.", "status": "SFT"}
+{"draft_row": 209, "raw": "without moving room", "reason": "字幕在 moving 与 room 之间的词语边界不清，无法确认完整操作指令。", "status": "LOW"}
+{"draft_row": 210, "raw": "Let's figure out.", "actually": "Let us figure this out.", "status": "SFT"}
+{"draft_row": 210, "raw": "Maybe a little this.", "actually": "Maybe a little of this.", "status": "SFT"}
+{"draft_row": 210, "raw": "Come on.", "actually": "Come on.", "status": "SFT"}
+{"draft_row": 210, "raw": "It's still too... colorwise.", "reason": "“colorwise”所在句子结构不完整，无法确认说话者想表达的颜色判断。", "status": "LOW"}
+{"draft_row": 210, "raw": "What if I want to turn my...", "reason": "句子被截断，缺少动作对象。", "status": "LOW"}
+{"draft_row": 211, "raw": "Okay, I can't get this color.", "actually": "Okay, I cannot get this color.", "status": "SFT"}
+{"draft_row": 211, "raw": "This color sucks.", "actually": "This color sucks.", "status": "SFT"}
+{"draft_row": 211, "raw": "Also, this brush must be better.", "actually": "Also, this brush must be better.", "status": "SFT"}
+{"draft_row": 211, "raw": "Spin, spin, spin, spin.", "actually": "Spin, spin, spin, spin.", "status": "SFT"}
+{"draft_row": 211, "raw": "I don't have time, man.", "actually": "I do not have time, man.", "status": "SFT"}
+{"draft_row": 211, "raw": "I have to do this now.", "actually": "I have to do this now.", "status": "SFT"}
+{"draft_row": 211, "raw": "I hate this body.", "actually": "I hate this body.", "status": "SFT"}
+{"draft_row": 212, "raw": "We're on a white tile.", "actually": "We are on a white tile.", "status": "SFT"}
+{"draft_row": 212, "raw": "I'll do my feet blue ones first.", "actually": "I will do my feet blue ones first.", "status": "SFT"}
+{"draft_row": 212, "raw": "Okay. Um...", "actually": "Okay. Um...", "status": "SFT"}
+{"draft_row": 212, "raw": "Oops.", "actually": "Oops.", "status": "SFT"}
+{"draft_row": 212, "raw": "Oh, what have I done?", "actually": "Oh, what have I done?", "status": "SFT"}
+{"draft_row": 212, "raw": "What did you do?", "actually": "What did you do?", "status": "SFT"}
+{"draft_row": 212, "raw": "All right. Okay.", "actually": "All right. Okay.", "status": "SFT"}
+{"draft_row": 212, "raw": "Fifty seconds.", "actually": "Fifty seconds.", "status": "SFT"}
+{"draft_row": 212, "raw": "Time to", "reason": "动作短语被截断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 213, "raw": "I don't need the voice.", "actually": "I do not need the voice.", "status": "SFT"}
+{"draft_row": 213, "raw": "Don't remind me of the time, man.", "actually": "Do not remind me of the time, man.", "status": "SFT"}
+{"draft_row": 213, "raw": "Climb up a bit. Climb.", "actually": "Climb up a bit. Climb.", "status": "SFT"}
+{"draft_row": 213, "raw": "How do I climb?", "actually": "How do I climb?", "status": "SFT"}
+{"draft_row": 213, "raw": "I made it metallic all the way.", "actually": "I made it metallic all the way.", "status": "SFT"}
+{"draft_row": 213, "raw": "Okay. Oh god.", "actually": "Okay. Oh god.", "status": "SFT"}
+{"draft_row": 213, "raw": "Can you climb? Climb.", "actually": "Can you climb? Climb.", "status": "SFT"}
+{"draft_row": 214, "raw": "Yeah, yeah.", "actually": "Yeah, yeah.", "status": "SFT"}
+{"draft_row": 214, "raw": "Oh, wait, what?", "actually": "Oh, wait, what?", "status": "SFT"}
+{"draft_row": 214, "raw": "Okay, okay, okay.", "actually": "Okay, okay, okay.", "status": "SFT"}
+{"draft_row": 215, "raw": "How do I do that?", "actually": "How do I do that?", "status": "SFT"}
+{"draft_row": 215, "raw": "I think we can be proud of this.", "actually": "I think we can be proud of this.", "status": "SFT"}
+{"draft_row": 215, "raw": "I'm so proud of this.", "actually": "I am so proud of this.", "status": "SFT"}
+{"draft_row": 215, "raw": "I'm not proud of this.", "actually": "I am not proud of this.", "status": "SFT"}
+{"draft_row": 215, "raw": "Turn my body. I want to turn my body so my butt is staying.", "actually": "Turn my body. I want to turn my body so my rear stays in place.", "status": "SFT"}
+{"draft_row": 216, "raw": "I think I think my hiding spots are funny", "actually": "I think, I think my hiding spots are funny.", "status": "SFT"}
+{"draft_row": 216, "raw": "like Callie is up by last time", "reason": "人物和位置表达无法从当前字幕准确恢复，不推断为具体地点。", "status": "LOW"}
+{"draft_row": 217, "raw": "Okay, okay.", "actually": "Okay, okay.", "status": "SFT"}
+{"draft_row": 217, "raw": "Huh?", "actually": "Huh?", "status": "SFT"}
+{"draft_row": 217, "raw": "Please no.", "actually": "Please no.", "status": "SFT"}
+{"draft_row": 217, "raw": "Okay.", "actually": "Okay.", "status": "SFT"}
+{"draft_row": 217, "raw": "Surely.", "actually": "Surely.", "status": "SFT"}
+{"draft_row": 217, "raw": "oh it's just B some", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 219, "raw": "No", "actually": "No.", "status": "SFT"}
+{"draft_row": 219, "raw": "I'm just I'm just", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 219, "raw": "you can't see any", "reason": "句子在 any 后中断，缺少被指代的对象。", "status": "LOW"}
+{"draft_row": 220, "raw": "Is it B? Oh, B.", "actually": "Is it B? Oh, B.", "status": "SFT"}
+{"draft_row": 220, "raw": "Wait, who? Who?", "actually": "Wait, who? Who?", "status": "SFT"}
+{"draft_row": 220, "raw": "oh never seen Bay", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 223, "raw": "Oh god. Nice.", "actually": "Oh god. Nice.", "status": "SFT"}
+{"draft_row": 223, "raw": "H", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 223, "raw": "wait we only have", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 226, "raw": "God damn.", "actually": "God damn.", "status": "SFT"}
+{"draft_row": 227, "raw": "I have to give her", "reason": "句子在 give her 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 230, "raw": "and then turn the drive", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 230, "raw": "country looks", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 230, "raw": "yeah house", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 231, "raw": "did I accidentally disable names", "actually": "Did I accidentally disable names?", "status": "SFT"}
+{"draft_row": 231, "raw": "maybe you can do that", "actually": "Maybe you can do that.", "status": "SFT"}
+{"draft_row": 231, "raw": "yeah I think so", "actually": "Yeah, I think so.", "status": "SFT"}
+{"draft_row": 231, "raw": "why not", "actually": "Why not?", "status": "SFT"}
+{"draft_row": 231, "raw": "who says who says country is pretty big", "actually": "Who says? Who says Country is pretty big?", "status": "SFT"}
+{"draft_row": 231, "raw": "oh okay that's why people", "actually": "Oh, okay. That's why people...", "status": "SFT"}
+{"draft_row": 231, "raw": "yeah", "actually": "Yeah.", "status": "SFT"}
+{"draft_row": 231, "raw": "wait hold on this is a small one", "actually": "Wait, hold on. This is a small one.", "status": "SFT"}
+{"draft_row": 231, "raw": "did", "reason": "句子从助动词开始即被截断，无法确认完整问题。", "status": "LOW"}
+{"draft_row": 231, "raw": "level two little bed", "reason": "ASR短语缺少清晰词语边界，无法确认具体含义。", "status": "LOW"}
+{"draft_row": 232, "raw": "indo country", "actually": "Indo Country.", "status": "SFT"}
+{"draft_row": 232, "raw": "yeah", "actually": "Yeah.", "status": "SFT"}
+{"draft_row": 232, "raw": "I'll do my best", "actually": "I will do my best.", "status": "SFT"}
+{"draft_row": 232, "raw": "don't get me if you see me", "actually": "Don't catch me if you see me.", "status": "SFT"}
+{"draft_row": 232, "raw": "I promise you", "actually": "I promise you.", "status": "SFT"}
+{"draft_row": 232, "raw": "okay", "actually": "Okay.", "status": "SFT"}
+{"draft_row": 232, "raw": "okay", "actually": "Okay.", "status": "SFT"}
+{"draft_row": 232, "raw": "let's see how this rules", "actually": "Let's see how this works.", "status": "SFT"}
+{"draft_row": 232, "raw": "herself as a jor", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 232, "raw": "going to promise", "reason": "缺少明确主语，无法确认该片段的完整表达。", "status": "LOW"}
+{"draft_row": 233, "raw": "it's my turn", "actually": "It's my turn.", "status": "SFT"}
+{"draft_row": 233, "raw": "meadows meadows", "actually": "Meadows. Meadows.", "status": "SFT"}
+{"draft_row": 233, "raw": "yeah", "actually": "Yeah.", "status": "SFT"}
+{"draft_row": 233, "raw": "let's go", "actually": "Let's go.", "status": "SFT"}
+{"draft_row": 233, "raw": "hide", "actually": "Hide.", "status": "SFT"}
+{"draft_row": 233, "raw": "don't say where we're hiding", "actually": "Don't say where we're hiding.", "status": "SFT"}
+{"draft_row": 233, "raw": "okay", "actually": "Okay.", "status": "SFT"}
+{"draft_row": 233, "raw": "oh no", "actually": "Oh no.", "status": "SFT"}
+{"draft_row": 233, "raw": "a dang it", "actually": "Ah, dang it.", "status": "SFT"}
+{"draft_row": 233, "raw": "no gnome", "actually": "No gnome.", "status": "SFT"}
+{"draft_row": 233, "raw": "want to be a hidden", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 233, "raw": "it's my", "reason": "句子在 my 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 234, "raw": "I have a really good idea", "actually": "I have a really good idea.", "status": "SFT"}
+{"draft_row": 234, "raw": "no I don't want to do this", "actually": "No, I don't want to do this.", "status": "SFT"}
+{"draft_row": 234, "raw": "that looks funny", "actually": "That looks funny.", "status": "SFT"}
+{"draft_row": 234, "raw": "is that like a onelegged thing", "actually": "Is that like a one-legged thing?", "status": "SFT"}
+{"draft_row": 234, "raw": "oh this doesn't feel like with that because it looks funny", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 234, "raw": "your time", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 234, "raw": "that looks", "reason": "句子在 looks 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 235, "raw": "oh man", "actually": "Oh man.", "status": "SFT"}
+{"draft_row": 235, "raw": "oh I'm so cooked", "actually": "I'm in trouble.", "status": "SFT"}
+{"draft_row": 235, "raw": "me too", "actually": "Me too.", "status": "SFT"}
+{"draft_row": 235, "raw": "let's cook together", "actually": "Let's be in trouble together.", "status": "SFT"}
+{"draft_row": 235, "raw": "give up on this idea", "actually": "Give up on this idea.", "status": "SFT"}
+{"draft_row": 235, "raw": "give up on this idea", "actually": "Give up on this idea.", "status": "SFT"}
+{"draft_row": 235, "raw": "you're not doing it", "actually": "You're not doing it.", "status": "SFT"}
+{"draft_row": 235, "raw": "okay we got a lot of time", "actually": "Okay, we have a lot of time.", "status": "SFT"}
+{"draft_row": 235, "raw": "okay still got 3 minutes", "actually": "Okay, we still have three minutes.", "status": "SFT"}
+{"draft_row": 235, "raw": "get out of here spot", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 236, "raw": "how do I do this", "actually": "How do I do this?", "status": "SFT"}
+{"draft_row": 236, "raw": "got to get that idea", "actually": "Got to get that idea.", "status": "SFT"}
+{"draft_row": 236, "raw": "it's nice during hiding time you can't see other people running kind of stuck", "actually": "It's nice during hiding time. You can't see other people running; you're kind of stuck.", "status": "SFT"}
+{"draft_row": 236, "raw": "hold on I want it", "actually": "Hold on. I want it.", "status": "SFT"}
+{"draft_row": 236, "raw": "just a little jump there", "actually": "Just a little jump there.", "status": "SFT"}
+{"draft_row": 236, "raw": "nope", "actually": "Nope.", "status": "SFT"}
+{"draft_row": 236, "raw": "you could become a little", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 236, "raw": "not that other", "reason": "比较对象缺失，句子不完整。", "status": "LOW"}
+{"draft_row": 237, "raw": "maybe I should go higher up", "actually": "Maybe I should go higher up.", "status": "SFT"}
+{"draft_row": 237, "raw": "how do I move again", "actually": "How do I move again?", "status": "SFT"}
+{"draft_row": 237, "raw": "maybe that place might be right there", "actually": "Maybe that place might be right there.", "status": "SFT"}
+{"draft_row": 237, "raw": "please", "actually": "Please.", "status": "SFT"}
+{"draft_row": 237, "raw": "yeah it's not happening", "actually": "Yeah, it's not happening.", "status": "SFT"}
+{"draft_row": 237, "raw": "a bit troublesome", "actually": "A bit troublesome.", "status": "SFT"}
+{"draft_row": 237, "raw": "okay how do I how do I increase the roughness though", "actually": "Okay, how do I...? How do I increase the roughness, though?", "status": "SFT"}
+{"draft_row": 237, "raw": "I'm going to", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 238, "raw": "do you think I could be good like this", "actually": "Do you think I could be good like this?", "status": "SFT"}
+{"draft_row": 238, "raw": "it could be", "actually": "It could be.", "status": "SFT"}
+{"draft_row": 238, "raw": "why don't we try it right over here", "actually": "Why don't we try it right over here?", "status": "SFT"}
+{"draft_row": 238, "raw": "why am I floating really weirdly", "actually": "Why am I floating really weirdly?", "status": "SFT"}
+{"draft_row": 238, "raw": "I want to be quiet and not spoil it", "actually": "I want to be quiet and not spoil it.", "status": "SFT"}
+{"draft_row": 238, "raw": "I'm just not the right", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 239, "raw": "I want to go that way", "actually": "I want to go that way.", "status": "SFT"}
+{"draft_row": 239, "raw": "then you just got to color yourself up", "actually": "Then you just have to color yourself up.", "status": "SFT"}
+{"draft_row": 239, "raw": "we're out of time", "actually": "We're out of time.", "status": "SFT"}
+{"draft_row": 239, "raw": "you have 100 seconds", "actually": "You have 100 seconds.", "status": "SFT"}
+{"draft_row": 239, "raw": "I know", "actually": "I know.", "status": "SFT"}
+{"draft_row": 239, "raw": "that's too metallic", "actually": "That's too metallic.", "status": "SFT"}
+{"draft_row": 239, "raw": "I'm trying to", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 239, "raw": "then believe", "reason": "字幕片段不完整或ASR识别异常，当前上下文不足以可靠恢复。", "status": "LOW"}
+{"draft_row": 240, "raw": "oh shoot okay", "actually": "Oh shoot. Okay.", "status": "SFT"}
+{"draft_row": 240, "raw": "I'm boring", "actually": "I'm boring.", "status": "SFT"}
+{"draft_row": 240, "raw": "the heck was it like that", "actually": "The heck was it like that?", "status": "SFT"}
+{"draft_row": 240, "raw": "no no no", "actually": "No, no, no.", "status": "SFT"}
+{"draft_row": 240, "raw": "oh I see", "actually": "Oh, I see.", "status": "SFT"}
+{"draft_row": 240, "raw": "oh yeah you're boring", "actually": "Oh yeah, you're boring.", "status": "SFT"}
+{"draft_row": 240, "raw": "what the heck", "actually": "What the heck?", "status": "SFT"}
+{"draft_row": 241, "raw": "okay yeah no this is so bad guys whatever", "actually": "Okay. Yeah. No, this is so bad, guys. Whatever.", "status": "SFT"}
+{"draft_row": 241, "raw": "oh my god", "actually": "Oh my god.", "status": "SFT"}
+{"draft_row": 241, "raw": "ah that's that's from different angles though", "actually": "Ah, that's... that's from different angles, though.", "status": "SFT"}
+{"draft_row": 241, "raw": "one second", "actually": "One second.", "status": "SFT"}
+{"draft_row": 241, "raw": "hold on", "actually": "Hold on.", "status": "SFT"}
+{"draft_row": 241, "raw": "use little details", "actually": "Use little details.", "status": "SFT"}
+{"draft_row": 241, "raw": "I know", "actually": "I know.", "status": "SFT"}
+{"draft_row": 241, "raw": "I'm trying", "actually": "I'm trying.", "status": "SFT"}
+{"draft_row": 241, "raw": "let's get artistic", "actually": "Let's get artistic.", "status": "SFT"}
+{"draft_row": 241, "raw": "spin your", "reason": "动作指令在 your 后中断，缺少动作对象。", "status": "LOW"}
+{"draft_row": 242, "raw": "well that's on it", "actually": "Well, that's on it.", "status": "SFT"}
+{"draft_row": 242, "raw": "I'm so cooked", "actually": "I'm in trouble.", "status": "SFT"}
+{"draft_row": 242, "raw": "I love things that are cooked", "actually": "I love things that are cooked.", "status": "SFT"}
+{"draft_row": 242, "raw": "I so cooked", "reason": "该短语语法残缺，无法确认是否漏识别助动词。", "status": "LOW"}
+{"draft_row": 242, "raw": "I mean it seems like it already", "reason": "句子在 already 后中断，缺少后续内容。", "status": "LOW"}
+{"draft_row": 243, "raw": "let's go", "actually": "Let's go.", "status": "SFT"}
+{"draft_row": 243, "raw": "if we can't do better", "actually": "If we can't do better.", "status": "SFT"}
+{"draft_row": 243, "raw": "spin around spin around", "actually": "Spin around. Spin around.", "status": "SFT"}
+{"draft_row": 243, "raw": "wait one second", "actually": "Wait. One second.", "status": "SFT"}
+{"draft_row": 243, "raw": "don't try anything", "actually": "Don't try anything.", "status": "SFT"}
+{"draft_row": 243, "raw": "oh why am I why am I why am I darker now", "actually": "Oh, why am I...? Why am I...? Why am I darker now?", "status": "SFT"}
+{"draft_row": 243, "raw": "I see", "actually": "I see.", "status": "SFT"}
+{"draft_row": 244, "raw": "it's kind of gross looking", "actually": "It's kind of gross-looking.", "status": "SFT"}
+{"draft_row": 244, "raw": "look from the front look from the front", "actually": "Look from the front. Look from the front.", "status": "SFT"}
+{"draft_row": 244, "raw": "we got to look from the front", "actually": "We have to look from the front.", "status": "SFT"}
+{"draft_row": 244, "raw": "that's no good", "actually": "That's no good.", "status": "SFT"}
+{"draft_row": 244, "raw": "I think you should rotate yourself", "actually": "I think you should rotate yourself.", "status": "SFT"}
+{"draft_row": 244, "raw": "so", "reason": "单独的连接词或语气词，无法确认其后续表达。", "status": "LOW"}
+{"draft_row": 245, "raw": "oh no no no", "actually": "Oh no. No. No.", "status": "SFT"}
+{"draft_row": 245, "raw": "don't try anything funny", "actually": "Don't try anything funny.", "status": "SFT"}
+{"draft_row": 245, "raw": "oh that's really bad", "actually": "Oh, that's really bad.", "status": "SFT"}
+{"draft_row": 245, "raw": "oh spin yourself around", "actually": "Oh, spin yourself around.", "status": "SFT"}
+{"draft_row": 245, "raw": "I don't have time to do that", "actually": "I don't have time to do that.", "status": "SFT"}
+{"draft_row": 245, "raw": "said don't try anything funny", "reason": "句子缺少明确主语，无法确认是谁发出该提醒。", "status": "LOW"}
+{"draft_row": 245, "raw": "you're trying to", "reason": "句子在 to 后中断，缺少动作内容。", "status": "LOW"}
+{"draft_row": 246, "raw": "not the camera not the camera yourself yes", "actually": "Not the camera. Not the camera. Yourself. Yes.", "status": "SFT"}
+{"draft_row": 246, "raw": "I give up on that idea", "actually": "I give up on that idea.", "status": "SFT"}
+{"draft_row": 246, "raw": "I don't know man", "actually": "I don't know, man.", "status": "SFT"}
+{"draft_row": 246, "raw": "it's too it's too late", "actually": "It's too... it's too late.", "status": "SFT"}
+{"draft_row": 246, "raw": "we have to lock in", "actually": "We have to lock in.", "status": "SFT"}
+{"draft_row": 246, "raw": "Keep busing. Keep busing. Keep busing.", "reason": "ASR识别为“busing”，可能是操作指令错词，无法确认原词。", "status": "LOW"}
+{"draft_row": 247, "raw": "whatever dude it's whatever it's whatever", "actually": "Whatever, dude. It's whatever. It's whatever.", "status": "SFT"}
+{"draft_row": 247, "raw": "we need the rougher color", "actually": "We need the rougher color.", "status": "SFT"}
+{"draft_row": 247, "raw": "move closer to them closer closer", "actually": "Move closer to them. Closer. Closer.", "status": "SFT"}
+{"draft_row": 247, "raw": "right here", "actually": "Right here.", "status": "SFT"}
+{"draft_row": 247, "raw": "so stupid", "actually": "So stupid.", "status": "SFT"}
+{"draft_row": 247, "raw": "what do you mean", "actually": "What do you mean?", "status": "SFT"}
+{"draft_row": 247, "raw": "oh no", "actually": "Oh no.", "status": "SFT"}
+{"draft_row": 247, "raw": "maybe it could be good", "actually": "Maybe it could be good.", "status": "SFT"}
+{"draft_row": 247, "raw": "it's fine", "actually": "It's fine.", "status": "SFT"}
+{"draft_row": 247, "raw": "this is", "reason": "句子在 is 后中断，缺少表语或补充内容。", "status": "LOW"}
+{"draft_row": 248, "raw": "Boo is so scary", "actually": "Boo is so scary.", "status": "SFT"}
+{"draft_row": 248, "raw": "I should have gone to the other side but it's too late", "actually": "I should have gone to the other side, but it's too late.", "status": "SFT"}
+{"draft_row": 248, "raw": "I'm trying to pick the color", "actually": "I'm trying to pick the color.", "status": "SFT"}
+{"draft_row": 248, "raw": "I really don't know how", "actually": "I really don't know how.", "status": "SFT"}
+{"draft_row": 248, "raw": "why", "actually": "Why?", "status": "SFT"}
+{"draft_row": 248, "raw": "I want a lighter color", "actually": "I want a lighter color.", "status": "SFT"}
+{"draft_row": 248, "raw": "give me the lighter color", "actually": "Give me the lighter color.", "status": "SFT"}
+{"draft_row": 248, "raw": "why", "actually": "Why?", "status": "SFT"}
+{"draft_row": 248, "raw": "why is the game only giving me lighter color", "actually": "Why is the game only giving me lighter color?", "status": "SFT"}
+{"draft_row": 249, "raw": "it's over", "actually": "It's over.", "status": "SFT"}
+{"draft_row": 249, "raw": "please no please please", "actually": "Please. No. Please. Please.", "status": "SFT"}
+{"draft_row": 249, "raw": "you know I was there", "actually": "You know I was there.", "status": "SFT"}
+{"draft_row": 249, "raw": "there we go", "actually": "There we go.", "status": "SFT"}
+{"draft_row": 249, "raw": "no no", "actually": "No. No.", "status": "SFT"}
+{"draft_row": 249, "raw": "oh thank you okay", "actually": "Oh, thank you. Okay.", "status": "SFT"}
+{"draft_row": 249, "raw": "stay there", "actually": "Stay there.", "status": "SFT"}
+{"draft_row": 249, "raw": "no", "actually": "No.", "status": "SFT"}
+{"draft_row": 249, "raw": "are we gone", "actually": "Are we gone?", "status": "SFT"}
+{"draft_row": 249, "raw": "stay away stay away stay away stay away", "actually": "Stay away. Stay away. Stay away. Stay away.", "status": "SFT"}
+{"draft_row": 249, "raw": "okay then I can stay away from me", "actually": "Okay, then I can stay away from me.", "status": "SFT"}
+{"draft_row": 250, "raw": "can I go away from here now", "actually": "Can I go away from here now?", "status": "SFT"}
+{"draft_row": 250, "raw": "I'm getting pointed", "actually": "I'm getting pointed.", "status": "SFT"}
+{"draft_row": 250, "raw": "there's a lot of a lot of hunters out there now", "actually": "There's a lot of... a lot of hunters out there now.", "status": "SFT"}
+{"draft_row": 250, "raw": "yeah", "actually": "Yeah.", "status": "SFT"}
+{"draft_row": 250, "raw": "the ruffies didn't believe in us", "actually": "The ruffies didn't believe in us.", "status": "SFT"}
+{"draft_row": 250, "raw": "there's really just a lot of", "reason": "句子在 of 后中断，缺少被描述的对象。", "status": "LOW"}
+{"draft_row": 250, "raw": "but", "reason": "转折连词位于片段末尾，后续内容缺失。", "status": "LOW"}
+{"draft_row": 277, "raw": "Hi. Welcome to Osaka. I'm your guide.", "actually": "Hi. Welcome to Osaka. I am your guide.", "status": "SFT"}
+{"draft_row": 277, "raw": "Osaka is also home to Universal Studios Japan.", "actually": "Osaka is also home to Universal Studios Japan.", "status": "SFT"}
+{"draft_row": 277, "raw": "Yeah, this does look a little Universal-themed area.", "actually": "Yeah, this does look a little like a Universal-themed area.", "status": "SFT"}
+{"draft_row": 278, "raw": "Have you ever been to Osaka? Um, I'm the tour guide. Of course I've been to Osaka.", "actually": "Have you ever been to Osaka? I am the tour guide. Of course I have been to Osaka.", "status": "SFT"}
+{"draft_row": 278, "raw": "You know, if you hear the phrase order, it means eat until you drop. It's practically...", "reason": "“phrase order”疑似ASR错误，且后半句中断；不根据大阪饮食背景自行补词。", "status": "LOW"}
+{"draft_row": 280, "raw": "That was really good. That was very smart.", "actually": "That was very good. That was very smart.", "status": "SFT"}
+{"draft_row": 280, "raw": "Of course, ... is the one to kill the tour guide.", "reason": "缺少明确主语，无法确认人物指代。", "status": "LOW"}
+{"draft_row": 290, "raw": "Infectctor.", "actually": "Infection.", "status": "SFT"}
+{"draft_row": 290, "raw": "Still doing okay? You guys like Infection? Do you prefer the other game?", "actually": "Are we still playing? Do you like Infection, or do you prefer the other game?", "status": "SFT"}
+{"draft_row": 310, "raw": "Good at this game. I think maybe I'm good at this game.", "actually": "I think I might be good at this game.", "status": "SFT"}
+{"draft_row": 310, "raw": "I don't know. Are you sure? Maybe. Maybe.", "actually": "I do not know. Are you sure? Maybe.", "status": "SFT"}
+{"draft_row": 310, "raw": "Anna.", "reason": "孤立人名/音节，无法确认是否为称呼或ASR噪声。", "status": "LOW"}
+{"draft_row": 314, "raw": "Obscuring me perfectly.", "actually": "You are obscuring me perfectly.", "status": "SFT"}
+{"draft_row": 314, "raw": "Iris is so scary. She is especially scary in the red light.", "actually": "Iris is frightening, especially in the red light.", "status": "SFT"}
+{"draft_row": 314, "raw": "Who's Who keeps shooting?", "reason": "人名/游戏术语识别不确定，需回听。", "status": "LOW"}
+{"draft_row": 316, "raw": "We just have to stink up their noses.", "actually": "We just have to make their sense of smell unusable.", "status": "SFT"}
+{"draft_row": 316, "raw": "I will make the biggest thing ever, so they have to stay away from us.", "actually": "I will make the biggest thing ever so they have to stay away from us.", "status": "SFT"}
+{"draft_row": 316, "raw": "Reparative.", "reason": "词语识别异常，无法确认原词。", "status": "LOW"}
+{"draft_row": 319, "raw": "Oh, that's so smart. That's good.", "actually": "That is very smart. That is good.", "status": "SFT"}
+{"draft_row": 319, "raw": "Good job, too, man. Yeah, let's go back. Let's go.", "actually": "Good job. Let us go back.", "status": "SFT"}
+{"draft_row": 319, "raw": "Tube. Tube. I didn't know you could hide in there without glowing. Smart.", "actually": "I did not know you could hide in the tube without glowing. That is smart.", "status": "SFT"}
+{"draft_row": 320, "raw": "She made a mistake. She made a mistake. She didn't mean to.", "actually": "She made a mistake, but she did not mean to.", "status": "SFT"}
+{"draft_row": 320, "raw": "You like my, you like my vibrating cactus.", "actually": "Do you like my vibrating cactus?", "status": "SFT"}
+{"draft_row": 320, "raw": "Vibrate.", "actually": "Vibrate.", "status": "SFT"}
+{"draft_row": 320, "raw": "I don't know why you vibrate when you're a cactus. That happened to me too.", "actually": "I do not know why you vibrate when you are a cactus. That happened to me too.", "status": "SFT"}
+{"draft_row": 320, "raw": "Cactus is so good.", "actually": "The cactus is very good.", "status": "SFT"}
+{"draft_row": 349, "raw": "She's still in, too. Welcome back, Callie.", "actually": "She is still in too. Welcome back, Callie.", "status": "SFT"}
+{"draft_row": 349, "raw": "1800.", "reason": "孤立数字，无法确定是分数、时间还是其他数值。", "status": "LOW"}
+{"draft_row": 350, "raw": "Not a single person.", "actually": "There was not a single person.", "status": "SFT"}
+{"draft_row": 350, "raw": "Freaking.", "reason": "孤立语气词，缺少足够上下文确认完整表达。", "status": "LOW"}
+{"draft_row": 355, "raw": "Iridescent.", "actually": "Iridescent.", "status": "SFT"}
+{"draft_row": 355, "raw": "Maybe it's because of the metallic.", "actually": "Maybe it is because of the metallic setting.", "status": "SFT"}
+{"draft_row": 371, "raw": "Oh, but just shot like a piece of lettuce.", "reason": "句子主语和动作关系不清，不能根据游戏场景补全。", "status": "LOW"}
+{"draft_row": 274, "source_segment_indices": [1960], "raw": "That's better.", "actually": "That is better.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1960], "raw": "Check on the side.", "actually": "Check on the side.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1962], "raw": "Maybe it's too bright.", "actually": "Maybe it is too bright.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1964], "raw": "Never cook again, I say to myself.", "actually": "I tell myself never to cook again.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1965], "raw": "Oh, but I like your cooking.", "actually": "Oh, but I like your cooking.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1966], "raw": "Oh.", "actually": "Oh.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1967], "raw": "You're so sweet.", "actually": "You are so sweet.", "status": "SFT"}
+{"draft_row": 274, "source_segment_indices": [1968], "raw": "Yeah, I'm hungry.", "actually": "Yes, I am hungry.", "status": "SFT"}
+{"draft_row": 275, "source_segment_indices": [1972], "raw": "I'd be happy.", "actually": "I would be happy.", "status": "SFT"}
+{"draft_row": 275, "source_segment_indices": [1972, 1973], "raw": "No, I would feel bad for her, but I would be happy.", "actually": "No, I would feel bad for her, but I would be happy.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1974], "raw": "She's getting so many points.", "actually": "She is getting so many points.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1975], "raw": "Oh, she must be in plain sight.", "actually": "Oh, she must be in plain sight.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1976], "raw": "Whoa.", "actually": "Whoa.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1977], "raw": "Uh-oh. Uh-oh.", "actually": "Uh-oh. Uh-oh.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1978], "raw": "No, she knows how to play the game.", "actually": "No, she knows how to play the game.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1979], "raw": "So many points.", "actually": "So many points.", "status": "SFT"}
+{"draft_row": 276, "source_segment_indices": [1981], "raw": "This is distracting.", "actually": "This is distracting.", "status": "SFT"}
+{"draft_row": 277, "source_segment_indices": [1982], "raw": "Welcome to Osaka.", "actually": "Welcome to Osaka.", "status": "SFT"}
+{"draft_row": 277, "source_segment_indices": [1984], "raw": "Uh, yeah.", "actually": "Uh, yes.", "status": "SFT"}
+{"draft_row": 277, "source_segment_indices": [1987], "raw": "Yes. Yes.", "actually": "Yes. Yes.", "status": "SFT"}
+{"draft_row": 279, "source_segment_indices": [1994], "raw": "It was cute. I liked it. Good job.", "actually": "It was cute. I liked it. Good job.", "status": "SFT"}
+{"draft_row": 279, "source_segment_indices": [1995, 1996], "raw": "It was cuz I was missing the headband, wasn't it?", "actually": "It was because I was missing the headband, wasn't it?", "status": "SFT"}
+{"draft_row": 279, "source_segment_indices": [1997], "raw": "Yes.", "actually": "Yes.", "status": "SFT"}
+{"draft_row": 280, "source_segment_indices": [1999], "raw": "I get it. I get it.", "actually": "I understand. I understand.", "status": "SFT"}
+{"draft_row": 280, "source_segment_indices": [2000], "raw": "I understand. I understood.", "actually": "I understand. I understood.", "status": "SFT"}
+{"draft_row": 280, "source_segment_indices": [2001], "raw": "She did not understand the assignment.", "actually": "She did not understand the assignment.", "status": "SFT"}
+{"draft_row": 271, "source_segment_indices": [1943], "raw": "I...", "reason": "单词 I 后被截断，无法确定所指动作。", "status": "LOW"}
+{"draft_row": 272, "source_segment_indices": [1954], "raw": "it I'm so", "reason": "ASR 残缺，缺少可确认的谓语。", "status": "LOW"}
+{"draft_row": 273, "source_segment_indices": [1959], "raw": "this color was it", "reason": "颜色指代和问句边界不清，不猜测完整问句。", "status": "LOW"}
+{"draft_row": 274, "source_segment_indices": [1960, 1961], "raw": "so once again", "reason": "连接片段不完整，后续意图不清。", "status": "LOW"}
+{"draft_row": 274, "source_segment_indices": [1963], "raw": "time for that", "reason": "that 所指动作不明。", "status": "LOW"}
+{"draft_row": 275, "source_segment_indices": [1969], "raw": "might as well just paint as a neg", "reason": "neg 的名称/含义不确定，不能猜专名。", "status": "LOW"}
+{"draft_row": 275, "source_segment_indices": [1970], "raw": "should we just become a naggie", "reason": "naggie 可能是名称或 ASR 错误。", "status": "LOW"}
+{"draft_row": 275, "source_segment_indices": [1971], "raw": "what if she doesn't fight any of us", "reason": "躲藏场景中可能为 find，但原字幕为 fight，证据不足。", "status": "LOW"}
+{"draft_row": 276, "source_segment_indices": [1980], "raw": "wish we would hide", "reason": "原句疑似缺词，不补充未确认的问句或主语。", "status": "LOW"}
+{"draft_row": 277, "source_segment_indices": [1984], "raw": "Osaka got to be more", "reason": "字幕残缺且疑似 ASR 错误。", "status": "LOW"}
+{"draft_row": 279, "source_segment_indices": [1993], "raw": "wasn't my spot wonderful story", "reason": "主谓和指代不清，不能拼成确定命题。", "status": "LOW"}
+{"draft_row": 279, "source_segment_indices": [1994], "raw": "I", "reason": "句子开头被打断，后续发言另行保留。", "status": "LOW"}
+{"draft_row": 279, "source_segment_indices": [1997, 1998], "raw": "have someone not hanging their clothes", "reason": "缺乏能够确定含义的字幕证据。", "status": "LOW"}
+{"draft_row": 251, "source_segment_indices": [1757, 1758], "raw": "you guys would never become hunters, would you?", "status": "SFT", "actually": "You would never become hunters, would you?"}
+{"draft_row": 251, "source_segment_indices": [1759, 1760], "raw": "No. Never.", "status": "SFT", "actually": "No, never."}
+{"draft_row": 251, "source_segment_indices": [1761], "raw": "We're not part of Bloodborne.", "status": "SFT", "actually": "We are not part of Bloodborne."}
+{"draft_row": 251, "source_segment_indices": [1762], "raw": "You guys are my friends, right?", "status": "SFT", "actually": "You are my friends, right?"}
+{"draft_row": 251, "source_segment_indices": [1763], "raw": "I got your back.", "status": "SFT", "actually": "I have your back."}
+{"draft_row": 251, "source_segment_indices": [1764], "raw": "Oh boy.", "status": "SFT", "actually": "Oh dear."}
+{"draft_row": 251, "source_segment_indices": [1765], "raw": "Glad to hear that.", "status": "SFT", "actually": "I am glad to hear that."}
+{"draft_row": 252, "source_segment_indices": [1766], "raw": "The one who did. Hi. Hi.", "status": "LOW", "reason": "The initial fragment is unclear; the clear greetings are separately recovered."}
+{"draft_row": 252, "source_segment_indices": [1766], "raw": "Hi. Hi.", "actually": "Hello.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 252, "source_segment_indices": [1767], "raw": "She's got to leave.", "status": "SFT", "actually": "She has to leave."}
+{"draft_row": 252, "source_segment_indices": [1768, 1769], "raw": "Oh, she's back. Oh, she's back. Stay away.", "status": "SFT", "actually": "She is back; stay away."}
+{"draft_row": 252, "source_segment_indices": [1770, 1771, 1772], "raw": "We got this. We got this. Nobody will find me.", "status": "SFT", "actually": "We can do this. Nobody will find me."}
+{"draft_row": 252, "source_segment_indices": [1773, 1774], "raw": "Stay away. Stay away.", "status": "SFT", "actually": "Stay away."}
+{"draft_row": 252, "source_segment_indices": [1775], "raw": "Nobody will.", "status": "LOW", "reason": "Unfinished clause; cannot determine the omitted action."}
+{"draft_row": 253, "source_segment_indices": [1776], "raw": "Oh my goodness.", "status": "SFT", "actually": "Goodness."}
+{"draft_row": 253, "source_segment_indices": [1777], "raw": "Surely people are dying like that.", "status": "SFT", "actually": "Surely people are dying like that."}
+{"draft_row": 253, "source_segment_indices": [1778], "raw": "Would you?", "status": "SFT", "actually": "Would you?"}
+{"draft_row": 253, "source_segment_indices": [1779], "raw": "All right.", "status": "SFT", "actually": "All right."}
+{"draft_row": 253, "source_segment_indices": [1780], "raw": "100 seconds left.", "status": "SFT", "actually": "One hundred seconds remain."}
+{"draft_row": 253, "source_segment_indices": [1781], "raw": "Yeah.", "status": "SFT", "actually": "Yes."}
+{"draft_row": 253, "source_segment_indices": [1782], "raw": "Yes. 100 seconds.", "status": "SFT", "actually": "Yes, one hundred seconds."}
+{"draft_row": 253, "source_segment_indices": [1783], "raw": "Yeah.", "status": "SFT", "actually": "Yes."}
+{"draft_row": 253, "source_segment_indices": [1784, 1785, 1786], "raw": "Oh my god. We got to admit it. Oh my god. Oh my god. Oh my god. Oh my god.", "status": "SFT", "actually": "Oh my goodness. We have to admit it. Oh my goodness."}
+{"draft_row": 254, "source_segment_indices": [1787], "raw": "No. I don't want to die.", "status": "SFT", "actually": "No, I do not want to die."}
+{"draft_row": 254, "source_segment_indices": [1788, 1789], "raw": "Come on. Let me live through this one, please.", "status": "SFT", "actually": "Please let me survive this one."}
+{"draft_row": 254, "source_segment_indices": [1790], "raw": "Let's go.", "status": "SFT", "actually": "Let us go."}
+{"draft_row": 254, "source_segment_indices": [1791], "raw": "Oh my god.", "status": "SFT", "actually": "Oh my goodness."}
+{"draft_row": 254, "source_segment_indices": [1792, 1793, 1794, 1795], "raw": "Oh no. Oh no. No. Oh no. Oh no.", "status": "SFT", "actually": "Oh no."}
+{"draft_row": 254, "source_segment_indices": [1796], "raw": "Okay.", "status": "SFT", "actually": "Okay."}
+{"draft_row": 254, "source_segment_indices": [1797], "raw": "No.", "status": "SFT", "actually": "No."}
+{"draft_row": 254, "source_segment_indices": [1798], "raw": "Good.", "status": "SFT", "actually": "Good."}
+{"draft_row": 254, "source_segment_indices": [1799, 1800, 1801], "raw": "Please. Please. Please. Please. Please. Please. 50 seconds. Please give me 50 seconds.", "status": "SFT", "actually": "Please give me fifty seconds."}
+{"draft_row": 255, "source_segment_indices": [1802, 1803], "raw": "Dude, I'm sick.", "status": "SFT", "actually": "I feel sick."}
+{"draft_row": 255, "source_segment_indices": [1804], "raw": "I'm going to have a heart attack.", "status": "SFT", "actually": "I am going to have a heart attack."}
+{"draft_row": 255, "source_segment_indices": [1805], "raw": "I know.", "status": "SFT", "actually": "I know."}
+{"draft_row": 255, "source_segment_indices": [1806, 1807], "raw": "So close. So close. No.", "status": "SFT", "actually": "So close. No."}
+{"draft_row": 255, "source_segment_indices": [1808], "raw": "Where's the whistle?", "status": "SFT", "actually": "Where is the whistle?"}
+{"draft_row": 255, "source_segment_indices": [1809], "raw": "Smells like", "status": "LOW", "reason": "Unfinished smell comparison, without a recoverable complement."}
+{"draft_row": 255, "source_segment_indices": [1810, 1811], "raw": "Where were some places I would want to hide?", "status": "SFT", "actually": "Where are some places I would want to hide?"}
+{"draft_row": 255, "source_segment_indices": [1812], "raw": "The clouds, you think?", "status": "SFT", "actually": "In the clouds, do you think?"}
+{"draft_row": 255, "source_segment_indices": [1813], "raw": "Like kind of high up.", "status": "SFT", "actually": "Somewhere rather high up."}
+{"draft_row": 256, "source_segment_indices": [1814], "raw": "Oh, no.", "status": "SFT", "actually": "Oh no."}
+{"draft_row": 256, "source_segment_indices": [1815], "raw": "Oh, you found her.", "status": "SFT", "actually": "You found her."}
+{"draft_row": 256, "source_segment_indices": [1816, 1817, 1818, 1819], "raw": "I found the one in the clouds. I feel like this area. This area over here. That's my body. Never mind. Check the pumpkins. Check the pumpkins.", "status": "SFT", "actually": "I found the one in the clouds. I think this area here—no, that is my body. Never mind. Check the pumpkins."}
+{"draft_row": 256, "source_segment_indices": [1820], "raw": "10 seconds. Okay.", "status": "SFT", "actually": "Ten seconds; okay."}
+{"draft_row": 257, "source_segment_indices": [1821], "raw": "Where are they?", "status": "SFT", "actually": "Where are they?"}
+{"draft_row": 257, "source_segment_indices": [1822], "raw": "Found a really good spot.", "status": "SFT", "actually": "I found a very good spot."}
+{"draft_row": 257, "source_segment_indices": [1823, 1824], "raw": "This is pretty good. Oh, everyone's up there.", "status": "SFT", "actually": "This is quite good. Everyone is up there."}
+{"draft_row": 257, "source_segment_indices": [1825], "raw": "No wonder you died though.", "status": "SFT", "actually": "No wonder you died, though."}
+{"draft_row": 257, "source_segment_indices": [1826], "raw": "No, that's true.", "status": "SFT", "actually": "No, that is true."}
+{"draft_row": 257, "source_segment_indices": [1827, 1828], "raw": "Oh my god. I'm so excited for competition.", "status": "SFT", "actually": "I am very excited for the competition."}
+{"draft_row": 258, "source_segment_indices": [1829], "raw": "Where's the rest of them? Oh,", "status": "SFT", "actually": "Where are the rest of them?"}
+{"draft_row": 258, "source_segment_indices": [1830], "raw": "who wasn't found?", "status": "SFT", "actually": "Who was not found?"}
+{"draft_row": 258, "source_segment_indices": [1831, 1832], "raw": "Oh, nice. Really good.", "status": "SFT", "actually": "That is very good."}
+{"draft_row": 258, "source_segment_indices": [1833], "raw": "You guys are so", "status": "LOW", "reason": "Unfinished assessment of the group."}
+{"draft_row": 258, "source_segment_indices": [1834, 1835], "raw": "Oh my god. GG. You literally walked over me so many times.", "status": "SFT", "actually": "Good game. You walked over me many times."}
+{"draft_row": 258, "source_segment_indices": [1836], "raw": "Good job. Good job.", "status": "SFT", "actually": "Good job."}
+{"draft_row": 258, "source_segment_indices": [1837], "raw": "Look at the ground.", "status": "SFT", "actually": "Look at the ground."}
+{"draft_row": 259, "source_segment_indices": [1838], "raw": "I didn't expect anyone to find me.", "status": "SFT", "actually": "I did not expect anyone to find me."}
+{"draft_row": 259, "source_segment_indices": [1839, 1840], "raw": "Mine. I expected to be found. How did you not find me?", "status": "SFT", "actually": "As for mine, I expected to be found. How did you not find me?"}
+{"draft_row": 259, "source_segment_indices": [1841], "raw": "You were just point.", "status": "LOW", "reason": "Unclear incomplete phrase 'You were just point.'"}
+{"draft_row": 259, "source_segment_indices": [1842, 1843], "raw": "All right. Sorry, guys. I got to jet. I got to head to studio. But this is", "status": "LOW", "reason": "Departure statement recovered separately; trailing 'But this is' incomplete."}
+{"draft_row": 259, "source_segment_indices": [1842, 1843], "raw": "All right. Sorry, guys. I got to jet. I got to head to studio.", "actually": "Sorry, everyone; I have to leave for the studio.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 259, "source_segment_indices": [1844], "raw": "Thanks for coming.", "status": "SFT", "actually": "Thank you for coming."}
+{"draft_row": 259, "source_segment_indices": [1845, 1846], "raw": "See you later. See you later.", "status": "SFT", "actually": "See you later."}
+{"draft_row": 260, "source_segment_indices": [1847, 1848, 1849], "raw": "This one. Okay. Okay.", "status": "SFT", "actually": "This one. Okay."}
+{"draft_row": 260, "source_segment_indices": [1850, 1851, 1852], "raw": "I don't know what side this map is. Osaka. Oh, that was Osaka. That's why there was so much octopus.", "status": "SFT", "actually": "I do not know what side this map is. Osaka? That was Osaka; that explains the octopus."}
+{"draft_row": 260, "source_segment_indices": [1853], "raw": "Osaka.", "status": "SFT", "actually": "Osaka."}
+{"draft_row": 260, "source_segment_indices": [1854, 1855, 1856], "raw": "Oh, no. I don't want to be I don't want to be that big.", "status": "SFT", "actually": "Oh no, I do not want to be that big."}
+{"draft_row": 261, "source_segment_indices": [1857, 1858], "raw": "Oh, it's okay.", "status": "SFT", "actually": "It is okay."}
+{"draft_row": 261, "source_segment_indices": [1859, 1860, 1861], "raw": "I was getting really that big. There's a lot of opportunities for camouflage. You got", "status": "LOW", "reason": "Malformed opening and unfinished ending; clear camouflage sentence recovered separately."}
+{"draft_row": 261, "source_segment_indices": [1859, 1860, 1861], "raw": "There's a lot of opportunities for camouflage.", "actually": "There are many opportunities for camouflage.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 261, "source_segment_indices": [1862], "raw": "I'm so cooked.", "status": "SFT", "actually": "I am in trouble."}
+{"draft_row": 261, "source_segment_indices": [1863, 1864, 1865], "raw": "Yeah, people are looking for a hunter. Oh, I'm the lone hunter. Gotcha. Iris. Okay. Okay. Goodbye. Goodbye.", "status": "SFT", "actually": "People are looking for a hunter. I am the lone hunter; understood, Iris. Okay, goodbye."}
+{"draft_row": 261, "source_segment_indices": [1866], "raw": "Goodbye.", "status": "SFT", "actually": "Goodbye."}
+{"draft_row": 262, "source_segment_indices": [1867, 1868], "raw": "Damn it. Where to hide?", "status": "SFT", "actually": "How frustrating. Where should I hide?"}
+{"draft_row": 262, "source_segment_indices": [1869, 1870], "raw": "Hey, this time this time this time it'll work.", "status": "SFT", "actually": "This time it will work."}
+{"draft_row": 262, "source_segment_indices": [1871], "raw": "How do I go?", "status": "SFT", "actually": "How do I go?"}
+{"draft_row": 262, "source_segment_indices": [1872, 1873], "raw": "Oh, shoot. This too low. Oh, this map's kind of small. Just realizing", "status": "SFT", "actually": "This is too low. I am just realizing this map is rather small."}
+{"draft_row": 262, "source_segment_indices": [1874], "raw": "you know what?", "status": "SFT", "actually": "You know what?"}
+{"draft_row": 262, "source_segment_indices": [1875], "raw": "Hello.", "status": "SFT", "actually": "Hello."}
+{"draft_row": 262, "source_segment_indices": [1876], "raw": "Yep.", "status": "SFT", "actually": "Yes."}
+{"draft_row": 262, "source_segment_indices": [1877], "raw": "Okay. just", "status": "LOW", "reason": "Clear 'Okay' recovered separately; trailing 'just' incomplete."}
+{"draft_row": 262, "source_segment_indices": [1877], "raw": "Okay.", "actually": "Okay.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 263, "source_segment_indices": [1878, 1879], "raw": "uh do you think I could do it? I don't. I'll try around the I'm going to do it.", "status": "LOW", "reason": "Question and commitment recovered separately; intervening fragments remain uncertain."}
+{"draft_row": 263, "source_segment_indices": [1878], "raw": "uh do you think I could do it?", "actually": "Do you think I could do it?", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 263, "source_segment_indices": [1879], "raw": "I'm going to do it.", "actually": "I am going to do it.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 263, "source_segment_indices": [1880, 1881], "raw": "Why does this not look metallic? I'm so confused.", "status": "SFT", "actually": "Why does this not look metallic? I am very confused."}
+{"draft_row": 263, "source_segment_indices": [1882, 1883], "raw": "I know. I've been having that issue, too.", "status": "SFT", "actually": "I know; I have had that issue too."}
+{"draft_row": 264, "source_segment_indices": [1884], "raw": "Where? Right around here.", "status": "SFT", "actually": "Where? Right around here."}
+{"draft_row": 264, "source_segment_indices": [1885, 1886], "raw": "I'm going to just be here at the worst hiding spot possible.", "status": "SFT", "actually": "I will stay here, in the worst possible hiding spot."}
+{"draft_row": 264, "source_segment_indices": [1887, 1888, 1889], "raw": "Oh, you have to put metallic up to one and the roughness to zero to make it look velocity.", "status": "LOW", "reason": "Clear material-setting instructions recovered separately; 'look velocity' unresolved."}
+{"draft_row": 264, "source_segment_indices": [1887, 1888, 1889], "raw": "Oh, you have to put metallic up to one and the roughness to zero", "actually": "Set metallic to one and roughness to zero.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 265, "source_segment_indices": [1890], "raw": "I want to go back.", "status": "SFT", "actually": "I want to go back."}
+{"draft_row": 265, "source_segment_indices": [1891], "raw": "Why can't I poses", "status": "SFT", "actually": "Why can I not pose?"}
+{"draft_row": 265, "source_segment_indices": [1892], "raw": "That is This is horrible.", "status": "SFT", "actually": "This is horrible."}
+{"draft_row": 265, "source_segment_indices": [1893], "raw": "Okay. Okay. Okay.", "status": "SFT", "actually": "Okay."}
+{"draft_row": 265, "source_segment_indices": [1894], "raw": "I'm having a really hard time jumping.", "status": "SFT", "actually": "I am having great difficulty jumping."}
+{"draft_row": 265, "source_segment_indices": [1895, 1896], "raw": "You're going to have to hope you're really good at painting. Why? Oh.", "status": "SFT", "actually": "You will have to hope you are very good at painting. Why? Oh."}
+{"draft_row": 266, "source_segment_indices": [1897], "raw": "Hey.", "status": "SFT", "actually": "Hello."}
+{"draft_row": 266, "source_segment_indices": [1898, 1899, 1900], "raw": "Yeah. I'm not good at painting. So, this is like my nightmare.", "status": "SFT", "actually": "I am not good at painting, so this is my nightmare."}
+{"draft_row": 266, "source_segment_indices": [1901, 1902], "raw": "Yeah. I I can't move.", "status": "SFT", "actually": "Yes, I cannot move."}
+{"draft_row": 266, "source_segment_indices": [1903], "raw": "Oh, I can progress.", "status": "SFT", "actually": "I can make progress."}
+{"draft_row": 266, "source_segment_indices": [1904], "raw": "We're doing this. We're doing this.", "status": "SFT", "actually": "We are doing this."}
+{"draft_row": 266, "source_segment_indices": [1905], "raw": "This is really bad, but whatever.", "status": "SFT", "actually": "This is very bad, but never mind."}
+{"draft_row": 267, "source_segment_indices": [1906, 1907, 1908, 1909], "raw": "All right. Better hope it's a little bit rough, but you didn't tend to slide it out the other way.", "status": "LOW", "reason": "Intended sliding/roughness instruction cannot be reliably reconstructed; clear initial reaction recovered separately."}
+{"draft_row": 267, "source_segment_indices": [1906], "raw": "All right.", "actually": "All right.", "status": "SFT", "recovered_subspan": true}
+{"draft_row": 267, "source_segment_indices": [1910, 1911, 1912], "raw": "Oh, bro, I'm cooked. I can't find I can't find a hiding place.", "status": "SFT", "actually": "I am in trouble; I cannot find a hiding place."}
+{"draft_row": 267, "source_segment_indices": [1913], "raw": "This is not it, Mo.", "status": "SFT", "actually": "This is not it, Mo."}
+{"draft_row": 268, "source_segment_indices": [1914, 1915], "raw": "If you can't find a hiding place, make one. Change my pose then.", "status": "SFT", "actually": "If you cannot find a hiding place, make one. Change my pose, then."}
+{"draft_row": 268, "source_segment_indices": [1916, 1917], "raw": "How do I change my pose again? I wanted that one. This one.", "status": "SFT", "actually": "How do I change my pose again? I wanted that one—this one."}
+{"draft_row": 268, "source_segment_indices": [1918], "raw": "Remove shadows.", "status": "SFT", "actually": "Remove shadows."}
+{"draft_row": 268, "source_segment_indices": [1919, 1920, 1921, 1922], "raw": "Shadows are good. There's like shadows on the side over there. I can't go there. Why not? I think you can. You just have a drawing.", "status": "SFT", "actually": "Shadows are good; there are shadows on the side over there. I cannot go there. Why not? I think you can; you just have a drawing."}
+{"draft_row": 269, "source_segment_indices": [1923], "raw": "Remove shadows. How?", "status": "SFT", "actually": "Remove shadows? How?"}
+{"draft_row": 269, "source_segment_indices": [1924], "raw": "How you do that?", "status": "SFT", "actually": "How do you do that?"}
+{"draft_row": 269, "source_segment_indices": [1925, 1926], "raw": "I cannot go there. That is an invisible wall.", "status": "SFT", "actually": "I cannot go there; that is an invisible wall."}
+{"draft_row": 270, "source_segment_indices": [1927, 1928, 1929], "raw": "Um um um go against the wall down.", "status": "SFT", "actually": "Go against the wall, down."}
+{"draft_row": 270, "source_segment_indices": [1930, 1931], "raw": "Wonder if I can turn that. I don't want to paint now.", "status": "SFT", "actually": "I wonder whether I can turn that. I do not want to paint now."}
+{"draft_row": 270, "source_segment_indices": [1932, 1933], "raw": "You have 40 seconds. You better paint fast.", "status": "SFT", "actually": "You have forty seconds; you had better paint quickly."}
+{"draft_row": 270, "source_segment_indices": [1934, 1935], "raw": "Shoot. Oops. Shoot. Shoot. Shoot.", "status": "SFT", "actually": "Oh dear. Oops. Oh dear."}
+{"draft_row": 270, "source_segment_indices": [1936, 1937], "raw": "Yeah. Oh [ __ ] Stop. I need to stop. Whatever.", "status": "SFT", "actually": "Yes. Oh dear. Stop; I need to stop. Never mind."}

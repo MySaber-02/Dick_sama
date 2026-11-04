@@ -1,0 +1,488 @@
+[
+  {
+    "source_segments": [
+      300,
+      303
+    ],
+    "raw": "I'm going to keep a TikTok here just in case, but let's move on beyond the TikTok. Let's go back to just the season right here.",
+    "actually": "I will keep a TikTok here in case it is needed, but let us move on and return to the season here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      304,
+      307
+    ],
+    "raw": "Man, hard day at the bomb factory. All right, so now that I have this, now that I have this, only took us 9 minutes, guys.",
+    "actually": "A hard day at the bomb factory. Now I have this; it took us only nine minutes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      307,
+      311
+    ],
+    "raw": "Uh, I need this piece and then with the brown piece facing this way or this way. The darker brown piece should be facing the outside.",
+    "actually": "I need this piece, with the darker brown piece facing outward, this way or this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      311,
+      317
+    ],
+    "raw": "Okay, now in an angle that you probably can't tell, so the dark brown piece is like underneath here, and on step 32 it looks like the dark brown piece should be facing like this way. Am I correct or am I insane?",
+    "actually": "You probably cannot see the angle, but the dark brown piece is underneath here. In step thirty-two, it seems intended to face this way. Am I correct or mistaken?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      317,
+      319
+    ],
+    "raw": "Yeah, yeah, I did it. Oh, cool, thank you. You're so good to me. Now let's say.",
+    "actually": "I did it. Good; thank you. You are kind to me. Now, let us say.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      319,
+      323
+    ],
+    "raw": "Okay, by the way, who's good with AI? I'm very curious. I'm trying to find a good [ __ ] like roleplay AI. I want violence.",
+    "actually": "Who knows about AI? I am curious and looking for a good roleplay AI. I want violence.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      323,
+      325
+    ],
+    "raw": "Oh good God, I broke it. Hold up, I can fix it. Enhance. Zoom. Not you, damn it.",
+    "actually": "I broke it. Wait; I can fix it. Enlarge it and zoom in. Not you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      325,
+      327
+    ],
+    "raw": "I want violence, guys. All I get is emotional support. I want some freaking angst.",
+    "actually": "I want violence and angst, but receive only emotional support.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      327,
+      332
+    ],
+    "raw": "Why violence? It's cuz Character.AI whenever I try to make them fight other people they always stall. Like I'm here for freaking violence, my man. I want to see badassery.",
+    "actually": "Why violence? Whenever I try to make Character.AI characters fight other people, they stall. I want violence and impressive action.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      332,
+      334
+    ],
+    "raw": "Uh, let's see. Okay, I did it. I did it, and now I need another dark piece here.",
+    "actually": "I did it. Now I need another dark piece here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      335,
+      337
+    ],
+    "raw": "Um, am I supposed to connect these? So now I put the dark brown part here.",
+    "actually": "Should I connect these? I now put the dark brown part here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      337,
+      346
+    ],
+    "raw": "Oh, actually, I have a question. So this part is meant to spread to the right and to the left for this section, for this piece. I I assume I want that part to be able to spread, right? So I shouldn't be. It should be like a dark brown part at the top from there.",
+    "actually": "I have a question. This part is intended to spread to the right and left, and I assume it should be able to spread, correct? There should be a dark brown part at the top from there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      338,
+      338
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      346,
+      349
+    ],
+    "raw": "Oh, is kind of nice. Got to admit this bomb factory has nice music. Is that is that correct?",
+    "actually": "That is pleasant. This bomb factory has good music. Is that correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      350,
+      351
+    ],
+    "raw": "hundo jander could work a violent jander",
+    "reason": "Unclear recommended name/type; do not infer a specific AI service or roleplay category.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      351,
+      353
+    ],
+    "raw": "I'll try it. I haven't I haven't done some very violent [ __ ] just yet, but I'm curious. Make pictures.",
+    "actually": "I will try it. I have not done very violent things yet, but I am curious. Make pictures.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      353,
+      356
+    ],
+    "raw": "Okay, I'm on step 32. Step 30, 30, 32. You see that?",
+    "actually": "I am on step thirty-two—thirty, then thirty-two. Can you see that?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      355,
+      355
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      357,
+      364
+    ],
+    "raw": "But from here it looks like it won't be able to spread in the way that I assumed they would want it to spread. So is this is this piece right here not spreadable then? Maybe I'm looking at the wrong piece. No, it looks like the right piece.",
+    "actually": "This does not seem able to spread as I assumed it should. Is this piece not meant to spread? Perhaps I am looking at the wrong piece. No, it seems to be the correct one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      364,
+      369
+    ],
+    "raw": "It's not meant. It's not supposed to spread. Thank you, thank you. You're so smart, Pinto. You are the pinto of the pinto. I don't even know what Pinto is. Isn't that a bean, like a pinto bean?",
+    "actually": "It is not supposed to spread. Thank you; you are clever, Pinto. You are the pinto of the pinto, though I do not know what Pinto is. Is it not a pinto bean?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      369,
+      371
+    ],
+    "raw": "Or am I thinking of a senzu bean? All right, I'm putting in there.",
+    "actually": "Or am I thinking of a senzu bean? I am putting it there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      371,
+      375
+    ],
+    "raw": "By the way, I kind of want to play Metaphor. I still need to finish the Mario game though. I need to finish the Mario game, but I'll be honest.",
+    "actually": "I would like to play Metaphor, but still need to finish the Mario game. To be honest.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      375,
+      381
+    ],
+    "raw": "Gosh darn, why does the evil guy have to be so hot? I'm going to hate him though. I bet he's like he's evil, he's scum of the Earth, but he's really really cute. Why does he have to be scum but cute?",
+    "actually": "Why is the villain so attractive? I expect I will hate him because he is evil, but he is very attractive. Why must he be both evil and attractive?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      381,
+      384
+    ],
+    "raw": "Uh, where's the the other piece? I'm missing a regular one. This one. I know.",
+    "actually": "Where is the other piece? I am missing an ordinary one. This one; I know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      385,
+      391
+    ],
+    "raw": "Also, I got L to watch um Nosferatu, by the way. I really liked it. There, it had like everything. It had had uh had titties. It had some weird rats, plague, Gothic romance, a really pretty boy main character.",
+    "actually": "I got L to watch Nosferatu. I liked it; it had nudity, strange rats, plague, Gothic romance, and an attractive male protagonist.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      391,
+      396
+    ],
+    "raw": "I'll be honest, Thomas was kind of pretty. I was surprised. I thought he was kind of meh first, but then the more I looked at I was like damn, why you pretty?",
+    "actually": "Thomas was attractive, which surprised me. I initially thought he was unremarkable, but found him more attractive as I watched.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      396,
+      401
+    ],
+    "raw": "And it had like, well, the the ending, the ending was actually not like Dracula. I didn't even finish Dracula. I got to the halfway point, so there was a point where like I don't know if this is canon to the book.",
+    "actually": "The ending differed from Dracula. I did not finish Dracula; I reached halfway, so I do not know whether this part follows the book.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      401,
+      404
+    ],
+    "raw": "Actually, they changed a lot of stuff, so for those who don't know, um, I am not paying attention to Legos right now. I did it though.",
+    "actually": "They changed many things. For anyone who does not know—I am not paying attention to the Lego now, though I did it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      404,
+      409
+    ],
+    "raw": "So in the original book the main girl's name is supposed to be Mina and her dude's named Jonathan, like Jonathan Joestar. But they're not married in the book, but they they do get a happy ending.",
+    "actually": "In the original book, the main woman is named Mina and her partner is Jonathan, like Jonathan Joestar. They are not married in the book, but they receive a happy ending.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      409,
+      412
+    ],
+    "raw": "Damn it, I kind of wanted to have a bad ending now. I like the movie's ending better. No offense to people who like happy endings.",
+    "actually": "I wanted an unhappy ending and prefer the film’s ending. I do not mean to offend those who prefer happy endings.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      413,
+      415
+    ],
+    "raw": "And then her best friend was supposed to be named Lucy, and she was supposed to be the hot one.",
+    "actually": "Her best friend was named Lucy and was supposed to be the attractive one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      415,
+      416
+    ],
+    "raw": "the hot Dy uh chass type I guess whatever",
+    "reason": "The descriptive ASR words Dy and chass are unclear; do not invent character traits.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      416,
+      422
+    ],
+    "raw": "Popular girl who's really innocent, but she gets seduced. Yeah, Dracula got a good ending, but I think it also depends on a version of Dracula you see. But honestly, I think a darker ending suits Dracula so I can have Thomas.",
+    "actually": "She is a popular, innocent woman who is seduced. Dracula had a happy ending, though I think it depends on the version. I think a darker ending suits Dracula, so I can have Thomas.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      423,
+      427
+    ],
+    "raw": "Okay, page, uh, step 33. I think this is the part we have already done. Perhaps it is not what we have done. What is this?",
+    "actually": "Step thirty-three. I think we already did this part; perhaps we did not. What is this?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      427,
+      430
+    ],
+    "raw": "Okay, so based on this I need to find two two legs. Not this. Is it probably this? I think this is the legs.",
+    "actually": "I need to find two legs according to this. Not this one; perhaps this one? I think these are the legs.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      430,
+      434
+    ],
+    "raw": "No, I'm not biased. I just thought like I don't know why he has a very feminine face. Nosferatu first off he, well, actually I shouldn't say it. My friend might be watching.",
+    "actually": "I am not biased; I think he has a feminine face. Regarding Nosferatu—I should not say it because my friend may be watching.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      435,
+      438
+    ],
+    "raw": "I was going to say he kind of talks like my friend, but anyway Nosferatu was hideous though. He was a hideous guy, but I guess it suits it. It suits it.",
+    "actually": "He speaks somewhat like my friend. Nosferatu was hideous, but I suppose that suited it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      438,
+      443
+    ],
+    "raw": "Okay, the actor, I, no offense to the actor. He looks fine. I I I I will acknowledge that he probably looks like a good human being, but I like Thomas, Thomas's look compared to actor's actual.",
+    "actually": "I mean no offense to the actor, who looks fine and probably like a good person. I prefer Thomas’s appearance to the actor’s actual appearance.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      444,
+      448
+    ],
+    "raw": "What, you want to date my friend? I can ask him if you want. You into the the the tall uh very hard to understand foreign type?",
+    "actually": "Do you want to date my friend? I can ask him. Are you interested in tall foreigners who are difficult to understand?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      448,
+      452
+    ],
+    "raw": "Your friend sounds interesting. Well, he doesn't look like Nosferatu, I don't think. That would be kind of [ __ ] up cuz then he'd be partially dead. No, I, they just talk similarly.",
+    "actually": "My friend sounds interesting? I do not think he resembles Nosferatu; that would be disturbing because he would be partly dead. They only speak similarly.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      453,
+      455
+    ],
+    "raw": "It's going to be an adaptation. I honestly like how it turned out. There was a lot more stakes there.",
+    "actually": "It is an adaptation, and I liked the result. There was more at stake.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      455,
+      457
+    ],
+    "raw": "Also there was some part where I didn't expect. There was some part involving like some killing of uh.",
+    "actually": "There was also an unexpected part involving killing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      458,
+      458
+    ],
+    "raw": "a bracket",
+    "reason": "Object of the killing is uncertain ASR; do not infer a person, animal, or spoiler.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      458,
+      462
+    ],
+    "raw": "I did not expect cuz people would usually hammer on about that. That was a that was shocking. I like that part, and a lot of itty witties. Like holy crap, the amount there.",
+    "actually": "I did not expect that because people would usually discuss it repeatedly. It was shocking, and I liked it. There was also a large amount of nudity.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      462,
+      464
+    ],
+    "raw": "Uh, okay, anyway, back to back to the topic. Uh, let's see.",
+    "actually": "Let us return to the topic.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      465,
+      466
+    ],
+    "raw": "is p Parton supposed to spread",
+    "reason": "Uncertain part name/reference; preserve incomplete question rather than invent a geometry.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      466,
+      469
+    ],
+    "raw": "If you say so. Okay, I'm trying to connect it. Oh, everything's falling apart, just like my life. Oh no.",
+    "actually": "If you say so. I am trying to connect it. Everything is falling apart, like my life.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      470,
+      477
+    ],
+    "raw": "I still don't think I have a type, guys. I I would highly recommend, um, if you like Gothic horror, if you like Wuthering Heights. [ __ ] Heathcliff though. Heathcliff, I I don't like Heathcliff, but Edgar, Edgar pretty cute in the ways I imagine an anime blonde boy.",
+    "actually": "I still do not think I have a type. I highly recommend it if you like Gothic horror or Wuthering Heights. I dislike Heathcliff, but Edgar is attractive as I imagine him as a blond anime boy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      477,
+      482
+    ],
+    "raw": "But anyway, no, it's just completely um coincidental. I need some some little piece. Oh, did I use the wrong type? It looks like it's the right type. Maybe it's supposed to go underneath.",
+    "actually": "It is entirely coincidental. I need a small piece. Did I use the wrong type? It looks correct; perhaps it goes underneath.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      483,
+      486
+    ],
+    "raw": "Heathcliff's a piece of [ __ ]. Nosferatu is infinitely better than Twilight. At least you see titties in Nosferatu.",
+    "actually": "Heathcliff is reprehensible. Nosferatu is far better than Twilight; at least it includes nudity.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      486,
+      489
+    ],
+    "raw": "What do Twilight have? Uh, sperm that freezes simply because you swam in the Hawaiian Ocean or something. Completely unrealistic. Hello.",
+    "actually": "What does Twilight have? Sperm that freezes because you swim in the Hawaiian Ocean or something. That is entirely unrealistic.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      489,
+      491
+    ],
+    "raw": "I think you're supposed to have another piece.",
+    "actually": "I think you need another piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      492,
+      495
+    ],
+    "raw": "Okay, uh, this piece and then, oh, this one this one needs like a L-shaped thing. This one.",
+    "actually": "This piece; this one needs an L-shaped part.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      495,
+      500
+    ],
+    "raw": "Hold up. I'm on this. That, there's supposed to be something that goes on here. It looks like it's an maybe some nail shape. There's supposed to be a point here though. Is it this point?",
+    "actually": "Wait; something is supposed to go here. It might be nail-shaped. There should be a point here; is it this point?",
+    "status": "SFT"
+  }
+]

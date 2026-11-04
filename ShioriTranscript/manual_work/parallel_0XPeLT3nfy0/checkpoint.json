@@ -1,0 +1,21 @@
+{
+  "status": "manual_source_decisions_in_progress",
+  "source_read_through_segment": 1570,
+  "source_total_segments": 2659,
+  "saved_parts": 7,
+  "manual_decision_count": 551,
+  "next_source_segment": 1571,
+  "source_index_gaps_before_881": [],
+  "clean_created": false,
+  "originals_moved": false,
+  "pending_final_work": [
+    "Finish source reading and manual decisions",
+    "Recover clear subclauses in LOW contexts",
+    "Manually split long dialogue turns",
+    "Check source word provenance, masks and true repetitions",
+    "Verify schema and original hashes before move"
+  ],
+  "source_index_gaps_before_1571": [
+    1557
+  ]
+}

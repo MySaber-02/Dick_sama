@@ -1,0 +1,134 @@
+[
+  {
+    "decision": 56,
+    "source": [
+      67
+    ],
+    "raw": "what do you mean",
+    "source_raw": "you mean? It's way too much letters here",
+    "status": "SFT"
+  },
+  {
+    "decision": 83,
+    "source": [
+      106,
+      107
+    ],
+    "raw": "oh wow I'm surprised they haven't seen this",
+    "source_raw": "wow. I'm surprised they haven't seen this.",
+    "status": "SFT"
+  },
+  {
+    "decision": 106,
+    "source": [
+      130,
+      131
+    ],
+    "raw": "it's very subtle though unless I max out my thing",
+    "source_raw": "very subtle, though, unless I max out my thing.",
+    "status": "SFT"
+  },
+  {
+    "decision": 110,
+    "source": [
+      137,
+      138
+    ],
+    "raw": "They just have to last a minute and a half-ish.",
+    "source_raw": "They just have to last a minute and a halfish.",
+    "status": "SFT"
+  },
+  {
+    "decision": 119,
+    "source": [
+      153,
+      154,
+      155,
+      156
+    ],
+    "raw": "She might win. I think the others are pretty good at hiding, too. I know Herb's played before. I'm not sure about the others, though.",
+    "source_raw": "She might win. I think the others are pretty good at hiding, too. I know Herbs played before. I'm not sure about the others, though. I think what's funny",
+    "status": "SFT"
+  },
+  {
+    "decision": 185,
+    "source": [
+      253,
+      254
+    ],
+    "raw": "You want to do a golden one? Why don't just do like a censor bar?",
+    "source_raw": "You want to do a golden one? Why don't just do like a sensor bar?",
+    "status": "SFT"
+  },
+  {
+    "decision": 186,
+    "source": [
+      255,
+      256
+    ],
+    "raw": "But But isn't it more lewd when you have a bikini on?",
+    "source_raw": "But But isn't it more LWD when you have a bikini on?",
+    "status": "SFT"
+  },
+  {
+    "decision": 268,
+    "source": [
+      383,
+      384,
+      385
+    ],
+    "raw": "Just like real life. Just like in real life. Hey. Hey, that sounds like it was over here.",
+    "source_raw": "Just like real life. Just like in real life. The cl Hey. Hey, that sounds like it was over here.",
+    "status": "SFT"
+  },
+  {
+    "decision": 288,
+    "source": [
+      414,
+      415,
+      416
+    ],
+    "raw": "Yeah. What if I just start blasting? Oh, wait. There's a timer or cooldown for this. What if we just started blasting?",
+    "source_raw": "Yeah. What if I just start blasting? Oh, wait. There's a timer or cool down for this. What if we just started blasting?",
+    "status": "SFT"
+  },
+  {
+    "decision": 375,
+    "source": [
+      540
+    ],
+    "raw": "You know what? Fine.",
+    "source_raw": "what? Fine. Ah, but it's not a good but",
+    "status": "SFT"
+  },
+  {
+    "decision": 759,
+    "source": [
+      2264,
+      2265
+    ],
+    "raw": "I do love Iris's hazmat suit. It's good stuff.",
+    "source_raw": "I do love Irish's hazmat suit. It's good stuff.",
+    "status": "SFT"
+  },
+  {
+    "decision": 767,
+    "source": [
+      2274,
+      2275,
+      2276
+    ],
+    "raw": "It sure is. It sure for now. Don't tell me where you are. You should probably get you. your last rites.",
+    "source_raw": "It sure is. It sure for now. Don't tell me where you are. You should probably get you. your last rights.",
+    "status": "SFT"
+  },
+  {
+    "decision": 892,
+    "source": [
+      2461
+    ],
+    "raw": "Nothing personal.",
+    "source_raw": "Nothing personnel.",
+    "status": "SFT"
+  }
+]

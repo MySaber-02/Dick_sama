@@ -1,0 +1,77 @@
+[
+  {
+    "target_raw": "I can press.",
+    "source_segments": [
+      606,
+      606
+    ]
+  },
+  {
+    "target_raw": "I'm not here.",
+    "source_segments": [
+      637,
+      637
+    ],
+    "source_occurrence": 1
+  },
+  {
+    "target_raw": "After you.",
+    "source_segments": [
+      638,
+      638
+    ]
+  },
+  {
+    "target_raw": "I'm not here.",
+    "source_segments": [
+      639,
+      639
+    ],
+    "source_occurrence": 2
+  },
+  {
+    "target_raw": "My god. GG.",
+    "source_segments": [
+      840,
+      840
+    ]
+  },
+  {
+    "target_raw": "You're the only one I legit got.",
+    "source_segments": [
+      962,
+      962
+    ]
+  },
+  {
+    "target_raw": "It's just convenient, you know?",
+    "source_segments": [
+      985,
+      986
+    ],
+    "replacement_raw": "It's just It's just convenient, you know?",
+    "note": "Full 985–986 authoritative decisions already provided; do not duplicate this middle fragment."
+  },
+  {
+    "target_raw": "and I was like no Liz look I knew you'd climb",
+    "source_segments": [
+      1349,
+      1352
+    ]
+  },
+  {
+    "target_raw": "I don't think this this is going to work",
+    "source_segments": [
+      1262,
+      1263
+    ],
+    "note": "There is another identical raw at1273–1274 without repeated this. Select the repeated-this record only."
+  },
+  {
+    "target_raw": "oh she totally sees you",
+    "source_segments": [
+      866,
+      867
+    ]
+  }
+]

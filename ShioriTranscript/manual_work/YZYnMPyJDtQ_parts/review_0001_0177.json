@@ -1,0 +1,574 @@
+[
+  {
+    "source_segment_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "raw": "[Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music labels; no lexical speech."
+  },
+  {
+    "source_segment_indices": [
+      15
+    ],
+    "raw": "Hello.",
+    "status": "SFT",
+    "actually": "Hello."
+  },
+  {
+    "source_segment_indices": [
+      16,
+      17
+    ],
+    "raw": "How? Oh, wait. You can't hear the the Irish music.",
+    "status": "SFT",
+    "actually": "Wait, you cannot hear the Irish music."
+  },
+  {
+    "source_segment_indices": [
+      18,
+      19,
+      20
+    ],
+    "raw": "I woke up hours ago, but I'm like really dizzy for some reason. So, yeah. How is everyone? Audio good? Let me get comfy.",
+    "status": "SFT",
+    "actually": "I woke up hours ago, but I feel very dizzy for some reason. How is everyone? Is the audio good? Let me get comfortable."
+  },
+  {
+    "source_segment_indices": [
+      21
+    ],
+    "raw": "I passed out. I passed the freak out.",
+    "status": "SFT",
+    "actually": "I fell deeply asleep."
+  },
+  {
+    "source_segment_indices": [
+      22
+    ],
+    "raw": "Oh, you don't feel well today? Oh, no.",
+    "status": "SFT",
+    "actually": "You do not feel well today? Oh no."
+  },
+  {
+    "source_segment_indices": [
+      23,
+      24
+    ],
+    "raw": "Oh, you're asking me actually. Oh, I see.",
+    "status": "SFT",
+    "actually": "You were asking me; I see."
+  },
+  {
+    "source_segment_indices": [
+      25,
+      26
+    ],
+    "raw": "Enjoy the vod and good luck with groceries.",
+    "status": "SFT",
+    "actually": "Enjoy the recording, and good luck with grocery shopping."
+  },
+  {
+    "source_segment_indices": [
+      27,
+      28,
+      29
+    ],
+    "raw": "You pass out last night. A I did eat actually. Yeah, but I hold up. I need to stop smiling. It's disgusting.",
+    "status": "SFT",
+    "actually": "You passed out last night. I did eat, actually. Wait; I need to stop smiling. It is disgusting."
+  },
+  {
+    "source_segment_indices": [
+      30,
+      31
+    ],
+    "raw": "But yeah, I I ate um okayyaki or something. Okiyaki and Mr. Miyagi. Um, I",
+    "status": "LOW",
+    "reason": "Uncertain food name and accompanying Miyagi wordplay; preserve literal source rather than guessing a dish."
+  },
+  {
+    "source_segment_indices": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "raw": "feel like they're only good if you have sauce because, uh, at the end of the day, it's really just noodles with some egg of some kind. It was good though, but it was better once I added sauce.",
+    "status": "SFT",
+    "actually": "I feel they are only good with sauce, because they are basically noodles and some kind of egg. It was good, but better after I added sauce."
+  },
+  {
+    "source_segment_indices": [
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "raw": "But today, for those who have just chanced upon my channel for whatever reason, Shabella here at your service, Hololive Archiver, starting chess today. I",
+    "status": "SFT",
+    "actually": "For anyone who happened to find my channel, Shabella is here at your service, the Hololive Archiver, starting chess today.",
+    "raw_fixes": [
+      [
+        "Hollow Life",
+        "Hololive"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "raw": "don't know too much about it. I only learned it literally like half a year ago. And I did practice a bit, but then, you know, naturally it stopped. So, I'm pretty sure my level is less than kebab.",
+    "status": "SFT",
+    "actually": "I do not know much about chess; I learned it only about half a year ago. I practiced briefly, then stopped, so I am probably below Kebab's level."
+  },
+  {
+    "source_segment_indices": [
+      47,
+      48,
+      49
+    ],
+    "raw": "And I think kebab is the the easiest bot here. Uh there's kebab which is a a rating of 300.",
+    "status": "SFT",
+    "actually": "I think Kebab is the easiest bot here, with a rating of three hundred."
+  },
+  {
+    "source_segment_indices": [
+      50,
+      51,
+      52
+    ],
+    "raw": "There's burger. I don't know why it's all food based which is 850 which I assume is intermediate.",
+    "status": "SFT",
+    "actually": "There is Burger, rated eight hundred fifty, which I assume is intermediate. I do not know why the names are all food-related."
+  },
+  {
+    "source_segment_indices": [
+      53,
+      54,
+      55
+    ],
+    "raw": "There's potato salad which is 1,400. I'm I think that's like a little proish, right? 200 300 is pretty easy. Okay. But",
+    "status": "SFT",
+    "actually": "Potato Salad is rated fourteen hundred. I think that is somewhat professional, correct? Two hundred or three hundred is quite easy. Okay."
+  },
+  {
+    "source_segment_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "raw": "here you go. I'm dumb. So, we're just going to practice today and I'm just going to try to relearn like what does what. If I remember right, like these",
+    "status": "SFT",
+    "actually": "I am foolish, so we will practice today while I try to relearn what everything does."
+  },
+  {
+    "source_segment_indices": [
+      60,
+      61
+    ],
+    "raw": "things. Oh, I guess it doesn't show my little uh my little mouse. Okay. Well,",
+    "status": "SFT",
+    "actually": "These things, if I remember correctly—my cursor is not visible. Okay."
+  },
+  {
+    "source_segment_indices": [
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "raw": "these things, you can see that at least they're the pawns. And I think at the very start of a match, they can go like two, but after that, they can only jump to one. Uh they're supposed to be",
+    "status": "SFT",
+    "actually": "You can at least see these pawns. I think they can move two squares at the start, then only one afterward."
+  },
+  {
+    "source_segment_indices": [
+      67,
+      68,
+      69
+    ],
+    "raw": "opening moves, but I'm not too familiar with them yet. I should probably just learn what does what. The good thing is",
+    "status": "SFT",
+    "actually": "There are supposed to be opening moves, but I am not familiar with them yet. I should probably learn what everything does first."
+  },
+  {
+    "source_segment_indices": [
+      70,
+      71,
+      72
+    ],
+    "raw": "that online games let you figure out where you're supposed to go because if it's uh the physical edition.",
+    "status": "LOW",
+    "reason": "Clear benefit of online games recovered separately; physical-edition comparison is unfinished."
+  },
+  {
+    "source_segment_indices": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "raw": "Well, I think I I played against one of my friends and I think she got some of the rules wrong. So, she freaked me over.",
+    "status": "SFT",
+    "actually": "I think a friend I played against got some rules wrong and disadvantaged me."
+  },
+  {
+    "source_segment_indices": [
+      77,
+      78,
+      79
+    ],
+    "raw": "But I'm not going to tell her that. I know it's freaked. It's like what the hell is this bull crap rules? So, I just",
+    "status": "SFT",
+    "actually": "I will not tell her that. I know it was unfair; I was wondering what these unreasonable rules were."
+  },
+  {
+    "source_segment_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "raw": "kind of let it go. I mean, I'm pretty sure I would have lost anyway, but I just decided I'm not going to fight on this.",
+    "status": "SFT",
+    "actually": "I let it go. I am fairly sure I would have lost anyway, but I decided not to argue about it."
+  },
+  {
+    "source_segment_indices": [
+      84
+    ],
+    "raw": "They make their own rules.",
+    "status": "SFT",
+    "actually": "They make their own rules."
+  },
+  {
+    "source_segment_indices": [
+      85
+    ],
+    "raw": "So, let's see.",
+    "status": "SFT",
+    "actually": "Let us see."
+  },
+  {
+    "source_segment_indices": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ],
+    "raw": "I have I have a question and then I'll learn from here. When you're learning how to do chess, like what side is kind of the best side to start on? I know it's not going to lead to victory, but is there an actual strategy for that?",
+    "status": "SFT",
+    "actually": "I have a question to learn from: when learning chess, which side is best to start on? I know it does not guarantee victory, but is there a strategy?"
+  },
+  {
+    "source_segment_indices": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "raw": "Would you start at the left side? You start on the white side. White is slightly better. White is easier. What does that mean? You mean I have to choose like a white piece first?",
+    "status": "SFT",
+    "actually": "Would you start on the left? You start on the white side; white is slightly better and easier. What does that mean? Must I choose a white piece first?"
+  },
+  {
+    "source_segment_indices": [
+      97,
+      98,
+      99
+    ],
+    "raw": "Oh, you start with a center. Whatever side targets their king, white always goes first. I didn't know that. You",
+    "status": "SFT",
+    "actually": "You start with the center. Whichever side targets their king; white always goes first. I did not know that."
+  },
+  {
+    "source_segment_indices": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "raw": "usually try to go take the center. So, when you're starting out, I guess you should like But wouldn't that leave the king sort of defend defenseless? I guess until you start like putting the pieces in front of it.",
+    "status": "SFT",
+    "actually": "You usually try to take the center. But would that leave the king rather defenseless, until you place pieces in front of it?"
+  },
+  {
+    "source_segment_indices": [
+      106,
+      107
+    ],
+    "raw": "So the white attack, blacks get to mimic the white to. So it's easy. Center pawn",
+    "status": "LOW",
+    "reason": "Unclear explanation of white attacking and black mimicking; do not invent the missing grammar or claim."
+  },
+  {
+    "source_segment_indices": [
+      108,
+      109,
+      110,
+      111
+    ],
+    "raw": "is usually a great choice. So I guess um I'm just going to guess right now. So if I start here and then we'll go from there. So just E3.",
+    "status": "SFT",
+    "actually": "A center pawn is usually a good choice. I will guess for now, start here, and see how it goes. E3."
+  },
+  {
+    "source_segment_indices": [
+      112,
+      113
+    ],
+    "raw": "Keab moves there. Uh if I remember right, kebab can move from here once.",
+    "status": "SFT",
+    "actually": "Kebab moves there. If I remember correctly, Kebab can move from here once."
+  },
+  {
+    "source_segment_indices": [
+      114,
+      115,
+      116
+    ],
+    "raw": "The queen can go uh forward. Oh, we should probably unleash the queen first, right? So if I start from here,",
+    "status": "SFT",
+    "actually": "The queen can move forward. We should probably release the queen first, correct? If I start from here—"
+  },
+  {
+    "source_segment_indices": [
+      117,
+      118
+    ],
+    "raw": "if I unlock the queen now, would that be good? Take the center and",
+    "status": "SFT",
+    "actually": "Would unlocking the queen now be good?"
+  },
+  {
+    "source_segment_indices": [
+      119,
+      120,
+      121
+    ],
+    "raw": "open space for pieces. Basically, queen can go anywhere. We just have to make sure our queen doesn't get caught.",
+    "status": "SFT",
+    "actually": "Take the center and open space for pieces. The queen can go anywhere; we just need to keep her from being captured."
+  },
+  {
+    "source_segment_indices": [
+      122
+    ],
+    "raw": "Control center and go up all the way.",
+    "status": "SFT",
+    "actually": "Control the center and move all the way up."
+  },
+  {
+    "source_segment_indices": [
+      123
+    ],
+    "raw": "Queen is a tower and bishop combined.",
+    "status": "SFT",
+    "actually": "The queen combines a tower and a bishop."
+  },
+  {
+    "source_segment_indices": [
+      124
+    ],
+    "raw": "Queen is unlock is already in diagonal.",
+    "status": "SFT",
+    "actually": "The queen is already unlocked diagonally."
+  },
+  {
+    "source_segment_indices": [
+      125
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      126,
+      127,
+      128
+    ],
+    "raw": "So shouldn't I at least Oh, she can move. Well, I'll just do it. I'm just going to try to like learn it for now.",
+    "status": "SFT",
+    "actually": "Should I not at least—she can move. I will try it to learn for now."
+  },
+  {
+    "source_segment_indices": [
+      129,
+      130
+    ],
+    "raw": "Okay. Oh, okay. The bishop moves diagonally.",
+    "status": "SFT",
+    "actually": "The bishop moves diagonally."
+  },
+  {
+    "source_segment_indices": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "raw": "So, it could take my queen. Wait, what if I just take this? So, I could take the queen right now. Oh, sorry. I could take the bishop with the queen right now. But once I do that, is there anything that can take it? I don't think so. I think we could do it now.",
+    "status": "SFT",
+    "actually": "It could take my queen. Could I take this? I could take the queen now—sorry, take the bishop with the queen. Could anything capture her afterward? I do not think so; I think we can do it now."
+  },
+  {
+    "source_segment_indices": [
+      138,
+      139,
+      140
+    ],
+    "raw": "But their queen is also going to be a potential thing. So, I'm going to take the bishop now.",
+    "status": "SFT",
+    "actually": "Their queen could also be a threat. I will take the bishop now."
+  },
+  {
+    "source_segment_indices": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "raw": "And if we want to learn like more moves, I think there is an undo button, which is pretty lenient of the game, but I guess that's so you can learn like what does what. So now that's done. Um, their queen is available.",
+    "status": "SFT",
+    "actually": "I think there is an undo button if we want to learn more moves. The game is lenient, presumably to help us learn what everything does. Now their queen is available."
+  },
+  {
+    "source_segment_indices": [
+      147,
+      148,
+      149
+    ],
+    "raw": "We should not move our queen. Uh, their pawn is right there. I should probably free like a little bit of space.",
+    "status": "SFT",
+    "actually": "We should not move our queen. Their pawn is there; I should probably clear some space."
+  },
+  {
+    "source_segment_indices": [
+      150,
+      151
+    ],
+    "raw": "I could probably take their pawn uh their pawn right now.",
+    "status": "SFT",
+    "actually": "I could probably take their pawn now."
+  },
+  {
+    "source_segment_indices": [
+      152,
+      153
+    ],
+    "raw": "The king doesn't move much if I remember right.",
+    "status": "SFT",
+    "actually": "The king does not move much, if I remember correctly."
+  },
+  {
+    "source_segment_indices": [
+      154,
+      155,
+      156,
+      157
+    ],
+    "raw": "Uh you can put the king in check by taking the leftmost pawn right now. Oh, using what? Take pawn with bishop. Take pawn with bishop. So if I do that",
+    "status": "SFT",
+    "actually": "You can put the king in check by taking the leftmost pawn now. Using what? Take the pawn with the bishop. If I do that—"
+  },
+  {
+    "source_segment_indices": [
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "raw": "oh and then Oh, but they they protected with a horse. Now if I try to do something, I'm pretty sure the queen will take it. So I'm not going to do that just yet. I see.",
+    "status": "SFT",
+    "actually": "They protected it with a horse. If I act, I am fairly sure their queen will capture it, so I will wait. I see."
+  },
+  {
+    "source_segment_indices": [
+      163,
+      164,
+      165,
+      166
+    ],
+    "raw": "However, could I actually uh could I take the pawn? No, no, no. The the bishop would take it.",
+    "status": "SFT",
+    "actually": "Could I take the pawn? No, the bishop would take it."
+  },
+  {
+    "source_segment_indices": [
+      167,
+      168,
+      169,
+      170,
+      171
+    ],
+    "raw": "So, let's see. He blocks it with a queen or a horse. I see. Uh, let me just like figure out everything really quick because I feel like right now we're only using these pieces.",
+    "status": "SFT",
+    "actually": "He blocks it with a queen or horse. I see. Let me understand everything quickly, because I feel we are using only these pieces now."
+  },
+  {
+    "source_segment_indices": [
+      172,
+      173
+    ],
+    "raw": "If I try to take this, it'll probably take the queen.",
+    "status": "SFT",
+    "actually": "If I try to take this, it will probably take the queen."
+  },
+  {
+    "source_segment_indices": [
+      174,
+      175,
+      176,
+      177
+    ],
+    "raw": "Oh, but then I could take the queen, but then the king would still be available. Maybe I shouldn't sacrifice that.",
+    "status": "SFT",
+    "actually": "I could then take the queen, but the king would still be available. Perhaps I should not sacrifice that."
+  },
+  {
+    "source_segment_indices": [
+      70,
+      71,
+      72
+    ],
+    "raw": "The good thing is that online games let you figure out where you're supposed to go",
+    "actually": "The advantage of online games is that they show where you are supposed to move.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "source_segment_indices": [
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "raw": "So, once I do that, uh, what if I decide to just put up my pawns a little bit higher? Question., should I do a pawn right now? Because realistically, I should probably free up all my pieces. So, I should try to free up my horses.",
+    "status": "SFT",
+    "actually": "What if I advance my pawns? Should I move a pawn now? I should probably free all my pieces, including the horses."
+  },
+  {
+    "source_segment_indices": [
+      184
+    ],
+    "raw": "I'm doing better than most beginners.",
+    "status": "SFT",
+    "actually": "I am doing better than most beginners."
+  },
+  {
+    "source_segment_indices": [
+      185,
+      186,
+      187
+    ],
+    "raw": "It's a trade, but yeah, there's no rush to do it. Maybe a horse. Develop pieces first. Pawn or knight? Probably. So, we",
+    "status": "SFT",
+    "actually": "It is a trade, but there is no rush. Perhaps a horse; develop pieces first. A pawn or knight, probably."
+  },
+  {
+    "source_segment_indices": [
+      188,
+      189,
+      190,
+      191
+    ],
+    "raw": "should I don't think I can move a Oh, I can't move a knight. See, I was told and this is where I thought like I think that's wrong, but I didn't fight on it.",
+    "status": "SFT",
+    "actually": "I do not think I can move a—I cannot move a knight. This is where I thought what I was told was wrong, but I did not argue."
+  },
+  {
+    "source_segment_indices": [
+      192,
+      193,
+      194,
+      195,
+      196
+    ],
+    "raw": "I was told that you can't move a knight if there's something blocking the way. And I decided I'm not I'm just not I'm just going to let them do it. So, I'm going to move this.",
+    "status": "SFT",
+    "actually": "I was told a knight cannot move if something blocks its path. I decided to let them do that. I will move this."
+  },
+  {
+    "source_segment_indices": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202
+    ],
+    "raw": "Once this happens, uh their pawn can't do anything. Uh their their horse can still do something. I'm just going to do it now and see like how it goes because I don't think there's anything that can take it.",
+    "status": "SFT",
+    "actually": "Their pawn cannot do anything after this, though their horse still can. I will try it because I do not think anything can capture it."
+  },
+  {
+    "source_segment_indices": [
+      203,
+      204,
+      205,
+      206,
+      207,
+      208
+    ],
+    "raw": "I do need to worry about the tower though. So if I do that, they move their horse there. Uh issue here. Their horse can get me now. So I'm going to move my queen. Yeah, I think I think that's what I'm going to do.",
+    "status": "SFT",
+    "actually": "I need to watch the tower. Their horse moves there and can capture me, so I think I will move my queen."
+  },
+  {
+    "source_segment_indices": [
+      209,
+      210,
+      211
+    ],
+    "raw": "So let me move my queen. back just so no, I should probably move it a little bit.",
+    "status": "SFT",
+    "actually": "Let me move my queen back—no, I should probably move it a little."
+  },
+  {
+    "source_segment_indices": [
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218
+    ],
+    "raw": "Uh, let me let me just think really quick. So, this horse can go one, two, here, one, two, there, or maybe like any here. But I think it's fine. This one can take me now. Uh, let's see. It could take here. So, I'm just going to move over here maybe.",
+    "status": "SFT",
+    "actually": "Let me think. This horse can go one, two, here, or there, or perhaps here. I think it is fine. This one can capture me now; perhaps I will move here."
+  },
+  {
+    "source_segment_indices": [
+      219,
+      220
+    ],
+    "raw": "And I think it should be okay. I'm just going to test it.",
+    "status": "SFT",
+    "actually": "I think it should be okay; I will test it."
+  },
+  {
+    "source_segment_indices": [
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227
+    ],
+    "raw": "Okay. So, that happens. Uh the horse can still take me. So this is a trap. Uh what I will do, however, is I could probably I could sacrifice a pawn. But this is assuming that they they fall for it is the issue. Uh let's see.",
+    "status": "SFT",
+    "actually": "The horse can still capture me, so it is a trap. I could sacrifice a pawn, but that depends on them falling for it."
+  },
+  {
+    "source_segment_indices": [
+      228,
+      229,
+      230,
+      231,
+      232
+    ],
+    "raw": "I could take this now actually. So if I take it with my horse, what could grab it? Nothing. I don't think anything's going to grab it. So, I'm going to do this now.",
+    "status": "SFT",
+    "actually": "I could take this with my horse now. What could capture it? I do not think anything can, so I will do it."
+  },
+  {
+    "source_segment_indices": [
+      233,
+      234
+    ],
+    "raw": "So, that happens. Um, I could take this now.",
+    "status": "SFT",
+    "actually": "That happens; I could take this now."
+  },
+  {
+    "source_segment_indices": [
+      235,
+      236
+    ],
+    "raw": "The what do you call it? The archbishop. Can it take anything? I don't think so.",
+    "status": "SFT",
+    "actually": "What is it called, the archbishop? Can it capture anything? I do not think so."
+  },
+  {
+    "source_segment_indices": [
+      237,
+      238
+    ],
+    "raw": "Why is it a Oh, I can take Oh, but the queen. Okay, Ignoring that.",
+    "status": "LOW",
+    "reason": "Interrupted capture question and warning; clear queen warning and decision to ignore recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      239
+    ],
+    "raw": "So, let's see.",
+    "status": "SFT",
+    "actually": "Let us see."
+  },
+  {
+    "source_segment_indices": [
+      240,
+      241,
+      242,
+      243
+    ],
+    "raw": "horse will grab me there, but I I don't think anything's going to grab me here. Uh, no one cares about the king. 1, two, three. I'm just going to do it.",
+    "status": "SFT",
+    "actually": "The horse will capture me there, but I do not think anything can capture me here. Nobody cares about the king. One, two, three; I will do it."
+  },
+  {
+    "source_segment_indices": [
+      244,
+      245,
+      246
+    ],
+    "raw": "Okay, so the horse moved. What I can do here is I could potentially",
+    "status": "LOW",
+    "reason": "Unfinished plan after observing the horse moved; clear observation recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      247,
+      248,
+      249,
+      250
+    ],
+    "raw": "Is it a check? It's not a checkmate because they can still grab me, right? So, if I take this pawn right now, like it would still kill me, I assume.",
+    "status": "SFT",
+    "actually": "Is it check? It is not checkmate, because they can still capture me, correct? I assume taking this pawn now would still get me killed."
+  },
+  {
+    "source_segment_indices": [
+      251,
+      252,
+      253,
+      254
+    ],
+    "raw": "Go back. Knight to D7. Hold up. I don't uh D7. D7. Which one's D? Oh, D7. D7. The knight to D7. Isn't the knight the horsey?",
+    "status": "SFT",
+    "actually": "Go back; knight to D7. Wait, which one is D? D7; the knight is the horse, correct?"
+  },
+  {
+    "source_segment_indices": [
+      255,
+      256
+    ],
+    "raw": "Right the king. So if I go to D7. Wait, wait,",
+    "status": "LOW",
+    "reason": "Unclear king fragment and unfinished D7 condition; retain without guessing an instruction."
+  },
+  {
+    "source_segment_indices": [
+      257,
+      258,
+      259,
+      260,
+      261
+    ],
+    "raw": "I don't think Oh, is Gerard here? What's up, Gerard? Gerard, didn't you play against all? No, no, someone played against Olly and then she beat you the crap up, I think.",
+    "status": "SFT",
+    "actually": "Is Gerard here? Hello, Gerard. Did you play against—no, someone played against Olly, and I think she beat them badly."
+  },
+  {
+    "source_segment_indices": [
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268
+    ],
+    "raw": "Knight to C7. Knight to C7. So C7. Let me let me think about this. So if I sacrifice the knight, the queen gets there. How? Oh, and then um the queen gets there, she might move to the right.",
+    "status": "SFT",
+    "actually": "Knight to C7. Let me think: if I sacrifice the knight, the queen goes there. How? Then the queen goes there; she might move right."
+  },
+  {
+    "source_segment_indices": [
+      269,
+      270,
+      271,
+      272,
+      273,
+      274
+    ],
+    "raw": "C7. Queen takes. Yeah, that's what I'm thinking. I'm thinking about like what happens from there. So queen takes that. I could probably take the horse. Queen takes that. uh bishop. I could take the pawn. I don't know.",
+    "status": "SFT",
+    "actually": "C7, the queen takes it; I am considering what happens next. I could probably take the horse. The queen takes that; bishop. I could take the pawn; I do not know."
+  },
+  {
+    "source_segment_indices": [
+      275,
+      276,
+      277,
+      278,
+      279,
+      280
+    ],
+    "raw": "Let me It's a bad move. I don't I don't think it works out because uh there's too many logistics because then I'll lose three pieces that move a lot. So, what I'm going to do is I'm going to try to release.",
+    "status": "LOW",
+    "reason": "Clear assessment recovered separately; trailing release plan is unfinished."
+  },
+  {
+    "source_segment_indices": [
+      281,
+      282
+    ],
+    "raw": "Maybe if I if I sacrifice this. No, no, no. Let's not sacrifice this yet.",
+    "status": "SFT",
+    "actually": "Perhaps I could sacrifice this—no, let us not sacrifice it yet."
+  },
+  {
+    "source_segment_indices": [
+      283,
+      284,
+      285,
+      286,
+      287
+    ],
+    "raw": "Oh, hold up. Hold up. My this horse can take my queen. I need to move the queen immediately. So, if I move it up, it's going to take my queen. So, not doing that. I could probably move it here.",
+    "status": "SFT",
+    "actually": "This horse can capture my queen; I need to move her immediately. Moving her up would lose her, so I will not do that. I could perhaps move her here."
+  },
+  {
+    "source_segment_indices": [
+      288,
+      289,
+      290,
+      291,
+      292,
+      293
+    ],
+    "raw": "If I just take this one to F5. Uh, horse goes there. Horse goes there. Uh, no one cares. Horse goes there. Horse goes there. I think it should be okay. I'm going to do it.",
+    "status": "SFT",
+    "actually": "If I move this to F5, the horse goes there. Nobody cares. The horse goes there. I think it should be okay; I will do it."
+  },
+  {
+    "source_segment_indices": [
+      294,
+      295
+    ],
+    "raw": "Okay, so that one moved. Um, I could block it now. Let me wait.",
+    "status": "SFT",
+    "actually": "That moved; I could block it now. Wait."
+  },
+  {
+    "source_segment_indices": [
+      296,
+      297,
+      298,
+      299,
+      300
+    ],
+    "raw": "I should probably get rid of the horse. Could anything I don't think anything could No, the queen. Oh, no. No. The king could take my queen, though. That's the issue.",
+    "status": "SFT",
+    "actually": "I should probably get rid of the horse. Could anything capture it? No, the queen—no, the king could capture my queen; that is the problem."
+  },
+  {
+    "source_segment_indices": [
+      301,
+      302
+    ],
+    "raw": "Okay, I'm going to I'm going to wait on that.",
+    "status": "SFT",
+    "actually": "I will wait on that."
+  },
+  {
+    "source_segment_indices": [
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309
+    ],
+    "raw": "One, two, there. Oh, hold up. Which one would it take? It's kind of a gamble. If I do this now, I'm hoping that the queen takes it or the king and then and then my uh queen can go go there. Yeah. Could this work? Still lose the queen. Don't not a good move really.",
+    "status": "SFT",
+    "actually": "One, two, there. Which would it take? It is a gamble. I hope doing this makes the queen or king take it, so my queen can go there. Could that work? I would still lose the queen; it is not a good move."
+  },
+  {
+    "source_segment_indices": [
+      310,
+      311,
+      312,
+      313
+    ],
+    "raw": "Uh where did I put this? Let me just like leave it here. I have queen. The king won't take it because then it's check. You trade queens.",
+    "status": "SFT",
+    "actually": "Where did I put this? Let me leave it here. I have a queen. The king will not take it because that would be check. You trade queens."
+  },
+  {
+    "source_segment_indices": [
+      314
+    ],
+    "raw": "Don't lose the queen.",
+    "status": "SFT",
+    "actually": "Do not lose the queen."
+  },
+  {
+    "source_segment_indices": [
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322
+    ],
+    "raw": "Hold on. Let me think. So my my idea was the bishop takes the horse. Either the queen or the king takes it. And then I use the queen to diagonally take whatever. If the queen takes it, I would still lose the queen. Oh, that's what you're getting at. I still lose my queen. And that makes it harder. Okay, I",
+    "status": "SFT",
+    "actually": "My idea was for the bishop to take the horse, then either the queen or king takes it, and my queen captures diagonally. If their queen takes it, I still lose mine. I understand; that makes it harder."
+  },
+  {
+    "source_segment_indices": [
+      323,
+      324
+    ],
+    "raw": "get what you're saying. Queen E4. Then of course F6.",
+    "status": "SFT",
+    "actually": "I understand what you mean. Queen E4, then of course F6."
+  },
+  {
+    "source_segment_indices": [
+      325,
+      326,
+      327
+    ],
+    "raw": "Queen to E4. E4. Oh, F4. Is it F4?",
+    "status": "SFT",
+    "actually": "Queen to E4. No, F4? Is it F4?"
+  },
+  {
+    "source_segment_indices": [
+      328,
+      329,
+      330,
+      331
+    ],
+    "raw": "Queen to F4. So if I Let me Let me think about this. Queen to F4. I'll I'll just try it. Let me just try it. F4. This one. Sorry.",
+    "status": "SFT",
+    "actually": "Let me think about queen to F4. I will try it; F4, this one. Sorry."
+  },
+  {
+    "source_segment_indices": [
+      332,
+      333
+    ],
+    "raw": "So what happens after that? Where do they go?",
+    "status": "SFT",
+    "actually": "What happens afterward? Where do they go?"
+  },
+  {
+    "source_segment_indices": [
+      334,
+      335,
+      336,
+      337
+    ],
+    "raw": "So that forces the queen to move. Um, the queen could probably take my bishop right now, which is a horrible idea, actually.",
+    "status": "SFT",
+    "actually": "That forces the queen to move. Their queen could probably take my bishop now, which is a horrible idea."
+  },
+  {
+    "source_segment_indices": [
+      338,
+      339,
+      340
+    ],
+    "raw": "What I could do, okay, the bishop could still take my horse, which is a horrible idea.",
+    "status": "SFT",
+    "actually": "The bishop could still take my horse, which is a horrible idea."
+  },
+  {
+    "source_segment_indices": [
+      341,
+      342,
+      343,
+      344
+    ],
+    "raw": "Horse to C7. Horse to C7 would do uh over here. And then that forces the queen to take it. Okay, I see where you're coming from.",
+    "status": "SFT",
+    "actually": "Horse to C7 goes here, forcing the queen to take it. I understand your reasoning."
+  },
+  {
+    "source_segment_indices": [
+      345,
+      346,
+      347,
+      348
+    ],
+    "raw": "So, let me try this one. And then I'm hoping that the queen takes it. No, it doesn't take it. Uh, however, I could take the tower right now.",
+    "status": "SFT",
+    "actually": "Let me try this, hoping the queen takes it. It does not, but I could take the tower now."
+  },
+  {
+    "source_segment_indices": [
+      349,
+      350
+    ],
+    "raw": "C7 with horse. We We did that. So,",
+    "status": "SFT",
+    "actually": "We did C7 with the horse."
+  },
+  {
+    "source_segment_indices": [
+      237,
+      238
+    ],
+    "raw": "Oh, but the queen. Okay, Ignoring that.",
+    "actually": "But the queen; I will ignore that.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      244
+    ],
+    "raw": "Okay, so the horse moved.",
+    "actually": "The horse moved.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      275,
+      276,
+      277,
+      278
+    ],
+    "raw": "It's a bad move. I don't I don't think it works out because uh there's too many logistics because then I'll lose three pieces that move a lot.",
+    "actually": "It is a bad move. I do not think it works because it is too complicated and I would lose three highly mobile pieces.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

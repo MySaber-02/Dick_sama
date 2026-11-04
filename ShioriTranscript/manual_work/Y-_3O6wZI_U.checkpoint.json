@@ -1,0 +1,17 @@
+{
+  "video_id": "Y-_3O6wZI_U",
+  "status": "manual_source_indexed_processing_in_progress",
+  "source_segments": 2503,
+  "source_read_through_segment": 720,
+  "decisions_authored_through_source_segment": 720,
+  "decision_records": 212,
+  "sft_candidates": 185,
+  "low_confidence_records": 18,
+  "source_sha256": {
+    "txt": "3182a0748e6217a0b1a8f8dee9042ae9bf87c659fea26ef7df90cda5105f7899",
+    "json": "55b239cd921b3506832b79a92b24605b10e3b3c43cf48016b9fdf35026dfd5ea"
+  },
+  "clean_created": false,
+  "originals_moved": false,
+  "next_action": "Read source721 onward; continue direct source-indexed manual decisions, then final utterance segmentation, semantic/source reconciliation, schema/hash validation and archival."
+}

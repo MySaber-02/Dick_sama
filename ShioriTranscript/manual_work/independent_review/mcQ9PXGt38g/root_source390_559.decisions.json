@@ -1,0 +1,1172 @@
+[
+  {
+    "source_segments": [
+      390,
+      390
+    ],
+    "raw": "One around here, huh?",
+    "actually": "There is one around here, correct?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      391,
+      393
+    ],
+    "raw": "Okay, now there's two left. Good job. You're so good at this. You're really good at killing people. GG.",
+    "actually": "Two remain. Well done; you are very good at this, especially at killing people. GG.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      393,
+      395
+    ],
+    "raw": "He thinks it's because I I ted my cleavage on.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      396,
+      396
+    ],
+    "raw": "I'm trying. I'll do my best.",
+    "actually": "I am trying and will do my best.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      397,
+      397
+    ],
+    "raw": "Yeah. Thank you.",
+    "actually": "Yes; thank you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      398,
+      398
+    ],
+    "raw": "I'll try to kill for you.",
+    "actually": "I will try to kill for you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      399,
+      399
+    ],
+    "raw": "Oh, thank you.",
+    "actually": "Thank you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      400,
+      400
+    ],
+    "raw": "We can just find the rest of them.",
+    "actually": "We can find the rest of them.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      401,
+      401
+    ],
+    "raw": "You're doing so much better than me.",
+    "actually": "You are doing much better than I am.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      402,
+      403
+    ],
+    "raw": "No, it's a team effort. We're both hunters.",
+    "actually": "No, it is a team effort; we are both hunters.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      404,
+      405
+    ],
+    "raw": "That's true. That's true. You're so good at hunting for women.",
+    "actually": "That is true; you are very good at hunting for women.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      406,
+      406
+    ],
+    "raw": "Only 40 whistle again. I know people.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      407,
+      408
+    ],
+    "raw": "They're going to whistle one more time in 3 seconds.",
+    "actually": "They will whistle again in three seconds.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      409,
+      409
+    ],
+    "raw": "Oh my god. I don't know where it is.",
+    "actually": "I do not know where it is.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      410,
+      412
+    ],
+    "raw": "Oh my god. I don't know. I don't know. I don't know. I just don't know. I don't know either.",
+    "actually": "I do not know. I do not know either.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      413,
+      413
+    ],
+    "raw": "Maybe if I just start shooting randomly.",
+    "actually": "Perhaps if I start shooting randomly.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      414,
+      416
+    ],
+    "raw": "Yeah. What if I just start blasting? Oh, wait. There's a timer or cooldown for this. What if we just started blasting?",
+    "actually": "What if I start shooting? Wait, there is a timer or cooldown for this. What if we start shooting?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      417,
+      418
+    ],
+    "raw": "Okay. Where are they?",
+    "actually": "Where are they?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      419,
+      420
+    ],
+    "raw": "Gosh darn. I bet it's Herb. Oh, wait. Did you find Herb?",
+    "actually": "I suspect it is Herb. Wait; did you find Herb?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      420,
+      423
+    ],
+    "raw": "Someone's No, someone's whistling, but I don't know where it is. Oh, she's hiding underneath.",
+    "actually": "Someone—no, someone is whistling, but I do not know where. She is hiding underneath.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      424,
+      425
+    ],
+    "raw": "Oh, okay. So, I'm not even near the area.",
+    "actually": "I am not even near the area.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      426,
+      426
+    ],
+    "raw": "It's just so tiny. She's so tiny.",
+    "actually": "It is very small; she is very small.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      427,
+      427
+    ],
+    "raw": "The the red icons. Oh, it's",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      428,
+      428
+    ],
+    "raw": "Where's the last one?",
+    "actually": "Where is the last one?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      429,
+      430
+    ],
+    "raw": "You could turn that tiny. How do you do that?",
+    "actually": "You can become that small? How do you do that?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      431,
+      431
+    ],
+    "raw": "Where's the last person?",
+    "actually": "Where is the last person?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      432,
+      432
+    ],
+    "raw": "I don't know. Actually,",
+    "actually": "I do not know. Actually—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      433,
+      433
+    ],
+    "raw": "we just never find her.",
+    "actually": "We never find her.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      434,
+      434
+    ],
+    "raw": "It's okay. We'll just leave her trapped.",
+    "actually": "It is fine; we will leave her trapped.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      435,
+      435
+    ],
+    "raw": "I can't find her.",
+    "actually": "I cannot find her.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      436,
+      437
+    ],
+    "raw": "Where is she? Wait, they were both hiding down there.",
+    "actually": "Where is she? Wait, they were both hiding down there.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      438,
+      438
+    ],
+    "raw": "Let's go back.",
+    "actually": "Let us go back.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      439,
+      440
+    ],
+    "raw": "You're so tiny. You're just looking right now.",
+    "actually": "You are very small. You are just looking now.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      441,
+      441
+    ],
+    "raw": "How was it? Yeah,",
+    "actually": "How was it? Yes.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      442,
+      442
+    ],
+    "raw": "that was funny.",
+    "actually": "That was funny.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      443,
+      444
+    ],
+    "raw": "I'm so scared of your short. You were so close to me so many times.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      443,
+      444
+    ],
+    "raw": "You were so close to me so many times.",
+    "actually": "You came very close to me many times.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      445,
+      446
+    ],
+    "raw": "No one expected me to be right now. What the hell?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      447,
+      448
+    ],
+    "raw": "Sacrifice. I did.",
+    "actually": "Sacrifice; I did.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      449,
+      449
+    ],
+    "raw": "You never saw me, right? I was so good.",
+    "actually": "You never saw me, correct? I did very well.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      450,
+      451
+    ],
+    "raw": "Yeah, I didn't see you. I only saw Callie.",
+    "actually": "I did not see you; I only saw Callie.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      452,
+      452
+    ],
+    "raw": "What you",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      453,
+      454
+    ],
+    "raw": "This is Oh, you can be hunter if you stand on here.",
+    "actually": "You can be a hunter by standing here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      455,
+      457
+    ],
+    "raw": "Yeah. Also, that's why there were only two people.",
+    "actually": "Yes; that is also why there were only two people.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      458,
+      458
+    ],
+    "raw": "Give it a try.",
+    "actually": "Try it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      459,
+      459
+    ],
+    "raw": "I want to hunt you.",
+    "actually": "I want to hunt you.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      460,
+      460
+    ],
+    "raw": "It's usually more.",
+    "actually": "There are usually more.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      461,
+      461
+    ],
+    "raw": "I don't know.",
+    "actually": "I do not know.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      462,
+      462
+    ],
+    "raw": "You want two?",
+    "actually": "Do you want two?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      463,
+      463
+    ],
+    "raw": "All right. Let's begin.",
+    "actually": "Let us begin.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      464,
+      465
+    ],
+    "raw": "Okay. Okay. Okay. Okay. small.",
+    "actually": "All right; small.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      466,
+      469
+    ],
+    "raw": "It's the tiniest size. 1.0. 1.0. Don't be any bigger. You'll lose out.",
+    "actually": "It is the smallest size: 1.0. Do not be any bigger, or you will lose out.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      470,
+      470
+    ],
+    "raw": "I'll be medium cuz I'm",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      471,
+      471
+    ],
+    "raw": "You'll lose out.",
+    "actually": "You will lose out.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      472,
+      473
+    ],
+    "raw": "You don't want to be hunter. You got to get off this.",
+    "actually": "If you do not want to be a hunter, you need to get off this.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      474,
+      474
+    ],
+    "raw": "That's okay. I'll be hunter.",
+    "actually": "That is fine; I will be a hunter.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      475,
+      476
+    ],
+    "raw": "Oh, okay. I guess the maze of Japanese. Oh,",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      477,
+      477
+    ],
+    "raw": "Japan again. Japanese.",
+    "actually": "Japan again; Japanese.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      478,
+      479
+    ],
+    "raw": "Why would you love [ __ ] Why would you hide?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      479,
+      479
+    ],
+    "raw": "Why would you hide?",
+    "actually": "Why would you hide?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      480,
+      480
+    ],
+    "raw": "Oh, wait. This map is",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      481,
+      483
+    ],
+    "raw": "How do you go down once you go up? Um Oh, move down. I'll control like that.",
+    "actually": "How do you descend after going up? Move down; I will control it that way.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      484,
+      484
+    ],
+    "raw": "Wait, how come How do you climb?",
+    "actually": "How do you climb?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      485,
+      485
+    ],
+    "raw": "To hide.",
+    "actually": "To hide.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      486,
+      486
+    ],
+    "raw": "How do you climb? What the",
+    "actually": "How do you climb? What—",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      487,
+      487
+    ],
+    "raw": "Why am I stuck in such a bad spot?",
+    "actually": "Why am I stuck in such a poor position?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      488,
+      488
+    ],
+    "raw": "Uh uh uh.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      489,
+      490
+    ],
+    "raw": "What the heck was that? is now trying.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      489,
+      489
+    ],
+    "raw": "What the heck was that?",
+    "actually": "What was that?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      491,
+      493
+    ],
+    "raw": "Oh, garbage cans. Garbage bags. The garbage bags was good before.",
+    "actually": "Garbage cans—garbage bags. The garbage bags worked well before.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      494,
+      494
+    ],
+    "raw": "It was not.",
+    "actually": "It was not.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      495,
+      495
+    ],
+    "raw": "Okay, I'm going down. Running. Running.",
+    "actually": "I am going down and running.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      496,
+      496
+    ],
+    "raw": "How do I pay?",
+    "actually": "How do I pay?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      497,
+      497
+    ],
+    "raw": "I'm going to go basic.",
+    "actually": "I will choose something basic.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      498,
+      499
+    ],
+    "raw": "Let's go. How do I change my garbage bump? Ah,",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      498,
+      498
+    ],
+    "raw": "Let's go.",
+    "actually": "Let us go.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      500,
+      502
+    ],
+    "raw": "It's too good. Oh, so I can't be too close to the thing.",
+    "actually": "It is too good. I cannot be too close to it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      503,
+      503
+    ],
+    "raw": "Well, no. You're worried too much.",
+    "actually": "No, you are worrying too much.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      504,
+      504
+    ],
+    "raw": "How do you go to second?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      505,
+      505
+    ],
+    "raw": "Map isn't that big.",
+    "actually": "The map is not very large.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      506,
+      507
+    ],
+    "raw": "Just keep on running. This map is not that big.",
+    "actually": "Keep running; this map is not very large.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      507,
+      508
+    ],
+    "raw": "I can hide.",
+    "actually": "I can hide.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      509,
+      511
+    ],
+    "raw": "Okay. You can make yourself look like garbage in here. Okay. Now, I just set myself up. Oh, no.",
+    "actually": "You can make yourself look like garbage here. I just set myself up; unfortunately.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      512,
+      512
+    ],
+    "raw": "I don't know how to do it, man.",
+    "actually": "I do not know how to do it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      513,
+      514
+    ],
+    "raw": "Go hide under things though. You still have 90 seconds.",
+    "actually": "Hide under things; you still have ninety seconds.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      515,
+      515
+    ],
+    "raw": "Ah, damn it.",
+    "actually": "How frustrating.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      516,
+      516
+    ],
+    "raw": "Go away. I will stay here.",
+    "actually": "Go away; I will stay here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      517,
+      518
+    ],
+    "raw": "No, my good will protect you. Boo. Right.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      519,
+      519
+    ],
+    "raw": "Okay. Whatever.",
+    "actually": "All right; whatever.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      520,
+      520
+    ],
+    "raw": "Change your color at least.",
+    "actually": "At least change your color.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      521,
+      522
+    ],
+    "raw": "I'm going I'm going to go at least in the other car.",
+    "actually": "I will at least go in the other car.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      523,
+      524
+    ],
+    "raw": "This doesn't look good. I want to make myself tires down here.",
+    "actually": "This does not look good. I want to make myself look like tires down here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      525,
+      525
+    ],
+    "raw": "I can't go inside here.",
+    "actually": "I cannot enter here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      526,
+      528
+    ],
+    "raw": "Here. Go anymore. It's okay.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      528,
+      528
+    ],
+    "raw": "It's okay.",
+    "actually": "It is fine.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      529,
+      529
+    ],
+    "raw": "I can't go inside.",
+    "actually": "I cannot enter.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      530,
+      534
+    ],
+    "raw": "I don't think I can. Cars have five wheels. It's fine. Cars have five wheels. In the middle. Yes. In the middle. Oh, there's five wheels in the middle. Oh god. Close. Close up.",
+    "actually": "I do not think I can. Cars have five wheels; it is fine. In the middle; yes, in the middle. There are five wheels in the middle. Close up.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      535,
+      535
+    ],
+    "raw": "I think this is she's hungry.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      536,
+      536
+    ],
+    "raw": "How do I fly flat down?",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      537,
+      538
+    ],
+    "raw": "One second. Flat down.",
+    "actually": "One moment; flat down.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      539,
+      540
+    ],
+    "raw": "How do I lie flat down? A. You know what? Fine. Ah, but it’s not a good but",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      539,
+      539
+    ],
+    "raw": "How do I lie flat down?",
+    "actually": "How do I lie flat?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      539,
+      539
+    ],
+    "raw": "A.",
+    "actually": "A.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      539,
+      540
+    ],
+    "raw": "You know what? Fine.",
+    "actually": "Fine.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      541,
+      541
+    ],
+    "raw": "I'm trying to get much bigger.",
+    "actually": "I am trying to become much bigger.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      542,
+      545
+    ],
+    "raw": "I think I just left another side. Other side. People are going to be looking and trying to match the shadow.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      543,
+      545
+    ],
+    "raw": "Other side. People are going to be looking and trying to match the shadow.",
+    "actually": "The other side; people will look and try to match the shadow.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      546,
+      547
+    ],
+    "raw": "I can't. My ex is on paint.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      548,
+      548
+    ],
+    "raw": "Am I painting?",
+    "actually": "Am I painting?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      549,
+      549
+    ],
+    "raw": "This is the small side.",
+    "actually": "This is the small side.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      550,
+      551
+    ],
+    "raw": "They're not looking from the back. Look. What's that?",
+    "actually": "They are not looking from behind. Look; what is that?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      552,
+      552
+    ],
+    "raw": "Is that good?",
+    "actually": "Is that good?",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      553,
+      553
+    ],
+    "raw": "You can make still clone. Oh my gosh.",
+    "actually": "LOW",
+    "status": "LOW",
+    "reason": "Uncertain or incomplete ASR; retain context; clear subspans separately recovered."
+  },
+  {
+    "source_segments": [
+      554,
+      554
+    ],
+    "raw": "There's all that missing.",
+    "actually": "All of that is missing.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      555,
+      556
+    ],
+    "raw": "Okay, I'm going to try I'm going to try canceling it.",
+    "actually": "I will try canceling it.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      557,
+      557
+    ],
+    "raw": "So good here.",
+    "actually": "It is very good here.",
+    "status": "SFT",
+    "reason": ""
+  },
+  {
+    "source_segments": [
+      558,
+      559
+    ],
+    "raw": "It's not working. I'm pressing X. Nothing's working.",
+    "actually": "It is not working. I am pressing X. Nothing is working.",
+    "status": "SFT",
+    "reason": ""
+  }
+]

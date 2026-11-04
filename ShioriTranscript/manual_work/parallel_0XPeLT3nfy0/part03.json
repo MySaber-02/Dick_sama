@@ -1,0 +1,681 @@
+[
+  {
+    "source_segments": [
+      431,
+      433
+    ],
+    "raw": "Go. All right, I’m going to go to the cathedral near IRyS-senpai’s base. Oh, okay, we’ll meet you there. Okay.",
+    "actually": "I will go to the cathedral near IRyS-senpai’s base. We will meet you there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      435,
+      438
+    ],
+    "raw": "Yeah, on the way. Wow, it’s so dark again. You B that when you capture when you capture humans they don’t do much.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      435,
+      436
+    ],
+    "raw": "Yeah, on the way. Wow, it’s so dark again.",
+    "actually": "We are on our way; it is very dark again.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      436,
+      438
+    ],
+    "raw": "When you capture when you capture humans, they don’t do much.",
+    "actually": "Captured humans do little.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      438,
+      445
+    ],
+    "raw": "Yeah it’s a bit sad you can’t breathe them right that’s what you wanted what well I want huh well I wanted to breathe them because like they’re so useless there’s something else to do so if I breath them then I could just like eat eat the what you know the the treat what what is it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      438,
+      442
+    ],
+    "raw": "Yeah, it’s a bit sad. You can’t breed them, right? That’s what you wanted? What? Well, I want, huh, well, I wanted to breed them because like they’re so useless.",
+    "actually": "It is unfortunate. You cannot breed them, correct? Is that what you wanted? I wanted to breed them because they are useless.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      446,
+      450
+    ],
+    "raw": "Yeah, anyway, come on, let’s go to Canada. All right, take us to Canada. I don’t know where Canada is, by the way. Let’s just follow the the yellow brick road or whatever.",
+    "actually": "Let us go to Canada. Take us there; I do not know where it is. Let us follow the yellow brick road.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      450,
+      451
+    ],
+    "raw": "I like very cute right on our way we’re picking up an egg so",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      451,
+      451
+    ],
+    "raw": "On our way we’re picking up an egg.",
+    "actually": "We are picking up an egg on the way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      451,
+      454
+    ],
+    "raw": "Oh, we should we should wait for them. I’m sorry. I like this road. No, it’s okay, it’s okay.",
+    "actually": "We should wait for them. Sorry; I like this road. It is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      455,
+      460
+    ],
+    "raw": "Continue. I I think we go this way towards the yellow leaves, right? Sh, um, hold up. I think we can go there. Yeah, if not we’ll be in an adventure. Our base by the yellow leaves? Yeah, it is. It’s a Canadia.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      455,
+      459
+    ],
+    "raw": "Continue. I I think we go this way towards the yellow leaves, right? Um, hold up. I think we can go there. Yeah, if not we’ll be in an adventure.",
+    "actually": "I think we go toward the yellow leaves, correct? Wait; I think we can go there. Otherwise, it will be an adventure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      460,
+      464
+    ],
+    "raw": "Oh, there’s another. There’s a lot of things under the way that I really want to pick up. Oh, yeah, pick them up. How can you pick it up when you’re still on your mount? Yeah, you can.",
+    "actually": "There are many things along the way that I want to collect. Collect them. Can you collect them while mounted? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      464,
+      467
+    ],
+    "raw": "Oh, what’s, help, Nitewing, I think I already have you. Do I already have you? I think I have.",
+    "actually": "Nitewing; I think I already have you. Do I? I think so.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      467,
+      471
+    ],
+    "raw": "If you guys want to catch anything, feel free to stop and catch stuff. I will have to learn how to again. It’s been a little while, it’s been a while.",
+    "actually": "Feel free to stop and catch anything. I will need to learn how again; it has been a while.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      472,
+      476
+    ],
+    "raw": "Oh, that thing is, I already got you. Never mind, I don’t need you. Base should be here somewhere. Um, it’ll be a little bit further.",
+    "actually": "I already have you, so I do not need you. The base should be somewhere here, a little farther.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      478,
+      483
+    ],
+    "raw": "But you know we’re on an adventure. I went to the base on like day two or something. Yeah, yeah, I had to run there past bandits and everything. Oh my gosh, what an adventure. I know. Oh no, and boys tried to kill me.",
+    "actually": "We are having an adventure. I went to the base around the second day and had to run past bandits. What an adventure. Boys also tried to kill me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      485,
+      488
+    ],
+    "raw": "Did you choose this area for the scenery? Yeah, originally I wanted to live where Mori-senpai lived, but I couldn’t find it.",
+    "actually": "Did you choose this area for its scenery? Yes; I originally wanted to live where Mori-senpai lived, but could not find it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      488,
+      492
+    ],
+    "raw": "Oh, she right by us. No, unless she’s she’s got a new base. She has two bases; one of them is in the red uh forest. Yeah, near a chapel, I think.",
+    "actually": "She is beside us, unless she has a new base. She has two bases; one is in the red forest, near a chapel, I think.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      492,
+      498
+    ],
+    "raw": "Is there nothing s where’s your house I don’t know uh let’s follow the trail is it across this bridge oh where’s um hold up I can’t see yeah it’s probably across the bridge yep it’s sleeping this is where the bandits were I just ran past them",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      493,
+      497
+    ],
+    "raw": "Where’s your house? I don’t know. Uh, let’s follow the trail. Is it across this bridge? Oh, where’s, um, hold up, I can’t see. Yeah, it’s probably across the bridge.",
+    "actually": "Where is your house? I do not know; let us follow the trail. Is it across this bridge? Wait, I cannot see. Probably across the bridge.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      497,
+      498
+    ],
+    "raw": "This is where the bandits were. I just ran past them.",
+    "actually": "This is where the bandits were; I ran past them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      500,
+      502
+    ],
+    "raw": "Wow, there they are. Look, they got a new pal stuck in the cage. Oh, save it. What? Okay, hi, what’s going on? Excuse me.",
+    "actually": "There they are; they have a new Pal in the cage. Save it. Hello, what is happening? Excuse me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      502,
+      504
+    ],
+    "raw": "Cana people oh man I can’t R ride during this hold can you guys distract them",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      503,
+      505
+    ],
+    "raw": "Oh, man, I can’t r ride during this. Hold, can you guys distract them? It’s okay, I got it. Thank you.",
+    "actually": "I cannot ride during this. Can you distract them? It is fine; I have it. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      505,
+      508
+    ],
+    "raw": "We can run them over. Run them. Did it. Oh, sorry, I didn’t mean to kill you. I guess we just go past them now.",
+    "actually": "We can run them over. Done; sorry, I did not intend to kill you. I suppose we go past them now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      509,
+      515
+    ],
+    "raw": "Okay, and then I think it’s over to the, hold up. Wait, don’t you have it on the map? Yeah, yeah, I don’t understand how the cursor works. It like it lags when I’m turning directions. I think it’s this way. I don’t know, we’ll figure it out.",
+    "actually": "I think it is over there; wait. Do you not have it on the map? I do not understand the cursor; it seems to lag when I change direction. I think it is this way; we will work it out.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      515,
+      522
+    ],
+    "raw": "Okay let’s just keep going in Canada yeah I’m I’m I’m I’m flying directly there so I’m at sh yeah why’ she lead us you’ll be like the guide in Moonlight I was catching I was catching a Cris that’s why",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      515,
+      517
+    ],
+    "raw": "Okay, let’s just keep going in Canada. Yeah, I’m I’m I’m I’m flying directly there.",
+    "actually": "Let us continue in Canada. I am flying directly there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      518,
+      520
+    ],
+    "raw": "Why don’t she lead us? You’ll be like the guide in moonlight.",
+    "actually": "Why does she not lead us? You will be a guide in the moonlight.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      522,
+      524
+    ],
+    "raw": "Oh we’ll find it there’s Jonathan jol Hogs oh look it’s a little thingy the",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      525,
+      529
+    ],
+    "raw": "Feel free to catch it. Catch it, it’s cute. I, we don’t have him. How do I, oh no, oh no, no, you got to get off the um, well, you have to press Q, but you might want to hit him a little.",
+    "actually": "Catch it; it is cute, and we do not have him. How do I? You need to get off the—press Q, but perhaps hit him a little first.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      529,
+      532
+    ],
+    "raw": "Here, Biboo, do you want me to give you the coordinates? Sure. 12 negative, or 12 and then minus 528. 12.",
+    "actually": "Biboo, would you like the coordinates? Yes. Twelve, negative—or twelve and minus five hundred twenty-eight. Twelve.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      532,
+      535
+    ],
+    "raw": "I have many more pures 12 do you need pures actually how many do I have oh okay I see I see just wants to toss him without hurting him first",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      533,
+      535
+    ],
+    "raw": "Actually, how many do I have? Oh, okay, I see, I see. Just wants to toss him without hurting him first.",
+    "actually": "How many do I have? I understand; they want to throw at him without hurting him first.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      536,
+      541
+    ],
+    "raw": "Okay, I can give you some power balls if you guys want. Okay, he’s, oh, he’s dead. Oh, oh, that’s okay, it’s okay. They’ll reincarnate into like an anime story. More, yeah, don’t worry, he’s just falling asleep and he can’t get up. Oops.",
+    "actually": "I can give you some power balls. He is dead; it is fine. They will reincarnate into an anime story. Do not worry; he is only asleep and cannot get up. Oops.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      541,
+      544
+    ],
+    "raw": "Okay, I think it’s south. It’s south, we got to go south. Okay, friends, oh, do you guys have Depresso yet?",
+    "actually": "I think it is south; we need to go south. Do you have Depresso yet?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      544,
+      546
+    ],
+    "raw": "Oh [ __ ] I was, oh [ __ ] sorry. Okay. Oh, man, he’s like shooting goo at me. Stop that.",
+    "actually": "I was—sorry. He is shooting goo at me; stop that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      548,
+      550
+    ],
+    "raw": "Depresso. That sounds disgusting, Shiori. It’s just a like Starbucks goo. Starbucks, it’s purple Starbucks goo.",
+    "actually": "Depresso. That sounds unpleasant, Shiori. It is like purple Starbucks goo.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      551,
+      554
+    ],
+    "raw": "Yeah, from someone who never tried Starbucks before. There it is. All right, yeah, welcome welcome to Inkwell.",
+    "actually": "That is coming from someone who has never tried Starbucks. There it is; welcome to Inkwell.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      555,
+      558
+    ],
+    "raw": "Home of the ink and multiple wells that don’t exist just yet. That’s a big house. It’s not done, but we’ll pretend that it’s done.",
+    "actually": "Home of ink and multiple wells that do not exist yet. That is a large house. It is unfinished, but we will pretend otherwise.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      558,
+      562
+    ],
+    "raw": "You have a big hole in your roof. Uh, that’s because the there was an attack. A comet fell, and then it became the moon. Oh, wow.",
+    "actually": "There is a large hole in your roof. There was an attack; a comet fell and became the moon.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      562,
+      566
+    ],
+    "raw": "Her house is nice and organized too. Oh, no, it’s not. I live like [ __ ]. This is this is my my very very pitiful bedroom with a little bit of territory right there to get off of my",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      563,
+      564
+    ],
+    "raw": "Oh, no, it’s not. I live like [ __ ].",
+    "actually": "No, it is not; I live like [ __ ].",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      564,
+      566
+    ],
+    "raw": "This is this is my my very very pitiful bedroom with a little bit of territory right there.",
+    "actually": "This is my very pitiful bedroom, with a little territory there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      567,
+      570
+    ],
+    "raw": "No, I’m going to ride Melpaca in here. It’s kind of rude. No, it’s big enough. It’s not that bad of a place. Look, you got three floors.",
+    "actually": "I will ride Melpaca in here. That is somewhat rude. It is large enough; this is not a bad place. It has three floors.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      570,
+      573
+    ],
+    "raw": "What what just got something in here you got like a nice balcony I’m waiting to unlock fences",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      571,
+      573
+    ],
+    "raw": "You got like a nice balcony. I’m waiting to unlock fences.",
+    "actually": "You have a nice balcony. I am waiting to unlock fences.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      574,
+      579
+    ],
+    "raw": "Okay, yeah, the bird doesn’t fit in the house. I’m sorry to hear that. And then you got an unfinished third floor, and then maybe another fourth floor, and then a fifth floor, and then a dead floor. Dead floor? A dead floor, yeah.",
+    "actually": "The bird does not fit inside the house. Sorry to hear that. There is an unfinished third floor, perhaps a fourth, then a fifth, then a dead floor. A dead floor? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      580,
+      585
+    ],
+    "raw": "And then in the back um there’s like an onon a yeah yeah get off no when when onon cuz oh my pals are hungry well stop being hungry hold up",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      583,
+      587
+    ],
+    "raw": "Oh, my pals are hungry. Well, stop being hungry. Hold up. Just stop being hungry. Yeah, come on. Did you run out of food already? What the freak, who’s been eating the food?",
+    "actually": "My Pals are hungry. Stop being hungry. Did you already run out of food? Who has been eating it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      588,
+      591
+    ],
+    "raw": "Nice view. Yeah, a lot of people eat the food. There’s been no one in here.",
+    "actually": "A nice view. Many people eat the food. Nobody has been here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      591,
+      594
+    ],
+    "raw": "Have you sneezed three times I don’t know it seems like moan is just about to have a 200 sneez next what",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      591,
+      592
+    ],
+    "raw": "Have you sneezed three times? I don’t know.",
+    "actually": "Have you sneezed three times? I do not know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      594,
+      602
+    ],
+    "raw": "I need people heat oh I got fluffy 199 wow oh yeah I should Mark this so I know where it is yeah Jones you need to wait no I I do need this in V didn’t mean to me cute there you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      596,
+      597
+    ],
+    "raw": "Oh, yeah, I should mark this so I know where it is.",
+    "actually": "I should mark this so I know its location.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      602,
+      606
+    ],
+    "raw": "Cute. There you go. My pals are hungry again. You want to help? Am I helping or making things worse? Oh, what are you doing? Helping.",
+    "actually": "Cute; there you are. My Pals are hungry again. Do you want to help? Am I helping or worsening things? What are you doing? Helping.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      606,
+      609
+    ],
+    "raw": "Oh, I mean it’s up to you. You can have some of the ore. They respawn anyway. Hey, my ore, stop. We get heavy though.",
+    "actually": "It is up to you; take some ore, since it respawns. Stop taking my ore. We will become heavy, though.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      609,
+      612
+    ],
+    "raw": "Hi, we will, yeah, it’s okay, you can teleport. Just not to my place, I guess. Yeah, I took them out.",
+    "actually": "We will; it is fine, you can teleport, though perhaps not to my place. I removed them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      612,
+      616
+    ],
+    "raw": "Do you guys want to do some bosses? Uh, sure. Are you going to? I’ll die. Yeah, well, I’ll take you to like the not so high level one.",
+    "actually": "Would you like to fight some bosses? Certainly. Are you going to? I will die. I will take you to a lower-level one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      617,
+      619
+    ],
+    "raw": "Should we bring our best Pals then? Oops. Help. Have some nice Pals, maybe. Where’s the base area?",
+    "actually": "Should we bring our best Pals? Help; perhaps bring some good Pals. Where is the base area?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      620,
+      625
+    ],
+    "raw": "Yeah, I’m going to have, let’s, we’re going to have to go back to base then for the time being, I think, to like swap out. Um, the nearest fast travel is actually going to be this way. Okay, okay, okay.",
+    "actually": "I think we need to return to base to switch them. The nearest fast travel is this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      626,
+      628
+    ],
+    "raw": "Following I wonder where the Fast Travel is here can take deep I think there’s one a small settlement",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      626,
+      626
+    ],
+    "raw": "Following. I wonder where the fast travel is here.",
+    "actually": "I am following. Where is the fast travel here?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      627,
+      630
+    ],
+    "raw": "I think there’s one, a small settlement, perhaps. Oh, yeah, there is, there is small settlement. That’s new.",
+    "actually": "I think there may be one at a small settlement. There is a small settlement; that is new.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      630,
+      633
+    ],
+    "raw": "Yeah, I was told not to capture any of them. Yes, leave them there. They captured all the merchants.",
+    "actually": "I was told not to capture them. Leave them there; they captured all the merchants.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      634,
+      638
+    ],
+    "raw": "Oh, yeah, if you if you need any bullets, you have to go to her base. Oh, she captured all of them already. Oh, man, I tried to capture a merchant but I killed.",
+    "actually": "If you need bullets, go to her base. She has already captured them all. I tried capturing a merchant, but killed the merchant.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      638,
+      641
+    ],
+    "raw": "Respawn either so just don’t capture any merchants maybe. Oh, well, at least they’re in her her base, but where is her base? Her base is pretty far away.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      638,
+      641
+    ],
+    "raw": "So just don’t capture any merchants, maybe. Oh, well, at least they’re in her her base, but where is her base? Her base is pretty far away.",
+    "actually": "Perhaps avoid capturing merchants. At least they are at her base, but where is it? Her base is far away.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      641,
+      647
+    ],
+    "raw": "Oh, dear. Oh, it’s over here. Um, oh, wait, I can’t fly there. Yeah, oh, well, yeah. Oh, there’s another one. We should go to a small settlement, and then seea we’re going to go without you. Yeah, yeah, that’s fine.",
+    "actually": "It is here. Wait, I cannot fly there. There is another one; we should go to a small settlement. We will go without you. That is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      648,
+      650
+    ],
+    "raw": "Wow, you’re just like my mother. What? Nothing, nothing. We love you. Okay, this this way. Okay, come on, Wolf.",
+    "actually": "You are just like my mother. What? Nothing; we love you. This way; come on, Wolf.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      434,
+      434
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      477,
+      477
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      484,
+      484
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      499,
+      499
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      547,
+      547
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

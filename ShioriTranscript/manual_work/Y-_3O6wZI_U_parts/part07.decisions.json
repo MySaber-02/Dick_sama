@@ -1,0 +1,614 @@
+[
+  {
+    "source_segments": [
+      1160,
+      1166
+    ],
+    "raw": "I mean, I could probably just get my own, but the thing is I just don't watch a lot of things. When I'm relaxing, what I'm doing is uh I pace to take care of my health and then I watch let's plays as background sound, better than anything else.",
+    "actually": "I could get my own account, but do not watch much. To relax, I pace for my health and use gaming videos as background audio, which I prefer to other things.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1167,
+      1171
+    ],
+    "raw": "Oh yeah, I can't do the VPN stuff then for uh home network stuff. I am nowhere close. Girl under P? No, I haven't seen that one.",
+    "actually": "I cannot use the VPN or home-network approach because I am far away. I have not seen Girl under P.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1172,
+      1174
+    ],
+    "raw": "Uh-oh. Put this here. The tree trunks are getting it on.",
+    "actually": "This goes here. The tree trunks are getting together.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1175,
+      1181
+    ],
+    "raw": "Nice. Wait, did I do this right? Yeah, wait, there's different shapes of these. What the fudge? Does it matter? All right, I'll fix it. I just watched CJU Games. It's really just background sound though, to be honest. I like his content though.",
+    "actually": "Did I do this correctly? These have different shapes; does that matter? I will fix it. I watch CJU Games mainly as background audio, though I like his content.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1182,
+      1186
+    ],
+    "raw": "Then this one. Okay, so now this looks uh correctamundo. Ergo Proxy.",
+    "actually": "This one; it looks correct now. Ergo Proxy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1183,
+      1183
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1186,
+      1190
+    ],
+    "raw": "That's not the the lesbian one, right? There's this uh one thing that Kojima really likes, and my friend also really likes.",
+    "actually": "That is not the lesbian series, correct? There is one that Kojima and my friend like.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1190,
+      1196
+    ],
+    "raw": "Uh-oh, one of it came off. Oopsies. Where was this meant to be? Like here? Uh-oh, trying to not get it out. Okay, now this faces this way. All right, tree trunks all set.",
+    "actually": "One part came off. Where did it belong? Here? I am trying to keep it in place. It faces this way now, and the tree trunks are assembled.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1193,
+      1193
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1196,
+      1198
+    ],
+    "raw": "Oh, that's Lycoris one. Okay, I don't know what Ergo one is then.",
+    "actually": "That is the Lycoris one. I do not know what Ergo is, then.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1199,
+      1200
+    ],
+    "raw": "K can I go white-hair demon",
+    "reason": "The opening question/name boundary is unclear; do not infer a transformation action.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1200,
+      1208
+    ],
+    "raw": "No comment. Probably not. I've already already retained my sanity. I don't need to go full white-haired Kaneki Ken here. How long have I used? Uh, three hours, maybe. I don't know. It's my first Lego set. It's my first time also owning Legos.",
+    "actually": "No comment; probably not. I have retained my sanity and do not need to become like white-haired Kaneki Ken. How much time has this taken? Perhaps three hours. This is my first Lego set and my first time owning Lego.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1207,
+      1207
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1208,
+      1209
+    ],
+    "raw": "Thing just here. Ah.",
+    "actually": "This goes here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1210,
+      1216
+    ],
+    "raw": "Would I do another one? Yeah, I can. My only issue is like I have too much [ __ ]. I have too much junk, guys. I'm probably going to do another donation stream. Like whatever I can donate I'll just show it on here and then I can't backtrack cuz I've already shown it.",
+    "actually": "I could build another one, but have too much clutter. I will probably do another donation stream, showing what I can donate so I cannot change my mind afterward.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1217,
+      1223
+    ],
+    "raw": "Oh no, I broke something. Oh well, put it back again. Uh-oh. That feeling when you break something. Is it this way or was it this way? I think it's this way. Probably this way.",
+    "actually": "I broke something; I will put it back. Is it this way or that way? I think it is this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1224,
+      1224
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1225,
+      1229
+    ],
+    "raw": "But then my frog's facing the wrong direction. Did I do it the wrong way? I'm going to assume I did it the wrong way. Okay, now I have to redo it then. Gosh, I need more text adventures.",
+    "actually": "My frog faces the wrong direction, so I assume I assembled it incorrectly and must redo it. I need more text adventures.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1229,
+      1234
+    ],
+    "raw": "Would I donate anything related to him? No, no. You know how long I waited to get something translated? A long time. Now I got to get them to do more translations. All right, this is all set now.",
+    "actually": "I would not donate anything related to him. I waited a long time for a translation and need them to make more. This is ready now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1235,
+      1239
+    ],
+    "raw": "Now I need to do something that uh my cats had to play with. This thing. I caught Pepper trying to chew the crap out of this.",
+    "actually": "I need this item that my cats played with. I caught Pepper chewing it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1239,
+      1241
+    ],
+    "raw": "Am I just doing random crap? It's like I'm just wrapping it around. Weird.",
+    "actually": "Am I doing random things? I am wrapping it around, which is strange.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1241,
+      1244
+    ],
+    "raw": "what guess I what did you choose some piece no",
+    "reason": "ASR phrase and incomplete question are not reliably interpretable.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1244,
+      1248
+    ],
+    "raw": "That's probably normal, right there. All right, right, so I put this over here. Oh crap, it's so fragile. It easily like breaks. I want something with good romance where I get self-insert.",
+    "actually": "That seems normal. I put this here, but it is fragile and breaks easily. I want a good romance in which I can imagine myself.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1249,
+      1254
+    ],
+    "raw": "Guys, I finished the uh the Honor Bound one. I felt so bad. I felt so bad. I was so. I I refused the promotion in the thing and they were like, why did you refuse a promotion? It's like I felt bad. I still ended up with the character though.",
+    "actually": "I finished Honor Bound and felt bad. I refused a promotion because I felt bad, and they asked why. I still ended up with the character.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1255,
+      1258
+    ],
+    "raw": "Uh, revisiting old ones, I mean I don't mind doing it, but like I also want the sequel. I want the sequel to come out.",
+    "actually": "I do not mind revisiting older ones, but want the sequel to be released.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1259,
+      1259
+    ],
+    "raw": "they like from B",
+    "reason": "Unclear transition before character-name discussion.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1259,
+      1265
+    ],
+    "raw": "Gabriel. I went for Mousey at first, cuz you already know Mousey, but Gabriel is so much nicer. No, I got a good ending, but I got like I felt bad for someone who technically got a not great ending. You like Mouse?",
+    "actually": "I initially chose Mousey, whom you already know, but Gabriel is much kinder. I got a good ending but felt bad for someone whose ending was less good. Do you like Mouse?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1264,
+      1265
+    ],
+    "raw": "Yeah, Mouse is a jiggery",
+    "status": "LOW",
+    "reason": "The descriptive word jiggery is unclear ASR; do not invent a personality trait."
+  },
+  {
+    "source_segments": [
+      1265,
+      1265
+    ],
+    "raw": "I mean they mean well.",
+    "actually": "They mean well.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1266,
+      1269
+    ],
+    "raw": "Oh, if you do the FBI route, oh, tell me how it goes. That'll be interesting. You know, you can actually die multiple times.",
+    "actually": "Tell me how the FBI route goes; that will be interesting. You can die multiple times.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1269,
+      1275
+    ],
+    "raw": "Uh, trying to connect this. Wait, was it supposed to have an end piece? Oh shoot, I think my cat chewed it. Well, I guess it doesn't matter. If this was supposed to have another hole at the end piece, my cat chewed it.",
+    "actually": "I am trying to connect this. Should it have an end piece? I think my cat chewed it. I suppose it does not matter; if there should be another hole at the end, my cat chewed it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1276,
+      1276
+    ],
+    "raw": "All right, let's go.",
+    "actually": "Let us proceed.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1276,
+      1277
+    ],
+    "raw": "cat to boy",
+    "reason": "Unclear ASR noun phrase; no inferred toy or person.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1277,
+      1281
+    ],
+    "raw": "Good enough. Good enough. There you go. I say that's good enough. It's just uh it's just meant to look like vines, so it's not a big deal, I don't think.",
+    "actually": "That is sufficient. It is meant to resemble vines, so I do not think the difference matters.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1282,
+      1285
+    ],
+    "raw": "This one is a sakura one. Oh, you got a giant Magikarp? Nice. Oh, you can't play it? Oh, why not?",
+    "actually": "This is a cherry blossom set. You got a giant Magikarp? Good. Why can you not play it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1286,
+      1291
+    ],
+    "raw": "I played it so many times, but then there's there comes a point where it gets really tedious having to buy like, oh, I want this gun, I want this. Like I don't really want to focus on guns, to be honest.",
+    "actually": "I played it often, but buying different guns became tedious. I do not want to focus on guns.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1291,
+      1293
+    ],
+    "raw": "I go back to Norn9. I still have the game. I haven't played it though.",
+    "actually": "I could return to Norn9; I own it but have not played it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1293,
+      1293
+    ],
+    "raw": "I was trying to finish magam mode",
+    "reason": "Unclear title or mode-name ASR; do not infer a particular game.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1293,
+      1299
+    ],
+    "raw": "And then I got pissed off. I do not want to level up ten times. I already got the strong bond ending, I'm pretty sure, cuz I I didn't romance hard enough. I wanted it slow burn.",
+    "actually": "I became frustrated because I do not want to level up ten times. I think I got the strong-bond ending because I did not pursue romance intensely; I wanted a slow romance.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1299,
+      1299
+    ],
+    "raw": "need of H",
+    "reason": "Unclear short phrase before page-navigation question.",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1299,
+      1302
+    ],
+    "raw": "Uh-oh, how do I get to the next page? Feet, open it. Oh, here it is.",
+    "actually": "How do I turn to the next page? Feet, open it. Here it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1302,
+      1307
+    ],
+    "raw": "Okay, now I need another horn, and then I need a what is this piece? I don't know what piece that is. I'm on step 53 and I'm missing that. It looks like it's an arm. I don't have it.",
+    "actually": "I need another horn and a piece I cannot identify. I am on step fifty-three and missing what looks like an arm.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1307,
+      1314
+    ],
+    "raw": "Could it be? I don't even know what I'm supposed to do with this. Okay, well, at least in the meantime I'm supposed to put this horn at the bottom here. Oh, but it can't. Uh-oh.",
+    "actually": "I do not know what to do with this. Meanwhile, I should put the horn at the bottom here, but it does not fit.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1315,
+      1324
+    ],
+    "raw": "Yoh, I think I'm missing some stuff. I assume I put this here somewhere. Hold up. Oh, maybe I missed a piece. That wouldn't make sense at all though. I didn't get to use this piece. I don't know what I'm meant to do with it. I'm trying to flip back. Let me just run with the gloves.",
+    "actually": "I think some parts are missing. I assume this goes here. Perhaps I missed a piece, though that would not make sense. I have not used this piece and do not know what to do with it. I am trying to turn back with the gloves.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1317,
+      1317
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1319,
+      1319
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1325,
+      1327
+    ],
+    "raw": "They used to be elephant. That makes sense. It looks like it.",
+    "actually": "They used to be elephants; that makes sense, and they resemble them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1328,
+      1331
+    ],
+    "raw": "Okay, okay, so these these little things are meant to be at the sides from what it looks like. That piece is for later.",
+    "actually": "These small pieces appear intended for the sides, and that piece is for later.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1332,
+      1332
+    ],
+    "raw": "think St pieces though",
+    "status": "LOW",
+    "reason": "Unclear fragment before the next complete assembly instruction."
+  },
+  {
+    "source_segments": [
+      1332,
+      1334
+    ],
+    "raw": "Let me use these pieces. I think they're meant to be at the the bottom side, like over here.",
+    "actually": "Let me use these pieces; I think they go at the bottom side here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1335,
+      1335
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1336,
+      1336
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1337,
+      1340
+    ],
+    "raw": "She's my girl. Dear, oh dear me, I am lost again. See, it's probably the other side then.",
+    "actually": "She is my girl. I am confused again; it is probably the other side.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1341,
+      1341
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1343,
+      1343
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1342,
+      1344
+    ],
+    "raw": "She's my girl. Okay, I did it.",
+    "actually": "She is my girl. I did it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1344,
+      1350
+    ],
+    "raw": "This one now. Oh, does it have raunchy lyrics? I didn't pay attention. You know it's a creepy song, the uh Baby, It's Snowing Outside. That's a song about someone who refuses to let you leave their home.",
+    "actually": "This one now. Does it have raunchy lyrics? I was not listening. Baby, It’s Snowing Outside is a disturbing song about someone refusing to let you leave their home.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1351,
+      1355
+    ],
+    "raw": "Okay, so that's done. Now this I need to figure out. She's my girl. This one should have a large piece.",
+    "actually": "That is done; I need to figure this out. She is my girl. This should have a large piece.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1353,
+      1353
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1356,
+      1356
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1357,
+      1362
+    ],
+    "raw": "Here, maybe like this. Oh, I guess that would look weird, but it makes sense. But then I messed up something. Oh, the tree fell. Frog, where are you? This way. Uh-oh, everything's falling apart now.",
+    "actually": "Perhaps like this; it looks strange but makes sense. I made a mistake and the tree fell. Where is the frog? This way; everything is falling apart.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1363,
+      1363
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1364,
+      1368
+    ],
+    "raw": "Uh-oh, everything's falling apart now. Okay, just putting this on here. Oh dear, I don't know what piece this meant to be in now. I'm guessing. I'm guessing.",
+    "actually": "Everything is falling apart. I am putting this here, but do not know where this piece belongs. I am guessing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1369,
+      1373
+    ],
+    "raw": "I hate it when you're like trying to fix something but it just keeps messing up. Wee, stay. Hey, I hope it stays.",
+    "actually": "I dislike trying to fix something that keeps going wrong. Stay there; I hope it stays.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1372,
+      1372
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1374,
+      1374
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  },
+  {
+    "source_segments": [
+      1375,
+      1379
+    ],
+    "raw": "Sense for that to be there though, and then I would probably put this piece. Oh, that makes no sense still. Oh fudge, everything's fallen.",
+    "actually": "It makes sense for that to be there, and I would put this piece here. That still makes no sense; everything has fallen.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1380,
+      1380
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music caption."
+  }
+]

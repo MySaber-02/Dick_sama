@@ -1,0 +1,932 @@
+{
+  "status": "explicit_manual_decisions_not_applied",
+  "source_range_read": [
+    585,
+    1760
+  ],
+  "decisions": [
+    {
+      "source_segments": [
+        585,
+        586
+      ],
+      "replace_sft_raw": [
+        "no you're just here to stroke my ego lovingly"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "No, you're just here to stroke my ego lovingly.",
+          "actually": "No. You are just here to lovingly stroke my ego.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial No."
+    },
+    {
+      "source_segments": [
+        596,
+        597,
+        598,
+        599
+      ],
+      "replace_sft_raw": [
+        "it's okay look your we're all in the climb"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "It's okay.",
+          "actually": "It is okay.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Look your",
+          "status": "LOW",
+          "reason": "Unfinished phrase; do not silently change your to you are."
+        },
+        {
+          "raw": "We're all in the climb.",
+          "status": "LOW",
+          "reason": "Meaning of climb in this phrase is unclear."
+        }
+      ],
+      "reason": "Keep clear reassurance, isolate unresolved source parts."
+    },
+    {
+      "source_segments": [
+        601,
+        602
+      ],
+      "replace_sft_raw": [],
+      "remove_low_raw": [
+        "I would never keep having to whistle"
+      ],
+      "records": [
+        {
+          "raw": "I would never keep having to whistle.",
+          "actually": "I would never have to keep whistling.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Grammatical oddity alone does not warrant exclusion; clause meaning survives."
+    },
+    {
+      "source_segments": [
+        604,
+        605,
+        606
+      ],
+      "replace_sft_raw": [
+        "I can't believe wait okay okay okay I can press"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I can't believe.",
+          "actually": "I cannot believe it.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Wait. Okay. Okay. Okay.",
+          "actually": "Wait. Okay.",
+          "status": "SFT"
+        },
+        {
+          "raw": "I can press.",
+          "status": "LOW",
+          "reason": "Unfinished action with no object; do not invent it."
+        }
+      ],
+      "reason": "Separate incomplete action from preceding reactions."
+    },
+    {
+      "source_segments": [
+        615,
+        616,
+        617,
+        618
+      ],
+      "replace_sft_raw": [
+        "she missed she missed she missed she missed she missed she missed she missed she missed"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "She missed. She missed. She missed. She missed. She missed. She missed. She missed.",
+          "actually": "She missed.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Source has exactly seven occurrences; remove one invented occurrence, keep seven real ones."
+    },
+    {
+      "source_segments": [
+        637,
+        638,
+        639
+      ],
+      "replace_sft_raw": [
+        "I'm not here after you I'm not here"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I'm not here.",
+          "actually": "I am not here.",
+          "status": "SFT"
+        },
+        {
+          "raw": "After you.",
+          "actually": "After you.",
+          "status": "SFT"
+        },
+        {
+          "raw": "I'm not here.",
+          "actually": "I am not here.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore middle speech act and retain both repeated utterances."
+    },
+    {
+      "source_segments": [
+        672,
+        673,
+        674
+      ],
+      "replace_sft_raw": [
+        "thank you that's pretty funny with me"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Thank you.",
+          "actually": "Thank you.",
+          "status": "SFT"
+        },
+        {
+          "raw": "That's pretty funny.",
+          "actually": "That is rather funny.",
+          "status": "SFT"
+        },
+        {
+          "raw": "With me.",
+          "status": "LOW",
+          "reason": "Isolated phrase has no reliable interrogative intent."
+        }
+      ],
+      "reason": "Do not turn fragment into question."
+    },
+    {
+      "source_segments": [
+        686,
+        687,
+        688
+      ],
+      "replace_sft_raw": [
+        "yeah hunter block here they come"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Yeah.",
+          "actually": "Yes.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Hunter block.",
+          "status": "LOW",
+          "reason": "Unclear noun phrase; do not invent hunter is blocked."
+        },
+        {
+          "raw": "Here they come.",
+          "actually": "Here they come.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Split uncertain middle phrase."
+    },
+    {
+      "source_segments": [
+        710,
+        711,
+        712
+      ],
+      "replace_sft_raw": [
+        "Okay, if this is the max we can go, why not?"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Okay, if this is if this is the max we can go. Why not?",
+          "actually": "If this is the maximum we can go, why not?",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore repeated sentence opening from source710."
+    },
+    {
+      "source_segments": [
+        724,
+        725,
+        726
+      ],
+      "replace_sft_raw": [
+        "How are you guys getting under things? Vertical. Vertical."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "How How are you guys like getting under things?",
+          "actually": "How are you getting underneath things?",
+          "status": "SFT"
+        },
+        {
+          "raw": "Vertical. Vertical.",
+          "actually": "Vertical.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore genuine repeated How and like filler."
+    },
+    {
+      "source_segments": [
+        758,
+        759
+      ],
+      "replace_sft_raw": [
+        "I already survived. I deserve to die for once."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I already survived. I deserve to die for once, you know.",
+          "actually": "I already survived. I deserve to die for once.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore filler in raw."
+    },
+    {
+      "source_segments": [
+        760,
+        761
+      ],
+      "replace_sft_raw": [
+        "You deserve it. Yeah. Thank you."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Yeah. Yeah. You deserve it. Yeah. Thank you.",
+          "actually": "Yes. You deserve it. Thank you.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial real Yeahs."
+    },
+    {
+      "source_segments": [
+        762,
+        763
+      ],
+      "replace_sft_raw": [
+        "Metallics. Turn up the roughness."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Metallics. Turn up the roughness.",
+          "actually": "Metallics. Increase the roughness.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Do not change bare Metallics into a command to increase metallic setting."
+    },
+    {
+      "source_segments": [
+        796
+      ],
+      "replace_sft_raw": [],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "No [ __ ].",
+          "actually": "No [ __ ].",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Missing source mask; exhaustive raw search found no instance in staging or LOW."
+    },
+    {
+      "source_segments": [
+        801
+      ],
+      "replace_sft_raw": [
+        "to find yourself"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "To find yourself.",
+          "status": "LOW",
+          "reason": "Unfinished purpose phrase; no imperative or necessity is stated."
+        }
+      ],
+      "reason": "Do not infer You need to find yourself."
+    },
+    {
+      "source_segments": [
+        813,
+        814,
+        815
+      ],
+      "replace_sft_raw": [
+        "I'm so funny from the right angle"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I'm so funny.",
+          "actually": "I am very funny.",
+          "status": "SFT"
+        },
+        {
+          "raw": "From the right angle.",
+          "actually": "From the right angle.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Source has sentence break after funny; retain separate viewpoint fragment. Next existing record supplies repeated From the right angle and assessment."
+    },
+    {
+      "source_segments": [
+        837,
+        838,
+        839,
+        840
+      ],
+      "replace_sft_raw": [
+        "yeah wow GG my god",
+        "my god GG"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Yeah. Wow. GG. My god.",
+          "actually": "Yes. Wow. GG. My god.",
+          "status": "SFT"
+        },
+        {
+          "raw": "My god. GG.",
+          "actually": "My god. GG.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Do not expand uncertain GG into Good game."
+    },
+    {
+      "source_segments": [
+        876,
+        877
+      ],
+      "replace_sft_raw": [
+        "if they don't find me I'm going to laugh so hard"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "If they don't find me, I'm going to laugh so hard.",
+          "actually": "If they do not find me, I will laugh very hard.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Preserve meaningful degree."
+    },
+    {
+      "source_segments": [
+        904,
+        905,
+        906
+      ],
+      "replace_sft_raw": [
+        "you are our last hope in case we get found out"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "[ __ ] you are our last hope in case we get found out.",
+          "actually": "You are our last hope if we are discovered.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore leading original profanity mask. Existing fifty-second clause remains separate."
+    },
+    {
+      "source_segments": [
+        961,
+        962,
+        963
+      ],
+      "replace_sft_raw": [
+        "you're the only one I got you're the only one I legit got infection"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "You're the only one I got.",
+          "actually": "You are the only one I caught.",
+          "status": "SFT"
+        },
+        {
+          "raw": "You're the only one I legit got.",
+          "actually": "You are the only one I actually caught.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Infection.",
+          "status": "LOW",
+          "reason": "Detached mode word has unclear link to preceding statement."
+        }
+      ],
+      "reason": "Remove invented for Infection relationship."
+    },
+    {
+      "source_segments": [
+        1006
+      ],
+      "replace_sft_raw": [
+        "can't draw a horn though"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Can't draw a horn though.",
+          "actually": "I cannot draw a horn, though.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Though is not either; next speaker says Me neither."
+    },
+    {
+      "source_segments": [
+        1048,
+        1049
+      ],
+      "replace_sft_raw": [
+        "no virus is a cactus again right"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "No, virus is a cactus again, right?",
+          "actually": "No, virus is a cactus again, correct?",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Do not add the and force disease interpretation; retain source token pending name identification."
+    },
+    {
+      "source_segments": [
+        1304,
+        1305
+      ],
+      "replace_sft_raw": [
+        "if you if you if you are if you are a hunter"
+      ],
+      "remove_low_raw": [
+        "move calls"
+      ],
+      "records": [
+        {
+          "raw": "If you if you if you are if you are a hunter, move calls.",
+          "actually": "If you are a hunter, switch voice calls.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Complete command supported by surrounding voice-channel instructions; restore main clause."
+    },
+    {
+      "source_segments": [
+        1365,
+        1366
+      ],
+      "replace_sft_raw": [
+        "okay a little tougher for him"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Okay. A little tougher for him.",
+          "actually": "Okay. A little harder for him.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Avoid adding future causal relation."
+    },
+    {
+      "source_segments": [
+        1407
+      ],
+      "replace_sft_raw": [
+        "Ah, no. Can I not turn to the side?"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Ah, no. Can I not be turning the side?",
+          "actually": "Can I not turn to the side?",
+          "status": "SFT"
+        }
+      ],
+      "reason": "raw must retain source grammar; actually may fix grammar."
+    },
+    {
+      "source_segments": [
+        1473,
+        1474,
+        1475,
+        1476
+      ],
+      "replace_sft_raw": [],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "We're still in infected mode, right?",
+          "actually": "We are still in infected mode, correct?",
+          "status": "SFT"
+        },
+        {
+          "raw": "Yeah. Yeah.",
+          "actually": "Yes.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Don't reveal too much about where you are.",
+          "actually": "Do not reveal too much about your location.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Whole-corpus substring searches found neither infected mode nor reveal too much; restore clear missing exchange."
+    },
+    {
+      "source_segments": [
+        1595,
+        1596
+      ],
+      "replace_sft_raw": [
+        "tiny oh yeah let's try country"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Tiny. Oh yeah. Let's try Country.",
+          "actually": "Tiny. Let us try Country.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Do not turn statement Tiny into a question."
+    },
+    {
+      "source_segments": [
+        1624,
+        1625
+      ],
+      "replace_sft_raw": [
+        "meadows meadows"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Meadows. Meadows. Meadows.",
+          "actually": "Meadows.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Source1624 has two Meadows and1625 one; retain all three."
+    },
+    {
+      "source_segments": [
+        1695
+      ],
+      "replace_sft_raw": [
+        "I'm so cooked"
+      ],
+      "remove_low_raw": [
+        "I so cooked"
+      ],
+      "records": [
+        {
+          "raw": "I so cooked. I'm so cooked.",
+          "actually": "I am in trouble.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Preserve grammatical error and real repeated thought; first clause must not be LOW solely for missing am."
+    },
+    {
+      "source_segments": [
+        1697
+      ],
+      "replace_sft_raw": [],
+      "remove_low_raw": [
+        "I mean it seems like it already"
+      ],
+      "records": [
+        {
+          "raw": "I mean, it seems like it already.",
+          "actually": "It already seems that way.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Standalone elliptical assessment is understandable; complete thought need not be LOW for absent subject/object."
+    },
+    {
+      "source_segments": [
+        1709,
+        1710
+      ],
+      "replace_sft_raw": [
+        "don't try anything funny"
+      ],
+      "remove_low_raw": [
+        "said don't try anything funny"
+      ],
+      "records": [
+        {
+          "raw": "Said don't try anything funny. Don't try anything funny.",
+          "actually": "Do not try anything strange.",
+          "status": "SFT"
+        },
+        {
+          "raw": "You're trying to",
+          "status": "LOW",
+          "reason": "Interrupted clause lacks subsequent action."
+        }
+      ],
+      "reason": "Retain both repeated commands and leading broken Said as raw grammar; do not exclude full recoverable command."
+    },
+    {
+      "source_segments": [
+        779,
+        780,
+        781
+      ],
+      "replace_sft_raw": [
+        "you got to do it from the top"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "You got to do it from the top. You got to do it from the top.",
+          "actually": "You need to do it from the top.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Two genuine repeated commands in source; current raw only one while actually repeats twice. Existing LOW this is what remains separately."
+    },
+    {
+      "source_segments": [
+        695,
+        696
+      ],
+      "replace_sft_raw": [
+        "The name and the password of the lobby are in the chat."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "The name and the password of the lobby is in the the chat.",
+          "actually": "The lobby name and password are in the chat.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "raw had grammar corrected is→are and real the repetition removed. Neutral can fix both."
+    },
+    {
+      "source_segments": [
+        717,
+        718
+      ],
+      "replace_sft_raw": [
+        "I think I'm good. I think my pose is good here, just like this."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I think I'm good. So, I think my pose is good here. Just like this.",
+          "actually": "I think I am ready. I think my pose is good here, like this.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore spoken So in raw."
+    },
+    {
+      "source_segments": [
+        846
+      ],
+      "replace_sft_raw": [
+        "I'm around"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "I I'm around.",
+          "actually": "I am nearby.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial real I repeat."
+    },
+    {
+      "source_segments": [
+        974
+      ],
+      "replace_sft_raw": [
+        "Oh, it looks like we're all the hunters."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Oh, it looks like we we're all the hunters.",
+          "actually": "It looks like we are all hunters.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore raw false start we we’re."
+    },
+    {
+      "source_segments": [
+        997
+      ],
+      "replace_sft_raw": [
+        "You got to do like a wink."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "You You got to do like a wink.",
+          "actually": "You need to draw a wink.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial You repetition; drawing context established preceding eyes question."
+    },
+    {
+      "source_segments": [
+        999,
+        1000,
+        1001,
+        1002
+      ],
+      "replace_sft_raw": [
+        "Yeah, you got to do like a smile, and then you got to do feathers. Except that's a lot of work, so I'm just going to make you black."
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Yeah. You got to do like a smile. And then you got to do um feathers. Except that's a lot of work. So I'm just going to make you black.",
+          "actually": "You need to draw a smile and feathers, but that is much work, so I will make you black.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore real um filler in raw."
+    },
+    {
+      "source_segments": [
+        1042,
+        1043
+      ],
+      "replace_sft_raw": [
+        "yeah and and you look shiny shiny"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Yeah. And and you look shiny. Yeah, shiny.",
+          "actually": "Yes, you look shiny.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore actual second Yeah between shiny utterances."
+    },
+    {
+      "source_segments": [
+        1116,
+        1117
+      ],
+      "replace_sft_raw": [
+        "you can do you're so good you can do this"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "You You can do. You're so good. You can do this.",
+          "actually": "You can do it. You are very good. You can do this.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore real repeated You in raw."
+    },
+    {
+      "source_segments": [
+        1182,
+        1183,
+        1184
+      ],
+      "replace_sft_raw": [
+        "just make sure to leave the voice chat when you become a hunter then I think"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Uh just make sure to leave the voice chat when you become a hunter then. I think.",
+          "actually": "Make sure to leave the voice chat when you become a hunter, I think.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial Uh filler."
+    },
+    {
+      "source_segments": [
+        1330
+      ],
+      "replace_sft_raw": [
+        "someone walked right over me"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Uh, someone walked right over me.",
+          "actually": "Someone walked right over me.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore initial Uh filler."
+    },
+    {
+      "source_segments": [
+        1385,
+        1386
+      ],
+      "replace_sft_raw": [
+        "Hog B you weren't muted in game by the way"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Uh, Hog B, you weren't muted in game, by the way.",
+          "actually": "Hog B, you were not muted in the game.",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Restore source Uh currently present only in actually."
+    },
+    {
+      "source_segments": [
+        1402,
+        1403
+      ],
+      "replace_sft_raw": [
+        "Wait, Hunter is in channel one now, right?"
+      ],
+      "remove_low_raw": [],
+      "records": [
+        {
+          "raw": "Wait, Hunter is channel one now, right?",
+          "actually": "Wait, the hunter is in channel one now, correct?",
+          "status": "SFT"
+        }
+      ],
+      "reason": "Raw had grammatical in inserted. Only actually may add grammar word."
+    },
+    {
+      "source_segments": [
+        1434,
+        1435,
+        1436
+      ],
+      "replace_sft_raw": [
+        "I want to turn my body."
+      ],
+      "remove_low_raw": [
+        "without moving room"
+      ],
+      "records": [
+        {
+          "raw": "I want to turn my body.",
+          "actually": "I want to rotate my body.",
+          "status": "SFT"
+        },
+        {
+          "raw": "How do I turn my body without moving room?",
+          "status": "LOW",
+          "reason": "Question is clear up to moving; room is an ambiguous ASR tail. Keep complete source question in LOW rather than silently drop the second question."
+        }
+      ],
+      "reason": "Raw must retain full original question and odd room word; neutral may omit uncertain trailing room only if it is accepted as ASR residue. Otherwise split question tail to LOW and retain literal raw there. Canonical owner must choose based on source context."
+    }
+  ],
+  "coverage_warning": "Not a full per-source-subspan coverage proof. Exact replace_sft_raw targets refer to the initial staging snapshot; canonical owner must reconcile already-applied decisions before application."
+}

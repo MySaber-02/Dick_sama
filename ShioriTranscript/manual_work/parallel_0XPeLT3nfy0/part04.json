@@ -1,0 +1,679 @@
+[
+  {
+    "source_segments": [
+      651,
+      653
+    ],
+    "raw": "It’s time to go. Right this way. This, I’m just following who moo.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      651,
+      653
+    ],
+    "raw": "It’s time to go. Right this way.",
+    "actually": "It is time to go; this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      653,
+      659
+    ],
+    "raw": "Oh, gosh, I’m too fast. I don’t know where you are now. I think she’s right here, she’s right here. Oh, is she okay? Yeah, I can’t see you, though. Oh, no, I can see you, you’re just really really small.",
+    "actually": "I am too fast and do not know where you are. I think she is here. Is she all right? I cannot see you—actually, I can; you are very small.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      659,
+      664
+    ],
+    "raw": "No, you’re actually like inside your pal. Hold on, can you stay still really quick? Stay still really quick, I want to see. I know, I’m too short.",
+    "actually": "You are inside your Pal. Can you remain still briefly? I want to see. I know; I am too short.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      664,
+      671
+    ],
+    "raw": "Oh going climb yeah your your legs are actually through your pal and you’re just standing on my screen yeah they look I think they look nice though they looking",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      666,
+      671
+    ],
+    "raw": "Yeah, your your legs are actually through your pal, and you’re just standing on my screen. Yeah, they look, I think they look nice though.",
+    "actually": "Your legs go through your Pal, and on my screen you are standing. I think they look nice, though.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      673,
+      677
+    ],
+    "raw": "Good, it’s a struggle. There we go. Okay, back across the bridge. Oh, oh, there’s going to be a lot of uh very very bad people, maybe.",
+    "actually": "It is a struggle. Back across the bridge; there may be many very bad people.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      677,
+      681
+    ],
+    "raw": "Bad people, bad people. It’s okay, I have a gun. That’s true, that’s true. Yeah, she’s got a gun. Yeah, even the wolves are scared of you, Biboo.",
+    "actually": "Bad people. It is fine; I have a gun. True. Even the wolves fear you, Biboo.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      682,
+      687
+    ],
+    "raw": "Wow, I will protect you, don’t worry about open the bridge. Oh, I have to feed a lot of starving Pals real quick. Um, we probably have to, yeah, oh crap, I forgot I need to give them food later. Oh, man.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      682,
+      682
+    ],
+    "raw": "Wow, I will protect you.",
+    "actually": "I will protect you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      683,
+      687
+    ],
+    "raw": "Oh, I have to feed a lot of starving Pals real quick. Um, we probably have to, yeah, oh crap, I forgot I need to give them food later. Oh, man.",
+    "actually": "I need to feed many starving Pals quickly. I forgot I need to feed them later.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      688,
+      691
+    ],
+    "raw": "Well, teleport first and then you can teleport to own your own bases after you get it. Sounds good.",
+    "actually": "Teleport first; after getting it, you can teleport to your bases. That sounds good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      691,
+      695
+    ],
+    "raw": "Oh there’s a something sorus oh oh wait you’re a little high level for though silly or do you guys want it here I’ll help you he’s so cute I’m friends not yet",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      692,
+      695
+    ],
+    "raw": "Oh, oh, wait, you’re a little high level. Or do you guys want it? Here, I’ll help you. He’s so cute.",
+    "actually": "You are a little high-level. Do you want it? I will help you; he is very cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      695,
+      700
+    ],
+    "raw": "I’m friends not yet few differ oh you’re actually not don’t hurt him he’s going to hurt oh what you do oh he needs a little bit more pain",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      698,
+      702
+    ],
+    "raw": "Oh, he needs a little bit more pain, a little bit more pain. Okay, hold on, hold up. Okay, I I’m afraid of killing it, so. Yeah, that’s a valid concern.",
+    "actually": "He needs a little more pain. Wait; I am afraid of killing it. That is a valid concern.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      703,
+      710
+    ],
+    "raw": "Why? Oh, man, why? So, he needs a little bit more of a punch. Yeah, let me let me smack him a bit. Hold on. Oh, okay, smack him a bit. Oh, oh, this something just throw something at me. Okay, someone punch him.",
+    "actually": "Why? He needs another punch. Let me hit him a little; wait. Something threw something at me. Someone punch him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      710,
+      715
+    ],
+    "raw": "What happened I’m scared it’s not going I don’t even know who’s throwing the pow ball anymore C is depressed",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      710,
+      712
+    ],
+    "raw": "What happened? I’m scared.",
+    "actually": "What happened? I am scared.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      713,
+      714
+    ],
+    "raw": "I don’t even know who’s throwing the pow ball anymore.",
+    "actually": "I no longer know who is throwing the pow ball.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      715,
+      718
+    ],
+    "raw": "It’s okay, at least we’re not depressed, I think. I guess I don’t have to kill it.",
+    "actually": "At least we are not depressed, I think. I suppose I do not need to kill it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      719,
+      721
+    ],
+    "raw": "Wow you’re so mean to ask like him but yeah I it’s okay we’ll get you one we’ll get you one oh my armor is damaged",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      720,
+      721
+    ],
+    "raw": "It’s okay, we’ll get you one, we’ll get you one. Oh, my armor is damaged.",
+    "actually": "It is fine; we will get you one. My armor is damaged.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      722,
+      725
+    ],
+    "raw": "Yeah, yeah, they’re pretty they’re pretty aggro. They they look silly, but they they’re ferocious. Just like dinosaurs.",
+    "actually": "They are aggressive. They look silly but are ferocious, like dinosaurs.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      726,
+      728
+    ],
+    "raw": "Yeah, it’s a lovely place, Canadia, huh? Fictional. Look like Australia.",
+    "actually": "Canadia is lovely, correct? Fictional; it resembles Australia.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      730,
+      733
+    ],
+    "raw": "Be playing with company no oh I think we need a settlement now yeah it’s it’s over here you see the smoke yeah oh cute here it is",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      731,
+      733
+    ],
+    "raw": "I think we need a settlement now. Yeah, it’s it’s over here. You see the smoke? Yeah. Oh, cute, here it is.",
+    "actually": "I think we need a settlement now. It is here; do you see the smoke? Here it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      734,
+      738
+    ],
+    "raw": "Vince, get back to work. Okay, I need to go back to my my base. Okay, go to your bases, grab your strong Pals, and then we can meet up. Okay, sounds good.",
+    "actually": "Vince, return to work. I need to return to my base. Go to your bases, get your strong Pals, then we can meet. That sounds good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      739,
+      743
+    ],
+    "raw": "Yeah, wow, all right, my pal, please, you must work, please, please. Okay, okay, time to heal up our armor, eat some food, and make our pal happy. I have lots of food, why aren’t they eating it?",
+    "actually": "Please work, Pal. It is time to repair our armor, eat, and make our Pals happy. I have much food; why are they not eating?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      744,
+      748
+    ],
+    "raw": "Did you put it in the food box? Yeah, uh, sometimes you have to like put them back in the box and take them back out because they might get glitched, so try that.",
+    "actually": "Did you put it in the food box? Sometimes you need to put them away and take them out again because they may be glitched. Try that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      749,
+      753
+    ],
+    "raw": "Well let’s take half let put it back in what put it in the Su SP baby",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      754,
+      758
+    ],
+    "raw": "What do you do with wheat? Can you just like bake with it, or can I just leave it for the pal to eat? Uh, wheat, you can make bread and cake. It’s very important for cake later. Oh, I better keep that.",
+    "actually": "Can you bake with wheat or leave it for the Pal to eat? You can make bread and cake; it is important for cake later. I should keep it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      758,
+      762
+    ],
+    "raw": "It looks like he’s don’t eat don’t eat raw wheat guys one second wheat wheat wheat wheat",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      759,
+      762
+    ],
+    "raw": "Don’t eat, don’t eat raw wheat, guys. One second. Wheat wheat wheat wheat.",
+    "actually": "Do not eat raw wheat. One moment; wheat.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      763,
+      766
+    ],
+    "raw": "Okay, you can make pancakes, you can make a lot of things with wheat. You have to you have to make a mill, though, to crush it, I think. Ah, okay.",
+    "actually": "You can make pancakes and many things with wheat, but I think you need a mill to crush it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      766,
+      770
+    ],
+    "raw": "Yeah, uh, how do I fix my broken armor? Uh, you need the repair bench, you need, yeah. Do you do you make a repair bench? Yes, so we did have it. There it is, there it is, this one.",
+    "actually": "How do I repair my armor? You need a repair bench. Did you make one? Yes; we had one. There it is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      771,
+      775
+    ],
+    "raw": "Have to find no this is yeah I just don’t have enough cloth huh do I have any cloth",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      772,
+      775
+    ],
+    "raw": "Yeah, I just don’t have enough cloth. Huh, do I have any cloth?",
+    "actually": "I lack enough cloth. Do I have any?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      776,
+      781
+    ],
+    "raw": "Oh a medicine work work work please no oh okay good oh those are not they’re not eggs you do that work Pi one up",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      776,
+      776
+    ],
+    "raw": "Work work work, please.",
+    "actually": "Please work.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      777,
+      778
+    ],
+    "raw": "Oh, okay, good. Oh, those are not, they’re not eggs.",
+    "actually": "Good. Those are not eggs.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      781,
+      788
+    ],
+    "raw": "I’m trying to make more medical supplies. Oh, for the depression? You should sell stuff, like if you have a bunch of berries, just make a bunch of baked berries, and they and like a stack can sell for like 10K, um, and just buy the medicine because making medicine takes so long.",
+    "actually": "I am trying to make more medical supplies. For depression? Sell items, such as baked berries; a stack can sell for about ten thousand. Then buy medicine, since making it takes a long time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      788,
+      790
+    ],
+    "raw": "Yeah, I I went to make two and it’s um it seems like a process. No health care, huh?",
+    "actually": "I started making two; it seems quite a process. No health care, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      792,
+      799
+    ],
+    "raw": "Okay, okay, I’m ready when you guys are. Okay, where do you want to meet up? Give me a moment, our armor still down, we’re trying to fix it right now, but we can meet up at your base then if you want. We don’t want to make too much, we’ll try to hurry here.",
+    "actually": "I am ready when you are. Where shall we meet? Give us a moment; we are repairing our armor. We can meet at your base if you like, and will try to hurry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      799,
+      803
+    ],
+    "raw": "It’s okay, I’m building medical supplies, so yeah, take your time. Yeah, it’s okay, I’m starting my stuff right now.",
+    "actually": "It is fine; I am making medical supplies, so take your time. I am starting my tasks now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      803,
+      813
+    ],
+    "raw": "I need to do the pal that delivers stuff’s eat you should be doing that then what level are you guys 14 14 okay now we have the medicine for the P’s right and ice or like this how do I want nailsand let takey with us and deep with us are they better Nows Nails get better like that",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      806,
+      808
+    ],
+    "raw": "What level are you guys? 14. 14.",
+    "actually": "What level are you? Fourteen.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      814,
+      818
+    ],
+    "raw": "Gosh I spaced everything you guys all do chili yet ch chil huh maybe okay maybe they haven’t okay we can do that one first oh is that like a boss",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      814,
+      814
+    ],
+    "raw": "Gosh, I spaced everything.",
+    "actually": "I lost track of everything.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      815,
+      818
+    ],
+    "raw": "You guys all do Chillet yet? Ch Chil? Huh, maybe, okay, maybe they haven’t. Okay, we can do that one first. Oh, is that like a boss?",
+    "actually": "Have you all fought Chillet? Perhaps not. We can do that one first. Is it a boss?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      818,
+      824
+    ],
+    "raw": "Yeah, we, I haven’t done anything. Have you guys all done the tower? No, I haven’t touched anything. Okay, we can do the tower for Shiori as well. Okay, wait, is that the one where you can capture the boss?",
+    "actually": "I have done nothing. Have you all done the tower? No. We can do the tower for Shiori too. Is that where you can capture the boss?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      824,
+      827
+    ],
+    "raw": "Can you? I want to. I don’t know, is that still a thing? That’s not supposed to happen. Apparently, yeah, it’s a bug. Can you can you still catch it?",
+    "actually": "Can you? I want to. I do not know whether it still works; that is not intended. Apparently, it is a bug. Can you still catch it?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      828,
+      834
+    ],
+    "raw": "Biboo can you bring lots of food yeah okay yeah I I have I I need food fixed it a thank you are they happy those are the ones we took out them if we pick the other ones then they’ll be happy",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      828,
+      831
+    ],
+    "raw": "Biboo, can you bring lots of food? Yeah, okay. Yeah, I I have, I I need food.",
+    "actually": "Biboo, can you bring plenty of food? Yes. I have—I need food.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      832,
+      834
+    ],
+    "raw": "Are they happy? Those are the ones we took out them. If we pick the other ones then they’ll be happy.",
+    "actually": "Are they happy? Those are the ones we removed; selecting the others will make them happy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      834,
+      839
+    ],
+    "raw": "They they’re saying it’s still a thing, but some people are saying they’ve patched it, so I’m not sure. Well, it’s it’s supposed to be illegal anyway, so I don’t think we should do it. That doesn’t stop us.",
+    "actually": "Some say it still works; others say it has been patched, so I am unsure. It is supposedly illegal, so I do not think we should do it. That does not deter us.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      840,
+      846
+    ],
+    "raw": "Illegal? Why illegal? That doesn’t stop us. Look at us. I, you want to? Of course I want to. Man, I wish the hum cook. Yeah, I caught four humans and they’re all useless.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      840,
+      843
+    ],
+    "raw": "Illegal? Why illegal? That doesn’t stop us. Look at us. You want to? Of course I want to.",
+    "actually": "Why is it illegal? That does not deter us. Look at us. Do you want to? Of course.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      844,
+      846
+    ],
+    "raw": "Yeah, I caught four humans and they’re all useless.",
+    "actually": "I caught four humans; they are all useless.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      847,
+      851
+    ],
+    "raw": "Oh, I don’t know what Pals to put out. Put out any Pal. They all have different skills. Yeah, but as long as they’re happy to do something, if it’s depressed they won’t do anything.",
+    "actually": "I do not know which Pals to deploy. Choose any; they have different skills. They need to be happy to work; depressed ones do nothing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      852,
+      856
+    ],
+    "raw": "Right, I can make a medical workbench. Yeah, wait, guys, we’re criminals, so why should we worry about capturing it if it’s illegal? We’ve already been jail.",
+    "actually": "I can make a medical workbench. We are criminals; why worry about capturing it being illegal? We have already been in jail.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      856,
+      867
+    ],
+    "raw": "What it’s mute wait is he shy he’s this big he’s really big I think is really big is he just big normally H the green tail no oh it might be it might be a boss one oh he has from an egg he’s just really big cute those those are in general really big I think nail he just looks really big",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      858,
+      864
+    ],
+    "raw": "Wait, is he shy? He’s this big, he’s really big. I think is really big. Is he just big normally? The green tail? No. Oh, it might be it might be a boss one. Oh, he has from an egg. He’s just really big. Cute.",
+    "actually": "Is he shy? He is very large. Is he normally that large? The green tail? No; perhaps it is a boss. He came from an egg. He is large and cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      864,
+      865
+    ],
+    "raw": "Those those are in general really big, I think.",
+    "actually": "I think those are generally very large.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      867,
+      871
+    ],
+    "raw": "Make more nails. They’re doing stuff. Everybody’s in good condition now. Do we have all our strong Pals ready?",
+    "actually": "Make more nails; they are working. Everyone is healthy now. Are all our strong Pals ready?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      871,
+      876
+    ],
+    "raw": "To’s healing it all right where are we meeting up H let’s meet um grassy Behemoth Hills let’s go grassy Behemoth near near I wish’s base oh okay okay uh I don’t think I have any any bullets",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      871,
+      874
+    ],
+    "raw": "All right, where are we meeting up? Let’s meet, um, Grassy Behemoth Hills. Let’s go Grassy Behemoth.",
+    "actually": "Where shall we meet? At Grassy Behemoth Hills.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      875,
+      880
+    ],
+    "raw": "Okay, uh, I don’t think I have any any bullets. Do you have a weapon? Uh, we, I just don’t think I have any arrows. You have you have motivation. I have 105, but that’s not my, oh, I don’t accidentally grab that. Yeah, arrows.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      875,
+      878
+    ],
+    "raw": "Okay, uh, I don’t think I have any any bullets. Do you have a weapon? Uh, we, I just don’t think I have any arrows. You have you have motivation.",
+    "actually": "I do not think I have bullets. Do you have a weapon? I do not think I have arrows. You have motivation.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      672,
+      672
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      729,
+      729
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      750,
+      750
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      752,
+      752
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      780,
+      780
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      791,
+      791
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      804,
+      804
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

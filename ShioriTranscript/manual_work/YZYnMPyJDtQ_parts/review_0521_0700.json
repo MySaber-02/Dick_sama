@@ -1,0 +1,570 @@
+[
+  {
+    "source_segment_indices": [
+      521,
+      522,
+      523
+    ],
+    "raw": "That way. One, two, three. I'm just going to do it. Okay, so that moved.",
+    "status": "SFT",
+    "actually": "That way. One, two, three; I will do it. That moved."
+  },
+  {
+    "source_segment_indices": [
+      524,
+      525,
+      526,
+      527,
+      528
+    ],
+    "raw": "Nothing could take my queen right now. I did free up my thing. I think I might go here because I I really need to get a move on. Uh,",
+    "status": "SFT",
+    "actually": "Nothing can take my queen now. I freed my piece, and I think I might move here because I need to progress."
+  },
+  {
+    "source_segment_indices": [
+      529,
+      530,
+      531,
+      532,
+      533,
+      534,
+      535
+    ],
+    "raw": "really bad idea. However, I could probably do this. I could do here. Oh, but then the queen would take me. Okay, so ignore that. Uh, if I go here, I'm a little scared because it leaves my my king at uh this.",
+    "status": "SFT",
+    "actually": "That is a very bad idea. I could do this, but the queen would take me, so ignore that. Going here worries me because it leaves my king exposed like this."
+  },
+  {
+    "source_segment_indices": [
+      536,
+      537,
+      538
+    ],
+    "raw": "I'm cook. Don't forget to use your other pieces. I'm trying to learn. So,",
+    "status": "SFT",
+    "actually": "I am in trouble. Remember to use your other pieces. I am trying to learn."
+  },
+  {
+    "source_segment_indices": [
+      539
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      540,
+      541,
+      542,
+      543
+    ],
+    "raw": "knight G3 is a great move. Oh, thank you. I haven't done anything. G3. You mean F3? So I don't think it's a good idea then",
+    "status": "SFT",
+    "actually": "Knight G3 is a great move. Thank you; I have done nothing. G3—do you mean F3? Then I do not think it is a good idea."
+  },
+  {
+    "source_segment_indices": [
+      544
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      545,
+      546,
+      547
+    ],
+    "raw": "uh I think big picture I don't know the big picture is I'm learning free up the other bishop.",
+    "status": "SFT",
+    "actually": "Think about the bigger picture? I do not know; the bigger picture is that I am learning. Free the other bishop."
+  },
+  {
+    "source_segment_indices": [
+      548
+    ],
+    "raw": "So if I if I move this essentially",
+    "status": "LOW",
+    "reason": "Unfinished hypothetical move."
+  },
+  {
+    "source_segment_indices": [
+      549
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      550,
+      551
+    ],
+    "raw": "if I move this here that goes there.",
+    "status": "SFT",
+    "actually": "If I move this here, that goes there."
+  },
+  {
+    "source_segment_indices": [
+      552
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "raw": "H. Sorry. Maybe maybe like not backseat at the moment. Unless I ask please. Let me just make that. No back not backseating unless I ask please. I'm learning. There you go. There you go.",
+    "status": "SFT",
+    "actually": "Sorry, please do not give gameplay advice unless I ask at the moment. I am learning. There you go."
+  },
+  {
+    "source_segment_indices": [
+      559,
+      560,
+      561
+    ],
+    "raw": "Yeah, I'm I'm a beginner. Okay. I need to I need to like pick out something.",
+    "status": "SFT",
+    "actually": "I am a beginner. I need to choose something."
+  },
+  {
+    "source_segment_indices": [
+      562,
+      563,
+      564,
+      565,
+      566,
+      567
+    ],
+    "raw": "So, here I'll I'll give you um I'll ask for this one. What piece should I focus on? I I got the tip on letting the pawns move so I can free up the pieces. So, should I be focusing on a pawn right now?",
+    "status": "SFT",
+    "actually": "I will ask for help with this: which piece should I focus on? I understood the tip about moving pawns to free pieces. Should I focus on a pawn now?"
+  },
+  {
+    "source_segment_indices": [
+      568
+    ],
+    "raw": "Yeah, I need to I need to learn.",
+    "status": "SFT",
+    "actually": "I need to learn."
+  },
+  {
+    "source_segment_indices": [
+      569,
+      570
+    ],
+    "raw": "Yeah. So, which piece move your back ranks uh first.",
+    "status": "SFT",
+    "actually": "Which piece? Move your back ranks first."
+  },
+  {
+    "source_segment_indices": [
+      571,
+      572,
+      573,
+      574,
+      575
+    ],
+    "raw": "So, knight goes to F6. If I do a knight goes to F6. F6. F6. How do I Oh, this one. Okay. So, if I move this here, but wouldn't that be taken by the pawn?",
+    "status": "SFT",
+    "actually": "Knight to F6. How do I—this one. But moving this here would let the pawn take it, would it not?"
+  },
+  {
+    "source_segment_indices": [
+      576,
+      577
+    ],
+    "raw": "And I assume when the pawn is gone, you want me to take it with the king.",
+    "status": "SFT",
+    "actually": "I assume you want me to take it with the king once the pawn is gone."
+  },
+  {
+    "source_segment_indices": [
+      578,
+      579
+    ],
+    "raw": "Chess be chat will become less unreliable. I see",
+    "status": "LOW",
+    "reason": "Unclear chess/chat reliability statement; clear acknowledgment recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      580,
+      581,
+      582,
+      583,
+      584,
+      585
+    ],
+    "raw": "the queen is covering it. So, am I just sacrificing it? It's a possible check move, but what is the Okay, well, this is just the first match. Since I'm learning it, let's go do it now and then I'll learn like from the mistakes. So,",
+    "status": "SFT",
+    "actually": "The queen covers it. Am I sacrificing it? It is a possible checking move, but this is my first match. I will try it and learn from mistakes."
+  },
+  {
+    "source_segment_indices": [
+      586,
+      587,
+      588,
+      589,
+      590,
+      591
+    ],
+    "raw": "if I sacrifice this, the pawn's going to take it. And once that happens, uh, I could take it with the queen. Once I take it with a queen. I see what you mean. I think that's assuming the king doesn't move though.",
+    "status": "SFT",
+    "actually": "If I sacrifice this, the pawn takes it and I can capture it with the queen. I see what you mean, though I think that assumes the king stays still."
+  },
+  {
+    "source_segment_indices": [
+      592,
+      593,
+      594,
+      595,
+      596,
+      597,
+      598
+    ],
+    "raw": "trajectories. So now I can't do what I can't do that line of thought. Um I would lose my horse. The tower could take it or the queen could take it. So it was not a good idea. Uh what I could do I could probably",
+    "status": "LOW",
+    "reason": "Clear failed-plan assessment recovered separately; subsequent plan is unfinished."
+  },
+  {
+    "source_segment_indices": [
+      599
+    ],
+    "raw": "It's kind of a lost cause here. I think.",
+    "status": "SFT",
+    "actually": "I think this is a lost cause."
+  },
+  {
+    "source_segment_indices": [
+      600,
+      601,
+      602,
+      603
+    ],
+    "raw": "But the knight can be saved. You can save the pony. Bishop to D3. Bishop. Bishop to D3.",
+    "status": "SFT",
+    "actually": "The knight can be saved. You can save the pony; bishop to D3."
+  },
+  {
+    "source_segment_indices": [
+      604,
+      605,
+      606,
+      607
+    ],
+    "raw": "This one. So if if that happens, let me let me think ahead of here. So, but the queen is probably going to take it is the issue.",
+    "status": "SFT",
+    "actually": "Let me think ahead. The problem is that the queen will probably take it."
+  },
+  {
+    "source_segment_indices": [
+      608,
+      609,
+      610
+    ],
+    "raw": "Yeah, that's a very bad move. Yeah, the queen is going to be taken. So,",
+    "status": "SFT",
+    "actually": "That is a very bad move; the queen will be captured."
+  },
+  {
+    "source_segment_indices": [
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617
+    ],
+    "raw": "there's another square to place the knight. Okay, let me think. I could move it over here. Yeah, I think that's what you mean. So, if I move the knight to D5, it could be saved. Nothing is likely to take it. I'm going to move it here then.",
+    "status": "SFT",
+    "actually": "There is another square for the knight. I think you mean moving it to D5, where it could be saved. Nothing is likely to take it, so I will move it here."
+  },
+  {
+    "source_segment_indices": [
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625
+    ],
+    "raw": "So, now that moved. Uh, let's see. That would sacrifice that. Uh, that would be a bad idea there. What can this take? I don't think this one can take anything. So, we're fine. However, I should probably move a different piece now. So, if I, for example, leave uh, let's ignore that one.",
+    "status": "SFT",
+    "actually": "That moved. Sacrificing that would be a bad idea. Can this capture anything? I do not think so. We are fine, but I should probably move another piece. Let us ignore that one."
+  },
+  {
+    "source_segment_indices": [
+      626,
+      627,
+      628
+    ],
+    "raw": "I Oh, that's right. You can upgrade your little pawns. I forgot about that. And once you upgrade it, you can go back.",
+    "status": "SFT",
+    "actually": "I forgot you can upgrade the little pawns, then go back afterward."
+  },
+  {
+    "source_segment_indices": [
+      629,
+      630,
+      631
+    ],
+    "raw": "So, it's better to take care of the pieces that are threatened first. I see. I see.",
+    "status": "SFT",
+    "actually": "It is better to deal with threatened pieces first. I see."
+  },
+  {
+    "source_segment_indices": [
+      632,
+      633,
+      634
+    ],
+    "raw": "So, this one's not threatened right now. So, I think it's fine.",
+    "status": "SFT",
+    "actually": "This piece is not threatened now, so I think it is fine."
+  },
+  {
+    "source_segment_indices": [
+      635,
+      636,
+      637,
+      638,
+      639
+    ],
+    "raw": "If I take that, the king will take it. The king will take it here. Nothing can take it here. Actually, if I go here, nothing can take it. tower can't take it. Okay, so um",
+    "status": "SFT",
+    "actually": "Taking that would let the king take it here. Nothing can take it here; the tower cannot take it either."
+  },
+  {
+    "source_segment_indices": [
+      640,
+      641
+    ],
+    "raw": "what if I try this one then? Just out of curiosity.",
+    "status": "SFT",
+    "actually": "What if I try this, out of curiosity?"
+  },
+  {
+    "source_segment_indices": [
+      642,
+      643,
+      644,
+      645,
+      646
+    ],
+    "raw": "Wait, it doesn't happen on checkers. I thought it does. So if I move it here, okay, so that moved. Oh, wait. But this one doesn't sacrifice it. Did it just make a blunder?",
+    "status": "SFT",
+    "actually": "That does not happen in checkers? I thought it did. If I move here, that moves, but this does not sacrifice it. Did it just make a blunder?"
+  },
+  {
+    "source_segment_indices": [
+      647,
+      648,
+      649,
+      650,
+      651,
+      652
+    ],
+    "raw": "Uh let me think of like what I want to focus on upgrading. This frees up my tower, though. So if I do this, I could take it here. Would anything take it? Uh, no. I really doubt it. Yeah. So I do that.",
+    "status": "SFT",
+    "actually": "Let me decide what to upgrade. This frees my tower; I could take it here. Could anything take it? I strongly doubt it, so I will do that."
+  },
+  {
+    "source_segment_indices": [
+      653,
+      654,
+      655,
+      656,
+      657
+    ],
+    "raw": "So that moves ahead. Um, not taking that. That's a trap. I could probably move this here. Let it take it. Let me move this first. Or",
+    "status": "SFT",
+    "actually": "That moves forward. I will not take that; it is a trap. I could move this here and let it take it. Let me move this first."
+  },
+  {
+    "source_segment_indices": [
+      658,
+      659,
+      660,
+      661
+    ],
+    "raw": "if I do if I do this. No, it's not going to win anything. Let's leave that. Um, one, two, three, one. Not that one. Let's not move that. That's a trap.",
+    "status": "SFT",
+    "actually": "Doing this wins nothing; let us leave it. One, two, three, one; not that. Let us not move it; it is a trap."
+  },
+  {
+    "source_segment_indices": [
+      662,
+      663,
+      664,
+      665,
+      666,
+      667
+    ],
+    "raw": "Because if I take this one, the tower's going to go there and I don't want to deal with that. So, what I'll do is I'll just completely ignore it for now. I'm going to let them do whatever the heck they want.",
+    "status": "SFT",
+    "actually": "If I take this, the tower goes there, which I do not want to handle. I will ignore it for now and let them do whatever they want."
+  },
+  {
+    "source_segment_indices": [
+      668,
+      669
+    ],
+    "raw": "I will not take that. I could however move here.",
+    "status": "SFT",
+    "actually": "I will not take that, but I could move here."
+  },
+  {
+    "source_segment_indices": [
+      670
+    ],
+    "raw": "Kind of scared trap it.",
+    "status": "LOW",
+    "reason": "Unclear scared/trap-it phrase; clear emotion recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      671,
+      672,
+      673
+    ],
+    "raw": "If I go to the top left. One, two, three. One, two. It's kind of useless. Uh,",
+    "status": "SFT",
+    "actually": "If I go to the top left—one, two, three, one, two—it is rather useless."
+  },
+  {
+    "source_segment_indices": [
+      674
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      675,
+      676,
+      677,
+      678,
+      679,
+      680
+    ],
+    "raw": "pawn to G4. G4. G4. This one. No. Oh, you're trying to get rid of it. No, I don't want to I don't want to get rid of that",
+    "status": "SFT",
+    "actually": "Pawn to G4. This one? No; you want to get rid of it, but I do not want to."
+  },
+  {
+    "source_segment_indices": [
+      681,
+      682,
+      683,
+      684,
+      685,
+      686
+    ],
+    "raw": "because if I do it here, this is likely to take me or it won't. It could be a trap, but then like just free up the tower and then I have to deal with this and I don't want to do that. You take the right rook. How so?",
+    "status": "SFT",
+    "actually": "If I do this, it might capture me, or not. It could be a trap, but it frees the tower, which I do not want to deal with. You take the right rook? How?"
+  },
+  {
+    "source_segment_indices": [
+      687
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      688,
+      689,
+      690,
+      691
+    ],
+    "raw": "G4 is good. Is it? But then you take the castle. Okay, let me let me test it in theory then. So if I do this, it's gonna take it.",
+    "status": "SFT",
+    "actually": "G4 is good? Then you take the castle. Let me test it in theory: doing this makes it take it."
+  },
+  {
+    "source_segment_indices": [
+      692,
+      693,
+      694,
+      695,
+      696,
+      697
+    ],
+    "raw": "Oh, you want me to move my tower immediately? Okay, because it's my turn first. So I take their tower then and that one happens. Okay, I I understand it then. So then this and even if it",
+    "status": "LOW",
+    "reason": "Clear move-order explanation recovered separately; final condition is incomplete."
+  },
+  {
+    "source_segment_indices": [
+      698,
+      699,
+      700
+    ],
+    "raw": "So even if I do this, it can't go back. I don't think it can jump. Oh, but the tower might accidentally take it. But",
+    "status": "SFT",
+    "actually": "Even if I do this, it cannot go back; I do not think it can jump. But the tower might accidentally take it."
+  },
+  {
+    "source_segment_indices": [
+      579
+    ],
+    "raw": "I see",
+    "actually": "I see.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      591,
+      592,
+      593,
+      594,
+      595,
+      596
+    ],
+    "raw": "It changed trajectories. So now I can't do what I can't do that line of thought. Um I would lose my horse. The tower could take it or the queen could take it. So it was not a good idea.",
+    "actually": "It changed direction, so that plan no longer works. I would lose my horse to the tower or queen; it was not a good idea.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      670
+    ],
+    "raw": "Kind of scared",
+    "actually": "Somewhat afraid.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      692,
+      693,
+      694,
+      695,
+      696
+    ],
+    "raw": "Oh, you want me to move my tower immediately? Okay, because it's my turn first. So I take their tower then and that one happens. Okay, I I understand it then.",
+    "actually": "You want me to move my tower immediately, because it is my turn first. I take their tower, and that happens. I understand.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

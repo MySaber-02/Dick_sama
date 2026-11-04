@@ -1,17 +1,17 @@
 {
   "video_id": "mcQ9PXGt38g",
-  "status": "semantic_review_in_progress_source_coverage_pending",
+  "status": "complete_archived",
   "source_segments": 3061,
   "source_read_through_segment": 3061,
   "source_transcript_read_complete": true,
   "source_json_sha": "0905e8783996c83d1266bb401be5789efb25c1f1",
   "draft_rows": 393,
-  "segmented_records": 1646,
-  "low_confidence_fragments": 209,
-  "clean_created": false,
-  "originals_moved": false,
+  "segmented_records": 1861,
+  "low_confidence_fragments": 298,
+  "clean_created": true,
+  "originals_moved": true,
   "draft_coverage_verified": false,
-  "next_action": "Review 281-320; reconcile prior draft-only edits in rows 251-270 with segmented SFT/LOW/source ledger. Continue through 393 and prove all 3061 source segments before clean/archive.",
+  "next_action": "File complete. Proceed to YZYnMPyJDtQ; do not repeat this file.",
   "segmented_duplicate_raw_count": 51,
   "segmented_schema_validation": "passed",
   "segmented_contains_LOW": false,
@@ -21,10 +21,10 @@
   "segmented_sft_low_overlap_count": 0,
   "duplicate_raw_policy": "Do not automatically remove repeated short utterances. These may be genuine repeated speech; verify against source timestamps before any deduplication.",
   "semantic_review_range": "281-320",
-  "semantic_reviewed_draft_rows": 250,
+  "semantic_reviewed_draft_rows": 393,
   "earlier_semantic_review_pending": "231-320",
-  "source_coverage_reconciled": false,
-  "semantic_review_status": "in_progress",
+  "source_coverage_reconciled": true,
+  "semantic_review_status": "complete_source_reconciled",
   "semantic_review_notes": [
     "Initial review of early draft rows found possible semantic drift requiring source-backed correction before clean: row 1 actually should preserve the literal phrase 'the hat crabs' rather than reinterpret it as 'the hat has crabs'.",
     "Row 81 originally omitted 'lovingly' from 'stroke my ego lovingly'; the adverb was restored during review of row 71-110 source context.",
@@ -63,5 +63,28 @@
       "sft_low_staging_updated": true,
       "full_source_coverage_proven": false
     }
-  ]
+  ],
+  "parallel_manual_review_20261104": {
+    "canonical_251_270_updated": true,
+    "source_1757_2700_read_and_explicit_decisions_saved": true,
+    "decision_files": "current_review/mcQ9PXGt38g.review_*.json",
+    "integrated_indexed_draft": "current_review/mcQ9PXGt38g.integrated_indexed_draft.json",
+    "integrated_decisions": 1311,
+    "pending": "Merge independent direct decisions for source585–1756; finalize manual sentence segmentation, source occurrence/subspan coverage, schema and mask checks before clean/archive.",
+    "clean_created": false,
+    "originals_moved": false
+  },
+  "source_segment_count": 3061,
+  "source_indexed_review_decisions": 2159,
+  "source_indexed_review_file": "ShioriTranscript/manual_work/mcQ9PXGt38g.source_indexed_review.json",
+  "clean_records": 1861,
+  "original_sha256": {
+    "txt": "ca47af64596e79acfb3e808d2a7b34b6644867fd723e243544ddafd3b4c85a32",
+    "json": "42526ef77779231091214804040f3ed822ab511822d9182643c373a341dd9def"
+  },
+  "draft_note": "Original draft is historical and has unsupported repeated paragraphs; final output follows reviewed source occurrences, not duplicated draft rows. Appended source supplements are reconciled by source occurrence.",
+  "validation_note": "All source segments manually read across three authorized agents; source-indexed SFT/LOW decisions cover 1–3061. Word-diagnostic residuals manually resolved as approved ASR repairs or repeated-word greedy alignment artifacts; see independent_review records.",
+  "mask_source_occurrences": 6,
+  "mask_sft_occurrences": 5,
+  "mask_low_occurrences": 1
 }

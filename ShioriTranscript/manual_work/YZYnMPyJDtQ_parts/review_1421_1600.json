@@ -1,0 +1,579 @@
+[
+  {
+    "source_segment_indices": [
+      1421,
+      1422,
+      1423,
+      1424,
+      1425
+    ],
+    "raw": "if I go over here. Oh, shoot. Ah, fudge. That's okay. That's okay. That's fine. The tower is thankfully stuck. So, what I could do is I'll leave that. I'm just going to leave it there.",
+    "status": "SFT",
+    "actually": "If I go here—how frustrating. It is okay; thankfully, the tower is stuck, so I will leave it there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1426,
+      1427,
+      1428
+    ],
+    "raw": "I think we could probably take the queen out. So, I'm going to move this over here. The tower is stuck. So,",
+    "status": "SFT",
+    "actually": "I think we could free the queen, so I will move this here. The tower is stuck.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1429,
+      1430,
+      1431,
+      1432
+    ],
+    "raw": "use right click to simulate moves. There's simulation. Hold up. What? Oh, like like that. You can put arrows with right click. Oh.",
+    "status": "SFT",
+    "actually": "Use right-click to simulate moves. There is simulation? You can draw arrows with right-click; I see.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1433,
+      1434
+    ],
+    "raw": "Oh, well. Uh G5 to G6. G5 to G6.",
+    "status": "SFT",
+    "actually": "G5 to G6.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1435
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1436,
+      1437,
+      1438,
+      1439,
+      1440,
+      1441,
+      1442,
+      1443
+    ],
+    "raw": "It's fine. Yeah, we could. I just think the king will get there. Oh, but then if I if I keep moving it and it takes it, we could probably use the bishop. Uh, but it moves it. Okay, so that just moved. I think I could probably No, I'll be stuck there.",
+    "status": "SFT",
+    "actually": "We could do that, though I think the king will reach it. If I keep moving it and it takes it, we could use the bishop. It moves that; no, I would be stuck there.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1444,
+      1445,
+      1446,
+      1447
+    ],
+    "raw": "However, I could probably abuse the queen, right? Evolve my pawn. Oh, wait. I could have two queens. Oh, right.",
+    "status": "SFT",
+    "actually": "I could exploit the queen, correct? Upgrade my pawn—I could have two queens. Right.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1448,
+      1449,
+      1450,
+      1451,
+      1452
+    ],
+    "raw": "Oh, no. No. It's okay. I just have to I have to avoid Oh, if I move here. Oh, and then if I get my queen there, too. Okay. Okay. So, I'll go over here.",
+    "status": "SFT",
+    "actually": "Oh no. It is okay; if I move here and get my queen there too, I will go here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458
+    ],
+    "raw": "So, now it moves there. Yeah. And that's completely fine. Okay. So, now I know there's supposed to be a method that we can corner the king here. Uh, if I move it here, it cannot go towards any white spots.",
+    "status": "SFT",
+    "actually": "It moves there, which is fine. There should be a way to corner the king. Moving this here stops it from going to white squares.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1459,
+      1460,
+      1461,
+      1462
+    ],
+    "raw": "And if I move the queen, I need to get rid of that stupid thing, actually. Uh, was it Did I leave it there? I need to get rid of this thing.",
+    "status": "SFT",
+    "actually": "I need to move the queen and get rid of that annoying piece. Did I leave it there? I need to remove it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1463,
+      1464,
+      1465,
+      1466,
+      1467
+    ],
+    "raw": "So, what's the what's the best way? Can I just move everything into a queen? Wait, you can't take this. That's right. Even if it tries to take it. What if I evolve everything?",
+    "status": "SFT",
+    "actually": "What is the best way? Can I turn everything into queens? It cannot take this, even if it tries. What if I upgrade everything?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1468,
+      1469,
+      1470,
+      1471,
+      1472,
+      1473,
+      1474
+    ],
+    "raw": "Oh, okay. No, that was No, it's fine. No, no, no. It's fine. It's fine. Take it again. I actually I just realized. No, never mind. I lied. I lied. I'm so sorry. I completely lied. I don't know what I'm doing. It's okay. I let my greed take things, please. Um,",
+    "status": "SFT",
+    "actually": "No, it is fine; take it again. Actually, never mind, I was wrong. Sorry; I do not know what I am doing. I let greed determine my moves. Please.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1475,
+      1476,
+      1477
+    ],
+    "raw": "that's a trap. I'm not doing that. I need to move this actually. So, I'm going to move over here.",
+    "status": "SFT",
+    "actually": "That is a trap; I will not do it. I need to move this here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1478,
+      1479,
+      1480,
+      1481,
+      1482
+    ],
+    "raw": "And then I can take this. And now it's stuck there. Okay. But now here's the thing. If I just find a way to to move this over here.",
+    "status": "SFT",
+    "actually": "Then I can take this, and it is stuck there. Now I just need a way to move this here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1483,
+      1484,
+      1485
+    ],
+    "raw": "Hold up. I'm thinking. Let me think. I just want to be a total menace. I'm going to move this over here.",
+    "status": "SFT",
+    "actually": "Let me think; I want to be a menace. I will move this here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1486,
+      1487
+    ],
+    "raw": "Oh, that's okay. I can No, that's a bad idea.",
+    "status": "SFT",
+    "actually": "That is okay; I can—no, that is a bad idea.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1488,
+      1489,
+      1490,
+      1491,
+      1492,
+      1493
+    ],
+    "raw": "I could move you over here. Yeah. Yeah. Yeah. Yeah. And then we'll Oh, wait. I could actually I could I can take two queens. I can take three. I can make three queens flies. Wait, what if I what if I do another? Yeah.",
+    "status": "LOW",
+    "reason": "Clear multiple-queen plan recovered separately; uncertain flies/guys ending retained for review.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1494,
+      1495,
+      1496,
+      1497,
+      1498,
+      1499,
+      1500
+    ],
+    "raw": "Okay. So now now the question is how Oh, I could take this immediately. And then if it does that, that's okay. I still have multiple queens. I can take this one. Yeah, I could take this and then I can make four queens.",
+    "status": "SFT",
+    "actually": "I could take this immediately. Even if it does that, I still have several queens. I can take this and make four queens.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1501,
+      1502
+    ],
+    "raw": "Oh, that's a trap. I know that's a trap. I'm not stupid. Come on.",
+    "status": "SFT",
+    "actually": "I know that is a trap; I am not foolish.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1503,
+      1504,
+      1505,
+      1506
+    ],
+    "raw": "I can take four queens, guys. Uh let's uh let's move this though. That's also a trap. Let me let me think about this really quick.",
+    "status": "SFT",
+    "actually": "I can get four queens. Let us move this, though. That is a trap too; let me think.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1507,
+      1508,
+      1509
+    ],
+    "raw": "You'll be safe here. Nothing ever touches that. Okay.",
+    "status": "SFT",
+    "actually": "You will be safe here; nothing ever touches that. Okay.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1510,
+      1511,
+      1512
+    ],
+    "raw": "All right. I could take you. Oh, how many queens can I make? Oh, yeah. We can make all the queens.",
+    "status": "SFT",
+    "actually": "I could take you. How many queens can I make? We can make all the queens.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1513,
+      1514,
+      1515,
+      1516,
+      1517,
+      1518,
+      1519
+    ],
+    "raw": "I'll ignore that. I'm going to make another queen, guys. I'm not even going to look here anymore. Oh, shoot. No, that's okay. Oh, I'm not supposed to trap it, though. That's okay. I'll figure it out. I'll figure it out. So, I'll do it here.",
+    "status": "SFT",
+    "actually": "I will ignore that and make another queen without looking here anymore. I should not trap it, though. I will figure it out and move here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1520,
+      1521,
+      1522,
+      1523
+    ],
+    "raw": "Um, I'll move it. I'll move it over here. Yeah, let's Okay, let's move all the queens. And then I'm going to move it over here.",
+    "status": "SFT",
+    "actually": "I will move it here. Let us move all the queens, then move it here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1524,
+      1525,
+      1526,
+      1527
+    ],
+    "raw": "Oh, wait. No, hold up. Hold up. I can move it over here. And then I can move it over here. Yay.",
+    "status": "SFT",
+    "actually": "Wait; I can move it here, then here. Hooray.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1528,
+      1529,
+      1530,
+      1531
+    ],
+    "raw": "Yay. I did it, guys. I made like three queen. Oh, is it four queens? I lost count. I just got so many money. So many bishes.",
+    "status": "SFT",
+    "actually": "I did it; I made about three queens—or four? I lost count. I have so much money and so many women.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1532,
+      1533,
+      1534,
+      1535
+    ],
+    "raw": "Okay. Uh, so apparently you can do this. Uh, is this cut out now? I guess it is. There you go. Okay, so what is this actually?",
+    "status": "SFT",
+    "actually": "Apparently you can do this. Is this cut out now? I suppose so. What is this?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1536,
+      1537,
+      1538,
+      1539,
+      1540
+    ],
+    "raw": "Oh, chess analysis. Whoa, you can do a chess analysis. So, how does it how does it work? I just put here Oh, there's like a chart here at the right.",
+    "status": "SFT",
+    "actually": "Chess analysis; you can analyze chess. How does it work? I put this here, and there is a chart on the right.",
+    "raw_fixes": [
+      [
+        "chest analysis",
+        "chess analysis"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1541,
+      1542,
+      1543
+    ],
+    "raw": "Now what? Oh, I guess this is you playing against yourself.",
+    "status": "SFT",
+    "actually": "What now? I suppose this means playing against yourself.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1544,
+      1545,
+      1546
+    ],
+    "raw": "Poly for the win. Honestly, I would ditch that king. Use this freaking king. I'd rather have a hair of queens.",
+    "status": "LOW",
+    "reason": "Clear preference for multiple queens recovered separately; use-this/useless king phrase unresolved.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1547,
+      1548,
+      1549
+    ],
+    "raw": "Unless that king moves beyond its butt and moves beyond one space at a time, it is absolutely garbage. It shows the",
+    "status": "SFT",
+    "actually": "Unless that king gets off its backside and moves more than one square at once, it is completely useless.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1550,
+      1551,
+      1552,
+      1553,
+      1554
+    ],
+    "raw": "biggest advantage. So, if I move it um if I move it like this, I keep playing against myself, I guess. H I don't think chess analysis helps me personally.",
+    "status": "SFT",
+    "actually": "It shows the biggest advantage. I suppose moving this means I keep playing against myself. I do not think chess analysis helps me personally.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1555,
+      1556,
+      1557
+    ],
+    "raw": "There you go. Uh let's do let's do a harder one. Like, I'll be bad, don't get me wrong. I also be suckish.",
+    "status": "SFT",
+    "actually": "Let us try a harder one. I will still be bad at it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1558,
+      1559,
+      1560,
+      1561
+    ],
+    "raw": "Uh new game. Let's do kebab a burger, actually. Okay. There you go.",
+    "status": "SFT",
+    "actually": "New game. Let us try Kebab—Burger, actually. There we go.",
+    "raw_fixes": [
+      [
+        "no game",
+        "new game"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1562,
+      1563,
+      1564,
+      1565
+    ],
+    "raw": "There. So, this is now 850. I'm still really bad at the game, though. Uh, let's do an opening move. I think E4 to E5 is usually the best one.",
+    "status": "SFT",
+    "actually": "This one is rated eight hundred fifty. I am still very bad, but let us try an opening. I think E4 to E5 is usually best.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1566,
+      1567,
+      1568
+    ],
+    "raw": "But now that I think about it, if I was playing the black pieces, that would mean I'm at a disadvantage, isn't it?",
+    "status": "SFT",
+    "actually": "Would playing the black pieces put me at a disadvantage?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1569,
+      1570,
+      1571,
+      1572
+    ],
+    "raw": "It just said, \"Welcome to the grill zone.\" So, let me just look up the openings. I just want to try and simulate it. So,",
+    "status": "SFT",
+    "actually": "It said, “Welcome to the grill zone.” Let me look up openings to try to reproduce one.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1573,
+      1574,
+      1575,
+      1576,
+      1577
+    ],
+    "raw": "there's the Vienna game, but it doesn't tell me how to do it. King's Gambit sounds dangerous. I'm going to try Scandinavian. Scandinavian. Scandinavian.",
+    "status": "SFT",
+    "actually": "There is the Vienna Game, but it does not explain how to play it. The King's Gambit sounds dangerous; I will try Scandinavian.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1578,
+      1579,
+      1580,
+      1581,
+      1582,
+      1583,
+      1584,
+      1585
+    ],
+    "raw": "So, I go here. Uh, it simulated something else I was not prepared for. So, I think this is going to become Italian again if I if I do this. However, I could go over here. I could Yes. So, this would become the uh not nothing useful. Never mind.",
+    "status": "SFT",
+    "actually": "I go here, but it did something unexpected. This might become Italian again if I do this. I could go here—no, that produces nothing useful. Never mind.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1586,
+      1587,
+      1588,
+      1589,
+      1590,
+      1591,
+      1592
+    ],
+    "raw": "It has become useless now. I I tried mimicking something. It didn't work. So, I'm just going to ignore it now. So, if I take this, our tower's probably going to take it. So, I'm just going to completely ignore that. If I take it here.",
+    "status": "SFT",
+    "actually": "I tried copying something and it failed, so I will ignore it. Taking this would probably let our tower take it; I will ignore that.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1593,
+      1594,
+      1595,
+      1596
+    ],
+    "raw": "If I take it here, what happens? Um, it's still safe. It's still safe. Yeah, let's do that. We'll go there. I just exposed my king, too, actually.",
+    "status": "SFT",
+    "actually": "What happens if I take this here? It is still safe; let us do it. I exposed my king too, actually.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1597,
+      1598,
+      1599,
+      1600
+    ],
+    "raw": "Gosh dang it, Scandinavia. Okay, Scandinavia might have screwed me over. That's okay. That's okay. Everyone loves Scandinavians. Um,",
+    "status": "SFT",
+    "actually": "Scandinavia may have disadvantaged me. That is okay; everyone loves Scandinavians.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1488,
+      1489,
+      1490,
+      1491,
+      1492
+    ],
+    "raw": "I could move you over here. Yeah. Yeah. Yeah. Yeah. And then we'll Oh, wait. I could actually I could I can take two queens. I can take three. I can make three queens",
+    "actually": "I could move you here. Wait; I could have two queens, or three. I can make three queens.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1492,
+      1493
+    ],
+    "raw": "Wait, what if I what if I do another? Yeah.",
+    "actually": "What if I do another? Yes.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1544
+    ],
+    "raw": "Poly for the win.",
+    "actually": "Polyamory for the win.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1544,
+      1545
+    ],
+    "raw": "Honestly, I would ditch that king.",
+    "actually": "Honestly, I would abandon that king.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1546
+    ],
+    "raw": "I'd rather have a harem of queens.",
+    "actually": "I would rather have a harem of queens.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

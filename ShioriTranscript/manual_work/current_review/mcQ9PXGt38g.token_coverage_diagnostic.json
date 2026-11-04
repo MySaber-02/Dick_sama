@@ -1,0 +1,449 @@
+{
+  "note": "Structural word-matching diagnostic only; approved spelling fixes and repeated words require manual source matching.",
+  "unmatched_decisions": [
+    {
+      "decision": 118,
+      "source_segments": [
+        137,
+        138
+      ],
+      "raw": "They just have to last a minute and a half-ish.",
+      "unmatched_words": [
+        "half",
+        "ish"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 127,
+      "source_segments": [
+        153,
+        154,
+        155,
+        156
+      ],
+      "raw": "She might win. I think the others are pretty good at hiding, too. I know Herb's played before. I'm not sure about the others, though.",
+      "unmatched_words": [
+        "herb's"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 193,
+      "source_segments": [
+        253,
+        254
+      ],
+      "raw": "You want to do a golden one? Why don't just do like a censor bar?",
+      "unmatched_words": [
+        "censor"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 194,
+      "source_segments": [
+        255,
+        256
+      ],
+      "raw": "But But isn't it more lewd when you have a bikini on?",
+      "unmatched_words": [
+        "lewd"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 299,
+      "source_segments": [
+        414,
+        415,
+        416
+      ],
+      "raw": "Yeah. What if I just start blasting? Oh, wait. There's a timer or cooldown for this. What if we just started blasting?",
+      "unmatched_words": [
+        "cooldown"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 580,
+      "source_segments": [
+        808,
+        809,
+        810,
+        811
+      ],
+      "raw": "oh my god I'm not even painting it correctly really",
+      "unmatched_words": [
+        "painting"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 599,
+      "source_segments": [
+        832
+      ],
+      "raw": "I can't use the eyedropper either",
+      "unmatched_words": [
+        "eyedropper"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 859,
+      "source_segments": [
+        1206,
+        1207,
+        1208
+      ],
+      "raw": "All right. always remember lips sealed tight ladies.",
+      "unmatched_words": [
+        "lips",
+        "ladies"
+      ],
+      "status": "SFT"
+    },
+    {
+      "decision": 883,
+      "source_segments": [
+        1247,
+        1248,
+        1249
+      ],
+      "raw": "Yeah. Okay. Wait. We got still still got time. Sunk cost fallacy. I don't know, man.",
+      "unmatched_words": [
+        "sunk"
+      ],
+      "status": "SFT"
+    }
+  ],
+  "unrepresented_source_words": [
+    {
+      "source_segment": 69,
+      "source_raw": ">> Oh, there we go. Oh, why is there",
+      "missing_words": [
+        [
+          4,
+          "oh"
+        ]
+      ]
+    },
+    {
+      "source_segment": 138,
+      "source_raw": "halfish.",
+      "missing_words": [
+        [
+          0,
+          "halfish"
+        ]
+      ]
+    },
+    {
+      "source_segment": 154,
+      "source_raw": "pretty good at hiding, too. I know Herbs",
+      "missing_words": [
+        [
+          7,
+          "herbs"
+        ]
+      ]
+    },
+    {
+      "source_segment": 254,
+      "source_raw": "just do like a sensor bar?",
+      "missing_words": [
+        [
+          4,
+          "sensor"
+        ]
+      ]
+    },
+    {
+      "source_segment": 255,
+      "source_raw": ">> But But isn't it more LWD when you have",
+      "missing_words": [
+        [
+          5,
+          "lwd"
+        ]
+      ]
+    },
+    {
+      "source_segment": 415,
+      "source_raw": "wait. There's a timer or cool down for",
+      "missing_words": [
+        [
+          5,
+          "cool"
+        ],
+        [
+          6,
+          "down"
+        ]
+      ]
+    },
+    {
+      "source_segment": 583,
+      "source_raw": "She's good. She's No, I think I think",
+      "missing_words": [
+        [
+          2,
+          "she's"
+        ]
+      ]
+    },
+    {
+      "source_segment": 598,
+      "source_raw": ">> We're all in the climb. I just ran. I",
+      "missing_words": [
+        [
+          8,
+          "i"
+        ]
+      ]
+    },
+    {
+      "source_segment": 782,
+      "source_raw": ">> I'm going to I'm going to pray. I'm",
+      "missing_words": [
+        [
+          7,
+          "i'm"
+        ]
+      ]
+    },
+    {
+      "source_segment": 802,
+      "source_raw": ">> Oh, that's good. Oh, I'm good.",
+      "missing_words": [
+        [
+          3,
+          "oh"
+        ]
+      ]
+    },
+    {
+      "source_segment": 806,
+      "source_raw": ">> Oh, you can tell this. Mo, you can",
+      "missing_words": [
+        [
+          6,
+          "you"
+        ],
+        [
+          7,
+          "can"
+        ]
+      ]
+    },
+    {
+      "source_segment": 810,
+      "source_raw": ">> I'm not even paying it correctly.",
+      "missing_words": [
+        [
+          3,
+          "paying"
+        ]
+      ]
+    },
+    {
+      "source_segment": 813,
+      "source_raw": ">> I don't know. I'm so bad. I'm so",
+      "missing_words": [
+        [
+          6,
+          "i'm"
+        ],
+        [
+          7,
+          "so"
+        ]
+      ]
+    },
+    {
+      "source_segment": 814,
+      "source_raw": ">> funny. From the right angle. From the",
+      "missing_words": [
+        [
+          5,
+          "from"
+        ],
+        [
+          6,
+          "the"
+        ]
+      ]
+    },
+    {
+      "source_segment": 815,
+      "source_raw": "right angle, it's really good.",
+      "missing_words": [
+        [
+          0,
+          "right"
+        ],
+        [
+          1,
+          "angle"
+        ]
+      ]
+    },
+    {
+      "source_segment": 832,
+      "source_raw": ">> I can't use the eyropper either.",
+      "missing_words": [
+        [
+          4,
+          "eyropper"
+        ]
+      ]
+    },
+    {
+      "source_segment": 853,
+      "source_raw": ">> I think she sees me. I think you're",
+      "missing_words": [
+        [
+          5,
+          "i"
+        ],
+        [
+          6,
+          "think"
+        ]
+      ]
+    },
+    {
+      "source_segment": 866,
+      "source_raw": ">> Oh no. Oh no. She sees you. Oh, she",
+      "missing_words": [
+        [
+          7,
+          "oh"
+        ],
+        [
+          8,
+          "she"
+        ]
+      ]
+    },
+    {
+      "source_segment": 880,
+      "source_raw": ">> Oh, thank you. I thought it was good. I",
+      "missing_words": [
+        [
+          8,
+          "i"
+        ]
+      ]
+    },
+    {
+      "source_segment": 881,
+      "source_raw": "was like, I'm looking at the balloons",
+      "missing_words": [
+        [
+          0,
+          "was"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1054,
+      "source_raw": ">> I can do this. I see.",
+      "missing_words": [
+        [
+          4,
+          "i"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1062,
+      "source_raw": ">> No, I'm bad. No, you thought Secretary.",
+      "missing_words": [
+        [
+          3,
+          "no"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1208,
+      "source_raw": ">> remember lip sealed tight lad days.",
+      "missing_words": [
+        [
+          1,
+          "lip"
+        ],
+        [
+          4,
+          "lad"
+        ],
+        [
+          5,
+          "days"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1249,
+      "source_raw": "Sun cost fallacy. I don't know, man.",
+      "missing_words": [
+        [
+          0,
+          "sun"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1262,
+      "source_raw": "Oh, no. I may have this. I don't think",
+      "missing_words": [
+        [
+          6,
+          "i"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1279,
+      "source_raw": ">> Oh, there's letters here. Oh,",
+      "missing_words": [
+        [
+          4,
+          "oh"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1331,
+      "source_raw": ">> I saw someone really close to me. I feel",
+      "missing_words": [
+        [
+          7,
+          "i"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1349,
+      "source_raw": ">> And one of you guys started climbing and",
+      "missing_words": [
+        [
+          7,
+          "and"
+        ]
+      ]
+    },
+    {
+      "source_segment": 1376,
+      "source_raw": ">> 150. Cut it off by half. It was",
+      "missing_words": [
+        [
+          6,
+          "it"
+        ]
+      ]
+    }
+  ]
+}

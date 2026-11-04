@@ -1,0 +1,1655 @@
+{
+  "status": "manual_gap_triage_not_final_source_to_record_map",
+  "classification_legend": {
+    "S": "clear source speech; final record assignment required",
+    "L": "LOW for unresolved diagnostic subspan",
+    "F": "explicit repair decision"
+  },
+  "rows": [
+    {
+      "source_segment": 587,
+      "source_raw": ">> You got this. You got this.",
+      "literal_diagnostic_gap": "you got this you got this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 614,
+      "source_raw": "Very nice. Very nice.",
+      "literal_diagnostic_gap": "very nice very nice",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 615,
+      "source_raw": ">> She missed. She missed. She missed.",
+      "literal_diagnostic_gap": "she missed she missed she missed",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 616,
+      "source_raw": ">> She missed.",
+      "literal_diagnostic_gap": "she missed",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 617,
+      "source_raw": ">> She missed. She missed.",
+      "literal_diagnostic_gap": "she missed she missed",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 618,
+      "source_raw": ">> She missed.",
+      "literal_diagnostic_gap": "she missed",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 622,
+      "source_raw": "back. Not dead yet.",
+      "literal_diagnostic_gap": "not dead yet",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 659,
+      "source_raw": "It's okay. 20 seconds.",
+      "literal_diagnostic_gap": "20 seconds",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 660,
+      "source_raw": ">> You got this. You got this.",
+      "literal_diagnostic_gap": "you got this you got this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 671,
+      "source_raw": "Y",
+      "literal_diagnostic_gap": "y",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 689,
+      "source_raw": ">> Okay.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 690,
+      "source_raw": "Bale zoo. Okay. Of course you are.",
+      "literal_diagnostic_gap": "okay of course you are",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 695,
+      "source_raw": ">> The name and the password of the lobby",
+      "literal_diagnostic_gap": "the name and the password of the lobby",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 696,
+      "source_raw": "is in the the chat.",
+      "literal_diagnostic_gap": "is in the the chat",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 702,
+      "source_raw": ">> Y",
+      "literal_diagnostic_gap": "y",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 703,
+      "source_raw": "Okay,",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 704,
+      "source_raw": ">> here we go.",
+      "literal_diagnostic_gap": "here we go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 705,
+      "source_raw": ">> Oh, pretty.",
+      "literal_diagnostic_gap": "oh pretty",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 706,
+      "source_raw": "Why am I so",
+      "literal_diagnostic_gap": "why am i so",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 710,
+      "source_raw": ">> Okay, if this is if this is the max, we",
+      "literal_diagnostic_gap": "okay if this is if this is the max we",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 711,
+      "source_raw": "can go.",
+      "literal_diagnostic_gap": "can go",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 712,
+      "source_raw": ">> Why not?",
+      "literal_diagnostic_gap": "why not",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 713,
+      "source_raw": ">> It's so",
+      "literal_diagnostic_gap": "it s so",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 717,
+      "source_raw": ">> I think I'm good. So, I think my pose is",
+      "literal_diagnostic_gap": "i think i m good so i think my pose is",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 718,
+      "source_raw": "good here. Just like this.",
+      "literal_diagnostic_gap": "good here just like this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 724,
+      "source_raw": ">> How How are you guys like getting under",
+      "literal_diagnostic_gap": "how how are you guys like getting under",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 725,
+      "source_raw": "things?",
+      "literal_diagnostic_gap": "things",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 726,
+      "source_raw": ">> Vertical. Vertical.",
+      "literal_diagnostic_gap": "vertical vertical",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 729,
+      "source_raw": ">> What do you mean by vertical if this is",
+      "literal_diagnostic_gap": "if this is",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 730,
+      "source_raw": "not? Oh, yes. Yes. Yes. Okay. Okay.",
+      "literal_diagnostic_gap": "not",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 731,
+      "source_raw": "Body. Oh,",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 734,
+      "source_raw": ">> Oh, there we go.",
+      "literal_diagnostic_gap": "oh there we go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 759,
+      "source_raw": "once, you know.",
+      "literal_diagnostic_gap": "you know",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 760,
+      "source_raw": ">> Yeah. Yeah. You deserve it. Yeah. Thank",
+      "literal_diagnostic_gap": "yeah yeah",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 764,
+      "source_raw": ">> Yes.",
+      "literal_diagnostic_gap": "yes",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 765,
+      "source_raw": ">> Okay. That's turn up the metallic. Turn",
+      "literal_diagnostic_gap": "okay that s",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 774,
+      "source_raw": ">> I'm going to crash. I might win this",
+      "literal_diagnostic_gap": "i might win this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 775,
+      "source_raw": "one. Hey, man. I might win this one,",
+      "literal_diagnostic_gap": "one",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 778,
+      "source_raw": ">> How do I rotate? Oh, there",
+      "literal_diagnostic_gap": "how do i rotate",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 779,
+      "source_raw": ">> seconds. Wait. Rotate. Wait. You got to",
+      "literal_diagnostic_gap": "you got to",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 780,
+      "source_raw": "do it from the top. You got to do it",
+      "literal_diagnostic_gap": "do it from the top you got to do it",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 781,
+      "source_raw": "from the top. This is what",
+      "literal_diagnostic_gap": "from the top",
+      "manual_classification": "F",
+      "note": "Recover repeated command using decisions; keep trailing This is what in existing LOW."
+    },
+    {
+      "source_segment": 792,
+      "source_raw": ">> I'm not even finished painting. Oh my",
+      "literal_diagnostic_gap": "oh my",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 793,
+      "source_raw": "god.",
+      "literal_diagnostic_gap": "god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 796,
+      "source_raw": ">> No [ __ ]",
+      "literal_diagnostic_gap": "no [ __ ]",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 799,
+      "source_raw": ">> Yeah, as long as I'm alive, we'll be",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 808,
+      "source_raw": "What the heck? There's roughness. Oh my",
+      "literal_diagnostic_gap": "oh my",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 809,
+      "source_raw": "god.",
+      "literal_diagnostic_gap": "god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 810,
+      "source_raw": ">> I'm not even paying it correctly.",
+      "literal_diagnostic_gap": "i m not even paying it correctly",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 811,
+      "source_raw": ">> Really?",
+      "literal_diagnostic_gap": "really",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 816,
+      "source_raw": ">> Angle, it's really good. Yeah. Yeah.",
+      "literal_diagnostic_gap": "yeah yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 817,
+      "source_raw": "Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 818,
+      "source_raw": ">> Oh my gosh.",
+      "literal_diagnostic_gap": "oh my gosh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 832,
+      "source_raw": ">> I can't use the eyropper either.",
+      "literal_diagnostic_gap": "i can t use the eyropper either",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 840,
+      "source_raw": ">> My god. GG.",
+      "literal_diagnostic_gap": "my god gg",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 843,
+      "source_raw": ">> That's really good.",
+      "literal_diagnostic_gap": "that s really good",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 845,
+      "source_raw": "Yes,",
+      "literal_diagnostic_gap": "yes",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 846,
+      "source_raw": ">> I I'm around. You should You should look",
+      "literal_diagnostic_gap": "i",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 848,
+      "source_raw": ">> That's really good.",
+      "literal_diagnostic_gap": "that s really good",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 898,
+      "source_raw": ">> Oh god.",
+      "literal_diagnostic_gap": "oh god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 899,
+      "source_raw": ">> Oh no.",
+      "literal_diagnostic_gap": "oh no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 904,
+      "source_raw": ">> [ __ ] you are our last hope in case we",
+      "literal_diagnostic_gap": "[ __ ]",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 913,
+      "source_raw": "just looking down the hallway. It's",
+      "literal_diagnostic_gap": "it s",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 914,
+      "source_raw": "really",
+      "literal_diagnostic_gap": "really",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 918,
+      "source_raw": ">> Uhoh. Uhoh.",
+      "literal_diagnostic_gap": "uhoh uhoh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 923,
+      "source_raw": ">> Oh, that's so good.",
+      "literal_diagnostic_gap": "oh that s so good",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 968,
+      "source_raw": "catch you every was any of you guys",
+      "literal_diagnostic_gap": "every was any of you guys",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 969,
+      "source_raw": "balloons.",
+      "literal_diagnostic_gap": "balloons",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 973,
+      "source_raw": ">> Oh,",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 974,
+      "source_raw": "it looks like we we're all the hunters",
+      "literal_diagnostic_gap": "it looks like we we re all the hunters",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 977,
+      "source_raw": ">> Is this a joke?",
+      "literal_diagnostic_gap": "is this a joke",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 984,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 985,
+      "source_raw": ">> No, no. I just It's just It's just",
+      "literal_diagnostic_gap": "no no i just it s just it s just",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 986,
+      "source_raw": "convenient, you know?",
+      "literal_diagnostic_gap": "convenient you know",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 987,
+      "source_raw": ">> It is. Yeah. Oh, wait. What if",
+      "literal_diagnostic_gap": "it is yeah oh wait what if",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 988,
+      "source_raw": ">> it's kind of crazy?",
+      "literal_diagnostic_gap": "it s kind of crazy",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 992,
+      "source_raw": ">> H",
+      "literal_diagnostic_gap": "h",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 997,
+      "source_raw": ">> You You got to do like a wink.",
+      "literal_diagnostic_gap": "you",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 998,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 999,
+      "source_raw": ">> You got to do like a smile.",
+      "literal_diagnostic_gap": "you got to do like a smile",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1000,
+      "source_raw": "And then you got to do um",
+      "literal_diagnostic_gap": "and then you got to do um",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1001,
+      "source_raw": "feathers. Except that's a lot of work.",
+      "literal_diagnostic_gap": "feathers except that s a lot of work",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1002,
+      "source_raw": "So I'm just going to make you black.",
+      "literal_diagnostic_gap": "so i m just going to make you black",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1042,
+      "source_raw": ">> Yeah. And and you look shiny. Yeah,",
+      "literal_diagnostic_gap": "yeah and and you look shiny yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1043,
+      "source_raw": ">> shiny.",
+      "literal_diagnostic_gap": "shiny",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1045,
+      "source_raw": "this again. Need to get out. There we",
+      "literal_diagnostic_gap": "there we",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1046,
+      "source_raw": "go.",
+      "literal_diagnostic_gap": "go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1061,
+      "source_raw": ">> It's all up to you two. I'm bad at this.",
+      "literal_diagnostic_gap": "i m bad at this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1097,
+      "source_raw": ">> You can do this.",
+      "literal_diagnostic_gap": "you can do this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1116,
+      "source_raw": ">> You You can do You're so good. You can",
+      "literal_diagnostic_gap": "you",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1118,
+      "source_raw": ">> No. No, I'm not.",
+      "literal_diagnostic_gap": "no no i m not",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1123,
+      "source_raw": ">> Mhm.",
+      "literal_diagnostic_gap": "mhm",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1125,
+      "source_raw": ">> Yeah,",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1134,
+      "source_raw": ">> Mhm.",
+      "literal_diagnostic_gap": "mhm",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1163,
+      "source_raw": ">> Yeah. Oh,",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1177,
+      "source_raw": "Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1182,
+      "source_raw": ">> Uh just make sure to leave the voice",
+      "literal_diagnostic_gap": "uh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1194,
+      "source_raw": ">> Takes anymore. Okay.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1206,
+      "source_raw": ">> All right.",
+      "literal_diagnostic_gap": "all right",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1207,
+      "source_raw": "always",
+      "literal_diagnostic_gap": "always",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1208,
+      "source_raw": ">> remember lip sealed tight lad days.",
+      "literal_diagnostic_gap": "remember lip sealed tight lad days",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1209,
+      "source_raw": ">> I'm a hunter.",
+      "literal_diagnostic_gap": "i m a hunter",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1224,
+      "source_raw": ">> Mhm. Maybe",
+      "literal_diagnostic_gap": "mhm",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1238,
+      "source_raw": ">> I see.",
+      "literal_diagnostic_gap": "i see",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1241,
+      "source_raw": ">> No, no, no.",
+      "literal_diagnostic_gap": "no no no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1244,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1286,
+      "source_raw": ">> All right, bets on Crony finding me. No,",
+      "literal_diagnostic_gap": "no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1287,
+      "source_raw": "Fuamoko are going to have their revenge.",
+      "literal_diagnostic_gap": "fuamoko are going to have their revenge",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1289,
+      "source_raw": "go. They knew like right to go. Oh my",
+      "literal_diagnostic_gap": "oh my",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1290,
+      "source_raw": "god,",
+      "literal_diagnostic_gap": "god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1294,
+      "source_raw": ">> Please.",
+      "literal_diagnostic_gap": "please",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1296,
+      "source_raw": "This is terrifying.",
+      "literal_diagnostic_gap": "this is terrifying",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1297,
+      "source_raw": ">> Should I get",
+      "literal_diagnostic_gap": "should i get",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1302,
+      "source_raw": ">> Do you need to move coals or I'm going",
+      "literal_diagnostic_gap": "do you need to",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1324,
+      "source_raw": ">> That's a lot.",
+      "literal_diagnostic_gap": "that s a lot",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1330,
+      "source_raw": "Uh, someone walked right over me.",
+      "literal_diagnostic_gap": "uh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1332,
+      "source_raw": "like my Oh,",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1334,
+      "source_raw": ">> Nothing.",
+      "literal_diagnostic_gap": "nothing",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1337,
+      "source_raw": ">> Okay, only two more. I senpai.",
+      "literal_diagnostic_gap": "i senpai",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1376,
+      "source_raw": ">> 150. Cut it off by half. It was",
+      "literal_diagnostic_gap": "it was",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1385,
+      "source_raw": ">> Uh, Hog B, you weren't muted in game, by",
+      "literal_diagnostic_gap": "uh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1386,
+      "source_raw": "the way. I don't know if",
+      "literal_diagnostic_gap": "i don t know if",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1402,
+      "source_raw": "now, I guess. Wait, Hunter is channel",
+      "literal_diagnostic_gap": "wait hunter is channel",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1403,
+      "source_raw": "one now, right? That's why that's why",
+      "literal_diagnostic_gap": "one now right",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1405,
+      "source_raw": ">> Yeah. Okay.",
+      "literal_diagnostic_gap": "yeah okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1407,
+      "source_raw": "Ah, no. Can I not be turning the side?",
+      "literal_diagnostic_gap": "ah no can i not be turning the side",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1420,
+      "source_raw": "too much. Really? This is very much in",
+      "literal_diagnostic_gap": "this is very much in",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1422,
+      "source_raw": ">> And",
+      "literal_diagnostic_gap": "and",
+      "manual_classification": "L",
+      "note": "Only isolated conjunction gap needs LOW; clear surrounding speech remains SFT."
+    },
+    {
+      "source_segment": 1430,
+      "source_raw": ">> Maybe I should be a bit more blue. No, I",
+      "literal_diagnostic_gap": "no i",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1431,
+      "source_raw": "think this will go",
+      "literal_diagnostic_gap": "think",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1434,
+      "source_raw": ">> I want to turn my body. How do I turn my",
+      "literal_diagnostic_gap": "i want to turn my body how do i turn my",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1435,
+      "source_raw": "body without moving",
+      "literal_diagnostic_gap": "body",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1438,
+      "source_raw": ">> I have no idea. Let's just",
+      "literal_diagnostic_gap": "let s just",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1439,
+      "source_raw": ">> maybe",
+      "literal_diagnostic_gap": "maybe",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1440,
+      "source_raw": ">> um",
+      "literal_diagnostic_gap": "um",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1442,
+      "source_raw": ">> Let's figure out it's still too in",
+      "literal_diagnostic_gap": "it s still too in",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1443,
+      "source_raw": ">> colorwise.",
+      "literal_diagnostic_gap": "colorwise",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1446,
+      "source_raw": ">> There a better Maybe there's a better",
+      "literal_diagnostic_gap": "there a better maybe there s a better",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1447,
+      "source_raw": ">> Come on.",
+      "literal_diagnostic_gap": "come on",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1456,
+      "source_raw": ">> Okay. Um",
+      "literal_diagnostic_gap": "okay um",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1457,
+      "source_raw": ">> Oops.",
+      "literal_diagnostic_gap": "oops",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1458,
+      "source_raw": ">> Time to",
+      "literal_diagnostic_gap": "time to",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1463,
+      "source_raw": ">> 50 seconds.",
+      "literal_diagnostic_gap": "50 seconds",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1468,
+      "source_raw": ">> I made a metallic all the way.",
+      "literal_diagnostic_gap": "i made a metallic all the way",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1472,
+      "source_raw": ">> Oh,",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1473,
+      "source_raw": ">> we're still in infected mode, right?",
+      "literal_diagnostic_gap": "we re still in infected mode right",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1474,
+      "source_raw": ">> Yeah. Yeah.",
+      "literal_diagnostic_gap": "yeah yeah",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1475,
+      "source_raw": ">> Don't reveal too much about where you",
+      "literal_diagnostic_gap": "don t reveal too much about where you",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1476,
+      "source_raw": "are.",
+      "literal_diagnostic_gap": "are",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1477,
+      "source_raw": ">> Oh,",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1478,
+      "source_raw": ">> wait. What?",
+      "literal_diagnostic_gap": "wait what",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1479,
+      "source_raw": ">> Okay. Okay. Okay.",
+      "literal_diagnostic_gap": "okay okay okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1480,
+      "source_raw": "Yeah. Yeah.",
+      "literal_diagnostic_gap": "yeah yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1488,
+      "source_raw": "are immediately found. Who knows?",
+      "literal_diagnostic_gap": "who knows",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1492,
+      "source_raw": ">> Okay. Okay.",
+      "literal_diagnostic_gap": "okay okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1493,
+      "source_raw": ">> Huh?",
+      "literal_diagnostic_gap": "huh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1494,
+      "source_raw": ">> Please no.",
+      "literal_diagnostic_gap": "please no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1495,
+      "source_raw": ">> Okay.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1496,
+      "source_raw": ">> Surely.",
+      "literal_diagnostic_gap": "surely",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1499,
+      "source_raw": ">> She has to find somebody.",
+      "literal_diagnostic_gap": "she has to find somebody",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1506,
+      "source_raw": ">> Goodbye.",
+      "literal_diagnostic_gap": "goodbye",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1509,
+      "source_raw": "see each other or something. No,",
+      "literal_diagnostic_gap": "no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1510,
+      "source_raw": ">> I don't. In this mode, I'm assuming you",
+      "literal_diagnostic_gap": "i don t",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1512,
+      "source_raw": ">> No.",
+      "literal_diagnostic_gap": "no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1531,
+      "source_raw": ">> They do not notice.",
+      "literal_diagnostic_gap": "they do not notice",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1532,
+      "source_raw": ">> No, no, no, no, no.",
+      "literal_diagnostic_gap": "no no no no no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1535,
+      "source_raw": ">> I know. I know.",
+      "literal_diagnostic_gap": "i know i know",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1541,
+      "source_raw": "H.",
+      "literal_diagnostic_gap": "h",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1551,
+      "source_raw": ">> I hate this map.",
+      "literal_diagnostic_gap": "i hate this map",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1554,
+      "source_raw": "Oh my god.",
+      "literal_diagnostic_gap": "oh my god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1557,
+      "source_raw": ">> I know.",
+      "literal_diagnostic_gap": "i know",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1574,
+      "source_raw": ">> Good job.",
+      "literal_diagnostic_gap": "good job",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1575,
+      "source_raw": ">> Really good though. I have to give her.",
+      "literal_diagnostic_gap": "really good though",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1577,
+      "source_raw": ">> She missed.",
+      "literal_diagnostic_gap": "she missed",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1603,
+      "source_raw": ">> Did I accidentally disable names? Did I",
+      "literal_diagnostic_gap": "did i",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1606,
+      "source_raw": ">> Yeah, I think so.",
+      "literal_diagnostic_gap": "yeah i think so",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1607,
+      "source_raw": ">> Why not? Who says who says country is",
+      "literal_diagnostic_gap": "why not",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1611,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1615,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1617,
+      "source_raw": ">> I'll do my best.",
+      "literal_diagnostic_gap": "i ll do my best",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1620,
+      "source_raw": ">> Okay.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1621,
+      "source_raw": ">> Okay. Let's see how this rules.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1622,
+      "source_raw": ">> It's my turn.",
+      "literal_diagnostic_gap": "it s my turn",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1623,
+      "source_raw": ">> It's my",
+      "literal_diagnostic_gap": "it s my",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1624,
+      "source_raw": "meadows. Meadows.",
+      "literal_diagnostic_gap": "meadows meadows",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1625,
+      "source_raw": ">> Meadows.",
+      "literal_diagnostic_gap": "meadows",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1626,
+      "source_raw": ">> Yeah.",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1627,
+      "source_raw": ">> Let's go.",
+      "literal_diagnostic_gap": "let s go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1628,
+      "source_raw": ">> Hide. Want to be a hidden.",
+      "literal_diagnostic_gap": "hide",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1629,
+      "source_raw": ">> Don't say where we're hiding. Okay.",
+      "literal_diagnostic_gap": "okay",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1630,
+      "source_raw": "Oh no. A dang it. No gnome.",
+      "literal_diagnostic_gap": "oh no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1633,
+      "source_raw": ">> That looks funny. That looks",
+      "literal_diagnostic_gap": "that looks",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1639,
+      "source_raw": ">> Get out of here spot. Oh.",
+      "literal_diagnostic_gap": "oh",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1641,
+      "source_raw": ">> Me, too.",
+      "literal_diagnostic_gap": "me too",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1643,
+      "source_raw": ">> Give up on this idea. Give up on this",
+      "literal_diagnostic_gap": "give up on this idea give up on this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1644,
+      "source_raw": "idea. You're not doing it.",
+      "literal_diagnostic_gap": "idea",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1647,
+      "source_raw": ">> How do I do this?",
+      "literal_diagnostic_gap": "how do i do this",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1659,
+      "source_raw": ">> Please.",
+      "literal_diagnostic_gap": "please",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1662,
+      "source_raw": ">> I'm going to",
+      "literal_diagnostic_gap": "i m going to",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1666,
+      "source_raw": "It could be. Why don't we try it right",
+      "literal_diagnostic_gap": "it could be",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1676,
+      "source_raw": "I'm trying to",
+      "literal_diagnostic_gap": "i m trying to",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1679,
+      "source_raw": ">> I know. That's too metallic.",
+      "literal_diagnostic_gap": "i know",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1682,
+      "source_raw": ">> The heck was it like that? No, no, no.",
+      "literal_diagnostic_gap": "no no no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1683,
+      "source_raw": ">> Oh, I see.",
+      "literal_diagnostic_gap": "oh i see",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1684,
+      "source_raw": ">> Oh, yeah. You're boring. What the heck?",
+      "literal_diagnostic_gap": "what the heck",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1688,
+      "source_raw": ">> Spin your Oh my god. Ah, that's that's",
+      "literal_diagnostic_gap": "oh my god",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1689,
+      "source_raw": "from different angles, though. One",
+      "literal_diagnostic_gap": "one",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1690,
+      "source_raw": "second.",
+      "literal_diagnostic_gap": "second",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1691,
+      "source_raw": ">> Hold on.",
+      "literal_diagnostic_gap": "hold on",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1692,
+      "source_raw": ">> Use little details. I know. I'm trying.",
+      "literal_diagnostic_gap": "i know i m trying",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1695,
+      "source_raw": ">> I so cooked. I'm so cooked.",
+      "literal_diagnostic_gap": "i m so cooked",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1698,
+      "source_raw": ">> Let's go. If we can't do better. Spin",
+      "literal_diagnostic_gap": "let s go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1700,
+      "source_raw": ">> Don't try anything. Oh,",
+      "literal_diagnostic_gap": "don t try anything",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1701,
+      "source_raw": ">> why am I Why am I Why am I darker now? I",
+      "literal_diagnostic_gap": "i",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1702,
+      "source_raw": "see.",
+      "literal_diagnostic_gap": "see",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1707,
+      "source_raw": ">> I think you should rotate yourself. So",
+      "literal_diagnostic_gap": "so",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1708,
+      "source_raw": ">> Oh, no. No. No.",
+      "literal_diagnostic_gap": "oh no no no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1709,
+      "source_raw": ">> Said don't try anything funny. Don't try",
+      "literal_diagnostic_gap": "don t try",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1710,
+      "source_raw": "anything funny. You're trying to Oh,",
+      "literal_diagnostic_gap": "anything funny",
+      "manual_classification": "F",
+      "note": "Explicit correction/new SFT in decisions_081_250.json; reconcile by source occurrence before canonical application."
+    },
+    {
+      "source_segment": 1718,
+      "source_raw": ">> I don't know, man.",
+      "literal_diagnostic_gap": "i don t know man",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1723,
+      "source_raw": ">> This is We need the rougher color.",
+      "literal_diagnostic_gap": "this is",
+      "manual_classification": "L",
+      "note": "Unresolved/unfinished gap subspan only; retain it in LOW. Clear other words in this source segment may remain SFT. Do not exclude entire source segment merely because one fragment is incomplete."
+    },
+    {
+      "source_segment": 1726,
+      "source_raw": ">> So stupid.",
+      "literal_diagnostic_gap": "so stupid",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1727,
+      "source_raw": "What do you mean?",
+      "literal_diagnostic_gap": "what do you mean",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1728,
+      "source_raw": ">> Oh no.",
+      "literal_diagnostic_gap": "oh no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1729,
+      "source_raw": ">> Maybe it could be good. It's",
+      "literal_diagnostic_gap": "it s",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1730,
+      "source_raw": ">> fine.",
+      "literal_diagnostic_gap": "fine",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1736,
+      "source_raw": ">> Why? I want a lighter color. Give me the",
+      "literal_diagnostic_gap": "why",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1737,
+      "source_raw": "lighter color. Why? Why is the game only",
+      "literal_diagnostic_gap": "why",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1739,
+      "source_raw": ">> It's over.",
+      "literal_diagnostic_gap": "it s over",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1742,
+      "source_raw": ">> There we go.",
+      "literal_diagnostic_gap": "there we go",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1743,
+      "source_raw": ">> No. No.",
+      "literal_diagnostic_gap": "no no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1745,
+      "source_raw": "Stay there.",
+      "literal_diagnostic_gap": "stay there",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1746,
+      "source_raw": "No.",
+      "literal_diagnostic_gap": "no",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1754,
+      "source_raw": ">> Yeah,",
+      "literal_diagnostic_gap": "yeah",
+      "manual_classification": "S",
+      "note": "Clear speech. Assign this genuine occurrence to an existing exact-meaning SFT candidate; do not invent a new event or deduplicate real repeated utterances. Some current raw may still omit filler/repetition, requiring literal restoration."
+    },
+    {
+      "source_segment": 1756,
+      "source_raw": "didn't believe in us. But",
+      "literal_diagnostic_gap": "but",
+      "manual_classification": "L",
+      "note": "Only isolated conjunction gap needs LOW; clear surrounding speech remains SFT."
+    }
+  ]
+}

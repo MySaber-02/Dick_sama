@@ -1,0 +1,616 @@
+[
+  {
+    "source_segments": [
+      1341,
+      1343
+    ],
+    "raw": "Gosh, I can get another spear. Nice body. You guys are hungry, I.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1341,
+      1342
+    ],
+    "raw": "Gosh, I can get another spear.",
+    "actually": "I can get another spear.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1345,
+      1355
+    ],
+    "raw": "Wow I I know the perfect pal for FCO the the one that looks like Peril oh I heard of it but I have I need we need to get them that P A is that something we could do all together as Adventure yeah I think I could lead you there and maybe give you some good balls to to get it I really want to get it for you guys because it’s like perfect for you it looks exactly like peels I like too I like catching the pearls",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1345,
+      1347
+    ],
+    "raw": "Wow, I I know the perfect pal for Fuwamoco. The the one that looks like Pero.",
+    "actually": "I know the perfect Pal for Fuwamoco, the one that looks like Pero.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1348,
+      1354
+    ],
+    "raw": "We need to get them that Pal. Is that something we could do all together as adventure? Yeah, I think I could lead you there and maybe give you some good balls to to get it. I really want to get it for you guys because it’s like perfect for you. It looks exactly like Pero.",
+    "actually": "We need to get them that Pal. Can we go together? I think I can lead you there and perhaps provide good balls to catch it. I want to get it for you because it is perfect for you and resembles Pero.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1355,
+      1360
+    ],
+    "raw": "Oh this is this is mol’s base it’s so pretty yeah um over here you can get the teleporter ah thank you teleporter wow it is really pretty here all right",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1357,
+      1360
+    ],
+    "raw": "It’s so pretty. Yeah, um, over here you can get the teleporter. Ah, thank you. Teleporter. Wow, it is really pretty here. All right.",
+    "actually": "It is beautiful here. You can get the teleporter here; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1361,
+      1369
+    ],
+    "raw": "See oh come catch follow these are pretty useful oh see yeah they’re Idols oh Idols they’re Idols hey I missed hey stop running got to B you I’m going to go I’m going for you come back come back gu I’ll go here they get it wrong one that’s the wrong one I’ll",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1361,
+      1363
+    ],
+    "raw": "Oh, come catch. These are pretty useful. Oh, see, yeah, they’re idols. Oh, idols, they’re idols.",
+    "actually": "Come and catch them; they are useful. They are idols.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1363,
+      1369
+    ],
+    "raw": "Hey, I missed. Hey, stop running. I’m going for you. Come back, come back. That’s the wrong one, that’s the wrong one.",
+    "actually": "I missed. Stop running; I am coming for you. Come back. That is the wrong one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1370,
+      1374
+    ],
+    "raw": "Try d cute tails come on is it people throw it throw the ball it sucks not being able to fly oh my gosh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1372,
+      1374
+    ],
+    "raw": "Throw it, throw the ball. It sucks not being able to fly. Oh my gosh.",
+    "actually": "Throw the ball. Being unable to fly is frustrating.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1375,
+      1379
+    ],
+    "raw": "Yeah, thank you. I’m going to climb this. Oh, this one’s cute too, if you want. Yeah, I saw him. He reminds me of someone.",
+    "actually": "Thank you; I will climb this. This one is cute too, if you want him. I saw him; he reminds me of someone.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1380,
+      1384
+    ],
+    "raw": "Really what’s up there I need to know from my curiosity is a spark it you where you go",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1380,
+      1382
+    ],
+    "raw": "Really, what’s up there? I need to know from my curiosity.",
+    "actually": "What is up there? I am curious and need to know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1385,
+      1388
+    ],
+    "raw": "No, don’t tell me if I can’t make it. I know I can make it. Yeah, super success. Where are you? I don’t know, I just went to wherever went to, yeah.",
+    "actually": "Do not tell me I cannot make it; I know I can. Success. Where are you? I do not know; I went wherever I went.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1389,
+      1395
+    ],
+    "raw": "What is this hey it looks pretty oh it’s a sealed realm the heck oh you guys are you guys are pinking yeah next right yeah okay I’ll leave them there then I get the torter that’s okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1389,
+      1391
+    ],
+    "raw": "What is this? Hey, it looks pretty. Oh, it’s a sealed realm. The heck?",
+    "actually": "What is this? It looks beautiful; a sealed realm.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1391,
+      1395
+    ],
+    "raw": "Oh, you guys are, you guys are Penking next, right? Yeah. Okay, I’ll leave them there then. I get the teleporter. That’s okay.",
+    "actually": "Are you doing Penking next? Yes. I will leave them there and get the teleporter; that is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1396,
+      1400
+    ],
+    "raw": "Oops, let’s go to P. Okay, ready? Okay. Oh, there was a pathway. Oh my God, I don’t have my, I don’t have the right thing equipped. It it’s okay, okay, it’s okay. This is a lot more exciting this way.",
+    "actually": "Ready? There was a path. I do not have the correct equipment; it is fine. This is more exciting.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1401,
+      1407
+    ],
+    "raw": "Yeah, I need, I think I should get more points for killing cows. All right, have fun with your uh your rampage. Well, I have to catch them because you get more XP that way. I need to go up one level.",
+    "actually": "I think I should get more points for killing cows. Enjoy your rampage. I need to catch them for more experience; I need another level.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1408,
+      1411
+    ],
+    "raw": "This way, this way, this way. Wow, Biboo, do you just remember, you remember on the map? Oh, I I’m looking at the map. That makes sense.",
+    "actually": "This way. Biboo, do you remember the route? I am looking at the map. That makes sense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1413,
+      1418
+    ],
+    "raw": "Uh-oh, okay, I’m okay. Uh, we can ride, we can ride Pals to be faster if you want. Sh, is this your Pal? Which one? I don’t know where. Oh, yeah, you didn’t bring Thea. Okay, that’s the wolf in this thing. Yeah, sorry.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1413,
+      1415
+    ],
+    "raw": "Uh-oh, okay, I’m okay. Uh, we can ride, we can ride Pals to be faster if you want.",
+    "actually": "I am fine. We can ride Pals to travel faster if you like.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1415,
+      1416
+    ],
+    "raw": "Is this your Pal? Which one? I don’t know where.",
+    "actually": "Is this your Pal? Which one? I do not know where.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1419,
+      1424
+    ],
+    "raw": "Um, if you make an accessory you can keep it out, but it’s a little hard if you’re trying to catch a Pal cuz it might kill it. I was about to kill this one. Oh, well, don’t kill it. It won’t appreciate it.",
+    "actually": "An accessory lets you keep it out, but it might kill a Pal you are trying to catch. I was about to kill this one. Do not; it will not appreciate that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1425,
+      1432
+    ],
+    "raw": "Like, why isn’t it getting hurt? This this this way this way this way this way this way this way this, no, this way this way. Okay, okay, I can read a map. I can read, I can read a map. Definitely better than us. Yeah, it’s better if it has GPS.",
+    "actually": "Why is it not getting hurt? This way—no, this way. I can read a map, better than we can. It is better with GPS.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1432,
+      1437
+    ],
+    "raw": "Yeah although we did pretty good in G gu we got a perfect score oh wow help you know the get a professional team I see",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1434,
+      1434
+    ],
+    "raw": "We got a perfect score.",
+    "actually": "We received a perfect score.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1437,
+      1441
+    ],
+    "raw": "Oh, I don’t know, Goldie decided. Oh, Goldie decided for me. Okay, Goldie. Okay, Goldie. Whoa, guys, pretty intense. We’re almost there, okay, I think. Yeah.",
+    "actually": "Goldie decided for me. That was intense. I think we are almost there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1442,
+      1445
+    ],
+    "raw": "Wait it’s so pretty here yeah I like the red yeah we should move here we should move here but we’re it’s the vable chill",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1442,
+      1444
+    ],
+    "raw": "Wait, it’s so pretty here. Yeah, I like the red. Yeah, we should move here, we should move here.",
+    "actually": "It is beautiful here; I like the red. We should move here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1445,
+      1453
+    ],
+    "raw": "You can make them a different, you can have two bases, mhm, so you can have one base here if you want. But I recommend having a base for mining, though. But you have to be a certain level for another base, right? Yeah, uh, base level 10 is where you get your second one. Where do you get your third one?",
+    "actually": "You can have two bases, so one could be here, though I recommend a mining base. Do you need a particular level? You get a second at base level ten. When do you get a third?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1454,
+      1458
+    ],
+    "raw": "15. Wait, really? I don’t have three bases. No, uh, base level 10, not not level. Oh, oh, yeah. Base level 15 is around level 30 something. Oh.",
+    "actually": "Fifteen. Really? I do not have three bases. Base level, rather than character level. Base level fifteen is around character level thirty-something.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1459,
+      1467
+    ],
+    "raw": "Opena you also got like very strong legs huh yeah we’re uh just working out here yeah oh welcome back kids hi we’re just sitting and contemplating life D you guys got some skinny arms wow wow you got huge arms youo okay shall we go let’s go go",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1459,
+      1460
+    ],
+    "raw": "You also got like very strong legs, huh? Yeah, we’re uh just working out here.",
+    "actually": "You also have strong legs, correct? We are exercising here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1461,
+      1466
+    ],
+    "raw": "Oh, welcome back, kids. Hi, we’re just sitting and contemplating life. You guys got some skinny arms. Wow, wow, you got huge arms. Okay, shall we go? Let’s go.",
+    "actually": "Welcome back. We are sitting and contemplating life. Your arms are thin. Your arms are large. Shall we go? Let us go.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1468,
+      1473
+    ],
+    "raw": "Enter. Yes, I’m nervous. Huh, oh, wow, this place looks fancy. Oh, it’s the French. There he is, Penking. All right, let’s have you this time. Goldie might be bit too strong. No, is Goldie out? Maybe not Goldie.",
+    "actually": "Enter; I am nervous. This place is elegant. There is the French one, Penking. Let us use you this time; Goldie may be too strong. Is Goldie out? Perhaps avoid Goldie.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1474,
+      1480
+    ],
+    "raw": "It is a shame I cannot capture the French penguin. You can capture. Not this one. Why not? Yeah, you can catch it. Yeah, oh, maybe just get at low health and then stop attacking. There there there, good enough.",
+    "actually": "It is unfortunate I cannot capture the French penguin. You can. Not this one? Why not? Lower its health, then stop attacking. That is enough.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1480,
+      1485
+    ],
+    "raw": "You’ll be Dr laack easy can’t we just keep fighting the boss so we all can catch a penin it respawns in an hour makes sense okay who wants the next one",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1481,
+      1485
+    ],
+    "raw": "Can’t we just keep fighting the boss so we all can catch a Penking? It respawns in an hour. Makes sense. Okay, who wants the next one then?",
+    "actually": "Can we keep fighting the boss so everyone can catch a Penking? It respawns in an hour. Who wants the next one?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1486,
+      1489
+    ],
+    "raw": "Um, I have one for Fuwamoco that I really want to get them. Okay, okay, let’s go. Um, hold on, where is it? We hungry, wait.",
+    "actually": "There is one I want to get for Fuwamoco. Let us go. Wait; where is it? We are hungry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1490,
+      1494
+    ],
+    "raw": "Shiny. Oh, yeah, there’s a shiny in your butt. Where? That way, that way. No.",
+    "actually": "A shiny is in your butt. Where? That way. No.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1495,
+      1501
+    ],
+    "raw": "Here is it a crus kind of hear it I don’t see anything down over here maybe it’s down below over here over here there oh it’s something we don’t know what it is I don’t know what oh it’s a big chicken oh okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1496,
+      1501
+    ],
+    "raw": "Kind of hear it. I don’t see anything down over here. Maybe it’s down below. Over here, over here, there. Oh, it’s something, we don’t know what it is. I don’t know what. Oh, it’s a big chicken. Oh, okay.",
+    "actually": "I can somewhat hear it but see nothing here. Perhaps it is below. Here; what is it? A large chicken.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1502,
+      1506
+    ],
+    "raw": "Someone get that chicken. We, I hope he lays golden eggs. He’s floating. I know if I going to kill him. Here, I’ll um I’ll poke him, hold on. Okay, oh, he’s in the water.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1502,
+      1503
+    ],
+    "raw": "Someone get that chicken. I hope he lays golden eggs. He’s floating.",
+    "actually": "Someone catch the chicken; I hope he lays golden eggs. He is floating.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1504,
+      1506
+    ],
+    "raw": "Here, I’ll um I’ll poke him. Hold on. Okay, oh, he’s in the water.",
+    "actually": "I will poke him. Wait; he is in the water.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1507,
+      1511
+    ],
+    "raw": "Uh-oh, uh, I don’t want to I don’t want to shoot it just in case. Let’s just bonk him. Let’s bonk them. Can you can you shoot it with an arrow? Okay, I will. So at least it comes up here.",
+    "actually": "I would rather avoid shooting it as a precaution. Let us hit it. Can you shoot an arrow so it comes here? I will.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1512,
+      1517
+    ],
+    "raw": "Okay now he’s angry come up come on up come on up you do it fly you can do it oh here four go take take this maybe this will help maybe this will work 3 for think get",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1512,
+      1516
+    ],
+    "raw": "Okay, now he’s angry. Come up, come on up, come on up. You do it, fly, you can do it. Take take this. Maybe this will help, maybe this will work.",
+    "actually": "He is angry now. Come up; fly, you can do it. Take this; perhaps it will help or work.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1521,
+      1530
+    ],
+    "raw": "It wow he’s cute he’s water chicken what should we call do you have them on you I want to see yeah do I have them on you let’s see no your Bo show you what should we name him water chicken water Pie about water pie how about fish water fish I like fish fish yeah just fish he’s a fish",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1522,
+      1525
+    ],
+    "raw": "Wow, he’s cute. He’s water chicken. What should we call? Do you have them on you? I want to see. Yeah, do I have them on you? Let’s see.",
+    "actually": "He is cute, a water chicken. What should we call him? Are you carrying them? I want to see. Let us check.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1526,
+      1530
+    ],
+    "raw": "What should we name him? Water chicken. Water pie? How about water pie? How about fish? Water fish. I like fish. Fish. Yeah, just fish, he’s a fish.",
+    "actually": "What should we name him? Water Chicken, Water Pie, or Fish? I like Fish. Just Fish; he is a fish.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1531,
+      1536
+    ],
+    "raw": "Mhm, okay, Biboo, where are we going? Okay, I’m think thinking, um, I have an idea. Okay, everybody take the teleport back to your base. Okay.",
+    "actually": "Biboo, where are we going? I am thinking; I have an idea. Everyone teleport to your base.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1538,
+      1542
+    ],
+    "raw": "Okay, can we teleport from anywhere? Oh, no. Teleport, yeah, nearby there’s a teleporter. It’s near the uh the boss we just did. Okay.",
+    "actually": "Can we teleport from anywhere? No; there is a teleporter near the boss we just fought.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1543,
+      1548
+    ],
+    "raw": "Can I climb up here? You can, but the teleporter is down here anyway. We’re going to our base? Yeah, go to your own base except for Nerissa. Nerissa, do you have, you Seabreeze Archipelago already, right?",
+    "actually": "Can I climb here? Yes, but the teleporter is below. Are we going to our bases? Everyone except Nerissa. Nerissa, you already have Seabreeze Archipelago, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1548,
+      1550
+    ],
+    "raw": "Um, I think so. Okay, Fuwamoco, I need you to stand next to your Palbox. Okay.",
+    "actually": "I think so. Fuwamoco, stand beside your Palbox.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1551,
+      1556
+    ],
+    "raw": "Okay, my Pals are hungry. Respawn. All right, let me just feed my characters really quick. Palbox and a respawn. Respawn, yeah, hit respawn. What button is that? Hit Escape, Escape, options, respawn. Okay, right now? Right now.",
+    "actually": "My Pals are hungry; let me feed them. Respawn. Which button? Escape, Options, Respawn. Now? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1558,
+      1561
+    ],
+    "raw": "Okay you spond it’s okay okay I’m going to hit it yeah hit it okay I hit it did you die I died yes",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1558,
+      1561
+    ],
+    "raw": "It’s okay. Okay, I’m going to hit it. Yeah, hit it. Okay, I hit it. Did you die? I died, yes.",
+    "actually": "It is fine; I will press it. Press it. I did. Did you die? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1562,
+      1569
+    ],
+    "raw": "Now, um, go to Seabreeze Archipelago Reef. Wait, should be, what about our items? Were we supposed to put our items? That’s that’s why I asked you to die next to your base. Oh, oh, and our items will stay in there? Yeah. So, yeah, and spawn at Seabreeze Archipelago Reef. Okay, I’ll come back for you Pals.",
+    "actually": "Go to Seabreeze Archipelago Reef. What about our items? That is why I asked you to die beside your base; the items will stay there. Respawn at Seabreeze Archipelago Reef. I will return for you, Pals.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1344,
+      1344
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1412,
+      1412
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1518,
+      1518
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1519,
+      1519
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1520,
+      1520
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1537,
+      1537
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1570,
+      1570
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "replacements": [
+    {
+      "expected_raw": "Extreme Chameleon.",
+      "source_segments": [
+        10,
+        10
+      ],
+      "raw": "Extreme Chameleon.",
+      "actually": "Extreme Chameleon."
+    },
+    {
+      "expected_raw": "Extreme.",
+      "source_segments": [
+        11,
+        11
+      ],
+      "raw": "Extreme.",
+      "actually": "Extreme."
+    },
+    {
+      "expected_raw": "I might try to look for music or something",
+      "source_segments": [
+        114,
+        116
+      ],
+      "raw": "I'm I might try to look for music or something.",
+      "actually": "I might look for some music."
+    },
+    {
+      "expected_raw": "questionable",
+      "source_segments": [
+        122,
+        122
+      ],
+      "raw": "Uh, questionable.",
+      "actually": "Questionable."
+    }
+  ],
+  "literal_diagnostic_explanations": {
+    "69": "Two oh tokens are both present across oh there we go / oh why is there letters. Token diagnostic independently chooses first oh; not a true omission.",
+    "583": "Both she’s tokens occur across she’s good / she’s no I think...; independently greedy matching is a diagnostic false positive.",
+    "138": "halfish to half-ish is spelling/punctuation only.",
+    "154": "Herbs to Herb’s is possessive/apostrophe ASR repair.",
+    "254": "sensor bar to censor bar is context-supported ASR repair.",
+    "255": "LWD to lewd is context-supported ASR repair.",
+    "415": "cool down to cooldown is word-spacing repair."
+  }
+}

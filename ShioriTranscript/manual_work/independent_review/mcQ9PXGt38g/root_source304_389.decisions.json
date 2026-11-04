@@ -1,0 +1,452 @@
+[
+  {
+    "source_segments": [
+      304,
+      306
+    ],
+    "raw": "Where is everyone hiding? Well, you found them so fast. She looked kind of obvious.",
+    "actually": "Where is everyone hiding? You found them very quickly. She looked rather obvious.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      307,
+      308
+    ],
+    "raw": "Did she look really obvious? Yeah, she it was really cute.",
+    "actually": "Did she look very obvious? Yes; it was very cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      309,
+      309
+    ],
+    "raw": "Maybe she had a friend nearby.",
+    "actually": "Perhaps she had a friend nearby.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      310,
+      311
+    ],
+    "raw": "There is a whistle. Whistled. Yeah, I heard a whistle.",
+    "actually": "There is a whistle. It whistled; I heard a whistle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      312,
+      312
+    ],
+    "raw": "Yeah.",
+    "actually": "Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      313,
+      313
+    ],
+    "raw": "So, they're on auto whistle, too, huh?",
+    "actually": "They are using automatic whistles too, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      314,
+      314
+    ],
+    "raw": "Where is everyone?",
+    "actually": "Where is everyone?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      315,
+      316
+    ],
+    "raw": "I'll come back to this. Let's go from our obvious ones.",
+    "actually": "I will return to this. Let us start with the obvious ones.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      317,
+      317
+    ],
+    "raw": "If I was",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      318,
+      320
+    ],
+    "raw": "Yeah. If I was someone who played this for only one day, where would I be hiding?",
+    "actually": "If I had only played this for one day, where would I hide?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      321,
+      322
+    ],
+    "raw": "I keep hearing the whistles. It bothers me.",
+    "actually": "I keep hearing the whistles, which bother me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      323,
+      324
+    ],
+    "raw": "I can turn this up. I need to hear the whistle, too.",
+    "actually": "I can turn this up. I also need to hear the whistle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      325,
+      327
+    ],
+    "raw": "Guess they're not here. I need someone to move. I need someone to freak out. Where' the whistlers at?",
+    "actually": "I suppose they are not here. I need someone to move and panic. Where are the whistlers?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      328,
+      329
+    ],
+    "raw": "Mhm. You go this way. Is it just a circle?",
+    "actually": "Yes; go this way. Is it just a circle?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      330,
+      331
+    ],
+    "raw": "I don't know. It smells like crap, though.",
+    "actually": "I do not know, but it smells bad.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      332,
+      332
+    ],
+    "raw": "There's one around me.",
+    "actually": "There is one around me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      333,
+      335
+    ],
+    "raw": "I heard a whistle really loud. Where is it? Where's the whistler?",
+    "actually": "I heard a very loud whistle. Where is it? Where is the whistler?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      336,
+      337
+    ],
+    "raw": "We're going to be so bad at this, aren't we? Where? Where?",
+    "actually": "We will be very bad at this, will we not? Where?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      338,
+      341
+    ],
+    "raw": "I heard it. I heard it. Okay, I'm not going to waste time here. I'm just Oh, you found someone. Nice. Where are the others? I don't know. I'm bad at this.",
+    "actually": "I heard it. I will not waste time here. You found someone; good. Where are the others? I do not know; I am bad at this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      342,
+      342
+    ],
+    "raw": "I'm bad at B.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      343,
+      344
+    ],
+    "raw": "Guess that's not one. I heard another whistle.",
+    "actually": "I suppose that is not one. I heard another whistle.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      345,
+      345
+    ],
+    "raw": "I'm I'm glad at least found Iris. Yeah.",
+    "actually": "I am glad Iris was at least found.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      346,
+      346
+    ],
+    "raw": "probably want.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      347,
+      347
+    ],
+    "raw": "Yeah, let's just at least have iris.",
+    "actually": "Let us at least have Iris.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      348,
+      348
+    ],
+    "raw": "Okay,",
+    "actually": "All right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      349,
+      351
+    ],
+    "raw": "I hear it. Where? Where? We need to find someone as obvious as Mory again.",
+    "actually": "I hear it. Where? We need to find someone as obvious as Mory again.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      352,
+      353
+    ],
+    "raw": "Do you think she's hiding this time or do you think she",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      352,
+      352
+    ],
+    "raw": "Do you think she's hiding this time",
+    "actually": "Do you think she is hiding this time?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      354,
+      355
+    ],
+    "raw": "I think I think maybe she could be hiding this time.",
+    "actually": "I think she might be hiding this time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      356,
+      356
+    ],
+    "raw": "I hear I hear them.",
+    "actually": "I hear them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      357,
+      359
+    ],
+    "raw": "I know. Me, too. I think the whistles actually make it worse. It's like it makes me bad at my job.",
+    "actually": "I know; I do too. I think the whistles make it worse, making me worse at my task.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      360,
+      360
+    ],
+    "raw": "They're taunting me.",
+    "actually": "They are taunting me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      361,
+      361
+    ],
+    "raw": "I know.",
+    "actually": "I know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      362,
+      363
+    ],
+    "raw": "You should Maybe if you cry and make them feel bad.",
+    "actually": "Perhaps if you cry and make them feel bad.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      364,
+      365
+    ],
+    "raw": "Okay. Cry. Who? Where's the freaking babies at?",
+    "actually": "Cry. Who? Where are the babies?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      366,
+      366
+    ],
+    "raw": "Yeah. Oh, you found one.",
+    "actually": "You found one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      367,
+      368
+    ],
+    "raw": "I was wondering about that. I guess I just missed her the first time.",
+    "actually": "I was wondering about that. I suppose I missed her the first time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      369,
+      370
+    ],
+    "raw": "We We There's another one. We",
+    "actually": "There is another one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      371,
+      372
+    ],
+    "raw": "So, we need what? Two more. Or is that three more?",
+    "actually": "Do we need two more, or three more?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      373,
+      373
+    ],
+    "raw": "With three more? With three more.",
+    "actually": "With three more? With three more.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      374,
+      374
+    ],
+    "raw": "Okay.",
+    "actually": "All right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      375,
+      376
+    ],
+    "raw": "We see.",
+    "actually": "We see.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      377,
+      378
+    ],
+    "raw": "They can also make clones. So, we got to keep that one in mind.",
+    "actually": "They can also make clones; remember that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      379,
+      380
+    ],
+    "raw": "I think L said if we kill one clone, it kills them, too.",
+    "actually": "I think L said that killing one clone also kills them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      381,
+      382
+    ],
+    "raw": "Oh, does it? Yeah. So, if you get one clone, they all die.",
+    "actually": "Does it? Yes; getting one clone kills all of them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      383,
+      385
+    ],
+    "raw": "Just like real life. Just like in real life. The cl Hey. Hey, that sounds like it was over here.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      383,
+      385
+    ],
+    "raw": "Just like real life. Just like in real life. Hey. Hey, that sounds like it was over here.",
+    "actually": "Just like real life. That sounded as though it came from here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      386,
+      386
+    ],
+    "raw": "But where?",
+    "actually": "But where?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      387,
+      387
+    ],
+    "raw": "H.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      388,
+      389
+    ],
+    "raw": "Where? But where?",
+    "actually": "Where? But where?",
+    "status": "SFT"
+  }
+]
