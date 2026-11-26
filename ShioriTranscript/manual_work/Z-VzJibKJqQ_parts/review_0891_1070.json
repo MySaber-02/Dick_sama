@@ -1,0 +1,411 @@
+[
+  {
+    "source_segment_indices": [
+      891,
+      892,
+      893,
+      894
+    ],
+    "raw": "right I'll keep that in mind I still like my snake guy though it took me so many tries to kill him I don't know how many tries though",
+    "status": "SFT",
+    "actually": "I will remember that, but still prefer my snake character. Defeating him took many tries; I do not know how many.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      895,
+      896,
+      897,
+      898,
+      899,
+      900,
+      901,
+      902,
+      903,
+      904,
+      905,
+      906,
+      907,
+      908,
+      909,
+      910,
+      911,
+      912,
+      913
+    ],
+    "raw": "uh let's see you get two for this so if I replace one of these uh I think I should replace this one and that one what about this one three consecutive uh I'm I'm likely to do that don't need need okay yeah I think I will replace this one and I can afford it two what's two I'm riding clean thank you that's only if I perfectly Dodge okay maybe I'll get these two get this one oh but a okay let's get it",
+    "status": "SFT",
+    "actually": "You get two for this. I think I should replace these. Three consecutive; I am likely to do that. I can afford it. I am riding clean, thank you. It only works on a perfect dodge; perhaps I will choose these two.",
+    "raw_fixes": [
+      [
+        "free consecutive",
+        "three consecutive"
+      ],
+      [
+        "ring clean",
+        "riding clean"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      898
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      914,
+      915,
+      916,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924
+    ],
+    "raw": "one yes and then I get two yes and then we leave you I suppose I probably should use this actually I can still use you I can still use you so I can get the additional damage yeah let's let's hide that beautiful",
+    "status": "SFT",
+    "actually": "Get one, then two, and leave you. I should probably use this; I can still use you for extra damage. Let us hide that beautiful face.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      925,
+      926,
+      927,
+      928,
+      929,
+      930,
+      931,
+      932
+    ],
+    "raw": "face yeah I think uh we'll go ahead why not I can afford you burn resistance sure why not apparently I didn't even have head gear oops there you go you're beautiful uh I should rest I think well lovely maskk thank you it's called my",
+    "status": "SFT",
+    "actually": "I can afford burn resistance, so why not? Apparently I had no headgear. Beautiful; I should rest. A lovely mask? Thank you; it is my face.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      933,
+      934,
+      935,
+      936,
+      937,
+      938,
+      939,
+      940,
+      941,
+      942,
+      943,
+      944,
+      945,
+      946,
+      947
+    ],
+    "raw": "face I think this is the place I have not gone to is there another boss fight here that oh the fudge oh crap lag I think it's lagging yeah it's pretty laggy I don't he could hit me from here I feel like I just don't do a lot of damage also the fact that I'm literally right here which is a pretty bad area to be in okay oh I got the rat Governor it was a ping issue it was a ping issue guys oh I can meditate can I",
+    "status": "SFT",
+    "actually": "I think this is somewhere new. Is there another boss? It is lagging. I doubt he could hit me here. I feel I do little damage and am in a bad position. I got Rat Governor; it was a ping issue.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      948,
+      949,
+      950,
+      951,
+      952,
+      953
+    ],
+    "raw": "heal though I can't heal from here can I oh I need inspiration I got to upgrade my attack a wait you can upgrade your staff oh that's right you can have weapon upgrades I haven't even used the the",
+    "status": "SFT",
+    "actually": "I can meditate, but cannot heal here, correct? I need inspiration and more attack. You can upgrade the staff; I forgot weapon upgrades existed.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      954,
+      955,
+      956,
+      957,
+      958,
+      959
+    ],
+    "raw": "screenshots for thumbnails actually I've been finding some really good images from my thumbnails so I've not been able to use the actual screenshots a skill issue I don't think so",
+    "status": "SFT",
+    "actually": "I have found good thumbnail images, so I have not used my actual screenshots. A skill issue? I do not think so.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      960,
+      961,
+      962,
+      963,
+      964
+    ],
+    "raw": "got two Sparks which I level up then uh let's see cool down of a spell",
+    "status": "SFT",
+    "actually": "I have two sparks. What should I level? Spell cooldown, perhaps.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      963
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      965,
+      966,
+      967,
+      968,
+      969,
+      970,
+      971,
+      972,
+      973,
+      974
+    ],
+    "raw": "maybe survival yeah maybe I should do something with survival I don't even know what the four Bane effects is don't need about this I guess I guess I could do it do I use that cannot awaken why not status effect like fire poison ice and lightning I don't use that then oh for I see I",
+    "status": "SFT",
+    "actually": "Perhaps survival. I do not know the four Bane effects. Can I use that? Why can I not awaken it? Status effects such as fire, poison, ice and lightning? I do not use it. I see.",
+    "raw_fixes": [
+      [
+        "soundus effect",
+        "status effect"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      975,
+      976,
+      977,
+      978,
+      979,
+      980,
+      981,
+      982,
+      983
+    ],
+    "raw": "see level oh hey I'm almost level 30 maybe maybe I should do this I'm also leaning towards that how about how about damage charging speed I like this one not sure if it's good but I'll do it uh we'll take less damage I I guess it's fine",
+    "status": "SFT",
+    "actually": "I am almost level thirty. Perhaps this, or damage and charging speed. I like this; I am unsure it is good but will choose it. Taking less damage is fine.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      984,
+      985,
+      986,
+      987,
+      988,
+      989,
+      990,
+      991,
+      992
+    ],
+    "raw": "I think i' rather have damage reduction I'm basically just going for things that might help me survive longer although next oh crap oh good God I should not look this way I can feel it actually is there any reason to being here or is this just this uh a side area but for ruling stamina that sounds good this is it",
+    "status": "SFT",
+    "actually": "I prefer damage reduction; I choose things that may help survival. I should not look that way; I can feel it. Is there a reason to be here, or is it a side area? Rolling stamina sounds useful.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      993
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      994,
+      995,
+      996,
+      997,
+      998,
+      999,
+      1000
+    ],
+    "raw": "I got pills oh cool oh it's so bright it's disgusting It's So Silent it's sort of atmospheric but at the same time it drives me nuts oh",
+    "status": "SFT",
+    "actually": "I got pills. It is very bright, unpleasantly so, and silent. Atmospheric, but it drives me mad.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005,
+      1006,
+      1007,
+      1008,
+      1009,
+      1010
+    ],
+    "raw": "huh w I think is a quicksand what's going on wait what what's that is that meant to happen maybe it's just harder to move here oh oh okay I guess it's what to happen hello what's up I can't go up there they won't let me go up there I see I guess I can't I'm not supposed",
+    "status": "SFT",
+    "actually": "I think this is quicksand. What is happening; is it meant to happen? Perhaps moving here is harder. They will not let me go up there; I suppose I am not meant to.",
+    "raw_fixes": [
+      [
+        "quick stand",
+        "quicksand"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1011,
+      1012,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017,
+      1018,
+      1019,
+      1020,
+      1021,
+      1022,
+      1023,
+      1024
+    ],
+    "raw": "to oh good God it's so laggy I think I need change my frame rate holy crap guys it's a frame rate okay it's done it's done holy crap that was way too much sand oh my good God my frame rates I still think my computer's good though maybe maybe I shouldn't be so cinematic right stupid sand is he going to is he going to punch",
+    "status": "SFT",
+    "actually": "It is very laggy; I need to change frame rate. That was too much sand for my frame rate. I still think my computer is good; perhaps cinematic quality is too high.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1018,
+      1019,
+      1020
+    ],
+    "raw": "[Applause] [Music] [Applause]",
+    "status": "NON_SPEECH",
+    "reason": "Applause/music labels.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1025,
+      1026,
+      1027,
+      1028,
+      1029
+    ],
+    "raw": "me again oh it's like an earworm it's going to go in my ears please a pluck of many duplicates oh he's so nice let me let me",
+    "status": "SFT",
+    "actually": "Will he punch me again? It is like an earworm going into my ears. A Pluck of Many duplicates; he is kind. Let me—",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1030,
+      1031,
+      1032
+    ],
+    "raw": "[Music] [Applause] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music/applause labels.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1033,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1040,
+      1041,
+      1042,
+      1043,
+      1044,
+      1045
+    ],
+    "raw": "first okay okay go go to settings what what should I change how about not there I guess Graphics yeah okay okay what do we what do we not how about we just do high oh but cinematics is so nice Okay texture quality you're usually fine it's usually the Shadows that causes causes the most issues view distance probably doesn't matter anti-aliasing it's okay hair quality we do not not need that much hair there so vegetation and sand let me think for the",
+    "status": "SFT",
+    "actually": "Go to graphics settings. What should I change? Perhaps high instead, though cinematic looks nice. Texture is usually fine; shadows usually cause most issues. View distance and anti-aliasing seem fine. We do not need so much hair, vegetation or sand.",
+    "raw_fixes": [
+      [
+        "few distance",
+        "view distance"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      1046,
+      1047,
+      1048,
+      1049,
+      1050,
+      1051
+    ],
+    "raw": "SC turn down dlss what's there where's that where where is that ocean Mo uh motion blur hold up let me do this it's usually the Shadows yes",
+    "status": "SFT",
+    "actually": "Turn DLSS down? Where is it? Motion blur; wait. It is usually shadows. Yes.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1052,
+      1053,
+      1054,
+      1055,
+      1056,
+      1057
+    ],
+    "raw": "it's oh we're okay we're okay turn this off x s okay motion blur is there even motion blur here where's motion blur at youi",
+    "status": "SFT",
+    "actually": "We are okay. Turn this off. Is motion blur here; where is it?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1058,
+      1059,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067,
+      1068,
+      1069
+    ],
+    "raw": "okay holy crap it it pauses there uh motion blur is off it's already off I don't know guys I think the game runs a lot slower now it it looks it feels a lot slower for some reason guys I think it made it worse it's rougher yeah it's rougher it's much rougher okay yeah screw that we're going to keep the L on oh oh crap I have to remember where it's at here I think yes let's keep this on",
+    "status": "SFT",
+    "actually": "It pauses there. Motion blur is already off. I think the game is slower and rougher now; it made things worse. We will keep it on. I need to remember where; here.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      1070
+    ],
+    "raw": "oh you want the change of super",
+    "status": "LOW",
+    "reason": "Unfinished change-of-super-resolution question; continues with next context.",
+    "raw_fixes": []
+  }
+]

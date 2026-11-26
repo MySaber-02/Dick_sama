@@ -1,0 +1,488 @@
+[
+  {
+    "source_segment_indices": [
+      1
+    ],
+    "raw": "for",
+    "status": "LOW",
+    "reason": "Isolated for fragment.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "raw": "hello can you hear Sh-Shiori Novella here at your service Hololive's Archiver and it's yapping time I don't know sometimes I just start stream before like I guess I should well at least it's yapping time",
+    "status": "SFT",
+    "actually": "Hello, can you hear? Shiori Novella, Hololive's Archiver, at your service. It is time to talk. Sometimes I start streaming before I should; at least it is time to talk.",
+    "raw_fixes": [
+      [
+        "sh sh Nel",
+        "Sh-Shiori Novella"
+      ],
+      [
+        "Hall life's archiv",
+        "Hololive's Archiver"
+      ],
+      [
+        "ypp in",
+        "yapping"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "raw": "it's been a while oh actually hasn't been a while it feels like it has been a while though maybe it's been a while since I've lurked well no I've been lurking I just don't comment that's right sometimes I see you guys like she doesn't work as much anymore well did you know I see all your",
+    "status": "SFT",
+    "actually": "It has been a while—actually, it has not, though it feels that way. Perhaps since I lurked? No, I have been lurking without commenting. Sometimes you say she does not lurk as much anymore.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "raw": "sins oh it's 4:00 a.m. for you holy quack you should well you should you should do whatever you please but you should sleep at some point",
+    "status": "SFT",
+    "actually": "I see all your misdeeds. It is four in the morning for you? Do as you please, but sleep at some point.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "raw": "yeah we're going back with Wukong today and maybe next week I I do want to finish Paper Mario before October I guess I guess Wukong should be like if I feel like playing it I'll play it sort of game if that makes",
+    "status": "SFT",
+    "actually": "We are returning to Wukong today. I want to finish Paper Mario before October. Wukong may be a game I play whenever I feel like it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "raw": "sense uh there's an SCP there is which one is it it's not the main one is it the very tutorial one actually I'm not too familiar with SCP I only know the basic one like the there's one with candy I think if you take too much candy it'll kill you and there's one where if you blink it'll kill you and if there's one you look at it and you just kill",
+    "status": "SFT",
+    "actually": "There is an SCP? Which one? I know only the basic ones: taking too much candy kills you, one kills you when you blink, and another kills you if you look at it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "raw": "there a Gothic writer no that's you guys aren't serious are you wait wait wait what does it do really really was it before I came to escape everything I put Gothic writer just recommended me Mary Shelley",
+    "status": "SFT",
+    "actually": "A Gothic writer? You are not serious? What does it do? Was it before I escaped? Searching Gothic writer recommends Mary Shelley.",
+    "raw_fixes": [
+      [
+        "Gothic Rider",
+        "Gothic writer"
+      ],
+      [
+        "Mary Shelly",
+        "Mary Shelley"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "raw": "SCP let's see yeah is it this from 7even years ago or something it's legitimately me not really no impossibly is it the Georgian Gothic SCP",
+    "status": "SFT",
+    "actually": "Is this from seven years ago? Is it really me? Impossible. Is it the Georgian Gothic SCP?",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      48,
+      49,
+      50
+    ],
+    "raw": "Foundation what what's the name of it I tried looking gothic stuff but it just gave me Frankenstein",
+    "status": "SFT",
+    "actually": "What is it called? Searching Gothic things only gave me Frankenstein.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "raw": "326 Simon welcome welcome oh I hope you feel better soon and Eevee and George and thank you for the gifts everyone hope I hope you're all doing okay all right I'm looking into it here it is a",
+    "status": "SFT",
+    "actually": "326. Welcome, Simon; I hope you feel better. Thank you, Eevee, George, and everyone who sent gifts. I hope you are okay. I am looking into it.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "raw": "human female wait is this a recent thing uh she has PTSD okay good good good to know she has the Panic Room I do enjoy that okay",
+    "status": "SFT",
+    "actually": "A human female; is this recent? She has PTSD and a panic room. Good to know; I enjoy that.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      60,
+      61
+    ],
+    "raw": "tranquilizers helps her immediate stress she she be deaf I see I",
+    "status": "SFT",
+    "actually": "Tranquilizers ease her immediate stress. She is deaf; I see.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      62,
+      63,
+      64
+    ],
+    "raw": "see she's old she's not mea she's old unless looking at the wrong one that's impossi she's old it's from 2022 okay",
+    "status": "SFT",
+    "actually": "She is old, so she is not me, unless I am looking at the wrong one. Impossible; she is old. It is from 2022.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "raw": "yeah I have to be young and pretty all the time what do you mean that's me impossibly oh let me make myself there",
+    "status": "SFT",
+    "actually": "I need to be young and pretty all the time. What do you mean that is me? Impossible.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "raw": "you go little shorter all right it is time to Wukong your bum platonically oh crap I just set up like a bunch of confetti sorry I was just oh you don't see okay I was just so happy to see you",
+    "status": "SFT",
+    "actually": "Let me make myself a little shorter. It is time to Wukong your bottom, platonically. I accidentally triggered confetti; sorry. You cannot see it? I was happy to see you.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      74,
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "raw": "I don't really remember where we last left off oh let me know if it's too loud actually audio balancing definitely not my strong suit along with many other things like I don't even wear suits I'm pretty thank you you guys are",
+    "status": "SFT",
+    "actually": "I do not remember where we stopped. Tell me if it is too loud; audio balancing is not my strength, among other things. I do not even wear suits.",
+    "raw_fixes": [
+      [
+        "AIO balancing",
+        "audio balancing"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "raw": "pretty too I need to adjust my my stuff I'm using okay I need a new tripod yeah okay you're in wireless",
+    "status": "SFT",
+    "actually": "I am pretty? Thank you; you are too. I need to adjust what I am using and get a new tripod.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "raw": "earbuds that could still work work right you'll find the right one okay I'll look into that later then oh make sure to remind me though and then I move this no I guess I'll have to do a different thing recalibration",
+    "status": "SFT",
+    "actually": "Wireless earbuds could still work, correct? You will find the right one. I will look later; please remind me. I need a different adjustment and recalibration.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "raw": "working I I need remember how to play so that this is my favorite attack Dodge uh these are the other things I'm using snake boy now",
+    "status": "SFT",
+    "actually": "I need to remember how to play. This is my favorite attack, dodge, and these are the other things. I am using snake boy now.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "raw": "oh okay cool using snake boy we killed the tiger from what I remember I don't really know what it unlock though at least at least I think we did it and then you can run like this we did kill you right we did and there's oh you probably go behind",
+    "status": "SFT",
+    "actually": "We killed the tiger, I think, but I do not know what that unlocked. You can run like this. We killed you, correct? We did. We can probably go behind him.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "raw": "him by the way I actually had this uh weird oh that was weird an alas him I had this weird dream the other day I didn't get time to share it with you guys though happy 12 months H",
+    "status": "LOW",
+    "reason": "Clear dream introduction recovered separately; intervening alas-him fragment unclear.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      108,
+      109,
+      110
+    ],
+    "raw": "it's always nice to see your tea Seven's lucky number oh happy seven months too for George and",
+    "status": "LOW",
+    "reason": "Unclear tea/name fragment; clear seven-month greeting recovered separately.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "raw": "real oh hey I hope you had a great birthday I'm trying to get a feel of how this feels on my new monitor by the way like I I can still see it so maybe maybe there's a setting I can change first off I I should turn off",
+    "status": "SFT",
+    "actually": "I hope you had a good birthday. I am testing how this looks on my new monitor. I can still see it; perhaps there is a setting to change.",
+    "raw_fixes": [
+      [
+        "new monit",
+        "new monitor"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "raw": "async I usually turned it on is there anything I should change here come on it's a beefy computer the specs I don't remember so don't ask me the specs I'm not going to",
+    "status": "SFT",
+    "actually": "I should turn async off; I usually enable it. Should I change anything? It is a powerful computer, but do not ask for specifications because I do not remember them.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      122,
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "raw": "know okay it should this should help does it look different for me no I still see some stuff I still see some stuff I can't tell okay this it's fine it's fine it's just a debuff it's a debuff for my eyes I have a beef PC",
+    "status": "SFT",
+    "actually": "This should help. Does it look different to me? No, I still see something and cannot tell. It is fine; a disadvantage for my eyes. I have a powerful PC.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "raw": "that's right anyway my dream happy 12 months Raven and Jones happy monthiversary and DOA Michael thank you thank",
+    "status": "SFT",
+    "actually": "Back to my dream. Happy twelve months, Raven and Jones; happy monthly anniversary. Thank you, DOA and Michael.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "raw": "you I dreamt that there was a I guess a stalker or he was a serial killer they could have been both honestly oh that is creepy what's this anyway oh oh I think it exploded to my face ah",
+    "status": "SFT",
+    "actually": "I dreamed about a stalker or serial killer; he could have been both. That is creepy. What is this? I think it exploded in my face.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      138,
+      139,
+      140,
+      141
+    ],
+    "raw": "what's he going to do throw crap at me yeah I need to remember how to play is there a Parry not really",
+    "status": "SFT",
+    "actually": "Will he throw things at me? I need to remember how to play. Is there a parry? Not really.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "raw": "huh and then if I do this I just wanted to have a happy sugar life I like I like that jump of his kind of reminds me of Mario okay so I didn't get mushrooms out of it does he explode he looks like he'll explode he did not explode but I think I'm poison which I don't like how do you heal again that's not",
+    "status": "SFT",
+    "actually": "If I do this—I wanted a happy sugar life. I like his jump; it reminds me of Mario. I got no mushrooms. Does he explode? He looks as if he would, but did not. I think I am poisoned. How do I heal? That is not healing.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157
+    ],
+    "raw": "healing well I guess we'll just explore I unlocked the Parry spell I don't have it equipped I see it's probably because between the two between dodging and parrying I feel like dodging would be the easier between the two we'll try unlocking it later then left bumper okay",
+    "status": "SFT",
+    "actually": "Let us explore. I unlocked a parry spell but did not equip it, probably because dodging seems easier than parrying. We will try unlocking it later. Left bumper; okay.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "raw": "okay I'll heal later I don't expect to live right now right now I'm just wandering the Old Fields of uh uh Arizona they got iced",
+    "status": "SFT",
+    "actually": "I will heal later; I do not expect to survive now. I am just wandering the old fields of Arizona; they have iced tea.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "raw": "tea but this is just like relentlessly kill this poison not okay so the will sorry not the will oh crap he doesn't seem to know what he wants okay back to the",
+    "status": "LOW",
+    "reason": "Unclear relentless-killing/will correction fragments; clear poison complaint recovered separately. Trailing back-to-the joins following killer story.",
+    "raw_fixes": []
+  },
+  {
+    "source_segment_indices": [
+      105,
+      106,
+      107
+    ],
+    "raw": "I had this weird dream the other day I didn't get time to share it with you guys though happy 12 months H",
+    "actually": "I had a strange dream the other day but did not have time to share it. Happy twelve months, H.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      109,
+      110
+    ],
+    "raw": "Seven's lucky number oh happy seven months too for George and",
+    "actually": "Seven is lucky. Happy seven months, George.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      164,
+      165
+    ],
+    "raw": "this poison not okay",
+    "actually": "This poison is not okay.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

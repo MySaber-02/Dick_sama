@@ -1,0 +1,312 @@
+{
+  "source_frames": {
+    "part05.json": {
+      "5": [
+        891,
+        893
+      ],
+      "10": [
+        908,
+        913
+      ],
+      "19": [
+        937,
+        944
+      ],
+      "35": [
+        998,
+        1006
+      ],
+      "42": [
+        1026,
+        1031
+      ],
+      "50": [
+        1046,
+        1048
+      ],
+      "53": [
+        1054,
+        1056
+      ],
+      "54": [
+        1057,
+        1060
+      ]
+    },
+    "part06.json": {
+      "5": [
+        1123,
+        1126
+      ],
+      "7": [
+        1130,
+        1135
+      ],
+      "21": [
+        1172,
+        1176
+      ],
+      "22": [
+        1176,
+        1182
+      ],
+      "25": [
+        1185,
+        1193
+      ],
+      "27": [
+        1194,
+        1198
+      ],
+      "31": [
+        1213,
+        1215
+      ],
+      "32": [
+        1213,
+        1215
+      ],
+      "44": [
+        1255,
+        1257
+      ],
+      "53": [
+        1282,
+        1287
+      ],
+      "65": [
+        1324,
+        1327
+      ]
+    }
+  },
+  "recoveries": [
+    {
+      "part": "part05.json",
+      "row_one_based": 1,
+      "source_segments": [
+        884,
+        884
+      ],
+      "raw": "I can't do anything.",
+      "actually": "I cannot do anything.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part05.json",
+      "row_one_based": 10,
+      "source_segments": [
+        912,
+        913
+      ],
+      "raw": "And then I useless too.",
+      "actually": "Then I am useless too.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part05.json",
+      "row_one_based": 15,
+      "source_segments": [
+        927,
+        928
+      ],
+      "raw": "Multiple eggs. Wow, that’s fast.",
+      "actually": "Multiple eggs; that is quick.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part05.json",
+      "row_one_based": 46,
+      "source_segments": [
+        1040,
+        1041
+      ],
+      "raw": "I guess we's going to catch up with us after she bakes.",
+      "actually": "I suppose she will catch up with us after baking.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 1,
+      "source_segments": [
+        1111,
+        1111
+      ],
+      "raw": "Nice.",
+      "actually": "Good.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 1,
+      "source_segments": [
+        1111,
+        1112
+      ],
+      "raw": "Thank you.",
+      "actually": "Thank you.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 10,
+      "source_segments": [
+        1139,
+        1141
+      ],
+      "raw": "Sure, one that I have, it's a cute.",
+      "actually": "The one I have is cute.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 16,
+      "source_segments": [
+        1149,
+        1151
+      ],
+      "raw": "Oh, me too.",
+      "actually": "Me too.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 23,
+      "source_segments": [
+        1182,
+        1183
+      ],
+      "raw": "I have to see them.",
+      "actually": "I need to see them.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 31,
+      "source_segments": [
+        1213,
+        1213
+      ],
+      "raw": "No, I don't want.",
+      "actually": "No, I do not want to.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 34,
+      "source_segments": [
+        1223,
+        1226
+      ],
+      "raw": "Have my arrows, guys. It's okay. There you are.",
+      "actually": "Take my arrows; it is fine. There you are.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 46,
+      "source_segments": [
+        1260,
+        1261
+      ],
+      "raw": "Uh-oh, he's much more calm this time, I feel.",
+      "actually": "I feel he is much calmer this time.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 55,
+      "source_segments": [
+        1292,
+        1293
+      ],
+      "raw": "Did you guys not apply it? We did.",
+      "actually": "Did you not apply it? We did.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 66,
+      "source_segments": [
+        1331,
+        1332
+      ],
+      "raw": "I think we do now. I think so.",
+      "actually": "I think we do now.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 66,
+      "source_segments": [
+        1332,
+        1334
+      ],
+      "raw": "Come over here. Okay, and then go away. We did it.",
+      "actually": "Come here, then go away. We did it.",
+      "action": "recover_from_LOW_keep_original_context"
+    }
+  ],
+  "explicit_replacements": [
+    {
+      "part": "part05.json",
+      "row_one_based": 38,
+      "raw": "Glitch. Oh, everything breeds with everything else except humans. So I think with everything, and the result will be something different, so will make a different thing. But it will be not the same species as the two parents. So it’s like another another species. Two species will make another species every time or something like that.",
+      "actually": "Everything except humans can breed with everything else, I think, producing a species different from either parent, or something like that.",
+      "reason": "Do not insert it after so will make to fix grammar. This is a speaker game claim, not a factual assertion to be corrected."
+    },
+    {
+      "part": "part05.json",
+      "row_one_based": 42,
+      "raw": "We have a flashing in blue light on my screen. Oh, yeah, flashing blue light. What is? I see it too. It sometimes happens, I don’t know why, though. What if you hit it?",
+      "actually": "A blue light is flashing on my screen. I see it too; it sometimes happens, but I do not know why. What if you hit it?",
+      "reason": "Retain original flashing in blue light rather than remove in as grammatical polishing. Include missing first/last source words through corrected range."
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 5,
+      "raw": "Also, I have a danger on me. Am I dying? Are you dying? I don’t I don’t know. Just is danger. Oh, it’s gone now.",
+      "actually": "There is a danger indicator on me. Am I dying? Are you? I do not know; it indicates danger. It is gone now.",
+      "reason": "Source just is danger is ungrammatical; do not silently change raw to just says danger."
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 27,
+      "raw": "He’s a little guy. Oops, oh crap, I didn’t mean to kill you. Oh, don’t don’t die. I already killed you before, or, and I did it.",
+      "actually": "He is small. I did not intend to kill you; do not die. I killed you before, and did it again.",
+      "reason": "Preserve source or as an actual false-start/correction rather than delete it. Do not add an unproved pause ellipsis."
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 28,
+      "raw": "Sorry, I like collecting the emo-looking ones. They speak to my soul. Oh, wait, go this way. Oh, while we’re here, we should just do the tower. Is there a safe point near?",
+      "actually": "Sorry; I like collecting those with an emo appearance. They resonate with me. This way; we should do the tower while here. Is there a nearby safe point?",
+      "reason": "Safe point is intelligible as spoken; no need to silently rewrite it into save point."
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 49,
+      "raw": "We can capture this dude? Oh, oh myness. I don’t think we can capture her Grizzbolt. No, oh, man. You can capture Grizzbolts somewhere else, okay, but we can’t we can’t take hers.",
+      "actually": "Can we capture him? I do not think we can capture her Grizzbolt. You can catch Grizzbolts elsewhere, but we cannot take hers.",
+      "reason": "Do not expand the speaker’s source myness into my goodness without audio evidence; odd expressions are part of raw style."
+    },
+    {
+      "part": "part06.json",
+      "row_one_based": 65,
+      "raw": "I’m going to leave them to Mori base, and then to Penking. All right, I’ll do that then.",
+      "actually": "I will take them to Mori’s base, then to Penking. I will do that.",
+      "reason": "Leave vs lead is not unambiguously an ASR correction from text alone. Keep original leave in raw and do not fix the missing possessive. Neutral take is compatible with route/dropoff intention."
+    }
+  ],
+  "notes": [
+    "Numbers/quoted opinions/game mechanics remain the speaker’s claims; no factual game-rule correction.",
+    "Three short→three-shot, bad→bat followed by literal a bat, Pals mate, species, Cremis, skybox/seam, Penking, Grizzbolt, cutscene and base are contextual spelling/word-spacing corrections.",
+    "Part06row25 and28 contain intentionally broken grammar and multiple true repetitions: no have/I have one is okay/Can we all get him/only only one must remain.",
+    "Part06row35 source Jo is likely Join in the boss-menu context; preserve later not me accidentally joining and I got to I got this false starts.",
+    "Part05row46 recovery we’s is intentionally left ungrammatical; following she establishes singular referent for neutral expression.",
+    "ARs→arrows recovery is supported by immediate arrow-sharing dialogue; if retaining uncertainty, keep only original ARs phrase in LOW rather than expanding to an unrelated profanity.",
+    "Cal→calm is a one-letter completion supported by explicit comparative emotional-state wording.",
+    "No mask is expanded into explicit profanity by these decisions."
+  ]
+}

@@ -1,0 +1,449 @@
+[
+  {
+    "source_segments": [
+      2490,
+      2493
+    ],
+    "raw": "Okay, what are you doing, Biboo? I’m kind of scared. Can we all teleport to the Syndicate Tower, the one that we just beat with Shiori? Oh, okay, okay.",
+    "actually": "What are you doing, Biboo? I am a little scared. Can everyone teleport to the Syndicate Tower we defeated with Shiori? All right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2494,
+      2506
+    ],
+    "raw": "Unless I see can’t use your Palbox right oh I end up going to the tower I think yeah yeah yeah let just why okay wait where’s the C where’s the C is the C here wait oh up oh oh yeah I was wondering why you jumped off it’s okay I’ll wait here I forgot I stored my you what we did I I stored my my glider I’m just going to make sure that I’m going to be on my mount",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2495,
+      2496
+    ],
+    "raw": "Oh, I end up going to the tower, I think. Yeah, yeah, yeah.",
+    "actually": "I think I ended up going to the tower.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2499,
+      2506
+    ],
+    "raw": "Oh, oh, yeah, I was wondering why you jumped off. It’s okay, I’ll wait here. I forgot I stored my, I I stored my my glider. I’m just going to make sure that I’m going to be on my mount.",
+    "actually": "I wondered why you jumped. I will wait here. I forgot I stored my glider, so I will ensure I am on my mount.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2506,
+      2511
+    ],
+    "raw": "I forgot I also gave Fuwamoco my glider. I’m sorry. Oh, that’s right. Do you want it back, Biboo? No, no, no, you keep it. You sure? If we’re up here I think we need it.",
+    "actually": "I forgot I gave Fuwamoco my glider; sorry. Do you want it back, Biboo? Keep it. Are you sure? I think we need it up here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2512,
+      2520
+    ],
+    "raw": "Temporarily what oh it’s the one of the big the big deers down there you can shoot him from here M do you want to do that that was not what I meant to do I just I just killed her I just did you P I didn’t mean to oh you’re still alive right cuz you were on your mount yeah yeah yeah yes that’s all good",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2512,
+      2515
+    ],
+    "raw": "Oh, it’s one of the big the big deers down there. You can shoot him from here. Do you want to do that?",
+    "actually": "There is a large deer below; you can shoot it from here. Would you like to?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2515,
+      2520
+    ],
+    "raw": "That was not what I meant to do. I just I just killed her. I didn’t mean to. Oh, you’re still alive, right, cuz you were on your mount? Yeah, yeah, yeah, yes, that’s all good.",
+    "actually": "That was unintended; I killed her accidentally. Are you still alive because you were mounted? Yes, it is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2520,
+      2531
+    ],
+    "raw": "Wait, where’s the where’s the camp with the with the with the Pal that’s like, wasn’t there a camp with the Pal that needed help here? Oh, around this place? I don’t remember. I thought there was a, there was a. Oh, it didn’t spawn. Okay, so it’s not here. Well, whatever, I’ll show you anyway. All right, I’m meeting at the top of the tower. Oh, meet at the bottom, at the bottom. Okay, I hope I don’t die.",
+    "actually": "Where is the camp with the Pal that needed help? I do not remember. I thought there was one, but it did not spawn. I will show you anyway. Meet at the tower’s top—rather, the bottom. I hope I do not die.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2533,
+      2536
+    ],
+    "raw": "Don’t die. Press it at the last, before you hit the ground, press it. What? Let go, and then before you hit the ground, press it again.",
+    "actually": "Do not die. Press it just before hitting the ground. Release it, then press it again before landing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2537,
+      2544
+    ],
+    "raw": "Ah I kind of far away there we go okay ready ready what wait come here I don’t even know what’s happening anymore where where Isa oh I’m watching I’m nearby you’re watching okay okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2537,
+      2541
+    ],
+    "raw": "Ah, I kind of far away. There we go, okay, ready, ready? What? Wait, come here. I don’t even know what’s happening anymore.",
+    "actually": "I am rather far away. Ready? Come here; I no longer know what is happening.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2543,
+      2544
+    ],
+    "raw": "Oh, I’m watching, I’m nearby. You’re watching? Okay, okay.",
+    "actually": "I am watching nearby. You are? All right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2545,
+      2551
+    ],
+    "raw": "Uh, oh my God, oh, that’s a lot of food. This is, it is, is that machine gun like permanent or something? Oh, ah, I feel bad for them now.",
+    "actually": "That is much food. Is the machine gun permanent? I feel sorry for them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2553,
+      2563
+    ],
+    "raw": "Man is just she’s it’s so cool you need ammo if you want to live you might want to be mine you need ammo for him no it’s a skill it’s a skill you need to make a M or uh a saddle oh they’re just dying every yeah it’s great oh TI PE nothing Biboo shot me it’s okay I’m glad B’s on our side yeah",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2554,
+      2559
+    ],
+    "raw": "It’s so cool. You need ammo? You need ammo for him? No, it’s a skill, it’s a skill. You need to make a, or uh a saddle. Oh, they’re just dying. Yeah, it’s great.",
+    "actually": "It is impressive. Does he need ammunition? No; it is a skill that requires making a saddle. They are dying; it is great.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2560,
+      2563
+    ],
+    "raw": "Biboo shot me. It’s okay. I’m glad Biboo’s on our side. Yeah.",
+    "actually": "Biboo shot me. It is fine; I am glad she is on our side.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2564,
+      2567
+    ],
+    "raw": "Wow, nice long legs, Biboo. Thank you. You you, your butt looks good from this angle. What? Look, wow, thank you. I don’t know if I should. You like it? My butt? Yeah.",
+    "actually": "Biboo, you have nice long legs. Thank you. Your butt looks good from this angle. Thank you. Do you like my butt? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2569,
+      2573
+    ],
+    "raw": "Nice what is Nerissa getting shot at no oh I can feel my it that’s what I want to show you thank you you too can do that yeah we just need to catch one",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2569,
+      2569
+    ],
+    "raw": "Is Nerissa getting shot at? No.",
+    "actually": "Is Nerissa being shot? No.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2570,
+      2573
+    ],
+    "raw": "That’s what I want to show you. Thank you. You too can do that. Yeah, we just need to catch one.",
+    "actually": "That is what I wanted to show you; thank you. You can do that too; we need to catch one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2574,
+      2580
+    ],
+    "raw": "Somebody’s isn’t that Pal kind of rare which one the one you had oh no it it’s a somewhere you can catch them pretty plen oh really yeah I want one too there’s so many cute Pals yeah yeah I like it it was fun today it was fun",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2574,
+      2580
+    ],
+    "raw": "Isn’t that Pal kind of rare? Which one? The one you had. Oh, no, somewhere you can catch them pretty plentiful. Oh, really? Yeah, I want one too. There’s so many cute Pals. Yeah, yeah, I like it. It was fun today, it was fun.",
+    "actually": "Is that Pal rare? Which one? Yours. No, there is somewhere they are plentiful. I want one too; many Pals are cute. Today was enjoyable.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2582,
+      2590
+    ],
+    "raw": "I’m always happy to play with. Bye, yes, I need to pass out. Okay, good work today, good work, good job on your class. Happy to have you back. Welcome back. Yeah, yeah, yeah, we’re back from the class. Make sure you get enough rest.",
+    "actually": "I always enjoy playing. I need to sleep. Well done today and with your class; welcome back. We returned from class. Get enough rest.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2591,
+      2594
+    ],
+    "raw": "Food take is there anything you like to let ever everyone right St happening B ah",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2591,
+      2592
+    ],
+    "raw": "Is there anything you like to let everyone?",
+    "actually": "Is there anything you would like to tell everyone?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2595,
+      2608
+    ],
+    "raw": "Nerissa. Uh, I do have an announcement. So me and Biboo actually have a joint project releasing here on the 13th. Uh, the waiting room won’t go live for a little bit, but uh please do look forward to it. We worked very hard on it, and I think you guys are going to love it. Yeah, yeah, it’s really cute, so yeah, it’s so cute, so look forward to that one. It’ll be it’ll be on Nerissa’s channel. Yes, yes, special video, please look forward to it.",
+    "actually": "Nerissa and Biboo have a joint project releasing on the thirteenth. Its waiting room will go live later. We worked hard on it and think you will love the cute special video, which will be on Nerissa’s channel. Please look forward to it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2609,
+      2616
+    ],
+    "raw": "I’m so excited. What about you? Um, I have my Unity stream coming up for Valentine’s Day. Yeah, so be a 3D scene potentially with also a 3D me, so yeah. And that’s going to be on Valentine’s Day. Mhm.",
+    "actually": "I am excited. What about you? I have a Unity stream on Valentine’s Day, potentially with a 3D scene and 3D version of me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2616,
+      2624
+    ],
+    "raw": "And I also have a we just had a birthday happy birthday if you haven’t gotten the merch get the merch we have really really cute birthday merch birthday and myself also includ some very cute lovey and [ __ ]",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2618,
+      2621
+    ],
+    "raw": "We just had a birthday. Happy birthday. If you haven’t gotten the merch, get the merch. We have really really cute birthday merch.",
+    "actually": "We just had a birthday; happy birthday. Please buy the cute birthday merchandise if you have not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2624,
+      2631
+    ],
+    "raw": "Yeah, but also this weekend we have our rock and roll party tomorrow, and this time we’re going to be singing love songs, love songs, so to celebrate Valentine’s early. Maybe maybe you come come pop by and see what for what we to. I’m, that’s it.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2624,
+      2629
+    ],
+    "raw": "Yeah, but also this weekend we have our rock and roll party tomorrow, and this time we’re going to be singing love songs, love songs, so to celebrate Valentine’s early. Maybe maybe you come come pop by.",
+    "actually": "Our rock-and-roll party is tomorrow; we will sing love songs to celebrate Valentine’s Day early. Perhaps visit us.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2632,
+      2637
+    ],
+    "raw": "Yes, yes, schedule for this weekend is up in the air because I just came back from Quest, so I haven’t decided yet, but I most likely we stream tomorrow, probably, maybe. Yeah, just look out for it, I guess. Yeah, yeah.",
+    "actually": "My weekend schedule is undecided because I just returned from Quest. I will probably stream tomorrow, but am uncertain; watch for an announcement.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2638,
+      2648
+    ],
+    "raw": "Yeah well it was really fun it’s been such a long long time but I’m glad people you’re back from your got time to play with you guys yeah make sure to taking a time to do this I know that you’re like really tired and stuff well thank you so much we had a bunch of fun and power together this weekend well we’ll definitely have another collab next week so we hope you’ll join us then too",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2638,
+      2645
+    ],
+    "raw": "Yeah, well, it was really fun. It’s been such a long long time. Got time to play with you guys. Taking a time to do this, I know that you’re like really tired and stuff. Well, thank you so much, we had a bunch of fun.",
+    "actually": "It was enjoyable after such a long time. I had time to play with you. Thank you for making time despite being tired; we had fun.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2646,
+      2648
+    ],
+    "raw": "Well, we’ll definitely have another collab next week, so we hope you’ll join us then too.",
+    "actually": "We will have another collaboration next week and hope you join us.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2649,
+      2651
+    ],
+    "raw": "Thank you so much. Thank you, thank you. Bye, bye-bye.",
+    "actually": "Thank you very much; goodbye.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2654,
+      2657
+    ],
+    "raw": "All right collab in some minutes so I’ll see you guys at the the burger leap so sh in",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2654,
+      2654
+    ],
+    "raw": "All right, collab in some minutes.",
+    "actually": "There is a collaboration in a few minutes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2505,
+      2505
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2516,
+      2516
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2532,
+      2532
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2552,
+      2552
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2568,
+      2568
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2581,
+      2581
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2584,
+      2584
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2617,
+      2617
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2652,
+      2652
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2653,
+      2653
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2658,
+      2658
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2659,
+      2659
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

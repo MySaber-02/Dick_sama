@@ -1,0 +1,22 @@
+{
+  "scope": "original part01–06; canonical files not modified",
+  "counts": {
+    "frames": 68,
+    "recoveries": 44,
+    "replacements": 12
+  },
+  "reviewed_against": "Original JSON source text with surrounding actual context; original per-part raw/actually; literal diagnostic as a locator, not automatic acceptance.",
+  "findings": [
+    "Most nonliteral diagnostics are too-narrow source ranges or named-entity/word-spacing ASR repairs, not dropped speech.",
+    "12 explicit raw/actually replacements protect original grammar, polarity and odd expressions.",
+    "44 clear subspans in LOW contexts are explicitly recovered, with exact source indices and conservative residual exclusions.",
+    "Do not change speaker facts, game rules, playful nicknames, raw grammar or original masked profanity.",
+    "No global deduplication; distinguish same-source overlapping-caption assembly from true repeated utterances."
+  ],
+  "integration_requirements": [
+    "All row_one_based fields index original unchanged part JSON.",
+    "Mark accepted_spans within LOW contexts before counting excluded mask/source occurrences.",
+    "If a local manual split already targets a replaced raw, refresh its literal anchors to avoid stale-boundary misses.",
+    "Explicit spelling corrections require manual exception annotation; literal diagnostics do not prove an ASR spelling wrong."
+  ]
+}

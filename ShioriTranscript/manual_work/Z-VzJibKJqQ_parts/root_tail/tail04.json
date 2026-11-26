@@ -1,0 +1,718 @@
+[
+  {
+    "source_segments": [
+      2537,
+      2542
+    ],
+    "raw": "oo Focus I could afford it but what else can I use I use both yeah I might as well oh but no what's the what current thing do I have okay maybe not yet you have to use",
+    "actually": "Focus; I can afford it. What else can I use? Both? I might as well—no, what do I currently have? Perhaps not yet.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2542,
+      2549
+    ],
+    "raw": "You have to use it uh let's see yeah to use it when he makes his Windstorm barrier while he's doing it or do I wait after or does it like I I don't know if it cancels his animation essentially how do I get back there.",
+    "actually": "I need to use it during his windstorm barrier? While he is doing it, or afterward? Does it cancel his animation? How do I return there?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2549,
+      2551
+    ],
+    "raw": "there y information was it I think it's near Sellar dude yeah after he uses it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2550,
+      2554
+    ],
+    "raw": "I think it's near Cellar dude yeah after he uses it okay I'm still going to die don't don't have any hope lower thy expectations lower during or after I see.",
+    "actually": "I think it is near Cellar. After he uses it? I will still die; lower your expectations. During or after? I understand.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2555,
+      2562
+    ],
+    "raw": "It just makes me immune but but lower my expectations just in case I would I would appreciate yeah ah yeah think like it's okay Shiori I give you a headb it's okay you'll get it eventually not not now but eventually.",
+    "actually": "It makes me immune, but lower your expectations anyway. Think: “It is fine, Shiori; you will get it eventually, perhaps not now.”",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2562,
+      2569
+    ],
+    "raw": "eventually all right I'm going to try to use minimal Idol I still can't believe you mean like why you and I could have been friends but you can you and I really could have been friends I think I wonder what happened it's just a wind stage",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2565,
+      2569
+    ],
+    "raw": "Like why you and I could have been friends but you can you and I really could have been friends I think I wonder what happened it's just a wind stage.",
+    "actually": "We could have been friends. I wonder what happened. It is just a Wind Sage.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2570,
+      2576
+    ],
+    "raw": "How about what happens have I used this I'm genuinely curious cuz I never used this I guess [ __ ] that's what oh man didn't work that was my fault though.",
+    "actually": "I am curious what happens if I use this, since I never use it. [ __ ]. It did not work; that was my fault.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2576,
+      2580
+    ],
+    "raw": "though nice oh shoot I assume this time yeah [ __ ] you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2578,
+      2579
+    ],
+    "raw": "Oh shoot I assume this time yeah [ __ ] you.",
+    "actually": "[ __ ] you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2582,
+      2584
+    ],
+    "raw": "I can't see [ __ ] just SL on to deal with your [ __ ]",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2582,
+      2583
+    ],
+    "raw": "I can't see [ __ ].",
+    "actually": "I cannot see anything.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2585,
+      2590
+    ],
+    "raw": "ah it's ah well that's okay that's okay it it feels a little easier at least so we can probably get this next stream if I don't get it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2587,
+      2591
+    ],
+    "raw": "Ah well that's okay that's okay it it feels a little easier at least so we can probably get this next stream if I don't get it now.",
+    "actually": "It is fine; it feels easier. If I cannot do it now, we can probably get it next stream.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2591,
+      2597
+    ],
+    "raw": "I'm going to save my last shoot all right not not the not the run but it was pretty decent not the run though not the run but it was okay we're getting there okay one more try one more try if I did use items I thought we could do it.",
+    "actually": "I will save my last—this was not the run, but it was decent. We are progressing. One more try; perhaps using items would have worked.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2597,
+      2606
+    ],
+    "raw": "Still can't believe I had to get a stupid item no no lower that expectations it's like there there there there you when he does the tornado near the end I thought we already did it actually I don't think he used any other tornadoes I think if we also manage to get the baby right it could have helped one more try.",
+    "actually": "I still cannot believe I needed an item. Lower your expectations. Use it when he makes the final tornado? I thought we did that; I do not think he used other tornadoes. Using the baby correctly could have helped. One more try.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2607,
+      2610
+    ],
+    "raw": "yeah just just letting you know if I'm like just just a little L for a blade thing um that's because I'm still writing the movie",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2611,
+      2612
+    ],
+    "raw": "The [ __ ] is amplification I don't know I think.",
+    "actually": "What is amplification? I do not know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2613,
+      2615
+    ],
+    "raw": "I do need to work on uh being able to get him from afar I think I need to work on my distance",
+    "actually": "I think I need to improve my ability to reach him from a distance.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2617,
+      2621
+    ],
+    "raw": "I want this oh oh I canceled it a shoot not R not run that's okay we'll do it next time it's not the Run cuz he canceled it I don't have enough Health",
+    "actually": "I want this. I canceled it; unfortunate. This is not the run; we will do it next time. He canceled it, and I lack enough health.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2623,
+      2625
+    ],
+    "raw": "this that was a good they very used now they want to deal with it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2626,
+      2626
+    ],
+    "raw": "can't see",
+    "actually": "I cannot see.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2628,
+      2633
+    ],
+    "raw": "CRA I don't know his name but I don't think he has to worry about this please move okay okay that's okay that's okay okay one more try one more try",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2628,
+      2631
+    ],
+    "raw": "I don't know his name but I don't think he has to worry about this please move okay okay that's okay that's.",
+    "actually": "I do not know his name, but I do not think he needs to worry about this. Please move; it is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2633,
+      2633
+    ],
+    "raw": "Okay okay one more try one more try.",
+    "actually": "One more try.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2635,
+      2639
+    ],
+    "raw": "I need to be able to to time the baby at a good part I wonder if I should okay I wonder if I should pause him from the ghetto hey at least I'm not gambling",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2635,
+      2638
+    ],
+    "raw": "I need to be able to to time the baby at a good part I wonder if I should okay I wonder if I should pause him.",
+    "actually": "I need to time the baby well. I wonder whether I should pause him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2639,
+      2644
+    ],
+    "raw": "Hey at least I'm not gambling it's the Grim fight at least the Grim fight like you didn't have to do an extra thing for it at least the Grim fight stayed in this lane.",
+    "actually": "At least I am not gambling. In the Grim fight, no extra task was required; it stayed in its lane.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2644,
+      2648
+    ],
+    "raw": "I need to be able to reach him easier just do it now oh it already cancelled me I've been canceled I'm sorry that's unfortunate.",
+    "actually": "I need to reach him more easily. Do it now; he canceled me already. Sorry; that is unfortunate.",
+    "status": "SFT",
+    "reason": "Retain original cancelled/canceled spelling in separate occurrences."
+  },
+  {
+    "source_segments": [
+      2649,
+      2653
+    ],
+    "raw": "oh F that's you please don't cancel me I need that how need get more man",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2652,
+      2653
+    ],
+    "raw": "Please don't cancel me I need that how need get more mana.",
+    "actually": "Please do not cancel me; I need that. I need more mana.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2655,
+      2661
+    ],
+    "raw": "I can't see him uh before he shs up I know he has a stupid pick special should start using items I can't see [ __ ] hello where are you aome the kick",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2655,
+      2660
+    ],
+    "raw": "I can't see him uh before he shows up I know he has a stupid kick special should start using items I can't see [ __ ] hello where are you.",
+    "actually": "I cannot see him. Before he shows up—he has a special kick. I should start using items. I cannot see anything; where are you?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2663,
+      2665
+    ],
+    "raw": "okay it now",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2666,
+      2675
+    ],
+    "raw": "Can't see [ __ ] that's okay I'm waiting for my ah oh this is the thing I'm supposed to wait for I see I see what do you mean I thought it already did away with everything thankfully it doesn't have the other stuff.",
+    "actually": "I cannot see anything; it is fine. I am waiting for my—oh, this is what I should wait for. I see. I thought it removed everything; thankfully, it lacks the other things.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2677,
+      2682
+    ],
+    "raw": "what okay oh shoot it's coming after it's",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2683,
+      2689
+    ],
+    "raw": "Okay not the run not the run by the way I think I'm just going to try to do long form please go and hit him it would be nice if you could hit him thank you anytime anytime just going to do this.",
+    "actually": "This is not the run. I think I will try long form. Please hit him; it would be helpful. Thank you; any time.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2691,
+      2697
+    ],
+    "raw": "I could have dodged it time okay one more try okay I'm going to try to use that thing one more try by the way I'm going to try to use that thing at the end instead of that first one oh but the first one no I can see why it be useful okay second second dream.",
+    "actually": "I could have dodged it. One more try; I will use that item at the end rather than the first time. Though I see why it would help then. Second dream.",
+    "status": "SFT",
+    "reason": "Keep original it be useful grammar, no contraction invented."
+  },
+  {
+    "source_segments": [
+      2698,
+      2704
+    ],
+    "raw": "Okay I also would like to buy more items unless I can craft them right now what a pain maybe make get look craft make medicine uh increases I mean I have three okay so we have.",
+    "actually": "I would also like to buy items, unless I can craft them now. How troublesome. Craft medicine? I have three.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2705,
+      2708
+    ],
+    "raw": "I think I'll take the left one and then the bottom one I [ __ ] up.",
+    "actually": "I think I will take the left one, then the bottom one. I [ __ ] up.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2708,
+      2711
+    ],
+    "raw": "A stronger weapon I don't think so I'm pretty sure this is the only weapon I have okay let's rest.",
+    "actually": "A stronger weapon? I think this is my only weapon. Let us rest.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2712,
+      2719
+    ],
+    "raw": "do I have to like add them more add more pills I thought this is my my limit anyway okay so beginning maybe I should do the left one no okay a prob Le shouldn't have done that executively it's too late",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2712,
+      2716
+    ],
+    "raw": "Do I have to like add them more add more pills I thought this is my my limit anyway okay so beginning maybe I should do the left one no okay.",
+    "actually": "Do I need to add more pills? I thought this was my limit. Perhaps begin with the left one. No; all right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2718,
+      2719
+    ],
+    "raw": "It's too late.",
+    "actually": "It is too late.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2724,
+      2733
+    ],
+    "raw": "Bo pleas Hur up I'll heal now this canot I might have one HP okay I think I need to use it now it's like to hard to see it of",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2725,
+      2728
+    ],
+    "raw": "I'll heal now this cannot I might have one HP.",
+    "actually": "I will heal now. I might have one health point.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2730,
+      2732
+    ],
+    "raw": "Okay I think I need to use it now it's like too hard to see.",
+    "actually": "I think I need to use it now; it is hard to see.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2733,
+      2739
+    ],
+    "raw": "Of course I'm just going to run.",
+    "actually": "I will run.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2740,
+      2749
+    ],
+    "raw": "Ah it is so hard to see that okay uh let's see I have money maybe I can buy more items yeah one more one more we still have time I have stuff to sell oh okay wait where do I buy [ __ ] do I buy it from here or the other guy this this guy store byy.",
+    "actually": "It is hard to see. I have money and can perhaps buy more items. One more; we have time and I have things to sell. Where do I buy [ __ ], here or from the other person? This store; buy.",
+    "status": "SFT",
+    "reason": "Uncertain byy retained verbatim, not silently completed as buy."
+  },
+  {
+    "source_segments": [
+      2575,
+      2575
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2577,
+      2577
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2580,
+      2580
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2581,
+      2581
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2584,
+      2584
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2586,
+      2586
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2616,
+      2616
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2622,
+      2622
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2627,
+      2627
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2632,
+      2632
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2634,
+      2634
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2651,
+      2651
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2654,
+      2654
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2662,
+      2662
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2664,
+      2664
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2665,
+      2665
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2667,
+      2667
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2669,
+      2669
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2676,
+      2676
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2678,
+      2678
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2682,
+      2682
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2690,
+      2690
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2701,
+      2701
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2707,
+      2707
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2720,
+      2720
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2721,
+      2721
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2722,
+      2722
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2723,
+      2723
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2727,
+      2727
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2729,
+      2729
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2734,
+      2734
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2736,
+      2736
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2738,
+      2738
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2739,
+      2739
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

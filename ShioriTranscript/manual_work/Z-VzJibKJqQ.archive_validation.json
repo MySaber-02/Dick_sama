@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "source_segments": 2884,
+  "review_decisions": 676,
+  "accepted_records": 459,
+  "low_contexts": 100,
+  "originals": {
+    "txt": {
+      "sha256": "416eeab1522022e581d2d169142bfa61c2edabecb1b9c37c47b04a3bc048b365",
+      "bytes": 77402
+    },
+    "json": {
+      "sha256": "8e7a827a81e7772c74d5a54a36f5080a545ac823ec0606ea43d074a7f5e85ff1",
+      "bytes": 301113
+    }
+  },
+  "schema_passed": true,
+  "originals_moved_not_copied": true,
+  "word_diagnostic_passed": true,
+  "original_mask_occurrences": 32,
+  "accepted_masks": 28,
+  "excluded_low_masks": 4,
+  "accepted_mask_source_duplicates": 0,
+  "mask_mapping_file": "Z-VzJibKJqQ.mask_source_mapping.json",
+  "stop_after_current_file": true
+}

@@ -1,6 +1,6 @@
 {
   "batch": "next_10_files",
-  "updated": "2026-11-04",
+  "updated": "2026-11-26",
   "repository": "MySaber-02/Dick_sama",
   "branch": "main",
   "policy": "Follow AGENTS.md, README_DATASET.md and ShioriTranscript/一号标准.md. Never mark a file complete until manual semantic review, source coverage reconciliation, clean JSONL validation and byte-identical raw archive are complete.",
@@ -24,46 +24,64 @@
     {
       "order": 3,
       "video_id": "mcQ9PXGt38g",
-      "status": "semantic_review_in_progress_source_coverage_pending",
+      "status": "complete_archived",
       "source_segments": 3061,
       "read_through": 3061,
       "draft_rows": 393,
       "low_confidence": 209,
-      "clean": false,
+      "clean": true,
       "source_read_through": 3061,
       "segmented_records": 1646,
       "segmented_through_draft_row": 393,
       "schema_validation": "passed",
       "sft_low_overlap": 0,
       "exact_raw_duplicates": 51,
-      "archive": false,
+      "archive": true,
       "coverage_supplements": 552,
       "coverage_supplement_sft": 431,
       "coverage_supplement_low": 121,
       "semantic_reviewed_draft_rows": 250,
       "next_review_range": "281-320",
       "draft_raw_duplicates": 1,
-      "additional_source_backed_review": "271-280 staged; 251-270 only draft-edited"
+      "additional_source_backed_review": "271-280 staged; 251-270 only draft-edited",
+      "clean_records": 1861,
+      "originals_moved": true
     },
     {
       "order": 4,
       "video_id": "YZYnMPyJDtQ",
-      "status": "not_started"
+      "status": "complete_archived",
+      "clean": true,
+      "archive": true,
+      "clean_records": 568,
+      "originals_moved": true
     },
     {
       "order": 5,
       "video_id": "Y-_3O6wZI_U",
-      "status": "not_started"
+      "status": "complete_archived",
+      "clean": true,
+      "archive": true,
+      "clean_records": 543,
+      "originals_moved": true
     },
     {
       "order": 6,
       "video_id": "0XPeLT3nfy0",
-      "status": "not_started"
+      "status": "complete_archived",
+      "clean": true,
+      "archive": true,
+      "clean_records": 625,
+      "originals_moved": true
     },
     {
       "order": 7,
       "video_id": "Z-VzJibKJqQ",
-      "status": "not_started"
+      "status": "complete_archived",
+      "clean": true,
+      "archive": true,
+      "clean_records": 459,
+      "originals_moved": true
     },
     {
       "order": 8,
@@ -92,5 +110,5 @@
     "mcQ9PXGt38g: reviewed original draft rows 231-250; corrected 20 actually fields, resegmented 46 existing SFT entries and restored 138 source-aligned SFT utterances. Added 15 LOW fragments, corrected earlier LOW provenance, and reconciled SFT/LOW coverage ledger entries through row 250. Formal clean/archive remain pending full source reconciliation.",
     "mcQ9PXGt38g: source-reviewed rows 271-280, added 26 staged SFT records and 12 new LOW; corrected one existing LOW provenance from row 251 to 272; fixed countdown source boundary and masked source profanity. 251-270 staging, full source coverage, clean/archive remain pending."
   ],
-  "next": "Continue source-backed review 281-320 and reconcile rows 251-270 staging; only finalize after all 393 draft rows and 3061 source segments checked."
+  "next": "Stopped at user request after current files; do not automatically start the next queued file."
 }

@@ -1,0 +1,431 @@
+[
+  {
+    "source_segment_indices": [
+      711,
+      712,
+      713,
+      714,
+      715,
+      716,
+      717,
+      718,
+      719
+    ],
+    "raw": "that's cool too if you rather have no belt on your pants maybe you prefer your pants falling maybe you're a dirty G baller you like having your box just shown to the world it's like your fashion statement I was thinking about what to",
+    "status": "SFT",
+    "actually": "Not wanting a belt is fine too. Perhaps you prefer your pants falling and displaying your boxers as a fashion statement."
+  },
+  {
+    "source_segment_indices": [
+      720,
+      721,
+      722,
+      723,
+      724,
+      725,
+      726,
+      727
+    ],
+    "raw": "do with the voice drama still like I I'm still doing some like the The Voice packs essentially is what it's called I'm still going to do some that actually interested me but for the most part I might I might as well just make them a novel night video it's just what I was thinking",
+    "status": "SFT",
+    "actually": "I am still considering voice dramas. I will make voice packs that interest me, but might turn most into Novel Night videos."
+  },
+  {
+    "source_segment_indices": [
+      728,
+      729,
+      730,
+      731,
+      732,
+      733,
+      734
+    ],
+    "raw": "although that one doesn't have me speak in Japanese no no I don't know should I rotate them you already ordered your belt okay use it responsibly do not use it on body parts that should not be used",
+    "status": "SFT",
+    "actually": "Those do not include me speaking Japanese. Should I alternate them? You ordered a belt; use it responsibly, avoiding unsuitable body parts."
+  },
+  {
+    "source_segment_indices": [
+      735,
+      736,
+      737,
+      738,
+      739,
+      740,
+      741,
+      742,
+      743
+    ],
+    "raw": "for by the way it's it's been a while since I what it's been a while since I've seen a shrine is there another Shrine close by I am very addicted to shrines for those who did not know no no shrines nearby oh good gosh maybe you can hang in on a Christmas tree if you want there's one close",
+    "status": "SFT",
+    "actually": "I have not seen a shrine for a while; is one nearby? I love shrines. None nearby? You could hang the belt on a Christmas tree. There is one close, though."
+  },
+  {
+    "source_segment_indices": [
+      744,
+      745,
+      746,
+      747,
+      748,
+      749,
+      750
+    ],
+    "raw": "though this looks like a boss fight why are these rocks oh there's one nearby no how about I go away I have to beat this thing probably going to make you have to fight it okay",
+    "status": "SFT",
+    "actually": "This looks like a boss fight. Why these rocks? There is a shrine nearby? What if I leave? I have to defeat this; you must fight it."
+  },
+  {
+    "source_segment_indices": [
+      751,
+      752,
+      753,
+      754
+    ],
+    "raw": "ow I think the rock would be useful didn't take time I I should try uh seems like as long as I'm near the but",
+    "status": "LOW",
+    "reason": "Clear rock-ability suggestion recovered separately; near-the-but fragment unfinished."
+  },
+  {
+    "source_segment_indices": [
+      755
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      756,
+      757,
+      758,
+      759,
+      760,
+      761,
+      762,
+      763,
+      764
+    ],
+    "raw": "oh I have no more magic is there a way to get more magic I guess I'm [ __ ] oh oh at least I have health what the hell are these what the fud oh that's right no magic I can't do Cloud drift",
+    "status": "SFT",
+    "actually": "I have no magic. Can I get more? I suppose I am [ __ ]. At least I have health. What are these? I cannot use Cloud Drift without magic."
+  },
+  {
+    "source_segment_indices": [
+      759
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      765,
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773
+    ],
+    "raw": "all right we have to go through I mean it's not too hard it's just a long way I think all right so based on that that was beely defense okay poison I don't think poison works on rocks very well is my thinking",
+    "status": "SFT",
+    "actually": "We must go through. It is not difficult, just a long journey. That was barely defense. I do not think poison works well on rocks."
+  },
+  {
+    "source_segment_indices": [
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783
+    ],
+    "raw": "maybe the baby yeah maybe the baby could work on it uh think this which one be Spirits no I think you do it for the other thing although what Spirits should I cultivate increases Focus slicing them probably not good I think you would have to be the most useful one do you do anything watch demo",
+    "status": "SFT",
+    "actually": "Perhaps the baby could work. Which menu is spirits? What should I cultivate? Increased focus; slicing may not help. You must be most useful. What do you do? Watch the demo."
+  },
+  {
+    "source_segment_indices": [
+      784,
+      785,
+      786,
+      787,
+      788,
+      789,
+      790,
+      791,
+      792,
+      793
+    ],
+    "raw": "you do a slice it takes a while to charge up it's not horrible you tongue people it's cool I think you have to be it has to be you and I guess I should update you you are full affordable but you're a onetime use so you better be useful you better be useful baby wait I can upgrade you multiple times",
+    "status": "SFT",
+    "actually": "You slice, charging slowly; not terrible. You use your tongue against people. It must be you, I think. I should upgrade you; affordable but one-use. You had better be useful. I can upgrade you repeatedly?"
+  },
+  {
+    "source_segment_indices": [
+      794,
+      795,
+      796,
+      797,
+      798,
+      799,
+      800,
+      801,
+      802,
+      803,
+      804,
+      805,
+      806
+    ],
+    "raw": "yeah early stream today we have a membership stream later okay but how many times am I really going to use the baby how many guys uh how many times you think cuz I could upgrade him theoretically maybe five times gives a big boost in defense okay I'll I'll do it another time I just hope they actually use you you're expensive expensive baby it's the best",
+    "status": "SFT",
+    "actually": "We started early because there is a membership stream later. How often will I really use the baby? I could theoretically upgrade him five times. It gives a large defense boost. I will do it another time; I hope I use you, expensive baby. It is the best."
+  },
+  {
+    "source_segment_indices": [
+      807,
+      808,
+      809,
+      810,
+      811,
+      812,
+      813,
+      814,
+      815,
+      816,
+      817,
+      818
+    ],
+    "raw": "okay but oh wait wait I got to rest I got to rest it's underleveled is it oh hey I can upgrade him too I like him best though 6,000 that's not worth it I will rest I will give you a try baby but I was not meant for motherhood I die I die from motherhood that is a big issue",
+    "status": "SFT",
+    "actually": "I need to rest. Is it underleveled? I can upgrade him too, though I prefer him. Six thousand is not worth it. I will rest and try the baby, but I was not meant for motherhood; it kills me. That is a problem."
+  },
+  {
+    "source_segment_indices": [
+      819,
+      820,
+      821,
+      822,
+      823,
+      824,
+      825,
+      826
+    ],
+    "raw": "run run run from responsibility and motherhood it's useful early game is this early game still I guess chapter 2 is still sort of early oh it's such a long way I have to fight the rock I can't just heal and then you know Fight The Rock chaos and",
+    "status": "SFT",
+    "actually": "Run from responsibility and motherhood. It is useful early; is chapter two still early? The journey is long; I must fight the rock rather than heal beside it. Chaos and—"
+  },
+  {
+    "source_segment_indices": [
+      827
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      828,
+      829,
+      830,
+      831,
+      832,
+      833,
+      834,
+      835
+    ],
+    "raw": "shambles I have to man freaking rocks no offense to Pebbles you're cool but once you turn into a rock maybe you're not that cool after that you're a little bit uh annoying probably in a good way in a good way go",
+    "status": "SFT",
+    "actually": "Shambles. I must fight the rocks. No offense, Pebbles; you are cool, but turning into a rock makes you a little annoying, in a good way. Go away."
+  },
+  {
+    "source_segment_indices": [
+      836,
+      837,
+      838,
+      839,
+      840,
+      841,
+      842,
+      843
+    ],
+    "raw": "away wait is this where I meant to go oh crap where am I supposed to be to right maybe the heck do I go after this holy crap I don't remember oh this way H it would be nice to Dodge thank you it's my least favorite thing in games",
+    "status": "SFT",
+    "actually": "Is this where I should go? Where do I go afterward? I forgot. This way. Dodging would help; thank you. This is my least favorite part of games."
+  },
+  {
+    "source_segment_indices": [
+      844,
+      845,
+      846,
+      847,
+      848,
+      849,
+      850,
+      851,
+      852
+    ],
+    "raw": "backtracking what if there is a way to avoid this they called hugging the wall all right let me think should do the cloak uh how do you do the cloak again l okay I see it's going to take a while to yes yes that's seen that's nice uh my Clo's on a timer so please hurry",
+    "status": "SFT",
+    "actually": "Backtracking. Could I avoid it by hugging the wall? How do I use the cloak? L. It takes a while. Nice; my cloak is timed, so hurry."
+  },
+  {
+    "source_segment_indices": [
+      853,
+      854,
+      855,
+      856,
+      857,
+      858,
+      859,
+      860
+    ],
+    "raw": "up oh a die that's annoying oh wow this is really bad and that that's right is really annoying I miss this all right let's just go",
+    "status": "LOW",
+    "reason": "Unclear die/right/miss phrasing; clear annoyance and decision to go recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      861,
+      862,
+      863,
+      864,
+      865,
+      866
+    ],
+    "raw": "dodge dodge dodge how does the baby work oh it's a one time you I don't know what to do this for this part I seem to explode just going to do it now",
+    "status": "SFT",
+    "actually": "Dodge. How does the baby work? It is one-use. I do not know what to do here; I seem to explode. I will use it now."
+  },
+  {
+    "source_segment_indices": [
+      867
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      868,
+      869
+    ],
+    "raw": "really just second health bar okay",
+    "status": "SFT",
+    "actually": "Really, just a second health bar. Okay."
+  },
+  {
+    "source_segment_indices": [
+      870,
+      871,
+      872,
+      873,
+      874,
+      875,
+      876,
+      877,
+      878
+    ],
+    "raw": "run um than you oh oh that's right one 2 3 4 five t zo I don't want to get the S heal stamina andone comes close to me this okay",
+    "status": "LOW",
+    "reason": "Fragmented combat counts and commands; clear run/count/heal references recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      879,
+      880,
+      881,
+      882,
+      883,
+      884,
+      885,
+      886,
+      887,
+      888,
+      889
+    ],
+    "raw": "healing what now healing healing I still don't think the baby was that great I still don't think the baby was maybe it's because I'm underleveled for it but I don't know guys I don't know I still think snake man is the best a burn resistance what do you do reduces the cool down but that's if you have four of them I don't think it's worth it right now plus",
+    "status": "SFT",
+    "actually": "Healing. I still do not think the baby was very good; perhaps I am underleveled. I still prefer snake man. Burn resistance; reduced cooldown requires four, so I do not think it is worthwhile now.",
+    "raw_fixes": [
+      [
+        "sakman",
+        "snake man"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      890
+    ],
+    "raw": "six baby's good for stunning I see all",
+    "status": "SFT",
+    "actually": "The baby is useful for stunning. I see."
+  },
+  {
+    "source_segment_indices": [
+      751,
+      752,
+      753
+    ],
+    "raw": "I think the rock would be useful didn't take time I I should try",
+    "actually": "I think the rock would help. It did not take time; I should try.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      853,
+      854
+    ],
+    "raw": "that's annoying oh wow this is really bad",
+    "actually": "That is annoying and very bad.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      859,
+      860
+    ],
+    "raw": "all right let's just go",
+    "actually": "Let us go.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      870
+    ],
+    "raw": "run",
+    "actually": "Run.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      872,
+      873
+    ],
+    "raw": "one 2 3 4 five",
+    "actually": "One, two, three, four, five.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      875,
+      876
+    ],
+    "raw": "heal stamina",
+    "actually": "Heal stamina.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

@@ -1,0 +1,196 @@
+{
+  "patches": [
+    {
+      "part": "part11.json",
+      "row": 3,
+      "source_segments": [
+        2263,
+        2276
+      ],
+      "replace_records": [
+        {
+          "raw": "Where’s the, wait, where is it? Yeah, I don’t know. Maybe it’s been destroyed. Where the, what, did somebody kill it, get it already?",
+          "actually": "Where is it? I do not know; perhaps it was destroyed or someone already killed or caught it.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Well maybe I’ll the server",
+          "reason": "Uncertain ASR; do not change I’ll into on to make grammar work.",
+          "status": "LOW"
+        },
+        {
+          "raw": "Is it just us? What? Huh, usually it’s within within an hour, though, why? Yeah, should we just wait for him? Well, we can camp out, I guess, or just uh explore this area a little.",
+          "actually": "Are we alone? Usually it is within an hour. Should we wait, camp here, or explore?",
+          "status": "SFT"
+        }
+      ]
+    },
+    {
+      "part": "part11.json",
+      "row": 10,
+      "source_segments": [
+        2295,
+        2300
+      ]
+    },
+    {
+      "part": "part11.json",
+      "row": 11,
+      "raw": "People are saying it only spawns during the day, Biboo. Oh, I guess we got to wait until daytime then. Okay, okay, okay, well, we have it teleporter, so we can we can come back the daytime. I can always come back whenever on my own too cuz I I know, I know, uh, the time. Oh, yeah, you should uh leave a marker here then.",
+      "reason": "Retain we have it teleporter and come back the daytime grammar; do not add articles or prepositions."
+    },
+    {
+      "part": "part11.json",
+      "row": 12,
+      "raw": "A marker, I good idea. How how do I, how am I going to get out of here? Guess we’re going to have to climb. Hold, oh, that’s right cuz we jumped down. Yeah, so sorry for you guys. I don’t have my flying mount actually, so I also have to climb.",
+      "reason": "Restore source I before good idea; only clim→climb spelling repaired."
+    },
+    {
+      "part": "part11.json",
+      "row": 16,
+      "source_segments": [
+        2327,
+        2334
+      ]
+    },
+    {
+      "part": "part11.json",
+      "row": 21,
+      "raw": "Okay, gosh, I cannot see crap. Sor, sorry, I don’t have a thing. It’s okay, are we up? Yeah, just just go straight up. What? Yeah, yeah, no, we made it, we made it, there’s a bridge here.",
+      "reason": "Preserve actual abandoned sor instead of making a second complete sorry."
+    },
+    {
+      "part": "part11.json",
+      "row": 23,
+      "source_segments": [
+        2365,
+        2372
+      ]
+    },
+    {
+      "part": "part11.json",
+      "row": 26,
+      "source_segments": [
+        2379,
+        2388
+      ],
+      "raw": "Oh, no, I cannot see, I cannot see a bridge. Just follow. I guess we’re going to wait for daytime. Where are you guys? Is dangerous. We’re heading toward the teleporter. Only we had a grappling gun.",
+      "reason": "Keep is dangerous and only we had wording; no grammar correction to it is / if only."
+    },
+    {
+      "part": "part11.json",
+      "row": 29,
+      "replace_records": [
+        {
+          "raw": "We’re back. Oh, we’re back.",
+          "actually": "We are back.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Pal we’re all asleep good condition",
+          "reason": "Pronoun/tense ASR ambiguous; do not rewrite we’re to were and impose Pals as subject.",
+          "status": "LOW"
+        }
+      ]
+    },
+    {
+      "part": "part11.json",
+      "row": 43,
+      "source_segments": [
+        2456,
+        2460
+      ],
+      "replace_records": [
+        {
+          "raw": "Wait one second, right there. Do this. Pet.",
+          "actually": "Wait; do this here. Pet.",
+          "status": "SFT"
+        },
+        {
+          "raw": "petal destroy pedal",
+          "reason": "Unclear ASR command or name; do not invent Pet Pero / Destroy Pero.",
+          "status": "LOW"
+        },
+        {
+          "raw": "There’s no destroy. Come here.",
+          "actually": "There is no destroy option; come here.",
+          "status": "SFT"
+        }
+      ]
+    },
+    {
+      "part": "part12.json",
+      "row": 10,
+      "source_segments": [
+        2531,
+        2536
+      ]
+    },
+    {
+      "part": "part12.json",
+      "row": 23,
+      "raw": "Isn’t that Pal kind of rare? Which one? The one you had. Oh, no, it it’s a somewhere you can catch them pretty plentiful. Oh, really? Yeah, I want one too. There’s so many cute Pals. Yeah, yeah, I like it. It was fun today, it was fun.",
+      "reason": "Restore it it’s a aborted construction instead of grammar polishing the raw."
+    },
+    {
+      "part": "part12.json",
+      "row": 27,
+      "source_segments": [
+        2595,
+        2609
+      ],
+      "actually": "I have an announcement: Biboo and I have a joint project releasing on the thirteenth. The waiting room will go live later. We worked hard on the cute special video, and I think you will love it. It will be on Nerissa’s channel; please look forward to it.",
+      "reason": "Preserve announcer first-person I, not third-person reported narration."
+    },
+    {
+      "part": "part12.json",
+      "row": 32,
+      "raw": "Yeah, but also this weekend we have our rock and roll party tomorrow, and this time we’re going to be singing love song, love s, so to celebrate Valentine’s early. Maybe maybe you come come pop by.",
+      "reason": "Retain song and the interrupted s, do not silently pluralize spoken raw."
+    },
+    {
+      "part": "part12.json",
+      "row": 36,
+      "source_segments": [
+        2646,
+        2649
+      ]
+    },
+    {
+      "part": "part12.json",
+      "row": 37,
+      "raw": "Thank you so much. Thank you, thank you. Byee, byebye.",
+      "reason": "Preserve original elongated byee and byebye spelling."
+    }
+  ],
+  "approved_asr_spelling_only": {
+    "SPS": "spawns; discussion whether boss spawns by day",
+    "to be boo/bio/beo/B boo/B’s": "Biboo/Biboo’s when directly naming the companion",
+    "clim": "climb",
+    "L us for dead": "left us for dead",
+    "soap": "slope; rock-climbing rest platform in same immediate context",
+    "a": "Ah interjection before if only / I kind of far away / I feel bad",
+    "weren": "weren’t missing contraction spelling",
+    "Jeep": "sheep when referring to the just-captured shiny sheep",
+    "goad": "go ahead",
+    "bre": "bridge; same crossing being sought",
+    "PS": "Pals creature plural noun",
+    "orang sand": "onsen; house hot bath being visited",
+    "then": "them in eat in them reference to hot baths",
+    "CL": "cliff; repeated falling-off-cliff joke",
+    "P/perel": "Pero nickname in same mount conversation",
+    "Shi": "Shiori in reference to tower boss the group just beat",
+    "mou": "mount; player ensures riding instead of gliding",
+    "for M": "Fuwamoco; lending glider exchange",
+    "Sor": "sorry only when standalone source2507, unlike actual sor sorry source2359",
+    "Spa": "spawn; missing Pal camp explanation",
+    "me at the bottom": "meet at the bottom; correction of meeting place in same utterance",
+    "Nissa/nisa": "Nerissa; actual addressed streamer",
+    "bio": "Biboo",
+    "P/PS": "Pal/Pals in explicit creature conversation",
+    "plen": "plentiful; following denial of rarity in capture-location conversation",
+    "two": "too in I want one two",
+    "mer": "merch; merchandise announcement repeated nearby",
+    "club": "collab in next-week streaming plan; repeated full collab in source2654"
+  }
+}

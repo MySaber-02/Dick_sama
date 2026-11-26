@@ -1,0 +1,26 @@
+[
+  {
+    "source_segment": 544,
+    "count": 2,
+    "status": "SFT",
+    "decision": "part03:38:1"
+  },
+  {
+    "source_segment": 564,
+    "count": 1,
+    "status": "SFT",
+    "decision": "part03:44:1"
+  },
+  {
+    "source_segment": 2051,
+    "count": 1,
+    "status": "SFT",
+    "decision": "part10:5:1"
+  },
+  {
+    "source_segment": 2624,
+    "count": 1,
+    "status": "LOW",
+    "decision": "part12:29:1"
+  }
+]

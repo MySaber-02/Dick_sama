@@ -1,0 +1,3273 @@
+{
+  "note": "Literal sequence diagnostic only, not semantic acceptance; corrected spellings and repeated words require manual interpretation.",
+  "unmatched_decisions": [
+    {
+      "decision": 9,
+      "source_segments": [
+        29,
+        32
+      ],
+      "unmatched_words": [
+        "slash",
+        "34"
+      ]
+    },
+    {
+      "decision": 13,
+      "source_segments": [
+        37,
+        40
+      ],
+      "unmatched_words": [
+        "fudge"
+      ]
+    },
+    {
+      "decision": 22,
+      "source_segments": [
+        54,
+        57
+      ],
+      "unmatched_words": [
+        "the"
+      ]
+    },
+    {
+      "decision": 23,
+      "source_segments": [
+        58,
+        61
+      ],
+      "unmatched_words": [
+        "slash",
+        "30"
+      ]
+    },
+    {
+      "decision": 27,
+      "source_segments": [
+        71,
+        75
+      ],
+      "unmatched_words": [
+        "still",
+        "flipped"
+      ]
+    },
+    {
+      "decision": 37,
+      "source_segments": [
+        100,
+        104
+      ],
+      "unmatched_words": [
+        "step"
+      ]
+    },
+    {
+      "decision": 41,
+      "source_segments": [
+        113,
+        116
+      ],
+      "unmatched_words": [
+        "step"
+      ]
+    },
+    {
+      "decision": 54,
+      "source_segments": [
+        152,
+        154
+      ],
+      "unmatched_words": [
+        "tree"
+      ]
+    },
+    {
+      "decision": 61,
+      "source_segments": [
+        170,
+        173
+      ],
+      "unmatched_words": [
+        "vrchat",
+        "vrchat"
+      ]
+    },
+    {
+      "decision": 62,
+      "source_segments": [
+        174,
+        177
+      ],
+      "unmatched_words": [
+        "fudge"
+      ]
+    },
+    {
+      "decision": 65,
+      "source_segments": [
+        184,
+        187
+      ],
+      "unmatched_words": [
+        "fudge"
+      ]
+    },
+    {
+      "decision": 80,
+      "source_segments": [
+        232,
+        236
+      ],
+      "unmatched_words": [
+        "step"
+      ]
+    },
+    {
+      "decision": 81,
+      "source_segments": [
+        236,
+        239
+      ],
+      "unmatched_words": [
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 84,
+      "source_segments": [
+        247,
+        249
+      ],
+      "unmatched_words": [
+        "motion",
+        "motion",
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 85,
+      "source_segments": [
+        250,
+        254
+      ],
+      "unmatched_words": [
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 88,
+      "source_segments": [
+        263,
+        268
+      ],
+      "unmatched_words": [
+        "uh",
+        "huh",
+        "uh",
+        "huh"
+      ]
+    },
+    {
+      "decision": 89,
+      "source_segments": [
+        268,
+        272
+      ],
+      "unmatched_words": [
+        "tiktok",
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 91,
+      "source_segments": [
+        275,
+        278
+      ],
+      "unmatched_words": [
+        "tiktok",
+        "uh",
+        "huh"
+      ]
+    },
+    {
+      "decision": 97,
+      "source_segments": [
+        294,
+        299
+      ],
+      "unmatched_words": [
+        "tiktok",
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 98,
+      "source_segments": [
+        299,
+        300
+      ],
+      "unmatched_words": [
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 99,
+      "source_segments": [
+        300,
+        303
+      ],
+      "unmatched_words": [
+        "tiktok",
+        "tiktok"
+      ]
+    },
+    {
+      "decision": 104,
+      "source_segments": [
+        319,
+        323
+      ],
+      "unmatched_words": [
+        "roleplay"
+      ]
+    },
+    {
+      "decision": 106,
+      "source_segments": [
+        325,
+        327
+      ],
+      "unmatched_words": [
+        "angst"
+      ]
+    },
+    {
+      "decision": 108,
+      "source_segments": [
+        332,
+        334
+      ],
+      "unmatched_words": [
+        "uh"
+      ]
+    },
+    {
+      "decision": 110,
+      "source_segments": [
+        337,
+        346
+      ],
+      "unmatched_words": [
+        "meant"
+      ]
+    },
+    {
+      "decision": 119,
+      "source_segments": [
+        369,
+        371
+      ],
+      "unmatched_words": [
+        "am",
+        "senzu"
+      ]
+    },
+    {
+      "decision": 123,
+      "source_segments": [
+        385,
+        391
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 124,
+      "source_segments": [
+        391,
+        396
+      ],
+      "unmatched_words": [
+        "meh"
+      ]
+    },
+    {
+      "decision": 126,
+      "source_segments": [
+        401,
+        404
+      ],
+      "unmatched_words": [
+        "changed"
+      ]
+    },
+    {
+      "decision": 127,
+      "source_segments": [
+        404,
+        409
+      ],
+      "unmatched_words": [
+        "dude's",
+        "joestar"
+      ]
+    },
+    {
+      "decision": 128,
+      "source_segments": [
+        409,
+        412
+      ],
+      "unmatched_words": [
+        "movie's"
+      ]
+    },
+    {
+      "decision": 132,
+      "source_segments": [
+        423,
+        427
+      ],
+      "unmatched_words": [
+        "uh"
+      ]
+    },
+    {
+      "decision": 134,
+      "source_segments": [
+        430,
+        434
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 135,
+      "source_segments": [
+        435,
+        438
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 136,
+      "source_segments": [
+        438,
+        443
+      ],
+      "unmatched_words": [
+        "actor's"
+      ]
+    },
+    {
+      "decision": 138,
+      "source_segments": [
+        448,
+        452
+      ],
+      "unmatched_words": [
+        "nosferatu",
+        "no"
+      ]
+    },
+    {
+      "decision": 146,
+      "source_segments": [
+        470,
+        477
+      ],
+      "unmatched_words": [
+        "wuthering"
+      ]
+    },
+    {
+      "decision": 147,
+      "source_segments": [
+        477,
+        482
+      ],
+      "unmatched_words": [
+        "piece"
+      ]
+    },
+    {
+      "decision": 148,
+      "source_segments": [
+        483,
+        486
+      ],
+      "unmatched_words": [
+        "heathcliff's",
+        "nosferatu",
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 149,
+      "source_segments": [
+        486,
+        489
+      ],
+      "unmatched_words": [
+        "do"
+      ]
+    },
+    {
+      "decision": 151,
+      "source_segments": [
+        492,
+        495
+      ],
+      "unmatched_words": [
+        "piece"
+      ]
+    },
+    {
+      "decision": 157,
+      "source_segments": [
+        506,
+        510
+      ],
+      "unmatched_words": [
+        "turned"
+      ]
+    },
+    {
+      "decision": 159,
+      "source_segments": [
+        511,
+        511
+      ],
+      "unmatched_words": [
+        "fell"
+      ]
+    },
+    {
+      "decision": 163,
+      "source_segments": [
+        525,
+        529
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 165,
+      "source_segments": [
+        534,
+        539
+      ],
+      "unmatched_words": [
+        "no"
+      ]
+    },
+    {
+      "decision": 166,
+      "source_segments": [
+        539,
+        544
+      ],
+      "unmatched_words": [
+        "megalo"
+      ]
+    },
+    {
+      "decision": 168,
+      "source_segments": [
+        544,
+        549
+      ],
+      "unmatched_words": [
+        "thou"
+      ]
+    },
+    {
+      "decision": 169,
+      "source_segments": [
+        549,
+        553
+      ],
+      "unmatched_words": [
+        "uh"
+      ]
+    },
+    {
+      "decision": 172,
+      "source_segments": [
+        559,
+        565
+      ],
+      "unmatched_words": [
+        "ah"
+      ]
+    },
+    {
+      "decision": 174,
+      "source_segments": [
+        571,
+        575
+      ],
+      "unmatched_words": [
+        "degree"
+      ]
+    },
+    {
+      "decision": 180,
+      "source_segments": [
+        596,
+        599
+      ],
+      "unmatched_words": [
+        "three"
+      ]
+    },
+    {
+      "decision": 187,
+      "source_segments": [
+        618,
+        620
+      ],
+      "unmatched_words": [
+        "they"
+      ]
+    },
+    {
+      "decision": 189,
+      "source_segments": [
+        623,
+        624
+      ],
+      "unmatched_words": [
+        "bratwurst"
+      ]
+    },
+    {
+      "decision": 192,
+      "source_segments": [
+        635,
+        641
+      ],
+      "unmatched_words": [
+        "split"
+      ]
+    },
+    {
+      "decision": 193,
+      "source_segments": [
+        642,
+        644
+      ],
+      "unmatched_words": [
+        "today"
+      ]
+    },
+    {
+      "decision": 194,
+      "source_segments": [
+        645,
+        649
+      ],
+      "unmatched_words": [
+        "fudge"
+      ]
+    },
+    {
+      "decision": 195,
+      "source_segments": [
+        649,
+        657
+      ],
+      "unmatched_words": [
+        "was",
+        "in"
+      ]
+    },
+    {
+      "decision": 198,
+      "source_segments": [
+        667,
+        671
+      ],
+      "unmatched_words": [
+        "quirkier"
+      ]
+    },
+    {
+      "decision": 203,
+      "source_segments": [
+        685,
+        690
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 207,
+      "source_segments": [
+        699,
+        700
+      ],
+      "unmatched_words": [
+        "edinburgh"
+      ]
+    },
+    {
+      "decision": 214,
+      "source_segments": [
+        724,
+        726
+      ],
+      "unmatched_words": [
+        "conundrum",
+        "conundrum"
+      ]
+    },
+    {
+      "decision": 215,
+      "source_segments": [
+        726,
+        731
+      ],
+      "unmatched_words": [
+        "mean",
+        "gee"
+      ]
+    },
+    {
+      "decision": 219,
+      "source_segments": [
+        742,
+        750
+      ],
+      "unmatched_words": [
+        "cillian",
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 221,
+      "source_segments": [
+        752,
+        758
+      ],
+      "unmatched_words": [
+        "fangirl"
+      ]
+    },
+    {
+      "decision": 222,
+      "source_segments": [
+        758,
+        761
+      ],
+      "unmatched_words": [
+        "fangirl"
+      ]
+    },
+    {
+      "decision": 224,
+      "source_segments": [
+        769,
+        776
+      ],
+      "unmatched_words": [
+        "strays"
+      ]
+    },
+    {
+      "decision": 226,
+      "source_segments": [
+        778,
+        780
+      ],
+      "unmatched_words": [
+        "or"
+      ]
+    },
+    {
+      "decision": 229,
+      "source_segments": [
+        785,
+        787
+      ],
+      "unmatched_words": [
+        "thank"
+      ]
+    },
+    {
+      "decision": 230,
+      "source_segments": [
+        788,
+        791
+      ],
+      "unmatched_words": [
+        "keanu",
+        "keanu"
+      ]
+    },
+    {
+      "decision": 231,
+      "source_segments": [
+        791,
+        796
+      ],
+      "unmatched_words": [
+        "keanu",
+        "keanu",
+        "cyberpunk",
+        "keanu",
+        "posh"
+      ]
+    },
+    {
+      "decision": 232,
+      "source_segments": [
+        797,
+        802
+      ],
+      "unmatched_words": [
+        "tiktok",
+        "keanu"
+      ]
+    },
+    {
+      "decision": 235,
+      "source_segments": [
+        810,
+        814
+      ],
+      "unmatched_words": [
+        "dicky"
+      ]
+    },
+    {
+      "decision": 238,
+      "source_segments": [
+        818,
+        823
+      ],
+      "unmatched_words": [
+        "willem",
+        "dafoe",
+        "willem",
+        "dafoe",
+        "willem",
+        "dafoe"
+      ]
+    },
+    {
+      "decision": 239,
+      "source_segments": [
+        823,
+        825
+      ],
+      "unmatched_words": [
+        "in"
+      ]
+    },
+    {
+      "decision": 240,
+      "source_segments": [
+        825,
+        830
+      ],
+      "unmatched_words": [
+        "head",
+        "pat"
+      ]
+    },
+    {
+      "decision": 249,
+      "source_segments": [
+        857,
+        863
+      ],
+      "unmatched_words": [
+        "helsing"
+      ]
+    },
+    {
+      "decision": 256,
+      "source_segments": [
+        882,
+        886
+      ],
+      "unmatched_words": [
+        "nosferatu"
+      ]
+    },
+    {
+      "decision": 259,
+      "source_segments": [
+        899,
+        904
+      ],
+      "unmatched_words": [
+        "helsing",
+        "helsing"
+      ]
+    },
+    {
+      "decision": 260,
+      "source_segments": [
+        905,
+        910
+      ],
+      "unmatched_words": [
+        "it",
+        "gintama",
+        "gintama"
+      ]
+    },
+    {
+      "decision": 263,
+      "source_segments": [
+        920,
+        925
+      ],
+      "unmatched_words": [
+        "devilman",
+        "made",
+        "in",
+        "tokyo",
+        "ghoul"
+      ]
+    },
+    {
+      "decision": 264,
+      "source_segments": [
+        925,
+        930
+      ],
+      "unmatched_words": [
+        "uh",
+        "bebop",
+        "trigun",
+        "trigun",
+        "trigun's",
+        "it",
+        "trigun",
+        "bebop"
+      ]
+    },
+    {
+      "decision": 267,
+      "source_segments": [
+        932,
+        937
+      ],
+      "unmatched_words": [
+        "trigun"
+      ]
+    },
+    {
+      "decision": 271,
+      "source_segments": [
+        941,
+        942
+      ],
+      "unmatched_words": [
+        "one",
+        "punch"
+      ]
+    },
+    {
+      "decision": 272,
+      "source_segments": [
+        942,
+        945
+      ],
+      "unmatched_words": [
+        "made",
+        "in"
+      ]
+    },
+    {
+      "decision": 274,
+      "source_segments": [
+        951,
+        958
+      ],
+      "unmatched_words": [
+        "cristo"
+      ]
+    },
+    {
+      "decision": 275,
+      "source_segments": [
+        958,
+        962
+      ],
+      "unmatched_words": [
+        "helsing"
+      ]
+    },
+    {
+      "decision": 276,
+      "source_segments": [
+        962,
+        968
+      ],
+      "unmatched_words": [
+        "count",
+        "as"
+      ]
+    },
+    {
+      "decision": 277,
+      "source_segments": [
+        969,
+        973
+      ],
+      "unmatched_words": [
+        "in"
+      ]
+    },
+    {
+      "decision": 284,
+      "source_segments": [
+        1007,
+        1011
+      ],
+      "unmatched_words": [
+        "hellsing"
+      ]
+    },
+    {
+      "decision": 286,
+      "source_segments": [
+        1014,
+        1018
+      ],
+      "unmatched_words": [
+        "what's",
+        "premise"
+      ]
+    },
+    {
+      "decision": 287,
+      "source_segments": [
+        1019,
+        1022
+      ],
+      "unmatched_words": [
+        "attack",
+        "on",
+        "titan",
+        "serial",
+        "lain"
+      ]
+    },
+    {
+      "decision": 288,
+      "source_segments": [
+        1022,
+        1024
+      ],
+      "unmatched_words": [
+        "mononoke",
+        "ghibli"
+      ]
+    },
+    {
+      "decision": 290,
+      "source_segments": [
+        1025,
+        1029
+      ],
+      "unmatched_words": [
+        "hellsing"
+      ]
+    },
+    {
+      "decision": 291,
+      "source_segments": [
+        1029,
+        1031
+      ],
+      "unmatched_words": [
+        "hm"
+      ]
+    },
+    {
+      "decision": 294,
+      "source_segments": [
+        1035,
+        1039
+      ],
+      "unmatched_words": [
+        "eight",
+        "hellsing"
+      ]
+    },
+    {
+      "decision": 298,
+      "source_segments": [
+        1045,
+        1054
+      ],
+      "unmatched_words": [
+        "bah",
+        "bah"
+      ]
+    },
+    {
+      "decision": 302,
+      "source_segments": [
+        1058,
+        1061
+      ],
+      "unmatched_words": [
+        "thank",
+        "fifteen",
+        "and",
+        "d"
+      ]
+    },
+    {
+      "decision": 303,
+      "source_segments": [
+        1061,
+        1069
+      ],
+      "unmatched_words": [
+        "d",
+        "gray",
+        "man"
+      ]
+    },
+    {
+      "decision": 304,
+      "source_segments": [
+        1070,
+        1074
+      ],
+      "unmatched_words": [
+        "allen"
+      ]
+    },
+    {
+      "decision": 308,
+      "source_segments": [
+        1094,
+        1096
+      ],
+      "unmatched_words": [
+        "implied"
+      ]
+    },
+    {
+      "decision": 309,
+      "source_segments": [
+        1096,
+        1101
+      ],
+      "unmatched_words": [
+        "hellsing",
+        "abridged",
+        "abridged",
+        "into",
+        "hellsing",
+        "hellsing"
+      ]
+    },
+    {
+      "decision": 310,
+      "source_segments": [
+        1101,
+        1107
+      ],
+      "unmatched_words": [
+        "x"
+      ]
+    },
+    {
+      "decision": 313,
+      "source_segments": [
+        1111,
+        1114
+      ],
+      "unmatched_words": [
+        "it's"
+      ]
+    },
+    {
+      "decision": 314,
+      "source_segments": [
+        1114,
+        1121
+      ],
+      "unmatched_words": [
+        "allen's",
+        "kuroshitsuji"
+      ]
+    },
+    {
+      "decision": 317,
+      "source_segments": [
+        1133,
+        1140
+      ],
+      "unmatched_words": [
+        "for"
+      ]
+    },
+    {
+      "decision": 319,
+      "source_segments": [
+        1142,
+        1145
+      ],
+      "unmatched_words": [
+        "devilman"
+      ]
+    },
+    {
+      "decision": 320,
+      "source_segments": [
+        1145,
+        1147
+      ],
+      "unmatched_words": [
+        "step"
+      ]
+    },
+    {
+      "decision": 321,
+      "source_segments": [
+        1147,
+        1151
+      ],
+      "unmatched_words": [
+        "edgerunners"
+      ]
+    },
+    {
+      "decision": 322,
+      "source_segments": [
+        1151,
+        1155
+      ],
+      "unmatched_words": [
+        "ding"
+      ]
+    },
+    {
+      "decision": 327,
+      "source_segments": [
+        1167,
+        1171
+      ],
+      "unmatched_words": [
+        "girl"
+      ]
+    },
+    {
+      "decision": 328,
+      "source_segments": [
+        1172,
+        1174
+      ],
+      "unmatched_words": [
+        "uh",
+        "oh"
+      ]
+    },
+    {
+      "decision": 329,
+      "source_segments": [
+        1175,
+        1181
+      ],
+      "unmatched_words": [
+        "nice"
+      ]
+    },
+    {
+      "decision": 330,
+      "source_segments": [
+        1182,
+        1186
+      ],
+      "unmatched_words": [
+        "correctamundo",
+        "ergo"
+      ]
+    },
+    {
+      "decision": 332,
+      "source_segments": [
+        1186,
+        1190
+      ],
+      "unmatched_words": [
+        "kojima"
+      ]
+    },
+    {
+      "decision": 333,
+      "source_segments": [
+        1190,
+        1196
+      ],
+      "unmatched_words": [
+        "oh",
+        "uh",
+        "oh"
+      ]
+    },
+    {
+      "decision": 335,
+      "source_segments": [
+        1196,
+        1198
+      ],
+      "unmatched_words": [
+        "lycoris"
+      ]
+    },
+    {
+      "decision": 337,
+      "source_segments": [
+        1200,
+        1208
+      ],
+      "unmatched_words": [
+        "retained",
+        "kaneki",
+        "three"
+      ]
+    },
+    {
+      "decision": 341,
+      "source_segments": [
+        1217,
+        1223
+      ],
+      "unmatched_words": [
+        "uh",
+        "oh",
+        "that"
+      ]
+    },
+    {
+      "decision": 345,
+      "source_segments": [
+        1235,
+        1239
+      ],
+      "unmatched_words": [
+        "cats",
+        "had"
+      ]
+    },
+    {
+      "decision": 350,
+      "source_segments": [
+        1255,
+        1258
+      ],
+      "unmatched_words": [
+        "revisiting"
+      ]
+    },
+    {
+      "decision": 352,
+      "source_segments": [
+        1259,
+        1265
+      ],
+      "unmatched_words": [
+        "for",
+        "mousey",
+        "mousey"
+      ]
+    },
+    {
+      "decision": 356,
+      "source_segments": [
+        1269,
+        1275
+      ],
+      "unmatched_words": [
+        "an"
+      ]
+    },
+    {
+      "decision": 359,
+      "source_segments": [
+        1277,
+        1281
+      ],
+      "unmatched_words": [
+        "vines"
+      ]
+    },
+    {
+      "decision": 362,
+      "source_segments": [
+        1291,
+        1293
+      ],
+      "unmatched_words": [
+        "norn9"
+      ]
+    },
+    {
+      "decision": 364,
+      "source_segments": [
+        1293,
+        1299
+      ],
+      "unmatched_words": [
+        "ten"
+      ]
+    },
+    {
+      "decision": 366,
+      "source_segments": [
+        1299,
+        1302
+      ],
+      "unmatched_words": [
+        "oh",
+        "page"
+      ]
+    },
+    {
+      "decision": 368,
+      "source_segments": [
+        1307,
+        1314
+      ],
+      "unmatched_words": [
+        "uh",
+        "oh"
+      ]
+    },
+    {
+      "decision": 369,
+      "source_segments": [
+        1315,
+        1324
+      ],
+      "unmatched_words": [
+        "i'm"
+      ]
+    },
+    {
+      "decision": 373,
+      "source_segments": [
+        1328,
+        1331
+      ],
+      "unmatched_words": [
+        "piece",
+        "is"
+      ]
+    },
+    {
+      "decision": 378,
+      "source_segments": [
+        1337,
+        1340
+      ],
+      "unmatched_words": [
+        "dear"
+      ]
+    },
+    {
+      "decision": 382,
+      "source_segments": [
+        1344,
+        1350
+      ],
+      "unmatched_words": [
+        "raunchy"
+      ]
+    },
+    {
+      "decision": 386,
+      "source_segments": [
+        1357,
+        1362
+      ],
+      "unmatched_words": [
+        "frog"
+      ]
+    },
+    {
+      "decision": 395,
+      "source_segments": [
+        1381,
+        1387
+      ],
+      "unmatched_words": [
+        "amiss",
+        "uh",
+        "oh"
+      ]
+    },
+    {
+      "decision": 399,
+      "source_segments": [
+        1395,
+        1399
+      ],
+      "unmatched_words": [
+        "now"
+      ]
+    },
+    {
+      "decision": 406,
+      "source_segments": [
+        1411,
+        1418
+      ],
+      "unmatched_words": [
+        "bomb"
+      ]
+    },
+    {
+      "decision": 409,
+      "source_segments": [
+        1426,
+        1429
+      ],
+      "unmatched_words": [
+        "step"
+      ]
+    },
+    {
+      "decision": 410,
+      "source_segments": [
+        1430,
+        1433
+      ],
+      "unmatched_words": [
+        "four",
+        "fell"
+      ]
+    },
+    {
+      "decision": 412,
+      "source_segments": [
+        1437,
+        1442
+      ],
+      "unmatched_words": [
+        "kocho",
+        "doing",
+        "you"
+      ]
+    },
+    {
+      "decision": 414,
+      "source_segments": [
+        1449,
+        1453
+      ],
+      "unmatched_words": [
+        "touchit"
+      ]
+    },
+    {
+      "decision": 415,
+      "source_segments": [
+        1453,
+        1457
+      ],
+      "unmatched_words": [
+        "drink",
+        "3"
+      ]
+    },
+    {
+      "decision": 416,
+      "source_segments": [
+        1457,
+        1462
+      ],
+      "unmatched_words": [
+        "time",
+        "out"
+      ]
+    },
+    {
+      "decision": 417,
+      "source_segments": [
+        1462,
+        1469
+      ],
+      "unmatched_words": [
+        "11",
+        "jst"
+      ]
+    },
+    {
+      "decision": 418,
+      "source_segments": [
+        1470,
+        1478
+      ],
+      "unmatched_words": [
+        "let's"
+      ]
+    },
+    {
+      "decision": 419,
+      "source_segments": [
+        1479,
+        1488
+      ],
+      "unmatched_words": [
+        "branch"
+      ]
+    },
+    {
+      "decision": 421,
+      "source_segments": [
+        1490,
+        1496
+      ],
+      "unmatched_words": [
+        "frog",
+        "need"
+      ]
+    },
+    {
+      "decision": 423,
+      "source_segments": [
+        1498,
+        1504
+      ],
+      "unmatched_words": [
+        "they're"
+      ]
+    },
+    {
+      "decision": 427,
+      "source_segments": [
+        1518,
+        1521
+      ],
+      "unmatched_words": [
+        "section"
+      ]
+    },
+    {
+      "decision": 430,
+      "source_segments": [
+        1535,
+        1544
+      ],
+      "unmatched_words": [
+        "equipped"
+      ]
+    },
+    {
+      "decision": 431,
+      "source_segments": [
+        1545,
+        1551
+      ],
+      "unmatched_words": [
+        "i'm",
+        "piece",
+        "it's"
+      ]
+    },
+    {
+      "decision": 434,
+      "source_segments": [
+        1559,
+        1566
+      ],
+      "unmatched_words": [
+        "kattoo"
+      ]
+    },
+    {
+      "decision": 439,
+      "source_segments": [
+        1579,
+        1584
+      ],
+      "unmatched_words": [
+        "the",
+        "vine"
+      ]
+    },
+    {
+      "decision": 441,
+      "source_segments": [
+        1592,
+        1600
+      ],
+      "unmatched_words": [
+        "gray"
+      ]
+    },
+    {
+      "decision": 458,
+      "source_segments": [
+        1679,
+        1680
+      ],
+      "unmatched_words": [
+        "bag"
+      ]
+    }
+  ],
+  "unrepresented_source_words": [
+    {
+      "source_segment": 32,
+      "source_raw": "sl34 a good okay",
+      "missing_words": [
+        "sl34",
+        "a"
+      ]
+    },
+    {
+      "source_segment": 39,
+      "source_raw": "fudg it",
+      "missing_words": [
+        "fudg"
+      ]
+    },
+    {
+      "source_segment": 50,
+      "source_raw": "we actually like kill me let's do what",
+      "missing_words": [
+        "let's",
+        "do"
+      ]
+    },
+    {
+      "source_segment": 57,
+      "source_raw": "to scan lines",
+      "missing_words": [
+        "to"
+      ]
+    },
+    {
+      "source_segment": 60,
+      "source_raw": "Step 29 sl30 which is I",
+      "missing_words": [
+        "sl30"
+      ]
+    },
+    {
+      "source_segment": 71,
+      "source_raw": "go there this is still oh no that's Sil",
+      "missing_words": [
+        "sil"
+      ]
+    },
+    {
+      "source_segment": 72,
+      "source_raw": "flip what what which flip is this like",
+      "missing_words": [
+        "flip"
+      ]
+    },
+    {
+      "source_segment": 100,
+      "source_raw": "perfectly but I I'm stuck on p uh SE 30",
+      "missing_words": [
+        "se"
+      ]
+    },
+    {
+      "source_segment": 115,
+      "source_raw": "31 St 31 which is",
+      "missing_words": [
+        "st"
+      ]
+    },
+    {
+      "source_segment": 153,
+      "source_raw": "so I have all these Tre",
+      "missing_words": [
+        "tre"
+      ]
+    },
+    {
+      "source_segment": 166,
+      "source_raw": "Zoom how the magic of uh Disney or as I",
+      "missing_words": [
+        "how"
+      ]
+    },
+    {
+      "source_segment": 171,
+      "source_raw": "is tomorrow the VR chat stuff I think",
+      "missing_words": [
+        "vr",
+        "chat"
+      ]
+    },
+    {
+      "source_segment": 172,
+      "source_raw": "tomorrow's VR",
+      "missing_words": [
+        "vr"
+      ]
+    },
+    {
+      "source_segment": 173,
+      "source_raw": "chat",
+      "missing_words": [
+        "chat"
+      ]
+    },
+    {
+      "source_segment": 176,
+      "source_raw": "because I don't know what the fud I'm",
+      "missing_words": [
+        "fud"
+      ]
+    },
+    {
+      "source_segment": 182,
+      "source_raw": "whatever freaking Reas reason so this is",
+      "missing_words": [
+        "reas"
+      ]
+    },
+    {
+      "source_segment": 186,
+      "source_raw": "fud am I looking",
+      "missing_words": [
+        "fud"
+      ]
+    },
+    {
+      "source_segment": 236,
+      "source_raw": "last time how to do St 31 okay ignore",
+      "missing_words": [
+        "st"
+      ]
+    },
+    {
+      "source_segment": 237,
+      "source_raw": "okay I'm going to press on this Tik Tok",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 248,
+      "source_raw": "motion stop moing stop right there okay",
+      "missing_words": [
+        "moing"
+      ]
+    },
+    {
+      "source_segment": 249,
+      "source_raw": "so stop moing on Tik Tok",
+      "missing_words": [
+        "moing",
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 253,
+      "source_raw": "how do I go back at Tik Tok okay okay",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 264,
+      "source_raw": "uhhuh wait",
+      "missing_words": [
+        "uhhuh"
+      ]
+    },
+    {
+      "source_segment": 266,
+      "source_raw": "uhhuh they skipped the [ __ ] stuff",
+      "missing_words": [
+        "uhhuh"
+      ]
+    },
+    {
+      "source_segment": 269,
+      "source_raw": "hope you don't see the [ __ ] Tik Tok",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 271,
+      "source_raw": "that at the bottom right that's a Tik",
+      "missing_words": [
+        "tik"
+      ]
+    },
+    {
+      "source_segment": 272,
+      "source_raw": "Tok right now okay hold up hold up",
+      "missing_words": [
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 276,
+      "source_raw": "log into to Tik Tok [ __ ] off okay okay",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 277,
+      "source_raw": "uhhuh stop telling me to log",
+      "missing_words": [
+        "uhhuh"
+      ]
+    },
+    {
+      "source_segment": 296,
+      "source_raw": "did it I did the Tik Tok did not help",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 297,
+      "source_raw": "I'm letting you know now the Tik Tok did",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 299,
+      "source_raw": "help I did it [ __ ] you Tik Tok I'm going",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 301,
+      "source_raw": "Tik Tok here just in case but let's move",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 302,
+      "source_raw": "on beyond the Tik Tok let's go back to",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 322,
+      "source_raw": "[ __ ] like role playay AI I want",
+      "missing_words": [
+        "role",
+        "playay"
+      ]
+    },
+    {
+      "source_segment": 323,
+      "source_raw": "violence oh good God I broke it h hold",
+      "missing_words": [
+        "h"
+      ]
+    },
+    {
+      "source_segment": 327,
+      "source_raw": "freaking anks why violence it's cuz",
+      "missing_words": [
+        "anks"
+      ]
+    },
+    {
+      "source_segment": 332,
+      "source_raw": "badassery U let's see okay I did it I",
+      "missing_words": [
+        "u"
+      ]
+    },
+    {
+      "source_segment": 339,
+      "source_raw": "question so this part is been to spread",
+      "missing_words": [
+        "been"
+      ]
+    },
+    {
+      "source_segment": 369,
+      "source_raw": "bean or I might thinking of a sensu bean",
+      "missing_words": [
+        "might",
+        "sensu"
+      ]
+    },
+    {
+      "source_segment": 385,
+      "source_raw": "know also I got L to watch um NOS veratu",
+      "missing_words": [
+        "nos",
+        "veratu"
+      ]
+    },
+    {
+      "source_segment": 393,
+      "source_raw": "surprised I thought he was kind of mad",
+      "missing_words": [
+        "mad"
+      ]
+    },
+    {
+      "source_segment": 401,
+      "source_raw": "Canon to the book actually they Chang a",
+      "missing_words": [
+        "chang"
+      ]
+    },
+    {
+      "source_segment": 406,
+      "source_raw": "supposed to be Mina and her dudes named",
+      "missing_words": [
+        "dudes"
+      ]
+    },
+    {
+      "source_segment": 407,
+      "source_raw": "Jonathan like Jonathan joar but they're",
+      "missing_words": [
+        "joar"
+      ]
+    },
+    {
+      "source_segment": 411,
+      "source_raw": "the movies ending better no offense to",
+      "missing_words": [
+        "movies"
+      ]
+    },
+    {
+      "source_segment": 423,
+      "source_raw": "okay page a step 33 I think this is the",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 432,
+      "source_raw": "feminine face NOS Fatu first off he well",
+      "missing_words": [
+        "nos",
+        "fatu"
+      ]
+    },
+    {
+      "source_segment": 436,
+      "source_raw": "talks like my friend but anyway no FR 2",
+      "missing_words": [
+        "no",
+        "fr",
+        "2"
+      ]
+    },
+    {
+      "source_segment": 443,
+      "source_raw": "compared to actors",
+      "missing_words": [
+        "actors"
+      ]
+    },
+    {
+      "source_segment": 449,
+      "source_raw": "he doesn't look like no fru I don't",
+      "missing_words": [
+        "no",
+        "fru"
+      ]
+    },
+    {
+      "source_segment": 452,
+      "source_raw": "dead now I they just talk similarly it's",
+      "missing_words": [
+        "now"
+      ]
+    },
+    {
+      "source_segment": 473,
+      "source_raw": "if you like whitering heights [ __ ]",
+      "missing_words": [
+        "whitering"
+      ]
+    },
+    {
+      "source_segment": 480,
+      "source_raw": "some little Peak oh did I use the wrong",
+      "missing_words": [
+        "peak"
+      ]
+    },
+    {
+      "source_segment": 483,
+      "source_raw": "underneath he Clips a piece of",
+      "missing_words": [
+        "he",
+        "clips"
+      ]
+    },
+    {
+      "source_segment": 484,
+      "source_raw": "[ __ ] no faru is infinitely better than",
+      "missing_words": [
+        "no",
+        "faru"
+      ]
+    },
+    {
+      "source_segment": 486,
+      "source_raw": "noar too what the Twilight have uh sperm",
+      "missing_words": [
+        "noar",
+        "too",
+        "the"
+      ]
+    },
+    {
+      "source_segment": 487,
+      "source_raw": "that def freezes simply because you swam",
+      "missing_words": [
+        "def"
+      ]
+    },
+    {
+      "source_segment": 493,
+      "source_raw": "PE and then oh this one this one needs",
+      "missing_words": [
+        "pe"
+      ]
+    },
+    {
+      "source_segment": 506,
+      "source_raw": "always oh nice nice turn out to be",
+      "missing_words": [
+        "turn"
+      ]
+    },
+    {
+      "source_segment": 511,
+      "source_raw": "good she felt sideways through a window",
+      "missing_words": [
+        "felt"
+      ]
+    },
+    {
+      "source_segment": 525,
+      "source_raw": "works I never got to watch a 1992 nosu",
+      "missing_words": [
+        "nosu"
+      ]
+    },
+    {
+      "source_segment": 537,
+      "source_raw": "one's a that movie makes so sense it's",
+      "missing_words": [
+        "so"
+      ]
+    },
+    {
+      "source_segment": 544,
+      "source_raw": "megao uh maybe if I put the stairs here",
+      "missing_words": [
+        "megao"
+      ]
+    },
+    {
+      "source_segment": 549,
+      "source_raw": "the U let me let me finish this piece I",
+      "missing_words": [
+        "the",
+        "u"
+      ]
+    },
+    {
+      "source_segment": 559,
+      "source_raw": "a I think I'm",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 597,
+      "source_raw": "congrats oh 3 hours of sleep congrats",
+      "missing_words": [
+        "3"
+      ]
+    },
+    {
+      "source_segment": 619,
+      "source_raw": "pretzel the yodel and drink",
+      "missing_words": [
+        "the"
+      ]
+    },
+    {
+      "source_segment": 623,
+      "source_raw": "here oh it's brat worst oh okay yeah",
+      "missing_words": [
+        "brat",
+        "worst"
+      ]
+    },
+    {
+      "source_segment": 641,
+      "source_raw": "hinge let me swiit them up",
+      "missing_words": [
+        "swiit"
+      ]
+    },
+    {
+      "source_segment": 643,
+      "source_raw": "top to day but that would",
+      "missing_words": [
+        "to",
+        "day"
+      ]
+    },
+    {
+      "source_segment": 646,
+      "source_raw": "would what the fud is this",
+      "missing_words": [
+        "fud"
+      ]
+    },
+    {
+      "source_segment": 649,
+      "source_raw": "hinges by the way H must missing an",
+      "missing_words": [
+        "must",
+        "an"
+      ]
+    },
+    {
+      "source_segment": 667,
+      "source_raw": "set I was quirer than you quirkier maybe",
+      "missing_words": [
+        "quirer"
+      ]
+    },
+    {
+      "source_segment": 686,
+      "source_raw": "those far too",
+      "missing_words": [
+        "those",
+        "far",
+        "too"
+      ]
+    },
+    {
+      "source_segment": 700,
+      "source_raw": "edenburg vaults ooh Sparks thank you for",
+      "missing_words": [
+        "edenburg"
+      ]
+    },
+    {
+      "source_segment": 724,
+      "source_raw": "uh there is a little bit of a kundum",
+      "missing_words": [
+        "kundum"
+      ]
+    },
+    {
+      "source_segment": 725,
+      "source_raw": "though no no there's no kundum okay now",
+      "missing_words": [
+        "kundum"
+      ]
+    },
+    {
+      "source_segment": 729,
+      "source_raw": "Google Batman oh I means oh golly G whiz",
+      "missing_words": [
+        "means",
+        "g"
+      ]
+    },
+    {
+      "source_segment": 742,
+      "source_raw": "time syia Murphy is that the",
+      "missing_words": [
+        "syia"
+      ]
+    },
+    {
+      "source_segment": 748,
+      "source_raw": "way to watch [ __ ] but no for too I read",
+      "missing_words": [
+        "no",
+        "for",
+        "too"
+      ]
+    },
+    {
+      "source_segment": 753,
+      "source_raw": "you for letting me fan girl I rarely",
+      "missing_words": [
+        "fan",
+        "girl"
+      ]
+    },
+    {
+      "source_segment": 759,
+      "source_raw": "way it's fun yeah how about you guys fan",
+      "missing_words": [
+        "fan"
+      ]
+    },
+    {
+      "source_segment": 760,
+      "source_raw": "girl is there a particular person you",
+      "missing_words": [
+        "girl"
+      ]
+    },
+    {
+      "source_segment": 776,
+      "source_raw": "for strace too",
+      "missing_words": [
+        "strace"
+      ]
+    },
+    {
+      "source_segment": 778,
+      "source_raw": "um I mean actors are characters I don't",
+      "missing_words": [
+        "are"
+      ]
+    },
+    {
+      "source_segment": 785,
+      "source_raw": "me oh Sonic got they for the SC no I'm",
+      "missing_words": [
+        "got",
+        "they"
+      ]
+    },
+    {
+      "source_segment": 787,
+      "source_raw": "actors and stuff people in Fire Films",
+      "missing_words": [
+        "fire"
+      ]
+    },
+    {
+      "source_segment": 788,
+      "source_raw": "yanu Gary Oldman wait yanu oh you know",
+      "missing_words": [
+        "yanu",
+        "yanu"
+      ]
+    },
+    {
+      "source_segment": 792,
+      "source_raw": "Oldman young K see I only know ke Reeves",
+      "missing_words": [
+        "k",
+        "ke"
+      ]
+    },
+    {
+      "source_segment": 793,
+      "source_raw": "because uh he was in cyber",
+      "missing_words": [
+        "cyber"
+      ]
+    },
+    {
+      "source_segment": 794,
+      "source_raw": "Punk oh wow Keana looks so",
+      "missing_words": [
+        "punk",
+        "keana"
+      ]
+    },
+    {
+      "source_segment": 796,
+      "source_raw": "looks very POS he looks very Posh oh",
+      "missing_words": [
+        "pos"
+      ]
+    },
+    {
+      "source_segment": 799,
+      "source_raw": "God Tik Tok go away you didn't see",
+      "missing_words": [
+        "tik",
+        "tok"
+      ]
+    },
+    {
+      "source_segment": 800,
+      "source_raw": "anything if you saw Kiana Reeves it was",
+      "missing_words": [
+        "kiana"
+      ]
+    },
+    {
+      "source_segment": 810,
+      "source_raw": "then some weird freaky decky side stuff",
+      "missing_words": [
+        "decky"
+      ]
+    },
+    {
+      "source_segment": 818,
+      "source_raw": "y William the fo oh hold up I almost I",
+      "missing_words": [
+        "william",
+        "the",
+        "fo"
+      ]
+    },
+    {
+      "source_segment": 821,
+      "source_raw": "William defo looks like how about",
+      "missing_words": [
+        "william",
+        "defo"
+      ]
+    },
+    {
+      "source_segment": 822,
+      "source_raw": "William defo Young",
+      "missing_words": [
+        "william",
+        "defo"
+      ]
+    },
+    {
+      "source_segment": 824,
+      "source_raw": "villain wasn't he an uh",
+      "missing_words": [
+        "an"
+      ]
+    },
+    {
+      "source_segment": 828,
+      "source_raw": "instead of headat I give wait what did I",
+      "missing_words": [
+        "headat"
+      ]
+    },
+    {
+      "source_segment": 851,
+      "source_raw": "didn't expect it to be be honest I",
+      "missing_words": [
+        "be"
+      ]
+    },
+    {
+      "source_segment": 861,
+      "source_raw": "interest no offense like van houseing is",
+      "missing_words": [
+        "houseing"
+      ]
+    },
+    {
+      "source_segment": 885,
+      "source_raw": "really like no",
+      "missing_words": [
+        "no"
+      ]
+    },
+    {
+      "source_segment": 886,
+      "source_raw": "ratu okay okay the frog is now on there",
+      "missing_words": [
+        "ratu"
+      ]
+    },
+    {
+      "source_segment": 901,
+      "source_raw": "are I haven't seen no no van Hing is an",
+      "missing_words": [
+        "hing"
+      ]
+    },
+    {
+      "source_segment": 903,
+      "source_raw": "watched van houseing the movie though I",
+      "missing_words": [
+        "houseing"
+      ]
+    },
+    {
+      "source_segment": 905,
+      "source_raw": "it we combine a really quick my favorite",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 907,
+      "source_raw": "is I do like kintama I'm so happy seeing",
+      "missing_words": [
+        "kintama"
+      ]
+    },
+    {
+      "source_segment": 908,
+      "source_raw": "so much kintama on my timeline it makes",
+      "missing_words": [
+        "kintama"
+      ]
+    },
+    {
+      "source_segment": 920,
+      "source_raw": "anime uh my favorite anime is devil man",
+      "missing_words": [
+        "devil",
+        "man"
+      ]
+    },
+    {
+      "source_segment": 923,
+      "source_raw": "do like maiden Abyss I hate to I hate",
+      "missing_words": [
+        "maiden"
+      ]
+    },
+    {
+      "source_segment": 924,
+      "source_raw": "toky",
+      "missing_words": [
+        "toky"
+      ]
+    },
+    {
+      "source_segment": 925,
+      "source_raw": "cool H cowboy BP is good I like that try",
+      "missing_words": [
+        "cool",
+        "h",
+        "bp",
+        "try"
+      ]
+    },
+    {
+      "source_segment": 926,
+      "source_raw": "gun TR gun is like it's it's okay here",
+      "missing_words": [
+        "gun",
+        "tr",
+        "gun"
+      ]
+    },
+    {
+      "source_segment": 927,
+      "source_raw": "let me do the movement it it's okay try",
+      "missing_words": [
+        "try"
+      ]
+    },
+    {
+      "source_segment": 928,
+      "source_raw": "gun's only actually no is a trun no no",
+      "missing_words": [
+        "gun's",
+        "a",
+        "trun"
+      ]
+    },
+    {
+      "source_segment": 929,
+      "source_raw": "Cowboy Bop is okay there were some",
+      "missing_words": [
+        "bop"
+      ]
+    },
+    {
+      "source_segment": 935,
+      "source_raw": "now triy gun I didn't watch the original",
+      "missing_words": [
+        "triy",
+        "gun"
+      ]
+    },
+    {
+      "source_segment": 941,
+      "source_raw": "that great what punh man I liked",
+      "missing_words": [
+        "punh"
+      ]
+    },
+    {
+      "source_segment": 944,
+      "source_raw": "it I have not kept up with Maiden Abyss",
+      "missing_words": [
+        "maiden"
+      ]
+    },
+    {
+      "source_segment": 953,
+      "source_raw": "Count of Monte Christo that one that",
+      "missing_words": [
+        "christo"
+      ]
+    },
+    {
+      "source_segment": 958,
+      "source_raw": "try he's also in Van housing oh I see I",
+      "missing_words": [
+        "housing"
+      ]
+    },
+    {
+      "source_segment": 963,
+      "source_raw": "welcome yeah my dad likes the account of",
+      "missing_words": [
+        "account"
+      ]
+    },
+    {
+      "source_segment": 967,
+      "source_raw": "Musketeers I imagined everyone is an",
+      "missing_words": [
+        "is"
+      ]
+    },
+    {
+      "source_segment": 972,
+      "source_raw": "weird but where's the Frog and all this",
+      "missing_words": [
+        "and"
+      ]
+    },
+    {
+      "source_segment": 1010,
+      "source_raw": "to watch uh I think it was hell sing I",
+      "missing_words": [
+        "hell",
+        "sing"
+      ]
+    },
+    {
+      "source_segment": 1014,
+      "source_raw": "Rich what's what is the promise of",
+      "missing_words": [
+        "what",
+        "is",
+        "promise"
+      ]
+    },
+    {
+      "source_segment": 1019,
+      "source_raw": "it out attacko TI I like the first",
+      "missing_words": [
+        "attacko",
+        "ti"
+      ]
+    },
+    {
+      "source_segment": 1022,
+      "source_raw": "point I like seral experiment l you guys",
+      "missing_words": [
+        "seral",
+        "l"
+      ]
+    },
+    {
+      "source_segment": 1023,
+      "source_raw": "should watch mon no not the jibli one",
+      "missing_words": [
+        "mon",
+        "no",
+        "jibli"
+      ]
+    },
+    {
+      "source_segment": 1025,
+      "source_raw": "dude you should watch it housing",
+      "missing_words": [
+        "housing"
+      ]
+    },
+    {
+      "source_segment": 1029,
+      "source_raw": "make time to watch it h I'm missing one",
+      "missing_words": [
+        "h"
+      ]
+    },
+    {
+      "source_segment": 1035,
+      "source_raw": "here wait each episode is only 8 minutes",
+      "missing_words": [
+        "8"
+      ]
+    },
+    {
+      "source_segment": 1036,
+      "source_raw": "for H",
+      "missing_words": [
+        "h"
+      ]
+    },
+    {
+      "source_segment": 1037,
+      "source_raw": "sing seems kind of ridiculous if it's",
+      "missing_words": [
+        "sing"
+      ]
+    },
+    {
+      "source_segment": 1050,
+      "source_raw": "b b and then now that's ready is it",
+      "missing_words": [
+        "b",
+        "b"
+      ]
+    },
+    {
+      "source_segment": 1058,
+      "source_raw": "yeah there you go Alex sing for 15",
+      "missing_words": [
+        "sing",
+        "15"
+      ]
+    },
+    {
+      "source_segment": 1059,
+      "source_raw": "months in red brick hello I did like the",
+      "missing_words": [
+        "in",
+        "the"
+      ]
+    },
+    {
+      "source_segment": 1062,
+      "source_raw": "probably already know my crush on De",
+      "missing_words": [
+        "de"
+      ]
+    },
+    {
+      "source_segment": 1063,
+      "source_raw": "G you guys probably already know I had a",
+      "missing_words": [
+        "g"
+      ]
+    },
+    {
+      "source_segment": 1072,
+      "source_raw": "I had a crush on Allan and and the the",
+      "missing_words": [
+        "allan"
+      ]
+    },
+    {
+      "source_segment": 1078,
+      "source_raw": "who can you guys spoil it it was it",
+      "missing_words": [
+        "it"
+      ]
+    },
+    {
+      "source_segment": 1095,
+      "source_raw": "go it's apply that means I can Gaslight",
+      "missing_words": [
+        "apply"
+      ]
+    },
+    {
+      "source_segment": 1096,
+      "source_raw": "myself the original houseing a bridge oh",
+      "missing_words": [
+        "houseing",
+        "a",
+        "bridge"
+      ]
+    },
+    {
+      "source_segment": 1097,
+      "source_raw": "I'm not very familiar with the bridge",
+      "missing_words": [
+        "the",
+        "bridge"
+      ]
+    },
+    {
+      "source_segment": 1098,
+      "source_raw": "stuff then okay I'll I'll look at to",
+      "missing_words": [
+        "at",
+        "to"
+      ]
+    },
+    {
+      "source_segment": 1099,
+      "source_raw": "it we'll go which uh Hing",
+      "missing_words": [
+        "hing"
+      ]
+    },
+    {
+      "source_segment": 1100,
+      "source_raw": "first how how long is Hing cuz what my",
+      "missing_words": [
+        "hing"
+      ]
+    },
+    {
+      "source_segment": 1112,
+      "source_raw": "uh it just implied it's like if you want",
+      "missing_words": [
+        "it"
+      ]
+    },
+    {
+      "source_segment": 1114,
+      "source_raw": "nothing oh you have Allan's backstory",
+      "missing_words": [
+        "allan's"
+      ]
+    },
+    {
+      "source_segment": 1120,
+      "source_raw": "Kudo shitsuji for crying out",
+      "missing_words": [
+        "kudo",
+        "shitsuji"
+      ]
+    },
+    {
+      "source_segment": 1136,
+      "source_raw": "hard from them finals and then you",
+      "missing_words": [
+        "from"
+      ]
+    },
+    {
+      "source_segment": 1142,
+      "source_raw": "one oh I did watch devil man oh sorry",
+      "missing_words": [
+        "devil",
+        "man"
+      ]
+    },
+    {
+      "source_segment": 1145,
+      "source_raw": "that one I'm on stop",
+      "missing_words": [
+        "stop"
+      ]
+    },
+    {
+      "source_segment": 1147,
+      "source_raw": "Dynamite no I haven't seen Edge Runners",
+      "missing_words": [
+        "edge",
+        "runners"
+      ]
+    },
+    {
+      "source_segment": 1169,
+      "source_raw": "close Grill under p no I haven't seen",
+      "missing_words": [
+        "grill"
+      ]
+    },
+    {
+      "source_segment": 1172,
+      "source_raw": "uhoh put this here the tree trunks are",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1175,
+      "source_raw": "niceu wait did I do this right",
+      "missing_words": [
+        "niceu"
+      ]
+    },
+    {
+      "source_segment": 1184,
+      "source_raw": "one okay so now this looks uh correct",
+      "missing_words": [
+        "correct"
+      ]
+    },
+    {
+      "source_segment": 1185,
+      "source_raw": "Mundo ER",
+      "missing_words": [
+        "mundo",
+        "er"
+      ]
+    },
+    {
+      "source_segment": 1188,
+      "source_raw": "Kima really likes and my friend also",
+      "missing_words": [
+        "kima"
+      ]
+    },
+    {
+      "source_segment": 1190,
+      "source_raw": "likes uhoh one of it came off oopsies",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1194,
+      "source_raw": "uhoh trying to not get it out okay now",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1197,
+      "source_raw": "that's licorice one okay I don't know",
+      "missing_words": [
+        "licorice"
+      ]
+    },
+    {
+      "source_segment": 1202,
+      "source_raw": "already retain my sanity I don't need to",
+      "missing_words": [
+        "retain"
+      ]
+    },
+    {
+      "source_segment": 1203,
+      "source_raw": "go full white haired kaniki Ken",
+      "missing_words": [
+        "kaniki"
+      ]
+    },
+    {
+      "source_segment": 1204,
+      "source_raw": "here how long have I used uh 3 hours",
+      "missing_words": [
+        "3"
+      ]
+    },
+    {
+      "source_segment": 1219,
+      "source_raw": "again uhoh",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1220,
+      "source_raw": "a feeling when you break",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 1236,
+      "source_raw": "my cat's hard to play with",
+      "missing_words": [
+        "cat's",
+        "hard"
+      ]
+    },
+    {
+      "source_segment": 1239,
+      "source_raw": "this am I just doing random crap but",
+      "missing_words": [
+        "but"
+      ]
+    },
+    {
+      "source_segment": 1255,
+      "source_raw": "uh visiting old ones I mean I don't mind",
+      "missing_words": [
+        "visiting"
+      ]
+    },
+    {
+      "source_segment": 1259,
+      "source_raw": "from B Gabriel I went from Mousie at",
+      "missing_words": [
+        "from",
+        "mousie"
+      ]
+    },
+    {
+      "source_segment": 1260,
+      "source_raw": "first cuz you already know mousy but",
+      "missing_words": [
+        "mousy"
+      ]
+    },
+    {
+      "source_segment": 1270,
+      "source_raw": "it supposed to have a end piece oh shoot",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 1280,
+      "source_raw": "look like Vine so it's not a big deal I",
+      "missing_words": [
+        "vine"
+      ]
+    },
+    {
+      "source_segment": 1291,
+      "source_raw": "honest I go back to nor 9 I still have",
+      "missing_words": [
+        "nor",
+        "9"
+      ]
+    },
+    {
+      "source_segment": 1295,
+      "source_raw": "up 10 times I already got the strong",
+      "missing_words": [
+        "10"
+      ]
+    },
+    {
+      "source_segment": 1299,
+      "source_raw": "Burn uh uhoh need of H how do I get to",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1300,
+      "source_raw": "the next p",
+      "missing_words": [
+        "p"
+      ]
+    },
+    {
+      "source_segment": 1314,
+      "source_raw": "uhoh",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1322,
+      "source_raw": "don't know what I meant to do with",
+      "missing_words": [
+        "i"
+      ]
+    },
+    {
+      "source_segment": 1331,
+      "source_raw": "like that pieces for",
+      "missing_words": [
+        "pieces"
+      ]
+    },
+    {
+      "source_segment": 1338,
+      "source_raw": "girl dear oh deare me I am lost",
+      "missing_words": [
+        "deare"
+      ]
+    },
+    {
+      "source_segment": 1345,
+      "source_raw": "now oh does it have ronchi lyrics I",
+      "missing_words": [
+        "ronchi"
+      ]
+    },
+    {
+      "source_segment": 1361,
+      "source_raw": "fell fry where are you this",
+      "missing_words": [
+        "fry"
+      ]
+    },
+    {
+      "source_segment": 1364,
+      "source_raw": "now uhoh everything's falling apart now",
+      "missing_words": [
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1381,
+      "source_raw": "uh heart something's a",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 1382,
+      "source_raw": "Miss uhoh everything's",
+      "missing_words": [
+        "miss",
+        "uhoh"
+      ]
+    },
+    {
+      "source_segment": 1398,
+      "source_raw": "socks not to guess how to do this I got",
+      "missing_words": [
+        "not"
+      ]
+    },
+    {
+      "source_segment": 1401,
+      "source_raw": "here that's right removing my feet live",
+      "missing_words": [
+        "here"
+      ]
+    },
+    {
+      "source_segment": 1416,
+      "source_raw": "know even though it's a ball Factory",
+      "missing_words": [
+        "ball"
+      ]
+    },
+    {
+      "source_segment": 1427,
+      "source_raw": "St 48 please tell me how to do things",
+      "missing_words": [
+        "st"
+      ]
+    },
+    {
+      "source_segment": 1430,
+      "source_raw": "okay step for what is this this way all",
+      "missing_words": [
+        "for"
+      ]
+    },
+    {
+      "source_segment": 1432,
+      "source_raw": "it fall",
+      "missing_words": [
+        "fall"
+      ]
+    },
+    {
+      "source_segment": 1437,
+      "source_raw": "49 oh thank you coacho thank you so much",
+      "missing_words": [
+        "coacho"
+      ]
+    },
+    {
+      "source_segment": 1439,
+      "source_raw": "guys suing anything for New Year's",
+      "missing_words": [
+        "suing"
+      ]
+    },
+    {
+      "source_segment": 1440,
+      "source_raw": "actually are going to watch like a",
+      "missing_words": [
+        "a"
+      ]
+    },
+    {
+      "source_segment": 1450,
+      "source_raw": "practice what touch it what's that is",
+      "missing_words": [
+        "touch",
+        "it"
+      ]
+    },
+    {
+      "source_segment": 1454,
+      "source_raw": "time oh you'll be drinking well drinker",
+      "missing_words": [
+        "drinker"
+      ]
+    },
+    {
+      "source_segment": 1455,
+      "source_raw": "responsibly Sonic three on New Year",
+      "missing_words": [
+        "three"
+      ]
+    },
+    {
+      "source_segment": 1460,
+      "source_raw": "announce a timeout",
+      "missing_words": [
+        "timeout"
+      ]
+    },
+    {
+      "source_segment": 1465,
+      "source_raw": "think it's 8:00",
+      "missing_words": [
+        "00"
+      ]
+    },
+    {
+      "source_segment": 1466,
+      "source_raw": "p.m. 1100 p.m. JC okay",
+      "missing_words": [
+        "1100",
+        "jc"
+      ]
+    },
+    {
+      "source_segment": 1488,
+      "source_raw": "like Ranch",
+      "missing_words": [
+        "ranch"
+      ]
+    },
+    {
+      "source_segment": 1494,
+      "source_raw": "then the flog should be facing the other",
+      "missing_words": [
+        "flog"
+      ]
+    },
+    {
+      "source_segment": 1498,
+      "source_raw": "okay I got the little pipes there kind",
+      "missing_words": [
+        "there"
+      ]
+    },
+    {
+      "source_segment": 1521,
+      "source_raw": "I'm stuck at this SE",
+      "missing_words": [
+        "se"
+      ]
+    },
+    {
+      "source_segment": 1537,
+      "source_raw": "here but one of the pieces isn't equi",
+      "missing_words": [
+        "equi"
+      ]
+    },
+    {
+      "source_segment": 1547,
+      "source_raw": "way maybe I missing another another",
+      "missing_words": [
+        "i"
+      ]
+    },
+    {
+      "source_segment": 1548,
+      "source_raw": "P let me just put this",
+      "missing_words": [
+        "p"
+      ]
+    },
+    {
+      "source_segment": 1549,
+      "source_raw": "together it supposed to be this way",
+      "missing_words": [
+        "it"
+      ]
+    },
+    {
+      "source_segment": 1560,
+      "source_raw": "snacks to send Kat too scissor or the",
+      "missing_words": [
+        "kat",
+        "too"
+      ]
+    },
+    {
+      "source_segment": 1581,
+      "source_raw": "ignoring theine at this moment I think",
+      "missing_words": [
+        "theine"
+      ]
+    },
+    {
+      "source_segment": 1599,
+      "source_raw": "unless unless it's this great piece but",
+      "missing_words": [
+        "great"
+      ]
+    },
+    {
+      "source_segment": 1626,
+      "source_raw": "whatever am I supposed to stick",
+      "missing_words": [
+        "whatever"
+      ]
+    },
+    {
+      "source_segment": 1837,
+      "source_raw": "be uh trying to put the frogs I don't",
+      "missing_words": [
+        "be"
+      ]
+    },
+    {
+      "source_segment": 1933,
+      "source_raw": "episode all right I think this should be",
+      "missing_words": [
+        "episode"
+      ]
+    },
+    {
+      "source_segment": 2133,
+      "source_raw": "though okay this one should be facing",
+      "missing_words": [
+        "though"
+      ]
+    },
+    {
+      "source_segment": 2290,
+      "source_raw": "now no I don't want to play cabin",
+      "missing_words": [
+        "now"
+      ]
+    },
+    {
+      "source_segment": 2363,
+      "source_raw": "CH oh thank you thank you I haven't",
+      "missing_words": [
+        "ch"
+      ]
+    },
+    {
+      "source_segment": 2494,
+      "source_raw": "on oh",
+      "missing_words": [
+        "on"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "patches": [
+    {
+      "part": "part07.json",
+      "row": 10,
+      "raw": "Hey, I missed. Hey, stop running. I’m going for you. Come back, come back. Wrong one, that’s the wrong one.",
+      "reason": "Remove an invented first that is the; source only has wrong one then that is the wrong one."
+    },
+    {
+      "part": "part07.json",
+      "row": 19,
+      "raw": "Oh, you guys are, you guys are Penking. Yeah, next, right? Yeah. Okay, I’ll leave them there then. I get the teleporter. That’s okay.",
+      "reason": "Restore source yeah before next; do not reorder the oral exchange."
+    },
+    {
+      "part": "part07.json",
+      "row": 21,
+      "source_segments": [
+        1401,
+        1408
+      ],
+      "raw": "Yeah, I needan, I think I should get more points for killing cows. All right, have fun with your uh your rampage. Well, I have to catch them because you get more XP that way. I need to go up one level.",
+      "reason": "Keep uncompleted needan rather than editing the spoken false start; level is in source1408."
+    },
+    {
+      "part": "part07.json",
+      "row": 22,
+      "source_segments": [
+        1408,
+        1413
+      ],
+      "reason": "sense ends source1413 after a music marker; no new content."
+    },
+    {
+      "part": "part07.json",
+      "row": 26,
+      "source_segments": [
+        1419,
+        1425
+      ],
+      "reason": "Final it is source1425."
+    },
+    {
+      "part": "part07.json",
+      "row": 33,
+      "raw": "You can make them a different, you can have two bases, mm, so you can have one base here if you want. But I recommend having a base for mining, though. But you have to be a certain level for another base, right? Yeah, uh, base level 10 is where you get your second one. Where do you get your third one?",
+      "reason": "Keep original mm filler spelling."
+    },
+    {
+      "part": "part07.json",
+      "row": 41,
+      "source_segments": [
+        1481,
+        1486
+      ],
+      "reason": "then is in source1486."
+    },
+    {
+      "part": "part07.json",
+      "row": 47,
+      "raw": "Someone get that chicken. We, I hope he lays golden eggs. He’s floating.",
+      "reason": "Restore actual aborted we; lik→lays is clear egg-laying ASR in chicken context."
+    },
+    {
+      "part": "part07.json",
+      "row": 51,
+      "source_segments": [
+        1512,
+        1517
+      ],
+      "reason": "will work is in source1517."
+    },
+    {
+      "part": "part07.json",
+      "row": 54,
+      "raw": "What should we name him? Water chicken. Water pie? About water pie? How about fish? Water fish. I like fish. Fish. Yeah, just fish, he’s a fish.",
+      "reason": "Do not add How before the first about; preserve the actual incomplete naming suggestion."
+    },
+    {
+      "part": "part07.json",
+      "row": 59,
+      "source_segments": [
+        1551,
+        1557
+      ],
+      "reason": "Final now falls in source1557; closes structural source gap."
+    },
+    {
+      "part": "part07.json",
+      "row": 62,
+      "source_segments": [
+        1561,
+        1569
+      ],
+      "reason": "Opening now belongs to source1561."
+    },
+    {
+      "part": "part07.json",
+      "row": 53,
+      "replace_records": [
+        {
+          "raw": "Wow, he’s cute. He’s water chicken. What should we call? Do you have them on you? I want to see.",
+          "actually": "He is cute, a water chicken. What should we call him? Are you carrying them? I want to see.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Yeah do I have them on you",
+          "reason": "Uncertain participant/reference ASR, retained in excluded source context.",
+          "status": "LOW"
+        },
+        {
+          "raw": "Let’s see.",
+          "actually": "Let us see.",
+          "status": "SFT"
+        }
+      ]
+    }
+  ],
+  "approved_asr_spelling_only": {
+    "FCO/f m": "Fuwamoco; addressed pair is established by authentic nearby base/respawn dialogue",
+    "Peril/peels": "Pero; repeated mascot name in same tour and capture dialogue",
+    "P A": "Pal; repeated generic game creature noun",
+    "y": "Yeah; clipped ASR affirmative, no extra source occurrence",
+    "pinking/Ping/penin": "Penking; same French penguin boss is repeatedly named in nearby source",
+    "torter/telor": "teleporter; travel point in the source exchange",
+    "passway": "pathway",
+    "people/bi boo": "Biboo when directly addressing the guide",
+    "uhoh": "Uh-oh; spacing/punctuation only",
+    "who": "Whoa in source1439 exclamation, not a question about identity",
+    "Capt": "capture; truncated ASR verb in capture exchange",
+    "lik": "lays in golden-egg question",
+    "bunk": "bonk; hitting the chicken rather than shooting in immediate context",
+    "narissa": "Nerissa",
+    "seab breze / seab archel re": "Seabreeze Archipelago Reef; repeated full destination already present in nearby original source",
+    "P box/power box": "Palbox; established game storage/respawn context"
+  }
+}

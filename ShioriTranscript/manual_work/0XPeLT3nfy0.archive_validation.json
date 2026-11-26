@@ -1,0 +1,25 @@
+{
+  "video_id": "0XPeLT3nfy0",
+  "status": "complete_archived",
+  "source_segments": 2659,
+  "source_read_through_segment": 2659,
+  "source_index_union_complete": true,
+  "source_token_verification": "Manual source/frame/ASR review with explicit decisions; literal diagnostic is not a claimed character-perfect alignment proof.",
+  "clean_records": 625,
+  "low_confidence_contexts": 216,
+  "originals_moved": true,
+  "original_sha256": {
+    "txt": "1bf9c7a6139fd53a03863e7089a212f5869041c4acb2a1ffcd90c161a5b14a45",
+    "json": "51c7527f3770c805e50eab00781d732635c3490ad32563ccad41287c9cfa00c9"
+  },
+  "crawler_en_residual": false,
+  "schema": "passed: nonempty raw/actually strings only",
+  "source_masks": 5,
+  "accepted_masks": 4,
+  "excluded_masks": 1,
+  "mask_ledger": "parallel_0XPeLT3nfy0/final_mask_ledger.json",
+  "true_repetition_policy": "No global deduplication; only verified same-source overlapping-caption assembly removed.",
+  "final_decision_records": 934,
+  "raw_max_characters": 342,
+  "next_action": "Complete. Stop processing; do not start another file."
+}

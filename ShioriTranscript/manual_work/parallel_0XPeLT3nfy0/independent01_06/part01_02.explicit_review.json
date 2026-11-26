@@ -1,0 +1,334 @@
+{
+  "source_frames": {
+    "part01.json": {
+      "3": [
+        20,
+        23
+      ],
+      "11": [
+        41,
+        45
+      ],
+      "14": [
+        48,
+        50
+      ],
+      "15": [
+        51,
+        57
+      ],
+      "16": [
+        57,
+        61
+      ],
+      "18": [
+        64,
+        66
+      ],
+      "19": [
+        66,
+        68
+      ],
+      "33": [
+        97,
+        101
+      ],
+      "38": [
+        109,
+        110
+      ],
+      "48": [
+        126,
+        129
+      ],
+      "57": [
+        148,
+        150
+      ],
+      "59": [
+        153,
+        156
+      ],
+      "62": [
+        160,
+        163
+      ],
+      "64": [
+        163,
+        166
+      ],
+      "73": [
+        183,
+        185
+      ]
+    },
+    "part02.json": {
+      "9": [
+        231,
+        235
+      ],
+      "21": [
+        264,
+        270
+      ],
+      "22": [
+        264,
+        266
+      ],
+      "25": [
+        271,
+        274
+      ],
+      "26": [
+        275,
+        279
+      ],
+      "30": [
+        285,
+        287
+      ],
+      "35": [
+        306,
+        310
+      ],
+      "36": [
+        306,
+        308
+      ],
+      "39": [
+        313,
+        319
+      ],
+      "46": [
+        334,
+        340
+      ],
+      "51": [
+        361,
+        366
+      ],
+      "52": [
+        363,
+        366
+      ],
+      "57": [
+        380,
+        384
+      ],
+      "63": [
+        403,
+        410
+      ],
+      "65": [
+        410,
+        413
+      ],
+      "67": [
+        412,
+        413
+      ]
+    }
+  },
+  "recoveries": [
+    {
+      "part": "part01.json",
+      "row_one_based": 16,
+      "source_segments": [
+        57,
+        60
+      ],
+      "raw": "I can make a Melpaca saddle. I think I have a Melpaca. Yeah, we have Melpaca.",
+      "actually": "I can make a Melpaca saddle. I think I have one; we do.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 18,
+      "source_segments": [
+        64,
+        65
+      ],
+      "raw": "Oh, I have it already.",
+      "actually": "I already have it.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 21,
+      "source_segments": [
+        75,
+        76
+      ],
+      "raw": "Pretty good.",
+      "actually": "Quite good.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 23,
+      "source_segments": [
+        80,
+        81
+      ],
+      "raw": "Let's show around.",
+      "actually": "Let us show you around.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 38,
+      "source_segments": [
+        109,
+        110
+      ],
+      "raw": "Bless you.",
+      "actually": "Bless you.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 41,
+      "source_segments": [
+        114,
+        115
+      ],
+      "raw": "Read your signs.",
+      "actually": "Read your signs.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 41,
+      "source_segments": [
+        114,
+        114
+      ],
+      "raw": "Very important.",
+      "actually": "Very important.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 48,
+      "source_segments": [
+        126,
+        128
+      ],
+      "raw": "You can do it like the old Minecraft way.",
+      "actually": "You can do it as in the old Minecraft approach.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 55,
+      "source_segments": [
+        145,
+        147
+      ],
+      "raw": "Thank you. I miss B Bo. Well, I’m not now.",
+      "actually": "Thank you. I miss Biboo—well, I do not now.",
+      "action": "recover_from_LOW_keep_original_context",
+      "reason": "B Bo is contextually Biboo; preserve the full self-correction without inventing negation beyond source not now."
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 56,
+      "source_segments": [
+        150,
+        151
+      ],
+      "raw": "The Pal sleep here next to the nice onsen and waterfall.",
+      "actually": "The Pals sleep here beside the pleasant hot spring and waterfall.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 60,
+      "source_segments": [
+        157,
+        157
+      ],
+      "raw": "I want flowers.",
+      "actually": "I want flowers.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 64,
+      "source_segments": [
+        165,
+        166
+      ],
+      "raw": "A candle. A a, that's nice. Flowers too.",
+      "actually": "A candle; that is nice. Flowers too.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 76,
+      "source_segments": [
+        193,
+        195
+      ],
+      "raw": "This this is a advanced version of the onsen. Oh, okay, it's really nice.",
+      "actually": "This is an advanced version of the hot spring; it is very nice.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 78,
+      "source_segments": [
+        195,
+        197
+      ],
+      "raw": "Oh my God, Biboo's got it all all figured out.",
+      "actually": "Biboo has everything figured out.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 80,
+      "source_segments": [
+        200,
+        201
+      ],
+      "raw": "I have a big sheep, a big chicken.",
+      "actually": "I have a large sheep and a large chicken.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part01.json",
+      "row_one_based": 83,
+      "source_segments": [
+        204,
+        206
+      ],
+      "raw": "I want to check my crise next to yours. Your CR is so big. There’s something wrong with us.",
+      "actually": "I want to compare mine with yours. Yours is very large; something is wrong with us.",
+      "action": "recover_from_LOW_keep_original_context",
+      "status_override": "LOW",
+      "reason": "The source creature-name fragments crise/CR are unresolved; do not assert Cremis from a later separate discussion. Keep context LOW; recover only the clear statement separately if needed."
+    }
+  ],
+  "explicit_replacements": [
+    {
+      "part": "part02.json",
+      "row_one_based": 69,
+      "raw": "You's Pals were probably going to kill it, till I had to grab it really fast. Yeah, I'm sorry, they're murderers. It's it's okay, that's what happens when you raise things. No.",
+      "actually": "Your Pals would probably kill it, and I had to catch it quickly. Sorry; they are murderers. It is fine; that happens when you raise things. No.",
+      "reason": "Do not silently polish source you’s/till into your/so. Raise instead of erase is contextual ASR repair about raising murderous Pals."
+    }
+  ],
+  "notes": [
+    "Row numbers are one-based within the original part JSON.",
+    "Melpaca spelling confirmed by subsequent explicit source mil Paca near293 and later; do not replace genuine personal nickname Malaa elsewhere.",
+    "Onsen recovery supported by repeated bath/hot-spring/base contexts; preserves spoken a advanced grammar in raw.",
+    "Source tokens H/uh syllables not arbitrarily inserted by corrections; raw part02row1 a→uh could be a filler repair but keep source H if meaningful hesitation.",
+    "Blue-Eyes, Foxparks, Nitewing, Biboo, Nerissa, IRyS and Shiori fixes are contextual spellings; they do not authorize replacing spoken wrong game facts.",
+    "Barbie stream house→Barbie’s Dreamhouse is a phrase-level ASR correction; it does not imply house actually has that branded identity.",
+    "Part02row45 at our base supported by following literal everyone in your base response, so context supports possessive recovery.",
+    "Rows holding uncertain names Reese/Ree should preserve source Ree rather than invent an unrelated Reese spelling.",
+    "Do not force hum in part02row8 into humans without fuller evidence; keep residual LOW.",
+    "Keep LOW original contexts, accepted_spans for recovered clauses; do not count source words twice."
+  ]
+}

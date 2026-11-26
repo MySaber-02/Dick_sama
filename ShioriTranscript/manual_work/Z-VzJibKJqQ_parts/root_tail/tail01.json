@@ -1,0 +1,583 @@
+[
+  {
+    "source_segments": [
+      1896,
+      1897
+    ],
+    "raw": "Can't go there.",
+    "actually": "I cannot go there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1897,
+      1901
+    ],
+    "raw": "Go back to the shrine where you fought the stone guy okay but let me let me kill things first let me just kill some stuff on the way thank you.",
+    "actually": "Return to the shrine where you fought the stone enemy. Let me kill some things along the way first; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1901,
+      1904
+    ],
+    "raw": "Oh wait I don't remember using that thing that stuff is that a shrine I don't think it's a shrine I think it's a Dead shrine.",
+    "actually": "I do not remember using that. Is it a shrine? I think it is a dead shrine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1904,
+      1907
+    ],
+    "raw": "Is this the bridge you I don't like your face was that you I can't tell I'm going to kill you anyway.",
+    "actually": "Is this the bridge? I dislike your face. Was that you? I cannot tell, but will kill you anyway.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1908,
+      1910
+    ],
+    "raw": "Okay I've killed some people you I don't like the way you sit.",
+    "actually": "I have killed some people. I dislike how you sit.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1910,
+      1913
+    ],
+    "raw": "All right now now that I'm here that's a needed item but what do I do do I jump off and contemplate my life this this.",
+    "actually": "Now that I am here, that is a needed item, but what do I do? Jump off and contemplate my life?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1914,
+      1916
+    ],
+    "raw": "place what do I do with stone hello welcome welcome it'll be the rock Clash platform",
+    "actually": "What do I do with stone? Hello, welcome. It will be Rock Clash Platform Shrine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1917,
+      1921
+    ],
+    "raw": "Shrine how do I how did I get there under the bright Cliff okay so we go wait wait how do how did I get here I'm sorry uh where am I I don't",
+    "actually": "How did I get there, under Bright Cliff? How did I get here?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1921,
+      1925
+    ],
+    "raw": "I'm sorry uh where am I I don't know but I'm going to kill this guy no way yeah you like this there you go.",
+    "actually": "Sorry, where am I? I do not know, but will kill this enemy. Do you like this? There we are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1925,
+      1928
+    ],
+    "raw": "Naval light oh use the Talisman that's right this thing exists.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1926,
+      1928
+    ],
+    "raw": "Oh use the Talisman that's right this thing exists.",
+    "actually": "Use the talisman; I forgot this exists.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1928,
+      1929
+    ],
+    "raw": "exists okay so we go to the Rock Clash platform okay",
+    "actually": "We need to go to Rock Clash Platform.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1930,
+      1932
+    ],
+    "raw": "okay monkey lost monkey lost monkey may also be calming down from high blood pressure",
+    "actually": "The monkey is lost, and may also be calming down from high blood pressure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1933,
+      1936
+    ],
+    "raw": "teleport teleport teleport teleport travel we got to go to rock Clash I don't even remember the shrine and then what what happens after",
+    "actually": "Teleport; travel to Rock Clash. I do not even remember the shrine. What happens afterward?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1937,
+      1939
+    ],
+    "raw": "Oh the plug is a super op scalat okay I I'll look into it I didn't use it for this fight.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1938,
+      1939
+    ],
+    "raw": "Okay I I'll look into it I didn't use it for this fight.",
+    "actually": "I will look into it; I did not use it during this fight.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1939,
+      1943
+    ],
+    "raw": "Turn around I've turned around there's there's rocks go back out the gates you did not tell me to turn around the right place this this place okay.",
+    "actually": "Turn around? I have; there are rocks. Leave through the gates? You did not tell me to turn around in the correct place. This place?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1944,
+      1947
+    ],
+    "raw": "Okay how's the grip probably sweaty it's not sweaty it hurts actually I am out the gates.",
+    "actually": "How is my grip? Probably sweaty? It is not sweaty; it hurts. I am outside the gates.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1947,
+      1951
+    ],
+    "raw": "I am I am here go out the second gate thank you oh good God it is so wonderful to have people as a walkthrough look for a boar NPC okay.",
+    "actually": "I am here. Leave through the second gate; thank you. Having people act as a walkthrough is wonderful. Look for a boar NPC.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1951,
+      1954
+    ],
+    "raw": "There something mov moving there is that the boar maybe maybe it's just a wolf.",
+    "actually": "Something is moving there. Is it the boar? Perhaps it is a wolf.",
+    "status": "SFT",
+    "reason": "Source says there something; do not grammar-polish to there is."
+  },
+  {
+    "source_segments": [
+      1954,
+      1959
+    ],
+    "raw": "wolf I'm here wait wait this is leading me to some wait did I not unlock this is this the place I completely missed what why is there chanting this is a whole new path",
+    "actually": "I am here. Does this lead somewhere I failed to unlock or completely missed? Why is there chanting? This is a new path.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1960,
+      1963
+    ],
+    "raw": "oh wow I completely this is the other re for Holy quack so did I I completely did a shortcut you make me",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1962,
+      1965
+    ],
+    "raw": "So did I I completely did a shortcut you make me pissy.",
+    "actually": "Did I completely take a shortcut? You make me irritable.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1965,
+      1967
+    ],
+    "raw": "You I don't like the way you smell I wish I could read the subtitles right now.",
+    "actually": "I dislike your smell. I wish I could read the subtitles now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1968,
+      1969
+    ],
+    "raw": "wait something just tried to [ __ ] on me",
+    "actually": "Something just tried to [ __ ] on me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1970,
+      1973
+    ],
+    "raw": "my I don't like spoilers didn't reason this is a completely oh good God this is a completely different side quest I'm",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1971,
+      1975
+    ],
+    "raw": "This is a completely oh good God this is a completely different side quest I'm there's four side quests here wow.",
+    "actually": "This is a completely different side quest; there are four side quests here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1976,
+      1978
+    ],
+    "raw": "Jeez I wish I knew what the dialogue said but I was busy trying not to die.",
+    "actually": "I wish I knew what the dialogue said, but I was busy avoiding death.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1978,
+      1980
+    ],
+    "raw": "Okay which Quest gives me the the important item I would like to destroy that Beast oh good God good God.",
+    "actually": "Which quest provides the important item? I want to destroy that beast.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1981,
+      1982
+    ],
+    "raw": "oh wait you could do that I didn't know you do",
+    "actually": "You can do that? I did not know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1983,
+      1988
+    ],
+    "raw": "that oh man I hate Rock PE uh I hate certain things PE are okay though as long as you doesn't become a rock the moment you become a rock though you and I have problems kind of",
+    "actually": "I hate rock pe—certain things. People are fine, provided you do not become a rock. If you become a rock, we have a problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1988,
+      1992
+    ],
+    "raw": "Kind of cool you look like you're having issues with this yes holy crap you can do that.",
+    "actually": "Rather interesting. You seem to be having trouble with this. Yes; you can do that?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1992,
+      1994
+    ],
+    "raw": "I really should memorize combos I didn't know you could do that can I go here I can.",
+    "actually": "I should memorize combos; I did not know you could do that. Can I go here? Yes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1994,
+      1999
+    ],
+    "raw": "Is that a boy no he ugly the moment you're a rock you and I have problems you've been in my father for that's right you gave him kidney kidney stones.",
+    "actually": "Is that a boy? No, he is ugly. If you are a rock, we have a problem. You were in my father; you gave him kidney stones.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1999,
+      2004
+    ],
+    "raw": "stones oh that is a Bo oh yeah Hakuna Matata it's a really shitty day Hakuna Matata there's no time for forl it makes no worries for the rest of your",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1999,
+      2002
+    ],
+    "raw": "Oh that is a boar oh yeah Hakuna Matata it's a really shitty day Hakuna Matata.",
+    "actually": "That is a boar. Hakuna Matata; it is a very unpleasant day.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2005,
+      2009
+    ],
+    "raw": "sober you up well I'm about to beat you up what do you want I gave him something I don't know what I gave him he wants food",
+    "actually": "Sober you up? I am about to beat you up. What do you want? I gave him something, but do not know what. He wants food now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2010,
+      2016
+    ],
+    "raw": "now oh he need Sil Stone I already went there wait I have Crouching Tiger what does he need there I already killed the Tiger but what what does he need I guess he'll meet me there okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2011,
+      2016
+    ],
+    "raw": "I already went there wait I have Crouching Tiger what does he need there I already killed the Tiger but what what does he need I guess he'll meet me there okay.",
+    "actually": "I already went there. Crouching Tiger? I killed the tiger; what does he need? I suppose he will meet me there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2017,
+      2026
+    ],
+    "raw": "But what else is here oh we are so we are so in the zone of trying to kill this one boss to be fair to be fair I think I have the right to be a little angry guys he and I died at the same time I think it's a little unfair only for me to stay dead I think he should have died with me I have the right to be angry right.",
+    "actually": "What else is here? We are focused on killing this boss. I think I have a right to be angry: he and I died simultaneously, and it is unfair that only I stayed dead. He should have died too. Am I right?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2026,
+      2030
+    ],
+    "raw": "right let's get this I don't got time to meditate my blood pressure ain't going down Jade Lotus I don't think so I have trauma though can I eat that that is",
+    "actually": "Let us get this. I have no time to meditate; my blood pressure is not decreasing. Jade Lotus? I do not think so. I have trauma, though; can I eat that? It is interesting.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2031,
+      2033
+    ],
+    "raw": "cool I think that's where we something don't okay let's teleport go tiger Temple",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2032,
+      2034
+    ],
+    "raw": "Okay let's teleport go Tiger Temple entrance my anger is justified thank you.",
+    "actually": "Let us teleport to Tiger Temple Entrance. My anger is justified; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2035,
+      2039
+    ],
+    "raw": "you guys are so nice I don't believe in screenshots anymore I don't believe in them they failed me not in this section section anyway",
+    "actually": "You are very kind. I no longer believe in screenshots; they failed me, at least in this section.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2040,
+      2042
+    ],
+    "raw": "Maybe the next section I'll believe in that right now I'm really mad at Arizona.",
+    "actually": "Perhaps I will believe in the next section. Right now I am angry with Arizona.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2042,
+      2046
+    ],
+    "raw": "Travel to Tiger this one there's a cellar gosh it is so warm my computer's working hard.",
+    "actually": "Travel to Tiger, this one. A cellar? It is warm; my computer is working hard.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2046,
+      2053
+    ],
+    "raw": "Oh Crimson happy 12th anniversary and Singularity welcome to the Inkwell you guys want be punching bags why maybe in a future stream if you want I I'll make it so like specific people get punched though not everyone who doesn't.",
+    "actually": "Crimson, happy twelfth anniversary; Singularity, welcome to the Inkwell. Would you like to be punching bags? Perhaps in a future stream. I will arrange for particular people to be punched.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2053,
+      2058
+    ],
+    "raw": "Okay so he should be here to the right side of the stairs this looks like a place of nothing you can take it CH Cho oh yeah he here he here.",
+    "actually": "He should be here, to the right of the stairs. This looks empty. There he is.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2060,
+      2061
+    ],
+    "raw": "wait did he just see the Tigers I had one I had one",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2061,
+      2064
+    ],
+    "raw": "I had one I had one yay I don't know where I got it.",
+    "actually": "I had one. I do not know where I got it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2064,
+      2068
+    ],
+    "raw": "it a common job I see okay maybe have to go to the he's gold where does one find gold got to go to Minecraft rock R flat okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2066,
+      2068
+    ],
+    "raw": "He's gold where does one find gold got to go to Minecraft Rockrest Flat okay.",
+    "actually": "Gold? Where does one find gold? We need Minecraft. Rockrest Flat.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2069,
+      2078
+    ],
+    "raw": "Let's go slowly but surely is that the end of this Quest I thought it was like a whole new chapter wait they already have it I have I have which already the Lotus or something else I do oh I have gold I have gold I got gold from the giant rat oh oh but I have to meet him again so I technically still have to go back I see.",
+    "actually": "Slowly but surely. Is that the end of the quest? I thought it was a new chapter. Do I already have it, the lotus or something else? I have gold from the giant rat, but must return to meet him again.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2079,
+      2083
+    ],
+    "raw": "he he won't accept it here I see let's go monkey uh Rock R flat I'm an angry frog",
+    "actually": "He will not accept it here; I understand. Let us go, monkey. Rockrest Flat. I am an angry frog.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2084,
+      2089
+    ],
+    "raw": "well I see how it is you're calling me a disgusting Ribbit actually what if we got a frog YouTuber oh wait brog vtubers you're cool though you're cool though it's just specifically me who's not cool who",
+    "actually": "You are calling me a disgusting frog? What if we had a frog YouTuber? Frog VTubers, you are cool; only I am not.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2089,
+      2093
+    ],
+    "raw": "Who what's this did I come from here why why are they like oh he he's shooting you I'm out see you okay I'm going to go this way.",
+    "actually": "What is this? Did I come from here? He is shooting you; I am leaving. Goodbye. I will go this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2094,
+      2101
+    ],
+    "raw": "can I can I I don't know I would rather adore you but you look at me funny I really wish I knew what he was saying hell frog welcome near a chapter long I'm just going to skip that D I've",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2094,
+      2098
+    ],
+    "raw": "Can I can I I don't know I would rather adore you but you look at me funny I really wish I knew what he was saying.",
+    "actually": "I would rather adore you, but you look at me strangely. I wish I knew what he was saying.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2101,
+      2109
+    ],
+    "raw": "I'm just going to skip that D I've already killed you before why do I need to kill you twice besides to make me feel better wait is that even the Frog song that but or is that a SpongeBob song oh he's not here that's the other path head right after this.",
+    "actually": "I will skip that. I killed you before; why do I need to kill you twice, except to feel better? Is that a frog song or a SpongeBob song? He is not here; take the other path, then turn right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2110,
+      2110
+    ],
+    "raw": "okay",
+    "actually": "All right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1964,
+      1964
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2059,
+      2059
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2062,
+      2062
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2081,
+      2081
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2105,
+      2105
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

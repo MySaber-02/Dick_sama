@@ -1,0 +1,5 @@
+{
+  "note": "Structural word-matching diagnostic only; approved spelling fixes and repeated words require manual source matching.",
+  "unmatched_decisions": [],
+  "unrepresented_source_words": []
+}

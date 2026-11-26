@@ -1,0 +1,452 @@
+[
+  {
+    "source_segment_indices": [
+      1431,
+      1432,
+      1433,
+      1434,
+      1435,
+      1436,
+      1437,
+      1438
+    ],
+    "raw": "gone this one sh I need ohow this H I can't have oh you can't okay I see you can't hurt him at all",
+    "status": "LOW",
+    "reason": "Unclear sh/ohow/have fragments; clear inability to damage enemy recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1439,
+      1440,
+      1441,
+      1442,
+      1443,
+      1444,
+      1445
+    ],
+    "raw": "uh oh what it still grabbed me see I think we I froze them I can't oh can't see [ __ ] all right should not look shoot I won [ __ ]",
+    "status": "LOW",
+    "reason": "Clear grabbing/freezing/visibility complaint recovered separately; won[mask] phrase uncertain and not treated as victory."
+  },
+  {
+    "source_segment_indices": [
+      1446,
+      1447,
+      1448,
+      1449,
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      1455,
+      1456,
+      1457,
+      1458
+    ],
+    "raw": "oh okay what can I do I don't have any more stamina um oh shoot it's okay I I can't go too close to the map uh I'm close to the edge of the map I can't see crap I can't see it decent it was a decent try yeah I think it's",
+    "status": "SFT",
+    "actually": "What can I do? I have no stamina. I am too close to the map edge and cannot see. It was a decent attempt; I think it is fine."
+  },
+  {
+    "source_segment_indices": [
+      1447,
+      1448
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music labels."
+  },
+  {
+    "source_segment_indices": [
+      1459,
+      1460,
+      1461,
+      1462,
+      1463,
+      1464,
+      1465,
+      1466,
+      1467,
+      1468
+    ],
+    "raw": "fine watch her be a second form I will destroy myself all right I'm going to go upgrade my dude actually let me go spend on maybe a little Mana could help I'm not sure how much I would like more Mana at least I'm hoping it helps I don't really know how much things cost oh defense could help too",
+    "status": "SFT",
+    "actually": "If there is a second form, I will destroy myself. I will upgrade my character; perhaps more mana helps, though I am unsure how much things cost. Defense may help too."
+  },
+  {
+    "source_segment_indices": [
+      1469,
+      1470,
+      1471,
+      1472,
+      1473,
+      1474,
+      1475,
+      1476,
+      1477,
+      1478,
+      1479,
+      1480,
+      1481,
+      1482,
+      1483,
+      1484,
+      1485,
+      1486
+    ],
+    "raw": "honestly defense how about we do Mana first oh that's stamina oh shoot well I thought you can uh you can redo it didn't someone say that you can redo it or they lied I thought you said you can make the stuff back how do you get it back then just redo it this one how do you how do you redo it then you can you just reset it how do you reset back this one oh okay oh it's hot okay uh",
+    "status": "SFT",
+    "actually": "Let us do mana first. That is stamina. I thought you could redo it; did someone say that? How do I get it back and reset it? This one; okay. It is hot."
+  },
+  {
+    "source_segment_indices": [
+      1487
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1488,
+      1489,
+      1490,
+      1491,
+      1492,
+      1493
+    ],
+    "raw": "Mana I lose money I assume oh it's all free oh he's a nice guy and then I'll get defense use the money that's fine all right that's good and",
+    "status": "SFT",
+    "actually": "Mana; I assume I lose money? It is all free; he is kind. I will get defense and spend the money. Good."
+  },
+  {
+    "source_segment_indices": [
+      1494,
+      1495,
+      1496,
+      1497,
+      1498,
+      1499,
+      1500,
+      1501,
+      1502,
+      1503,
+      1504,
+      1505,
+      1506,
+      1507
+    ],
+    "raw": "then I was going to upgrade my poison guy I don't I think he killed the poison people pretty fast actually um I I know I could theoretically do the staff dude all these blood staff but the issue is that he moves around a lot and I don't know the radius of that so I'm not entirely sure just yet so let me see how he handles my staff people I don't know what a wind AER is oh you got poison in the process for for snake people or or which",
+    "status": "SFT",
+    "actually": "I was going to upgrade my poison character, but I think he kills the snakes quickly. I could use the staff character, but the enemy moves and I do not know the radius. What is a Wind AER? Poison for snakes, or which one?"
+  },
+  {
+    "source_segment_indices": [
+      1508,
+      1509,
+      1510,
+      1511,
+      1512
+    ],
+    "raw": "one hello box man I'm glad that you were able to hang out with your friend enjoy the VOD oh you get poisoned with the staff oh dang it dang it Ollie you're great though",
+    "status": "SFT",
+    "actually": "Box Man, I am glad you spent time with your friend; enjoy the recording. You get poisoned by the staff? How frustrating. Ollie, you are great, though."
+  },
+  {
+    "source_segment_indices": [
+      1513,
+      1514,
+      1515
+    ],
+    "raw": "sh probably now heing [Music]",
+    "status": "LOW",
+    "reason": "Unclear sh/heing fragments interrupted by music."
+  },
+  {
+    "source_segment_indices": [
+      1515
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1516,
+      1517,
+      1518,
+      1519,
+      1520,
+      1521,
+      1522,
+      1523,
+      1524,
+      1525,
+      1526,
+      1527,
+      1528
+    ],
+    "raw": "I wonder when I should I should not talk I need to test out how much damage I do okay I'm not going to use it for this spun so one3 of this health he does this thing at least I'm not taking damage as I that's annoying up so much Mana ah okay I'm dead this way okay I need he does tons of AOE to snakes die quickly see",
+    "status": "SFT",
+    "actually": "I should stop talking and test my damage. I will not use it for this one. At a third of his health he does that. At least I am not taking damage. It is annoying and uses much mana. I am dead. His area attacks kill snakes quickly; I see."
+  },
+  {
+    "source_segment_indices": [
+      1529,
+      1530,
+      1531,
+      1532,
+      1533
+    ],
+    "raw": "I guess my phone sh oh it's just emails uh let's see I'm thinking",
+    "status": "SFT",
+    "actually": "My phone; it is just email. Let me think."
+  },
+  {
+    "source_segment_indices": [
+      1534,
+      1535,
+      1536,
+      1537
+    ],
+    "raw": "maybe the only concern is if he can actually stay still a stamina and CA her jumps I don't do jumps",
+    "status": "SFT",
+    "actually": "My concern is whether he can stay still. Stamina and jumps? I do not jump."
+  },
+  {
+    "source_segment_indices": [
+      1538,
+      1539,
+      1540,
+      1541,
+      1542,
+      1543,
+      1544
+    ],
+    "raw": "you do you're too slow Thunder damage granted for perfect Dodge slicing them what do you do increases stamina recovery I don't do staff spin okay all right",
+    "status": "SFT",
+    "actually": "You are too slow. Thunder damage for perfect dodging, slicing—what do you do? Increased stamina recovery; I do not spin the staff."
+  },
+  {
+    "source_segment_indices": [
+      1545,
+      1546,
+      1547,
+      1548,
+      1549,
+      1550,
+      1551,
+      1552,
+      1553,
+      1554
+    ],
+    "raw": "baby I will level you up I guess yes I will level you up and you better be grateful cuz that costs money I I'm going to level you up you B baby I'm so poor I wonder if I should try using that pluck of many thing because they gave it to me for a reason there has to be a",
+    "status": "SFT",
+    "actually": "Baby, I will level you up; be grateful because it costs money. I am poor. Perhaps I should try Pluck of Many; they gave it for a reason."
+  },
+  {
+    "source_segment_indices": [
+      1555,
+      1556,
+      1557,
+      1558
+    ],
+    "raw": "reason um just's a secret item if you is that the one near the block of rocks and near the dad and his child boss fight if so I think I already got that",
+    "status": "SFT",
+    "actually": "Is the secret item near the rock formation and father-and-child boss? I think I got it already."
+  },
+  {
+    "source_segment_indices": [
+      1559,
+      1560,
+      1561,
+      1562,
+      1563,
+      1564,
+      1565,
+      1566
+    ],
+    "raw": "oh I [Music] didn't hey now sorry are you even useful [ __ ] many I can't imagine you being useful I don't think they were summoned yeah I don't think they got yeah I should",
+    "status": "LOW",
+    "reason": "Interrupted I-didnt/should fragments; clear usefulness question and failed summoning recovered separately, preserving source mask."
+  },
+  {
+    "source_segment_indices": [
+      1560
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1567,
+      1568,
+      1569
+    ],
+    "raw": "[Music] [Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music labels."
+  },
+  {
+    "source_segment_indices": [
+      1570,
+      1571,
+      1572
+    ],
+    "raw": "I'm not doing so well this night Sho H okay have yet",
+    "status": "SFT",
+    "actually": "I am not doing well tonight. Okay, not yet—"
+  },
+  {
+    "source_segment_indices": [
+      1571
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1573,
+      1574,
+      1575,
+      1576,
+      1577
+    ],
+    "raw": "oh [ __ ] I hate this baby oh wait it worked never mind baby I'm so sorry it actually worked I'm so sorry baby I don't think I have enough heals for this",
+    "status": "SFT",
+    "actually": "Oh [ __ ]. I hate this baby—wait, it worked. Never mind; I am sorry, baby. It really worked. I do not think I have enough healing."
+  },
+  {
+    "source_segment_indices": [
+      1578,
+      1579,
+      1580,
+      1581,
+      1582,
+      1583
+    ],
+    "raw": "though I DOD time not the fight not the fight it was a good run though yeah I [Music] figured",
+    "status": "LOW",
+    "reason": "Unclear dodge-time/fight fragments; clear good-run and acknowledgment recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1582
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1584,
+      1585,
+      1586,
+      1587,
+      1588,
+      1589,
+      1590,
+      1591,
+      1592,
+      1593,
+      1594,
+      1595
+    ],
+    "raw": "May secret area in the path I did take I see why does it become useful oh and Olympian the game's fun I like it well I wouldn't play it like every day for the Rat King and Son oh I don't know what that is then I I just went through the tiger boss I didn't even notice another path okay so the baby don't use a PL of many if they do use items I can probably do it you're too close to the ball",
+    "status": "SFT",
+    "actually": "A secret area on the path I took? Why is it useful? Olympian, the game is fun; I like it, but would not play daily. For the Rat King and Son? I do not know it; I only went through the tiger boss and noticed no other path. Baby, not Pluck of Many. Items might let me succeed. You are too close to the ball."
+  },
+  {
+    "source_segment_indices": [
+      1596
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1597,
+      1598,
+      1599,
+      1600,
+      1601,
+      1602,
+      1603,
+      1604
+    ],
+    "raw": "Dodge 3 4 5 6 7 I can't see Dodge Dodge Dodge Dodge that's good that's good run oh shoot that was an accident I can't see crap",
+    "status": "SFT",
+    "actually": "Dodge. Three, four, five, six, seven. I cannot see; dodge. Good; run. That was an accident. I cannot see anything."
+  },
+  {
+    "source_segment_indices": [
+      1605,
+      1606,
+      1607,
+      1608
+    ],
+    "raw": "to a wall oh shoot can't see oh shoot I didn't mean to heal twice",
+    "status": "SFT",
+    "actually": "To a wall. I cannot see; I did not mean to heal twice."
+  },
+  {
+    "source_segment_indices": [
+      1436,
+      1437,
+      1438
+    ],
+    "raw": "oh you can't okay I see you can't hurt him at all",
+    "actually": "You cannot hurt him at all; I see.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1439,
+      1440,
+      1441,
+      1442,
+      1443
+    ],
+    "raw": "uh oh what it still grabbed me see I think we I froze them I can't oh can't see [ __ ] all right should not look",
+    "actually": "It still grabbed me. I froze them. I cannot see. I should not look.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1562,
+      1563,
+      1564,
+      1565
+    ],
+    "raw": "sorry are you even useful [ __ ] many I can't imagine you being useful I don't think they were summoned",
+    "actually": "Sorry, are you useful? I cannot imagine you being useful. I do not think they were summoned.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1579,
+      1580
+    ],
+    "raw": "it was a good run though",
+    "actually": "It was a good run, though.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1581,
+      1583
+    ],
+    "raw": "yeah I figured",
+    "actually": "Yes, I figured.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

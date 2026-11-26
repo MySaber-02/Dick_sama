@@ -1,0 +1,284 @@
+[
+  {
+    "source_segment_indices": [
+      1791,
+      1792,
+      1793,
+      1794,
+      1795,
+      1796,
+      1797
+    ],
+    "raw": "I think he's too close to the outside wall head this way I need you to come back to the middle wherever that is I don't really know okay come back I don't think this is going to help I'm not going to",
+    "status": "SFT",
+    "actually": "I think he is too close to the outer wall. Come back to the center, wherever that is. I do not think this helps; I will not—"
+  },
+  {
+    "source_segment_indices": [
+      1798
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH",
+    "reason": "Applause."
+  },
+  {
+    "source_segment_indices": [
+      1799,
+      1800,
+      1801,
+      1802,
+      1803
+    ],
+    "raw": "BU nice uh I need a back to I don't know what wall of it okay this isn't the Run oh my good God",
+    "status": "LOW",
+    "reason": "Unclear BU/back-to/wall fragment; clear recognition of a failed attempt recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1804
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1805,
+      1806,
+      1807,
+      1808,
+      1809,
+      1810,
+      1811,
+      1812,
+      1813,
+      1814,
+      1815
+    ],
+    "raw": "okay how about we give it give it one try and then we'll do the other chapter I guess I know the the item is probably really super useful but does it take away the giant uh Sandstorm or just that mini Sandstorm out of curiosity we were so close to in that one area too it takes away all the wind I see it's easier to dodge sideways",
+    "status": "SFT",
+    "actually": "Let us try once more, then do the other chapter. I know the item helps, but does it remove the large sandstorm or only the small one? We were close before. All wind? I see; dodge sideways."
+  },
+  {
+    "source_segment_indices": [
+      1816,
+      1817,
+      1818,
+      1819
+    ],
+    "raw": "jeez yeah we'll give it one more try if it doesn't work out we'll go ahead and do the uh the secret or whatever chapter",
+    "status": "SFT",
+    "actually": "One more attempt; if it fails, we will do the secret chapter."
+  },
+  {
+    "source_segment_indices": [
+      1820
+    ],
+    "raw": "foreign spee",
+    "status": "LOW",
+    "reason": "Unclear foreign-speech recognition."
+  },
+  {
+    "source_segment_indices": [
+      1821,
+      1822
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1823
+    ],
+    "raw": "what",
+    "status": "SFT",
+    "actually": "What?"
+  },
+  {
+    "source_segment_indices": [
+      1824
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1825
+    ],
+    "raw": "w",
+    "status": "LOW",
+    "reason": "Isolated w fragment."
+  },
+  {
+    "source_segment_indices": [
+      1826,
+      1827,
+      1828
+    ],
+    "raw": "[Music] [Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1829,
+      1830,
+      1831,
+      1832,
+      1833,
+      1834,
+      1835
+    ],
+    "raw": "I expect the gosh I hat it this so much where you and you will do grab soon oh shoot maybe did not work okay let's go find that",
+    "status": "LOW",
+    "reason": "Fragmented combat anticipation/grab remarks; clear frustration and failure recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1836
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1837,
+      1838,
+      1839,
+      1840,
+      1841,
+      1842,
+      1843,
+      1844
+    ],
+    "raw": "item maybe did not work yeah okay how do you get there how cheap yeah let's go look for the item I am a bit upset though I am a bit upset you almost had it that one time you have to go to the wind rust Bridge Shrine",
+    "status": "SFT",
+    "actually": "It did not work. How do I get there? How unfair. Let us find the item; I am somewhat upset. I nearly had it once. Go to Windrest Bridge Shrine."
+  },
+  {
+    "source_segment_indices": [
+      1845,
+      1846,
+      1847,
+      1848,
+      1849,
+      1850,
+      1851,
+      1852,
+      1853,
+      1854,
+      1855,
+      1856,
+      1857
+    ],
+    "raw": "okay uh this one are we still wind rest wind rest wind rest bridge is my Gord seared oh I have no idea you got to look for the boar I see I did amazing attempts thank you go across the bridge and go left this one pass this guy okay wait is this is the same Bridge right the onebody the annoying dude I can move around my Sparks No I kind of like where my Sparks are at the moment",
+    "status": "SFT",
+    "actually": "This one, Windrest Bridge? Is my gourd seared? I do not know. Find the boar; I see. My attempts were good; thank you. Cross the bridge and turn left past this person. Is this the bridge by the annoying man? I prefer my current spark allocation."
+  },
+  {
+    "source_segment_indices": [
+      1858,
+      1859,
+      1860,
+      1861,
+      1862,
+      1863,
+      1864,
+      1865,
+      1866,
+      1867
+    ],
+    "raw": "all right don't talk to me I'm Angy I just want to kill him sorry give me give me some this one kill will make me feel a little bit better unless I die then I won't feel better okay I don't feel better it's so silent here silent but deadly",
+    "status": "SFT",
+    "actually": "Do not talk to me; I am angry. Killing this one enemy might make me feel better, unless I die. I do not feel better. It is silent but deadly here."
+  },
+  {
+    "source_segment_indices": [
+      1868,
+      1869,
+      1870,
+      1871,
+      1872,
+      1873,
+      1874,
+      1875
+    ],
+    "raw": "okay I feel a little better thank you thank you for the yarn and silk thank you for the gifts this makes me feel better about myself until you keep on me can I just do this I can that's cool oh this section",
+    "status": "SFT",
+    "actually": "I feel a little better. Thank you for the yarn, silk and gifts. They improve my mood until you keep on me. I can do this; cool. This section."
+  },
+  {
+    "source_segment_indices": [
+      1876,
+      1877,
+      1878,
+      1879,
+      1880,
+      1881,
+      1882,
+      1883,
+      1884
+    ],
+    "raw": "oh I still hear the pukers oh gosh that is such a good attack I assume it's around here but let me go grab this thing look for a vase wait why can I not collect this oh why can't I collect this will oh that's why the section",
+    "status": "SFT",
+    "actually": "I still hear the pukers. That is a good attack. I think it is around here, but let me collect this. Find a vase? Why can I not collect this will? That is why."
+  },
+  {
+    "source_segment_indices": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889,
+      1890,
+      1891,
+      1892
+    ],
+    "raw": "oh gosh I feel so good got a puker is it relieving some stress maybe a w I'm not even going to pick the it up anyway okay it wasn't a trap it wasn't a trap this is a trap this guy's a trap I knew it silver ring",
+    "status": "SFT",
+    "actually": "I feel good. A puker; is this relieving stress? Perhaps. I am not collecting it anyway. It was not a trap—this is a trap; this person is a trap. I knew it. Silver ring—"
+  },
+  {
+    "source_segment_indices": [
+      1893,
+      1894,
+      1895,
+      1896
+    ],
+    "raw": "Stone I thought wait wait this is just the beginning of the quest right there's a whole chapter to this what the heck",
+    "status": "SFT",
+    "actually": "Stone. This is only the start of the quest, correct? There is a whole chapter? What?"
+  },
+  {
+    "source_segment_indices": [
+      1802,
+      1803
+    ],
+    "raw": "okay this isn't the Run oh my good God",
+    "actually": "This is not the right attempt.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1830
+    ],
+    "raw": "gosh I hat it this so much",
+    "actually": "I hate this so much.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1834,
+      1835
+    ],
+    "raw": "oh shoot maybe did not work okay let's go find that",
+    "actually": "It may not have worked; let us find that.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

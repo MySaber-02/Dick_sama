@@ -1,0 +1,563 @@
+[
+  {
+    "source_segments": [
+      1601,
+      1603
+    ],
+    "raw": "all I'm missing no this is on I am missing that Bri piece I cannot For the Love of gosh find it",
+    "actually": "I am missing that gray piece and cannot find it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1605,
+      1615
+    ],
+    "raw": "oh where is it let me look at my but I put everything into that bag so I don't think it's yeah is supposed to be oh wait wait not H I cannot find it oh no I can't find",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1608,
+      1609
+    ],
+    "raw": "I put everything into that bag",
+    "actually": "I put everything into that bag.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1614,
+      1615
+    ],
+    "raw": "H I cannot find it oh no I can't find",
+    "actually": "I cannot find it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1616,
+      1619
+    ],
+    "raw": "it no I opened everything on the table though and I'm hungry I'm need a fre oh wait I'm supposed to be uh tied up hello Eric welcome I can't find it",
+    "actually": "I opened everything on the table. I am hungry and need a—wait, I am supposed to be tied up. Hello, Eric; welcome. I cannot find it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1620,
+      1625
+    ],
+    "raw": "that's unfortunate maybe I can just ignore it it is just a decorative piece I think but I end up having not to to use this too so there's some some pieces here that I am confused about oh",
+    "actually": "That is unfortunate. Perhaps I can ignore it; I think it is decorative. I did not need to use this either, so some pieces confuse me.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1626,
+      1629
+    ],
+    "raw": "whatever am I supposed to stick this supposedly it goes like this well it it works Sor at least it works let me just fix",
+    "actually": "Where should I attach this? It supposedly goes like this. It works, at least; let me fix it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1630,
+      1636
+    ],
+    "raw": "this maybe maybe I can use a different Vine let me hide this really quick I have another another piece just going to use this one I assum it's just decorative Vines anyway so it doesn't really matter too much get in",
+    "actually": "Perhaps I can use a different vine. Let me hide this briefly; I have another piece and will use it. I assume these are decorative vines, so it does not matter greatly. Get in there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1637,
+      1641
+    ],
+    "raw": "there then it hugs here and it goes to do anything the other one doesn't have a hook though I think my cat's ate it so I'll ignore that",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1639,
+      1641
+    ],
+    "raw": "the other one doesn't have a hook though I think my cat's ate it so I'll ignore that",
+    "actually": "The other one has no hook. I think my cats ate it, so I will ignore that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1642,
+      1649
+    ],
+    "raw": "okay um closest closest we can get to honestly there there you go there you go we got tree we have tree and I am just going to say that these are extra parts that did not get used from this bag so I will now stick them in that",
+    "actually": "This is honestly the closest we can get. There we are; we have a tree. I will say these are unused extra pieces from this bag and put them in the bag.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1651,
+      1657
+    ],
+    "raw": "bag all right we finished back two at least that's what I'm going to say thankfully it still works on here so long as you have the basic base and we will just say that we have the bag number three yeah",
+    "actually": "We finished bag two, or at least I will say so. It still works if you have the basic base. We will say we have bag three.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1660,
+      1664
+    ],
+    "raw": "okay now I'm on page 43 page 42 I mean all right want we to open bag number",
+    "actually": "I am on page forty-three—forty-two, I mean. It wants us to open bag three.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1665,
+      1667
+    ],
+    "raw": "three I don't think I have my box cutter in here because I am redonkulous oh wait are these just like",
+    "actually": "I do not think my box cutter is here, because I am ridiculous.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1667,
+      1676
+    ],
+    "raw": "redonkulous oh wait are these just like the dirt what is this okay I'm a little bit concerned about this I might skip page 43 this is actually meant to be rocks um the reason I'm skipping this is simply because if these fall my cats might eat it so I'm going to skip back three I don't want my cats eating anything tiny that uh I lose so skipping that",
+    "actually": "Are these dirt? What is this? I am concerned and might skip page forty-three. These are rocks. If they fall, my cats might eat the small pieces I lose, so I will skip bag three.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1677,
+      1680
+    ],
+    "raw": "one now uh if I want pink fr do step 53 I'm skipping back three yeah it is Pebbles I expect that",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1679,
+      1680
+    ],
+    "raw": "I'm skipping bag three yeah it is Pebbles I expect that",
+    "actually": "I am skipping bag three. They are pebbles; I expected that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1682,
+      1684
+    ],
+    "raw": "oh we're doing pink have you had it for a while do me welcome welcome you're vibing with the",
+    "actually": "We are doing pink. Have you had it for a while? Welcome; you are enjoying the music.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1685,
+      1689
+    ],
+    "raw": "music oh I did uh 15,000 steps the other day I'm still kind of tired from it I was doing a bunch of walking woke up sore after too much walk I know it's way too",
+    "actually": "I walked fifteen thousand steps the other day and am still tired. I walked a lot and woke up sore. It was too much.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1691,
+      1694
+    ],
+    "raw": "much right got be careful with opening it and then I still did my 10,000 yesterday so it's just normal step pie I will strive to do 10 another 10,000",
+    "actually": "Be careful opening it. I still walked ten thousand yesterday, so that is normal. I will aim for another ten thousand today.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1695,
+      1700
+    ],
+    "raw": "today I'll be helping with fauna I'll be helping fauna with removing the scaffolding scaffolding but it won't be there for too long I I think it's going to be a short thing",
+    "actually": "I will help Fauna remove the scaffolding. It will not be there long; I think it will be brief.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1701,
+      1703
+    ],
+    "raw": "all right nothing fell nothing fell on the",
+    "actually": "Nothing fell on the desk.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1704,
+      1710
+    ],
+    "raw": "desk so first off it wants at 71 uh let's see uh let's see it wants this piece and then it wants um like an arm looking piece I said this might be arm piece I'm not sure",
+    "actually": "At step seventy-one, it wants this piece and something resembling an arm. This might be the arm piece, but I am unsure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1711,
+      1713
+    ],
+    "raw": "actually I didn't open the small pieces yet I'm a little scared to cuz then we might lose",
+    "actually": "I have not opened the small pieces; I am worried we might lose them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1714,
+      1719
+    ],
+    "raw": "but it wants a piece that goes like a oh Mama Mia what a spicy meatball this is what it looks like step 71 if you can find it in your heart to look oh oh crap oh",
+    "actually": "It wants a piece like this. Mamma mia, what a spicy meatball. This is step seventy-one, if you can look. That is concerning.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1720,
+      1723
+    ],
+    "raw": "sorry uh that right piece oh no the left piece I mean the left piece it's like a spicy Mama Mia I do like link click",
+    "actually": "Sorry, the right piece—no, I mean the left piece. Like a spicy mamma mia.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1723,
+      1728
+    ],
+    "raw": "Mia I do like link click yeah I I need to finish season two I think I I just finished season 1 and I think I'm stuck on season 2 I don't actually have a crush on the characters",
+    "actually": "I like Link Click. I need to finish season two; I think I finished the first and am stuck on the second. I have no crush on the characters.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1729,
+      1736
+    ],
+    "raw": "either surprisingly I don't have a preferred character but if I had to have a preferred character I might like the white-haired dude but the blackhaired dude is so much nicer black hair dude he's a lot more empathetic I can I can Vibe with that you'd be a",
+    "actually": "Surprisingly, I have no favorite, though I might prefer the white-haired man. The black-haired man is much nicer and more empathetic; I relate to that. He would be a friend.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1737,
+      1739
+    ],
+    "raw": "homie oh here it is the Lego hand that's what it is got it so with those I combine",
+    "actually": "Here it is, the LEGO hand. Understood; I combine these.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1740,
+      1742
+    ],
+    "raw": "these D your hair right you can just grow old if you want I don't know I like I like how nice",
+    "actually": "Dye your hair, correct? You can grow old if you prefer.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1742,
+      1756
+    ],
+    "raw": "want I don't know I like I like how nice the blackhair dude is but for the white haired dude he's a little bit more actually there's one part that kind of pissed me off I think it was from season 1 I don't know if you watched it but but there's this particular uh section where a land a landslide is meant to happen and one of the guys has some trauma there I didn't like that part cuz like why would you send this dude if he's already pissed off I don't know I'm mixed about how calculated he is but I think he changes I don't have a",
+    "actually": "I like the black-haired man’s kindness. The white-haired man is more—one part annoyed me, perhaps in season one. A landslide is supposed to happen, and one man has trauma associated with it. Why send him when he is already upset? I have mixed feelings about how calculating he is, but think he changes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1756,
+      1763
+    ],
+    "raw": "I don't have a time it's all based on personality we got to play I got to play my time at sanrock guys you got perms I totally don't have a type that may not go for that one particular character who may look stereotypically in my type though who knows maybe I'll surprise",
+    "actually": "I have no type; it depends on personality. We need to play My Time at Sandrock; we have permission. I have no type and might not choose the character who appears stereotypically my type. Perhaps I will surprise you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1764,
+      1766
+    ],
+    "raw": "you okay now I just got to combine these it only works for fictional though get away with fictional",
+    "actually": "I need to combine these. It only works with fiction; you can get away with fictional things.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1768,
+      1774
+    ],
+    "raw": "stuff is a coincidence it is it is just a coincidence you know you know it's a definitely big happen stance what about you guys surely you must have an archetype you like right you have an archetype you must",
+    "actually": "It is a coincidence, definitely a major happenstance. What about you? Surely you have a preferred archetype.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1775,
+      1778
+    ],
+    "raw": "like happy holiday Siara happy birthday I hope you have a great day today no it's not because they're blonde",
+    "actually": "Happy holiday, Siara, and happy birthday. I hope you have a wonderful day.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1778,
+      1779
+    ],
+    "raw": "today no it's not because they're blonde it's because they have a cool backstory",
+    "actually": "It is not because they are blond; they have an interesting backstory.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1780,
+      1783
+    ],
+    "raw": "you like Cades Cades are kind of like the calm type right you like d That's a sweet type I think think all right this part is uh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1783,
+      1788
+    ],
+    "raw": "think all right this part is uh done like goth girls a so like Nissa calm nuring TI I like the big brother types but only in fictional settings of course I want to be I want to be pamper",
+    "actually": "This part is done. You like goth girls, like Nissa? Calm, nurturing types. I like big-brother types, but only in fictional settings.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1788,
+      1789
+    ],
+    "raw": "course I want to be I want to be pamper I want to boss them",
+    "actually": "I want to be pampered and boss them around.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1790,
+      1795
+    ],
+    "raw": "around let's see oh this has two pieces that's kind of cool okay I'm kind of scared to accidentally break these snowflake pieces let's see hopefully it works oh cool okay they do oh okay this",
+    "actually": "This has two pieces; interesting. I am worried about accidentally breaking these snowflake pieces. I hope they work. They do.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1795,
+      1799
+    ],
+    "raw": "works oh cool okay they do oh okay this one's pretty easy you like kind people Sun okay now what about the question is do you like the sun that beats you up or just the the verbal kind",
+    "actually": "This one is easy. You like kind people? Tsun. Do you prefer the kind that hits you or only the verbal kind?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1800,
+      1810
+    ],
+    "raw": "I'll be honest I had I was thinking of Gintama right I told you guys before at least for those who were able to listen at the time but guki would so not be my type guki is such a freaking dead beat I mean he he takes responsibility if he ends up like sleeping with someone I think also he's apparently by he's canonically by according to the Creator he rolls both ways which is really",
+    "actually": "I was thinking about Gintama, as I mentioned before. Gintoki would not be my type; he is a deadbeat, although I think he takes responsibility if he sleeps with someone. Apparently, according to the creator, he is canonically bisexual, which is interesting.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1811,
+      1816
+    ],
+    "raw": "interesting uh vtuber welcome welcome c 3 release next year yeah I heard about it's a prequel yeah I want the actual thing though I still need a finish though yeah he slept with M uh did I do these right I think I did",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1812,
+      1815
+    ],
+    "raw": "release next year yeah I heard about it's a prequel yeah I want the actual thing though I still need a finish though",
+    "actually": "I heard it releases next year and is a prequel, but I want the actual thing. I still need to finish it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1816,
+      1819
+    ],
+    "raw": "M uh did I do these right I think I did okay cool now I got to put the frogs on here the frogs and the petals it was",
+    "actually": "Did I do these correctly? I think so. Now I need to attach the frogs and petals.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1819,
+      1828
+    ],
+    "raw": "here the frogs and the petals it was hilarious if I had to end up with some of though in a Gintama I would probably go for shinachi oh there is this one cute guy but he doesn't come up until later he's a gingerhair dude he doesn't show up until way way later in the SE uh series I don't think he even talks I think he just shows up and is like a spy I don't remember his",
+    "actually": "That was hilarious. If I ended up with someone from Gintama, I would probably choose Shinpachi. There is a cute ginger-haired man who appears much later. I do not think he speaks; he appears as a spy. I cannot remember his name.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1829,
+      1833
+    ],
+    "raw": "name Kat's cool too but Kat is also kind of a dead beat I feel he does kind of have an afro yeah he's a gingerhead afro from The Shins and",
+    "actually": "Kat is interesting too, though I feel he is also somewhat a deadbeat. He has a ginger afro and is from the Shinsengumi.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1834,
+      1836
+    ],
+    "raw": "gomi CTO Sao who's SEO again I'm trying to remember maybe it's Sao I think it could",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1837,
+      1840
+    ],
+    "raw": "be uh trying to put the frogs I don't think it matters where I put the frogs their ass just needs to sit I need to remove my clothes for",
+    "actually": "I am attaching the frogs. I do not think their position matters; their rear ends need to sit. I need to remove my clothes for—",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1604,
+      1604
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1607,
+      1607
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1610,
+      1610
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1613,
+      1613
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1650,
+      1650
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1658,
+      1658
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1659,
+      1659
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1661,
+      1661
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1678,
+      1678
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1681,
+      1681
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1690,
+      1690
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1703,
+      1703
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1767,
+      1767
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1777,
+      1777
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1818,
+      1818
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

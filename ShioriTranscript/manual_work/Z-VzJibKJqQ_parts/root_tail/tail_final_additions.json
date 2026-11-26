@@ -1,0 +1,38 @@
+[
+  {
+    "source_segments": [
+      2253,
+      2254
+    ],
+    "raw": "What up funy",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2320,
+      2321
+    ],
+    "raw": "There.",
+    "actually": "There.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2737,
+      2737
+    ],
+    "raw": "Y",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2848,
+      2850
+    ],
+    "raw": "Bro I can't see [ __ ] oh well not good run.",
+    "actually": "I cannot see anything; this is a poor run.",
+    "status": "SFT"
+  }
+]

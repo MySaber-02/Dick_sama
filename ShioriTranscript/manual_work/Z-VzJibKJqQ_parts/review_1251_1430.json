@@ -1,0 +1,368 @@
+[
+  {
+    "source_segment_indices": [
+      1251,
+      1252,
+      1253,
+      1254,
+      1255,
+      1256,
+      1257
+    ],
+    "raw": "lag do I go through the left yeah I think the crafting ingredients is pretty neat go here I like how oh oh yeah safe point my beloved wait two safe points perhaps just one",
+    "status": "SFT",
+    "actually": "Lag. Do I go left? The crafting ingredients are neat. A save point, my beloved. Two save points? Perhaps only one."
+  },
+  {
+    "source_segment_indices": [
+      1255
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1258,
+      1259,
+      1260,
+      1261,
+      1262,
+      1263,
+      1264,
+      1265,
+      1266,
+      1267,
+      1268
+    ],
+    "raw": "oh the it's in the cloud store I had to go through the cloud that sounds dangerous what what wait are what's here out of curiosity is he going to come out what's this oh wait I help you didn't I oh maybe he gives you weapons he looks like he could be a blacksmith or a coward one of the two good luck with this",
+    "status": "SFT",
+    "actually": "I must pass through a cloud door; that sounds dangerous. What is here? Will he emerge? I helped you, correct? Perhaps he gives weapons; he looks like a blacksmith or a coward. Good luck with this boss."
+  },
+  {
+    "source_segment_indices": [
+      1269,
+      1270,
+      1271,
+      1272,
+      1273,
+      1274,
+      1275,
+      1276,
+      1277,
+      1278,
+      1279,
+      1280,
+      1281,
+      1282,
+      1283,
+      1284,
+      1285
+    ],
+    "raw": "boss how do I talk to him he doesn't interest oh no he he can make medicine oh Celestial medicine permanently permanent oh you need Mind Core oh shoot I don't know what you go for I only have limited M core like this one takes three 15 I don't think that's really worth it Mana uh I don't know stamina I think defense I feel like defense would be useful and then you can get a lot of Defense Let Me Wait on that let me wait until I know what I want you can also make medicine",
+    "status": "SFT",
+    "actually": "How do I talk to him? He makes medicine, including permanent celestial medicine requiring Mind Cores. Mine are limited. Three for fifteen does not seem worthwhile. Mana, stamina, or defense? Defense seems useful, but I will wait until I know what I want. You can make medicine too."
+  },
+  {
+    "source_segment_indices": [
+      1286,
+      1287,
+      1288,
+      1289,
+      1290,
+      1291,
+      1292,
+      1293,
+      1294,
+      1295,
+      1296,
+      1297
+    ],
+    "raw": "store is a oh oh I I don't want to spend money I don't know what any need yet I can reset for free oh yeah but once you use the items that's it right I think my concern is just lagging honestly I think the sand is going to kill me oh no I see you guys debating in the in the comments she's going to have a bad time oh you can reset Which medicine you make with him",
+    "status": "SFT",
+    "actually": "I do not want to spend money before knowing what I need. I can reset freely, but used items are gone, correct? My main concern is lag; the sand may kill me. You are debating whether I will struggle. I can reset which medicine he makes?"
+  },
+  {
+    "source_segment_indices": [
+      1298,
+      1299,
+      1300,
+      1301,
+      1302,
+      1303,
+      1304,
+      1305,
+      1306
+    ],
+    "raw": "oh I had to go here why would I want to do this oh good God the lag maybe I should maybe I should fight in the lowest cinematic all right let me just die a few times what's your your thing oh wind",
+    "status": "SFT",
+    "actually": "I must go here? Why? The lag is terrible; perhaps I should use the lowest cinematic settings. Let me die a few times. What do you do? Wind."
+  },
+  {
+    "source_segment_indices": [
+      1307,
+      1308,
+      1309,
+      1310
+    ],
+    "raw": "okay oh you hit hard too oh I I I thought I died I didn't know I was still alive okay that I'm dead yeah so you got wind attack",
+    "status": "SFT",
+    "actually": "You hit hard too. I thought I died, but was still alive; now I am dead. You have wind attacks."
+  },
+  {
+    "source_segment_indices": [
+      1311,
+      1312,
+      1313,
+      1314,
+      1315,
+      1316,
+      1317,
+      1318
+    ],
+    "raw": "I don't I can't imagine baby being useful here honestly I can't imagine baby being useful maybe maybe baby the frame rate okay baby be useful baby could knock it down for like temporarily but poisoned",
+    "status": "SFT",
+    "actually": "I cannot imagine the baby helping here. Perhaps it could knock him down briefly. Poisoned it."
+  },
+  {
+    "source_segment_indices": [
+      1319,
+      1320,
+      1321,
+      1322,
+      1323,
+      1324,
+      1325,
+      1326,
+      1327,
+      1328
+    ],
+    "raw": "it this better not have a second form I will destroy myself if it has a second form I'll be so sad I'm going to be so so sad what do you do sorry wrong thing takes a really long oh wait you set a staff down was that do your attack will be enhanced I don't think that's useful for",
+    "status": "SFT",
+    "actually": "There had better not be a second form; I would be extremely upset and sad. What do you do? Sorry, wrong thing. You put down a staff; what does that do? Enhanced attacks? I do not think that helps here."
+  },
+  {
+    "source_segment_indices": [
+      1329,
+      1330,
+      1331,
+      1332,
+      1333,
+      1334,
+      1335,
+      1336,
+      1337
+    ],
+    "raw": "this uh not useful I'm leaning towards my my guango oh but this one gives me defense I see this one I'll wait I'll wait I haven't exactly tried the baby for this",
+    "status": "SFT",
+    "actually": "Not useful. I prefer my Guango, though this gives defense. I will wait; I have not tried the baby against this yet."
+  },
+  {
+    "source_segment_indices": [
+      1333
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1338,
+      1339,
+      1340,
+      1341,
+      1342,
+      1343,
+      1344,
+      1345,
+      1346,
+      1347
+    ],
+    "raw": "yet I'm just going to go for Spirits I like okay oh good they don't have the cut scene and they don't have the the uh the the tornado let's go dance with me oh but I can feel every simulated grain of sand oh crap okay one two oh shoot I don't know what that is",
+    "status": "SFT",
+    "actually": "I will choose spirits I like. Good, no cutscene or tornado. Dance with me; I can feel every simulated grain of sand. One, two. What is that?"
+  },
+  {
+    "source_segment_indices": [
+      1348
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1349,
+      1350,
+      1351,
+      1352,
+      1353,
+      1354,
+      1355,
+      1356,
+      1357,
+      1358
+    ],
+    "raw": "ohra hit please go hit it I don't know what this is he close to me I don't know what this means is he invisible I can't see him how do you do more Mana",
+    "status": "SFT",
+    "actually": "Please hit him. I do not know what this is or means. Is he invisible? I cannot see him. How do I recover more mana?"
+  },
+  {
+    "source_segment_indices": [
+      1350,
+      1351
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1359,
+      1360,
+      1361,
+      1362,
+      1363,
+      1364,
+      1365,
+      1366
+    ],
+    "raw": "back oh oh what the fudge I can't see and I also have no more Mana I think I will take more Mana what what what what is this oh is this is this meant to happen I don't think it's was meant to happen guys",
+    "status": "SFT",
+    "actually": "I cannot see and have no mana. I think I will get more mana. What is this? Is it supposed to happen? I do not think so."
+  },
+  {
+    "source_segment_indices": [
+      1367
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1368,
+      1369,
+      1370,
+      1371,
+      1372,
+      1373,
+      1374,
+      1375,
+      1376,
+      1377,
+      1378
+    ],
+    "raw": "oh shoot can't get there man all right okay baby's useless and for me at this moment okay in that case I think I'm going to go grab more Mana stuff if I use items I could probably get away with it when you break the immobilize spell when you break it oh I guess that takes a while though",
+    "status": "SFT",
+    "actually": "I cannot reach there. The baby is useless for me now. I will get more mana-related things; items might let me manage. When you break Immobilize? I suppose that takes a while."
+  },
+  {
+    "source_segment_indices": [
+      1379,
+      1380,
+      1381,
+      1382,
+      1383,
+      1384,
+      1385,
+      1386,
+      1387,
+      1388,
+      1389
+    ],
+    "raw": "um let me go change my baby I don't I really know if it's good with poison but I'm going to use it anyway just because that's what I'm used to I can okay these are what I have already small that's perfect dodging I don't usually do perfect dodging though I will lose critical hit chance I assume no I want I want the defense all",
+    "status": "SFT",
+    "actually": "I will change the baby. I am unsure poison works, but will use it because it is familiar. These are owned; that requires perfect dodging, which I seldom do. I would lose critical chance? No, I want defense."
+  },
+  {
+    "source_segment_indices": [
+      1390,
+      1391,
+      1392,
+      1393,
+      1394,
+      1395,
+      1396,
+      1397
+    ],
+    "raw": "right and I have some of this I think I will use this here's the engage distance I guess that could be useful but that's just distance uh let's see what what does this do I think this could be no I already awakened",
+    "status": "SFT",
+    "actually": "I have this and think I will use it. Engage distance may help, but is only distance. What does this do? I already awakened it."
+  },
+  {
+    "source_segment_indices": [
+      1398,
+      1399,
+      1400,
+      1401,
+      1402,
+      1403,
+      1404,
+      1405,
+      1406
+    ],
+    "raw": "it care don't really care oh wait you got something new uh not not yet I didn't even use that stamina sprinting I think that could be useful this one engage distance how about how about this",
+    "status": "SFT",
+    "actually": "I do not really care. Something new? Not yet; I did not use it. Sprinting stamina could help. This one, or engage distance; how about this?"
+  },
+  {
+    "source_segment_indices": [
+      1407,
+      1408,
+      1409,
+      1410,
+      1411,
+      1412
+    ],
+    "raw": "one although I'm keeping a real careful look at my I thing before I rest I would like more Stam U Mana actually give me more man maximum Mana give me 10 uh maybe not quite worth it yet",
+    "status": "LOW",
+    "reason": "Unclear I-thing being monitored; clear stamina/mana correction recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1413,
+      1414,
+      1415,
+      1416,
+      1417,
+      1418,
+      1419,
+      1420,
+      1421,
+      1422,
+      1423,
+      1424
+    ],
+    "raw": "actually and then if I look at this let me look at what my items do what does this do subduing Palace is damage reduction is repelling repelling is reduction okay I'll reduce mana's good I thought it it costs mana mana core but you get the items back I see I'll I'll think about it in a bit is a chapter 5 secret area oh all right",
+    "status": "SFT",
+    "actually": "Let me inspect my items. Subduing Palace: is it damage reduction? Repelling is reduction. I will reduce it. Mana is good; I thought it cost mana, mana cores, but you get items back. I will consider it. A chapter five secret area? All right."
+  },
+  {
+    "source_segment_indices": [
+      1425,
+      1426,
+      1427,
+      1428,
+      1429,
+      1430
+    ],
+    "raw": "so this now subd now actually got me to dodge DOD that's okay and uh stay is",
+    "status": "LOW",
+    "reason": "Fragmented combat subd/dodge/stay commands; next context needed."
+  },
+  {
+    "source_segment_indices": [
+      1408,
+      1409,
+      1410,
+      1411,
+      1412,
+      1413
+    ],
+    "raw": "before I rest I would like more Stam U Mana actually give me more man maximum Mana give me 10 uh maybe not quite worth it yet actually",
+    "actually": "Before I rest, I want more stamina—mana, actually. Maximum mana, ten more. Perhaps it is not worthwhile yet.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

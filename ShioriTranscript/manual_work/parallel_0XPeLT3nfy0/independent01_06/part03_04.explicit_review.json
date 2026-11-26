@@ -1,0 +1,285 @@
+{
+  "source_frames": {
+    "part03.json": {
+      "5": [
+        438,
+        446
+      ],
+      "17": [
+        478,
+        485
+      ],
+      "21": [
+        492,
+        497
+      ],
+      "26": [
+        505,
+        509
+      ],
+      "29": [
+        515,
+        518
+      ],
+      "34": [
+        532,
+        536
+      ],
+      "35": [
+        533,
+        536
+      ],
+      "60": [
+        612,
+        617
+      ],
+      "61": [
+        617,
+        620
+      ],
+      "64": [
+        626,
+        627
+      ],
+      "70": [
+        641,
+        648
+      ]
+    },
+    "part04.json": {
+      "27": [
+        730,
+        734
+      ],
+      "30": [
+        744,
+        749
+      ],
+      "32": [
+        753,
+        758
+      ],
+      "35": [
+        762,
+        766
+      ],
+      "36": [
+        766,
+        771
+      ],
+      "50": [
+        814,
+        818
+      ],
+      "52": [
+        824,
+        828
+      ]
+    }
+  },
+  "recoveries": [
+    {
+      "part": "part03.json",
+      "row_one_based": 20,
+      "source_segments": [
+        497,
+        497
+      ],
+      "raw": "Yep, it's sleeping.",
+      "actually": "It is sleeping.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part03.json",
+      "row_one_based": 28,
+      "source_segments": [
+        520,
+        522
+      ],
+      "raw": "I was catching, I was catching a Cris. That’s why.",
+      "actually": "I was catching a Cris; that is why.",
+      "action": "recover_from_LOW_keep_original_context",
+      "status_override": "LOW",
+      "reason": "Cris is unresolved ASR; do not assume Cremis from another statement later. Clear repeated I was catching and That’s why may be recovered separately if desired."
+    },
+    {
+      "part": "part03.json",
+      "row_one_based": 31,
+      "source_segments": [
+        523,
+        524
+      ],
+      "raw": "Oh, look, it's a little thingy.",
+      "actually": "Look; it is a small thing.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part03.json",
+      "row_one_based": 34,
+      "source_segments": [
+        532,
+        533
+      ],
+      "raw": "I have many more spheres. 12. Do you need spheres?",
+      "actually": "I have many more spheres. Twelve. Do you need spheres?",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part03.json",
+      "row_one_based": 50,
+      "source_segments": [
+        580,
+        581
+      ],
+      "raw": "And then in the back, um, there's like an onsen.",
+      "actually": "There is a hot spring behind.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 18,
+      "source_segments": [
+        714,
+        715
+      ],
+      "raw": "C is depressed.",
+      "actually": "C is depressed.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 31,
+      "source_segments": [
+        749,
+        753
+      ],
+      "raw": "Well, let's take half. Let put it back in.",
+      "actually": "Let us take half and put it back.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 46,
+      "source_segments": [
+        803,
+        805
+      ],
+      "raw": "I need to do the Pal that delivers stuff.",
+      "actually": "I need to deal with the Pal that delivers things.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 46,
+      "source_segments": [
+        805,
+        805
+      ],
+      "raw": "You should be doing that then.",
+      "actually": "You should do that, then.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 46,
+      "source_segments": [
+        808,
+        809
+      ],
+      "raw": "Okay, now we have the medicine for the Pals, right?",
+      "actually": "We now have the medicine for the Pals, correct?",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 53,
+      "source_segments": [
+        831,
+        832
+      ],
+      "raw": "Fixed it. Thank you.",
+      "actually": "It is fixed; thank you.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 66,
+      "source_segments": [
+        873,
+        874
+      ],
+      "raw": "Near, near IRyS's base.",
+      "actually": "Near IRyS’s base.",
+      "action": "recover_from_LOW_keep_original_context"
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 68,
+      "source_segments": [
+        879,
+        879
+      ],
+      "raw": "I have 105.",
+      "actually": "I have one hundred five.",
+      "action": "recover_from_LOW_keep_original_context"
+    }
+  ],
+  "explicit_replacements": [
+    {
+      "part": "part03.json",
+      "row_one_based": 27,
+      "raw": "Okay, and then I think it’s over to the, hold up. Wait, you have it on the map? Yeah, yeah, I don’t understand how the cursor works. It like it lags when I’m turning directions. I think it’s this way. I don’t know, we’ll figure it out.",
+      "actually": "I think it is over there; wait. Do you have it on the map? I do not understand the cursor; it seems to lag when I change direction. I think it is this way; we will work it out.",
+      "reason": "Source wait soon does not establish a negative question; remove invented don’t while retaining original it like it lags grammar. Unclear soon remains in LOW full context."
+    },
+    {
+      "part": "part03.json",
+      "row_one_based": 30,
+      "raw": "You'll be like the guide in moonlight.",
+      "actually": "You will be like a guide in the moonlight.",
+      "reason": "Source why’ she lead us does not reliably establish don’t. Keep unresolved preceding clause in LOW, recover clear guide remark."
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 35,
+      "raw": "Okay, you can make pancakes, you can make a lot of things wheat. You have to you have to make a mill, though, you to crush it, I think. Ah, okay.",
+      "actually": "You can make pancakes and many things with wheat, but I think you need a mill to crush it.",
+      "reason": "Revert inserted grammatical with and deleted original you. Keep the original ungrammatical you to crush it."
+    },
+    {
+      "part": "part04.json",
+      "row_one_based": 60,
+      "raw": "Oh, I don’t know what Pals to put out. Put out any Pal. They all have different skills. Yeah, but as long as they’re happy to do something, if it’s depress they won’t do anything.",
+      "actually": "I do not know which Pals to deploy. Choose any; they have different skills. They need to be happy to work; depressed ones do nothing.",
+      "reason": "Do not silently correct spoken depress into depressed in raw."
+    }
+  ],
+  "extra_low": [
+    {
+      "source_segments": [
+        518,
+        520
+      ],
+      "raw": "why' she lead us",
+      "reason": "Unclear ASR; do not invent negative auxiliary/polarity."
+    },
+    {
+      "source_segments": [
+        511,
+        512
+      ],
+      "raw": "wait soon",
+      "reason": "Unclear form of address or ASR syllable preceding a clear map question."
+    }
+  ],
+  "notes": [
+    "Breed←breathe supported by explicit discussion of mating/captured humans, not a grammar rewrite.",
+    "Cremis recovery supported by later explicit Cremis mention1090 and existing comparison discussions; do not import unrelated Pal facts.",
+    "Pures→spheres is context-supported catching-supply spelling; preserve 12 as literal number rather than assert count of spheres.",
+    "Mount←M, Nitewing←Nightwing, Depresso←depress so, Melpaca←mil Paca, aggro←aggo, cloth←CL, Chillet←chili and ore←or are contextual noun spellings.",
+    "Part04row4 repeat stay still really quick appears twice genuinely, not an accidental duplicate; quicko source first occurrence can be spelling corrected but repeat must stay.",
+    "Part04row34 has four wheat/whe tokens; preserve four appearances.",
+    "Part04row44 what do you want to meet up→where do you want to meet up is not strictly grammatical cleanup if ASR what/where is corrected by location context; do not add armor grammar auxiliaries.",
+    "Any recovered subspans from LOW must be marked accepted so excluded counts do not double-count them."
+  ]
+}

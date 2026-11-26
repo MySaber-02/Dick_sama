@@ -1,0 +1,510 @@
+[
+  {
+    "source_segments": [
+      2260,
+      2263
+    ],
+    "raw": "I don’t know what it is. Shin Shin. Oh, it’s so dark. Purple purple purp.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2260,
+      2262
+    ],
+    "raw": "I don’t know what it is. Oh, it’s so dark.",
+    "actually": "I do not know what it is; it is very dark.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2264,
+      2276
+    ],
+    "raw": "Where’s the, wait, where is it? Yeah, I don’t know. Maybe it’s been destroyed. Where the, what, did somebody kill it, get it already? Well, maybe on the server, is it just us? What? Huh, usually it’s within within an hour, though, why? Yeah, should we just wait for him? Well, we can camp out, I guess, or just uh explore this area a little.",
+    "actually": "Where is it? I do not know; perhaps it was destroyed or someone already killed or caught it. Are we alone on the server? Usually it is within an hour. Should we wait, camp here, or explore nearby?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2277,
+      2283
+    ],
+    "raw": "Right that’s Str hold on hold on uh everybody walk out and then we’re going to walk back in okay sometimes it’s bug so we’re going to walk all the way out of the waterfall the only Mount I have right now sounds good",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2278,
+      2281
+    ],
+    "raw": "Hold on, hold on, uh, everybody walk out, and then we’re going to walk back in. Okay, sometimes it’s bug, so we’re going to walk all the way out of the waterfall.",
+    "actually": "Wait; everyone leave, then we will return. It is sometimes bugged, so leave the waterfall completely.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2282,
+      2283
+    ],
+    "raw": "The only mount I have right now. Sounds good.",
+    "actually": "My only current mount. That sounds good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2284,
+      2288
+    ],
+    "raw": "H it’s under R huh I wouldn’t think it would be Kyla because Kyla doesn’t need this one anymore yeah it’s below her level",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2285,
+      2288
+    ],
+    "raw": "I wouldn’t think it would be Kyla because Kyla doesn’t need this one anymore. Yeah, it’s below her level.",
+    "actually": "I do not think it would be Kyla; she no longer needs this one because its level is below hers.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2289,
+      2294
+    ],
+    "raw": "Huh, all right, should we wait a little bit and then go back in? Yeah, everybody like wait out maybe first. All right, okay, I’m going to go check. Okay, we just stay here for now.",
+    "actually": "Should we wait briefly before returning? Everyone wait outside first. I will check; we will stay here for now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2295,
+      2299
+    ],
+    "raw": "There we go, there we go. I don’t like it when I’m all wet. Yeah, yeah, why not? It just it sounds weird, and the fuzz, the the fuzz gets heavy. You have like the the dog smell.",
+    "actually": "I dislike being wet. Why? It sounds strange, the fur becomes heavy, and you smell like a dog.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2300,
+      2308
+    ],
+    "raw": "People are saying it only spawns during the day, Biboo. Oh, I guess we got to wait until daytime then. Okay, okay, okay, well, we have a teleporter, so we can we can come back in the daytime. I can always come back whenever on my own too cuz I I know, I know, uh, the time. Oh, yeah, you should uh leave a marker here then.",
+    "actually": "People say it only spawns during the day, Biboo. We need to wait until then. We have a teleporter and can return in daylight. I can return alone too, since I know the time. Leave a marker here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2308,
+      2317
+    ],
+    "raw": "A marker, good idea. How how do I, how am I going to get out of here? Guess we’re going to have to climb. Hold, oh, that’s right cuz we jumped down. Yeah, so sorry for you guys. I don’t have my flying mount actually, so I also have to climb.",
+    "actually": "A marker is a good idea. How do I get out? We need to climb because we jumped down. Sorry; I also need to climb, since I lack my flying mount.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2318,
+      2322
+    ],
+    "raw": "Yeah, Biboo, you left us for dead. What, do we even have enough stamina for this? I can’t see anything. So here, I just went in the cave to check. No, no, we’re talking about leaving, uh, to go up.",
+    "actually": "Biboo, you left us for dead. Do we have enough stamina? I cannot see. I entered the cave to check. We mean leaving and climbing up.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2322,
+      2334
+    ],
+    "raw": "Oh I have an idea I have an idea come here you guys where is wait where here yeah by me with this giant guy going away climb up here this wooden structure yeah let your Stam jump off and die and then go on the cliff and then up here it looks like we can climb up without having to like climb maybe okay I just hope we could see farther ahead oh God there’s a SL there’s a slope it’s a very very dangerous slope",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2322,
+      2326
+    ],
+    "raw": "Oh, I have an idea, I have an idea. Come here, you guys. Where is, wait, where? Here, yeah, by me. Climb up here, this wooden structure.",
+    "actually": "I have an idea; come here. Where? Here, beside me. Climb this wooden structure.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2328,
+      2334
+    ],
+    "raw": "And then go on the cliff, and then up here it looks like we can climb up without having to like climb, maybe. Okay, I just hope we could see farther ahead. Oh, God, there’s a sl, there’s a slope, it’s a very very dangerous slope.",
+    "actually": "Go to the cliff, then here; perhaps we can get up without climbing. I wish we could see farther. There is a dangerous slope.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2335,
+      2343
+    ],
+    "raw": "Yeah, okay, stamina I kind of need. Okay, I’ll let you guys first. I think that could only take a few people at a time. There’s another, there’s another slope over here, so you could stop and regain your your stamina.",
+    "actually": "I need stamina. You can go first; I think it supports only a few people at once. Another slope here lets you stop and regain stamina.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2343,
+      2349
+    ],
+    "raw": "Man, rock climbing sucks. This is working, is this good? Excuse me. No, it’s rock climbing, not just rocks. Biboo, you’re okay, I don’t have to climb on top of you. Oh, gosh, it’s okay, I’ll just find some other thing.",
+    "actually": "Rock climbing is frustrating. Is this working? Excuse me; it is rock climbing, not just rocks. Biboo, it is fine; I do not need to climb on you. I will find something else.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2350,
+      2358
+    ],
+    "raw": "Ah, if only weren’t so dark. Waiting for you. No, it’s okay, you can go without me. It’s okay, almost up, no, almost up. We share the light. All right, this way, I’m going to try going up this way. You sure? We’re just going to fall. No, I think there’s a bit of a ledge. See, this way.",
+    "actually": "I wish it were less dark. I am waiting for you. You can go without me; almost up. We share the light. I will try this route up. Are you sure? We will fall. I think there is a ledge; this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2359,
+      2364
+    ],
+    "raw": "Okay, gosh, I cannot see crap. Sorry, sorry, I don’t have a thing. It’s okay, are we up? Yeah, just just go straight up. What? Yeah, yeah, no, we made it, we made it, there’s a bridge here. Yeah, okay, yeah, left shot. Oh, I’m just climbing.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2359,
+      2363
+    ],
+    "raw": "Okay, gosh, I cannot see crap. Sorry, sorry, I don’t have a thing. It’s okay, are we up? Yeah, just just go straight up. What? Yeah, yeah, no, we made it, we made it, there’s a bridge here.",
+    "actually": "I cannot see. Sorry, I do not have one. Are we up? Go straight up; we made it, and there is a bridge.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2365,
+      2372
+    ],
+    "raw": "Here too far sheep uhoh uhoh that is a huge sheep it was the my lighting Beacon oh this a creepy tree okay now we climb we go up more yeah I think we’re good we’re good yeah I think we’re good yep uh let’s let’s wait for them though",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2366,
+      2372
+    ],
+    "raw": "That is a huge sheep. It was the my lighting beacon. Oh, this a creepy tree. Okay, now we climb, we go up more. Yeah, I think we’re good, we’re good. Yeah, I think we’re good. Yep, uh, let’s let’s wait for them, though.",
+    "actually": "That is a large sheep; it was my light beacon. A creepy tree. We need to climb farther; I think we are fine. Let us wait for them.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2373,
+      2379
+    ],
+    "raw": "Yeah, oh, it’s this way. Yeah, you went too high. This way. Did I? Oh, no, I’m scared. Go ahead. Yeah, we’re going to the teleporter right now. Okay, right over here. Is there a bridge?",
+    "actually": "This way; you climbed too high. Did I? I am scared; go ahead. We are going to the teleporter. Is there a bridge here?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2380,
+      2390
+    ],
+    "raw": "Oh no I cannot see I cannot see a bridge just follow I guess we’re going to wait for daytime where are you guys is dangerous we’re heading toward the teleporter if only we had a grappling gun what’s here is that uh I don’t know that’s pretty low I think gosh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2380,
+      2388
+    ],
+    "raw": "Oh, no, I cannot see, I cannot see a bridge. Just follow. I guess we’re going to wait for daytime. Where are you guys? It’s dangerous. We’re heading toward the teleporter. If only we had a grappling gun.",
+    "actually": "I cannot see a bridge; follow. We will wait for daylight. Where are you? It is dangerous. We are going to the teleporter; I wish we had a grappling gun.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2391,
+      2397
+    ],
+    "raw": "Okay we’ll go back to our bases then okay okay okay B we’re far away oh I have one oh I thought that was a regular gun apparently I have one we’re back oh we’re back Pal we’re all asleep good condition this a",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2391,
+      2395
+    ],
+    "raw": "Okay, we’ll go back to our bases then. Okay, okay, okay. Oh, I have one. Oh, I thought that was a regular gun. Apparently I have one.",
+    "actually": "We will return to our bases. I have one; I thought it was an ordinary gun.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2395,
+      2397
+    ],
+    "raw": "We’re back. Oh, we’re back. Pals were all asleep. Good condition.",
+    "actually": "We are back; the Pals were asleep and in good condition.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2398,
+      2406
+    ],
+    "raw": "Good what about that oh what is it oh that’s useful oh did you get did you get the exploding bird the too too the rainow we got him just now some inot wow let C Fish true oh okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2400,
+      2404
+    ],
+    "raw": "Oh, that’s useful. Oh, did you get did you get the exploding bird? We got him just now.",
+    "actually": "That is useful. Did you get the exploding bird? We just got him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2408,
+      2412
+    ],
+    "raw": "He’s good he he like the one he made a choice this like we made really good progress today cool Pal too",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2410,
+      2412
+    ],
+    "raw": "We made really good progress today. Cool Pal too.",
+    "actually": "We made excellent progress and got an interesting Pal.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2413,
+      2426
+    ],
+    "raw": "Let’s put our Pals our our shiny Pals out on the on the base should have been our party and then we can do more stuff us okay and gold Fish is working where’s sheep here ah let’s put him in the base and go and Fish Fish is healing oh okay oh this should be I have",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2413,
+      2417
+    ],
+    "raw": "Let’s put our Pals our our shiny Pals out on the on the base, should have been our party, and then we can do more stuff.",
+    "actually": "Let us deploy our shiny Pals at the base; they should have been in our party. Then we can do more.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2420,
+      2424
+    ],
+    "raw": "Fish is working. Where’s sheep? Here, ah, let’s put him in the base. And Fish, Fish is healing.",
+    "actually": "Fish is working. Where is the sheep? Put him in the base. Fish is healing.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2427,
+      2431
+    ],
+    "raw": "Oh, perfect, I’m going to go back into my house, into the onsen. Yes, let’s have some. It’s not good to eat in them, but, oh, yeah, yeah, oh, let’s not fall off cliff.",
+    "actually": "I will return to my house and the onsen. Let us have some; eating in them is not good. Avoid falling off the cliff.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2432,
+      2440
+    ],
+    "raw": "No, that’s right, we need to bring out Pero too. Use Pero. Can you ride him? You can ride Pero. Oh, you should do that then, because because then you could destroy stuff while we’re riding Pero, and dominance. Where is he? He is, let’s name him properly, it’s the wrong name.",
+    "actually": "We need to deploy Pero too. Can you ride him? Yes. You should, so you can destroy things while riding Pero and assert dominance. Where is he? Let us name him properly; the name is wrong.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2442,
+      2449
+    ],
+    "raw": "Ises bring him out you okay are you guys okay P Grandpa I’m not used to Pero being so big and a mustache yeah maybe you can shave the mustache off he makes me feel unsettled it’s not quite right you know unsettling",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2444,
+      2451
+    ],
+    "raw": "Are you guys okay? Pero Grandpa. I’m not used to Pero being so big and a mustache. Yeah, maybe you can shave the mustache off. He makes me feel unsettled. It’s not quite right, you know, unsettling. Yeah, maybe he’s too mature for you.",
+    "actually": "Are you all right? Grandpa Pero; I am unused to Pero being large and having a mustache. Perhaps shave it. He makes me uneasy; perhaps he is too mature for you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2452,
+      2465
+    ],
+    "raw": "There and then I try to attack him he runs right can shoot him K him the arrows can’t see you okay quickly I H him wait one second right there do this pet petal destroy pedal there’s no destroy come here oh what was that I don’t know I don’t know if I like you go back into the ball to the Sophia now we have our",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2452,
+      2453
+    ],
+    "raw": "And then I try to attack him, he runs, right?",
+    "actually": "He runs when I try to attack him, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2456,
+      2459
+    ],
+    "raw": "Wait one second, right there. Do this. Pet. Pet Pero. Destroy Pero. There’s no destroy. Come here.",
+    "actually": "Wait; do this here. Pet Pero. Destroy Pero. There is no destroy option; come here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2460,
+      2463
+    ],
+    "raw": "Oh, what was that? I don’t know. I don’t know if I like you. Go back into the ball.",
+    "actually": "What was that? I do not know whether I like you; return to the ball.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2466,
+      2469
+    ],
+    "raw": "Yeah, bath time over here. Oh, not bath time, roll-off-the-cliff time.",
+    "actually": "Bath time here—rather, time to roll off the cliff.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2470,
+      2476
+    ],
+    "raw": "Yeah, oh, I should show you guys something. I should show you guys something, it’ll be fun. I don’t really have anything to destroy. Lighing. So, is it just like nice scenery?",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2470,
+      2474
+    ],
+    "raw": "Yeah, oh, I should show you guys something. I should show you guys something, it’ll be fun. I don’t really have anything to destroy.",
+    "actually": "I should show you something enjoyable. I have nothing to destroy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2475,
+      2476
+    ],
+    "raw": "So, is it just like nice scenery?",
+    "actually": "Is it simply nice scenery?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2477,
+      2483
+    ],
+    "raw": "Hi something really cool at your base what is it yeah sure meet me at my base okay I’ll be there in just a minute I’m building something uh can I just put a regular egg oh man be’s py they’re busy h right I’m in",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2477,
+      2482
+    ],
+    "raw": "Something really cool at your base? What is it? Yeah, sure, meet me at my base. Okay, I’ll be there in just a minute, I’m building something. Uh, can I just put a regular egg?",
+    "actually": "Something interesting at your base? What? Meet me there. I will arrive in a moment; I am building something. Can I use an ordinary egg?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2484,
+      2489
+    ],
+    "raw": "Construction. Okay, we’re at your house. Hello, where are you? He was just saying hi. Are you, be there soon? Wow, oh, I know what to do. Okay, we’ll wait here.",
+    "actually": "We are at your house. Hello; where are you? He was saying hello. Will you arrive soon? I know what to do; we will wait here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2490,
+      2490
+    ],
+    "raw": "Okay, what are you doing, Biboo? I’m kind of",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2312,
+      2312
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2386,
+      2386
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2407,
+      2407
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2441,
+      2441
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2443,
+      2443
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

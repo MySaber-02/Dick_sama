@@ -1,0 +1,424 @@
+[
+  {
+    "source_segments": [
+      2321,
+      2325
+    ],
+    "raw": "Man I felt kind of bad cuz there was this spider and I saw it on like some Tupperware lid so I just left it it's like you know she's a spider it's not a big deal.",
+    "actually": "I felt bad about a spider I saw on a Tupperware lid. I left her there, thinking a spider was no problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2326,
+      2336
+    ],
+    "raw": "And then a few days later I noticed that that spider was still there but it was curled up it was curled up u meaning it usually is dead I was like oh no how did it die and I wondered maybe it couldn't get out of the plastic lid maybe it was like too tiny so then I felt bad I was thinking oh maybe I should have removed it I I thought it would been more I thought I could handle it.",
+    "actually": "A few days later the spider remained there, curled up, which usually means it is dead. I wondered how it died, and whether it could not escape the small plastic lid. I felt bad and thought perhaps I should have removed it. I thought it would be more—I thought I could handle it.",
+    "status": "SFT",
+    "reason": "Keep source filler u, no audio basis for uh."
+  },
+  {
+    "source_segments": [
+      2328,
+      2328
+    ],
+    "raw": "That's of greatness.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2337,
+      2341
+    ],
+    "raw": "it was a very small piece of Tupperware yeah I felt sad it moled I don't know by a cliff yeah let me check there's like no Treasure",
+    "actually": "It was a small piece of Tupperware; I felt sad. It molted? I do not know. By a cliff? Let me check; there is no treasure chest.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2342,
+      2344
+    ],
+    "raw": "Are you a trap you're a trap aren't you I do you're not trap okay I don't know.",
+    "actually": "Are you a trap? You are, are you not? You are not a trap? All right; I do not know.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2344,
+      2357
+    ],
+    "raw": "I don't really understand molting but it look pretty dead to open them oh I mean the lid was upside down it wasn't inside the container or anything it just like they could have left so it may be wonder maybe they can't climb out of them like small pieces of plastic I don't think I think they might have died from dehydration the Tupperware wasn't closed uh for the record like um the lid was the only thing there it didn't have the storage part no I didn't touch it.",
+    "actually": "I do not understand molting, but it looked dead. The lid was upside down, not enclosing the spider in a container; it could have left. I wondered whether spiders cannot climb small pieces of plastic. I think it might have died of dehydration. The Tupperware was not closed: only the lid was there, without the container. I did not touch it.",
+    "status": "SFT",
+    "reason": "Do not rewrite source may be wonder to made me wonder; keep oral grammar."
+  },
+  {
+    "source_segments": [
+      2358,
+      2364
+    ],
+    "raw": "it oh we got sparks let's go use them I'm not really sure what to use them on though later how about I don't know the only issue is that let's see",
+    "actually": "We have sparks; let us spend them. I am unsure what to spend them on. Perhaps later; let us see.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2365,
+      2369
+    ],
+    "raw": "hold maybe this one if I'm actually going to use it and they actually help with Focus which is pretty good thinking about it the",
+    "actually": "Perhaps this one, if I use it. They help with Focus, which is useful. The duration—",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2370,
+      2376
+    ],
+    "raw": "duration I don't know I barely use to really understand what I want at the moment so for now let me go with something guaranteed it's the best spell so I should focus on it I suppose all right I still want to focus on this though yeah let's just do it",
+    "actually": "I have used it too little to know what I want. For now, choose something guaranteed. It is the best spell, so I suppose I should prioritize it. I still want this too; let us do it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2377,
+      2378
+    ],
+    "raw": "Oh but I didn't capture them it was just there okay.",
+    "actually": "I did not capture them; it was there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2378,
+      2386
+    ],
+    "raw": "there okay so now that I'm here I feel like this is a boss area to be honest I also feel like I I think I redirected to be S I just like glan at her thing and she was fighting so oh crap she's we're going to fight something here aren't we oh I should teleport back to is trying to talk to the guy first",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2378,
+      2380
+    ],
+    "raw": "So now that I'm here I feel like this is a boss area to be honest.",
+    "actually": "Now that I am here, this feels like a boss area.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2381,
+      2386
+    ],
+    "raw": "I just like glanced at her thing and she was fighting so oh crap she's we're going to fight something here aren't we oh I should teleport back to is trying to talk to the guy first.",
+    "actually": "I glanced at her thing and she was fighting. We will fight something here, will we not? Should I teleport back and speak to him first?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2387,
+      2388
+    ],
+    "raw": "okay talk to the King on the hill okay",
+    "actually": "Speak to the king on the hill; all right.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2389,
+      2398
+    ],
+    "raw": "Soak all right all right where's the big guy this guy he looks pretty big I assume this is a really hard area does that mean that you technically have the choice of winging it with a sandstorm or you can do a harder boss fight I like how they still wear underwear is this place harder then.",
+    "actually": "Where is the large one? This one looks large. I assume this is difficult. Do you have a choice between trying the sandstorm and fighting a harder boss? I like that they wear underwear. Is this place harder?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2398,
+      2406
+    ],
+    "raw": "then sorry I'm not that good they probably going to be like need a monkey tow out so it's not the lightning looking boss the clouds are all dark and it looks like a giant lizard again be usually 8 hours at a time so I don't think I'm that far ahead oh it's a",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2398,
+      2403
+    ],
+    "raw": "Sorry I'm not that good so it's not the lightning looking boss the clouds are all dark.",
+    "actually": "Sorry, I am not very good. It is not the lightning-looking boss; the clouds are dark.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2402,
+      2407
+    ],
+    "raw": "It looks like a giant lizard oh it's a bug.",
+    "actually": "It looks like a large lizard. It is a bug.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2408,
+      2418
+    ],
+    "raw": "wait this is the same bug that they throw at me at the other place if I kill him does that mean that that maybe he doesn't notice anymore does that mean that that he will lose an attack that's the same rat thing you're doing the side quest Quest for H sorry I don't really I don't remember any R I know what's going on but I'll kill it",
+    "actually": "This is the bug they throw at me elsewhere. If I kill it, will he no longer notice or lose an attack? That is the same rat whose side quest I am doing? Sorry, I do not remember any rat. I know what is happening, but will kill it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2419,
+      2425
+    ],
+    "raw": "see yo what's up uban oh they had the same stupid move wait I'm not getting damage for the cluse you just stay still I really would like to else what other moves you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2419,
+      2421
+    ],
+    "raw": "See yo what's up uban oh they had the same stupid move.",
+    "actually": "Hello, Uban. They have the same irritating move.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2421,
+      2424
+    ],
+    "raw": "Wait I'm not getting damage for the cluse you just stay still I really would like to.",
+    "actually": "Am I not taking damage from the clones? Could you remain still? I would like to.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2425,
+      2429
+    ],
+    "raw": "Else what other moves you got how about I just do this [ __ ] cuz we give no [ __ ] I figured it would come back to be honest.",
+    "actually": "What other moves do you have? I will do this [ __ ], because we give no [ __ ]. I expected it to return.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2430,
+      2435
+    ],
+    "raw": "come on monkeys some of you are just sitting around there what the heck okay I need more stamina I don't really know if the monkeys were worth it wait you look familiar",
+    "actually": "Monkeys, some of you are sitting idle. I need more stamina; I am unsure the monkeys were worthwhile. You look familiar.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2436,
+      2440
+    ],
+    "raw": "a I wonder if he turn he's going to turn evil he just basically take away his ability right bug still work",
+    "actually": "Will he become evil? You are essentially taking his ability away, correct? The bug still works?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2441,
+      2445
+    ],
+    "raw": "okay oh never work all right I'll see you in a bit not sure where he's coming from this time",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2442,
+      2447
+    ],
+    "raw": "All right I'll see you in a bit not sure where he's coming from this time excuse me I can't see.",
+    "actually": "I will see you shortly. I am unsure which direction he is coming from this time. Excuse me; I cannot see.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2447,
+      2449
+    ],
+    "raw": "It's not a hard fight I don't do a lot of damage.",
+    "actually": "It is not difficult, but I deal little damage.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2450,
+      2456
+    ],
+    "raw": "hello what what happened oh no they can't stand your drum drum music they hate Rock hey is it dead how am I supposed to do this I'm sorry what what am I supposed to do",
+    "actually": "What happened? They dislike your drumming and rock music. Is it dead? What am I supposed to do?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2458,
+      2465
+    ],
+    "raw": "Uh grab it how am I supposed to grab it with RT okay I could climb there like using a shrine I see okay I'm really glad this is not time because this is this is a very slippery slope there you go.",
+    "actually": "Grab it? How, with RT? I can climb there, like using a shrine? I understand. I am glad there is no time limit; this is slippery.",
+    "status": "SFT",
+    "reason": "Retain source time rather than correcting grammar to timed."
+  },
+  {
+    "source_segments": [
+      2465,
+      2474
+    ],
+    "raw": "I thought he wanted me to attack it like it it's a shell have to kill you now I already got behind him though I could leave why does he turn evil if he used to be so nice we could have been friends what happened.",
+    "actually": "I thought he wanted me to attack its shell. Do I need to kill you? I already got behind him and could leave. Why does he become evil after being nice? We could have been friends; what happened?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2474,
+      2477
+    ],
+    "raw": "happened did someone steal mini she was a little bit of a slot oh [ __ ] oh [ __ ] I'm just",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2475,
+      2480
+    ],
+    "raw": "Oh [ __ ] oh [ __ ] I'm just going it's a tedious fight bro holy crap wow actually useful.",
+    "actually": "Oh [ __ ], oh [ __ ]. I am going; it is tedious. That is useful.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2481,
+      2488
+    ],
+    "raw": "I don't risk it oh okay so there's a little sound wave you might die wait can I just let him take the thing oh holy crap I don't know what's going on he he he does damage on his own right I hope so",
+    "actually": "I will not risk it. There is a small sound wave; you might die. Could I let him take it? I do not know what is happening; he deals damage himself, correct? I hope so.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2490,
+      2497
+    ],
+    "raw": "Sh all right you're on your own see ya oh [ __ ] you're on your own see ya go do damage please I have minimal health why doesn't he not do any damage yeah he did it he did I was going to deliver the final kill though I was going to deliver the final one he did it.",
+    "actually": "You are on your own; goodbye. Oh [ __ ], please deal damage. I have little health; why does he do no damage? He did it. I intended to deliver the final blow.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2498,
+      2501
+    ],
+    "raw": "it now this makes me mix like killing him good job still not my type still not my type though but good job",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2499,
+      2501
+    ],
+    "raw": "Good job still not my type still not my type though but good job.",
+    "actually": "Well done. Still not my type, though; well done.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2502,
+      2506
+    ],
+    "raw": "he's going to give you a buck of Plenty you know I'm going to kill you now I only have one HP and it's a dream see it was just a dream it was just a dream",
+    "actually": "He will give you a Buck of Plenty. I will kill you now; I have one health point. It is a dream; only a dream.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2507,
+      2511
+    ],
+    "raw": "dang okay I so we have bleed in an hour I'm going to try giving it like a one more fight wait I have the item now right please tell me I have the",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2508,
+      2512
+    ],
+    "raw": "I'm going to try giving it like a one more fight wait I have the item now right please tell me I have the item.",
+    "actually": "I will try one more fight. I have the item now, correct? Please tell me I have it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2512,
+      2517
+    ],
+    "raw": "Oh what a kooky dream do I have 1 HP and it is a dream I have the item Wind Tamer screw you though for for making this a thing wait wait is that four oh I'm healed.",
+    "actually": "What a strange dream. I have one health point, and it is a dream? I have Wind Tamer. Forget you for making this necessary. Wait, is that four? I am healed.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2518,
+      2524
+    ],
+    "raw": "four you're a statue never mind all right I'm I'm teleporting go teleport no jutu you got to equip it what the fudge okay is it uh it's a weapon upgrade material I can't believe you have to equip it okay",
+    "actually": "Four? You are a statue; never mind. I am teleporting, teleport no jutsu. Do I need to equip it? Is it a weapon-upgrade material? I cannot believe it must be equipped.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2525,
+      2536
+    ],
+    "raw": "that it's like a key item uh where do I equip it at increases attack defense I think I replace that hold on let me replace this really quick okay so maybe oh so this just mean we have immunity this just mean that do I have to use it and then it goes it makes all the wind go away or is it automatic also we got armor defense",
+    "actually": "It is like a key item; where do I equip it? It increases attack and defense; I think I will replace that. Does it give immunity? Do I activate it to remove the wind, or is it automatic? We also got armor defense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2443,
+      2443
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2457,
+      2457
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2471,
+      2471
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2489,
+      2489
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

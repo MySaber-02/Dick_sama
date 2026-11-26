@@ -1,0 +1,16 @@
+{
+  "clean_records": 543,
+  "low_contexts": 49,
+  "source_segments": 2503,
+  "original_sha256": {
+    "txt": "3182a0748e6217a0b1a8f8dee9042ae9bf87c659fea26ef7df90cda5105f7899",
+    "json": "55b239cd921b3506832b79a92b24605b10e3b3c43cf48016b9fdf35026dfd5ea"
+  },
+  "originals_moved": true,
+  "crawler_en_residual": false,
+  "mask_occurrences_source": 44,
+  "mask_occurrences_clean": 44,
+  "schema": "passed",
+  "raw_max_characters": 351,
+  "duplicate_policy": "Real repeated speech retained; only same-source subtitle-fragment overlap removed by explicit boundaries."
+}

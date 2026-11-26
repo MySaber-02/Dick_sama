@@ -1,0 +1,501 @@
+[
+  {
+    "source_segments": [
+      1801,
+      1807
+    ],
+    "raw": "There we go. Okay, wow, hey, I don’t think we’re going to be able to catch him with a catch. Oh, no, careful, careful. There you go, there you go. Okay, again, okay, I’m going to stay stay here soent kill.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1802,
+      1804
+    ],
+    "raw": "I don’t think we’re going to be able to catch him with a catch. Oh, no, careful, careful.",
+    "actually": "I do not think we can catch him with a catch. Be careful.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1808,
+      1817
+    ],
+    "raw": "Okay I’ll get the little ones cat catch the little ones too to make Perell more powerful okay he’s right in front of no go what come on sweet don’t you want to lose I guess not please just get rid of the small one okay it’s okay they’re going for me it’s fine it’s fine oh no oh no oh no should",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1808,
+      1810
+    ],
+    "raw": "Okay, I’ll get the little ones. Catch catch the little ones too to make Pero more powerful.",
+    "actually": "I will get the small ones. Catch them too to strengthen Pero.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1814,
+      1817
+    ],
+    "raw": "Please just get rid of the small one. Okay, it’s okay, they’re going for me. It’s fine, it’s fine. Oh, no, oh, no, oh, no.",
+    "actually": "Remove the small one. They are targeting me, but it is fine. Unfortunately.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1818,
+      1826
+    ],
+    "raw": "Po I don’t think it’s going to happen oh no no no uhoh oh no here there’s some there’s some space you can capture we can get the babies bab go for to capture that one baby ni",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1818,
+      1820
+    ],
+    "raw": "I don’t think it’s going to happen. Oh, no, no, no, uh-oh, oh, no.",
+    "actually": "I do not think it will happen. That is concerning.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1823,
+      1825
+    ],
+    "raw": "We can get the babies. Go for, to capture that one.",
+    "actually": "We can get the babies; capture that one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1827,
+      1831
+    ],
+    "raw": "Nice, there you have your very own Pero. Congratulations. Thank you. What should we do to him? Anything your heart desires.",
+    "actually": "You have your own Pero; congratulations. Thank you. What should we do to him? Whatever you desire.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1832,
+      1839
+    ],
+    "raw": "Well, we have to mix it up, you know, take care of him. This is this is people know. I don’t have a key. Oh, I don’t have a key either. What key do you need? Copper one. Whatever, whoever has a copper key gets it. I don’t think any of us have a copper key.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1832,
+      1833
+    ],
+    "raw": "Well, we have to mix it up, you know, take care of him.",
+    "actually": "We need to mix it up; take care of him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1834,
+      1839
+    ],
+    "raw": "I don’t have a key. Oh, I don’t have a key either. What key do you need? Copper one. Whatever, whoever has a copper key gets it. I don’t think any of us have a copper key.",
+    "actually": "I have no key. Neither do I. What kind is needed? Copper. Whoever has a copper key gets it, but I do not think anyone has one.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1840,
+      1848
+    ],
+    "raw": "Oh, oh, he’s the strongest; you just need 600 of him. What? Okay. I think we should get Fang for Nerissa. It’s it’s it’s the mount that I use that’s super fast. It’s only 25, so I think we should be able to do it. Yeah, I want it. Uh, we go north.",
+    "actually": "He is the strongest; you need six hundred of him. What? We should get Fang for Nerissa, the fast mount I use. It is only level twenty-five, so I think we can manage it. I want it; go north.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1849,
+      1858
+    ],
+    "raw": "North guess it missed how do you run backwards run backward I think it’s just a glitch right now you guys are all running backwards yeah it’s probably a glitch oh Pero’s really strong I wonder if you can ride them if you put Pero with tiny Peros in the party for every tiny Pero in the party Pero gets stronger",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1850,
+      1858
+    ],
+    "raw": "How do you run backwards? Run backward, I think it’s just a glitch right now. You guys are all running backwards. Yeah, it’s probably a glitch. Oh, Pero’s really strong. I wonder if you can ride them. If you put Pero with tiny Peros in the party, for every tiny Pero in the party, Pero gets stronger.",
+    "actually": "How do you run backward? I think it is a glitch; everyone is running backward. Pero is strong; can you ride them? Each small Pero in the party strengthens Pero.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1858,
+      1866
+    ],
+    "raw": "There’s a cave over here if anyone wants to mark it on their map. You can mark stuff? Do you guys want to go in? We should do a team together. Yeah, this Jack it, let’s see.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1858,
+      1862
+    ],
+    "raw": "There’s a cave over here if anyone wants to mark it on their map. You can mark stuff? Do you guys want to go in? We should do a team together.",
+    "actually": "There is a cave here; you can mark it. You can mark things? Shall we enter as a team?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1868,
+      1877
+    ],
+    "raw": "Okay into the cave we got how do we go in the cave I think we have to wait for them load there you go enter oh enter okay okay Biboo lead us through surely you know the inside of I don’t know way you guys explore there this cute little thing what’s the the and there bus I’ll try okay not oh ni nice yes",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1868,
+      1874
+    ],
+    "raw": "Okay, into the cave we go. How do we go in the cave? I think we have to wait for them load. There you go, enter. Oh, enter. Okay, okay, Biboo, lead us through. Surely you know the inside of. I don’t know. You guys explore.",
+    "actually": "Let us enter the cave. How? I think we need to wait for it to load. Select enter. Biboo, lead us; surely you know it. I do not; explore.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1879,
+      1887
+    ],
+    "raw": "Yeah cute there’s some thugs here too oh take them out Goldie are you around no where’s Goldie is good at this I cancel oops oh that’s B whoops okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1880,
+      1883
+    ],
+    "raw": "There’s some thugs here too. Oh, take them out. Goldie, are you around? No, where’s Goldie? Goldie is good at this.",
+    "actually": "There are thugs too; defeat them. Where is Goldie? Goldie is good at this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1888,
+      1896
+    ],
+    "raw": "I will follow you. Keep exploring. What the, I’m just hugging the right wall. I’m going through every right ent entrance. Right, it’s kind of cool over here. Yeah, oh, oh, there’s some. I don’t know if this is correct, but I’m going. I think it’s dead.",
+    "actually": "I will follow you; keep exploring. I am following the right wall and taking every right entrance. It is interesting here. I do not know whether this is correct, but will continue. I think it is dead.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1897,
+      1905
+    ],
+    "raw": "Oh bugs we here oh we we’re not going on our own right but he’s dying oh we’re here we’re here okay Isa killing them I think so we must be going in circles then yeah no get him there’s a Fuddler oh we could get those guys too oh there’s another",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1898,
+      1902
+    ],
+    "raw": "We we’re not going on our own, right? But he’s dying. Oh, we’re here, we’re here. Okay, killing them? I think so. We must be going in circles then, yeah.",
+    "actually": "We are not going alone, correct? He is dying; we are here. Are they killing them? I think so. We must be going in circles.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1903,
+      1905
+    ],
+    "raw": "No, get him. There’s a Fuddler. Oh, we could get those guys too.",
+    "actually": "Get him; there is a Fuddler. We could catch them too.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1906,
+      1907
+    ],
+    "raw": "M you going to get him did I",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1908,
+      1912
+    ],
+    "raw": "Miss. There’s uh two entrances here, the left and the right. Yeah, that’s why I’m hugging the right. All right, let’s go right then. Yeah, let’s let’s follow the plan.",
+    "actually": "There are two entrances, left and right. That is why I follow the right wall. Let us go right and follow the plan.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1913,
+      1918
+    ],
+    "raw": "What it’s a M what that the little mooss oh that’s C I tried to catch him heck is this and I can’t see sometimes are we not going inside this",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1918,
+      1926
+    ],
+    "raw": "Sometimes, are we not going inside this one? Let’s follow lead. I’m in like a giant room that like with a tree. It’s passing. No, no, there’s no tree, it’s like corridors, it’s like hallways. Oh, wait, there’s something even in here. All right, oh, yeah, okay, I found the tree. It’s the tree, the tree. Yeah, there’s a giant Tombat here.",
+    "actually": "Are we not entering this one? Follow the lead. I am in a large room with a tree. There is no tree here, only corridors. I found the tree; there is a large Tombat here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1928,
+      1934
+    ],
+    "raw": "Okay, okay, so we’re looking for the tree? Yeah, if you’re at the beginning, if you went through every single right entrance, go and just hug the wall and went through every first entrance you found on the right, then you should get here.",
+    "actually": "Are we looking for the tree? From the beginning, follow the wall and take each first entrance on the right to reach here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1934,
+      1940
+    ],
+    "raw": "Oh, oh, we found a chest. No, this is a, this is a treasure. Oh, oh, but only one of us can get it, right? Or, yeah, rock paper scissors, paper scissors. Well, I guess some scissors cuz I’m Shiori. But then we can all, let’s just yell it out then.",
+    "actually": "We found a chest, a treasure. Only one person can take it, correct? Rock-paper-scissors. I suppose scissors, because I am Shiori. Let us shout our choices.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1941,
+      1948
+    ],
+    "raw": "Okay, I will do it for us. We’ll yell out the rock paper scissors, and then we yell out our answer. Okay, I guess, sure. Okay, wait wait wait, a count of three, three two one, and then yell out. Count three, just rock paper scissors and then. Okay, we’ll do three rounds. Okay, yeah, yeah, okay, representative.",
+    "actually": "I will lead. We say rock-paper-scissors, then shout our answers. On three: three, two, one. We will play three rounds, with a representative.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1949,
+      1953
+    ],
+    "raw": "Okay, okay, rock paper scissors. Scissors. Scissors. Wait, what? Oh, I don’t need it, it’s okay, you could just have it. Okay, thank you. No problem.",
+    "actually": "Rock-paper-scissors. Scissors; scissors. What? I do not need it; you can have it. Thank you; no problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1953,
+      1959
+    ],
+    "raw": "Oh, so much. Should we share the gold we got anyway? Cuz I would have said rock. Do you want some of the gold we got? We got like 500. No, it’s okay, I have some gold. Okay, thank you. No problem.",
+    "actually": "Should we share the gold anyway? I would have chosen rock. Would you like some of the approximately five hundred gold? No; I have gold. Thank you; no problem.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1959,
+      1968
+    ],
+    "raw": "Oh now we got to climb out of here is going okay for me are you guys going to are you guys going be able to get here okay yeah we’re looking I think we’re a little bit lost yeah I think we a lot of climbing a lot of climb yeah I hope you’re you’re well stamed up stamin up yeah Stam what wait what’s going on there you you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1959,
+      1967
+    ],
+    "raw": "Oh, now we got to climb out of here. Are you guys going to, are you guys going be able to get here okay? Yeah, we’re looking. I think we’re a little bit lost. Yeah, I think we, a lot of climbing, a lot of climb. Yeah, I hope you’re you’re well stammed up, stamina up, yeah.",
+    "actually": "We need to climb out. Can you reach here? We are looking, but I think we are a little lost. There is much climbing; I hope your stamina is sufficient.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1969,
+      1978
+    ],
+    "raw": "Okay no there’s a pile that’s about to go of the mine oh there’s another Daedream that one’s not mine if you want to capture oh they’ve respawned oh bad guys yeah bad guys yeah with Daedream go clean it up does my work for me huh take care of them Rie R’s not doing anything I use them for my FPS practice",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1971,
+      1978
+    ],
+    "raw": "Oh, there’s another Daedream. That one’s not mine if you want to capture. Oh, they’ve respawned. Oh, bad guys. Yeah, bad guys. Go clean it up. Does my work for me. I use them for my FPS practice.",
+    "actually": "There is another Daedream, not mine, if you want to catch it. The enemies respawned. Clear them out; it does my work for me. I use them for shooting practice.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1978,
+      1985
+    ],
+    "raw": "Smart, we should be doing that. It’s fine. Okay, find Lissa finda. Oh, no, you died. Oh, I think this is the right, oh, man. Right, I’ll take this, I think I think this is it, I’m pretty sure, it looks new. Yeah, I don’t, this isn’t familiar. It looks menacing.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1978,
+      1979
+    ],
+    "raw": "Smart, we should be doing that. It’s fine.",
+    "actually": "Clever; we should do that. It is fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1980,
+      1985
+    ],
+    "raw": "Oh, no, you died. Oh, I think this is the right, oh, man. Right, I’ll take this. I think I think this is it, I’m pretty sure, it looks new. Yeah, I don’t, this isn’t familiar. It looks menacing.",
+    "actually": "You died. I think this is the correct way; I will take it. I am quite sure, because it looks new and unfamiliar. It looks threatening.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1986,
+      1996
+    ],
+    "raw": "This way. Uh, did we come here before? Maybe, maybe it’s starting to look familiar. Yeah, but if we stick to the right. Wait wait wait wait, other way, other way, the the right section then. This is what happens when a gang splits up. Yeah, whoops, I get lost, huh. This the right side? Yeah, yeah, yeah, it’s this way.",
+    "actually": "This way. Have we been here? It may be becoming familiar. Stay right—wait, the other way, the right section. This happens when a group separates; I get lost. Is this the right side? Yes, this way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1997,
+      2000
+    ],
+    "raw": "Are you okay? Yeah, I’m fighting thugs before you guys get here to clear out the room. Okay, thank you. How efficient.",
+    "actually": "Are you all right? I am defeating thugs to clear the room before you arrive. Thank you; efficient.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2001,
+      2005
+    ],
+    "raw": "Yeah oh oh that’s a big b hi we’re here okay okay so he’s only level 10 and his health isn’t that crazy okay okay he got to not kill it yeah he’s reasonable huh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2001,
+      2005
+    ],
+    "raw": "Hi, we’re here. Okay, okay, so he’s only level 10, and his health isn’t that crazy. Okay, okay, we got to not kill it. Yeah, he’s reasonable.",
+    "actually": "We are here. He is only level ten and has a reasonable amount of health. We must avoid killing it; he is manageable.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2006,
+      2013
+    ],
+    "raw": "So then I should probably take back Goldie. Probably, Goldie likes to kill everything. If you hit, if you have Goldie out and hold four, you can command Goldie to not attack. It’s only level 10, though, so I think I’ll be okay. Yeah, yeah. Oh, it it respawned. It got, oh, oh no, it’s a CH doog now.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2006,
+      2011
+    ],
+    "raw": "So then I should probably take back Goldie. Probably, Goldie likes to kill everything. If you hit, if you have Goldie out and hold four, you can command Goldie to not attack. It’s only level 10, though, so I think I’ll be okay. Yeah, yeah.",
+    "actually": "I should probably recall Goldie, who tends to kill everything. Holding four lets you order Goldie not to attack. It is only level ten, so I think I will be fine.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2014,
+      2020
+    ],
+    "raw": "Oh, oh man, I didn’t know it like uh it changes. Yeah, you have to stay in the room if you. No, no, it’s not your fault. Here, we could just destroy this. Do anyone, oh sh, no, to catch it. Oh, it went too late, I guess.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2014,
+      2018
+    ],
+    "raw": "Oh, oh man, I didn’t know it like uh it changes. Yeah, you have to stay in the room if you. No, no, it’s not your fault. Here, we could just destroy this.",
+    "actually": "I did not know it changes. You need to remain in the room if you—It is not your fault; we can destroy this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2021,
+      2029
+    ],
+    "raw": "Oops, destroy, destroy. It’s just doing what it wants to do best, is rolling around at the speed of. Yeah, what’s this, places to go, he’s got to follow his rainbow, you know. Hey, there’s another chest here, I’m going go ahead and open one of these two, them. Okay.",
+    "actually": "Destroy it. It is doing what it does best, rolling at speed, with places to go and its rainbow to follow. There is another chest here; I will open one of the two.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2030,
+      2030
+    ],
+    "raw": "Raa, okay, leaving the dungeon.",
+    "actually": "Leaving the dungeon.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1867,
+      1867
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1878,
+      1878
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1885,
+      1885
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1927,
+      1927
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1995,
+      1995
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

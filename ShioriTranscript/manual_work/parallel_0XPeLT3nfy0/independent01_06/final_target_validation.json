@@ -1,0 +1,17 @@
+{
+  "review_files": [
+    "part01_02.explicit_review.json",
+    "part03_04.explicit_review.json",
+    "part05_06.explicit_review.json"
+  ],
+  "source_frame_targets_valid": true,
+  "all_recovery_original_row_targets_are_LOW": true,
+  "all_replacement_original_row_targets_are_SFT": true,
+  "source_range_bounds_valid": true,
+  "final_conservative_exclusions": [
+    "part01 source204–206 crise/CR not expanded into Cremis; keep LOW",
+    "part03 source520–522 Cris not expanded into Cremis; keep LOW"
+  ],
+  "canonical_files_modified": false,
+  "handoff_status": "Complete independent review; parent integrates and performs final full-file source/mask/hash validation."
+}

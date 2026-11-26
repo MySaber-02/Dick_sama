@@ -1,0 +1,572 @@
+[
+  {
+    "source_segments": [
+      1571,
+      1574
+    ],
+    "raw": "Sh is rough oh huh wait oh I guess we can back now but I have the um church and the uh Castaway Beach sorry",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1574,
+      1579
+    ],
+    "raw": "Yeah, what’s up? Did you spawn? Yeah, um, I got the teleporter and then I’m just getting my items back. Oh, you got the teleport already? Yeah. Oh, okay, so this way, follow me. Okay, hold up, let me take all my items.",
+    "actually": "Did you respawn? I got the teleporter and am retrieving my items. Already? Yes. Follow me this way. Wait; let me collect my items.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1580,
+      1584
+    ],
+    "raw": "Okay I’ll be there oh wait did I go to the wrong one to the wrong island is it not SE AR yeah different C archel Reef oh Gold Reef okay well guess I got to die again",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1580,
+      1581
+    ],
+    "raw": "Okay, I’ll be there. Oh, wait, did I go to the wrong one, to the wrong island?",
+    "actually": "I will be there. Did I go to the wrong island?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1584,
+      1589
+    ],
+    "raw": "Okay, well, guess I got to die again. Okay, hold on, I’ll wait for you here. All right, I’ll just keep my, all right, time to die. Some pretty dark stuff.",
+    "actually": "I suppose I need to die again. I will wait here. Time to die; that is rather dark.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1589,
+      1593
+    ],
+    "raw": "It’s pretty hot let’s got one of those all right Arch something Reef okay arago arago that’s like",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1594,
+      1598
+    ],
+    "raw": "Okay, am I in the right place? Yes, you are. Hello. Oh, hey, what’s up? Okay, let’s go get the teleport and then get our stuff back. Oh, hey, there’s a random dude here too.",
+    "actually": "Am I in the correct place? Yes; hello. Let us get the teleporter, then retrieve our belongings. There is also a stranger here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1599,
+      1601
+    ],
+    "raw": "Do you get free stuff? I give free stuff, I’ll kill you. Right, is it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1599,
+      1600
+    ],
+    "raw": "Do you get free stuff? I give free stuff, I’ll kill you.",
+    "actually": "Do you receive free items? I give free items; I will kill you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1602,
+      1607
+    ],
+    "raw": "Archipel? It’s not archipel. I’m just going to say it’s Michelangelo. Correct. Ar ar, it’s not saying, arel, archipelago. Okay, Antarctica. Archipelago.",
+    "actually": "Archipel? That is not it. I will call it Michelangelo. Correct; archipelago. Antarctica. Archipelago.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1608,
+      1613
+    ],
+    "raw": "Like there more the live W this oh no that’s not that’s a P oh hey is this also Canadia it’s a very pretty place we blend in mini Canadia yeah mini Canadia I guess",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1610,
+      1613
+    ],
+    "raw": "Oh, hey, is this also Canadia? It’s a very pretty place. We blend in. Mini Canadia. Yeah, mini Canadia, I guess.",
+    "actually": "Is this also Canadia? It is beautiful, and we blend in. Mini Canadia, I suppose.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1614,
+      1623
+    ],
+    "raw": "Uh, uh-oh, Nerissa, don’t be angry. I think I’m lost. Oh, you’re lost? Oh, we’ll come pick you up. I’m pretty sure you have this teleport, Nerissa, cuz I I don’t have one that I don’t have one that says that for the name. Oh, it’s um archipelago church. Yeah, I had that one. Yeah, yeah, went to that one. Oh, I see, I see.",
+    "actually": "Nerissa, do not be angry; I think I am lost. We will collect you. I am quite sure you have this teleporter. I do not have one with that name. Archipelago Church? I had that one and went there. I understand.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1624,
+      1629
+    ],
+    "raw": "Over here, I think. Yeah, there we go. And then use this to teleport back to your base, grab your stuff, and then come back. Okay. Smart. Yeah, okay, and back to the",
+    "actually": "I think it is here. Use this to return to your base, collect your belongings, and return. Clever.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1631,
+      1635
+    ],
+    "raw": "W there nice Str yeah I was like okay I’m not sure what we’re doing but now it all makes sense okay okay okay I’ll meet you guys there",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1633,
+      1635
+    ],
+    "raw": "Yeah, I was like, okay, I’m not sure what we’re doing, but now it all makes sense. Okay, okay, okay, I’ll meet you guys there.",
+    "actually": "I was unsure what we were doing, but now understand. I will meet you there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1636,
+      1643
+    ],
+    "raw": "Okay, make sure my Pals are well taken care of, moisturized, in their own lane. Let’s bring Melpaca with us this time so we have a Pal that we can ride. Come on, lady L, you do this pretty quick. This is my Melpaca. Yeah, I’ll bring it instead of the the silly deer. Yeah.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1636,
+      1640
+    ],
+    "raw": "Okay, make sure my Pals are well taken care of, moisturized, in their own lane. Let’s bring Melpaca with us this time so we have a Pal that we can ride.",
+    "actually": "Ensure my Pals are well cared for, moisturized, and minding their own business. Let us bring Melpaca so we have a mount.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1641,
+      1643
+    ],
+    "raw": "This is my Melpaca. Yeah, I’ll bring it instead of the the silly deer. Yeah.",
+    "actually": "This is my Melpaca. I will bring it instead of the silly deer.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1643,
+      1648
+    ],
+    "raw": "Ah but I should bring where is ah the shiny oh there he is fish huh fish is kind of don’t know we can bring fish let’s name a fish you know the spelling",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1645,
+      1648
+    ],
+    "raw": "Ah, the shiny. Oh, there he is, Fish. We can bring Fish. Let’s name a Fish. You know the spelling, right?",
+    "actually": "There is the shiny, Fish. We can bring Fish. Let us name Fish; you know the spelling, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1649,
+      1655
+    ],
+    "raw": "No. Lowercase F, uppercase I. Oh, really? Am I no longer glitched? Can I not attack you anymore? You’re not attacking me. Oh, I guess I guess the glitch fixes itself. Yeah. All right, I’ll be there soon, I’m just upgrading my items really quick.",
+    "actually": "Lowercase f, uppercase I. Am I no longer glitched? Can I no longer attack you? You are not attacking me. I suppose the glitch fixes itself. I will be there soon, after upgrading my items.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1655,
+      1663
+    ],
+    "raw": "You want to bring Fish? Yeah, a fish out of water, please. Or it could be a land fish. Goldie is so strong though. Why? Goldie is strong. Let’s let’s fast travel now. Okay, oh, green’s better. Okay, bring Fish, bring Fish, bring Fish, bring Fish. I want to see Fish. No wants to see Fish.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1655,
+      1660
+    ],
+    "raw": "You want to bring Fish? Yeah, a fish out of water, please. Or it could be a land fish. Goldie is so strong though. Why? Goldie is strong. Let’s let’s fast travel now. Okay, oh, green’s better.",
+    "actually": "Bring Fish? Yes; a fish out of water, or a land fish. Goldie is very strong. Why? Goldie is strong. Let us fast travel. Green is better.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1661,
+      1662
+    ],
+    "raw": "Okay, bring Fish, bring Fish, bring Fish, bring Fish. I want to see Fish.",
+    "actually": "Bring Fish; I want to see Fish.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1664,
+      1668
+    ],
+    "raw": "Are shinies always stronger? Yeah, shinies have a buff on them, a permanent buff that gives 15% attack and work speed, so they they are generally stronger. Yeah, Fish.",
+    "actually": "Are shinies always stronger? They have a permanent buff giving fifteen percent attack and work speed, so they are generally stronger.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1670,
+      1674
+    ],
+    "raw": "Oh my gosh. I’ll be there soon, I got to make a gun. Oh, and then they usually have like a random move that’s super powerful.",
+    "actually": "I will be there soon; I need to make a gun. They usually also have a very powerful random move.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1674,
+      1678
+    ],
+    "raw": "There it is there it is show me Fish Fish Fish Fish oh one second yeah okay Fish Fish this one there we are someone else can do that wait I already have a gun oh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1674,
+      1678
+    ],
+    "raw": "There it is, there it is. Show me Fish. Fish Fish Fish. Oh, one second. Yeah, okay, Fish Fish. This one, there we are. Someone else can do that. Wait, I already have a gun.",
+    "actually": "There it is; show me Fish. One moment; this one. Someone else can do that. I already have a gun.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1680,
+      1687
+    ],
+    "raw": "Fish. Ah, he’s flying now. All right, I’m here. Oh, it’s so dark. Hello. Oh, nice Fish, he’s so big. He’s a big break one big chicken. Yeah, see, yeah, look at all. Oh, I need ammo though. I have a gun but no ammo. All right, lead the way.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1680,
+      1683
+    ],
+    "raw": "Fish. Ah, he’s flying now. All right, I’m here. Oh, it’s so dark. Hello. Oh, nice Fish, he’s so big.",
+    "actually": "Fish is flying now. I am here; it is dark. Hello. Fish is very large.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1685,
+      1687
+    ],
+    "raw": "Oh, I need ammo though. I have a gun but no ammo. All right, lead the way.",
+    "actually": "I need ammunition; I have a gun but no ammunition. Lead the way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1687,
+      1691
+    ],
+    "raw": "Okay follow people okay it’s time for sure just don’t let yourself fall to your deaths okay uh uh that’s the hard part yeah I’m just going to run",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1689,
+      1691
+    ],
+    "raw": "Just don’t let yourself fall to your deaths. Okay, uh uh, that’s the hard part. Yeah, I’m just going to run.",
+    "actually": "Avoid falling to your death. That is the difficult part; I will run.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1692,
+      1698
+    ],
+    "raw": "Okay, I’m going to wait. Can our can our Pal like swim? Yeah, but do they have like stamina too? If if the Pal loses stamina, though, they’ll start losing HP. Oh, and then we’ll start dying.",
+    "actually": "I will wait. Can our Pal swim? Does it also have stamina? If the Pal runs out of stamina, it starts losing health, and we start dying.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1699,
+      1706
+    ],
+    "raw": "Oops they scary we got to go Skyrim this huh where is oh we went across H we’re all waiting here okay yeah whoa they’re here oh oh they’re here okay yeah I saw I saw the fish still up on the ground what",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1699,
+      1700
+    ],
+    "raw": "Oops, they scary. We got to go Skyrim this, huh?",
+    "actually": "That is frightening; we need to do this like Skyrim, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1701,
+      1704
+    ],
+    "raw": "We’re all waiting here. Okay, yeah. Whoa, they’re here. Oh, oh, they’re here.",
+    "actually": "We are waiting here. They are here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1707,
+      1716
+    ],
+    "raw": "Oh, I wonder if I can, I wonder if I can. No, I don’t think I can grab them. This, hold on, I’m I’m going to grab this one really fast. Oh, wait, here, preferably not going to die. Oh, okay, I’ll help, I’ll this do from afar. Watch out, he’s probably, he might one-shot you.",
+    "actually": "I wonder if I can; I do not think I can catch them. Wait, I will catch this one quickly, preferably without dying. I will help from a distance. Be careful; he might kill you in one hit.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1716,
+      1723
+    ],
+    "raw": "Oh, dear, yeah, I think so. He sort of looks like you. Oh, oh, oh. Oh, we’re in a dangerous area, we’re in a dangerous area. I do two damage on him. We should probably just dodge. We should probably.",
+    "actually": "I think so; he resembles you. We are in a dangerous area. I deal two damage; we should probably dodge.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1725,
+      1732
+    ],
+    "raw": "Thought yeah yeah yeah I don’t really do a lot of damage but I’m here to Mo here go help Ingram at least I hope you can if you can I don’t blame you helping at all she helping Fish is helping yeah Fish is doing yeah",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1725,
+      1727
+    ],
+    "raw": "Yeah, yeah, yeah, I don’t really do a lot of damage, but I’m here.",
+    "actually": "I do little damage, but I am here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1730,
+      1732
+    ],
+    "raw": "Fish is helping. Yeah, Fish is doing, yeah.",
+    "actually": "Fish is helping.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1733,
+      1739
+    ],
+    "raw": "Watch out, watch out, watch out, watch out. Oh, hi. Nice, what? Oh, oh, oh, oh, no, I’m going to kill it. I need power. Okay.",
+    "actually": "Watch out. Hello; good. I am going to kill it; I need power.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1740,
+      1745
+    ],
+    "raw": "Oh is Fish gone Fish is gone H oh Fish is gone Fish went back to the ocean for now yeah oh nice okay okay nice oh no rence good oh that that gives 10 P Oil oh that’s so good",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1740,
+      1742
+    ],
+    "raw": "Oh, is Fish gone? Fish is gone. Oh, Fish is gone. Fish went back to the ocean for now. Yeah.",
+    "actually": "Is Fish gone? Fish has returned to the ocean for now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1744,
+      1745
+    ],
+    "raw": "Oh, that that gives 10 Pal oil. Oh, that’s so good.",
+    "actually": "That gives ten Pal oil; very good.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1746,
+      1748
+    ],
+    "raw": "Wow. All right, let’s go onward. All right, I’m going have to walk, my Pal dead. Okay, that’s fine, we go west.",
+    "actually": "Let us continue. I need to walk because my Pal is dead. That is fine; go west.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1749,
+      1761
+    ],
+    "raw": "Okay, there’s a there’s a teleporter, but right before the boss, to that. Oh, shiny. Yeah, we can all collect it, right, or is it just one person at a time? Yeah, we can all collect it. Oh, really? Oh, but I wouldn’t use them because there’s currently a glitch. I don’t know, did they fix the glitch yet? But there’s a glitch that makes the catch rate worse rather than, no. So I wouldn’t use it. I’ve already used it. It’s fixed, it’s fixed now. So you.",
+    "actually": "There is a teleporter before the boss. Can everyone collect it, or only one person? Everyone can. I would avoid using it because a glitch worsens the catch rate; has it been fixed? I have already used it. It is fixed now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1762,
+      1764
+    ],
+    "raw": "Okay M rest is resting huh y mhm sleepy you’re resty",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1764,
+      1768
+    ],
+    "raw": "What exactly are we going to fight? We are fighting Pero. Oh, yeah, we’re going to go fight Pero. What? I’m excited, I want to see what he look.",
+    "actually": "What are we fighting? Pero. I am excited to see him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1768,
+      1774
+    ],
+    "raw": "Wait sir did you have a Nox yet what oh no I don’t think so you don’t get it he’s so cute I’m going way oh no oh please go I’m trying to spare you from death oh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      1768,
+      1771
+    ],
+    "raw": "Did you have a Nox yet? What? Oh, no, I don’t think so. He’s so cute.",
+    "actually": "Do you have a Nox? I do not think so. He is cute.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1772,
+      1774
+    ],
+    "raw": "Oh, no, oh, please go, I’m trying to spare you from death.",
+    "actually": "Please leave; I am trying to keep you alive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1775,
+      1782
+    ],
+    "raw": "Nice, awesome. Okay, oh, there there’s a teleporter right there. Also a chest. Well, I think she found it first. We, I’m trying to to fall into something that doesn’t have a lot of water. Here you go.",
+    "actually": "Good. There is a teleporter and chest there. I think she found it first. I am trying to fall somewhere with little water. Here you are.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1783,
+      1787
+    ],
+    "raw": "Good, nice, clean. Yay. Okay, okay, now we are going to fight Pero. Let’s fight. All right. P P P P.",
+    "actually": "Good. We are going to fight Pero; let us fight.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1787,
+      1794
+    ],
+    "raw": "Everybody’s walking backwards. What, you running backwards? Why aren’t you? Huh, I don’t know how to. Oh, is it worth it? Did you want the Depresso? Yeah, sorry. It’s okay. Oh, it’s not even.",
+    "actually": "Everyone is walking backward. Are you? Why are you not? I do not know how. Is it worth it? Did you want Depresso? Yes, sorry. It is fine; it is not even—",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1796,
+      1800
+    ],
+    "raw": "Yeah, I think he’s around here. Pero. There. Make we catch him. Look, it’s Pero. Oh, I I hope not to kill him by accident, uh, so we better be careful.",
+    "actually": "I think Pero is around here. There he is; let us catch him. I hope we do not kill him accidentally, so be careful.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      1630,
+      1630
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1669,
+      1669
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1679,
+      1679
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1714,
+      1714
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1724,
+      1724
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      1795,
+      1795
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

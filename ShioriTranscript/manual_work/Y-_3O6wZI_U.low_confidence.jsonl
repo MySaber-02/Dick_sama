@@ -1,0 +1,49 @@
+{"source_segments": [14, 15], "raw": "sh in sh Nella", "reason": "Opening self-introduction ASR is damaged; do not invent the repeated name fragments.", "status": "LOW"}
+{"source_segments": [19, 19], "raw": "novits and novel lights", "reason": "Fan-name ASR uncertain; no inferred spelling for two distinct spoken labels.", "status": "LOW"}
+{"source_segments": [40, 41], "raw": "Oh, maybe cuz it's in 4k it gets scents weird on here", "reason": "The verb represented as scents is unclear; do not invent scaling or censorship action.", "status": "LOW"}
+{"source_segments": [48, 48], "raw": "Bo okay we got you got to close closer", "reason": "ASR contains unclear words and overlapping sentence start; retain separately.", "status": "LOW"}
+{"source_segments": [49, 50], "raw": "but before we actually like kill me", "reason": "Unclear conditional/self-reference; do not invent killing action or game trigger.", "status": "LOW"}
+{"source_segments": [88, 89], "raw": "I don't know what this dude that is", "reason": "ASR noun and clause boundary unclear; preserve rather than invent an object.", "status": "LOW"}
+{"source_segments": [148, 150], "raw": "I will be assuming not not anywhere near here actually this one not it I wait", "reason": "Unfinished assumptions and ASR boundaries are unclear; keep subsequent clear questions separately.", "status": "LOW"}
+{"source_segments": [197, 198], "raw": "I got thank for the SC and uh Hecker", "reason": "Acknowledgement/name ASR is fragmented; do not invent who is thanked.", "status": "LOW"}
+{"source_segments": [199, 199], "raw": "a ski a", "reason": "Unclear ASR syllables.", "status": "LOW"}
+{"source_segments": [281, 283], "raw": "I think there's supposed to be another double air chocolate on here", "reason": "Unclear piece description represented as double air chocolate; do not invent its geometry.", "status": "LOW"}
+{"source_segments": [350, 351], "raw": "hundo jander could work a violent jander", "reason": "Unclear recommended name/type; do not infer a specific AI service or roleplay category.", "status": "LOW"}
+{"source_segments": [415, 416], "raw": "the hot Dy uh chass type I guess whatever", "reason": "The descriptive ASR words Dy and chass are unclear; do not invent character traits.", "status": "LOW"}
+{"source_segments": [458, 458], "raw": "a bracket", "reason": "Object of the killing is uncertain ASR; do not infer a person, animal, or spoiler.", "status": "LOW"}
+{"source_segments": [465, 466], "raw": "is p Parton supposed to spread", "reason": "Uncertain part name/reference; preserve incomplete question rather than invent a geometry.", "status": "LOW"}
+{"source_segments": [503, 503], "raw": "soon it has", "reason": "Isolated ASR word before the stairs reference is unclear.", "status": "LOW"}
+{"source_segments": [593, 596], "raw": "lond his Dracula are sure it's not um I forgot where it's called actually or where it is", "reason": "The opening Dracula/location reference is ASR damaged; do not invent a destination.", "status": "LOW"}
+{"source_segments": [618, 618], "raw": "aitel", "reason": "Unclear food-name syllable; do not invent a German dish.", "status": "LOW"}
+{"source_segments": [696, 699], "raw": "By the way the town of fen is welcoming oo Fen is that where moment is", "reason": "Uncertain location and character-name ASR; do not infer a travel destination.", "status": "LOW"}
+{"source_segments": [751, 752], "raw": "okay let me here", "reason": "The action after let me is missing; do not infer.", "status": "LOW"}
+{"source_segments": [818, 818], "raw": "k y", "reason": "Unclear isolated name/syllables preceding next actor reference.", "status": "LOW"}
+{"source_segments": [838, 839], "raw": "but potential I'm this thing", "status": "LOW", "reason": "Unclear ASR phrase between circular piece reference and statement of uncertainty."}
+{"source_segments": [932, 932], "raw": "um he do", "reason": "Unclear name/verb fragment; do not guess the anime character.", "status": "LOW"}
+{"source_segments": [938, 938], "raw": "promise sein", "reason": "Title is ASR-damaged; do not infer a specific series from first-season commentary alone.", "status": "LOW"}
+{"source_segments": [1024, 1025], "raw": "the kassi Udi dude", "reason": "Unclear character-name ASR; do not invent a particular spelling.", "status": "LOW"}
+{"source_segments": [1110, 1111], "raw": "Shi down all the shippers", "status": "LOW", "reason": "Unclear initial verb phrase; do not invent profanity or infer shut/shoot from the ASR."}
+{"source_segments": [1153, 1153], "raw": "D", "reason": "Isolated ASR syllable between two ding sounds.", "status": "LOW"}
+{"source_segments": [1199, 1200], "raw": "K can I go white-hair demon", "reason": "The opening question/name boundary is unclear; do not infer a transformation action.", "status": "LOW"}
+{"source_segments": [1241, 1244], "raw": "what guess I what did you choose some piece no", "reason": "ASR phrase and incomplete question are not reliably interpretable.", "status": "LOW"}
+{"source_segments": [1259, 1259], "raw": "they like from B", "reason": "Unclear transition before character-name discussion.", "status": "LOW"}
+{"source_segments": [1264, 1265], "raw": "Yeah, Mouse is a jiggery", "status": "LOW", "reason": "The descriptive word jiggery is unclear ASR; do not invent a personality trait."}
+{"source_segments": [1276, 1277], "raw": "cat to boy", "reason": "Unclear ASR noun phrase; no inferred toy or person.", "status": "LOW"}
+{"source_segments": [1293, 1293], "raw": "I was trying to finish magam mode", "reason": "Unclear title or mode-name ASR; do not infer a particular game.", "status": "LOW"}
+{"source_segments": [1299, 1299], "raw": "need of H", "reason": "Unclear short phrase before page-navigation question.", "status": "LOW"}
+{"source_segments": [1332, 1332], "raw": "think St pieces though", "status": "LOW", "reason": "Unclear fragment before the next complete assembly instruction."}
+{"source_segments": [1381, 1381], "raw": "uh heart", "reason": "Unclear syllable after falling; no inference of a physical heart.", "status": "LOW"}
+{"source_segments": [1605, 1615], "raw": "oh where is it let me look at my but I put everything into that bag so I don't think it's yeah is supposed to be oh wait wait not H I cannot find it oh no I can't find", "status": "LOW"}
+{"source_segments": [1637, 1641], "raw": "there then it hugs here and it goes to do anything the other one doesn't have a hook though I think my cat's ate it so I'll ignore that", "status": "LOW"}
+{"source_segments": [1677, 1680], "raw": "one now uh if I want pink fr do step 53 I'm skipping back three yeah it is Pebbles I expect that", "status": "LOW"}
+{"source_segments": [1780, 1783], "raw": "you like Cades Cades are kind of like the calm type right you like d That's a sweet type I think think all right this part is uh", "status": "LOW"}
+{"source_segments": [1811, 1816], "raw": "interesting uh vtuber welcome welcome c 3 release next year yeah I heard about it's a prequel yeah I want the actual thing though I still need a finish though yeah he slept with M uh did I do these right I think I did", "status": "LOW"}
+{"source_segments": [1834, 1836], "raw": "gomi CTO Sao who's SEO again I'm trying to remember maybe it's Sao I think it could", "status": "LOW"}
+{"source_segments": [1841, 1843], "raw": "this you know zuda yeah I think it must have been SEO if he was but if I had to end up", "status": "LOW"}
+{"source_segments": [1928, 1932], "raw": "humor going up since that oh he was such a good guy oh bless his soul bless his soul I did try Bob b b yes that Park C probably a Wii", "status": "LOW"}
+{"source_segments": [2106, 2110], "raw": "good now it needs something with the thing cream cream the romance in the cream L cream is actually very inferior now that I've uh considered it reach in the", "status": "LOW"}
+{"source_segments": [2120, 2124], "raw": "difficult yeah cream cream is very it's okay it's crazy even nonnormal demon war is hard I know I turned into a demon and I even had a child with um his name started with", "status": "LOW"}
+{"source_segments": [2187, 2191], "raw": "it the UB is hilarious I see I see you want to you want to bet on this Punk we'll bet on it I bet nothing but we'll Bet On It where's the dark part here you're betting okay okay he's such", "status": "LOW"}
+{"source_segments": [2266, 2274], "raw": "deal now I I need the arm that goes like Mish uh which one goes like uh time to get slapped let's see that one no which one ghost looks like they're going my capish do you got the capish he this capish your capish Moto welcome welcome oh thank you", "status": "LOW"}
+{"source_segments": [1235, 1237], "raw": "now now I need to do something that uh my cat's hard to play with this thing", "reason": "Unclear ASR/grammar; do not rewrite it as cats had played. Clear following Pepper sentence retained separately."}
+{"source_segments": [1601, 1602], "raw": "I'm missing no this is on I am missing that Bri piece", "reason": "Unclear ASR describing the missing piece; do not guess gray/brown/branch. Clear following inability to find it retained separately."}

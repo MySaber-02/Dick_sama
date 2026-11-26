@@ -1,0 +1,533 @@
+[
+  {
+    "source_segments": [
+      2111,
+      2114
+    ],
+    "raw": "oh what what what why wait wait am I supposed to kill this guy am I supposed to kill him tell me tell me have fun what the hell",
+    "actually": "What? Why? Am I supposed to kill him? Tell me. Have fun? What?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2115,
+      2121
+    ],
+    "raw": "jeez ow it died okay I wasn't ready for that I have to unlock the secret what the heck I thought he was friendly why isn't he friendly is it cuz he's naked you do have to fight him well why I thought we were friends",
+    "actually": "It died; I was not ready. I need to unlock the secret. I thought he was friendly. Why is he not? Because he is naked? Why do I have to fight him? I thought we were friends.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2122,
+      2126
+    ],
+    "raw": "he wants to go he could have had it he didn't have to fight before it what the heck people are so cool why did you guys learn to be such bullies huh",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2124,
+      2126
+    ],
+    "raw": "What the heck people are so cool why did you guys learn to be such bullies huh.",
+    "actually": "What? People are very cool. Why did you learn to be bullies?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2127,
+      2134
+    ],
+    "raw": "Bor oh Jesus Christ you're Stam of the here I'm so sorry I have used your name he's testy I killed his brother maybe his brother should have been good sorry for killing your brother maybe you should like something you know oh he throws sand at you what a",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2128,
+      2131
+    ],
+    "raw": "I'm so sorry I have used your name he's testy I killed his brother maybe his brother should have been good sorry for killing your brother.",
+    "actually": "Sorry for using your name. He is irritable because I killed his brother. Perhaps his brother should have been good. Sorry for killing him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2134,
+      2135
+    ],
+    "raw": "Oh he throws sand at you what a piece of [ __ ].",
+    "actually": "He throws sand at you; what a [ __ ].",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2136,
+      2142
+    ],
+    "raw": "yeah you like uh oh crap ow ow you not thank you oh thank gosh it's uh wait no it didn't work didn't quite work I'm just going to use here right",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2140,
+      2143
+    ],
+    "raw": "Oh thank gosh it's uh wait no it didn't work didn't quite work I'm just going to use here right now.",
+    "actually": "Thankfully—wait, it did not work. I will use it here now.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2143,
+      2150
+    ],
+    "raw": "now I'm going to turn you to bacon tonight baby that's what I did with your brother I don't even know who I killed but I guess he was your brother bacon smells good delicioso ooh bacon crispy crispy crispy bacon o smells so good",
+    "actually": "I will turn you into bacon tonight, as I did your brother. I do not know who I killed, but apparently he was your brother. Bacon smells delicious; crispy bacon.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2151,
+      2157
+    ],
+    "raw": "I'm not going to you want this yeah long distance you like that you like that oh you want this I never got to use this this much but yeah ooh does it feel good oh yeah crispy",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2152,
+      2157
+    ],
+    "raw": "You want this yeah long distance you like that you like that oh you want this I never got to use this this much but yeah ooh does it feel good oh yeah crispy.",
+    "actually": "Do you want this? At long range; do you like that? I have never used this so much. Does it feel good?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2158,
+      2160
+    ],
+    "raw": "Bacon ow oh they're kind of weak they still alive what the fudge they.",
+    "actually": "They are rather weak. Are they still alive? What?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2161,
+      2165
+    ],
+    "raw": "second I know that smells actually kind of good maybe I should have used that before yeah screw screw the cloud stuff you can fit there but he's now",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2161,
+      2164
+    ],
+    "raw": "I know that smells actually kind of good maybe I should have used that before yeah screw screw the cloud stuff.",
+    "actually": "That smells good. Perhaps I should have used that earlier. Forget the cloud stuff.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2166,
+      2170
+    ],
+    "raw": "What wait is that is that what I use this item please tell me please tell me it's what to use damage no it's not is it even better it's not dang it there's more to it.",
+    "actually": "Is that what I use this item for? Please tell me. Damage? No; is it better? No, there is more to it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2170,
+      2177
+    ],
+    "raw": "Go through that door you think I could fit what if I gain weight uh it's actually pretty big never mind you do not have to open that door what are you doing you literally just go through the crack thank you.",
+    "actually": "Go through the door? Could I fit if I gained weight? It is quite large. Never mind; you need not open it, just go through the crack. Thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2177,
+      2191
+    ],
+    "raw": "you this a secret area is it a long oh my God all just to make that one boss easier you have to do fore fore fore fore fore fore speee fore speee obsession that's what I have the characters yeah better get an",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2177,
+      2181
+    ],
+    "raw": "This a secret area is it a long oh my God all just to make that one boss easier you have to do.",
+    "actually": "Is this a secret area? Is it long? All this to make one boss easier?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2189,
+      2191
+    ],
+    "raw": "Obsession that's what I have.",
+    "actually": "I have an obsession.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2190,
+      2195
+    ],
+    "raw": "The characters yeah better get an achievement the drunk said is gold here do you believe him no but I'm believing my chat right now he did not turn to bacon.",
+    "actually": "The characters. I had better get an achievement. The drunk says gold is here; do you believe him? No, but I believe my chat. He did not become bacon.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2196,
+      2199
+    ],
+    "raw": "OBS and garma welcome welcome I can't believe this is reir for the true Bend I didn't even know this game had multiple endings",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2197,
+      2199
+    ],
+    "raw": "I can't believe this is required for the true ending I didn't even know this game had multiple endings.",
+    "actually": "I cannot believe this is required for the true ending; I did not know the game had multiple endings.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2200,
+      2209
+    ],
+    "raw": "I could understand secret areas but not multiple endings I know I'm finally getting achievements as two endings normal and true I guess is one just like an extended ending or or maybe it matters a lot in the context of things for example Hollow Knight um normal ending not not Bueno other ending must Bueno",
+    "actually": "I understand secret areas, but multiple endings surprise me. I am finally getting achievements. Normal and true endings? Is one extended, or does the context differ significantly? In Hollow Knight, the normal ending is bad; the other is better.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2210,
+      2213
+    ],
+    "raw": "full of lore I see I'll probably have to I can't I need a secret item I'm",
+    "actually": "Full of lore; I see. I probably need—I cannot; I need a secret item. Sorry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2214,
+      2217
+    ],
+    "raw": "sorry okay but can we be friends we can be friends going to fight I just know it going to fight",
+    "actually": "Can we be friends? I know we will fight.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2218,
+      2224
+    ],
+    "raw": "I'm inter looting what are you going to do about it I'm sorry Tiger Vanguard I'll see you in Kung Fu Panda let's do this now.",
+    "actually": "I am interlooting; what will you do about it? Sorry, Tiger Vanguard; see you in Kung Fu Panda. Let us do this.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2224,
+      2229
+    ],
+    "raw": "Yeah what you going to do huh what you going to do when it comes for you you bad boys bad boys what you going to do what you going to do I'm coming for you I need more.",
+    "actually": "What will you do when I come for you? I am coming for you. I need more.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2229,
+      2235
+    ],
+    "raw": "Oh sorry my thing didn't activate you didn't have a second form do you watch this I can you're a lot easier than the other guy oh [ __ ] never mind I'm sorry I lied I lied you're like really tough you're super tough.",
+    "actually": "Sorry, my ability did not activate. You do not have a second form, do you? Watch this; you are easier than the other one—oh [ __ ], I lied. You are very tough.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2236,
+      2242
+    ],
+    "raw": "sorry sorry I should have said that Mak to happy I'm just a little aggressive oh jeez what you going to do want to do PL of many I got PL of many cuz I'm a [ __ ] py oh [ __ ] it didn't work my FX didn't work I'm",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2235,
+      2238
+    ],
+    "raw": "I'm sorry sorry I should have said that I'm just a little aggressive oh jeez.",
+    "actually": "Sorry; I should have said that. I am a little aggressive.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2239,
+      2240
+    ],
+    "raw": "What you going to do want to do PL of many I got PL of many.",
+    "actually": "What will you do? I have Pluck of Many.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2241,
+      2243
+    ],
+    "raw": "Oh [ __ ] it didn't work my FX didn't work I'm sorry.",
+    "actually": "Oh [ __ ], it did not work. My FX did not work; sorry.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2243,
+      2245
+    ],
+    "raw": "sorry okay I think I'm going to die actually I just have a feeling I have a feeling I'm going to die right",
+    "actually": "I think I am about to die; I have that feeling.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2246,
+      2250
+    ],
+    "raw": "now I got I got to uh I got to to to Shori I got toori yeah I guess he did interrupt though he did not want my [ __ ] up plenty first try first try okay let's",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2250,
+      2253
+    ],
+    "raw": "First try first try okay let's go no it was just a warm up oh you lose clones and Mana oh son of a freck.",
+    "actually": "First try; let us go. No, it was a warm-up. You lose clones and mana? Oh, son of a freck.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2253,
+      2257
+    ],
+    "raw": "What if I do it now oh that takes a half wait are they on a timer I actually don't know how to work you.",
+    "actually": "What if I do it now? That takes half. Are they on a timer? I do not know how to use you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2257,
+      2260
+    ],
+    "raw": "you yeah you like this don't you or you like being the big SP yeah actually don't know oh they disappeared okay never mind",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2257,
+      2260
+    ],
+    "raw": "Yeah you like this don't you oh they disappeared okay never mind.",
+    "actually": "Do you like this? They disappeared; never mind.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2262,
+      2270
+    ],
+    "raw": "oh shoot he's annoying that's what that means oh sh oh man he does interrupt a lot oh that's so annoying stop that I don't like getting interrupted you know how often I get interrupted when I talk like I literally just stay to wor and actually get interrupted fast so I didn't give up no wonder I Y",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2262,
+      2267
+    ],
+    "raw": "Oh shoot he's annoying that's what that means oh sh oh man he does interrupt a lot oh that's so annoying stop that I don't like getting interrupted you know how often I get interrupted when I talk.",
+    "actually": "He is annoying and interrupts frequently. Stop; I dislike interruptions. Do you know how often I am interrupted while talking?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2268,
+      2271
+    ],
+    "raw": "Like I literally just stay to wor and actually get interrupted fast so I didn't give up no wonder I Y here.",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2271,
+      2277
+    ],
+    "raw": "here what that didn't work okay not not the Run for Sho it's okay he can come at me it there you go I'm sorry I don't have to kill you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2271,
+      2275
+    ],
+    "raw": "What that didn't work okay not not the Run for Sho it's okay he can come at me.",
+    "actually": "That did not work; not the run for sure. It is fine; he can come at me.",
+    "status": "SFT",
+    "reason": "Preserve original odd Sho rather than guessing sure."
+  },
+  {
+    "source_segments": [
+      2276,
+      2282
+    ],
+    "raw": "There you go I'm sorry I don't have to kill you can I spare him I don't want to kill you oh is he bowing down to me if I turned around he's not going to kill me right.",
+    "actually": "There we are. Sorry; I do not have to kill you. Can I spare him? I do not want to kill you. Is he bowing? If I turn around, he will not kill me, correct?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2282,
+      2286
+    ],
+    "raw": "I got a tiger tally I guess I'll I'll focus on clearing it okay I want to heal I would I would like to heal.",
+    "actually": "I got a tiger tally. I will focus on clearing it, and would like to heal.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2286,
+      2290
+    ],
+    "raw": "heal you had a little bit of warm up then I kicked his ass I think that that's a good time to make sure he doesn't TR me he's friend now I don't know I have",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2286,
+      2287
+    ],
+    "raw": "You had a little bit of warm up then I kicked his ass.",
+    "actually": "A short warm-up, then I defeated him.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2290,
+      2293
+    ],
+    "raw": "He's friend now I don't know I have trust issues not severely enough to to debuff everyone but I have trust issues for more interesting lore.",
+    "actually": "He is a friend now? I have trust issues, though not enough to debuff everyone. More interesting lore.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2294,
+      2297
+    ],
+    "raw": "okay I'm just glad I didn't kill them I like it when you get options to spare but sometimes people are [ __ ] yes",
+    "actually": "I am glad I did not kill them. I like being able to spare people, though sometimes people are [ __ ].",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2299,
+      2302
+    ],
+    "raw": "kids anything else yes kids a no it's just automatic to spare H think of for being a page",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2301,
+      2302
+    ],
+    "raw": "A no it's just automatic to spare H think of for being a page.",
+    "actually": "It spares automatically.",
+    "status": "LOW",
+    "reason": "Uncertain closing thanks/page phrase; no evidence for invented thank you."
+  },
+  {
+    "source_segments": [
+      2303,
+      2307
+    ],
+    "raw": "oh Kingdom of sahali this is the past wait does that mean that he's technically dead there's a meditation Spot somewhere",
+    "actually": "Kingdom of Sahali; this is the past? Does that mean he is technically dead? There is a meditation spot somewhere.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2308,
+      2313
+    ],
+    "raw": "Oh wait wait wait it's so bright where's the meditation spot everything looks the same who's that I to kill him I got to kill him don't I keep going.",
+    "actually": "It is bright. Where is the meditation spot? Everything looks the same. Who is that? I need to kill him, do I not? Keep going.",
+    "status": "SFT",
+    "reason": "Keep original abandoned I to kill him; do not turn both into grammatical I got to."
+  },
+  {
+    "source_segments": [
+      2313,
+      2318
+    ],
+    "raw": "Oh hold up let me this oh no that's so sad oh that's horrible I don't want to oh no.",
+    "actually": "Wait; that is sad and horrible. I do not want to.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2318,
+      2320
+    ],
+    "raw": "no this looks like a meditation spot or just or the sand I don't know maybe that look I think there's a chest",
+    "actually": "Is this a meditation spot or only sand? I do not know. I think there is a chest there.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2133,
+      2133
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2261,
+      2261
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2298,
+      2298
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

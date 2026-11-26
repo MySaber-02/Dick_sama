@@ -1,0 +1,193 @@
+{
+  "patches": [
+    {
+      "part": "part09.json",
+      "row": 2,
+      "source_segments": [
+        1802,
+        1805
+      ]
+    },
+    {
+      "part": "part09.json",
+      "row": 15,
+      "raw": "How do you run backwards? Run backward, I think it’s just a glitch right now. You guys are all running backwards. Yeah, it’s probably a glitch. Oh, Pero’s really strong. I wonder if you can ride them. If you put Pero with tiny Peros in the party, for every tiny Pero in the party, Pero get stronger.",
+      "reason": "Preserve get rather than silently correcting agreement to gets."
+    },
+    {
+      "part": "part09.json",
+      "row": 19,
+      "raw": "Okay, into the cave we got. How do we go in the cave? I think we have to wait for them load. There you go, enter. Oh, enter. Okay, okay, Biboo, lead us through. Surely you know the inside of. I don’t know. You guys explore.",
+      "reason": "Keep source got rather than grammar-polishing to go."
+    },
+    {
+      "part": "part09.json",
+      "row": 21,
+      "raw": "There’s some thugs here too. Oh, take them out. Goldie, are you around? No, where’s Goldie? Is good at this.",
+      "reason": "Do not add another Goldie to fill missing subject; neutral meaning may use the established referent."
+    },
+    {
+      "part": "part09.json",
+      "row": 31,
+      "source_segments": [
+        1934,
+        1941
+      ],
+      "replace_records": [
+        {
+          "raw": "Oh, oh, we found a chest. No, this is a, this is a treasure. Oh, oh, but only one of us can get it, right? Or, yeah, rock paper scissors, paper scissors.",
+          "actually": "We found a chest, a treasure. Only one person can take it, correct? Rock-paper-scissors.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Well, I guess some scissors.",
+          "actually": "I suppose scissors.",
+          "status": "SFT"
+        },
+        {
+          "raw": "Cuz I’m shry.",
+          "reason": "Uncertain final ASR word; do not invent the name Shiori.",
+          "status": "LOW"
+        },
+        {
+          "raw": "But then we can all, let’s just yell it out then.",
+          "actually": "Let us all shout our choices.",
+          "status": "SFT"
+        }
+      ]
+    },
+    {
+      "part": "part09.json",
+      "row": 32,
+      "raw": "Okay, I will do it for us. We’ll yell out the rock paper scissors, and then we yell out our answer. Okay, I guess, sure. Okay, wait wait wait, I count of three, 3 two 1, and then yell out. Count three, just rock paper scissors and then. Okay, we’ll do three round. Okay, yeah, yeah, okay, representative.",
+      "reason": "Restore I count and three round original grammar. Digits kept as original."
+    },
+    {
+      "part": "part09.json",
+      "row": 33,
+      "source_segments": [
+        1948,
+        1953
+      ]
+    },
+    {
+      "part": "part09.json",
+      "row": 36,
+      "raw": "Oh, now we got to climb out of here. Are you guys going to, are you guys going be able to get here okay? Yeah, we’re looking. I think we’re a little bit lost. Yeah, I think we, a lot of climbing, a lot of climb. Yeah, I hope you’re you’re well stamed up, stamin up, yeah.",
+      "reason": "Keep stamed/stamin false starts, no new formal stamina word in raw."
+    },
+    {
+      "part": "part09.json",
+      "row": 41,
+      "source_segments": [
+        1979,
+        1985
+      ]
+    },
+    {
+      "part": "part09.json",
+      "row": 42,
+      "source_segments": [
+        1985,
+        1996
+      ]
+    },
+    {
+      "part": "part09.json",
+      "row": 45,
+      "raw": "Hi, we’re here. Okay, okay, so he’s only level 10, and his health isn’t that crazy. Okay, okay, he got to not kill it. Yeah, he’s reasonable.",
+      "actually": "We are here. He is only level ten and has a reasonable amount of health. He must avoid killing it; he is manageable.",
+      "reason": "Preserve source he; do not swap subject to we."
+    },
+    {
+      "part": "part10.json",
+      "row": 2,
+      "source_segments": [
+        2032,
+        2038
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 4,
+      "source_segments": [
+        2042,
+        2048
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 7,
+      "source_segments": [
+        2056,
+        2059
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 19,
+      "source_segments": [
+        2112,
+        2116
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 25,
+      "source_segments": [
+        2129,
+        2133
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 29,
+      "source_segments": [
+        2143,
+        2147
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 33,
+      "source_segments": [
+        2162,
+        2169
+      ]
+    },
+    {
+      "part": "part10.json",
+      "row": 47,
+      "raw": "No, no. No, it’s mine. It’s mine. Uh, I’m sorry, I’m right here, so you can get it.",
+      "reason": "There are three actual no occurrences plus an uncertain NOA fragment retained in parent LOW; remove invented fourth no."
+    }
+  ],
+  "approved_asr_spelling_only": {
+    "cat catch": "Catch catch; truncated first repeated catch in source1808–1809",
+    "Perell/P/perel/perrows/per": "Pero/Peros, established nickname not guessed species",
+    "uhoh": "Uh-oh punctuation",
+    "narissa/bi boo": "Nerissa/Biboo proper names from actual dialogue",
+    "Tom Cat": "Tombat; named Pal being fought",
+    "treat": "tree at source1926, repeated explicit tree landmark immediately before",
+    "TR paper scissors / Ro paper scissors": "rock paper scissors; repeated exact game named nearby",
+    "will yell": "We’ll yell in immediate first-person plan",
+    "yellow": "yell out at source1945 countdown instruction",
+    "sh the gold": "share the gold, repeated full share offer after",
+    "Daydream": "Daedream proper Pal name",
+    "responded": "respawned in returning enemy context",
+    "s to the right": "stick to the right, restates exact right-wall instruction",
+    "gie/gold": "Goldie, known Pal in same utterance",
+    "oop": "Oops interjection spelling",
+    "CBE": "cave, same dungeon just exited",
+    "tter": "teleporter, full noun in same question",
+    "byebye": "Bye-bye spacing only",
+    "daydream": "Daedream",
+    "funny": "bunny in source2137 after catching the repeatedly named bunny",
+    "feet Goldie": "feed Goldie; hungry-party feeding explanation",
+    "framy": "framey spelling only",
+    "f": "Fish, named fainted shiny just discussed",
+    "R": "raided at source2209; base location and inaccessible attackers in same exchange",
+    "oress": "or less; more-or-less phrase",
+    "Minea": "mine; repeated claim in immediate next source2228, uncertain NOA retained in excluded context"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "source_segments": [
+      1235,
+      1237
+    ],
+    "raw": "now now I need to do something that uh my cat's hard to play with this thing",
+    "reason": "Unclear ASR/grammar; do not rewrite it as cats had played. Clear following Pepper sentence retained separately."
+  },
+  {
+    "source_segments": [
+      1601,
+      1602
+    ],
+    "raw": "I'm missing no this is on I am missing that Bri piece",
+    "reason": "Unclear ASR describing the missing piece; do not guess gray/brown/branch. Clear following inability to find it retained separately."
+  }
+]

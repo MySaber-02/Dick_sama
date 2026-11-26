@@ -1,0 +1,240 @@
+[
+  {
+    "file": "tail01.json",
+    "row_one_based": 10,
+    "source_segments": [
+      1925,
+      1928
+    ]
+  },
+  {
+    "file": "tail01.json",
+    "row_one_based": 11,
+    "source_segments": [
+      1926,
+      1928
+    ]
+  },
+  {
+    "file": "tail01.json",
+    "row_one_based": 20,
+    "raw": "There something mov moving there is that the boar maybe maybe it's just a wolf.",
+    "reason": "Source says there something; do not grammar-polish to there is."
+  },
+  {
+    "file": "tail01.json",
+    "row_one_based": 40,
+    "source_segments": [
+      2017,
+      2026
+    ]
+  },
+  {
+    "file": "tail01.json",
+    "row_one_based": 46,
+    "source_segments": [
+      2042,
+      2046
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 9,
+    "source_segments": [
+      2140,
+      2143
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 17,
+    "source_segments": [
+      2170,
+      2177
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 21,
+    "source_segments": [
+      2190,
+      2195
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 27,
+    "source_segments": [
+      2218,
+      2224
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 28,
+    "source_segments": [
+      2224,
+      2229
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 31,
+    "source_segments": [
+      2235,
+      2238
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 37,
+    "source_segments": [
+      2253,
+      2257
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 42,
+    "source_segments": [
+      2268,
+      2271
+    ]
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 44,
+    "source_segments": [
+      2271,
+      2275
+    ],
+    "raw": "What that didn't work okay not not the Run for Sho it's okay he can come at me.",
+    "reason": "Preserve original odd Sho rather than guessing sure."
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 52,
+    "raw": "A no it's just automatic to spare H think of for being a page.",
+    "actually": "It spares automatically.",
+    "status": "LOW",
+    "reason": "Uncertain closing thanks/page phrase; no evidence for invented thank you."
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 54,
+    "raw": "Oh wait wait wait it's so bright where's the meditation spot everything looks the same who's that I to kill him I got to kill him don't I keep going.",
+    "reason": "Keep original abandoned I to kill him; do not turn both into grammatical I got to."
+  },
+  {
+    "file": "tail02.json",
+    "row_one_based": 55,
+    "source_segments": [
+      2313,
+      2318
+    ]
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 2,
+    "raw": "And then a few days later I noticed that that spider was still there but it was curled up it was curled up u meaning it usually is dead I was like oh no how did it die and I wondered maybe it couldn't get out of the plastic lid maybe it was like too tiny so then I felt bad I was thinking oh maybe I should have removed it I I thought it would been more I thought I could handle it.",
+    "reason": "Keep source filler u, no audio basis for uh."
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 6,
+    "raw": "I don't really understand molting but it look pretty dead to open them oh I mean the lid was upside down it wasn't inside the container or anything it just like they could have left so it may be wonder maybe they can't climb out of them like small pieces of plastic I don't think I think they might have died from dehydration the Tupperware wasn't closed uh for the record like um the lid was the only thing there it didn't have the storage part no I didn't touch it.",
+    "reason": "Do not rewrite source may be wonder to made me wonder; keep oral grammar."
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 18,
+    "source_segments": [
+      2402,
+      2407
+    ]
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 21,
+    "source_segments": [
+      2419,
+      2421
+    ]
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 30,
+    "source_segments": [
+      2458,
+      2465
+    ],
+    "raw": "Uh grab it how am I supposed to grab it with RT okay I could climb there like using a shrine I see okay I'm really glad this is not time because this is this is a very slippery slope there you go.",
+    "reason": "Retain source time rather than correcting grammar to timed."
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 33,
+    "source_segments": [
+      2475,
+      2480
+    ]
+  },
+  {
+    "file": "tail03.json",
+    "row_one_based": 40,
+    "source_segments": [
+      2508,
+      2512
+    ]
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 2,
+    "source_segments": [
+      2542,
+      2549
+    ]
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 8,
+    "source_segments": [
+      2570,
+      2576
+    ]
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 14,
+    "source_segments": [
+      2587,
+      2591
+    ]
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 29,
+    "raw": "I need to be able to reach him easier just do it now oh it already cancelled me I've been canceled I'm sorry that's unfortunate.",
+    "reason": "Retain original cancelled/canceled spelling in separate occurrences."
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 38,
+    "raw": "I could have dodged it time okay one more try okay I'm going to try to use that thing one more try by the way I'm going to try to use that thing at the end instead of that first one oh but the first one no I can see why it be useful okay second second dream.",
+    "reason": "Keep original it be useful grammar, no contraction invented."
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 48,
+    "source_segments": [
+      2733,
+      2739
+    ]
+  },
+  {
+    "file": "tail04.json",
+    "row_one_based": 49,
+    "raw": "Ah it is so hard to see that okay uh let's see I have money maybe I can buy more items yeah one more one more we still have time I have stuff to sell oh okay wait where do I buy [ __ ] do I buy it from here or the other guy this this guy store byy.",
+    "reason": "Uncertain byy retained verbatim, not silently completed as buy."
+  }
+]

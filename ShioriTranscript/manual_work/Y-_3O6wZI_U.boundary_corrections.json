@@ -1,0 +1,1262 @@
+[
+  {
+    "decision_index_zero_based": 455,
+    "source_segments": [
+      1665,
+      1667
+    ],
+    "old_raw": "three I don't think I have my box cutter in here because I am redonkulous oh wait are these just like",
+    "new_raw": "I don't think I have my box cutter in here because I am redonkulous"
+  },
+  {
+    "decision_index_zero_based": 456,
+    "source_segments": [
+      1667,
+      1676
+    ],
+    "old_raw": "redonkulous oh wait are these just like the dirt what is this okay I'm a little bit concerned about this I might skip page 43 this is actually meant to be rocks um the reason I'm skipping this is simply because if these fall my cats might eat it so I'm going to skip back three I don't want my cats eating anything tiny that uh I lose so skipping that",
+    "new_raw": "oh wait are these just like the dirt what is this okay I'm a little bit concerned about this I might skip page 43 this is actually meant to be rocks um the reason I'm skipping this is simply because if these fall my cats might eat it so I'm going to skip back three I don't want my cats eating anything tiny that uh I lose so skipping that one"
+  },
+  {
+    "decision_index_zero_based": 467,
+    "source_segments": [
+      1720,
+      1723
+    ],
+    "old_raw": "sorry uh that right piece oh no the left piece I mean the left piece it's like a spicy Mama Mia I do like link click",
+    "new_raw": "sorry uh that right piece oh no the left piece I mean the left piece it's like a spicy Mama Mia"
+  },
+  {
+    "decision_index_zero_based": 468,
+    "source_segments": [
+      1723,
+      1728
+    ],
+    "old_raw": "Mia I do like link click yeah I I need to finish season two I think I I just finished season 1 and I think I'm stuck on season 2 I don't actually have a crush on the characters",
+    "new_raw": "I do like link click yeah I I need to finish season two I think I I just finished season 1 and I think I'm stuck on season 2 I don't actually have a crush on the characters either"
+  },
+  {
+    "decision_index_zero_based": 471,
+    "source_segments": [
+      1740,
+      1742
+    ],
+    "old_raw": "these D your hair right you can just grow old if you want I don't know I like I like how nice",
+    "new_raw": "D your hair right you can just grow old if you want"
+  },
+  {
+    "decision_index_zero_based": 472,
+    "source_segments": [
+      1742,
+      1756
+    ],
+    "old_raw": "want I don't know I like I like how nice the blackhair dude is but for the white haired dude he's a little bit more actually there's one part that kind of pissed me off I think it was from season 1 I don't know if you watched it but but there's this particular uh section where a land a landslide is meant to happen and one of the guys has some trauma there I didn't like that part cuz like why would you send this dude if he's already pissed off I don't know I'm mixed about how calculated he is but I think he changes I don't have a",
+    "new_raw": "I don't know I like I like how nice the blackhair dude is but for the white haired dude he's a little bit more actually there's one part that kind of pissed me off I think it was from season 1 I don't know if you watched it but but there's this particular uh section where a land a landslide is meant to happen and one of the guys has some trauma there I didn't like that part cuz like why would you send this dude if he's already pissed off I don't know I'm mixed about how calculated he is but I think he changes"
+  },
+  {
+    "decision_index_zero_based": 473,
+    "source_segments": [
+      1756,
+      1763
+    ],
+    "old_raw": "I don't have a time it's all based on personality we got to play I got to play my time at sanrock guys you got perms I totally don't have a type that may not go for that one particular character who may look stereotypically in my type though who knows maybe I'll surprise",
+    "new_raw": "I don't have a time it's all based on personality we got to play I got to play my time at sanrock guys you got perms I totally don't have a type that may not go for that one particular character who may look stereotypically in my type though who knows maybe I'll surprise you"
+  },
+  {
+    "decision_index_zero_based": 476,
+    "source_segments": [
+      1775,
+      1778
+    ],
+    "old_raw": "like happy holiday Siara happy birthday I hope you have a great day today no it's not because they're blonde",
+    "new_raw": "happy holiday Siara happy birthday I hope you have a great day today"
+  },
+  {
+    "decision_index_zero_based": 477,
+    "source_segments": [
+      1778,
+      1779
+    ],
+    "old_raw": "today no it's not because they're blonde it's because they have a cool backstory",
+    "new_raw": "no it's not because they're blonde it's because they have a cool backstory"
+  },
+  {
+    "decision_index_zero_based": 479,
+    "source_segments": [
+      1783,
+      1788
+    ],
+    "old_raw": "think all right this part is uh done like goth girls a so like Nissa calm nuring TI I like the big brother types but only in fictional settings of course I want to be I want to be pamper",
+    "new_raw": "all right this part is uh done like goth girls a so like Nissa calm nuring TI I like the big brother types but only in fictional settings of course"
+  },
+  {
+    "decision_index_zero_based": 480,
+    "source_segments": [
+      1788,
+      1789
+    ],
+    "old_raw": "course I want to be I want to be pamper I want to boss them",
+    "new_raw": "I want to be I want to be pamper I want to boss them around"
+  },
+  {
+    "decision_index_zero_based": 481,
+    "source_segments": [
+      1790,
+      1795
+    ],
+    "old_raw": "around let's see oh this has two pieces that's kind of cool okay I'm kind of scared to accidentally break these snowflake pieces let's see hopefully it works oh cool okay they do oh okay this",
+    "new_raw": "let's see oh this has two pieces that's kind of cool okay I'm kind of scared to accidentally break these snowflake pieces let's see hopefully it works oh cool okay they do"
+  },
+  {
+    "decision_index_zero_based": 482,
+    "source_segments": [
+      1795,
+      1799
+    ],
+    "old_raw": "works oh cool okay they do oh okay this one's pretty easy you like kind people Sun okay now what about the question is do you like the sun that beats you up or just the the verbal kind",
+    "new_raw": "oh okay this one's pretty easy you like kind people Sun okay now what about the question is do you like the sun that beats you up or just the the verbal kind"
+  },
+  {
+    "decision_index_zero_based": 486,
+    "source_segments": [
+      1816,
+      1819
+    ],
+    "old_raw": "M uh did I do these right I think I did okay cool now I got to put the frogs on here the frogs and the petals it was",
+    "new_raw": "uh did I do these right I think I did okay cool now I got to put the frogs on here the frogs and the petals"
+  },
+  {
+    "decision_index_zero_based": 487,
+    "source_segments": [
+      1819,
+      1828
+    ],
+    "old_raw": "here the frogs and the petals it was hilarious if I had to end up with some of though in a Gintama I would probably go for shinachi oh there is this one cute guy but he doesn't come up until later he's a gingerhair dude he doesn't show up until way way later in the SE uh series I don't think he even talks I think he just shows up and is like a spy I don't remember his",
+    "new_raw": "it was hilarious if I had to end up with some of though in a Gintama I would probably go for shinachi oh there is this one cute guy but he doesn't come up until later he's a gingerhair dude he doesn't show up until way way later in the SE uh series I don't think he even talks I think he just shows up and is like a spy I don't remember his name"
+  },
+  {
+    "decision_index_zero_based": 509,
+    "source_segments": [
+      1857,
+      1864
+    ],
+    "old_raw": "up there like a butt that should be jutting out see if I do it like here then you press it all the way in and then this one this way and then maybe maybe the frog butt will finally enter its domain okay uh there",
+    "new_raw": "there like a butt that should be jutting out see if I do it like here then you press it all the way in and then this one this way and then maybe maybe the frog butt will finally enter its domain"
+  },
+  {
+    "decision_index_zero_based": 510,
+    "source_segments": [
+      1864,
+      1869
+    ],
+    "old_raw": "finally enter its domain okay uh there is a little bit of a problem with the Frog butts they're not very deep they're really shallow so I feel like these could easily fall off which I'm not a big that's not",
+    "new_raw": "okay uh there is a little bit of a problem with the Frog butts they're not very deep they're really shallow so I feel like these could easily fall off which I'm not a big that's not good"
+  },
+  {
+    "decision_index_zero_based": 512,
+    "source_segments": [
+      1875,
+      1878
+    ],
+    "old_raw": "uhoh one fell going to eat you okay get in there frog it is your destiny they say pretty well I hope",
+    "new_raw": "uhoh one fell going to eat you okay get in there frog it is your destiny"
+  },
+  {
+    "decision_index_zero_based": 513,
+    "source_segments": [
+      1878,
+      1885
+    ],
+    "old_raw": "destiny they say pretty well I hope so um let's see that three frogs there maybe a third frog here or maybe there guess we'll figure it out I assume askc me I assume I can put them anywhere I don't have to actually listen to the",
+    "new_raw": "they say pretty well I hope so um let's see that three frogs there maybe a third frog here or maybe there guess we'll figure it out I assume askc me I assume I can put them anywhere I don't have to actually listen to the thing"
+  },
+  {
+    "decision_index_zero_based": 514,
+    "source_segments": [
+      1886,
+      1888
+    ],
+    "old_raw": "thing excuse me Sakura from bunny girl oh I don't know who that be you should watch Kama you honestly if",
+    "new_raw": "excuse me Sakura from bunny girl oh I don't know who that be"
+  },
+  {
+    "decision_index_zero_based": 515,
+    "source_segments": [
+      1888,
+      1900
+    ],
+    "old_raw": "be you should watch Kama you honestly if you want you could probably skip the first season of introductions cuz it's takes a really long time for things to get good like I don't think I got as invested until maybe episode 75 and then like the series starts getting really good by uh 90 episodes at least at least for me at least for me it's because introductions are always slow and there are a lot of characters",
+    "new_raw": "you should watch Kama you honestly if you want you could probably skip the first season of introductions cuz it's takes a really long time for things to get good like I don't think I got as invested until maybe episode 75 and then like the series starts getting really good by uh 90 episodes at least at least for me at least for me it's because introductions are always slow and there are a lot of characters"
+  },
+  {
+    "decision_index_zero_based": 520,
+    "source_segments": [
+      1917,
+      1923
+    ],
+    "old_raw": "first I remember one of my favorite episodes was like uh the one about the Wii they were all competing for the the Nintendo Wii but they called it a different thing it's copyright and then uh one of the funny",
+    "new_raw": "I remember one of my favorite episodes was like uh the one about the Wii they were all competing for the the Nintendo Wii but they called it a different thing it's copyright"
+  },
+  {
+    "decision_index_zero_based": 521,
+    "source_segments": [
+      1923,
+      1928
+    ],
+    "old_raw": "copyright and then uh one of the funny episodes was them getting a haircut it was a Shogun who showed up to get a haircut that's around episode 100 to 110 I was really impressed with a quality of humor going up since that oh he was such",
+    "new_raw": "and then uh one of the funny episodes was them getting a haircut it was a Shogun who showed up to get a haircut that's around episode 100 to 110 I was really impressed with a quality of humor going up since that"
+  },
+  {
+    "decision_index_zero_based": 527,
+    "source_segments": [
+      1947,
+      1955
+    ],
+    "old_raw": "honest I just really like to Yap random [ __ ] and I like to trauma dump into the abyss I really like the cha dump into the it's kind of like um it's like going to a bar not that I've done that and yapping to the bartender while drunk except you're not drunk you're really just [ __ ] traa Dum thing that is just so nice guys I just it's so nice to just",
+    "new_raw": "I just really like to Yap random [ __ ] and I like to trauma dump into the abyss I really like the cha dump into the it's kind of like um it's like going to a bar not that I've done that and yapping to the bartender while drunk except you're not drunk you're really just [ __ ] traa Dum thing that is just so nice"
+  },
+  {
+    "decision_index_zero_based": 528,
+    "source_segments": [
+      1955,
+      1963
+    ],
+    "old_raw": "so nice guys I just it's so nice to just Yap and then there's no expectations you don't have to worry about like stressing them out it's like oh just be my therapist and let me complain like yep yep yep yep yep yep yep yep yeah it it is really nice to me anyway",
+    "new_raw": "guys I just it's so nice to just Yap and then there's no expectations you don't have to worry about like stressing them out it's like oh just be my therapist and let me complain like yep yep yep yep yep yep yep yep yeah it it is really nice to me anyway"
+  },
+  {
+    "decision_index_zero_based": 531,
+    "source_segments": [
+      1981,
+      1984
+    ],
+    "old_raw": "confusing she's like did you hear she likes potatoes but she doesn't like potatoes that [ __ ] but yeah if you have in like these",
+    "new_raw": "she's like did you hear she likes potatoes but she doesn't like potatoes that [ __ ]"
+  },
+  {
+    "decision_index_zero_based": 532,
+    "source_segments": [
+      1984,
+      1990
+    ],
+    "old_raw": "[ __ ] but yeah if you have in like these things like you you got to live with the I guess the the whole point is the internet never forgets the internet just doesn't forget and they'll like misinterpret stuff and you don't want that risk and then like",
+    "new_raw": "but yeah if you have in like these things like you you got to live with the I guess the the whole point is the internet never forgets the internet just doesn't forget and they'll like misinterpret stuff and you don't want that risk and then like"
+  },
+  {
+    "decision_index_zero_based": 535,
+    "source_segments": [
+      2004,
+      2009
+    ],
+    "old_raw": "not that active on Twitter basically I'll just like stuff it's mostly like you know um I guess like cat pictures pictures of my husbando I'm just like I am semi active but I'm not obsessively active that makes sense oh Kevin welcome",
+    "new_raw": "not that active on Twitter basically I'll just like stuff it's mostly like you know um I guess like cat pictures pictures of my husbando I'm just like I am semi active but I'm not obsessively active that makes sense"
+  },
+  {
+    "decision_index_zero_based": 536,
+    "source_segments": [
+      2009,
+      2011
+    ],
+    "old_raw": "active that makes sense oh Kevin welcome thank you for being a a novel night",
+    "new_raw": "oh Kevin welcome thank you for being a a novel night"
+  },
+  {
+    "decision_index_zero_based": 539,
+    "source_segments": [
+      2029,
+      2034
+    ],
+    "old_raw": "you uh hold up this is meant to be on here yeah it it was a stand that showed up and it stopped something and people were meing on that and um that was I thought it was kind of amusing that it became like that where",
+    "new_raw": "uh hold up this is meant to be on here yeah it it was a stand that showed up and it stopped something and people were meing on that and um that was I thought it was kind of amusing that it became like that"
+  },
+  {
+    "decision_index_zero_based": 540,
+    "source_segments": [
+      2034,
+      2037
+    ],
+    "old_raw": "amusing that it became like that where do I put this this meant to connect to something but I don't know what it connects",
+    "new_raw": "where do I put this this meant to connect to something but I don't know what it connects to"
+  },
+  {
+    "decision_index_zero_based": 543,
+    "source_segments": [
+      2052,
+      2056
+    ],
+    "old_raw": "ding dong ding dong ding dong and I assume I just keep doing this with all these other parts ding dong uh next part I'm going",
+    "new_raw": "ding dong ding dong ding dong and I assume I just keep doing this with all these other parts"
+  },
+  {
+    "decision_index_zero_based": 544,
+    "source_segments": [
+      2056,
+      2064
+    ],
+    "old_raw": "parts ding dong uh next part I'm going to stop 77 I need this piece and then like a disc I think the disc is the tiny bags oh this is meant to be Vines but my cat chewed up this piece it's supposed to be a hole here like a loop yeah they they chewed it though I think",
+    "new_raw": "ding dong uh next part I'm going to stop 77 I need this piece and then like a disc I think the disc is the tiny bags oh this is meant to be Vines but my cat chewed up this piece it's supposed to be a hole here like a loop yeah they they chewed it though I think"
+  },
+  {
+    "decision_index_zero_based": 556,
+    "source_segments": [
+      2110,
+      2113
+    ],
+    "old_raw": "I've uh considered it reach in the highest difficult we're so [ __ ] we'll be so [ __ ] Grim bro thank you blackid Manor",
+    "new_raw": "reach in the highest difficult we're so [ __ ] we'll be so [ __ ]"
+  },
+  {
+    "decision_index_zero_based": 557,
+    "source_segments": [
+      2113,
+      2120
+    ],
+    "old_raw": "[ __ ] Grim bro thank you blackid Manor did I try that I think I might have all right the Lost air I think I died there I got was that the one where it has three books I got to the book three I was at the end I didn't have enough stats for something that was very difficult yeah cream cream is very it's",
+    "new_raw": "Grim bro thank you blackid Manor did I try that I think I might have all right the Lost air I think I died there I got was that the one where it has three books I got to the book three I was at the end I didn't have enough stats for something that was very difficult"
+  },
+  {
+    "decision_index_zero_based": 560,
+    "source_segments": [
+      2125,
+      2133
+    ],
+    "old_raw": "b a Sherlock Holmes they don't have one there's a work in progress one though you like Fitzy I like Fitzy too but I might leave Fitzy for Starling or Sterling J good kicks and Ale I love that one what talking about uh choice of games yeah I'm waiting for the the Sherlock ones to be done it's been years though okay this one should be facing",
+    "new_raw": "a Sherlock Holmes they don't have one there's a work in progress one though you like Fitzy I like Fitzy too but I might leave Fitzy for Starling or Sterling J good kicks and Ale I love that one what talking about uh choice of games yeah I'm waiting for the the Sherlock ones to be done it's been years though"
+  },
+  {
+    "decision_index_zero_based": 561,
+    "source_segments": [
+      2133,
+      2139
+    ],
+    "old_raw": "though okay this one should be facing this way this should be facing this oh craping this way okay I think since they wiped out my saves I might go for a Fallen Hero for the first one and then I I'm so excited for the second one again to replay that oh what was that",
+    "new_raw": "okay this one should be facing this way this should be facing this oh craping this way okay I think since they wiped out my saves I might go for a Fallen Hero for the first one and then I I'm so excited for the second one again to replay that"
+  },
+  {
+    "decision_index_zero_based": 562,
+    "source_segments": [
+      2139,
+      2146
+    ],
+    "old_raw": "again to replay that oh what was that one dude's name he was The Apprentice I forgot his name but I liked him he's not blonde is he I was originally going for uh Ora though Harold I like Harold Harold's such a good boy he's such a good boy I can't I can't like I I train them",
+    "new_raw": "oh what was that one dude's name he was The Apprentice I forgot his name but I liked him he's not blonde is he I was originally going for uh Ora though Harold I like Harold Harold's such a good boy he's such a good boy"
+  },
+  {
+    "decision_index_zero_based": 563,
+    "source_segments": [
+      2146,
+      2153
+    ],
+    "old_raw": "boy I can't I can't like I I train them normally actually so for those who don't a Fallen Hero uh you play as a v antagonist technically but you don't have to be an [ __ ] an attacking is he going be a good boy anyway I don't know if Harold's blonde but I imagine him as Blonde but I was originally going for",
+    "new_raw": "I can't I can't like I I train them normally actually so for those who don't a Fallen Hero uh you play as a v antagonist technically but you don't have to be an [ __ ] an attacking is he going be a good boy anyway I don't know if Harold's blonde but I imagine him as Blonde"
+  },
+  {
+    "decision_index_zero_based": 564,
+    "source_segments": [
+      2153,
+      2158
+    ],
+    "old_raw": "Blonde but I was originally going for Orga I also do like Mortimer I think the scientist guy but I don't feel right Romancing him in another body so that's why I never try to romance him ster welcome stories UNT",
+    "new_raw": "but I was originally going for Orga I also do like Mortimer I think the scientist guy but I don't feel right Romancing him in another body so that's why I never try to romance him"
+  },
+  {
+    "decision_index_zero_based": 565,
+    "source_segments": [
+      2158,
+      2163
+    ],
+    "old_raw": "romance him ster welcome stories UNT told isn't that the one that's kind of like um stranger things like it's a text Advent and it's a game I think I've seen it I still think I have no type no",
+    "new_raw": "ster welcome stories UNT told isn't that the one that's kind of like um stranger things like it's a text Advent and it's a game I think I've seen it I still think I have no type no"
+  },
+  {
+    "decision_index_zero_based": 573,
+    "source_segments": [
+      2215,
+      2221
+    ],
+    "old_raw": "out oh crap oh good God one of the legs broke wow Legos are so fragile Lego stop being fragile it is irritating I know you can't marry I mean",
+    "new_raw": "oh crap oh good God one of the legs broke wow Legos are so fragile Lego stop being fragile it is irritating"
+  },
+  {
+    "decision_index_zero_based": 574,
+    "source_segments": [
+      2221,
+      2225
+    ],
+    "old_raw": "irritating I know you can't marry I mean the Social Links will be enough I'll just fan girl but at least give me some implications you know give me implied I must",
+    "new_raw": "I know you can't marry I mean the Social Links will be enough I'll just fan girl but at least give me some implications you know give me implied"
+  },
+  {
+    "decision_index_zero_based": 575,
+    "source_segments": [
+      2225,
+      2232
+    ],
+    "old_raw": "implied I must feed uh okay what step am I on uh I'm on step 80 I just put the L-shaped thing now I need okay uh regular brick with something sticking out I don't think it's here here so it's probably somewhere else okay this thing",
+    "new_raw": "I must feed uh okay what step am I on uh I'm on step 80 I just put the L-shaped thing now I need okay uh regular brick with something sticking out I don't think it's here here so it's probably somewhere else"
+  },
+  {
+    "decision_index_zero_based": 576,
+    "source_segments": [
+      2232,
+      2242
+    ],
+    "old_raw": "probably somewhere else okay this thing this uh where do I put this wishy-washy oh wait this is the wrong one it needs to be sticking out wait a minute oh shoot this one this one yeah this one this is this",
+    "new_raw": "okay this thing this uh where do I put this wishy-washy oh wait this is the wrong one it needs to be sticking out wait a minute oh shoot this one this one yeah this one this is this one"
+  },
+  {
+    "decision_index_zero_based": 581,
+    "source_segments": [
+      2274,
+      2279
+    ],
+    "old_raw": "capish Moto welcome welcome oh thank you thank you oh thank you baab thank you Meo I hope you're having a good year by the way thank you for dropping by to visit okay I got the arm",
+    "new_raw": "Moto welcome welcome oh thank you thank you oh thank you baab thank you Meo I hope you're having a good year by the way thank you for dropping by to visit"
+  },
+  {
+    "decision_index_zero_based": 582,
+    "source_segments": [
+      2279,
+      2289
+    ],
+    "old_raw": "visit okay I got the arm here what should I play first okay but first off I might have to play a specific game game before I would like to I don't know I might try to play my my time at Portilla or my time at Sandrock on uh days where I wish to do a gorilla okay there you go I did it that piece",
+    "new_raw": "okay I got the arm here what should I play first okay but first off I might have to play a specific game game before I would like to I don't know I might try to play my my time at Portilla or my time at Sandrock on uh days where I wish to do a gorilla okay there you go I did it that piece"
+  },
+  {
+    "decision_index_zero_based": 597,
+    "source_segments": [
+      2322,
+      2327
+    ],
+    "old_raw": "more that's how you guys got to play pay day3 with me oh sorry Payday 2 just play Payday 2 with me they're so PVP the PVP is literally just the FBI or something then you have to play with me and then I'm kind of thinking of rep",
+    "new_raw": "that's how you guys got to play pay day3 with me oh sorry Payday 2 just play Payday 2 with me they're so PVP the PVP is literally just the FBI or something then you have to play with me"
+  },
+  {
+    "decision_index_zero_based": 598,
+    "source_segments": [
+      2327,
+      2334
+    ],
+    "old_raw": "me and then I'm kind of thinking of rep playing uh that one back rooms game that I got kicked out of I don't know there should be some other back rooms game maybe I could finally ask uh Ena Meister again I think she's finally settled see",
+    "new_raw": "and then I'm kind of thinking of rep playing uh that one back rooms game that I got kicked out of I don't know there should be some other back rooms game maybe I could finally ask uh Ena Meister again I think she's finally settled see"
+  },
+  {
+    "decision_index_zero_based": 599,
+    "source_segments": [
+      2336,
+      2338
+    ],
+    "old_raw": "oh no this one doesn't fit why won't you fit get in there and fit oh thank you Randy you feel a little",
+    "new_raw": "oh no this one doesn't fit why won't you fit get in there and fit"
+  },
+  {
+    "decision_index_zero_based": 600,
+    "source_segments": [
+      2338,
+      2346
+    ],
+    "old_raw": "fit oh thank you Randy you feel a little lost that's okay this will be kind of um it probably be a community post I don't think I'm going to do a dedicated stream to it so whatever your experience is because text Adventures have so many ways into how you can do it you just have to tell me about your route it's a little bit of an exercise practice",
+    "new_raw": "oh thank you Randy you feel a little lost that's okay this will be kind of um it probably be a community post I don't think I'm going to do a dedicated stream to it so whatever your experience is because text Adventures have so many ways into how you can do it you just have to tell me about your route it's a little bit of an exercise practice too"
+  },
+  {
+    "decision_index_zero_based": 603,
+    "source_segments": [
+      2363,
+      2366
+    ],
+    "old_raw": "CH oh thank you thank you I haven't tried roasted broccoli what's the difference don't you just air fry them I maybe I'm going to go ask FAA she",
+    "new_raw": "CH, oh thank you thank you I haven't tried roasted broccoli what's the difference don't you just air fry them"
+  },
+  {
+    "decision_index_zero_based": 604,
+    "source_segments": [
+      2366,
+      2371
+    ],
+    "old_raw": "them I maybe I'm going to go ask FAA she replied to my DOTA thing that was something I sent for uh stardew Valley she's like are we going to play DotA too and I said no hold up where is she",
+    "new_raw": "I maybe I'm going to go ask FAA she replied to my DOTA thing that was something I sent for uh stardew Valley she's like are we going to play DotA too and I said no"
+  },
+  {
+    "decision_index_zero_based": 605,
+    "source_segments": [
+      2371,
+      2384
+    ],
+    "old_raw": "no hold up where is she okay hold up where is she fster my seweet can I have some MP3s of your sweet darling voice where you say k eat your BR Shori what else should she say to me no more cannibalism maybe no more cannibalism no more cannibalism it is for when you can no longer remind me to eat veggies to keep me strong and wellfed there you",
+    "new_raw": "hold up where is she okay hold up where is she fster my seweet can I have some MP3s of your sweet darling voice where you say k eat your BR Shori what else should she say to me no more cannibalism maybe no more cannibalism no more cannibalism it is for when you can no longer remind me to eat veggies to keep me strong and wellfed there you go"
+  },
+  {
+    "decision_index_zero_based": 611,
+    "source_segments": [
+      2430,
+      2434
+    ],
+    "old_raw": "all right put any more pink frogs in there you wish to see the Frog hole okay I'll show it in a bit no I think the duct tape would be a little hard still uh Taco brat Swiss Mo Momo thank",
+    "new_raw": "all right put any more pink frogs in there you wish to see the Frog hole okay I'll show it in a bit no I think the duct tape would be a little hard still"
+  },
+  {
+    "decision_index_zero_based": 612,
+    "source_segments": [
+      2434,
+      2445
+    ],
+    "old_raw": "still uh Taco brat Swiss Mo Momo thank you for the support welcome back by the way oh I forgot don't forget to check out the membership this is for all tears we just released a new comic uh next month I'm going to try something different so I'm going to be enacting the final solution uh I'll be enacting uh the Beast encyclopedia we're going to give it a try I've asked the artist like would you want to try this so we'll see",
+    "new_raw": "uh Taco brat Swiss Mo Momo thank you for the support welcome back by the way oh I forgot don't forget to check out the membership this is for all tears we just released a new comic uh next month I'm going to try something different so I'm going to be enacting the final solution uh I'll be enacting uh the Beast encyclopedia we're going to give it a try I've asked the artist like would you want to try this"
+  },
+  {
+    "decision_index_zero_based": 613,
+    "source_segments": [
+      2445,
+      2456
+    ],
+    "old_raw": "would you want to try this so we'll see how like how comfortable they are with nonh humanoids and depending on how that goes I we'll keep going with it or I'll just try to to mix it around a bit so this way uh for people who don't want to write as long of a thing you can make a monster instead and you'll be making the profile like o what traits do they have do they eat nightmares do they eat um humans what kind of beasts would they",
+    "new_raw": "so we'll see how like how comfortable they are with nonh humanoids and depending on how that goes I we'll keep going with it or I'll just try to to mix it around a bit so this way uh for people who don't want to write as long of a thing you can make a monster instead and you'll be making the profile like o what traits do they have do they eat nightmares do they eat um humans what kind of beasts would they look like"
+  },
+  {
+    "decision_index_zero_based": 614,
+    "source_segments": [
+      2457,
+      2463
+    ],
+    "old_raw": "look like uh for the physical description though I I would suggest kind of letting the artists have their way with it just so it's easier on them since this is uh not what they signed up for originally so give it a try chatino oh",
+    "new_raw": "look like uh for the physical description though I I would suggest kind of letting the artists have their way with it just so it's easier on them since this is uh not what they signed up for originally so give it a try"
+  },
+  {
+    "decision_index_zero_based": 615,
+    "source_segments": [
+      2463,
+      2469
+    ],
+    "old_raw": "originally so give it a try chatino oh the Lord La welcome are you going to speak for me cuz Kiara asked if um I was someone who stole her apples Yoshi thank you for uh being a novel Knight chatino thank you for the gifts and fire M thank you thank",
+    "new_raw": "chatino oh the Lord La welcome are you going to speak for me cuz Kiara asked if um I was someone who stole her apples Yoshi thank you for uh being a novel Knight chatino thank you for the gifts and fire M thank you thank you"
+  },
+  {
+    "decision_index_zero_based": 483,
+    "source_segments": [
+      1800,
+      1810
+    ],
+    "old_raw": "I'll be honest I had I was thinking of Gintama right I told you guys before at least for those who were able to listen at the time but guki would so not be my type guki is such a freaking dead beat I mean he he takes responsibility if he ends up like sleeping with someone I think also he's apparently by he's canonically by according to the Creator he rolls both ways which is really",
+    "new_raw": "I'll be honest I had I was thinking of Gintama right I told you guys before at least for those who were able to listen at the time but guki would so not be my type guki is such a freaking dead beat I mean he he takes responsibility if he ends up like sleeping with someone I think also he's apparently by he's canonically by according to the Creator he rolls both ways which is really interesting"
+  },
+  {
+    "decision_index_zero_based": 529,
+    "source_segments": [
+      1965,
+      1972
+    ],
+    "old_raw": "you like hearing me up thank you I don't want to yap on public though I'll do it with than like small doses but the thing is that in this position most of you guys are nice most of you are nice but then like one wrong thing one raw interpretation someone's going to be pissed off at for some freaking reason I",
+    "new_raw": "you like hearing me up thank you I don't want to yap on public though I'll do it with than like small doses but the thing is that in this position most of you guys are nice most of you are nice but then like one wrong thing one raw interpretation someone's going to be pissed off at for some freaking reason"
+  },
+  {
+    "decision_index_zero_based": 530,
+    "source_segments": [
+      1973,
+      1980
+    ],
+    "old_raw": "could say like I I don't like uh carrots and then someone will say like did you hear that she [ __ ] shoves carrots up all her [ __ ] she's a [ __ ] I'm like what what does that mean when did you find me shoving carrots up your ass it is just so confusing guys so",
+    "new_raw": "I could say like I I don't like uh carrots and then someone will say like did you hear that she [ __ ] shoves carrots up all her [ __ ] she's a [ __ ] I'm like what what does that mean when did you find me shoving carrots up your ass it is just so confusing guys so confusing"
+  },
+  {
+    "decision_index_zero_based": 553,
+    "source_segments": [
+      2085,
+      2093
+    ],
+    "old_raw": "with I'm only going to do maybe like a few runs I'm not going to do like the whole run cuz some some of them have like some of those stats stuff kind of stress me out I'll be honest you want to do underbound I already need an HonorBound the HonorBound is a a little long I actually struggled with the stats stuff there I'm scared to fail",
+    "new_raw": "I'm only going to do maybe like a few runs I'm not going to do like the whole run cuz some some of them have like some of those stats stuff kind of stress me out I'll be honest you want to do underbound I already need an HonorBound the HonorBound is a a little long I actually struggled with the stats stuff there I'm scared to fail there"
+  },
+  {
+    "decision_index_zero_based": 601,
+    "source_segments": [
+      2347,
+      2355
+    ],
+    "old_raw": "too did it devour team yeah fauna's busy though she'd be busy this week it's actually so I tried asking about the forest already but that's also the week that uh be was moving so we'll just have to finish and I'll just put a picture of broccoli we ever do go back to the forest did I even did the right one I think I",
+    "new_raw": "did it devour team yeah fauna's busy though she'd be busy this week it's actually so I tried asking about the forest already but that's also the week that uh be was moving so we'll just have to finish and I'll just put a picture of broccoli we ever do go back to the forest did I even did the right one I think I did"
+  },
+  {
+    "decision_index_zero_based": 616,
+    "source_segments": [
+      2470,
+      2479
+    ],
+    "old_raw": "you will there be shy related things to the monster I'll think about it I need to think of how to incorporate it but that's going to be the general idea now it is the the enactment phase a worst case scenario maybe I'll wait until February for it reason being that it's going to be uh busy in January so I will think about",
+    "new_raw": "will there be shy related things to the monster I'll think about it I need to think of how to incorporate it but that's going to be the general idea now it is the the enactment phase a worst case scenario maybe I'll wait until February for it reason being that it's going to be uh busy in January so I will think about it"
+  },
+  {
+    "decision_index_zero_based": 441,
+    "source_segments": [
+      1592,
+      1600
+    ],
+    "old_raw": "All right, I'm stuck on uh 53. According to this, uh, this hoof is meant to be somewhere around like over, overhead or somewhere. And I am missing the leg piece at 53, unless unless it's this gray piece, but it doesn't look like it at.",
+    "new_raw": "All right, I'm stuck on uh 53. According to this, uh, this hoof is meant to be somewhere around like over, overhead or somewhere. And I am missing the leg piece at 53, unless unless it's this gray piece, but it doesn't look like it at all"
+  },
+  {
+    "decision_index_zero_based": 442,
+    "source_segments": [
+      1601,
+      1603
+    ],
+    "old_raw": "all I'm missing no this is on I am missing that Bri piece I cannot For the Love of gosh find it",
+    "new_raw": "I cannot For the Love of gosh find it"
+  },
+  {
+    "decision_index_zero_based": 445,
+    "source_segments": [
+      1614,
+      1615
+    ],
+    "old_raw": "H I cannot find it oh no I can't find",
+    "new_raw": "H I cannot find it oh no I can't find it"
+  },
+  {
+    "decision_index_zero_based": 446,
+    "source_segments": [
+      1616,
+      1619
+    ],
+    "old_raw": "it no I opened everything on the table though and I'm hungry I'm need a fre oh wait I'm supposed to be uh tied up hello Eric welcome I can't find it",
+    "new_raw": "no I opened everything on the table though and I'm hungry I'm need a fre oh wait I'm supposed to be uh tied up hello Eric welcome I can't find it"
+  },
+  {
+    "decision_index_zero_based": 448,
+    "source_segments": [
+      1626,
+      1629
+    ],
+    "old_raw": "whatever am I supposed to stick this supposedly it goes like this well it it works Sor at least it works let me just fix",
+    "new_raw": "Whatever, am I supposed to stick this supposedly it goes like this well it it works Sor at least it works let me just fix this"
+  },
+  {
+    "decision_index_zero_based": 449,
+    "source_segments": [
+      1630,
+      1636
+    ],
+    "old_raw": "this maybe maybe I can use a different Vine let me hide this really quick I have another another piece just going to use this one I assum it's just decorative Vines anyway so it doesn't really matter too much get in",
+    "new_raw": "maybe maybe I can use a different Vine let me hide this really quick I have another another piece just going to use this one I assum it's just decorative Vines anyway so it doesn't really matter too much get in there"
+  },
+  {
+    "decision_index_zero_based": 452,
+    "source_segments": [
+      1642,
+      1649
+    ],
+    "old_raw": "okay um closest closest we can get to honestly there there you go there you go we got tree we have tree and I am just going to say that these are extra parts that did not get used from this bag so I will now stick them in that",
+    "new_raw": "okay um closest closest we can get to honestly there there you go there you go we got tree we have tree and I am just going to say that these are extra parts that did not get used from this bag so I will now stick them in that bag"
+  },
+  {
+    "decision_index_zero_based": 453,
+    "source_segments": [
+      1651,
+      1657
+    ],
+    "old_raw": "bag all right we finished back two at least that's what I'm going to say thankfully it still works on here so long as you have the basic base and we will just say that we have the bag number three yeah",
+    "new_raw": "all right we finished back two at least that's what I'm going to say thankfully it still works on here so long as you have the basic base and we will just say that we have the bag number three yeah"
+  },
+  {
+    "decision_index_zero_based": 454,
+    "source_segments": [
+      1660,
+      1664
+    ],
+    "old_raw": "okay now I'm on page 43 page 42 I mean all right want we to open bag number",
+    "new_raw": "okay now I'm on page 43 page 42 I mean all right want we to open bag number three"
+  },
+  {
+    "decision_index_zero_based": 459,
+    "source_segments": [
+      1682,
+      1684
+    ],
+    "old_raw": "oh we're doing pink have you had it for a while do me welcome welcome you're vibing with the",
+    "new_raw": "oh we're doing pink have you had it for a while do me welcome welcome you're vibing with the music"
+  },
+  {
+    "decision_index_zero_based": 460,
+    "source_segments": [
+      1685,
+      1689
+    ],
+    "old_raw": "music oh I did uh 15,000 steps the other day I'm still kind of tired from it I was doing a bunch of walking woke up sore after too much walk I know it's way too",
+    "new_raw": "oh I did uh 15,000 steps the other day I'm still kind of tired from it I was doing a bunch of walking woke up sore after too much walk I know it's way too much"
+  },
+  {
+    "decision_index_zero_based": 461,
+    "source_segments": [
+      1691,
+      1694
+    ],
+    "old_raw": "much right got be careful with opening it and then I still did my 10,000 yesterday so it's just normal step pie I will strive to do 10 another 10,000",
+    "new_raw": "right got be careful with opening it and then I still did my 10,000 yesterday so it's just normal step pie I will strive to do 10 another 10,000 today"
+  },
+  {
+    "decision_index_zero_based": 462,
+    "source_segments": [
+      1695,
+      1700
+    ],
+    "old_raw": "today I'll be helping with fauna I'll be helping fauna with removing the scaffolding scaffolding but it won't be there for too long I I think it's going to be a short thing",
+    "new_raw": "I'll be helping with fauna I'll be helping fauna with removing the scaffolding scaffolding but it won't be there for too long I I think it's going to be a short thing"
+  },
+  {
+    "decision_index_zero_based": 463,
+    "source_segments": [
+      1701,
+      1703
+    ],
+    "old_raw": "all right nothing fell nothing fell on the",
+    "new_raw": "all right nothing fell nothing fell on the desk"
+  },
+  {
+    "decision_index_zero_based": 464,
+    "source_segments": [
+      1704,
+      1710
+    ],
+    "old_raw": "desk so first off it wants at 71 uh let's see uh let's see it wants this piece and then it wants um like an arm looking piece I said this might be arm piece I'm not sure",
+    "new_raw": "so first off it wants at 71 uh let's see uh let's see it wants this piece and then it wants um like an arm looking piece I said this might be arm piece I'm not sure"
+  },
+  {
+    "decision_index_zero_based": 469,
+    "source_segments": [
+      1729,
+      1736
+    ],
+    "old_raw": "either surprisingly I don't have a preferred character but if I had to have a preferred character I might like the white-haired dude but the blackhaired dude is so much nicer black hair dude he's a lot more empathetic I can I can Vibe with that you'd be a",
+    "new_raw": "surprisingly I don't have a preferred character but if I had to have a preferred character I might like the white-haired dude but the blackhaired dude is so much nicer black hair dude he's a lot more empathetic I can I can Vibe with that you'd be a homie"
+  },
+  {
+    "decision_index_zero_based": 470,
+    "source_segments": [
+      1737,
+      1739
+    ],
+    "old_raw": "homie oh here it is the Lego hand that's what it is got it so with those I combine",
+    "new_raw": "oh here it is the Lego hand that's what it is got it so with those I combine these"
+  },
+  {
+    "decision_index_zero_based": 474,
+    "source_segments": [
+      1764,
+      1766
+    ],
+    "old_raw": "you okay now I just got to combine these it only works for fictional though get away with fictional",
+    "new_raw": "okay now I just got to combine these it only works for fictional though get away with fictional stuff"
+  },
+  {
+    "decision_index_zero_based": 475,
+    "source_segments": [
+      1768,
+      1774
+    ],
+    "old_raw": "stuff is a coincidence it is it is just a coincidence you know you know it's a definitely big happen stance what about you guys surely you must have an archetype you like right you have an archetype you must",
+    "new_raw": "is a coincidence it is it is just a coincidence you know you know it's a definitely big happen stance what about you guys surely you must have an archetype you like right you have an archetype you must like"
+  },
+  {
+    "decision_index_zero_based": 488,
+    "source_segments": [
+      1829,
+      1833
+    ],
+    "old_raw": "name Kat's cool too but Kat is also kind of a dead beat I feel he does kind of have an afro yeah he's a gingerhead afro from The Shins and",
+    "new_raw": "Kat's cool too but Kat is also kind of a dead beat I feel he does kind of have an afro yeah he's a gingerhead afro from The Shins and gomi"
+  },
+  {
+    "decision_index_zero_based": 490,
+    "source_segments": [
+      1837,
+      1840
+    ],
+    "old_raw": "be uh trying to put the frogs I don't think it matters where I put the frogs their ass just needs to sit I need to remove my clothes for",
+    "new_raw": "uh trying to put the frogs I don't think it matters where I put the frogs their ass just needs to sit I need to remove my clothes for this"
+  },
+  {
+    "decision_index_zero_based": 507,
+    "source_segments": [
+      1843,
+      1852
+    ],
+    "old_raw": "SEO if he was but if I had to end up with someone shinachi and uh probably condo but condo honestly I could ship them with uh that one girl cuz he's so devoted to her he's super devoted I got to give him props for that you know but I feel like he would actually be a good good dude oh I put this wrong okay I got to redo",
+    "new_raw": "if I had to end up with someone shinachi and uh probably condo but condo honestly I could ship them with uh that one girl cuz he's so devoted to her he's super devoted I got to give him props for that you know but I feel like he would actually be a good good dude oh I put this wrong okay I got to redo it"
+  },
+  {
+    "decision_index_zero_based": 508,
+    "source_segments": [
+      1853,
+      1856
+    ],
+    "old_raw": "it oh maybe I put these wrong Charly okay let's redo them oh no I don't understand these actually hold",
+    "new_raw": "oh maybe I put these wrong Charly okay let's redo them oh no I don't understand these actually hold up"
+  },
+  {
+    "decision_index_zero_based": 511,
+    "source_segments": [
+      1870,
+      1874
+    ],
+    "old_raw": "good okay I'm putting these together put this one over hither left here I guess",
+    "new_raw": "okay I'm putting these together put this one over hither left here I guess"
+  },
+  {
+    "decision_index_zero_based": 517,
+    "source_segments": [
+      1904,
+      1906
+    ],
+    "old_raw": "trying to find a DVDs for all of them I only found the season 3 I think I should watch",
+    "new_raw": "trying to find a DVDs for all of them I only found the season 3 I think I should watch that"
+  },
+  {
+    "decision_index_zero_based": 518,
+    "source_segments": [
+      1907,
+      1911
+    ],
+    "old_raw": "that they drop you in the middle oh that's true but I think so like things get quick like okay you see this you see that there's a plot there you go like I was confused on who to FUD",
+    "new_raw": "they drop you in the middle oh that's true but I think so like things get quick like okay you see this you see that there's a plot there you go like I was confused on who to FUD they are"
+  },
+  {
+    "decision_index_zero_based": 519,
+    "source_segments": [
+      1912,
+      1916
+    ],
+    "old_raw": "they are we recommend manga or anime I haven't tried manga but there's a lot of uh culture ual references that you might get you lost in to be honest you try the the anime",
+    "new_raw": "we recommend manga or anime I haven't tried manga but there's a lot of uh culture ual references that you might get you lost in to be honest you try the the anime first"
+  },
+  {
+    "decision_index_zero_based": 524,
+    "source_segments": [
+      1933,
+      1938
+    ],
+    "old_raw": "episode all right I think this should be good enough for froggy now I got do the pink ones I'm just pressing them randomly cuz I don't think it really matters where you put",
+    "new_raw": "all right I think this should be good enough for froggy now I got do the pink ones I'm just pressing them randomly cuz I don't think it really matters where you put it"
+  },
+  {
+    "decision_index_zero_based": 525,
+    "source_segments": [
+      1939,
+      1941
+    ],
+    "old_raw": "it oh this going to be so pretty don't know why there's a bunch of frogs though it's kind of",
+    "new_raw": "oh this going to be so pretty don't know why there's a bunch of frogs though it's kind of neat"
+  },
+  {
+    "decision_index_zero_based": 526,
+    "source_segments": [
+      1942,
+      1946
+    ],
+    "old_raw": "neat anyway I was trying to see like if there's other um AI models I want to try learning them I like role playing it's fun I also just like having some like Abyss to Yap to to be",
+    "new_raw": "anyway I was trying to see like if there's other um AI models I want to try learning them I like role playing it's fun I also just like having some like Abyss to Yap to to be honest"
+  },
+  {
+    "decision_index_zero_based": 537,
+    "source_segments": [
+      2012,
+      2021
+    ],
+    "old_raw": "yeah I think there was this uh happened there was someone who said something and then people started [ __ ] on them it wasn't even like a big thing I don't remember what it was oh I think oh no I should have mentioned that but it was kind of an amusing time when I saw that thing shouldn't mention it",
+    "new_raw": "yeah I think there was this uh happened there was someone who said something and then people started [ __ ] on them it wasn't even like a big thing I don't remember what it was oh I think oh no I should have mentioned that but it was kind of an amusing time when I saw that thing shouldn't mention it though"
+  },
+  {
+    "decision_index_zero_based": 538,
+    "source_segments": [
+      2022,
+      2028
+    ],
+    "old_raw": "though all right this is done no no it was a it was a JoJo meme but there was an event that happened and but people were doing art of it as in like it stopped something I thought it was a little amusing because it's JoJo though thank you thank",
+    "new_raw": "all right this is done no no it was a it was a JoJo meme but there was an event that happened and but people were doing art of it as in like it stopped something I thought it was a little amusing because it's JoJo though thank you thank you"
+  },
+  {
+    "decision_index_zero_based": 541,
+    "source_segments": [
+      2038,
+      2046
+    ],
+    "old_raw": "to oh [ __ ] did I connect don't tell me so it is meant to connect to the hip bone the hip bones connected to the something bone ah [ __ ] the tree broke D it's my hipbone I broke your hips good God the hip bones connected to the traa Bone your trauma bones connected to your hi",
+    "new_raw": "oh [ __ ] did I connect don't tell me so it is meant to connect to the hip bone the hip bones connected to the something bone ah [ __ ] the tree broke D it's my hipbone I broke your hips good God the hip bones connected to the traa Bone your trauma bones connected to your hi Bone"
+  },
+  {
+    "decision_index_zero_based": 542,
+    "source_segments": [
+      2047,
+      2051
+    ],
+    "old_raw": "Bone uhoh Tree broke all right I'm just assuming this is where it's me to be okay lie to me it is meant to be there I hope",
+    "new_raw": "uhoh Tree broke all right I'm just assuming this is where it's me to be okay lie to me it is meant to be there I hope"
+  },
+  {
+    "decision_index_zero_based": 545,
+    "source_segments": [
+      2065,
+      2068
+    ],
+    "old_raw": "uh is meant to be on here I want to play my time at Portilla I just don't know what I really want to play it let me play",
+    "new_raw": "uh is meant to be on here I want to play my time at Portilla I just don't know what I really want to play it let me play it"
+  },
+  {
+    "decision_index_zero_based": 546,
+    "source_segments": [
+      2069,
+      2074
+    ],
+    "old_raw": "it it's not going to be like exciting though it's not going to be exciting it's just going to be a me engineering [ __ ] and then I'll be like look at that and then I need a I need a stick okay I found",
+    "new_raw": "it's not going to be like exciting though it's not going to be exciting it's just going to be a me engineering [ __ ] and then I'll be like look at that and then I need a I need a stick okay I found it"
+  },
+  {
+    "decision_index_zero_based": 547,
+    "source_segments": [
+      2075,
+      2077
+    ],
+    "old_raw": "it it's enough for you oh that's nice I hope so I just have such high standards for",
+    "new_raw": "it's enough for you oh that's nice I hope so I just have such high standards for myself"
+  },
+  {
+    "decision_index_zero_based": 548,
+    "source_segments": [
+      2078,
+      2080
+    ],
+    "old_raw": "myself uh hold up did this stick go in where is this guess it's just supposed to stick out like this but",
+    "new_raw": "uh hold up did this stick go in where is this guess it's just supposed to stick out like this but"
+  },
+  {
+    "decision_index_zero_based": 552,
+    "source_segments": [
+      2081,
+      2084
+    ],
+    "old_raw": "that's supposed to be the other thing I'm going to make make you guys retex adventures with me which one do you want to start",
+    "new_raw": "that's supposed to be the other thing I'm going to make make you guys retex adventures with me which one do you want to start with"
+  },
+  {
+    "decision_index_zero_based": 554,
+    "source_segments": [
+      2094,
+      2105
+    ],
+    "old_raw": "there yeah like's stay thankfully I don't even have to show anything here fall in here hero oh [ __ ] okay maybe we could def fall in here hero breach breach is interesting because there's so much RNG into it I'll let you I'll let you vote I'll just uh just name out some random ones I see Fallen Hero I see breach I'm a little concerned about honor Brown yeah let's just name a a few of them oh finally stuck in okay good",
+    "new_raw": "yeah like's stay thankfully I don't even have to show anything here fall in here hero oh [ __ ] okay maybe we could def fall in here hero breach breach is interesting because there's so much RNG into it I'll let you I'll let you vote I'll just uh just name out some random ones I see Fallen Hero I see breach I'm a little concerned about honor Brown yeah let's just name a a few of them oh finally stuck in okay good"
+  },
+  {
+    "decision_index_zero_based": 566,
+    "source_segments": [
+      2164,
+      2171
+    ],
+    "old_raw": "no I it was just it's because of the personality I just associate blonde with I guess if you play metamorphosis is that the the term metaphor me metamorph forces metap fasio okay blond do is evil I guess but like I associate bond with good boys except for Dev and cry baby but he was cute",
+    "new_raw": "no I it was just it's because of the personality I just associate blonde with I guess if you play metamorphosis is that the the term metaphor me metamorph forces metap fasio okay blond do is evil I guess but like I associate bond with good boys except for Dev and cry baby but he was cute too"
+  },
+  {
+    "decision_index_zero_based": 567,
+    "source_segments": [
+      2172,
+      2186
+    ],
+    "old_raw": "too I don't know guys I don't know okay so now I need a dark dark part guess this one you think I like stroll I feel like you're trying to bet on me do you guys want to bet on it you want to bet on it let's bet on it if he's anything like akihiko I'm telling you now I'm not going to like him akihito is [ __ ] boring okay it's like all he did was ever he just exercised and did steroids probably you will like stroll are you sure are you sure you want to bet on it you want to bet on",
+    "new_raw": "I don't know guys I don't know okay so now I need a dark dark part guess this one you think I like stroll I feel like you're trying to bet on me do you guys want to bet on it you want to bet on it let's bet on it if he's anything like akihiko I'm telling you now I'm not going to like him akihito is [ __ ] boring okay it's like all he did was ever he just exercised and did steroids probably you will like stroll are you sure are you sure you want to bet on it you want to bet on it"
+  },
+  {
+    "decision_index_zero_based": 569,
+    "source_segments": [
+      2188,
+      2195
+    ],
+    "old_raw": "see you want to you want to bet on this Punk we'll bet on it I bet nothing but we'll Bet On It where's the dark part here you're betting okay okay he's such a sweetheart will I fan girl though I need dopamine guys how hard it is you know how hard it is to get dopamine very very",
+    "new_raw": "you want to you want to bet on this Punk we'll bet on it I bet nothing but we'll Bet On It where's the dark part here you're betting okay okay he's such a sweetheart will I fan girl though I need dopamine guys how hard it is you know how hard it is to get dopamine very very hard"
+  },
+  {
+    "decision_index_zero_based": 570,
+    "source_segments": [
+      2196,
+      2199
+    ],
+    "old_raw": "hard I know akihiko is so boring like I wouldn't be surprised if he does nothing but [ __ ] exercise machine okay hold up this",
+    "new_raw": "I know akihiko is so boring like I wouldn't be surprised if he does nothing but [ __ ] exercise machine okay hold up this here"
+  },
+  {
+    "decision_index_zero_based": 571,
+    "source_segments": [
+      2200,
+      2208
+    ],
+    "old_raw": "here I might go and get a celery as a snack before joining the flers uh and then I need regular piece I must upop 80 oh I need the L-shaped one okay I'll shape the one it goes this way yeah celery with 1 teaspoon of peanut butter that's 90",
+    "new_raw": "I might go and get a celery as a snack before joining the flers uh and then I need regular piece I must upop 80 oh I need the L-shaped one okay I'll shape the one it goes this way yeah celery with 1 teaspoon of peanut butter that's 90 calories"
+  },
+  {
+    "decision_index_zero_based": 572,
+    "source_segments": [
+      2209,
+      2213
+    ],
+    "old_raw": "calories no he is basically like that the cast is amazing I've heard good things uh okay now I'm on step 81 I need some I don't know what ST1 is let me get this",
+    "new_raw": "no he is basically like that the cast is amazing I've heard good things uh okay now I'm on step 81 I need some I don't know what ST1 is let me get this out"
+  },
+  {
+    "decision_index_zero_based": 577,
+    "source_segments": [
+      2243,
+      2254
+    ],
+    "old_raw": "one you know I'm in Persona 4 you were supposed to have implications with that one dude your bro the Broski the guy who looks like D skar from mouthwash cannot remember his name though she's my girl I need a circular piece yeah y you're actually supposed to have like uh implied yoi mans it's not can but it was in the original Japanese version I thought oh it's y SK",
+    "new_raw": "you know I'm in Persona 4 you were supposed to have implications with that one dude your bro the Broski the guy who looks like D skar from mouthwash cannot remember his name though she's my girl I need a circular piece yeah y you're actually supposed to have like uh implied yoi mans it's not can but it was in the original Japanese version I thought oh it's y SK"
+  },
+  {
+    "decision_index_zero_based": 578,
+    "source_segments": [
+      2256,
+      2263
+    ],
+    "old_raw": "okay okay that's done I need uh this piece on top oh Mars too I'm so pissed at Fire Emblem engage I can't believe you can't even get engaged to Mark he's literally the only character that even sticks around you for a thousand years sleep come",
+    "new_raw": "okay okay that's done I need uh this piece on top oh Mars too I'm so pissed at Fire Emblem engage I can't believe you can't even get engaged to Mark he's literally the only character that even sticks around you for a thousand years sleep come on"
+  },
+  {
+    "decision_index_zero_based": 579,
+    "source_segments": [
+      2264,
+      2265
+    ],
+    "old_raw": "on he already acknowledges it's not even a real",
+    "new_raw": "he already acknowledges it's not even a real deal"
+  },
+  {
+    "decision_index_zero_based": 583,
+    "source_segments": [
+      2290,
+      2293
+    ],
+    "old_raw": "now no I don't want to play cabin Factory again that's spooky R fantasio is uh long though is my only",
+    "new_raw": "Now, no I don't want to play cabin Factory again that's spooky R fantasio is uh long though is my only issue"
+  },
+  {
+    "decision_index_zero_based": 584,
+    "source_segments": [
+      2294,
+      2300
+    ],
+    "old_raw": "issue I did know bunker I did know of course I knew it was all over my timeline thank you for the SC um I I still got to finish Paper Mario my eyes are drifting to cute anime boys though in fantasio I will admit I'm sorry",
+    "new_raw": "I did know bunker I did know of course I knew it was all over my timeline thank you for the SC um I I still got to finish Paper Mario my eyes are drifting to cute anime boys though in fantasio I will admit I'm sorry Mario"
+  },
+  {
+    "decision_index_zero_based": 594,
+    "source_segments": [
+      2301,
+      2304
+    ],
+    "old_raw": "Mario I'm sorry we are still stuck at Twilight Town C Factory too all right looks like I got to redo this section now",
+    "new_raw": "I'm sorry we are still stuck at Twilight Town C Factory too all right looks like I got to redo this section now"
+  },
+  {
+    "decision_index_zero_based": 596,
+    "source_segments": [
+      2315,
+      2321
+    ],
+    "old_raw": "oh I like bloodborne but terms of gameplay bloodborne stresses me out that one's not as nice as a Elden ring now if we had the Elden ring mod that uh allowed people to join in without [ __ ] me up in PvP I would be able to ring",
+    "new_raw": "oh I like bloodborne but terms of gameplay bloodborne stresses me out that one's not as nice as a Elden ring now if we had the Elden ring mod that uh allowed people to join in without [ __ ] me up in PvP I would be able to ring more"
+  },
+  {
+    "decision_index_zero_based": 602,
+    "source_segments": [
+      2356,
+      2362
+    ],
+    "old_raw": "did Carol time hey I eat broccoli and like cheese ice picture of broccoli I should get a I should ask for an MP3 where she goes K uh and then I'll make that uh the broccoli say that oh thank you",
+    "new_raw": "Carol time hey I eat broccoli and like cheese ice picture of broccoli I should get a I should ask for an MP3 where she goes K uh and then I'll make that uh the broccoli say that oh thank you"
+  },
+  {
+    "decision_index_zero_based": 606,
+    "source_segments": [
+      2385,
+      2391
+    ],
+    "old_raw": "go oh she's starting to stream it oh [ __ ] is it that oh it is time okay let me let me wait for the bomb to set off and then we'll go redirected d okay I have sent my thing I just hope she notices it uh where is it let me just repair",
+    "new_raw": "oh she's starting to stream it oh [ __ ] is it that oh it is time okay let me let me wait for the bomb to set off and then we'll go redirected d okay I have sent my thing I just hope she notices it uh where is it let me just repair it"
+  },
+  {
+    "decision_index_zero_based": 607,
+    "source_segments": [
+      2392,
+      2395
+    ],
+    "old_raw": "it the grand the grand I like how the title gets cut off right there it's just called the Grand I don't know what it is the grand piece the one",
+    "new_raw": "the grand the grand I like how the title gets cut off right there it's just called the Grand I don't know what it is the grand piece the one piece"
+  },
+  {
+    "decision_index_zero_based": 608,
+    "source_segments": [
+      2396,
+      2407
+    ],
+    "old_raw": "piece we got four minutes I got to make do with my time I mean I don't think I'll finish naturally but I I take this four minutes to spend time and let her settle in I don't know if she's the type to do like the five minutes before stream starts she starts the starting student screen or five minutes she'll be in the starting student screen after she started the starting student screen oh",
+    "new_raw": "we got four minutes I got to make do with my time I mean I don't think I'll finish naturally but I I take this four minutes to spend time and let her settle in I don't know if she's the type to do like the five minutes before stream starts she starts the starting student screen or five minutes she'll be in the starting student screen after she started the starting student screen oh"
+  },
+  {
+    "decision_index_zero_based": 617,
+    "source_segments": [
+      2480,
+      2485
+    ],
+    "old_raw": "it so yeah check out the membership Community tab for your comic for this month good job to the winner for that I thought it was a really nice comic also the elf looks like a Herm protagonist I guess",
+    "new_raw": "so yeah check out the membership Community tab for your comic for this month good job to the winner for that I thought it was a really nice comic also the elf looks like a Herm protagonist I guess"
+  },
+  {
+    "decision_index_zero_based": 619,
+    "source_segments": [
+      2494,
+      2498
+    ],
+    "old_raw": "on oh no oh uh-oh oh no what's going on the show is I'm dead for a second time let's go",
+    "new_raw": "oh no oh uh-oh oh no what's going on the show is I'm dead for a second time let's go"
+  },
+  {
+    "decision_index_zero_based": 386,
+    "source_segments": [
+      1357,
+      1362
+    ],
+    "old_raw": "Here, maybe like this. Oh, I guess that would look weird, but it makes sense. But then I messed up something. Oh, the tree fell. Frog, where are you? This way. Uh-oh, everything's falling apart now.",
+    "new_raw": "Here, maybe like this. Oh, I guess that would look weird, but it makes sense. But then I messed up something. Oh, the tree fell. Frog, where are you? This way."
+  },
+  {
+    "decision_index_zero_based": 369,
+    "source_segments": [
+      1315,
+      1324
+    ],
+    "old_raw": "Yoh, I think I'm missing some stuff. I assume I put this here somewhere. Hold up. Oh, maybe I missed a piece. That wouldn't make sense at all though. I didn't get to use this piece. I don't know what I'm meant to do with it. I'm trying to flip back. Let me just run with the gloves.",
+    "new_raw": "Yoh, I think I'm missing some stuff. I assume I put this here somewhere. Hold up. Oh, maybe I missed a piece. That wouldn't make sense at all though. I didn't get to use this piece. I don't know what I meant to do with it. I'm trying to flip back. Let me just run with the gloves."
+  },
+  {
+    "decision_index_zero_based": 431,
+    "source_segments": [
+      1545,
+      1551
+    ],
+    "old_raw": "All right, I guessed, but this probably is not meant to be the way. Maybe I'm missing another another piece. Let me just put this together. It's supposed to be this way. Okay, I'll put it back.",
+    "new_raw": "All right, I guessed, but this probably is not meant to be the way. Maybe I missing another another piece. Let me just put this together. It's supposed to be this way. Okay, I'll put it back."
+  },
+  {
+    "decision_index_zero_based": 350,
+    "source_segments": [
+      1255,
+      1258
+    ],
+    "old_raw": "Uh, revisiting old ones, I mean I don't mind doing it, but like I also want the sequel. I want the sequel to come out.",
+    "new_raw": "Uh, visiting old ones, I mean I don't mind doing it, but like I also want the sequel. I want the sequel to come out."
+  },
+  {
+    "decision_index_zero_based": 119,
+    "source_segments": [
+      369,
+      371
+    ],
+    "old_raw": "Or am I thinking of a senzu bean? All right, I'm putting in there.",
+    "new_raw": "Or I might thinking of a senzu bean? All right, I'm putting in there."
+  },
+  {
+    "decision_index_zero_based": 195,
+    "source_segments": [
+      649,
+      657
+    ],
+    "old_raw": "By the way, H was missing in action for a bit. He on vacation, and you know what his status says? Stay out of trouble. And I'm like, what is that supposed to mean? Uh, hello, I'm always staying out of trouble. It's not my fault that the last time he went on vacation I may have done some stuff that I shouldn't have. I'm kidding. Or am I not kidding?",
+    "new_raw": "By the way, H must missing in action for a bit. He on vacation, and you know what his status says? Stay out of trouble. And I'm like, what is that supposed to mean? Uh, hello, I'm always staying out of trouble. It's not my fault that the last time he went on vacation I may have done some stuff that I shouldn't have. I'm kidding. Or am I not kidding?"
+  },
+  {
+    "decision_index_zero_based": 317,
+    "source_segments": [
+      1133,
+      1140
+    ],
+    "old_raw": "It got kind of tedious, I'll be honest. Basically it was just like, oh finals. You got to do you got to study hard for them finals, and then you repeat that four times. There's only so many times between like before the finals. You're just so [ __ ] boring to watch as an arc.",
+    "new_raw": "It got kind of tedious, I'll be honest. Basically it was just like, oh finals. You got to do you got to study hard from them finals, and then you repeat that four times. There's only so many times between like before the finals. You're just so [ __ ] boring to watch as an arc."
+  },
+  {
+    "decision_index_zero_based": 337,
+    "source_segments": [
+      1200,
+      1208
+    ],
+    "old_raw": "No comment. Probably not. I've already already retained my sanity. I don't need to go full white-haired Kaneki Ken here. How long have I used? Uh, three hours, maybe. I don't know. It's my first Lego set. It's my first time also owning Legos.",
+    "new_raw": "No comment. Probably not. I've already already retain my sanity. I don't need to go full white-haired Kaneki Ken here. How long have I used? Uh, three hours, maybe. I don't know. It's my first Lego set. It's my first time also owning Legos."
+  },
+  {
+    "decision_index_zero_based": 356,
+    "source_segments": [
+      1269,
+      1275
+    ],
+    "old_raw": "Uh, trying to connect this. Wait, was it supposed to have an end piece? Oh shoot, I think my cat chewed it. Well, I guess it doesn't matter. If this was supposed to have another hole at the end piece, my cat chewed it.",
+    "new_raw": "Uh, trying to connect this. Wait, was it supposed to have a end piece? Oh shoot, I think my cat chewed it. Well, I guess it doesn't matter. If this was supposed to have another hole at the end piece, my cat chewed it."
+  },
+  {
+    "decision_index_zero_based": 359,
+    "source_segments": [
+      1277,
+      1281
+    ],
+    "old_raw": "Good enough. Good enough. There you go. I say that's good enough. It's just uh it's just meant to look like vines, so it's not a big deal, I don't think.",
+    "new_raw": "Good enough. Good enough. There you go. I say that's good enough. It's just uh it's just meant to look like Vine, so it's not a big deal, I don't think."
+  },
+  {
+    "decision_index_zero_based": 410,
+    "source_segments": [
+      1430,
+      1433
+    ],
+    "old_raw": "Okay, step four, what is this? This way. All right, I see the error of my ways, where it fell apart. You should be over here.",
+    "new_raw": "Okay, step four, what is this? This way. All right, I see the error of my ways, where it fall apart. You should be over here."
+  },
+  {
+    "decision_index_zero_based": 418,
+    "source_segments": [
+      1470,
+      1478
+    ],
+    "old_raw": "Uh, let's see. So this should be. These are the pieces that discombobulated, or however you want to say it. So now that I have this, I feel like there's a piece that I'm missing. It's supposed to be a roof piece, but I can't find it. Uh-oh, that's bad.",
+    "new_raw": "Uh, see. So this should be. These are the pieces that discombobulated, or however you want to say it. So now that I have this, I feel like there's a piece that I'm missing. It's supposed to be a roof piece, but I can't find it. Uh-oh, that's bad."
+  },
+  {
+    "decision_index_zero_based": 421,
+    "source_segments": [
+      1490,
+      1496
+    ],
+    "old_raw": "Oh, maybe maybe this is facing the wrong way. No, it should, the frog should be facing this way, so it's actually not incorrect. Then the frog should be facing the other way. No, it makes no sense. This this way. You need to face this way.",
+    "new_raw": "Oh, maybe maybe this is facing the wrong way. No, it should, the frog should be facing this way, so it's actually not incorrect. Then the frog should be facing the other way. No, it makes no sense. This this way. You to face this way."
+  },
+  {
+    "decision_index_zero_based": 373,
+    "source_segments": [
+      1328,
+      1331
+    ],
+    "old_raw": "Okay, okay, so these these little things are meant to be at the sides from what it looks like. That piece is for later.",
+    "new_raw": "Okay, okay, so these these little things are meant to be at the sides from what it looks like. That piece's for later."
+  },
+  {
+    "decision_index_zero_based": 345,
+    "source_segments": [
+      1235,
+      1239
+    ],
+    "old_raw": "Now I need to do something that uh my cats had to play with. This thing. I caught Pepper trying to chew the crap out of this.",
+    "new_raw": "I caught Pepper trying to chew the crap out of this."
+  },
+  {
+    "decision_index_zero_based": 149,
+    "source_segments": [
+      486,
+      489
+    ],
+    "old_raw": "What do Twilight have? Uh, sperm that freezes simply because you swam in the Hawaiian Ocean or something. Completely unrealistic. Hello.",
+    "new_raw": "What the Twilight have? Uh, sperm that def freezes simply because you swam in the Hawaiian Ocean or something. Completely unrealistic. Hello."
+  }
+]

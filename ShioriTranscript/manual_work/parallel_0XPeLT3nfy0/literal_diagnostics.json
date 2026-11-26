@@ -1,0 +1,5689 @@
+[
+  {
+    "part": "part01.json",
+    "row": 3,
+    "source_segments": [
+      20,
+      22
+    ],
+    "status": "SFT",
+    "raw": "Yeah. Yeah, oh, I hope for your sake they are. Yeah, I think so. Mine's not depressed.",
+    "source_raw": "yeah yeah oh I hope for your sake they are yeah I think so mine's not",
+    "unmatched": [
+      "depressed"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 9,
+    "source_segments": [
+      36,
+      38
+    ],
+    "status": "SFT",
+    "raw": "Oh, I guess you can. All right, we can do that. That's called stalking.",
+    "source_raw": "away oh I guess you can all right we can do that that's called stocking",
+    "unmatched": [
+      "stalking"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 11,
+    "source_segments": [
+      41,
+      44
+    ],
+    "status": "SFT",
+    "raw": "Where are you going? Okay, I think all this time I've been talking to myself. I forgot my my triple audio and messed up.",
+    "source_raw": "something there you go where are you going okay I think all this time I've been talking to myself I forgot my my triple audio and",
+    "unmatched": [
+      "messed",
+      "up"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 14,
+    "source_segments": [
+      49,
+      50
+    ],
+    "status": "SFT",
+    "raw": "Yeah, you have to make it. Shad, yeah, okay. I I'll just run. I'll just run, I guess, huh?",
+    "source_raw": "you have to make it Shad yeah okay I I'll just run I'll just run I guess huh",
+    "unmatched": [
+      "you",
+      "have",
+      "to",
+      "make",
+      "it",
+      "shad",
+      "yeah"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 15,
+    "source_segments": [
+      51,
+      56
+    ],
+    "status": "SFT",
+    "raw": "Oh, actually, I think I can make one for you. Hold on. Does it work if we're not in the same Guild? I think you just have to give it to them anyway. Maybe I can just drop it. Hold on.",
+    "source_raw": "oh actually I think I can make one for you hold on does it work if we're not in the same Guild I think you just have to give it to them anyway maybe I can just drop it hold",
+    "unmatched": [
+      "on"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 16,
+    "source_segments": [
+      57,
+      60
+    ],
+    "status": "LOW",
+    "raw": "No P saddle we we can’t make we can’t make I can make a meaka saddle I think I have a meaka yeah we have meaka one moment we could do it with that own pause",
+    "source_raw": "on no P saddle we we can't make we can't make I can make a meaka saddle I think I have a meaka yeah we have meaka one moment we could do it with that own",
+    "unmatched": [
+      "pause"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 18,
+    "source_segments": [
+      65,
+      66
+    ],
+    "status": "LOW",
+    "raw": "Oh, I have it already. We have in the PK right we too cuz it was really cute.",
+    "source_raw": "have it already we have in the PK right we too cuz it was really cute yeah the",
+    "unmatched": [
+      "oh",
+      "i"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 19,
+    "source_segments": [
+      67,
+      68
+    ],
+    "status": "SFT",
+    "raw": "Yeah, the good thing is that if you die you keep the key items, I think.",
+    "source_raw": "good thing is that if you die you keep the key items I think",
+    "unmatched": [
+      "yeah",
+      "good",
+      "thing",
+      "is",
+      "that",
+      "if",
+      "you",
+      "die",
+      "you",
+      "keep",
+      "the"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 33,
+    "source_segments": [
+      97,
+      100
+    ],
+    "status": "SFT",
+    "raw": "And the best part, it has a nice view down view right. And then if you want even a better view, you can go up onto the roof too.",
+    "source_raw": "size and the best part it has a nice view down view right and then if you want even a better view you can go up onto the roof",
+    "unmatched": [
+      "too"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 38,
+    "source_segments": [
+      109,
+      109
+    ],
+    "status": "LOW",
+    "raw": "You bless you",
+    "source_raw": "you bless",
+    "unmatched": [
+      "you"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 39,
+    "source_segments": [
+      110,
+      111
+    ],
+    "status": "LOW",
+    "raw": "That's basically it. Yeah, it's a good base. It's very H mine then.",
+    "source_raw": "you that's basically it yeah it's a good BAS it's very H mine then yeah wait we",
+    "unmatched": [
+      "base"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 40,
+    "source_segments": [
+      110,
+      111
+    ],
+    "status": "SFT",
+    "raw": "That's basically it. Yeah, it's a good base.",
+    "source_raw": "you that's basically it yeah it's a good BAS it's very H mine then yeah wait we",
+    "unmatched": [
+      "base"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 48,
+    "source_segments": [
+      127,
+      129
+    ],
+    "status": "LOW",
+    "raw": "You can do it like the old Minecraft way where instead oh there got it it’s this not not our smile huh",
+    "source_raw": "do it like the old Minecraft way where instead oh there got it it's this not not our smile huh",
+    "unmatched": [
+      "you",
+      "can"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 51,
+    "source_segments": [
+      135,
+      137
+    ],
+    "status": "SFT",
+    "raw": "Oh, what's the big white dragon? It's Blue-Eyes White Dragon. Oh my gosh.",
+    "source_raw": "o what's the big white dragon it's blue eyes white dragon oh my gosh I was going to go after you I don't",
+    "unmatched": [
+      "what's",
+      "the",
+      "big",
+      "white",
+      "dragon",
+      "it's",
+      "blue",
+      "eyes",
+      "white",
+      "dragon",
+      "oh"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 57,
+    "source_segments": [
+      149,
+      150
+    ],
+    "status": "SFT",
+    "raw": "We got a little fountain in the center.",
+    "source_raw": "got a little fountain in the center or the pal sleep here next to the nice own",
+    "unmatched": [
+      "we"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 59,
+    "source_segments": [
+      154,
+      156
+    ],
+    "status": "SFT",
+    "raw": "Oh my goodness, if we go in here, I have decorated a little bit. It looks so nice, fancy. Wow.",
+    "source_raw": "my goodness if we go in here I have decorated a little bit it looks so nice fancy wow deoration can fit more than",
+    "unmatched": [
+      "oh"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 62,
+    "source_segments": [
+      161,
+      162
+    ],
+    "status": "LOW",
+    "raw": "Are you sleep my if you go across it connects to my B bathroom it’s a bathro bathroom",
+    "source_raw": "you sleep my if you go across it connects to my B bathroom it's a bathro",
+    "unmatched": [
+      "are",
+      "bathroom"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 64,
+    "source_segments": [
+      164,
+      166
+    ],
+    "status": "LOW",
+    "raw": "Yeah this is where toilet bath thing the bath glitty is a candle a a that’s nice of flowers too",
+    "source_raw": "this is where toilet bath thing the bath glitty is a candle a a that's nice of flowers too",
+    "unmatched": [
+      "yeah"
+    ]
+  },
+  {
+    "part": "part01.json",
+    "row": 73,
+    "source_segments": [
+      183,
+      184
+    ],
+    "status": "SFT",
+    "raw": "And this is my be bar out here. I can serve you guys drinks.",
+    "source_raw": "pin and this is my be bar out here I can serve you guys",
+    "unmatched": [
+      "drinks"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 1,
+    "source_segments": [
+      211,
+      214
+    ],
+    "status": "SFT",
+    "raw": "No. Okay, let’s go. So if you follow down the road, uh, this way, mhm, just down down the street. Made some progress, a little bit.",
+    "source_raw": "no Okay let's go so if you follow down the road a this way H mhm just down down the street made some progress a little bit",
+    "unmatched": [
+      "uh"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 7,
+    "source_segments": [
+      225,
+      228
+    ],
+    "status": "SFT",
+    "raw": "Nerissa, what do you mean am I joking? About what? I don’t think she’s joking for some reason.",
+    "source_raw": "norissa what do you mean am I joking about what I don't think she's joking for some reason oh my God wait can you put hum in",
+    "unmatched": [
+      "nerissa"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 9,
+    "source_segments": [
+      231,
+      234
+    ],
+    "status": "LOW",
+    "raw": "Yeah, you’re so scary. That’s nice. I feel like I’m in a nightmare all of a sudden. No, but it’s a",
+    "source_raw": "Yeah you're so scary that's nice I feel like I'm in a nightmare all of a sudden no but it's",
+    "unmatched": [
+      "a"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 13,
+    "source_segments": [
+      240,
+      243
+    ],
+    "status": "LOW",
+    "raw": "Speaking of, your stairs confuse me. Yeah, me too. They’re fine. Stairs, sh.",
+    "source_raw": "building stuff speaking of your stairs confuse me yeah me too they're fine STS sh yeah it's quite uh it's quite fun",
+    "unmatched": [
+      "stairs"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 15,
+    "source_segments": [
+      243,
+      246
+    ],
+    "status": "SFT",
+    "raw": "Yeah, it’s quite uh it’s quite fun. It’s a cute little, it’s it’s it’s humble, but it’s my it’s my place. It’s like a Barbie’s dream house. Yeah, exactly.",
+    "source_raw": "sh yeah it's quite uh it's quite fun it's a cute little it's it's it's tumble but it's my it's my place it's like a Barbie stream house yeah exactly norissa",
+    "unmatched": [
+      "humble",
+      "barbie's",
+      "dream"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 16,
+    "source_segments": [
+      246,
+      251
+    ],
+    "status": "SFT",
+    "raw": "Nerissa, your egg is done. Really? I just went over there and it said it had like a while left. Do you want to know what’s in my egg? Is that why you’re asking? Yeah. What’s in your egg?",
+    "source_raw": "Barbie stream house yeah exactly norissa your egg is done really I just went over there and it said it had like a while left do you want to know what's in my egg is that why you're asking yeah what's in your egg",
+    "unmatched": [
+      "nerissa"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 18,
+    "source_segments": [
+      258,
+      260
+    ],
+    "status": "SFT",
+    "raw": "Let’s see. All right, let’s see what this one is. This one is a Foxparks. And, oh, wow, so so rare.",
+    "source_raw": "collection of them let's see all right let's see what this one is this one is a fox Sparks and oh wow so so rare yeah",
+    "unmatched": [
+      "foxparks"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 21,
+    "source_segments": [
+      265,
+      270
+    ],
+    "status": "LOW",
+    "raw": "Oh, thank you. Sorry, I don’t have enough leather to make one for f you can do that I we’re level 14 she already a 13 yeah I’m baby this is 19 but she already looks much cooler h I don’t I look cool want",
+    "source_raw": "thank you sorry I don't have enough leather to make one for f you can do that I we're level 14 she already a 13 yeah I'm baby this is 19 but she already looks much cooler h i don't I look cool want",
+    "unmatched": [
+      "oh"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 22,
+    "source_segments": [
+      265,
+      266
+    ],
+    "status": "SFT",
+    "raw": "Oh, thank you. Sorry, I don’t have enough leather to make one.",
+    "source_raw": "thank you sorry I don't have enough leather to make one for",
+    "unmatched": [
+      "oh"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 24,
+    "source_segments": [
+      271,
+      274
+    ],
+    "status": "LOW",
+    "raw": "Boo, you look with your witch hat here here here I’ll give you I’ll give you this one take this one oh wow look at youa",
+    "source_raw": "Bo you look with your witch hat here here here I'll give you I'll give you this one take this one oh wow look at youa",
+    "unmatched": [
+      "boo"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 25,
+    "source_segments": [
+      272,
+      274
+    ],
+    "status": "SFT",
+    "raw": "Here here here, I’ll give you I’ll give you this one. Take this one. Oh, wow, look at you.",
+    "source_raw": "here here I'll give you I'll give you this one take this one oh wow look at youa",
+    "unmatched": [
+      "here",
+      "you"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 26,
+    "source_segments": [
+      275,
+      277
+    ],
+    "status": "SFT",
+    "raw": "Thank you. Put, you’re like a Power Ranger. Yeah, uh, Kyla gave this to me. Look so much cooler now, thank you.",
+    "source_raw": "thank you put you're like a Power Ranger yeah uh Kyla gave this to me look so much cooler now thank",
+    "unmatched": [
+      "you"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 27,
+    "source_segments": [
+      279,
+      283
+    ],
+    "status": "SFT",
+    "raw": "It matches our hat, right? Yeah, yeah, it does. You look like a fire witch or a cowboy witch. Cowboy witch, what? Yeah, instead of like magic wands, you got guns.",
+    "source_raw": "you it matches our hot right yeah yeah it does you look like a fire witch or a cowboy witch Cowboy witch what yeah instead of like magic ones you got guns well shall we go to shor's base or",
+    "unmatched": [
+      "hat",
+      "wands"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 28,
+    "source_segments": [
+      283,
+      285
+    ],
+    "status": "SFT",
+    "raw": "Well, shall we go to Shiori’s base, or? Okay, I don’t know how to get there, actually. No, but let’s go.",
+    "source_raw": "guns well shall we go to shor's base or okay I don't know how to get there actually no but let's go mea mea and",
+    "unmatched": [
+      "shiori's"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 30,
+    "source_segments": [
+      286,
+      287
+    ],
+    "status": "SFT",
+    "raw": "And then are we going to run there or fast travel?",
+    "source_raw": "then are we going to run there or fast travel closes maybe I think you're going",
+    "unmatched": [
+      "and"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 31,
+    "source_segments": [
+      289,
+      292
+    ],
+    "status": "SFT",
+    "raw": "I know where it is. Maybe. Yes, I think I know where it is. It’s not too too far. Let let’s have an adventure. Let’s go.",
+    "source_raw": "know where it is is maybe yes I think I know where it is it's not too too far let let's have an adventure let's go to way boo why can't",
+    "unmatched": [
+      "maybe",
+      "yes",
+      "i",
+      "think",
+      "i",
+      "know",
+      "where",
+      "it",
+      "is"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 32,
+    "source_segments": [
+      292,
+      296
+    ],
+    "status": "SFT",
+    "raw": "Wait, Boo, why can’t I ride Melpaca? Did you make a saddle? I did. Maybe we had to give it. Come on, Cafe, I need to ride with you. Let’s continue.",
+    "source_raw": "adventure let's go to way boo why can't I ride mil Paca did you make a saddle I did maybe we had to give it come on Cafe I need to ride with you let's continue I was your bird's on fire while",
+    "unmatched": [
+      "wait",
+      "melpaca"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 34,
+    "source_segments": [
+      301,
+      306
+    ],
+    "status": "SFT",
+    "raw": "Okay, is a little slow. All right, I’m going follow Biboo cuz I I don’t remember how to get home. Okay, you don’t remember how to get home? No, once I made a teleporter, I was like, yeah, that’s good enough. All I know is it’s in Canada.",
+    "source_raw": "okay is a little slow all right I'm going follow bi boo cuz I I don't remember how to get home okay you don't remember how to get home no once I made a teleporter I was like yeah that's good enough all I know is it's in Canada oh",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 35,
+    "source_segments": [
+      307,
+      310
+    ],
+    "status": "LOW",
+    "raw": "Oh, and this is IRyS’s base, so IRyS lives here. Can I get this found? Oh, that thing looks cool. It’s like toilet paper, I kind of want it.",
+    "source_raw": "and this is iris's base so Iris lives here can I get this found oh that thing looks cool it's like toilet Pap I kind of want it we found something borrow",
+    "unmatched": [
+      "and",
+      "this",
+      "is",
+      "irys's",
+      "base",
+      "so",
+      "irys",
+      "lives",
+      "here",
+      "can",
+      "get",
+      "this",
+      "oh",
+      "that",
+      "thing",
+      "looks",
+      "cool",
+      "it's",
+      "like",
+      "toilet",
+      "paper",
+      "i",
+      "kind",
+      "of",
+      "want",
+      "it"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 36,
+    "source_segments": [
+      307,
+      308
+    ],
+    "status": "SFT",
+    "raw": "Oh, and this is IRyS’s base, so IRyS lives here.",
+    "source_raw": "and this is iris's base so Iris lives here can I get this found oh that thing",
+    "unmatched": [
+      "and",
+      "this",
+      "is",
+      "irys's",
+      "base",
+      "so",
+      "irys",
+      "lives",
+      "here"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 37,
+    "source_segments": [
+      308,
+      310
+    ],
+    "status": "SFT",
+    "raw": "Oh, that thing looks cool. It’s like toilet paper, I kind of want it.",
+    "source_raw": "here can I get this found oh that thing looks cool it's like toilet Pap I kind of want it we found something borrow",
+    "unmatched": [
+      "paper"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 39,
+    "source_segments": [
+      313,
+      318
+    ],
+    "status": "LOW",
+    "raw": "Have I okay maaaaaa is in trouble milaa what are you doinga what’s going on oh are they getting raided here I will help you",
+    "source_raw": "have I okay maaaaaa is in trouble milaa what are you doinga what's going on oh are they getting raided here I will help",
+    "unmatched": [
+      "you"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 42,
+    "source_segments": [
+      325,
+      327
+    ],
+    "status": "LOW",
+    "raw": "Yeah oh it’s the the CI I need to catch one kind of rude of NAA huh there we go what",
+    "source_raw": "yeaha oh it's the the CI I need to catch one kind of rude of NAA huh there we go what",
+    "unmatched": [
+      "yeah"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 45,
+    "source_segments": [
+      331,
+      334
+    ],
+    "status": "SFT",
+    "raw": "I tried to capture a shiny at our base, Biboo, but then everyone killed it. What, everyone in your base killed it? Essentially.",
+    "source_raw": "shiny sounds I tried to capture a shiny or a base B boo but then everyone killed it what everyone in your base killed it essentially that happened to me I had",
+    "unmatched": [
+      "at",
+      "our",
+      "biboo"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 46,
+    "source_segments": [
+      334,
+      339
+    ],
+    "status": "SFT",
+    "raw": "That happened to me. I had like a shiny near my base and I tried to get it, and then my whole entire camp came and destroyed it. Oh, man, what kind of shiny was it? It was a stupid cat. I found another one later, so.",
+    "source_raw": "essentially that happened to me I had like a shiny near my base and I tried to get it and then my whole entire Camp came and destroyed it oh man what kind of shiny was it it was a stupid cat I found another one later",
+    "unmatched": [
+      "so"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 47,
+    "source_segments": [
+      340,
+      346
+    ],
+    "status": "SFT",
+    "raw": "Hey, can you guys come back up to near my base? Okay, this way. Yeah, I think this is, uh, that’s Reese’s base.",
+    "source_raw": "so hey can you guys come back up to near my face okay this way yeah I think this is uh that's rees's [Music] space",
+    "unmatched": [
+      "base",
+      "reese's",
+      "base"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 49,
+    "source_segments": [
+      352,
+      357
+    ],
+    "status": "SFT",
+    "raw": "I think I need to quick check my other camp. Yeah, go ahead. I definitely, I hear it, I hear it down near my camp too. Yeah, I don’t know where it is.",
+    "source_raw": "I think I need to quick check my other Camp yeah goad I definitely I hear it I hear it down near my Camp too yeah I don't know where it [Music] is it's getting louder it is I know what",
+    "unmatched": [
+      "go",
+      "ahead"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 50,
+    "source_segments": [
+      357,
+      361
+    ],
+    "status": "SFT",
+    "raw": "It’s getting louder. It is. I know what shiny sounds like. Oh, it’s a shiny sheep. Oh, get your sheep. Does anybody want it? I have three already. We don’t have one. Don’t have. Oh, for sure.",
+    "source_raw": "is it's getting louder it is I know what shiny sounds like oh it's a shiny sheep oh get your Jeep does anybody want it I have three already we don't have one don't have oh for sure I can see",
+    "unmatched": [
+      "sheep"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 51,
+    "source_segments": [
+      361,
+      365
+    ],
+    "status": "LOW",
+    "raw": "I can see you know Reese’s house yeah it’s on the cliff behind the’s house okay oh I see something up there",
+    "source_raw": "don't have oh for sure I can see [Music] you know ree's house yeah it's on the cliff behind the's house okay oh I see something up",
+    "unmatched": [
+      "reese's",
+      "there"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 52,
+    "source_segments": [
+      363,
+      365
+    ],
+    "status": "SFT",
+    "raw": "You know Reese’s house? Yeah, it’s on the cliff behind the’s house. Okay, oh, I see something up there.",
+    "source_raw": "you know ree's house yeah it's on the cliff behind the's house okay oh I see something up",
+    "unmatched": [
+      "reese's",
+      "there"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 53,
+    "source_segments": [
+      366,
+      369
+    ],
+    "status": "SFT",
+    "raw": "Bless you, bless you. We’re going to fall off the cliff. We’re not. Oh, poor pullet, it stood no chance. I think we run him over and now he’s a bit angry.",
+    "source_raw": "there bless you bless you we're going to fall off the cff we're not oh poor pullet it stood no chance I think we run him over and now he's a bit angry oh did",
+    "unmatched": [
+      "cliff"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 54,
+    "source_segments": [
+      369,
+      372
+    ],
+    "status": "SFT",
+    "raw": "Oh, did I? Up up up. Oh, yeah, there it is. Wait. All right, you could probably capture this one; nothing will kill it.",
+    "source_raw": "him over and now he's a bit angry oh did I up up up oh yeah there it is way all right you could probably capture this one nothing will kill it oh up up oh",
+    "unmatched": [
+      "wait"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 55,
+    "source_segments": [
+      372,
+      378
+    ],
+    "status": "SFT",
+    "raw": "Oh, up up. Oh, really? Are you guys lost? It’s over here. Get it, get it. Okay, okay, okay. I just have to remember how to throw stuff. Yeah, I, Q. Poke it a little bit. Okay, here goes.",
+    "source_raw": "one nothing will kill it oh up up oh really are you guys lost it's over here get it get it okay okay okay I just have to remember how to throw stuff yeah I cute poke it a little bit okay here goes",
+    "unmatched": [
+      "q"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 57,
+    "source_segments": [
+      380,
+      383
+    ],
+    "status": "SFT",
+    "raw": "Oh, is it dead? Back. Press E, press E. Yeah, put put my pack away, put my pack away. I’m just I’m just watching the kids.",
+    "source_raw": "get oh is it dead back press e press e yeah put put my pack away put my pack away I'm just I'm just watching the",
+    "unmatched": [
+      "kids"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 60,
+    "source_segments": [
+      391,
+      394
+    ],
+    "status": "SFT",
+    "raw": "Okay, good job. I grab it for you just in case because I felt like’s pal were going to kill it. I’m going to grab it and drop it. Thank you, thank you.",
+    "source_raw": "okay good job I gra it for you just in case because I felt like 's pal were going to kill it I'm going to grab it and drop it thank you thank you where",
+    "unmatched": [
+      "for",
+      "just",
+      "in",
+      "case",
+      "because",
+      "i",
+      "felt",
+      "like's",
+      "pal",
+      "were",
+      "going",
+      "to",
+      "kill",
+      "it",
+      "i'm",
+      "going",
+      "to",
+      "grab",
+      "it",
+      "and",
+      "drop",
+      "it",
+      "thank",
+      "you"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 63,
+    "source_segments": [
+      403,
+      409
+    ],
+    "status": "LOW",
+    "raw": "What call it deep oh actually see like a a deep with a d deep deep deep deep deep oh there’s a fall damage for the M oh wait why did I do that I could just do this DJ DJ e DJ e",
+    "source_raw": "what call it deep oh actually see like a a deep with a d deep deep deep deep deep deep oh there's a fall damage for the M oh wait why did I do that I could just do this DJ DJ e DJ",
+    "unmatched": [
+      "e"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 65,
+    "source_segments": [
+      410,
+      412
+    ],
+    "status": "LOW",
+    "raw": "Okay, where are you guys? I am in front of the house. No’s house house. Yeah, let’s go. That was pretty smart at me.",
+    "source_raw": "e okay where are you guys I am in front of the house no's house house yeah let's go that was pretty smart at",
+    "unmatched": [
+      "me"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 67,
+    "source_segments": [
+      412,
+      412
+    ],
+    "status": "SFT",
+    "raw": "That was pretty smart at me.",
+    "source_raw": "go that was pretty smart at",
+    "unmatched": [
+      "me"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 68,
+    "source_segments": [
+      413,
+      417
+    ],
+    "status": "SFT",
+    "raw": "Okay, uh, pick this up. Uh, I just, oh, yeah, uh, boop. Oh, it’s so dark. Here you go. Oh, that, thank you, thank you.",
+    "source_raw": "me okay uh pick this up uh I just oh yeah uh Boop oh it's so dark here you go oh that thank you thank you's Pals were probably going to kill",
+    "unmatched": [
+      "you"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 69,
+    "source_segments": [
+      417,
+      421
+    ],
+    "status": "SFT",
+    "raw": "Your Pals were probably going to kill it, so I had to grab it really fast. Yeah, I’m sorry, they’re murderers. It’s it’s okay, that’s what happens when you erase things. No.",
+    "source_raw": "you's Pals were probably going to kill it till I had to grab it really fast yeah I'm sorry they're murderers it's it's okay that's what happens when you erase things no",
+    "unmatched": [
+      "your",
+      "so"
+    ]
+  },
+  {
+    "part": "part02.json",
+    "row": 71,
+    "source_segments": [
+      423,
+      427
+    ],
+    "status": "SFT",
+    "raw": "Okay, where are you guys? Is going to their box to get the the sheep out. Okay, we can get we can get sheep later. Okay, we can we can go to Shiori then, yeah.",
+    "source_raw": "again okay where are you guys is going to their box to get the the Jeep out okay we can get we can get Jeep later okay we can we can go to Shori then yeah",
+    "unmatched": [
+      "sheep",
+      "sheep",
+      "shiori"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 1,
+    "source_segments": [
+      431,
+      433
+    ],
+    "status": "SFT",
+    "raw": "Go. All right, I’m going to go to the cathedral near IRyS-senpai’s base. Oh, okay, we’ll meet you there. Okay.",
+    "source_raw": "go all right I'm going to go to the cathedral near Iris Senpai space Oh okay we'll meet you there okay",
+    "unmatched": [
+      "irys",
+      "senpai's",
+      "base"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 5,
+    "source_segments": [
+      438,
+      445
+    ],
+    "status": "LOW",
+    "raw": "Yeah it’s a bit sad you can’t breathe them right that’s what you wanted what well I want huh well I wanted to breathe them because like they’re so useless there’s something else to do so if I breath them then I could just like eat eat the what you know the the treat what what is it",
+    "source_raw": "much yeah it's a bit sad you can't breathe them right that's what you wanted what well I want huh well I wanted to breathe them because like they're so useless there's something else to do so if I breath them then I could just like eat eat the what you know the the treat what what is",
+    "unmatched": [
+      "it"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 6,
+    "source_segments": [
+      438,
+      442
+    ],
+    "status": "SFT",
+    "raw": "Yeah, it’s a bit sad. You can’t breed them, right? That’s what you wanted? What? Well, I want, huh, well, I wanted to breed them because like they’re so useless.",
+    "source_raw": "much yeah it's a bit sad you can't breathe them right that's what you wanted what well I want huh well I wanted to breathe them because like they're so useless there's something",
+    "unmatched": [
+      "breed",
+      "breed"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 13,
+    "source_segments": [
+      460,
+      464
+    ],
+    "status": "SFT",
+    "raw": "Oh, there’s another. There’s a lot of things under the way that I really want to pick up. Oh, yeah, pick them up. How can you pick it up when you’re still on your mount? Yeah, you can.",
+    "source_raw": "Canadia oh there's another there's a lot of things under the way that I really want to pick up oh yeah pick them up how can you pick it up when you're still on your M yeah you can oh what's",
+    "unmatched": [
+      "mount"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 14,
+    "source_segments": [
+      464,
+      467
+    ],
+    "status": "SFT",
+    "raw": "Oh, what’s, help, Nitewing, I think I already have you. Do I already have you? I think I have.",
+    "source_raw": "your M yeah you can oh what's help Nightwing I think I already have you do I already have you I think I have if you guys want to catch anything feel",
+    "unmatched": [
+      "nitewing"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 16,
+    "source_segments": [
+      472,
+      476
+    ],
+    "status": "SFT",
+    "raw": "Oh, that thing is, I already got you. Never mind, I don’t need you. Base should be here somewhere. Um, it’ll be a little bit further.",
+    "source_raw": "H oh that thing is I already got you never mind I don't need you B should be here somewhere um it'll be a little bit further",
+    "unmatched": [
+      "base"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 17,
+    "source_segments": [
+      478,
+      483
+    ],
+    "status": "SFT",
+    "raw": "But you know we’re on an adventure. I went to the base on like day two or something. Yeah, yeah, I had to run there past bandits and everything. Oh my gosh, what an adventure. I know. Oh no, and boys tried to kill me.",
+    "source_raw": "but you know we're on an adventure I went to the base on like day two or something yeah yeah I had to run there past Bandits and everything oh my gosh W what an adventure I know oh no and boys tried to kill",
+    "unmatched": [
+      "me"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 18,
+    "source_segments": [
+      485,
+      488
+    ],
+    "status": "SFT",
+    "raw": "Did you choose this area for the scenery? Yeah, originally I wanted to live where Mori-senpai lived, but I couldn’t find it.",
+    "source_raw": "me did you choose this area for the scenery yeah originally I wanted to live where Mory Senpai lived but I couldn't find it oh she right by us no unless",
+    "unmatched": [
+      "mori"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 21,
+    "source_segments": [
+      493,
+      497
+    ],
+    "status": "SFT",
+    "raw": "Where’s your house? I don’t know. Uh, let’s follow the trail. Is it across this bridge? Oh, where’s, um, hold up, I can’t see. Yeah, it’s probably across the bridge.",
+    "source_raw": "house I don't know uh let's follow the trail is it across this bridge oh where's um hold up I can't see yeah it's probably across the bridge yep it's sleeping this is where the bandits",
+    "unmatched": [
+      "your",
+      "house",
+      "don't",
+      "know",
+      "uh",
+      "let's",
+      "follow",
+      "trail",
+      "it",
+      "across",
+      "this",
+      "bridge",
+      "oh",
+      "where's",
+      "um",
+      "hold",
+      "up",
+      "i",
+      "can't",
+      "see",
+      "yeah",
+      "it's",
+      "probably",
+      "across",
+      "bridge"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 26,
+    "source_segments": [
+      505,
+      508
+    ],
+    "status": "SFT",
+    "raw": "We can run them over. Run them. Did it. Oh, sorry, I didn’t mean to kill you. I guess we just go past them now.",
+    "source_raw": "it's okay I got it thank you we can run them over run them did it oh sorry I didn't mean to kill you I guess we just go past them",
+    "unmatched": [
+      "now"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 27,
+    "source_segments": [
+      509,
+      515
+    ],
+    "status": "SFT",
+    "raw": "Okay, and then I think it’s over to the, hold up. Wait, don’t you have it on the map? Yeah, yeah, I don’t understand how the cursor works. It like it lags when I’m turning directions. I think it’s this way. I don’t know, we’ll figure it out.",
+    "source_raw": "now okay and then I think it's over to the hold up wait soon you have it on the map yeah yeah I don't understand how the cursor works it like it lags when I'm turning directions I think it's this way I don't know we'll figure it out okay let's just",
+    "unmatched": [
+      "you",
+      "have",
+      "on",
+      "the",
+      "map",
+      "yeah",
+      "yeah",
+      "understand",
+      "how",
+      "the",
+      "cursor",
+      "works",
+      "like",
+      "it",
+      "lags",
+      "when",
+      "i'm",
+      "turning",
+      "directions",
+      "i",
+      "think",
+      "it's",
+      "this",
+      "way",
+      "i",
+      "don't",
+      "know",
+      "we'll",
+      "figure",
+      "it"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 29,
+    "source_segments": [
+      515,
+      517
+    ],
+    "status": "SFT",
+    "raw": "Okay, let’s just keep going in Canada. Yeah, I’m I’m I’m I’m flying directly there.",
+    "source_raw": "know we'll figure it out okay let's just keep going in Canada yeah I'm I'm I'm I'm flying",
+    "unmatched": [
+      "directly",
+      "there"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 30,
+    "source_segments": [
+      518,
+      520
+    ],
+    "status": "SFT",
+    "raw": "Why don’t she lead us? You’ll be like the guide in moonlight.",
+    "source_raw": "directly there so I'm at sh yeah why' she lead us you'll be like the guide in Moonlight I was catching I was catching",
+    "unmatched": [
+      "don't"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 33,
+    "source_segments": [
+      529,
+      532
+    ],
+    "status": "SFT",
+    "raw": "Here, Biboo, do you want me to give you the coordinates? Sure. 12 negative, or 12 and then minus 528. 12.",
+    "source_raw": "to hit him a little here beu do you want me to give you the coordinates sure 12 negative or 12 and then minus 528 12 I have many more pures 12 do you",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 34,
+    "source_segments": [
+      532,
+      535
+    ],
+    "status": "LOW",
+    "raw": "I have many more pures 12 do you need pures actually how many do I have oh okay I see I see just wants to toss him without hurting him first",
+    "source_raw": "528 12 I have many more pures 12 do you need pures actually how many do I have oh okay I see I see just wants to toss him without hurting him",
+    "unmatched": [
+      "first"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 35,
+    "source_segments": [
+      533,
+      535
+    ],
+    "status": "SFT",
+    "raw": "Actually, how many do I have? Oh, okay, I see, I see. Just wants to toss him without hurting him first.",
+    "source_raw": "need pures actually how many do I have oh okay I see I see just wants to toss him without hurting him",
+    "unmatched": [
+      "first"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 37,
+    "source_segments": [
+      541,
+      544
+    ],
+    "status": "SFT",
+    "raw": "Okay, I think it’s south. It’s south, we got to go south. Okay, friends, oh, do you guys have Depresso yet?",
+    "source_raw": "asleep and he can't get up oops okay I think it's South it's South we got to go south okay friends oh do you guys have depress so yet oh [ __ ] I was oh [ __ ]",
+    "unmatched": [
+      "depresso"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 43,
+    "source_segments": [
+      562,
+      566
+    ],
+    "status": "LOW",
+    "raw": "Her house is nice and organized too. Oh, no, it’s not. I live like [ __ ]. This is this is my my very very pitiful bedroom with a little bit of territory right there to get off of my",
+    "source_raw": "moon oh wow Ser house is nice and organized too oh no it's not I live like [ __ ] this is this is my my very very pitiful bedroom with a little bit of territory right there to get off of my",
+    "unmatched": [
+      "her"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 46,
+    "source_segments": [
+      567,
+      570
+    ],
+    "status": "SFT",
+    "raw": "No, I’m going to ride Melpaca in here. It’s kind of rude. No, it’s big enough. It’s not that bad of a place. Look, you got three floors.",
+    "source_raw": "no I'm going to ride mil Paca in here it's kind of rude no it's big enough it's not that bad of a place look you got three floors what what just got",
+    "unmatched": [
+      "melpaca"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 50,
+    "source_segments": [
+      580,
+      585
+    ],
+    "status": "LOW",
+    "raw": "And then in the back um there’s like an onon a yeah yeah get off no when when onon cuz oh my pals are hungry well stop being hungry hold up",
+    "source_raw": "then in the back um there's like an onon a yeah yeah get off no when when onon cuz oh my pals are hungry well stop being hungry hold up just stop being hungry yeah come",
+    "unmatched": [
+      "and"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 52,
+    "source_segments": [
+      588,
+      591
+    ],
+    "status": "SFT",
+    "raw": "Nice view. Yeah, a lot of people eat the food. There’s been no one in here.",
+    "source_raw": "nice view yeah L of people eat the food there's been no one in here have you sneezed three times I",
+    "unmatched": [
+      "a",
+      "lot"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 58,
+    "source_segments": [
+      606,
+      609
+    ],
+    "status": "SFT",
+    "raw": "Oh, I mean it’s up to you. You can have some of the ore. They respawn anyway. Hey, my ore, stop. We get heavy though.",
+    "source_raw": "oh what are you doing helping oh I mean it's up to you you can have some of the ore they respawn anyway hey my or stop we get heavy though hi we will yeah",
+    "unmatched": [
+      "ore"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 60,
+    "source_segments": [
+      612,
+      616
+    ],
+    "status": "SFT",
+    "raw": "Do you guys want to do some bosses? Uh, sure. Are you going to? I’ll die. Yeah, well, I’ll take you to like the not so high level one.",
+    "source_raw": "yeah I took them out do you guys want to do some bosses uh sure are you going to I'll die yeah well I'll take you to like the not so high level",
+    "unmatched": [
+      "one"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 61,
+    "source_segments": [
+      617,
+      619
+    ],
+    "status": "SFT",
+    "raw": "Should we bring our best Pals then? Oops. Help. Have some nice Pals, maybe. Where’s the base area?",
+    "source_raw": "one should we bring our best Pals then oops help have some nice Pals maybe where's the Bas",
+    "unmatched": [
+      "base",
+      "area"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 64,
+    "source_segments": [
+      626,
+      626
+    ],
+    "status": "SFT",
+    "raw": "Following. I wonder where the fast travel is here.",
+    "source_raw": "following I wonder where the Fast Travel",
+    "unmatched": [
+      "is",
+      "here"
+    ]
+  },
+  {
+    "part": "part03.json",
+    "row": 70,
+    "source_segments": [
+      641,
+      647
+    ],
+    "status": "SFT",
+    "raw": "Oh, dear. Oh, it’s over here. Um, oh, wait, I can’t fly there. Yeah, oh, well, yeah. Oh, there’s another one. We should go to a small settlement, and then seea we’re going to go without you. Yeah, yeah, that’s fine.",
+    "source_raw": "her base is pretty far away oh dear oh it's over here um oh wait I can't fly there yeah oh well yeah oh there's another one we should go to a small settlement and then seea we're going to go without you yeah yeah that's",
+    "unmatched": [
+      "fine"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 4,
+    "source_segments": [
+      659,
+      664
+    ],
+    "status": "SFT",
+    "raw": "No, you’re actually like inside your pal. Hold on, can you stay still really quick? Stay still really quick, I want to see. I know, I’m too short.",
+    "source_raw": "really really small no you're actually like inside your pal hold on can you stay still really quicko stay still really quick I want to see I know I'm too short oh",
+    "unmatched": [
+      "stay",
+      "still",
+      "really",
+      "quick"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 8,
+    "source_segments": [
+      677,
+      681
+    ],
+    "status": "SFT",
+    "raw": "Bad people, bad people. It’s okay, I have a gun. That’s true, that’s true. Yeah, she’s got a gun. Yeah, even the wolves are scared of you, Biboo.",
+    "source_raw": "maybe bad people bad people it's okay I have a gun that's true that's true yeah she's got a gun yeah even the wolves are scared of you be boo",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 17,
+    "source_segments": [
+      703,
+      710
+    ],
+    "status": "SFT",
+    "raw": "Why? Oh, man, why? So, he needs a little bit more of a punch. Yeah, let me let me smack him a bit. Hold on. Oh, okay, smack him a bit. Oh, oh, this something just throw something at me. Okay, someone punch him.",
+    "source_raw": "why oh man why so h needs a little bit more of a punch yeah let me let me smack him a bit hold on oh okay smack him a bit oh oh this something just throw something at me okay someone punch him what",
+    "unmatched": [
+      "he"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 24,
+    "source_segments": [
+      722,
+      725
+    ],
+    "status": "SFT",
+    "raw": "Yeah, yeah, they’re pretty they’re pretty aggro. They they look silly, but they they’re ferocious. Just like dinosaurs.",
+    "source_raw": "yeah they're pretty they're pretty aggo they they look silly but they they're ferocious we l just like dinosaurs",
+    "unmatched": [
+      "yeah",
+      "aggro"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 25,
+    "source_segments": [
+      726,
+      728
+    ],
+    "status": "SFT",
+    "raw": "Yeah, it’s a lovely place, Canadia, huh? Fictional. Look like Australia.",
+    "source_raw": "y it's a lovely Place Canadia huh fictional look like Australia",
+    "unmatched": [
+      "yeah"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 26,
+    "source_segments": [
+      730,
+      733
+    ],
+    "status": "LOW",
+    "raw": "Be playing with company no oh I think we need a settlement now yeah it’s it’s over here you see the smoke yeah oh cute here it is",
+    "source_raw": "be playing with company no oh I think we need a settlement now yeah it's it's over here you see the smoke yeah oh cute here it",
+    "unmatched": [
+      "is"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 27,
+    "source_segments": [
+      731,
+      733
+    ],
+    "status": "SFT",
+    "raw": "I think we need a settlement now. Yeah, it’s it’s over here. You see the smoke? Yeah. Oh, cute, here it is.",
+    "source_raw": "need a settlement now yeah it's it's over here you see the smoke yeah oh cute here it",
+    "unmatched": [
+      "i",
+      "think",
+      "we",
+      "is"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 29,
+    "source_segments": [
+      739,
+      743
+    ],
+    "status": "SFT",
+    "raw": "Yeah, wow, all right, my pal, please, you must work, please, please. Okay, okay, time to heal up our armor, eat some food, and make our pal happy. I have lots of food, why aren’t they eating it?",
+    "source_raw": "yeah w all right my pal please you must work pleas pleas okay okay time to heal up our armor eat some food and make our pal happy I have lots of food why aren't they eating it",
+    "unmatched": [
+      "wow",
+      "please",
+      "please"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 30,
+    "source_segments": [
+      744,
+      748
+    ],
+    "status": "SFT",
+    "raw": "Did you put it in the food box? Yeah, uh, sometimes you have to like put them back in the box and take them back out because they might get glitched, so try that.",
+    "source_raw": "did you put it in the food box yeah uh sometimes you have to like put them back in the box and take them back out because they might get glitched so try",
+    "unmatched": [
+      "that"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 32,
+    "source_segments": [
+      754,
+      758
+    ],
+    "status": "SFT",
+    "raw": "What do you do with wheat? Can you just like bake with it, or can I just leave it for the pal to eat? Uh, wheat, you can make bread and cake. It’s very important for cake later. Oh, I better keep that.",
+    "source_raw": "you do with wheat can you just like bake with it or can I just leave it for the pal to eat uh wheat you can make bread and Cake it's very important for cake later oh I better keep with that it",
+    "unmatched": [
+      "what",
+      "do",
+      "you",
+      "just",
+      "like",
+      "bake",
+      "or",
+      "can",
+      "i",
+      "just",
+      "leave",
+      "it",
+      "for",
+      "the",
+      "pal",
+      "to",
+      "eat",
+      "uh",
+      "wheat",
+      "you",
+      "can",
+      "make",
+      "bread",
+      "and",
+      "cake",
+      "it's",
+      "very",
+      "important",
+      "for",
+      "cake",
+      "later",
+      "oh",
+      "i",
+      "better",
+      "keep",
+      "that"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 33,
+    "source_segments": [
+      758,
+      762
+    ],
+    "status": "LOW",
+    "raw": "It looks like he’s don’t eat don’t eat raw wheat guys one second wheat wheat wheat wheat",
+    "source_raw": "later oh I better keep with that it looks like he's don't eat don't eat raw weat guys one second wheat wheat wheat whe okay you",
+    "unmatched": [
+      "guys",
+      "one",
+      "second",
+      "wheat",
+      "wheat"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 34,
+    "source_segments": [
+      759,
+      762
+    ],
+    "status": "SFT",
+    "raw": "Don’t eat, don’t eat raw wheat, guys. One second. Wheat wheat wheat wheat.",
+    "source_raw": "looks like he's don't eat don't eat raw weat guys one second wheat wheat wheat whe okay you",
+    "unmatched": [
+      "guys",
+      "one",
+      "second",
+      "wheat",
+      "wheat"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 35,
+    "source_segments": [
+      763,
+      766
+    ],
+    "status": "SFT",
+    "raw": "Okay, you can make pancakes, you can make a lot of things with wheat. You have to you have to make a mill, though, to crush it, I think. Ah, okay.",
+    "source_raw": "can make pancakes you can make a lot of things wheat you have to you have to make a mill though you to crush it I think ah okay yeah uh how do I fix my",
+    "unmatched": [
+      "you",
+      "can",
+      "make",
+      "pancakes",
+      "you",
+      "can",
+      "make",
+      "a",
+      "lot",
+      "of",
+      "things",
+      "with",
+      "wheat",
+      "you",
+      "have",
+      "to",
+      "you",
+      "have",
+      "to",
+      "make",
+      "a",
+      "mill",
+      "though",
+      "to",
+      "crush",
+      "it",
+      "think",
+      "ah",
+      "okay"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 36,
+    "source_segments": [
+      766,
+      770
+    ],
+    "status": "SFT",
+    "raw": "Yeah, uh, how do I fix my broken armor? Uh, you need the repair bench, you need, yeah. Do you do you make a repair bench? Yes, so we did have it. There it is, there it is, this one.",
+    "source_raw": "think ah okay yeah uh how do I fix my broken armor uh you need the repair bench you need yeah do you do you make a repair bench yes so we did have it there it is there it is this",
+    "unmatched": [
+      "one"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 37,
+    "source_segments": [
+      771,
+      775
+    ],
+    "status": "LOW",
+    "raw": "Have to find no this is yeah I just don’t have enough cloth huh do I have any cloth",
+    "source_raw": "one have to find no this is yeah I just don't have enough CL huh do I have any cloth",
+    "unmatched": [
+      "huh",
+      "do",
+      "i",
+      "have",
+      "any",
+      "cloth"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 38,
+    "source_segments": [
+      772,
+      775
+    ],
+    "status": "SFT",
+    "raw": "Yeah, I just don’t have enough cloth. Huh, do I have any cloth?",
+    "source_raw": "find no this is yeah I just don't have enough CL huh do I have any cloth",
+    "unmatched": [
+      "huh",
+      "do",
+      "i",
+      "have",
+      "any",
+      "cloth"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 44,
+    "source_segments": [
+      792,
+      799
+    ],
+    "status": "SFT",
+    "raw": "Okay, okay, I’m ready when you guys are. Okay, where do you want to meet up? Give me a moment, our armor still down, we’re trying to fix it right now, but we can meet up at your base then if you want. We don’t want to make too much, we’ll try to hurry here.",
+    "source_raw": "okay okay I'm ready when you guys are okay what do you want to meet up give me a moment our arm are still down we're trying to fix it right now but we can meet up at your base then if you want we don't want to make too much we'll try to hurry here it's okay",
+    "unmatched": [
+      "where",
+      "armor"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 50,
+    "source_segments": [
+      815,
+      818
+    ],
+    "status": "SFT",
+    "raw": "You guys all do Chillet yet? Ch Chil? Huh, maybe, okay, maybe they haven’t. Okay, we can do that one first. Oh, is that like a boss?",
+    "source_raw": "all do chili yet ch chil huh maybe okay maybe they haven't okay we can do that one first oh is that like a boss yeah we I",
+    "unmatched": [
+      "you",
+      "guys",
+      "chillet"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 51,
+    "source_segments": [
+      818,
+      824
+    ],
+    "status": "SFT",
+    "raw": "Yeah, we, I haven’t done anything. Have you guys all done the tower? No, I haven’t touched anything. Okay, we can do the tower for Shiori as well. Okay, wait, is that the one where you can capture the boss?",
+    "source_raw": "first oh is that like a boss yeah we I haven't done anything have you guys all done the tower no I haven't touched anything okay we can do the tower for Shori as well okay wait is that the one where you can capture the boss can you I want to I don't know is",
+    "unmatched": [
+      "shiori"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 52,
+    "source_segments": [
+      824,
+      827
+    ],
+    "status": "SFT",
+    "raw": "Can you? I want to. I don’t know, is that still a thing? That’s not supposed to happen. Apparently, yeah, it’s a bug. Can you can you still catch it?",
+    "source_raw": "boss can you I want to I don't know is that still a thing that's not supposed to happen I apparently yeah it's a bug can you can you still catch",
+    "unmatched": [
+      "it"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 53,
+    "source_segments": [
+      828,
+      834
+    ],
+    "status": "LOW",
+    "raw": "Biboo can you bring lots of food yeah okay yeah I I have I I need food fixed it a thank you are they happy those are the ones we took out them if we pick the other ones then they’ll be happy",
+    "source_raw": "it bi can you bring lots of food yeah okay yeah I I have I I need food fixed it a thank you are they happy those are the ones we took out them if we pick the other ones then they'll be happy they they're",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 54,
+    "source_segments": [
+      828,
+      831
+    ],
+    "status": "SFT",
+    "raw": "Biboo, can you bring lots of food? Yeah, okay. Yeah, I I have, I I need food.",
+    "source_raw": "it bi can you bring lots of food yeah okay yeah I I have I I need food fixed it a thank",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 56,
+    "source_segments": [
+      834,
+      839
+    ],
+    "status": "SFT",
+    "raw": "They they’re saying it’s still a thing, but some people are saying they’ve patched it, so I’m not sure. Well, it’s it’s supposed to be illegal anyway, so I don’t think we should do it. That doesn’t stop us.",
+    "source_raw": "then they'll be happy they they're saying it's still a thing but some people are saying they've patched it so I'm not sure well it's it's supposed to be illegal any way so I don't think we should do it that doesn't stop us",
+    "unmatched": [
+      "anyway"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 60,
+    "source_segments": [
+      847,
+      851
+    ],
+    "status": "SFT",
+    "raw": "Oh, I don’t know what Pals to put out. Put out any Pal. They all have different skills. Yeah, but as long as they’re happy to do something, if it’s depressed they won’t do anything.",
+    "source_raw": "oh I don't know what PS to put out put out any P they all have different skills yeah but as long as they're happy to do something if it's depress they won't do anything",
+    "unmatched": [
+      "pals",
+      "pal",
+      "depressed"
+    ]
+  },
+  {
+    "part": "part04.json",
+    "row": 65,
+    "source_segments": [
+      867,
+      871
+    ],
+    "status": "SFT",
+    "raw": "Make more nails. They’re doing stuff. Everybody’s in good condition now. Do we have all our strong Pals ready?",
+    "source_raw": "big make more nails they're doing stuff everybody's in good condition now do we have all our strong pal us ready to's healing it all right where are we",
+    "unmatched": [
+      "pals"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 5,
+    "source_segments": [
+      892,
+      892
+    ],
+    "status": "SFT",
+    "raw": "What what what, I miss something? Can I ride you?",
+    "source_raw": "what what I miss something can I ride",
+    "unmatched": [
+      "what",
+      "you"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 10,
+    "source_segments": [
+      908,
+      912
+    ],
+    "status": "LOW",
+    "raw": "They’re high leveled I think everyone else is why not here yeah I know I guess I don’t and then I useless to",
+    "source_raw": "while they're high leveled I think everyone else is why not here yeah I know I guess I don't and then I useless",
+    "unmatched": [
+      "to"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 19,
+    "source_segments": [
+      937,
+      943
+    ],
+    "status": "SFT",
+    "raw": "What do you have? We have the crossbow. Crossbow, okay, that’s good. I just have the the primitive one, the baby bow. Baby bow? I like the baby bow, though. You like it? Yeah. Is that the the three-shot one? Um, yeah, I think so. I like that one.",
+    "source_raw": "what do you have we have the crossbow crossbow okay that's good I just have the the Primitive one the baby bow baby bow I like the baby bow though you like it yeah is that the the three short one um yeah I think so I like that",
+    "unmatched": [
+      "shot",
+      "one"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 21,
+    "source_segments": [
+      950,
+      954
+    ],
+    "status": "SFT",
+    "raw": "Oh, is a is a bat better than a stone spear, by the way? What did you say? A bat. Is that better than a stone spear? Ah, I think so. Oh, okay, guess we’ll do a home run.",
+    "source_raw": "yeah oh is a is a bad better than a stone spear by the way what did you say a bat is that better than a stone spear ah I think so oh okay guess we'll do a home run",
+    "unmatched": [
+      "by",
+      "the",
+      "way",
+      "what",
+      "did",
+      "you",
+      "say",
+      "bat",
+      "is",
+      "that",
+      "better",
+      "than",
+      "a",
+      "stone",
+      "spear",
+      "ah",
+      "i",
+      "think",
+      "so",
+      "oh",
+      "okay",
+      "guess",
+      "we'll",
+      "do",
+      "a"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 22,
+    "source_segments": [
+      955,
+      958
+    ],
+    "status": "LOW",
+    "raw": "Hm. Okay, I think we’re good. I think we should be good. I’m going to SP, yeah.",
+    "source_raw": "H okay I think we're good I think we should be good I'm going to SP yeah",
+    "unmatched": [
+      "hm"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 25,
+    "source_segments": [
+      959,
+      963
+    ],
+    "status": "SFT",
+    "raw": "Yeah, where was, where where am I going? Uh, going to, we’re going to do some bosses. I’m going to take you to Chillet first. Oh, there we go. Sounds like a restaurant.",
+    "source_raw": "yeah where was where where am I going uh going to we're going to do some bosses I'm going to take you to Chile first oh there we go sounds like a restaurant I was in by",
+    "unmatched": [
+      "chillet"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 27,
+    "source_segments": [
+      972,
+      975
+    ],
+    "status": "SFT",
+    "raw": "Oh my gosh, that’s a, this how long it takes for girls to get ready then. Let’s go. Take these. Yeah, let’s go slay, girl.",
+    "source_raw": "time thank you oh my gosh that's a this how long it takes for girls to get ready than let's go take these yeah let's go slay girl",
+    "unmatched": [
+      "then"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 28,
+    "source_segments": [
+      976,
+      978
+    ],
+    "status": "SFT",
+    "raw": "Oh, slay. Oh, I got a finger gun. My gun’s missing. Hm.",
+    "source_raw": "oh slay oh I got a finger gun my gun's missing H",
+    "unmatched": [
+      "hm"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 32,
+    "source_segments": [
+      989,
+      993
+    ],
+    "status": "SFT",
+    "raw": "I have to relog. I’ll be right back. Take time. Okay, I’m stuck, it’s okay. I’m stuck. I’m going to go admire IRyS’s uh Pal. Like, I like this one.",
+    "source_raw": "oh okay I have to relog I'll be right back take time okay I'm stuck it's okay I'm stuck I'm going to go admire iris's uh pal like I like this one",
+    "unmatched": [
+      "irys's"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 35,
+    "source_segments": [
+      999,
+      1004
+    ],
+    "status": "SFT",
+    "raw": "Oh, they’re breeding. Oh, but there’s not enough cake. That’s, yeah, they need cake. They need cake for the romance to spawn. They need cake. Cake cake is romantic, so they need cake. How many combinations are there?",
+    "source_raw": "breeding oh but there's not enough cake that's yeah they need cake they need cake for the romance to spawn they need cake cake cake is romantic so they need cake how many combinations are",
+    "unmatched": [
+      "they're",
+      "breeding",
+      "oh",
+      "there"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 37,
+    "source_segments": [
+      1010,
+      1014
+    ],
+    "status": "SFT",
+    "raw": "Oh, let’s see. So so you can make any of the Pals mate with each other, or it has to be specific ones? Oh, I’m glitched, yeah, oh no.",
+    "source_raw": "oh let's see so so you can make any of the PS made with each other or it has to be specific once oh I'm glitched yeah oh no",
+    "unmatched": [
+      "pals",
+      "mate",
+      "ones"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 38,
+    "source_segments": [
+      1015,
+      1023
+    ],
+    "status": "SFT",
+    "raw": "Glitch. Oh, everything breeds with everything else except humans. So I think with everything, and the result will be something different, so it will make a different thing. But it will be not the same species as the two parents. So it’s like another another species. Two species will make another species every time or something like that.",
+    "source_raw": "glitch oh everything breeds with everything else except humans so I think with everything and the result will be something different so will make a different thing but it will be not the same species as the two parents so it's like another another speci two species will make another species every time or something like that I hope I make up",
+    "unmatched": [
+      "a",
+      "different",
+      "thing",
+      "but",
+      "it",
+      "will",
+      "be",
+      "not",
+      "the",
+      "same",
+      "as",
+      "the",
+      "two",
+      "parents",
+      "so",
+      "it's",
+      "another",
+      "another",
+      "species",
+      "two",
+      "species",
+      "will",
+      "another",
+      "species",
+      "every",
+      "time",
+      "or",
+      "something",
+      "like",
+      "that"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 39,
+    "source_segments": [
+      1023,
+      1026
+    ],
+    "status": "LOW",
+    "raw": "I hope I make up like a a really screwed up monstrosity. What? Jeez. What, you’re so F. Okay, I’m ready. Fear and Hunger.",
+    "source_raw": "something like that I hope I make up like a a really screwed up monstrosity what jez what you're so F okay I'm ready fear and hunger we have a",
+    "unmatched": [
+      "jeez"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 40,
+    "source_segments": [
+      1023,
+      1025
+    ],
+    "status": "SFT",
+    "raw": "I hope I make up like a a really screwed up monstrosity. What? Jeez.",
+    "source_raw": "something like that I hope I make up like a a really screwed up monstrosity what jez what you're so F",
+    "unmatched": [
+      "jeez"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 42,
+    "source_segments": [
+      1027,
+      1030
+    ],
+    "status": "SFT",
+    "raw": "We have a flashing blue light on my screen. Oh, yeah, flashing blue light. What is? I see it too. It sometimes happens, I don’t know why, though. What if you hit it?",
+    "source_raw": "flashing in blue light on my screen oh yeah fling blue light what is I see it too it sometimes happens I don't know why though what if you hit",
+    "unmatched": [
+      "we",
+      "have",
+      "a",
+      "flashing",
+      "it"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 43,
+    "source_segments": [
+      1031,
+      1037
+    ],
+    "status": "LOW",
+    "raw": "Biboo, I have so much wheat, I don’t have the option to make bread. This is a pretty I need. You need to make a mill. Yeah, okay, I have a, I I just forgot I needed to convert it. Yeah, you have to convert to flour, and then you can make bread.",
+    "source_raw": "it bio I have so much wheat I don't have the option to make bread this is a pretty I need you need to make a mill yeah okay I have a I I just forgot I needed to convert it yeah you have to convert to flour and then you can make bread",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 44,
+    "source_segments": [
+      1031,
+      1032
+    ],
+    "status": "SFT",
+    "raw": "Biboo, I have so much wheat, I don’t have the option to make bread.",
+    "source_raw": "it bio I have so much wheat I don't have the option to make bread this is a",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 46,
+    "source_segments": [
+      1038,
+      1045
+    ],
+    "status": "LOW",
+    "raw": "Understood. Okay, we ready? I think so, I think so. I guess we’s going to catch up with us after she bakes, or you? I don’t need to bake anything. Yeah, I’m I’m around my base right next to IRyS’s, so. Oh, this, oh, good for you. We’re by the the church thing.",
+    "source_raw": "understood okay we ready I think so I think so I guess we's going to catch up with us after she bakes or you I don't need to bake anything yeah I'm I'm around my base right next to iris's so oh this oh good for you we're by the the church thing yeah",
+    "unmatched": [
+      "irys's"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 48,
+    "source_segments": [
+      1041,
+      1045
+    ],
+    "status": "SFT",
+    "raw": "I don’t need to bake anything. Yeah, I’m I’m around my base right next to IRyS’s, so. Oh, good for you. We’re by the the church thing.",
+    "source_raw": "us after she bakes or you I don't need to bake anything yeah I'm I'm around my base right next to iris's so oh this oh good for you we're by the the church thing yeah",
+    "unmatched": [
+      "irys's"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 50,
+    "source_segments": [
+      1046,
+      1047
+    ],
+    "status": "SFT",
+    "raw": "Okay, the skilled islander who does nothing else all day.",
+    "source_raw": "okay the skilled Islander who does nothing else all",
+    "unmatched": [
+      "day"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 53,
+    "source_segments": [
+      1055,
+      1056
+    ],
+    "status": "SFT",
+    "raw": "They don’t like people who slack off, Biboo. I need to teach him a lesson.",
+    "source_raw": "like people who slack off bi boo I need to teach him a lesson he looks like he's",
+    "unmatched": [
+      "they",
+      "don't",
+      "biboo"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 54,
+    "source_segments": [
+      1057,
+      1059
+    ],
+    "status": "SFT",
+    "raw": "You kill this one too? I didn’t kill anyone. It was my, maybe you press the button by accident.",
+    "source_raw": "having a good Str time you kill this one too I didn't kill anyone it was my maybe you press the button by",
+    "unmatched": [
+      "accident"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 59,
+    "source_segments": [
+      1071,
+      1075
+    ],
+    "status": "LOW",
+    "raw": "Okay people what is that what a bird oh it’s a glider bird it’s really fast wow oh there another floppy where uhoh no scary wow the this a pretty",
+    "source_raw": "okay people what is that what a bird oh it's a glider bird it's really fast W oh there another floppy where uhoh no scary wow the this a pretty",
+    "unmatched": [
+      "oh",
+      "there",
+      "another",
+      "floppy",
+      "where",
+      "uhoh",
+      "no",
+      "scary",
+      "wow"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 64,
+    "source_segments": [
+      1084,
+      1088
+    ],
+    "status": "SFT",
+    "raw": "Oh, yeah, now I see the seam too. Yeah, it’s a it’s the skybox. See, that’s where it’s, that’s where it loops. That’s so funny, that is so funny. I like it.",
+    "source_raw": "helping oh yeah now I see the same too yeah it's a it's the Sky Box see that's where it's that's where it Loops that's so funny that is so funny I like it I accidentally killed",
+    "unmatched": [
+      "seam",
+      "skybox"
+    ]
+  },
+  {
+    "part": "part05.json",
+    "row": 65,
+    "source_segments": [
+      1088,
+      1092
+    ],
+    "status": "SFT",
+    "raw": "I accidentally killed the thing I wanted to catch. Yeah, that happened to me, cuz Cremis I want to catch, but since it’s low level, I like touch it and it dies.",
+    "source_raw": "funny I like it I accidentally killed the thing I wanted to catch yeah that happened to me cuz premis I want to catch but since it's low level I like touch it and it dies okay here's a boss",
+    "unmatched": [
+      "cremis"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 2,
+    "source_segments": [
+      1113,
+      1118
+    ],
+    "status": "SFT",
+    "raw": "Do you guys have this night cat? Yeah, these night cats are useful on the base. Oh, I don’t. What they do? They they have like a lot of skills for your base.",
+    "source_raw": "cute do you guys have this night cat yeah these night cats are useful on the base oh I don't what they do they they have like a lot of skills for your Bas oh that's so cool looking I think we",
+    "unmatched": [
+      "base"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 5,
+    "source_segments": [
+      1123,
+      1125
+    ],
+    "status": "SFT",
+    "raw": "Also, I have a danger on me. Am I dying? Are you dying? I don’t I don’t know. Just says danger. Oh, it’s gone now.",
+    "source_raw": "so yum also I have a danger on me am I dying are you dying I don't I don't know just is danger oh it's gone",
+    "unmatched": [
+      "says",
+      "now"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 6,
+    "source_segments": [
+      1126,
+      1129
+    ],
+    "status": "SFT",
+    "raw": "Oh, where’s my bow? Okay, I I want throw it, I want throw it. Good good good good. I hope it captures. I think it will. Let’s go.",
+    "source_raw": "now oh where's my bow okay I I want thr it I want thr it good good good good I hope it captures I think it will let's go",
+    "unmatched": [
+      "throw",
+      "throw"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 7,
+    "source_segments": [
+      1130,
+      1134
+    ],
+    "status": "SFT",
+    "raw": "Oh, nice. Finally it didn’t die for once. Okay, now I will take you to Penking. Penking. Okay, okay, thank you.",
+    "source_raw": "oh nice finally it didn't die for once CL okay now I will take you to P King P King okay okay thank",
+    "unmatched": [
+      "penking",
+      "penking",
+      "you"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 17,
+    "source_segments": [
+      1151,
+      1151
+    ],
+    "status": "SFT",
+    "raw": "Leveled up too. Woo, thank you.",
+    "source_raw": "too leled up too woo thank you",
+    "unmatched": [
+      "leveled"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 18,
+    "source_segments": [
+      1153,
+      1163
+    ],
+    "status": "SFT",
+    "raw": "Wow, so many cool Pals. Someone has a base here. Whose base is this? I don’t remember. Oh my gosh, this bridge is kind of scary. It is, yeah. I think it’s K’s, unless it’s yours. No, it’s not Kyla’s. I know where Kyla’s base is. Whose base is this then? Maybe they’re still like setting up. Unnamed Guild, so it’s definitely not Kyla’s.",
+    "source_raw": "wow so many cool PS someone has a base here whose base is this I don't remember oh my gosh this bridge is kind of scary it is yeah I think it's K's unless it's yours no it's not Kyla's I know where Kyla's base is whose base is this then maybe they're still like setting up I'm named Guild so it's definitely not Kyler's oh",
+    "unmatched": [
+      "pals",
+      "unnamed",
+      "kyla's"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 20,
+    "source_segments": [
+      1165,
+      1171
+    ],
+    "status": "SFT",
+    "raw": "Oh, I think it’s IRyS. Is it? Uh, her is around the red area. Yeah, we’re we’re heading to the red area cuz we’re going to P Penking is in the red area. Okay, okay, I’m scared.",
+    "source_raw": "of oh I think it's Irish is it uh her is around the red area yeah we're we're heading to the red area cuz we're going to p p King is in the red area okay okay I'm scared",
+    "unmatched": [
+      "irys",
+      "penking"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 21,
+    "source_segments": [
+      1172,
+      1174
+    ],
+    "status": "SFT",
+    "raw": "Okay, look at this. We’re adventuring. Adventuring, Advent adventure.",
+    "source_raw": "okay look at this we're adventuring adventuring Advent",
+    "unmatched": [
+      "adventure"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 22,
+    "source_segments": [
+      1176,
+      1180
+    ],
+    "status": "SFT",
+    "raw": "Oh, oh, we should save the pal here. There’s always a free pal here. A free Pal. Yeah, free Pal. Boom boom. Die. Boom boom, headshot.",
+    "source_raw": "adventure oh oh we should save the pal here there's always a free pal here a fre P yeah fre P Boom Boom die boom boom head",
+    "unmatched": [
+      "free",
+      "pal",
+      "free",
+      "pal",
+      "headshot"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 25,
+    "source_segments": [
+      1185,
+      1191
+    ],
+    "status": "SFT",
+    "raw": "Cute. Can we all get him, or just one of us? Only only one, only one of us. Who wants to save him? I already have one of him. I have one, is okay. No have, but I can catch one. You can get it, you can get it. Thank you.",
+    "source_raw": "cute can we all get him or just one of us only only one only one of us who wants to save him I already have one of him I have one is okay no have but I can CCH onea can get cuz we already you can get ITA you can get it thank",
+    "unmatched": [
+      "catch",
+      "one",
+      "you",
+      "can",
+      "get",
+      "it",
+      "you"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 27,
+    "source_segments": [
+      1194,
+      1197
+    ],
+    "status": "SFT",
+    "raw": "He’s a little guy. Oops, oh crap, I didn’t mean to kill you. Oh, don’t don’t die. I already killed you before. And I did it.",
+    "source_raw": "to he's a little guy oops oh crap I didn't mean to kill you oh don't don't die I already killed you before or and I did",
+    "unmatched": [
+      "it"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 28,
+    "source_segments": [
+      1198,
+      1203
+    ],
+    "status": "SFT",
+    "raw": "Sorry, I like collecting the emo-looking ones. They speak to my soul. Oh, wait, go this way. Oh, while we’re here, we should just do the tower. Is there a save point near?",
+    "source_raw": "it sorry I like collecting the emo looking ones they speak to my soul oh wait go this way oh while we're here we should just do the tower is there a safe point near yeah",
+    "unmatched": [
+      "save"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 31,
+    "source_segments": [
+      1213,
+      1214
+    ],
+    "status": "LOW",
+    "raw": "Bye no I don’t want are we ready to Tower’s Tower",
+    "source_raw": "bye no I don't want are we ready to Tower's",
+    "unmatched": [
+      "tower"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 32,
+    "source_segments": [
+      1213,
+      1214
+    ],
+    "status": "SFT",
+    "raw": "Are we ready to tower? Tower.",
+    "source_raw": "bye no I don't want are we ready to Tower's",
+    "unmatched": [
+      "tower",
+      "tower"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 35,
+    "source_segments": [
+      1226,
+      1233
+    ],
+    "status": "SFT",
+    "raw": "Now you have more than us. Okay, let’s go. Okay, join. Okay, not me accidentally joining the guild. Hold up, I got to, I got this. Join boss battle. I think I joined. Okay, hold on, wait wait till all four of us. Okay, then hit okay. Okay, I didn’t see Nerissa’s name there, but I saw. Yeah, I’m there.",
+    "source_raw": "are now you have more than us okay let's go okay Jo okay not me accidentally joining The Guild hold up I got to I got this join boss battle I think I joined okay hold on wait wait till all four of us okay then hit okay okay I didn't see nissa's name there but I saw yeah I'm there oh the cut scene yeah every time",
+    "unmatched": [
+      "not",
+      "me",
+      "accidentally",
+      "joining",
+      "guild",
+      "hold",
+      "up",
+      "i",
+      "got",
+      "to",
+      "i",
+      "got",
+      "this",
+      "join",
+      "boss",
+      "battle",
+      "i",
+      "think",
+      "i",
+      "joined",
+      "okay",
+      "hold",
+      "on",
+      "wait",
+      "wait",
+      "till",
+      "all",
+      "four",
+      "of",
+      "us",
+      "okay",
+      "then",
+      "hit",
+      "okay",
+      "okay",
+      "i",
+      "didn't",
+      "see",
+      "nerissa's",
+      "name",
+      "there",
+      "but",
+      "i",
+      "saw",
+      "i'm",
+      "there"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 36,
+    "source_segments": [
+      1233,
+      1239
+    ],
+    "status": "LOW",
+    "raw": "Oh, the cutscene. Yeah, every time we do the cutscene it has the little. Oh, who’s this? She’s hot. She’s your type, Shing. I think she’s going to kill you. I don’t know what her face looks like; there’s a little window blocking it.",
+    "source_raw": "there oh the cut scene yeah every time we do the cut scene it has the little oh who's this she's hot she's your type Shing I think she's going to kill you I don't know what her face looks like there's a little window blocking it",
+    "unmatched": [
+      "cutscene",
+      "cutscene"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 40,
+    "source_segments": [
+      1243,
+      1243
+    ],
+    "status": "SFT",
+    "raw": "Zoe and Grizzbolt.",
+    "source_raw": "blinding Zoe and GIS",
+    "unmatched": [
+      "grizzbolt"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 42,
+    "source_segments": [
+      1249,
+      1254
+    ],
+    "status": "SFT",
+    "raw": "That thing’s like flaking weird crap. That is now on fire. So we can catch Zoe? Where is she? Yeah, where is? We can we can catch her, but it’s a different method; you have to do something specific. Tell us how, Biboo.",
+    "source_raw": "control that thing's like flaking weird crap that is now on fire so we can cat Zoe where is she yeah where is we can we can catch her but it's a different method you have to do something specific tell us how be boo wait did you",
+    "unmatched": [
+      "zoe",
+      "where",
+      "is",
+      "she",
+      "yeah",
+      "where",
+      "is",
+      "we",
+      "can",
+      "we",
+      "can",
+      "catch",
+      "biboo"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 44,
+    "source_segments": [
+      1256,
+      1257
+    ],
+    "status": "SFT",
+    "raw": "It’s a glitch. You have to glitch it or something.",
+    "source_raw": "glitch you have to glitch it or something",
+    "unmatched": [
+      "it's",
+      "a"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 46,
+    "source_segments": [
+      1260,
+      1265
+    ],
+    "status": "LOW",
+    "raw": "Uh-oh he’s much more Cal this time I feel right where even is Zoe she’s on top of the Gris bolt oh that’s a dangerous spot to be hot yeah but maybe she likes a danger Goldie",
+    "source_raw": "uhoh he's much more Cal this time I feel right where even is Zoe she's on top of the Gris bolt oh that's a dangerous spot to be hot yeah but maybe she likes a danger Goldie",
+    "unmatched": [
+      "uh",
+      "he's",
+      "much",
+      "more",
+      "cal",
+      "this",
+      "time",
+      "i",
+      "feel",
+      "right",
+      "where",
+      "even",
+      "is",
+      "zoe",
+      "she's",
+      "on",
+      "top",
+      "of",
+      "the",
+      "gris",
+      "bolt",
+      "oh"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 47,
+    "source_segments": [
+      1261,
+      1265
+    ],
+    "status": "SFT",
+    "raw": "Where even is Zoe? She’s on top of the Grizzbolt. Oh, that’s a dangerous spot to be. Hot. Yeah, but maybe she likes a danger.",
+    "source_raw": "right where even is Zoe she's on top of the Gris bolt oh that's a dangerous spot to be hot yeah but maybe she likes a danger Goldie",
+    "unmatched": [
+      "grizzbolt"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 49,
+    "source_segments": [
+      1266,
+      1271
+    ],
+    "status": "SFT",
+    "raw": "We can capture this dude? Oh, oh my goodness. I don’t think we can capture her Grizzbolt. No, oh, man. You can capture Grizzbolts somewhere else, okay, but we can’t we can’t take hers.",
+    "source_raw": "carry and we can capture this dude oh oh myness I don't think we can capture her Griz bolt no oh man you can capture Griz bolts somewhere else okay but we can't we can't take hers",
+    "unmatched": [
+      "my",
+      "goodness",
+      "grizzbolt",
+      "grizzbolts"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 50,
+    "source_segments": [
+      1272,
+      1277
+    ],
+    "status": "SFT",
+    "raw": "Unfortunately, I guess that’s could have been like a two-in-one combo. It’s Goldie. Okay, I don’t know if Goldie’s okay. Goldie, Goldie’s kind of hurting. There you go, we did it. Nice.",
+    "source_raw": "unfortunately I guess that's could have been like a two in one combo it's Goldie okay I don't know if gold is okay Goldie gold is kind of hurting there you go we did it nice",
+    "unmatched": [
+      "goldie's",
+      "goldie's"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 53,
+    "source_segments": [
+      1283,
+      1286
+    ],
+    "status": "SFT",
+    "raw": "And then there’s this teleportation point. Oh, let me touch it. Okay, question, do we all have gliders? No. Yeah, okay, take mine. Thank you, thank you.",
+    "source_raw": "this teleportation point oh let me touch it okay question do we all have gliders no yeah okay uh for go take mine thank you thank",
+    "unmatched": [
+      "and",
+      "then",
+      "there's",
+      "you"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 62,
+    "source_segments": [
+      1314,
+      1319
+    ],
+    "status": "SFT",
+    "raw": "I like how it was the last minute thought, like, you know, you kind of need stamina for this first. I too should level that up, that one. Yeah, all right, let’s enhance my thing.",
+    "source_raw": "I like how it was the last Smith thought like you know you kind of need stamina for this first I too should level that up that one yeah all right let's enhance my thing",
+    "unmatched": [
+      "minute"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 63,
+    "source_segments": [
+      1320,
+      1326
+    ],
+    "status": "LOW",
+    "raw": "Yeah all right where are you guys I’m at the desolate church I am St oh no yeah okay are we going to be near um moris some place out of I’m going to lead them to Mori base and then to P King all right I’ll do that",
+    "source_raw": "yeah all right where are you guys I'm at the desolate church I am St oh no yeah okay are we going to be near um moris some place out of I'm going to leave them to morai base and then to P King all right I'll do that",
+    "unmatched": [
+      "lead",
+      "mori"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 65,
+    "source_segments": [
+      1324,
+      1326
+    ],
+    "status": "SFT",
+    "raw": "I’m going to lead them to Mori base, and then to Penking. All right, I’ll do that then.",
+    "source_raw": "moris some place out of I'm going to leave them to morai base and then to P King all right I'll do that",
+    "unmatched": [
+      "lead",
+      "mori",
+      "penking",
+      "then"
+    ]
+  },
+  {
+    "part": "part06.json",
+    "row": 68,
+    "source_segments": [
+      1334,
+      1337
+    ],
+    "status": "SFT",
+    "raw": "What’s up, Rissa? Not much, how’s it going? It’s it’s going all right. I’m going to check my technology point stuff. Um, good good idea. I should see.",
+    "source_raw": "it what's up Risa not much how's it going it's it's going all right I'm going to check my technology Point stuff um good good idea I should seee",
+    "unmatched": [
+      "rissa",
+      "see"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 4,
+    "source_segments": [
+      1345,
+      1347
+    ],
+    "status": "SFT",
+    "raw": "Wow, I I know the perfect pal for Fuwamoco. The the one that looks like Pero.",
+    "source_raw": "wow I I know the perfect pal for FCO the the one that looks like Peril oh I heard of it but I have I need",
+    "unmatched": [
+      "fuwamoco",
+      "pero"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 5,
+    "source_segments": [
+      1348,
+      1354
+    ],
+    "status": "SFT",
+    "raw": "We need to get them that Pal. Is that something we could do all together as adventure? Yeah, I think I could lead you there and maybe give you some good balls to to get it. I really want to get it for you guys because it’s like perfect for you. It looks exactly like Pero.",
+    "source_raw": "we need to get them that P A is that something we could do all together as Adventure yeah I think I could lead you there and maybe give you some good balls to to get it I really want to get it for you guys because it's like perfect for you it looks exactly like peels I like",
+    "unmatched": [
+      "pal",
+      "pero"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 10,
+    "source_segments": [
+      1363,
+      1369
+    ],
+    "status": "SFT",
+    "raw": "Hey, I missed. Hey, stop running. I’m going for you. Come back, come back. That’s the wrong one, that’s the wrong one.",
+    "source_raw": "oh Idols they're Idols hey I missed hey stop running got to B you I'm going to go I'm going for you come back come back gu I'll go here they get it wrong one that's the wrong one I'll",
+    "unmatched": [
+      "that's",
+      "the",
+      "wrong",
+      "one"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 13,
+    "source_segments": [
+      1375,
+      1379
+    ],
+    "status": "SFT",
+    "raw": "Yeah, thank you. I’m going to climb this. Oh, this one’s cute too, if you want. Yeah, I saw him. He reminds me of someone.",
+    "source_raw": "y thank you I'm going to climb this oh this one's cute too if you want yeah I saw him he reminds me of someone",
+    "unmatched": [
+      "thank",
+      "you",
+      "i'm",
+      "going",
+      "to",
+      "climb",
+      "this",
+      "oh",
+      "this",
+      "one's",
+      "cute",
+      "too",
+      "if",
+      "you",
+      "want",
+      "yeah"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 19,
+    "source_segments": [
+      1391,
+      1395
+    ],
+    "status": "SFT",
+    "raw": "Oh, you guys are, you guys are Penking next, right? Yeah. Okay, I’ll leave them there then. I get the teleporter. That’s okay.",
+    "source_raw": "sealed realm the heck oh you guys are you guys are pinking yeah next right yeah okay I'll leave them there then I get the torter that's okay",
+    "unmatched": [
+      "penking",
+      "teleporter"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 20,
+    "source_segments": [
+      1396,
+      1400
+    ],
+    "status": "SFT",
+    "raw": "Oops, let’s go to P. Okay, ready? Okay. Oh, there was a pathway. Oh my God, I don’t have my, I don’t have the right thing equipped. It it’s okay, okay, it’s okay. This is a lot more exciting this way.",
+    "source_raw": "oops let's go to P okay ready okay oh there was a passway oh my God I don't have my I don't have the right thing equipped it it's okay okay it's okay this is a lot more exciting this way",
+    "unmatched": [
+      "pathway"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 21,
+    "source_segments": [
+      1401,
+      1407
+    ],
+    "status": "SFT",
+    "raw": "Yeah, I need, I think I should get more points for killing cows. All right, have fun with your uh your rampage. Well, I have to catch them because you get more XP that way. I need to go up one level.",
+    "source_raw": "yeah I needan I think I should get more points for killing cows all right have fun with your uh your Rampage well I have to catch them because you get more XP that way I need to go up one",
+    "unmatched": [
+      "i",
+      "think",
+      "i",
+      "should",
+      "get",
+      "more",
+      "points",
+      "for",
+      "killing",
+      "cows",
+      "all",
+      "right",
+      "have",
+      "fun",
+      "with",
+      "your",
+      "uh",
+      "your",
+      "rampage",
+      "well",
+      "i",
+      "have",
+      "catch",
+      "them",
+      "because",
+      "you",
+      "get",
+      "more",
+      "xp",
+      "that",
+      "way",
+      "i",
+      "need",
+      "to",
+      "level"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 22,
+    "source_segments": [
+      1408,
+      1411
+    ],
+    "status": "SFT",
+    "raw": "This way, this way, this way. Wow, Biboo, do you just remember, you remember on the map? Oh, I I’m looking at the map. That makes sense.",
+    "source_raw": "level this way this way this way wow people do you just remember you remember on the map oh I I'm looking at the map that makes",
+    "unmatched": [
+      "biboo",
+      "sense"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 23,
+    "source_segments": [
+      1413,
+      1418
+    ],
+    "status": "LOW",
+    "raw": "Uh-oh, okay, I’m okay. Uh, we can ride, we can ride Pals to be faster if you want. Sh, is this your Pal? Which one? I don’t know where. Oh, yeah, you didn’t bring Thea. Okay, that’s the wolf in this thing. Yeah, sorry.",
+    "source_raw": "sense uhoh okay I'm okay uh we can ride we can ride Pals to be faster if you want sh is this your pal which one I don't know where oh yeah you didn't bring Thea okay that's the wolf in this thing yeah sorry",
+    "unmatched": [
+      "i'm",
+      "okay",
+      "uh",
+      "we",
+      "can",
+      "ride",
+      "we",
+      "can",
+      "ride",
+      "pals",
+      "to",
+      "be",
+      "faster",
+      "if",
+      "you",
+      "want",
+      "sh",
+      "is",
+      "your",
+      "pal",
+      "which",
+      "one",
+      "i",
+      "don't",
+      "know",
+      "where",
+      "oh",
+      "you",
+      "didn't",
+      "bring",
+      "thea",
+      "okay",
+      "that's",
+      "the",
+      "wolf",
+      "in",
+      "this",
+      "thing",
+      "yeah"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 24,
+    "source_segments": [
+      1413,
+      1415
+    ],
+    "status": "SFT",
+    "raw": "Uh-oh, okay, I’m okay. Uh, we can ride, we can ride Pals to be faster if you want.",
+    "source_raw": "sense uhoh okay I'm okay uh we can ride we can ride Pals to be faster if you want sh is this your",
+    "unmatched": [
+      "oh",
+      "okay",
+      "i'm",
+      "okay",
+      "uh"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 26,
+    "source_segments": [
+      1419,
+      1424
+    ],
+    "status": "SFT",
+    "raw": "Um, if you make an accessory you can keep it out, but it’s a little hard if you’re trying to catch a Pal cuz it might kill it. I was about to kill this one. Oh, well, don’t kill it. It won’t appreciate it.",
+    "source_raw": "out um if you make an accessory you can keep it out but it's a little hard if you're trying to catch a pal cuz it might kill it I was about to kill this one oh well don't kill it it won't appreciate",
+    "unmatched": [
+      "it"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 30,
+    "source_segments": [
+      1437,
+      1441
+    ],
+    "status": "SFT",
+    "raw": "Oh, I don’t know, Goldie decided. Oh, Goldie decided for me. Okay, Goldie. Okay, Goldie. Whoa, guys, pretty intense. We’re almost there, okay, I think. Yeah.",
+    "source_raw": "see oh I don't know Goldie decided oh Goldie decided for me okay Goldie okay Goldie who guys pretty intense we're almost there okay I think yeah",
+    "unmatched": [
+      "whoa"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 33,
+    "source_segments": [
+      1445,
+      1453
+    ],
+    "status": "SFT",
+    "raw": "You can make them a different, you can have two bases, mhm, so you can have one base here if you want. But I recommend having a base for mining, though. But you have to be a certain level for another base, right? Yeah, uh, base level 10 is where you get your second one. Where do you get your third one?",
+    "source_raw": "you can make them a different you can have two bases mm so you can have one base here if you want but I recommend having a base for mining though but you have to be a certain level for another base right yeah uh base level 10 is where you get your second one where do you get your third one",
+    "unmatched": [
+      "mhm"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 38,
+    "source_segments": [
+      1468,
+      1473
+    ],
+    "status": "SFT",
+    "raw": "Enter. Yes, I’m nervous. Huh, oh, wow, this place looks fancy. Oh, it’s the French. There he is, Penking. All right, let’s have you this time. Goldie might be bit too strong. No, is Goldie out? Maybe not Goldie.",
+    "source_raw": "enter yes I'm nervous huh oh wow this place looks fancy oh it's the French there he is Ping all right let's have you this time Goldie might be bit too strong no is Goldie out maybe not Goldie",
+    "unmatched": [
+      "penking"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 39,
+    "source_segments": [
+      1474,
+      1480
+    ],
+    "status": "SFT",
+    "raw": "It is a shame I cannot capture the French penguin. You can capture. Not this one. Why not? Yeah, you can catch it. Yeah, oh, maybe just get at low health and then stop attacking. There there there, good enough.",
+    "source_raw": "it is a shame I cannot capture the French penguin you can Capt not this one why not yeah you can catch it yeah oh maybe just get at low health and then stop attacking there there there good enough you'll be Dr",
+    "unmatched": [
+      "capture"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 41,
+    "source_segments": [
+      1481,
+      1485
+    ],
+    "status": "SFT",
+    "raw": "Can’t we just keep fighting the boss so we all can catch a Penking? It respawns in an hour. Makes sense. Okay, who wants the next one then?",
+    "source_raw": "laack easy can't we just keep fighting the boss so we all can catch a penin it respawns in an hour makes sense Okay who wants the next one",
+    "unmatched": [
+      "penking",
+      "then"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 42,
+    "source_segments": [
+      1486,
+      1489
+    ],
+    "status": "SFT",
+    "raw": "Um, I have one for Fuwamoco that I really want to get them. Okay, okay, let’s go. Um, hold on, where is it? We hungry, wait.",
+    "source_raw": "then um I have one for f m that I really want to get them okay okay let's go um hold on where is it we hungry wait",
+    "unmatched": [
+      "fuwamoco"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 46,
+    "source_segments": [
+      1502,
+      1506
+    ],
+    "status": "LOW",
+    "raw": "Someone get that chicken. We, I hope he lays golden eggs. He’s floating. I know if I going to kill him. Here, I’ll um I’ll poke him, hold on. Okay, oh, he’s in the water.",
+    "source_raw": "someone get that chicken we I hope he lik golden eggs he's floating I know if I going to kill him here I'll um I'll poke him hold on okay oh he's in the water",
+    "unmatched": [
+      "lays"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 47,
+    "source_segments": [
+      1502,
+      1503
+    ],
+    "status": "SFT",
+    "raw": "Someone get that chicken. I hope he lays golden eggs. He’s floating.",
+    "source_raw": "someone get that chicken we I hope he lik golden eggs he's floating I know if",
+    "unmatched": [
+      "lays"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 49,
+    "source_segments": [
+      1507,
+      1511
+    ],
+    "status": "SFT",
+    "raw": "Uh-oh, uh, I don’t want to I don’t want to shoot it just in case. Let’s just bonk him. Let’s bonk them. Can you can you shoot it with an arrow? Okay, I will. So at least it comes up here.",
+    "source_raw": "uh-oh uh I don't want to I don't want to shoot it just in case let's just bunk him let's bunk them can you can you shoot it with an arrow okay I will so at least it comes up here",
+    "unmatched": [
+      "bonk",
+      "bonk"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 51,
+    "source_segments": [
+      1512,
+      1516
+    ],
+    "status": "SFT",
+    "raw": "Okay, now he’s angry. Come up, come on up, come on up. You do it, fly, you can do it. Take take this. Maybe this will help, maybe this will work.",
+    "source_raw": "okay now he's angry come up come on up come on up you do it Fly you can do it oh here four go take take this maybe this will help maybe this",
+    "unmatched": [
+      "will",
+      "work"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 54,
+    "source_segments": [
+      1526,
+      1530
+    ],
+    "status": "SFT",
+    "raw": "What should we name him? Water chicken. Water pie? How about water pie? How about fish? Water fish. I like fish. Fish. Yeah, just fish, he’s a fish.",
+    "source_raw": "no your Bo show you what should we name him water chicken water Pie about water pie how about fish water fish I like fish fish yeah just fish he's a fish",
+    "unmatched": [
+      "pie",
+      "how",
+      "about",
+      "water",
+      "i",
+      "like",
+      "yeah",
+      "just",
+      "he's",
+      "a",
+      "fish"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 55,
+    "source_segments": [
+      1531,
+      1536
+    ],
+    "status": "SFT",
+    "raw": "Mhm, okay, Biboo, where are we going? Okay, I’m think thinking, um, I have an idea. Okay, everybody take the teleport back to your base. Okay.",
+    "source_raw": "mhm okay bi boo where are we going okay I'm think thinking um I have an idea okay everybody take the teleport back to your base okay",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 57,
+    "source_segments": [
+      1543,
+      1548
+    ],
+    "status": "SFT",
+    "raw": "Can I climb up here? You can, but the teleporter is down here anyway. We’re going to our base? Yeah, go to your own base except for Nerissa. Nerissa, do you have, you Seabreeze Archipelago already, right?",
+    "source_raw": "can I climb up here you can but the telor is down here anyway we're going to our base yeah go to your own base except for narissa narissa do you have you seab breze archipelago already right um I think",
+    "unmatched": [
+      "teleporter",
+      "nerissa",
+      "nerissa",
+      "seabreeze"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 58,
+    "source_segments": [
+      1548,
+      1550
+    ],
+    "status": "SFT",
+    "raw": "Um, I think so. Okay, Fuwamoco, I need you to stand next to your Palbox. Okay.",
+    "source_raw": "archipelago already right um I think so okay F and I need you to stand next to your P box okay",
+    "unmatched": [
+      "fuwamoco",
+      "palbox"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 59,
+    "source_segments": [
+      1551,
+      1556
+    ],
+    "status": "SFT",
+    "raw": "Okay, my Pals are hungry. Respawn. All right, let me just feed my characters really quick. Palbox and a respawn. Respawn, yeah, hit respawn. What button is that? Hit Escape, Escape, options, respawn. Okay, right now? Right now.",
+    "source_raw": "okay my P are hungry respawn all right let me just feed my characters really quick power box and a respawn respawn yeah hit respawn what button is that hit Escape Escape options respawn okay right now right",
+    "unmatched": [
+      "pals",
+      "palbox",
+      "now"
+    ]
+  },
+  {
+    "part": "part07.json",
+    "row": 62,
+    "source_segments": [
+      1562,
+      1569
+    ],
+    "status": "SFT",
+    "raw": "Now, um, go to Seabreeze Archipelago Reef. Wait, should be, what about our items? Were we supposed to put our items? That’s that’s why I asked you to die next to your base. Oh, oh, and our items will stay in there? Yeah. So, yeah, and spawn at Seabreeze Archipelago Reef. Okay, I’ll come back for you Pals.",
+    "source_raw": "um go to seab breze archipelago Reef wait should be what about our items were we supposed to put our items that's that's why I asked you to die next to your base oh oh and our items will stay in there yeah so yeah and spawn at seab archel re okay I'll come back for you Pals",
+    "unmatched": [
+      "now",
+      "seabreeze",
+      "seabreeze",
+      "archipelago",
+      "reef"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 3,
+    "source_segments": [
+      1580,
+      1584
+    ],
+    "status": "LOW",
+    "raw": "Okay I’ll be there oh wait did I go to the wrong one to the wrong island is it not SE AR yeah different C archel Reef oh Gold Reef okay well guess I got to die again",
+    "source_raw": "there oh wait did I go to the wrong one to the wrong island is it not SE AR yeah different C archel Reef oh Gold Reef okay well guess I got to die again",
+    "unmatched": [
+      "i'll",
+      "be",
+      "there",
+      "oh",
+      "wait",
+      "did",
+      "go",
+      "the",
+      "wrong",
+      "one",
+      "to",
+      "the",
+      "wrong",
+      "island",
+      "is",
+      "it",
+      "not",
+      "se",
+      "ar",
+      "yeah",
+      "different",
+      "c",
+      "archel",
+      "reef",
+      "oh",
+      "gold",
+      "reef",
+      "okay",
+      "well",
+      "guess",
+      "i",
+      "got",
+      "to"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 4,
+    "source_segments": [
+      1580,
+      1581
+    ],
+    "status": "SFT",
+    "raw": "Okay, I’ll be there. Oh, wait, did I go to the wrong one, to the wrong island?",
+    "source_raw": "there oh wait did I go to the wrong one to the wrong island is it not SE",
+    "unmatched": [
+      "okay",
+      "i'll",
+      "be"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 6,
+    "source_segments": [
+      1589,
+      1593
+    ],
+    "status": "LOW",
+    "raw": "It’s pretty hot let’s got one of those all right Arch something Reef okay arago arago that’s like",
+    "source_raw": "it's pretty hot let's got one of those all right Arch something Reef okayo arago arago that's",
+    "unmatched": [
+      "okay",
+      "like"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 7,
+    "source_segments": [
+      1594,
+      1598
+    ],
+    "status": "SFT",
+    "raw": "Okay, am I in the right place? Yes, you are. Hello. Oh, hey, what’s up? Okay, let’s go get the teleport and then get our stuff back. Oh, hey, there’s a random dude here too.",
+    "source_raw": "like okay am I in the right place yes you are hello oh hey what's up okay let's go get the teleport and then get our stuff back oh hey there's a random dude here",
+    "unmatched": [
+      "too"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 11,
+    "source_segments": [
+      1608,
+      1613
+    ],
+    "status": "LOW",
+    "raw": "Like there more the live W this oh no that’s not that’s a P oh hey is this also Canadia it’s a very pretty place we blend in mini Canadia yeah mini Canadia I guess",
+    "source_raw": "like there more the live W this oh no that's not that's a p oh hey is this also Canadia it's a very pretty place we blend in mini Canadia yeah mini Canadia I",
+    "unmatched": [
+      "guess"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 12,
+    "source_segments": [
+      1610,
+      1613
+    ],
+    "status": "SFT",
+    "raw": "Oh, hey, is this also Canadia? It’s a very pretty place. We blend in. Mini Canadia. Yeah, mini Canadia, I guess.",
+    "source_raw": "hey is this also Canadia it's a very pretty place we blend in mini Canadia yeah mini Canadia I",
+    "unmatched": [
+      "oh",
+      "guess"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 13,
+    "source_segments": [
+      1614,
+      1623
+    ],
+    "status": "SFT",
+    "raw": "Uh, uh-oh, Nerissa, don’t be angry. I think I’m lost. Oh, you’re lost? Oh, we’ll come pick you up. I’m pretty sure you have this teleport, Nerissa, cuz I I don’t have one that I don’t have one that says that for the name. Oh, it’s um archipelago church. Yeah, I had that one. Yeah, yeah, went to that one. Oh, I see, I see.",
+    "source_raw": "guess uh uhoh NOA don't be angry I think I'm lost oh you're lost oh we'll come pick you up I'm pretty sure you have this teleport noisa cuz I I don't have one that I don't have one that says that for the name oh it's um archipelago Church yeah I had that one yeah yeah went to that one oh I see I",
+    "unmatched": [
+      "uh",
+      "nerissa",
+      "be",
+      "angry",
+      "think",
+      "i'm",
+      "lost",
+      "you're",
+      "lost",
+      "we'll",
+      "come",
+      "pick",
+      "you",
+      "up",
+      "i'm",
+      "pretty",
+      "sure",
+      "you",
+      "have",
+      "this",
+      "teleport",
+      "nerissa",
+      "cuz",
+      "don't",
+      "have",
+      "one",
+      "that",
+      "i",
+      "don't",
+      "have",
+      "one",
+      "that",
+      "says",
+      "that",
+      "for",
+      "the",
+      "name",
+      "oh",
+      "it's",
+      "um",
+      "archipelago",
+      "church",
+      "yeah",
+      "i",
+      "had",
+      "that",
+      "one",
+      "yeah",
+      "yeah",
+      "went",
+      "to",
+      "that",
+      "one",
+      "oh",
+      "i",
+      "see",
+      "i",
+      "see"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 15,
+    "source_segments": [
+      1631,
+      1635
+    ],
+    "status": "LOW",
+    "raw": "W there nice Str yeah I was like okay I’m not sure what we’re doing but now it all makes sense okay okay okay I’ll meet you guys there",
+    "source_raw": "W there nice Str yeah I was like okay I'm not sure what we're doing but now it all makes sense okay okay okay I'll meet you guys",
+    "unmatched": [
+      "there"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 16,
+    "source_segments": [
+      1633,
+      1635
+    ],
+    "status": "SFT",
+    "raw": "Yeah, I was like, okay, I’m not sure what we’re doing, but now it all makes sense. Okay, okay, okay, I’ll meet you guys there.",
+    "source_raw": "Str yeah I was like okay I'm not sure what we're doing but now it all makes sense okay okay okay I'll meet you guys",
+    "unmatched": [
+      "there"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 17,
+    "source_segments": [
+      1636,
+      1643
+    ],
+    "status": "LOW",
+    "raw": "Okay, make sure my Pals are well taken care of, moisturized, in their own lane. Let’s bring Melpaca with us this time so we have a Pal that we can ride. Come on, lady L, you do this pretty quick. This is my Melpaca. Yeah, I’ll bring it instead of the the silly deer. Yeah.",
+    "source_raw": "there okay make sure my PS are well taken care of moisturized in their own lane let's bring me Paca with us this time so we have a p that we can ride come on lady L you do this pretty quick this is my me Paca yeah I'll bring it instead of the the silly deer yeah ah but I should bring",
+    "unmatched": [
+      "pals",
+      "melpaca",
+      "pal",
+      "melpaca"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 18,
+    "source_segments": [
+      1636,
+      1640
+    ],
+    "status": "SFT",
+    "raw": "Okay, make sure my Pals are well taken care of, moisturized, in their own lane. Let’s bring Melpaca with us this time so we have a Pal that we can ride.",
+    "source_raw": "there okay make sure my PS are well taken care of moisturized in their own lane let's bring me Paca with us this time so we have a p that we can ride come on lady L you do this pretty",
+    "unmatched": [
+      "pals",
+      "melpaca",
+      "pal"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 19,
+    "source_segments": [
+      1641,
+      1643
+    ],
+    "status": "SFT",
+    "raw": "This is my Melpaca. Yeah, I’ll bring it instead of the the silly deer. Yeah.",
+    "source_raw": "quick this is my me Paca yeah I'll bring it instead of the the silly deer yeah ah but I should bring",
+    "unmatched": [
+      "melpaca"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 21,
+    "source_segments": [
+      1645,
+      1648
+    ],
+    "status": "SFT",
+    "raw": "Ah, the shiny. Oh, there he is, Fish. We can bring Fish. Let’s name a Fish. You know the spelling, right?",
+    "source_raw": "ah the shiny oh there he is fish huh fish is kind of don't know we can bring fish let's name a fish you know the spelling",
+    "unmatched": [
+      "right"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 22,
+    "source_segments": [
+      1649,
+      1655
+    ],
+    "status": "SFT",
+    "raw": "No. Lowercase F, uppercase I. Oh, really? Am I no longer glitched? Can I not attack you anymore? You’re not attacking me. Oh, I guess I guess the glitch fixes itself. Yeah. All right, I’ll be there soon, I’m just upgrading my items really quick.",
+    "source_raw": "right no lower keiss F upper keiss I oh really am I no longer glitched can I not attack you anymore you're not attacking me oh I guess I guess the glitch fakes itself yeah all right I'll be there soon I'm just upgrading my items really quick you want to bring fish yeah a fish",
+    "unmatched": [
+      "lowercase",
+      "uppercase",
+      "fixes"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 23,
+    "source_segments": [
+      1655,
+      1663
+    ],
+    "status": "LOW",
+    "raw": "You want to bring Fish? Yeah, a fish out of water, please. Or it could be a land fish. Goldie is so strong though. Why? Goldie is strong. Let’s let’s fast travel now. Okay, oh, green’s better. Okay, bring Fish, bring Fish, bring Fish, bring Fish. I want to see Fish. No wants to see Fish.",
+    "source_raw": "quick you want to bring fish yeah a fish out of water please or it could be a landfish gie is so strong though why gold is strong let's let's last travel now okay oh Green's better okay bring fish bring fish bring fish bring fish I want to see Fish no wants to see",
+    "unmatched": [
+      "land",
+      "goldie",
+      "is",
+      "so",
+      "strong",
+      "though",
+      "why",
+      "goldie",
+      "is",
+      "strong",
+      "let's",
+      "let's",
+      "fast",
+      "travel",
+      "now",
+      "okay",
+      "oh",
+      "green's",
+      "better",
+      "okay",
+      "bring",
+      "i",
+      "want",
+      "fish",
+      "no",
+      "wants",
+      "to",
+      "see",
+      "fish"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 24,
+    "source_segments": [
+      1655,
+      1660
+    ],
+    "status": "SFT",
+    "raw": "You want to bring Fish? Yeah, a fish out of water, please. Or it could be a land fish. Goldie is so strong though. Why? Goldie is strong. Let’s let’s fast travel now. Okay, oh, green’s better.",
+    "source_raw": "quick you want to bring fish yeah a fish out of water please or it could be a landfish gie is so strong though why gold is strong let's let's last travel now okay oh Green's better",
+    "unmatched": [
+      "land",
+      "fish",
+      "goldie",
+      "goldie",
+      "fast"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 26,
+    "source_segments": [
+      1664,
+      1668
+    ],
+    "status": "SFT",
+    "raw": "Are shinies always stronger? Yeah, shinies have a buff on them, a permanent buff that gives 15% attack and work speed, so they they are generally stronger. Yeah, Fish.",
+    "source_raw": "fish are shinies always stronger yeah shinese have a buff on them a permanent buff that gives 15% attack and work speed so they they are General Stronger Yeah fish",
+    "unmatched": [
+      "shinies",
+      "generally"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 30,
+    "source_segments": [
+      1680,
+      1687
+    ],
+    "status": "LOW",
+    "raw": "Fish. Ah, he’s flying now. All right, I’m here. Oh, it’s so dark. Hello. Oh, nice Fish, he’s so big. He’s a big break one big chicken. Yeah, see, yeah, look at all. Oh, I need ammo though. I have a gun but no ammo. All right, lead the way.",
+    "source_raw": "fish a he's flying now all right I'm here oh it's so dark hello oh nice fish he's so big he's a big break one big chicken yeah see yeah look at all oh I need ammo though I have a gun but no ammo all right Le the way okay follow people",
+    "unmatched": [
+      "ah",
+      "lead"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 31,
+    "source_segments": [
+      1680,
+      1683
+    ],
+    "status": "SFT",
+    "raw": "Fish. Ah, he’s flying now. All right, I’m here. Oh, it’s so dark. Hello. Oh, nice Fish, he’s so big.",
+    "source_raw": "fish a he's flying now all right I'm here oh it's so dark hello oh nice fish he's so big he's",
+    "unmatched": [
+      "ah"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 32,
+    "source_segments": [
+      1685,
+      1687
+    ],
+    "status": "SFT",
+    "raw": "Oh, I need ammo though. I have a gun but no ammo. All right, lead the way.",
+    "source_raw": "yeah look at all oh I need ammo though I have a gun but no ammo all right Le the way okay follow people",
+    "unmatched": [
+      "lead"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 33,
+    "source_segments": [
+      1687,
+      1691
+    ],
+    "status": "LOW",
+    "raw": "Okay follow people okay it’s time for sure just don’t let yourself fall to your deaths okay uh uh that’s the hard part yeah I’m just going to run",
+    "source_raw": "right Le the way okay follow people okay it's time for sure just don't let yourself all to your deaths okay uh uh that's the hard part yeah I'm just going to run",
+    "unmatched": [
+      "fall"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 34,
+    "source_segments": [
+      1689,
+      1691
+    ],
+    "status": "SFT",
+    "raw": "Just don’t let yourself fall to your deaths. Okay, uh uh, that’s the hard part. Yeah, I’m just going to run.",
+    "source_raw": "sure just don't let yourself all to your deaths okay uh uh that's the hard part yeah I'm just going to run",
+    "unmatched": [
+      "fall"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 47,
+    "source_segments": [
+      1744,
+      1745
+    ],
+    "status": "SFT",
+    "raw": "Oh, that that gives 10 Pal oil. Oh, that’s so good.",
+    "source_raw": "rence good oh that that gives 10 P Oil oh that's so good",
+    "unmatched": [
+      "pal"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 49,
+    "source_segments": [
+      1749,
+      1761
+    ],
+    "status": "SFT",
+    "raw": "Okay, there’s a there’s a teleporter, but right before the boss, to that. Oh, shiny. Yeah, we can all collect it, right, or is it just one person at a time? Yeah, we can all collect it. Oh, really? Oh, but I wouldn’t use them because there’s currently a glitch. I don’t know, did they fix the glitch yet? But there’s a glitch that makes the catch rate worse rather than, no. So I wouldn’t use it. I’ve already used it. It’s fixed, it’s fixed now. So you.",
+    "source_raw": "okay there's a there's a teleporter but right before the boss to that oh shiny yeah we can all collect it right or is it just one person at time yeah we can all collect it oh really oh but I wouldn't use them because there's currently a glitch I don't know did they fix the glitch yet but there's a glitch that makes the catch rate worse rather than no so I wouldn't use it I've already used it it's fed it's fed now so you",
+    "unmatched": [
+      "time",
+      "yeah",
+      "we",
+      "can",
+      "all",
+      "collect",
+      "oh",
+      "really",
+      "oh",
+      "but",
+      "i",
+      "wouldn't",
+      "use",
+      "them",
+      "because",
+      "there's",
+      "currently",
+      "a",
+      "glitch",
+      "i",
+      "don't",
+      "know",
+      "did",
+      "they",
+      "fix",
+      "the",
+      "glitch",
+      "yet",
+      "but",
+      "there's",
+      "a",
+      "glitch",
+      "that",
+      "makes",
+      "the",
+      "catch",
+      "rate",
+      "worse",
+      "rather",
+      "than",
+      "no",
+      "i",
+      "wouldn't",
+      "use",
+      "it",
+      "i've",
+      "already",
+      "used",
+      "it",
+      "it's",
+      "fixed",
+      "it's",
+      "fixed",
+      "now",
+      "so"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 51,
+    "source_segments": [
+      1764,
+      1768
+    ],
+    "status": "SFT",
+    "raw": "What exactly are we going to fight? We are fighting Pero. Oh, yeah, we’re going to go fight Pero. What? I’m excited, I want to see what he look.",
+    "source_raw": "resty what exactly are we going to fight we are fighting pero oh yeah we're going to go fight per what I'm excited I want to see what he look wait sir did you have a nox yet",
+    "unmatched": [
+      "pero"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 54,
+    "source_segments": [
+      1772,
+      1774
+    ],
+    "status": "SFT",
+    "raw": "Oh, no, oh, please go, I’m trying to spare you from death.",
+    "source_raw": "no oh please go I'm trying to spare you from death oh",
+    "unmatched": [
+      "no",
+      "please",
+      "go",
+      "i'm",
+      "trying",
+      "to",
+      "spare",
+      "you",
+      "from",
+      "death"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 56,
+    "source_segments": [
+      1783,
+      1787
+    ],
+    "status": "SFT",
+    "raw": "Good, nice, clean. Yay. Okay, okay, now we are going to fight Pero. Let’s fight. All right. P P P P.",
+    "source_raw": "good nice clean yay okay okay now we are going to fight per let's fight all right p p p p everybody's walking",
+    "unmatched": [
+      "pero"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 57,
+    "source_segments": [
+      1787,
+      1794
+    ],
+    "status": "SFT",
+    "raw": "Everybody’s walking backwards. What, you running backwards? Why aren’t you? Huh, I don’t know how to. Oh, is it worth it? Did you want the Depresso? Yeah, sorry. It’s okay. Oh, it’s not even.",
+    "source_raw": "right p p p p everybody's walking backwards what you running backwards why aren't you H I don't know how to oh is it worth it did you want the depresso yeah sorry it's okay oh it's not even",
+    "unmatched": [
+      "huh"
+    ]
+  },
+  {
+    "part": "part08.json",
+    "row": 58,
+    "source_segments": [
+      1796,
+      1800
+    ],
+    "status": "SFT",
+    "raw": "Yeah, I think he’s around here. Pero. There. Make we catch him. Look, it’s Pero. Oh, I I hope not to kill him by accident, uh, so we better be careful.",
+    "source_raw": "yeah I think he's around here per there sweet make we catch him look it's per oh I I hope not to kill him by accident uh so we better be careful",
+    "unmatched": [
+      "pero",
+      "pero"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 1,
+    "source_segments": [
+      1801,
+      1807
+    ],
+    "status": "LOW",
+    "raw": "There we go. Okay, wow, hey, I don’t think we’re going to be able to catch him with a catch. Oh, no, careful, careful. There you go, there you go. Okay, again, okay, I’m going to stay stay here soent kill.",
+    "source_raw": "there we go okay wow hey I don't think we're going to be able to catch him with a catch oh no careful careful there you go there you go okay again okay I'm going to stay stay here soent",
+    "unmatched": [
+      "kill"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 2,
+    "source_segments": [
+      1802,
+      1804
+    ],
+    "status": "SFT",
+    "raw": "I don’t think we’re going to be able to catch him with a catch. Oh, no, careful, careful.",
+    "source_raw": "wow hey I don't think we're going to be able to catch him with a catch oh no careful",
+    "unmatched": [
+      "careful"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 4,
+    "source_segments": [
+      1808,
+      1810
+    ],
+    "status": "SFT",
+    "raw": "Okay, I’ll get the little ones. Catch catch the little ones too to make Pero more powerful.",
+    "source_raw": "kill okay I'll get the little ones cat catch the little ones too to make Perell more powerful okay he's right in front",
+    "unmatched": [
+      "catch",
+      "pero"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 7,
+    "source_segments": [
+      1818,
+      1820
+    ],
+    "status": "SFT",
+    "raw": "I don’t think it’s going to happen. Oh, no, no, no, uh-oh, oh, no.",
+    "source_raw": "po I don't think it's going to happen oh no no no uhoh oh no",
+    "unmatched": [
+      "uh",
+      "oh"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 9,
+    "source_segments": [
+      1827,
+      1831
+    ],
+    "status": "SFT",
+    "raw": "Nice, there you have your very own Pero. Congratulations. Thank you. What should we do to him? Anything your heart desires.",
+    "source_raw": "nice there you have your very own P congratulations thank you what should we do to him anything your heart desires",
+    "unmatched": [
+      "pero"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 13,
+    "source_segments": [
+      1840,
+      1848
+    ],
+    "status": "SFT",
+    "raw": "Oh, oh, he’s the strongest; you just need 600 of him. What? Okay. I think we should get Fang for Nerissa. It’s it’s it’s the mount that I use that’s super fast. It’s only 25, so I think we should be able to do it. Yeah, I want it. Uh, we go north.",
+    "source_raw": "oh oh he's the strongest you just need 600 of him what okay I think we should get Fang for narissa it's it's it's the mount that I use that's super fast it's only 25 so I think we should be able to do it yeah I want it uh we go north",
+    "unmatched": [
+      "nerissa"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 14,
+    "source_segments": [
+      1849,
+      1858
+    ],
+    "status": "LOW",
+    "raw": "North guess it missed how do you run backwards run backward I think it’s just a glitch right now you guys are all running backwards yeah it’s probably a glitch oh Pero’s really strong I wonder if you can ride them if you put Pero with tiny Peros in the party for every tiny Pero in the party Pero gets stronger",
+    "source_raw": "north guess it missed how do you run backwards run backward I think it's just a glitch right now you guys are all running backwards yeah it's probably a glitch oh P's really strong I wonder if you can ride them if you put perel with tiny perrows in the party for every tiny per in the party per get stronger there's a cave over",
+    "unmatched": [
+      "pero's",
+      "pero",
+      "peros",
+      "pero",
+      "pero",
+      "gets"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 15,
+    "source_segments": [
+      1850,
+      1858
+    ],
+    "status": "SFT",
+    "raw": "How do you run backwards? Run backward, I think it’s just a glitch right now. You guys are all running backwards. Yeah, it’s probably a glitch. Oh, Pero’s really strong. I wonder if you can ride them. If you put Pero with tiny Peros in the party, for every tiny Pero in the party, Pero gets stronger.",
+    "source_raw": "missed how do you run backwards run backward I think it's just a glitch right now you guys are all running backwards yeah it's probably a glitch oh P's really strong I wonder if you can ride them if you put perel with tiny perrows in the party for every tiny per in the party per get stronger there's a cave over",
+    "unmatched": [
+      "pero's",
+      "pero",
+      "peros",
+      "pero",
+      "pero",
+      "gets"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 18,
+    "source_segments": [
+      1868,
+      1877
+    ],
+    "status": "LOW",
+    "raw": "Okay into the cave we got how do we go in the cave I think we have to wait for them load there you go enter oh enter okay okay Biboo lead us through surely you know the inside of I don’t know way you guys explore there this cute little thing what’s the the and there bus I’ll try okay not oh ni nice yes",
+    "source_raw": "okay into the cave we got how do we go in the cave I think we have to wait for them load there you go enter oh enter okay okay bi boo lead us through surely you know the inside of I don't know way you guys explore there this cute little thing what's the the and there bus I'll try okay not oh ni nice yes",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 19,
+    "source_segments": [
+      1868,
+      1874
+    ],
+    "status": "SFT",
+    "raw": "Okay, into the cave we go. How do we go in the cave? I think we have to wait for them load. There you go, enter. Oh, enter. Okay, okay, Biboo, lead us through. Surely you know the inside of. I don’t know. You guys explore.",
+    "source_raw": "okay into the cave we got how do we go in the cave I think we have to wait for them load there you go enter oh enter okay okay bi boo lead us through surely you know the inside of I don't know way you guys explore there this cute little thing",
+    "unmatched": [
+      "how",
+      "do",
+      "in",
+      "cave",
+      "think",
+      "we",
+      "have",
+      "to",
+      "wait",
+      "for",
+      "them",
+      "load",
+      "you",
+      "go",
+      "enter",
+      "oh",
+      "enter",
+      "okay",
+      "okay",
+      "biboo",
+      "lead",
+      "us",
+      "through",
+      "surely",
+      "you",
+      "know",
+      "the",
+      "inside",
+      "of",
+      "i",
+      "don't",
+      "know",
+      "you",
+      "guys",
+      "explore"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 20,
+    "source_segments": [
+      1879,
+      1887
+    ],
+    "status": "LOW",
+    "raw": "Yeah cute there’s some thugs here too oh take them out Goldie are you around no where’s Goldie is good at this I cancel oops oh that’s B whoops okay",
+    "source_raw": "y cute there's some thugs here too oh take them out Goldie are you around no where's Goldie is good at this I cancel oops oh that's [Laughter] B whoops okay",
+    "unmatched": [
+      "yeah"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 21,
+    "source_segments": [
+      1880,
+      1883
+    ],
+    "status": "SFT",
+    "raw": "There’s some thugs here too. Oh, take them out. Goldie, are you around? No, where’s Goldie? Goldie is good at this.",
+    "source_raw": "cute there's some thugs here too oh take them out Goldie are you around no where's Goldie is good at this I cancel",
+    "unmatched": [
+      "goldie"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 23,
+    "source_segments": [
+      1897,
+      1905
+    ],
+    "status": "LOW",
+    "raw": "Oh bugs we here oh we we’re not going on our own right but he’s dying oh we’re here we’re here okay Isa killing them I think so we must be going in circles then yeah no get him there’s a Fuddler oh we could get those guys too oh there’s another",
+    "source_raw": "o bugs we here oh we we're not going on our own right but he's dying oh we're here we're here okay Isa killing them I think so we must be going in circles then yeah no get him there's a fuddler oh we could get those guys too oh there's another",
+    "unmatched": [
+      "bugs",
+      "we're",
+      "not",
+      "going",
+      "on",
+      "our",
+      "own",
+      "right",
+      "but",
+      "he's",
+      "dying",
+      "we're",
+      "here",
+      "we're",
+      "here",
+      "okay",
+      "isa",
+      "killing",
+      "them",
+      "i",
+      "think",
+      "so",
+      "we",
+      "must",
+      "be",
+      "going",
+      "in",
+      "circles",
+      "then",
+      "yeah",
+      "no",
+      "get",
+      "him",
+      "a",
+      "fuddler",
+      "oh",
+      "we",
+      "could",
+      "get",
+      "those",
+      "guys",
+      "too",
+      "oh",
+      "there's"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 29,
+    "source_segments": [
+      1918,
+      1926
+    ],
+    "status": "SFT",
+    "raw": "Sometimes, are we not going inside this one? Let’s follow lead. I’m in like a giant room that like with a tree. It’s passing. No, no, there’s no tree, it’s like corridors, it’s like hallways. Oh, wait, there’s something even in here. All right, oh, yeah, okay, I found the tree. It’s the tree, the tree. Yeah, there’s a giant Tombat here.",
+    "source_raw": "sometimes are we not going inside this one let's follow lead I'm in like a giant room that like with a tree it's passing no no there's no tree it's like corridors it's like hallways oh wait there's something even in here all right oh yeah okay I found the tree it's the tree the treat yeah there's a giant Tom Cat here",
+    "unmatched": [
+      "tree",
+      "tombat"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 31,
+    "source_segments": [
+      1934,
+      1940
+    ],
+    "status": "SFT",
+    "raw": "Oh, oh, we found a chest. No, this is a, this is a treasure. Oh, oh, but only one of us can get it, right? Or, yeah, rock paper scissors, paper scissors. Well, I guess some scissors cuz I’m Shiori. But then we can all, let’s just yell it out then.",
+    "source_raw": "here oh oh we found a chest no this is a this is a treasure oh oh but only one of us can get it right or yeah the TR paper scissors paper scissors well I guess some scissors cuz I'm shry but then we can all let's just yell it out",
+    "unmatched": [
+      "rock",
+      "shiori",
+      "then"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 32,
+    "source_segments": [
+      1941,
+      1948
+    ],
+    "status": "SFT",
+    "raw": "Okay, I will do it for us. We’ll yell out the rock paper scissors, and then we yell out our answer. Okay, I guess, sure. Okay, wait wait wait, a count of three, three two one, and then yell out. Count three, just rock paper scissors and then. Okay, we’ll do three rounds. Okay, yeah, yeah, okay, representative.",
+    "source_raw": "then okay I will do it for us will yell out the rock paper scissors and then we yell out our answer okay I guess sure okay wait wait wait I count of three 3 two 1 and then yellow count three just rock paper scissors and then okay on we'll do three round okay yeah yeah okay representative okay",
+    "unmatched": [
+      "yell",
+      "out",
+      "the",
+      "rock",
+      "paper",
+      "scissors",
+      "and",
+      "then",
+      "we",
+      "yell",
+      "out",
+      "our",
+      "answer",
+      "i",
+      "guess",
+      "sure",
+      "wait",
+      "wait",
+      "wait",
+      "a",
+      "count",
+      "of",
+      "three",
+      "three",
+      "two",
+      "one",
+      "and",
+      "then",
+      "yell",
+      "out",
+      "count",
+      "three",
+      "just",
+      "rock",
+      "paper",
+      "scissors",
+      "and",
+      "then",
+      "we'll",
+      "do",
+      "three",
+      "rounds",
+      "okay",
+      "yeah",
+      "yeah",
+      "okay",
+      "representative"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 33,
+    "source_segments": [
+      1949,
+      1953
+    ],
+    "status": "SFT",
+    "raw": "Okay, okay, rock paper scissors. Scissors. Scissors. Wait, what? Oh, I don’t need it, it’s okay, you could just have it. Okay, thank you. No problem.",
+    "source_raw": "okay Ro paper scissors scissors scissors wa what oh I don't need it it's okay you could just have it okay thank you no problem oh so much should we sh the gold",
+    "unmatched": [
+      "rock",
+      "paper",
+      "scissors",
+      "scissors",
+      "scissors",
+      "wait",
+      "what",
+      "i",
+      "don't",
+      "need",
+      "it",
+      "it's",
+      "okay",
+      "you",
+      "could",
+      "just",
+      "have",
+      "it",
+      "okay",
+      "thank",
+      "you",
+      "no",
+      "problem"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 34,
+    "source_segments": [
+      1953,
+      1959
+    ],
+    "status": "SFT",
+    "raw": "Oh, so much. Should we share the gold we got anyway? Cuz I would have said rock. Do you want some of the gold we got? We got like 500. No, it’s okay, I have some gold. Okay, thank you. No problem.",
+    "source_raw": "problem oh so much should we sh the gold with we got anyway cuz I would have said Rock do you want some of the gold we got we got like 500 no it's okay I have some gold okay thank you no problem oh now we got to climb out of",
+    "unmatched": [
+      "share"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 36,
+    "source_segments": [
+      1959,
+      1967
+    ],
+    "status": "SFT",
+    "raw": "Oh, now we got to climb out of here. Are you guys going to, are you guys going be able to get here okay? Yeah, we’re looking. I think we’re a little bit lost. Yeah, I think we, a lot of climbing, a lot of climb. Yeah, I hope you’re you’re well stammed up, stamina up, yeah.",
+    "source_raw": "problem oh now we got to climb out of here is going okay for me are you guys going to are you guys going be able to get here okay yeah we're looking I think we're a little bit lost yeah I think we a lot of climbing a lot of climb yeah I hope you're you're well stamed up stamin up yeah Stam what wait what's",
+    "unmatched": [
+      "stammed",
+      "stamina"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 37,
+    "source_segments": [
+      1969,
+      1978
+    ],
+    "status": "LOW",
+    "raw": "Okay no there’s a pile that’s about to go of the mine oh there’s another Daedream that one’s not mine if you want to capture oh they’ve respawned oh bad guys yeah bad guys yeah with Daedream go clean it up does my work for me huh take care of them Rie R’s not doing anything I use them for my FPS practice",
+    "source_raw": "okay no there's a pile that's about to go of the mine oh there's another Daydream that one's not mine if you want to capture oh they've responded oh bad guys yeah bad guys yeah H with day dream go clean it up does my work for me huh take care of them Rie R's not doing anything I use them for my FPS practice smart we should be doing that",
+    "unmatched": [
+      "daedream",
+      "respawned",
+      "daedream"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 38,
+    "source_segments": [
+      1971,
+      1978
+    ],
+    "status": "SFT",
+    "raw": "Oh, there’s another Daedream. That one’s not mine if you want to capture. Oh, they’ve respawned. Oh, bad guys. Yeah, bad guys. Go clean it up. Does my work for me. I use them for my FPS practice.",
+    "source_raw": "mine oh there's another Daydream that one's not mine if you want to capture oh they've responded oh bad guys yeah bad guys yeah H with day dream go clean it up does my work for me huh take care of them Rie R's not doing anything I use them for my FPS practice smart we should be doing that",
+    "unmatched": [
+      "daedream",
+      "respawned"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 41,
+    "source_segments": [
+      1980,
+      1985
+    ],
+    "status": "SFT",
+    "raw": "Oh, no, you died. Oh, I think this is the right, oh, man. Right, I’ll take this. I think I think this is it, I’m pretty sure, it looks new. Yeah, I don’t, this isn’t familiar. It looks menacing.",
+    "source_raw": "you died oh I think this is the right oh man right I'll take this I think I think this is it I'm pretty sure it looks new yeah I don't this isn't familiar it looks menacing oh this",
+    "unmatched": [
+      "no",
+      "you",
+      "died",
+      "the",
+      "right",
+      "man",
+      "right",
+      "i'll",
+      "take",
+      "i",
+      "think",
+      "i",
+      "think",
+      "this",
+      "is",
+      "it",
+      "i'm",
+      "pretty",
+      "sure",
+      "it",
+      "looks",
+      "new",
+      "yeah",
+      "i",
+      "don't",
+      "this",
+      "isn't",
+      "familiar",
+      "it",
+      "looks",
+      "menacing"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 42,
+    "source_segments": [
+      1986,
+      1996
+    ],
+    "status": "SFT",
+    "raw": "This way. Uh, did we come here before? Maybe, maybe it’s starting to look familiar. Yeah, but if we stick to the right. Wait wait wait wait, other way, other way, the the right section then. This is what happens when a gang splits up. Yeah, whoops, I get lost, huh. This the right side? Yeah, yeah, yeah, it’s this way.",
+    "source_raw": "way uh did we come here before maybe maybe it's starting to look familiar yeah but if we s to the right wait wait wait wait other way other way the the right section then this is what happens when a gang splits up yeah whoops I get lost huh this the right [Music] side yeah yeah yeah it's this way okay",
+    "unmatched": [
+      "uh",
+      "did",
+      "we",
+      "come",
+      "here",
+      "before",
+      "maybe",
+      "maybe",
+      "it's",
+      "starting",
+      "to",
+      "look",
+      "familiar",
+      "yeah",
+      "but",
+      "if",
+      "we",
+      "stick",
+      "to",
+      "the",
+      "right",
+      "wait",
+      "wait",
+      "wait",
+      "wait",
+      "other",
+      "way",
+      "other",
+      "way",
+      "the",
+      "the",
+      "right",
+      "section",
+      "then",
+      "this",
+      "is",
+      "what",
+      "happens",
+      "when",
+      "a",
+      "gang",
+      "splits",
+      "up",
+      "yeah",
+      "whoops",
+      "i",
+      "get",
+      "lost",
+      "huh",
+      "this",
+      "the",
+      "right",
+      "side",
+      "yeah",
+      "yeah",
+      "yeah",
+      "it's",
+      "this",
+      "way"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 45,
+    "source_segments": [
+      2001,
+      2005
+    ],
+    "status": "SFT",
+    "raw": "Hi, we’re here. Okay, okay, so he’s only level 10, and his health isn’t that crazy. Okay, okay, we got to not kill it. Yeah, he’s reasonable.",
+    "source_raw": "yeah oh oh that's a big b hi we're here okay okay so he's only level 10 and his health isn't that crazy okay okay he got to not kill it yeah he's reasonable huh",
+    "unmatched": [
+      "we"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 46,
+    "source_segments": [
+      2006,
+      2013
+    ],
+    "status": "LOW",
+    "raw": "So then I should probably take back Goldie. Probably, Goldie likes to kill everything. If you hit, if you have Goldie out and hold four, you can command Goldie to not attack. It’s only level 10, though, so I think I’ll be okay. Yeah, yeah. Oh, it it respawned. It got, oh, oh no, it’s a CH doog now.",
+    "source_raw": "so then I should probably take back gie probably Goldie likes to kill everything if you hit if you have gold out and hold four you can command Goldie to not attack it's only level 10 though so I think I'll be okay yeah yeah oh it it respawned it got oh oh no it's a CH doog now",
+    "unmatched": [
+      "probably",
+      "likes",
+      "kill",
+      "everything",
+      "if",
+      "you",
+      "hit",
+      "if",
+      "you",
+      "have",
+      "goldie",
+      "out",
+      "and",
+      "hold",
+      "four",
+      "you",
+      "can",
+      "command",
+      "goldie",
+      "to"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 47,
+    "source_segments": [
+      2006,
+      2011
+    ],
+    "status": "SFT",
+    "raw": "So then I should probably take back Goldie. Probably, Goldie likes to kill everything. If you hit, if you have Goldie out and hold four, you can command Goldie to not attack. It’s only level 10, though, so I think I’ll be okay. Yeah, yeah.",
+    "source_raw": "so then I should probably take back gie probably Goldie likes to kill everything if you hit if you have gold out and hold four you can command Goldie to not attack it's only level 10 though so I think I'll be okay yeah yeah oh it it",
+    "unmatched": [
+      "probably",
+      "likes",
+      "kill",
+      "everything",
+      "if",
+      "you",
+      "hit",
+      "if",
+      "you",
+      "have",
+      "goldie",
+      "out",
+      "and",
+      "hold",
+      "four",
+      "you",
+      "can",
+      "command",
+      "goldie",
+      "to"
+    ]
+  },
+  {
+    "part": "part09.json",
+    "row": 50,
+    "source_segments": [
+      2021,
+      2029
+    ],
+    "status": "SFT",
+    "raw": "Oops, destroy, destroy. It’s just doing what it wants to do best, is rolling around at the speed of. Yeah, what’s this, places to go, he’s got to follow his rainbow, you know. Hey, there’s another chest here, I’m going go ahead and open one of these two, them. Okay.",
+    "source_raw": "oop destroy destroy it's just doing what it wants to do best is rolling around at the speed of yeah what's this places to go he's got to follow his rainbow you know hey there's another chest here I'm going go ahead and open one of these two them okay",
+    "unmatched": [
+      "oops"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 2,
+    "source_segments": [
+      2033,
+      2036
+    ],
+    "status": "SFT",
+    "raw": "Never mind. That was a fun good dungeon. All right, I guess we should do the thing now. Yeah, okay, hold on.",
+    "source_raw": "mind that was a fun good [Music] dungeon all right I guess we should do the thing now yeah okay hold",
+    "unmatched": [
+      "never",
+      "on"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 3,
+    "source_segments": [
+      2038,
+      2041
+    ],
+    "status": "SFT",
+    "raw": "Are you guys still in the cave? No, Bab’s just spawning. Okay, um, okay, north, keep going north. All right.",
+    "source_raw": "on are you guys still in the CBE a no bab's just spawning okay um okay North keep going north all right",
+    "unmatched": [
+      "cave"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 4,
+    "source_segments": [
+      2042,
+      2047
+    ],
+    "status": "SFT",
+    "raw": "What, is there another teleporter up there? Uh, there’s going to be a teleporter right next to the thing that I want again. Well, I hope I don’t die here. Okay, you guys will be fine. I don’t know about that.",
+    "source_raw": "what is there another teleporter up there uh there's going to be a tter right next to the thing that I want n again well I hope I don't die here okay you guys will be fine I don't know about",
+    "unmatched": [
+      "teleporter",
+      "that"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 7,
+    "source_segments": [
+      2056,
+      2058
+    ],
+    "status": "SFT",
+    "raw": "Gun. Someone with a big gun. Save me. We’ll be there in like 10 minutes.",
+    "source_raw": "gun someone with a big gun save me we'll be there in like 10",
+    "unmatched": [
+      "minutes"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 8,
+    "source_segments": [
+      2061,
+      2065
+    ],
+    "status": "SFT",
+    "raw": "Cleaner, maybe they can do my laundry. Uh-oh. Yeah, you alive? I, yeah, sadly. Sadly, we’re almost dead. Dead, big guy dead. Thank you.",
+    "source_raw": "cleaner maybe they can do my laundry uhoh NOA yeah you alive I yeah sadly sadly we're almost dead dead big guy dead thank you",
+    "unmatched": [
+      "uh",
+      "oh"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 12,
+    "source_segments": [
+      2076,
+      2082
+    ],
+    "status": "SFT",
+    "raw": "By the way, um, where do you get ammo? You do need it for the gun, right? Yeah, I think you can build it whenever you eventually get to. Oh, well, no, it’s okay, it’s okay. What happened? They’re pretty common. Okay, okay, Biboo, lead the way. Okay, uh, this way.",
+    "source_raw": "please by the way um where do you get ammo you do need it for the gun right yeah I think you can build it whenever you eventually get to oh well no it's okay it's okay what happened they're pretty common okay okay bi boo lead the way okay uh this way",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 14,
+    "source_segments": [
+      2091,
+      2097
+    ],
+    "status": "LOW",
+    "raw": "Yeah hello oh it’s a merchant and a guard a we haven’t seen a mer kind of laggy talk welcome oo oh man too bad I can’t capture the guard",
+    "source_raw": "yeah hello oh it's a merchant and a guard a we haven't seen a mer kind of laggy talk welcome oo oh man too bad I can't capture the",
+    "unmatched": [
+      "guard"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 19,
+    "source_segments": [
+      2112,
+      2115
+    ],
+    "status": "SFT",
+    "raw": "Medicine, cuz they’re all depressed right now. I can’t, you know what, I’ll I’ll preemptively buy too cuz I don’t use for anything else.",
+    "source_raw": "medicine cuz they're all depressed right now I can't you know what I'll I'll preemptively buy too cuz I don't use for anything",
+    "unmatched": [
+      "else"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 20,
+    "source_segments": [
+      2116,
+      2124
+    ],
+    "status": "LOW",
+    "raw": "Also have fraction another bunny I don’t have okay hold up the lag is killing me bye bye yeah the the area around the merchant guy is laggy for some reason okay there’s one of the cute ones we can get that one too oh there’s a bunch of them bunch of them come on uh Daedream",
+    "source_raw": "else also have fraction another bunny I don't have okay hold up the lag is killing me byebye yeah the the area around the merchant guy is laggy for some reason okay there's one of the cute ones we can get that one too oh there's a bunch of them bunch of them come on uh daydream",
+    "unmatched": [
+      "bye",
+      "bye",
+      "daedream"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 21,
+    "source_segments": [
+      2117,
+      2120
+    ],
+    "status": "SFT",
+    "raw": "Okay, hold up, the lag is killing me. Bye-bye. Yeah, the the area around the merchant guy is laggy for some reason.",
+    "source_raw": "don't have okay hold up the lag is killing me byebye yeah the the area around the merchant guy is laggy for some reason okay there's one of the cute",
+    "unmatched": [
+      "bye",
+      "bye"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 22,
+    "source_segments": [
+      2120,
+      2124
+    ],
+    "status": "SFT",
+    "raw": "Okay, there’s one of the cute ones. We can get that one too. Oh, there’s a bunch of them, bunch of them. Come on, uh, Daedream.",
+    "source_raw": "some reason okay there's one of the cute ones we can get that one too oh there's a bunch of them bunch of them come on uh daydream",
+    "unmatched": [
+      "daedream"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 25,
+    "source_segments": [
+      2130,
+      2133
+    ],
+    "status": "SFT",
+    "raw": "Oh, shoot, all right, that’s it. I’m just going to kill this. Don’t kill it. I’m almost dead, though. Why? Come on, if you want to live, stay with me.",
+    "source_raw": "shoot all right that's it I'm just going to kill this don't kill it I'm almost dead though why come on if you want to live Stay With Me",
+    "unmatched": [
+      "oh"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 26,
+    "source_segments": [
+      2136,
+      2141
+    ],
+    "status": "SFT",
+    "raw": "Okay, all right, guess you’re living. Everybody got the bunny? Okay, north again, north north. Let’s get out of this area; this area is lagging me. Okay, I got the fast travel point that I think is near it. Yeah, okay.",
+    "source_raw": "okay all right guess you're living everybody got the funny okay North again North North let's get out of this area this area is lagging me okay I got the Fast Travel point that I think is near it yeah okay",
+    "unmatched": [
+      "bunny"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 29,
+    "source_segments": [
+      2144,
+      2147
+    ],
+    "status": "SFT",
+    "raw": "Hello hello hello hello. Which direction? We lost. Uh, yeah, we’re just staying over the same place. Yeah, here, this way, this way. Which uh which way is this way?",
+    "source_raw": "hello hello hello B which direction we lost uh yeah we're just staying over the same place yeah here this way this way which uh which way is this way oh I see",
+    "unmatched": [
+      "hello"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 32,
+    "source_segments": [
+      2162,
+      2169
+    ],
+    "status": "LOW",
+    "raw": "Enough you feed them they should be eating no oh you have to manually feed in your party if you don’t have like a Feed Bag you only need one Feed Bag by the way I see okay got a feed Goldie oh less less lag okay oh I’m still so framy",
+    "source_raw": "them enough you feed them they should be eating no oh you have to manually feed in your party if you don't have like a Feed Bag you only need one Feed Bag by the way I see okay got a feet Goldie oh less less lag of okay oh I'm still so [Music] framy",
+    "unmatched": [
+      "feed"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 33,
+    "source_segments": [
+      2163,
+      2169
+    ],
+    "status": "SFT",
+    "raw": "They should be eating. No, oh, you have to manually feed in your party if you don’t have like a Feed Bag. You only need one Feed Bag, by the way. I see, okay, got to feed Goldie. Oh, less less lag. Okay, oh, I’m still so framey.",
+    "source_raw": "eating no oh you have to manually feed in your party if you don't have like a Feed Bag you only need one Feed Bag by the way I see okay got a feet Goldie oh less less lag of okay oh I'm still so [Music] framy",
+    "unmatched": [
+      "they",
+      "should",
+      "be",
+      "to",
+      "feed",
+      "framey"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 40,
+    "source_segments": [
+      2198,
+      2203
+    ],
+    "status": "SFT",
+    "raw": "I think Fish is okay, he can stay dead for now. Yeah, nails. Is it this one? Okay, I’m by the teleporter. Okay, I’ll be there in a bit, let me just finish this one thing. I’ll go back.",
+    "source_raw": "I think f is okay he can stay dead for now yeah Nails is it this one okay I'm by the teleporter okay I'll be there in a bit let me just finish this one thing I'll go back",
+    "unmatched": [
+      "fish"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 44,
+    "source_segments": [
+      2209,
+      2218
+    ],
+    "status": "SFT",
+    "raw": "We’re getting raided. I don’t know which base it is, though. Oh, it’ll be fine. Okay, I’m at the teleporter, more or less. Okay, are we going to the waterfall, inside it? Oh, okay, it’s mine. They can’t reach it anyway. Okay, it’s fine. I’m getting bullets, one second.",
+    "source_raw": "she no we're getting R I don't know which base it is though [Music] oh it'll be [Music] fine okay I'm at the teleporter more oress okay are we going to the waterfall inside it oh okay it's mine they can't reach it anyway okay it's fine I'm getting bullets one second",
+    "unmatched": [
+      "raided",
+      "or",
+      "less"
+    ]
+  },
+  {
+    "part": "part10.json",
+    "row": 47,
+    "source_segments": [
+      2223,
+      2230
+    ],
+    "status": "SFT",
+    "raw": "No, no, no. No, it’s mine. It’s mine. Uh, I’m sorry, I’m right here, so you can get it.",
+    "source_raw": "no no NOA no it's Minea it's mine uh I'm sorry I'm right here [Music] so you can get it",
+    "unmatched": [
+      "no",
+      "it's",
+      "mine"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 3,
+    "source_segments": [
+      2264,
+      2276
+    ],
+    "status": "SFT",
+    "raw": "Where’s the, wait, where is it? Yeah, I don’t know. Maybe it’s been destroyed. Where the, what, did somebody kill it, get it already? Well, maybe on the server, is it just us? What? Huh, usually it’s within within an hour, though, why? Yeah, should we just wait for him? Well, we can camp out, I guess, or just uh explore this area a little.",
+    "source_raw": "the wait where is it yeah I don't know maybe it's been destroyed where the what did somebody kill it get it already well maybe I'll the server is it just us what huh usually it's within within an hour though why yeah should we just wait for him well we can camp out I guess or just uh explore this area a little",
+    "unmatched": [
+      "where's",
+      "on"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 10,
+    "source_segments": [
+      2295,
+      2299
+    ],
+    "status": "SFT",
+    "raw": "There we go, there we go. I don’t like it when I’m all wet. Yeah, yeah, why not? It just it sounds weird, and the fuzz, the the fuzz gets heavy. You have like the the dog smell.",
+    "source_raw": "there we go there we go I don't like it when I'm all wet yeah yeah why not it just it sounds weird and the fuzz the the fuzz gets heavy you have like the the dog",
+    "unmatched": [
+      "smell"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 11,
+    "source_segments": [
+      2300,
+      2308
+    ],
+    "status": "SFT",
+    "raw": "People are saying it only spawns during the day, Biboo. Oh, I guess we got to wait until daytime then. Okay, okay, okay, well, we have a teleporter, so we can we can come back in the daytime. I can always come back whenever on my own too cuz I I know, I know, uh, the time. Oh, yeah, you should uh leave a marker here then.",
+    "source_raw": "smell people are saying it only SPS during the day to be boo oh I guess we got to wait until daytime then okay okay okay well we have it teleporter so we can we can come back the daytime I can always come back whenever on my own too cuz I I know I know uh the time oh yeah you should uh leave a marker here then a marker I good",
+    "unmatched": [
+      "spawns",
+      "biboo",
+      "teleporter",
+      "so",
+      "we",
+      "can",
+      "we",
+      "can",
+      "come",
+      "back",
+      "in",
+      "the",
+      "daytime",
+      "can",
+      "always",
+      "come",
+      "back",
+      "whenever",
+      "on",
+      "my",
+      "own",
+      "too",
+      "cuz",
+      "i",
+      "i",
+      "know",
+      "i",
+      "know",
+      "uh",
+      "the",
+      "time",
+      "oh",
+      "yeah",
+      "you",
+      "should",
+      "uh",
+      "leave",
+      "a",
+      "marker",
+      "here",
+      "then"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 12,
+    "source_segments": [
+      2308,
+      2317
+    ],
+    "status": "SFT",
+    "raw": "A marker, good idea. How how do I, how am I going to get out of here? Guess we’re going to have to climb. Hold, oh, that’s right cuz we jumped down. Yeah, so sorry for you guys. I don’t have my flying mount actually, so I also have to climb.",
+    "source_raw": "leave a marker here then a marker I good idea how how do I how am I going to get out of here guess we're going to have to [Music] climb hold oh that's right cuz we jumped down yeah so sorry for you guys I don't have my flying Mount actually so I also have to clim",
+    "unmatched": [
+      "climb"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 13,
+    "source_segments": [
+      2318,
+      2322
+    ],
+    "status": "SFT",
+    "raw": "Yeah, Biboo, you left us for dead. What, do we even have enough stamina for this? I can’t see anything. So here, I just went in the cave to check. No, no, we’re talking about leaving, uh, to go up.",
+    "source_raw": "yeah bio you L us for dead what do we even have enough stamina for this I can't see anything so here I just went in the cave to check no no we're talking about leaving uh to go up oh I",
+    "unmatched": [
+      "biboo",
+      "left"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 16,
+    "source_segments": [
+      2328,
+      2334
+    ],
+    "status": "SFT",
+    "raw": "And then go on the cliff, and then up here it looks like we can climb up without having to like climb, maybe. Okay, I just hope we could see farther ahead. Oh, God, there’s a sl, there’s a slope, it’s a very very dangerous slope.",
+    "source_raw": "go on the cliff and then up here it looks like we can climb up without having to like climb maybe okay I just hope we could see farther ahead oh God there's a SL there's a slope it's a very very dangerous slope",
+    "unmatched": [
+      "go",
+      "on",
+      "the",
+      "cliff",
+      "and",
+      "then"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 17,
+    "source_segments": [
+      2335,
+      2343
+    ],
+    "status": "SFT",
+    "raw": "Yeah, okay, stamina I kind of need. Okay, I’ll let you guys first. I think that could only take a few people at a time. There’s another, there’s another slope over here, so you could stop and regain your your stamina.",
+    "source_raw": "yeah okay stamina I kind of need okay I'll let you guys first I think that could only take a few people at a time there's another there's another soap over here so you could stop and regain your your stamina man rock climbing",
+    "unmatched": [
+      "slope"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 18,
+    "source_segments": [
+      2343,
+      2349
+    ],
+    "status": "SFT",
+    "raw": "Man, rock climbing sucks. This is working, is this good? Excuse me. No, it’s rock climbing, not just rocks. Biboo, you’re okay, I don’t have to climb on top of you. Oh, gosh, it’s okay, I’ll just find some other thing.",
+    "source_raw": "stamina man rock climbing sucks this is working is this good excuse me no it's rock climbing not just rocks beo you're okay I don't have to climb on top of you oh gosh it's okay I'll just find some other thing",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 19,
+    "source_segments": [
+      2350,
+      2358
+    ],
+    "status": "SFT",
+    "raw": "Ah, if only weren’t so dark. Waiting for you. No, it’s okay, you can go without me. It’s okay, almost up, no, almost up. We share the light. All right, this way, I’m going to try going up this way. You sure? We’re just going to fall. No, I think there’s a bit of a ledge. See, this way.",
+    "source_raw": "a if only weren so dark waiting for you no it's okay you can go without me it's okay almost up no almost up We Share the Light all right this way I'm going to try going up this way you sure we're just going to fall no I think there's a bit of a ledge see this way",
+    "unmatched": [
+      "ah",
+      "weren't"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 20,
+    "source_segments": [
+      2359,
+      2364
+    ],
+    "status": "LOW",
+    "raw": "Okay, gosh, I cannot see crap. Sorry, sorry, I don’t have a thing. It’s okay, are we up? Yeah, just just go straight up. What? Yeah, yeah, no, we made it, we made it, there’s a bridge here. Yeah, okay, yeah, left shot. Oh, I’m just climbing.",
+    "source_raw": "okay gosh I cannot see crap sor sorry I don't have a thing it's okay are we up yeah just just go straight up what yeah yeah no we made it we made it there's a bridge here yeah okay yeah left shot oh I'm just climbing",
+    "unmatched": [
+      "sorry"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 21,
+    "source_segments": [
+      2359,
+      2363
+    ],
+    "status": "SFT",
+    "raw": "Okay, gosh, I cannot see crap. Sorry, sorry, I don’t have a thing. It’s okay, are we up? Yeah, just just go straight up. What? Yeah, yeah, no, we made it, we made it, there’s a bridge here.",
+    "source_raw": "okay gosh I cannot see crap sor sorry I don't have a thing it's okay are we up yeah just just go straight up what yeah yeah no we made it we made it there's a bridge here yeah okay yeah left shot oh",
+    "unmatched": [
+      "sorry"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 22,
+    "source_segments": [
+      2365,
+      2372
+    ],
+    "status": "LOW",
+    "raw": "Here too far sheep uhoh uhoh that is a huge sheep it was the my lighting Beacon oh this a creepy tree okay now we climb we go up more yeah I think we’re good we’re good yeah I think we’re good yep uh let’s let’s wait for them though",
+    "source_raw": "here too far sheep uhoh uhoh that is a huge Jeep it was the my lighting Beacon oh this a creepy tree okay now we climb we go up more yeah I think we're good we're good yeah I think we're good yep uh let's let's wait for them though",
+    "unmatched": [
+      "sheep"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 23,
+    "source_segments": [
+      2366,
+      2372
+    ],
+    "status": "SFT",
+    "raw": "That is a huge sheep. It was the my lighting beacon. Oh, this a creepy tree. Okay, now we climb, we go up more. Yeah, I think we’re good, we’re good. Yeah, I think we’re good. Yep, uh, let’s let’s wait for them, though.",
+    "source_raw": "huge Jeep it was the my lighting Beacon oh this a creepy tree okay now we climb we go up more yeah I think we're good we're good yeah I think we're good yep uh let's let's wait for them though",
+    "unmatched": [
+      "that",
+      "is",
+      "huge",
+      "sheep",
+      "it",
+      "was",
+      "the",
+      "my",
+      "lighting",
+      "beacon",
+      "oh",
+      "this",
+      "a"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 24,
+    "source_segments": [
+      2373,
+      2379
+    ],
+    "status": "SFT",
+    "raw": "Yeah, oh, it’s this way. Yeah, you went too high. This way. Did I? Oh, no, I’m scared. Go ahead. Yeah, we’re going to the teleporter right now. Okay, right over here. Is there a bridge?",
+    "source_raw": "yeah oh it's this way yeah you went too high this way did I oh no I'm scared goad y we're going to the teleporter right now okay right over here is there a bridge oh",
+    "unmatched": [
+      "go",
+      "ahead",
+      "yeah"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 25,
+    "source_segments": [
+      2380,
+      2390
+    ],
+    "status": "LOW",
+    "raw": "Oh no I cannot see I cannot see a bridge just follow I guess we’re going to wait for daytime where are you guys is dangerous we’re heading toward the teleporter if only we had a grappling gun what’s here is that uh I don’t know that’s pretty low I think gosh",
+    "source_raw": "no I cannot see I cannot see a bre just follow I guess we're going to wait for daytime where are you guys is dangerous we're heading toward the [Music] teleporter only we had a grappling gun what's here is that uh I don't know that's pretty low I think gosh",
+    "unmatched": [
+      "oh",
+      "bridge",
+      "if"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 26,
+    "source_segments": [
+      2380,
+      2388
+    ],
+    "status": "SFT",
+    "raw": "Oh, no, I cannot see, I cannot see a bridge. Just follow. I guess we’re going to wait for daytime. Where are you guys? It’s dangerous. We’re heading toward the teleporter. If only we had a grappling gun.",
+    "source_raw": "no I cannot see I cannot see a bre just follow I guess we're going to wait for daytime where are you guys is dangerous we're heading toward the [Music] teleporter only we had a grappling gun what's here is",
+    "unmatched": [
+      "oh",
+      "bridge",
+      "it's",
+      "if"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 29,
+    "source_segments": [
+      2395,
+      2397
+    ],
+    "status": "SFT",
+    "raw": "We’re back. Oh, we’re back. Pals were all asleep. Good condition.",
+    "source_raw": "gun apparently I have one we're back oh we're back pal we're all asleep good condition this a",
+    "unmatched": [
+      "pals",
+      "were"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 32,
+    "source_segments": [
+      2408,
+      2412
+    ],
+    "status": "LOW",
+    "raw": "He’s good he he like the one he made a choice this like we made really good progress today cool Pal too",
+    "source_raw": "you he's good he he like the one he made a chice this like we made really good progress today cool pal too",
+    "unmatched": [
+      "choice"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 34,
+    "source_segments": [
+      2413,
+      2426
+    ],
+    "status": "LOW",
+    "raw": "Let’s put our Pals our our shiny Pals out on the on the base should have been our party and then we can do more stuff us okay and gold Fish is working where’s sheep here ah let’s put him in the base and go and Fish Fish is healing oh okay oh this should be I have",
+    "source_raw": "M let's put our Pals our our shiny PS out on the on the base should have been our party and then we can do more stuff us okay and gold fish is working where's Jeep here ah let's put him in the base and go and fish fish is healing oh okay oh this should be I have",
+    "unmatched": [
+      "pals",
+      "sheep"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 35,
+    "source_segments": [
+      2413,
+      2417
+    ],
+    "status": "SFT",
+    "raw": "Let’s put our Pals our our shiny Pals out on the on the base, should have been our party, and then we can do more stuff.",
+    "source_raw": "M let's put our Pals our our shiny PS out on the on the base should have been our party and then we can do more stuff",
+    "unmatched": [
+      "pals"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 36,
+    "source_segments": [
+      2420,
+      2424
+    ],
+    "status": "SFT",
+    "raw": "Fish is working. Where’s sheep? Here, ah, let’s put him in the base. And Fish, Fish is healing.",
+    "source_raw": "and gold fish is working where's Jeep here ah let's put him in the base and go and fish fish is healing oh",
+    "unmatched": [
+      "sheep"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 37,
+    "source_segments": [
+      2427,
+      2431
+    ],
+    "status": "SFT",
+    "raw": "Oh, perfect, I’m going to go back into my house, into the onsen. Yes, let’s have some. It’s not good to eat in them, but, oh, yeah, yeah, oh, let’s not fall off cliff.",
+    "source_raw": "o perfect I'm going to go back into my house into the orang sand yes let's have some it's not good to eat in then but oh yeah yeah oh let's not fall off CL",
+    "unmatched": [
+      "perfect",
+      "i'm",
+      "going",
+      "to",
+      "go",
+      "back",
+      "into",
+      "my",
+      "house",
+      "into",
+      "the",
+      "onsen",
+      "yes",
+      "have",
+      "some",
+      "it's",
+      "good",
+      "to",
+      "eat",
+      "in",
+      "them",
+      "but",
+      "oh",
+      "yeah",
+      "yeah",
+      "oh",
+      "let's",
+      "not",
+      "cliff"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 38,
+    "source_segments": [
+      2432,
+      2440
+    ],
+    "status": "SFT",
+    "raw": "No, that’s right, we need to bring out Pero too. Use Pero. Can you ride him? You can ride Pero. Oh, you should do that then, because because then you could destroy stuff while we’re riding Pero, and dominance. Where is he? He is, let’s name him properly, it’s the wrong name.",
+    "source_raw": "no that's right we need to bring out P too use pero can you ride him you can ride pero oh you should do that then because because then you could destroy stuff while we're riding perel and dominance where is he he is let's name him properly it's the wrong name",
+    "unmatched": [
+      "too",
+      "use",
+      "can",
+      "ride",
+      "you",
+      "can",
+      "ride",
+      "pero",
+      "oh",
+      "you",
+      "should",
+      "do",
+      "that",
+      "then",
+      "because",
+      "because",
+      "then",
+      "you",
+      "could",
+      "destroy",
+      "stuff",
+      "while",
+      "we're",
+      "riding",
+      "pero",
+      "and",
+      "dominance",
+      "where",
+      "is",
+      "he",
+      "he",
+      "is",
+      "let's",
+      "him",
+      "properly",
+      "it's",
+      "the",
+      "wrong",
+      "name"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 39,
+    "source_segments": [
+      2442,
+      2449
+    ],
+    "status": "LOW",
+    "raw": "Ises bring him out you okay are you guys okay P Grandpa I’m not used to Pero being so big and a mustache yeah maybe you can shave the mustache off he makes me feel unsettled it’s not quite right you know unsettling",
+    "source_raw": "ises bring him [Music] out you okay are you guys okay P Grandpa I'm not used to P being so big and a mustache yeah maybe you can shave the mustache off he makes me feel unsettled it's not quite right you know",
+    "unmatched": [
+      "pero",
+      "unsettling"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 40,
+    "source_segments": [
+      2444,
+      2451
+    ],
+    "status": "SFT",
+    "raw": "Are you guys okay? Pero Grandpa. I’m not used to Pero being so big and a mustache. Yeah, maybe you can shave the mustache off. He makes me feel unsettled. It’s not quite right, you know, unsettling. Yeah, maybe he’s too mature for you.",
+    "source_raw": "out you okay are you guys okay P Grandpa I'm not used to P being so big and a mustache yeah maybe you can shave the mustache off he makes me feel unsettled it's not quite right you know unsettling yeah maybe he's too mature for you",
+    "unmatched": [
+      "pero",
+      "pero"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 43,
+    "source_segments": [
+      2456,
+      2459
+    ],
+    "status": "SFT",
+    "raw": "Wait one second, right there. Do this. Pet. Pet Pero. Destroy Pero. There’s no destroy. Come here.",
+    "source_raw": "him wait one second right there do this pet petal destroy pedal there's no destroy come",
+    "unmatched": [
+      "pet",
+      "pero",
+      "pero",
+      "here"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 45,
+    "source_segments": [
+      2466,
+      2469
+    ],
+    "status": "SFT",
+    "raw": "Yeah, bath time over here. Oh, not bath time, roll-off-the-cliff time.",
+    "source_raw": "y bath time over here oh not bath time roll off the cliff time",
+    "unmatched": [
+      "yeah"
+    ]
+  },
+  {
+    "part": "part11.json",
+    "row": 52,
+    "source_segments": [
+      2490,
+      2490
+    ],
+    "status": "LOW",
+    "raw": "Okay, what are you doing, Biboo? I’m kind of",
+    "source_raw": "okay what are you doing bio I'm kind of",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 1,
+    "source_segments": [
+      2490,
+      2493
+    ],
+    "status": "SFT",
+    "raw": "Okay, what are you doing, Biboo? I’m kind of scared. Can we all teleport to the Syndicate Tower, the one that we just beat with Shiori? Oh, okay, okay.",
+    "source_raw": "okay what are you doing bio I'm kind of scared can we all teleport to The Syndicate Tower the one that we just beat with Shi oh okay okay",
+    "unmatched": [
+      "biboo",
+      "shiori"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 2,
+    "source_segments": [
+      2494,
+      2506
+    ],
+    "status": "LOW",
+    "raw": "Unless I see can’t use your Palbox right oh I end up going to the tower I think yeah yeah yeah let just why okay wait where’s the C where’s the C is the C here wait oh up oh oh yeah I was wondering why you jumped off it’s okay I’ll wait here I forgot I stored my you what we did I I stored my my glider I’m just going to make sure that I’m going to be on my mount",
+    "source_raw": "unle I see can't use your P box right oh I end up going to the tower I think yeah yeah yeah let just why okay wait where's the C where's the C is the C here wait oh up oh oh yeah I was wondering why you jumped off it's okay I'll wait here I forgot I stored my you what we did I I stored my my glider I'm just going to make sure that I'm going to be on my [Music] mou I forgot I also gave for M my glider",
+    "unmatched": [
+      "unless",
+      "palbox",
+      "mount"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 4,
+    "source_segments": [
+      2499,
+      2506
+    ],
+    "status": "SFT",
+    "raw": "Oh, oh, yeah, I was wondering why you jumped off. It’s okay, I’ll wait here. I forgot I stored my, I I stored my my glider. I’m just going to make sure that I’m going to be on my mount.",
+    "source_raw": "oh oh yeah I was wondering why you jumped off it's okay I'll wait here I forgot I stored my you what we did I I stored my my glider I'm just going to make sure that I'm going to be on my [Music] mou I forgot I also gave for M my glider",
+    "unmatched": [
+      "mount"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 5,
+    "source_segments": [
+      2506,
+      2511
+    ],
+    "status": "SFT",
+    "raw": "I forgot I also gave Fuwamoco my glider. I’m sorry. Oh, that’s right. Do you want it back, Biboo? No, no, no, you keep it. You sure? If we’re up here I think we need it.",
+    "source_raw": "mou I forgot I also gave for M my glider I'm Sor oh that's right do you want it back people no no no you keep St it you sure if we're up here I think we need it hi",
+    "unmatched": [
+      "fuwamoco",
+      "sorry",
+      "biboo"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 9,
+    "source_segments": [
+      2520,
+      2531
+    ],
+    "status": "SFT",
+    "raw": "Wait, where’s the where’s the camp with the with the with the Pal that’s like, wasn’t there a camp with the Pal that needed help here? Oh, around this place? I don’t remember. I thought there was a, there was a. Oh, it didn’t spawn. Okay, so it’s not here. Well, whatever, I’ll show you anyway. All right, I’m meeting at the top of the tower. Oh, meet at the bottom, at the bottom. Okay, I hope I don’t die.",
+    "source_raw": "yeah yeah yeah yes that's all good wait where's the where's the camp with the with the with the pal that's like wasn't there a camp with the pal that needed help here oh and around this place I don't remember I thought there was a there was a oh it didn't Spa okay so it's not here well whatever I'll show you anyway all right I'm meeting at the top of the tower oh me at the bottom at the bottom okay I hope I don't die don't",
+    "unmatched": [
+      "spawn",
+      "meet"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 10,
+    "source_segments": [
+      2533,
+      2536
+    ],
+    "status": "SFT",
+    "raw": "Don’t die. Press it at the last, before you hit the ground, press it. What? Let go, and then before you hit the ground, press it again.",
+    "source_raw": "die press it at the last before you hit the ground press it what let go and then before you hit the ground press it again",
+    "unmatched": [
+      "don't"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 11,
+    "source_segments": [
+      2537,
+      2544
+    ],
+    "status": "LOW",
+    "raw": "Ah I kind of far away there we go okay ready ready what wait come here I don’t even know what’s happening anymore where where Isa oh I’m watching I’m nearby you’re watching okay okay",
+    "source_raw": "a I kind of far away there we go okay ready ready what wait come here I don't even know what's happening anymore where where Isa oh I'm watching I'm nearby you're watching okay okay",
+    "unmatched": [
+      "ah"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 12,
+    "source_segments": [
+      2537,
+      2541
+    ],
+    "status": "SFT",
+    "raw": "Ah, I kind of far away. There we go, okay, ready, ready? What? Wait, come here. I don’t even know what’s happening anymore.",
+    "source_raw": "a I kind of far away there we go okay ready ready what wait come here I don't even know what's happening anymore",
+    "unmatched": [
+      "ah"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 14,
+    "source_segments": [
+      2545,
+      2551
+    ],
+    "status": "SFT",
+    "raw": "Uh, oh my God, oh, that’s a lot of food. This is, it is, is that machine gun like permanent or something? Oh, ah, I feel bad for them now.",
+    "source_raw": "uh oh my god oh that's a lot of food this is it is is that machine gun like permanent or something oh a I feel bad for them now a",
+    "unmatched": [
+      "ah"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 15,
+    "source_segments": [
+      2553,
+      2563
+    ],
+    "status": "LOW",
+    "raw": "Man is just she’s it’s so cool you need ammo if you want to live you might want to be mine you need ammo for him no it’s a skill it’s a skill you need to make a M or uh a saddle oh they’re just dying every yeah it’s great oh TI PE nothing Biboo shot me it’s okay I’m glad B’s on our side yeah",
+    "source_raw": "man is just she's it's so cool you need ammo if you want to live you might want to be mine you need ammo for him no it's a skill it's a skill you need to make a m or uh a saddle oh they're just dying every yeah it's great oh TI PE nothing bio shot me it's okay I'm glad B's on our side yeah",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 17,
+    "source_segments": [
+      2560,
+      2563
+    ],
+    "status": "SFT",
+    "raw": "Biboo shot me. It’s okay. I’m glad Biboo’s on our side. Yeah.",
+    "source_raw": "PE nothing bio shot me it's okay I'm glad B's on our side yeah",
+    "unmatched": [
+      "biboo",
+      "biboo's"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 18,
+    "source_segments": [
+      2564,
+      2567
+    ],
+    "status": "SFT",
+    "raw": "Wow, nice long legs, Biboo. Thank you. You you, your butt looks good from this angle. What? Look, wow, thank you. I don’t know if I should. You like it? My butt? Yeah.",
+    "source_raw": "wow nice long legs B boo thank you you you your butt looks good from this angle what look wow thank you I don't know if I should you like it my butt yeah",
+    "unmatched": [
+      "biboo"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 19,
+    "source_segments": [
+      2569,
+      2573
+    ],
+    "status": "LOW",
+    "raw": "Nice what is Nerissa getting shot at no oh I can feel my it that’s what I want to show you thank you you too can do that yeah we just need to catch one",
+    "source_raw": "nice what is Nissa getting shot at no oh I can feel my it that's what I want to show you thank you you too can do that yeah we just need to catch one",
+    "unmatched": [
+      "nerissa"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 20,
+    "source_segments": [
+      2569,
+      2569
+    ],
+    "status": "SFT",
+    "raw": "Is Nerissa getting shot at? No.",
+    "source_raw": "nice what is Nissa getting shot at no oh",
+    "unmatched": [
+      "nerissa"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 22,
+    "source_segments": [
+      2574,
+      2580
+    ],
+    "status": "LOW",
+    "raw": "Somebody’s isn’t that Pal kind of rare which one the one you had oh no it it’s a somewhere you can catch them pretty plen oh really yeah I want one too there’s so many cute Pals yeah yeah I like it it was fun today it was fun",
+    "source_raw": "somebody's isn't that P kind of rare which one the one you had oh no it it's a somewhere you can catch them pretty plen oh really yeah I want one two there's so many cute PS yeah yeah I like it it was fun today it was fun",
+    "unmatched": [
+      "pal",
+      "too",
+      "pals"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 23,
+    "source_segments": [
+      2574,
+      2580
+    ],
+    "status": "SFT",
+    "raw": "Isn’t that Pal kind of rare? Which one? The one you had. Oh, no, somewhere you can catch them pretty plentiful. Oh, really? Yeah, I want one too. There’s so many cute Pals. Yeah, yeah, I like it. It was fun today, it was fun.",
+    "source_raw": "somebody's isn't that P kind of rare which one the one you had oh no it it's a somewhere you can catch them pretty plen oh really yeah I want one two there's so many cute PS yeah yeah I like it it was fun today it was fun",
+    "unmatched": [
+      "pal",
+      "plentiful",
+      "too",
+      "pals"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 27,
+    "source_segments": [
+      2595,
+      2608
+    ],
+    "status": "SFT",
+    "raw": "Nerissa. Uh, I do have an announcement. So me and Biboo actually have a joint project releasing here on the 13th. Uh, the waiting room won’t go live for a little bit, but uh please do look forward to it. We worked very hard on it, and I think you guys are going to love it. Yeah, yeah, it’s really cute, so yeah, it’s so cute, so look forward to that one. It’ll be it’ll be on Nerissa’s channel. Yes, yes, special video, please look forward to it.",
+    "source_raw": "Nissa uh I do have an announcement so me and bio actually have a joint project releasing here on the 13th uh the waiting room won't go live for a little bit but uh please do look forward to it we worked very hard on it and I think you guys are going to love it yeah yeah it's really cute so yeah it's so cute so look forward to that one it'll be it'll be on nisa's channel yes yes special video please look forward to",
+    "unmatched": [
+      "nerissa",
+      "biboo",
+      "nerissa's",
+      "it"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 29,
+    "source_segments": [
+      2616,
+      2624
+    ],
+    "status": "LOW",
+    "raw": "And I also have a we just had a birthday happy birthday if you haven’t gotten the merch get the merch we have really really cute birthday merch birthday and myself also includ some very cute lovey and [ __ ]",
+    "source_raw": "Valentine's Day mhm and I also have [Music] a we just had a birthday happy birthday if you haven't gotten the merch get the merch we have really really cute birthday mer birthday and myself also includ some very cute lovey and [ __ ] yeah but also this",
+    "unmatched": [
+      "merch"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 30,
+    "source_segments": [
+      2618,
+      2621
+    ],
+    "status": "SFT",
+    "raw": "We just had a birthday. Happy birthday. If you haven’t gotten the merch, get the merch. We have really really cute birthday merch.",
+    "source_raw": "a we just had a birthday happy birthday if you haven't gotten the merch get the merch we have really really cute birthday mer",
+    "unmatched": [
+      "merch"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 31,
+    "source_segments": [
+      2624,
+      2631
+    ],
+    "status": "LOW",
+    "raw": "Yeah, but also this weekend we have our rock and roll party tomorrow, and this time we’re going to be singing love songs, love songs, so to celebrate Valentine’s early. Maybe maybe you come come pop by and see what for what we to. I’m, that’s it.",
+    "source_raw": "[ __ ] yeah but also this weekend we have our rock and roll party tomorrow and this time we're going to be singing love song love s so to celebrate Valentine's early maybe maybe you come come pop by and see what for what we to I'm that's",
+    "unmatched": [
+      "songs",
+      "songs",
+      "it"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 32,
+    "source_segments": [
+      2624,
+      2629
+    ],
+    "status": "SFT",
+    "raw": "Yeah, but also this weekend we have our rock and roll party tomorrow, and this time we’re going to be singing love songs, love songs, so to celebrate Valentine’s early. Maybe maybe you come come pop by.",
+    "source_raw": "[ __ ] yeah but also this weekend we have our rock and roll party tomorrow and this time we're going to be singing love song love s so to celebrate Valentine's early maybe maybe you come come pop by and see",
+    "unmatched": [
+      "songs",
+      "songs"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 34,
+    "source_segments": [
+      2638,
+      2648
+    ],
+    "status": "LOW",
+    "raw": "Yeah well it was really fun it’s been such a long long time but I’m glad people you’re back from your got time to play with you guys yeah make sure to taking a time to do this I know that you’re like really tired and stuff well thank you so much we had a bunch of fun and power together this weekend well we’ll definitely have another collab next week so we hope you’ll join us then too",
+    "source_raw": "yeah well it was really fun it's been such a long long time but I'm glad people you're back from your got time to play with you guys yeah make sure to taking a time to do this I know that you're like really tired and stuff well thank you so much we had a bunch of fun and power together this weekend well we'll definitely have another club next week so we hope you'll join us then",
+    "unmatched": [
+      "collab",
+      "too"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 36,
+    "source_segments": [
+      2646,
+      2648
+    ],
+    "status": "SFT",
+    "raw": "Well, we’ll definitely have another collab next week, so we hope you’ll join us then too.",
+    "source_raw": "weekend well we'll definitely have another club next week so we hope you'll join us then",
+    "unmatched": [
+      "collab",
+      "too"
+    ]
+  },
+  {
+    "part": "part12.json",
+    "row": 37,
+    "source_segments": [
+      2649,
+      2651
+    ],
+    "status": "SFT",
+    "raw": "Thank you so much. Thank you, thank you. Bye, bye-bye.",
+    "source_raw": "too thank you so much thank you thank you byee byebye",
+    "unmatched": [
+      "bye",
+      "bye",
+      "bye"
+    ]
+  }
+]

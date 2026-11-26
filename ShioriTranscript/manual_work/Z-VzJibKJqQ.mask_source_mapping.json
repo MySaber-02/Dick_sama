@@ -1,0 +1,306 @@
+[
+  {
+    "source_segment": 362,
+    "source_word_index": 3,
+    "SFT": [
+      70
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 363,
+    "source_word_index": 0,
+    "SFT": [
+      70
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 364,
+    "source_word_index": 0,
+    "SFT": [
+      70
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 760,
+    "source_word_index": 0,
+    "SFT": [
+      150
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1443,
+    "source_word_index": 0,
+    "SFT": [
+      267
+    ],
+    "LOW": [
+      268
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1445,
+    "source_word_index": 1,
+    "SFT": [],
+    "LOW": [
+      268
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1562,
+    "source_word_index": 5,
+    "SFT": [
+      289
+    ],
+    "LOW": [
+      287
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1573,
+    "source_word_index": 1,
+    "SFT": [
+      293
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1752,
+    "source_word_index": 3,
+    "SFT": [
+      336
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 1968,
+    "source_word_index": 5,
+    "SFT": [
+      398
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2135,
+    "source_word_index": 2,
+    "SFT": [
+      445
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2233,
+    "source_word_index": 5,
+    "SFT": [
+      467
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2240,
+    "source_word_index": 9,
+    "SFT": [],
+    "LOW": [
+      469
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2241,
+    "source_word_index": 2,
+    "SFT": [
+      471
+    ],
+    "LOW": [
+      469
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2249,
+    "source_word_index": 6,
+    "SFT": [],
+    "LOW": [
+      473
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2296,
+    "source_word_index": 5,
+    "SFT": [
+      490
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2426,
+    "source_word_index": 7,
+    "SFT": [
+      524
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2428,
+    "source_word_index": 0,
+    "SFT": [
+      524
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2476,
+    "source_word_index": 0,
+    "SFT": [
+      537
+    ],
+    "LOW": [
+      536
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2476,
+    "source_word_index": 2,
+    "SFT": [
+      537
+    ],
+    "LOW": [
+      536
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2491,
+    "source_word_index": 2,
+    "SFT": [
+      540
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2572,
+    "source_word_index": 3,
+    "SFT": [
+      556
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2579,
+    "source_word_index": 2,
+    "SFT": [
+      560
+    ],
+    "LOW": [
+      558
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2583,
+    "source_word_index": 0,
+    "SFT": [
+      563
+    ],
+    "LOW": [
+      564
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2583,
+    "source_word_index": 8,
+    "SFT": [],
+    "LOW": [
+      564
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2611,
+    "source_word_index": 1,
+    "SFT": [
+      572
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2660,
+    "source_word_index": 0,
+    "SFT": [
+      593
+    ],
+    "LOW": [
+      594
+    ],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2668,
+    "source_word_index": 0,
+    "SFT": [
+      599
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2706,
+    "source_word_index": 7,
+    "SFT": [
+      611
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2746,
+    "source_word_index": 6,
+    "SFT": [
+      634
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2836,
+    "source_word_index": 0,
+    "SFT": [
+      660
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  },
+  {
+    "source_segment": 2849,
+    "source_word_index": 0,
+    "SFT": [
+      668
+    ],
+    "LOW": [],
+    "NON_SPEECH": []
+  }
+]

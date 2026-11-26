@@ -1,0 +1,525 @@
+[
+  {
+    "source_segment_indices": [
+      1609,
+      1610,
+      1611,
+      1612,
+      1613,
+      1614,
+      1615,
+      1616,
+      1617,
+      1618,
+      1619,
+      1620,
+      1621,
+      1622
+    ],
+    "raw": "I healed twice I'm going to do destroy myself what is this I don't know where to where to go from here what what how do I get up wait huh what what what what what happened what what was that oh there's a small tornado I see I got caught in a tornado okay I'm going to make more items too bad you don't get your items back I don't think",
+    "status": "SFT",
+    "actually": "I healed twice; I will destroy myself. What is this? I do not know where to go or how to get up. What happened? A small tornado caught me. I will make more items; unfortunately, I do not think they are returned."
+  },
+  {
+    "source_segment_indices": [
+      1610
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1615
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1623,
+      1624,
+      1625,
+      1626,
+      1627,
+      1628,
+      1629,
+      1630
+    ],
+    "raw": "can I make stuff here that one uh how do you make more stuff can I only make it through that one guy I don't need through a shrine or a dog okay uh let's",
+    "status": "SFT",
+    "actually": "Can I make items here, or only through that person? Through a shrine or dog; okay."
+  },
+  {
+    "source_segment_indices": [
+      1631,
+      1632,
+      1633,
+      1634,
+      1635,
+      1636,
+      1637,
+      1638,
+      1639,
+      1640
+    ],
+    "raw": "see don't need I don't really need I'm going to need more evil repelling make medicine okay evil repelling what does this do Focus don't care I don't have much what's the I mean you can probably buy some I assume yeah I can only make one maybe I shouldn't use it that",
+    "status": "SFT",
+    "actually": "I need more Evil Repelling medicine. What does this do? Focus; I do not care. I lack ingredients, though I assume I can buy some. I can make only one; perhaps I should not use it."
+  },
+  {
+    "source_segment_indices": [
+      1641
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1642,
+      1643,
+      1644,
+      1645,
+      1646,
+      1647,
+      1648,
+      1649,
+      1650,
+      1651,
+      1652
+    ],
+    "raw": "The Vessel I think we were kind of close though yeah they're pretty good okay so that right one's the one that increases stuff can't use items running I'm dying I'm like really aggravated so I need to calm down another r",
+    "status": "SFT",
+    "actually": "The vessel. I think we were close; they are good. The right one increases things. I cannot use items while running. I am dying and aggravated, so I need to calm down."
+  },
+  {
+    "source_segment_indices": [
+      1651
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1653,
+      1654
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1655,
+      1656,
+      1657,
+      1658,
+      1659,
+      1660,
+      1661,
+      1662,
+      1663,
+      1664,
+      1665,
+      1666,
+      1667,
+      1668,
+      1669
+    ],
+    "raw": "not the one I wanted I want this one I'm not going to use my other items CU I must oh okay he always does that after that bug one yeah not a good run not uh you're too far I can't reach you that's unfortunate can you please come closer than I really hate how he can go beyond the board not the Run not the Run okay so I can't get him too close to the wall cuz he can go past it",
+    "status": "SFT",
+    "actually": "Not the one I wanted; I want this one. I will not use my other items. He does that after the bug attack. Not a good attempt. You are too far; please approach. I hate that he can go beyond the board. I cannot bring him too near the wall because he passes through it."
+  },
+  {
+    "source_segment_indices": [
+      1670,
+      1671,
+      1672,
+      1673,
+      1674,
+      1675,
+      1676,
+      1677,
+      1678,
+      1679,
+      1680,
+      1681,
+      1682
+    ],
+    "raw": "okay thinking maybe I have to stay close to the middle maybe I should use the baby only for the last uh last bit so don't use cloud stop unless maybe like once or twice the other one could work is fine I'm still thinking the Pierce stand oh for this one I haven't tried it with him I could try it I'm glad this one gets a lot of use at least",
+    "status": "SFT",
+    "actually": "Perhaps I should stay near the center and save the baby for the last part. Use Cloud Stop only once or twice, perhaps. I am considering the Pierce Stance; I have not tried it against him. I am glad this ability gets used."
+  },
+  {
+    "source_segment_indices": [
+      1683,
+      1684,
+      1685,
+      1686,
+      1687,
+      1688,
+      1689,
+      1690,
+      1691,
+      1692,
+      1693
+    ],
+    "raw": "the thing down I help stand nice oh wow it's really great oh no I need a I need to calm down actually my stam's I'll wait on healing the r you dude now out now I can don't know",
+    "status": "LOW",
+    "reason": "Fragmented stand/stamina/you-dude commands; clear need to calm down and wait on healing recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1694,
+      1695,
+      1696,
+      1697,
+      1698
+    ],
+    "raw": "usually I need that help okay I can probably use my P now chge I hope you use the right one",
+    "status": "SFT",
+    "actually": "Usually I need that help. I can probably use my P now. Charge; I hope you use the correct one."
+  },
+  {
+    "source_segment_indices": [
+      1699
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1700,
+      1701,
+      1702,
+      1703,
+      1704,
+      1705,
+      1706,
+      1707
+    ],
+    "raw": "pause he close to theorder gotch and I can't see I can't see you oh he doesn't die oh okay the tornadoes are summoned I don't know how they work just yet I think it's killed",
+    "status": "SFT",
+    "actually": "Pause; he is near the border. I cannot see you. He does not die? Tornadoes are summoned, and I do not yet understand them. I think it killed me."
+  },
+  {
+    "source_segment_indices": [
+      1708
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1709,
+      1710,
+      1711,
+      1712,
+      1713,
+      1714,
+      1715,
+      1716,
+      1717
+    ],
+    "raw": "me hit this Tado holy crap please can you come out of there thanks camera angle so not useful I can't see wait did he die too I'm sorry what did he just die I'm sorry what I'm sorry did he just die what I saw something disappear",
+    "status": "SFT",
+    "actually": "This tornado; please come out. The camera angle does not help; I cannot see. Did he die too? I saw something disappear."
+  },
+  {
+    "source_segment_indices": [
+      1718,
+      1719,
+      1720,
+      1721,
+      1722,
+      1723,
+      1724,
+      1725,
+      1726,
+      1727,
+      1728
+    ],
+    "raw": "did he do did he he didn't die right he did he die no he that was not he did not die he did not die you both got ped I see why I didn't have any more stamina you basically either go in or no okay I know there's an item but I haven't taken that path no it doesn't count e",
+    "status": "LOW",
+    "reason": "Clear uncertainty over whether enemy died and lack of stamina recovered separately; ped/e fragments unclear."
+  },
+  {
+    "source_segment_indices": [
+      1729
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1730,
+      1731,
+      1732,
+      1733,
+      1734,
+      1735,
+      1736,
+      1737,
+      1738
+    ],
+    "raw": "this I don't think this is to run I might just let myself die I also try [Music] [Music] I don't know where to uh okay Dodge ground attacks and launch an area I see here stand this one",
+    "status": "LOW",
+    "reason": "Clear willingness to abandon this attempt and jump advice recovered separately; also-try/where-to fragments incomplete."
+  },
+  {
+    "source_segment_indices": [
+      1732,
+      1733
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1739,
+      1740,
+      1741,
+      1742,
+      1743,
+      1744
+    ],
+    "raw": "we're watching blade for excuse me book where I'm up I don't want to use my items just yet [Music] I need you to closer to",
+    "status": "LOW",
+    "reason": "Clear Blade viewing, apology and items remark recovered separately; book/where/up/closer sequence fragmented."
+  },
+  {
+    "source_segment_indices": [
+      1745,
+      1746
+    ],
+    "raw": "[Applause] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music/applause."
+  },
+  {
+    "source_segment_indices": [
+      1747,
+      1748,
+      1749
+    ],
+    "raw": "it's do now you this world out",
+    "status": "LOW",
+    "reason": "Unintelligible combat fragment: its do now/you this world/out."
+  },
+  {
+    "source_segment_indices": [
+      1750,
+      1751,
+      1752,
+      1753,
+      1754,
+      1755
+    ],
+    "raw": "oh yes I can't see [ __ ] oh cuz that I see it you DOD I can't see again",
+    "status": "SFT",
+    "actually": "Yes. I cannot see [ __ ]; I see why. Dodge; I cannot see again."
+  },
+  {
+    "source_segment_indices": [
+      1751
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1756
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1757,
+      1758,
+      1759,
+      1760,
+      1761,
+      1762,
+      1763,
+      1764
+    ],
+    "raw": "please come close I can't see C I would love to have you pass the barrier thanks I really need you I can't go past me I don't know what is can you please come back here okay that's the another wall camera ankle",
+    "status": "SFT",
+    "actually": "Please approach; I cannot see. I would love you to cross the barrier. I cannot pass; can you come back? Another wall and the camera angle."
+  },
+  {
+    "source_segment_indices": [
+      1765,
+      1766
+    ],
+    "raw": "[Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1767,
+      1768,
+      1769,
+      1770,
+      1771,
+      1772,
+      1773,
+      1774,
+      1775,
+      1776
+    ],
+    "raw": "so that's fine that's fine where's that item I don't know I'm already here I could get the item but at this point I think I'd rather not I know it was so frustrating that he goes beyond beyond the barriers is it is it easy to get the item if it's easy I'll do it",
+    "status": "SFT",
+    "actually": "It is fine. I could get the item, but am already here and prefer not to. His passing beyond barriers is frustrating. Is the item easy to obtain? If so, I will get it."
+  },
+  {
+    "source_segment_indices": [
+      1768
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1777,
+      1778,
+      1779,
+      1780,
+      1781,
+      1782
+    ],
+    "raw": "yeah it's a whole quest line oh it's an entire chapter holy crap okay my concern is if I run out of items that's like my biggest concern personally yeah",
+    "status": "SFT",
+    "actually": "It is a whole quest line, an entire chapter? My main concern is running out of items."
+  },
+  {
+    "source_segment_indices": [
+      1783
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1784,
+      1785,
+      1786,
+      1787
+    ],
+    "raw": "I think my issue is like I really don't know where the barrier of the wall is that's like really frustrating personally",
+    "status": "SFT",
+    "actually": "I do not know where the wall barrier is, which is frustrating."
+  },
+  {
+    "source_segment_indices": [
+      1788,
+      1789,
+      1790
+    ],
+    "raw": "[Music] [Music] [Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      1686,
+      1687,
+      1688
+    ],
+    "raw": "I need a I need to calm down actually my stam's I'll wait on healing",
+    "actually": "I need to calm down. My stamina; I will wait before healing.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1718,
+      1719,
+      1720,
+      1721
+    ],
+    "raw": "did he do did he he didn't die right he did he die no he that was not he did not die he did not die",
+    "actually": "Did he die? No, he did not.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1721,
+      1722
+    ],
+    "raw": "I see why I didn't have any more stamina",
+    "actually": "I understand why I had no stamina.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1730,
+      1731
+    ],
+    "raw": "I don't think this is to run I might just let myself die",
+    "actually": "I do not think this is the right attempt; I might let myself die.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1736,
+      1737,
+      1738
+    ],
+    "raw": "okay Dodge ground attacks and launch an aerial I see",
+    "actually": "Dodge ground attacks and launch an aerial attack. I see.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1739
+    ],
+    "raw": "we're watching blade",
+    "actually": "We are watching Blade.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1740
+    ],
+    "raw": "excuse me",
+    "actually": "Excuse me.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1741
+    ],
+    "raw": "I don't want to use my items just yet",
+    "actually": "I do not want to use my items yet.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1755
+    ],
+    "raw": "oh what stand",
+    "status": "LOW",
+    "reason": "Unclear stance/stamina fragment; no action invented."
+  }
+]

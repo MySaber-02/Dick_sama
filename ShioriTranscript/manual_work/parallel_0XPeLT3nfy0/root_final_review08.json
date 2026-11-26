@@ -1,0 +1,96 @@
+{
+  "patches": [
+    {
+      "part": "part08.json",
+      "row": 4,
+      "source_segments": [
+        1579,
+        1581
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 7,
+      "source_segments": [
+        1594,
+        1599
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 12,
+      "source_segments": [
+        1609,
+        1614
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 13,
+      "source_segments": [
+        1614,
+        1624
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 16,
+      "source_segments": [
+        1633,
+        1636
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 21,
+      "source_segments": [
+        1645,
+        1649
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 26,
+      "raw": "Are shinies always stronger? Yeah, shinies have a buff on them, a permanent buff that gives 15% attack and work speed, so they they are general stronger. Yeah, Fish.",
+      "reason": "Keep source general stronger grammar; only shinese→shinies is ASR spelling."
+    },
+    {
+      "part": "part08.json",
+      "row": 49,
+      "raw": "Okay, there’s a there’s a teleporter, but right before the boss, to that. Oh, shiny. Yeah, we can all collect it, right, or is it just one person at time? Yeah, we can all collect it. Oh, really? Oh, but I wouldn’t use them because there’s currently a glitch. I don’t know, did they fix the glitch yet? But there’s a glitch that makes the catch rate worse rather than, no. So I wouldn’t use it. I’ve already used it. It’s fixed, it’s fixed now. So you.",
+      "reason": "Remove added article a in at time; preserve spoken grammar."
+    },
+    {
+      "part": "part08.json",
+      "row": 54,
+      "source_segments": [
+        1771,
+        1774
+      ]
+    },
+    {
+      "part": "part08.json",
+      "row": 57,
+      "raw": "Everybody’s walking backwards. What, you running backwards? Why aren’t you? H, I don’t know how to. Oh, is it worth it? Did you want the Depresso? Yeah, sorry. It’s okay. Oh, it’s not even.",
+      "reason": "Retain uncertain filler H rather than invent a specific huh sound."
+    }
+  ],
+  "approved_asr_spelling_only": {
+    "uhoh": "Uh-oh formatting only",
+    "NOA/noisa": "Nerissa; named addressee is lost and being guided by the group",
+    "PS/p": "Pals/Pal in explicit creature context",
+    "me Paca": "Melpaca; mount already explicitly named in prior original source",
+    "lower keiss/upper keiss": "lowercase/uppercase",
+    "fakes itself": "fixes itself; glitch recovery observation",
+    "landfish": "land fish spacing",
+    "gie/gold": "Goldie; same named Pal in same utterance",
+    "last travel": "fast travel; teleport action context",
+    "shinese": "shinies",
+    "a": "Ah in source1681 interjection before he is flying, not an article",
+    "Le the way": "lead the way",
+    "all to your deaths": "fall to your deaths; cliff traversal",
+    "P Oil": "Pal oil; item named in immediate loot dialogue",
+    "fed": "fixed in source1760 repeated bug-fix assertion, not feeding Pals",
+    "per": "Pero; nearby repeated nickname, no guess of official Pal species"
+  }
+}

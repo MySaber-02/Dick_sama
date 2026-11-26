@@ -8,7 +8,7 @@
     "0XPeLT3nfy0",
     "Z-VzJibKJqQ"
   ],
-  "status": "four_queued_files_in_progress",
+  "status": "complete_stopped_as_requested",
   "files": {
     "mcQ9PXGt38g": {
       "source_segments": 3061,
@@ -86,6 +86,31 @@
       "clean_records": 1861,
       "low_confidence_records": 298,
       "original_sha256_verified": true
+    },
+    "YZYnMPyJDtQ": {
+      "clean_records": 568,
+      "low_confidence_records": 41,
+      "original_sha256_verified": true
+    },
+    "Y-_3O6wZI_U": {
+      "clean_records": 543,
+      "low_confidence_records": 49,
+      "original_sha256_verified": true
+    },
+    "0XPeLT3nfy0": {
+      "clean_records": 625,
+      "low_confidence_records": 216,
+      "original_sha256_verified": true
+    },
+    "Z-VzJibKJqQ": {
+      "clean_records": 459,
+      "low_confidence_records": 100,
+      "original_sha256_verified": true
     }
-  }
+  },
+  "stop_after_current_files": true,
+  "remaining_authorized_files": [],
+  "stop_instruction": "User requested on 2026-11-26: finish current root/assistant files, then stop; do not start any additional file.",
+  "total_clean_records": 4056,
+  "stopped_after_current_files": true
 }

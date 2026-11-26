@@ -1,0 +1,444 @@
+[
+  {
+    "source_segment_indices": [
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175
+    ],
+    "raw": "back to the killer I got too distracted so I think he came to visit me like three times but but he didn't make himself known the first uh two times so he shows up he leaves I didn't even notice he leaves the box like an Amazon package with a head inside and then he did that two times",
+    "status": "SFT",
+    "actually": "Back to the killer; I became distracted. I think he visited three times without revealing himself the first two. He twice left a box like an Amazon package with a head inside."
+  },
+  {
+    "source_segment_indices": [
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185
+    ],
+    "raw": "but the third time the third time there was just uh this person who rang my my doorbell and I thought like okay and then I noticed a box and he was just there there he was wearing a suit not not sure if that matters he was wearing some suit it was weird and then he just looked at me he smiled kind of like a creepy Attack on Titan",
+    "status": "SFT",
+    "actually": "The third time someone rang my doorbell. I saw a box and a man in a suit, though I do not know whether the suit matters. He smiled like a creepy Attack on Titan character."
+  },
+  {
+    "source_segment_indices": [
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193
+    ],
+    "raw": "smile and I I picked up the box said hello it's nice to meet you and then I noticed that there were were more ice packets in a box and then another head I was like oh crap that must have been him I bet he was the Killer and that was how my dream ended I don't remember anything else",
+    "status": "SFT",
+    "actually": "I picked up the box and greeted him. There were ice packs and another head. I thought he must be the killer. That is where my dream ended; I remember nothing more."
+  },
+  {
+    "source_segment_indices": [
+      194,
+      195,
+      196,
+      197,
+      198,
+      199
+    ],
+    "raw": "uh seven no I don't know what that's about uh Ari I hope you enjoy the stream andagi thank for the SC and oh oh yeah yeah I like seeing your animations and good luck with the Omega verse May the Omega verse guide your way",
+    "status": "SFT",
+    "actually": "I do not know what seven refers to. Ari, enjoy the stream. Thank you for the Super Chat; I enjoy your animations. Good luck with the Omegaverse; may it guide you."
+  },
+  {
+    "source_segment_indices": [
+      200,
+      201,
+      202,
+      203
+    ],
+    "raw": "platonically you to mine guess it's better yeah I'd better have healing wait wait does that mean I brew it I already have",
+    "status": "LOW",
+    "reason": "Unclear mine/guess comparison; clear healing question recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      204,
+      205,
+      206,
+      207,
+      208,
+      209
+    ],
+    "raw": "why do I have have uh a red dot on Brew what does that mean cuz I I don't think I unlocked anything new except that one oh yeah I don't know whose head it was just some random person wait what's the breu thing",
+    "status": "SFT",
+    "actually": "Why is there a red dot on Brew? I do not think I unlocked anything new except that. I do not know whose head it was; just a random person’s. What does Brew mean?"
+  },
+  {
+    "source_segment_indices": [
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217
+    ],
+    "raw": "mean well hey hey they liked it they liked it they laughed I think I mean it might have also been embarrassed but I think it's you know it's sort of like uh Haru was it Haruna they are forever cemented in Inkwell history as being the only person to attend my Mario Kart",
+    "status": "SFT",
+    "actually": "They liked it and laughed, though perhaps they were embarrassed. Was it Haruna? They are permanently part of Inkwell history as the only person to attend my Mario Kart party."
+  },
+  {
+    "source_segment_indices": [
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224
+    ],
+    "raw": "party oh there new items there were no soaks I had no soaks oh okay increases poison resistance Rock Solid no Mana for a short duration I still think I still think this one's better honestly i' rather have uh Dam damage reduction",
+    "status": "SFT",
+    "actually": "There are new items? I had no soaks. Increased poison resistance; Rock Solid costs no mana briefly. I still prefer damage reduction."
+  },
+  {
+    "source_segment_indices": [
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234
+    ],
+    "raw": "where am I oh before we do that maybe I should try the Rock Solid thing we're going to be rock hard how do you how do you do that the curses of having two games I don't have the attention span for that uh you change Spells at The Shrine I see I guess that makes sense let's see was is it",
+    "status": "SFT",
+    "actually": "Where am I? I should try Rock Solid first. We will be rock hard. How do you do it? I lack the attention span for two games. Change spells at the shrine; that makes sense."
+  },
+  {
+    "source_segment_indices": [
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "raw": "is that spells okay why can't I have a bottom spell I have to change only between these two it shall be deflected perfect chance for okay so it's not like it's not a perfect counter cast it too early or too late it won't work you might you might shatter a rock okay in that case screw that why why would I want a slight chance of shattering my Rocks Arizona I",
+    "status": "SFT",
+    "actually": "Is this spells? Why must I switch only these two? It is not a perfect counter; casting too early or late fails and might shatter a rock. Why would I want that risk?"
+  },
+  {
+    "source_segment_indices": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250
+    ],
+    "raw": "see isn't for Arizona it's from New York dang it Arizona you and your bad branding I can't believe you but if you ever want to sponsor me Arizona I will I will support you and your endeavors even if they might be a",
+    "status": "SFT",
+    "actually": "Arizona is from New York, not Arizona? That is poor branding. But if Arizona sponsors me, I will support its endeavors even if they are misleading."
+  },
+  {
+    "source_segment_indices": [
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258
+    ],
+    "raw": "lie I don't really know what to do with this dude so weird game so silent I can't see this I guess the rock thing would be good I mean I could also Dodge I think it",
+    "status": "LOW",
+    "reason": "Unclear see-this/would fragment; clear enemy uncertainty and dodge option recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268
+    ],
+    "raw": "would that's okay we already saved I can't reach you from there oh nice there you go although I don't think that was worth it I mean I guess it's fine I hope he's just a one time boss is it meant to be so silent it feels so quiet I actually don't like it I don't like being left alone with my thoughts it",
+    "status": "SFT",
+    "actually": "It is okay; we saved. I cannot reach you there. That worked, though I doubt it was worth it. I hope he appears only once. Is it meant to be so quiet? I dislike being alone with my thoughts."
+  },
+  {
+    "source_segment_indices": [
+      269,
+      270,
+      271,
+      272,
+      273
+    ],
+    "raw": "sucks wait wait oh they just throw stuff okay I don't care typical it's there you go I've been having fun with my Unity",
+    "status": "SFT",
+    "actually": "They just throw things? I do not care; typical. There you go. I have been enjoying my Unity projects."
+  },
+  {
+    "source_segment_indices": [
+      274,
+      275,
+      276,
+      277
+    ],
+    "raw": "stuff like oh crap P too he be puking he hating spitting facts about riding dirty he about to ride some dirty I think he's riding",
+    "status": "LOW",
+    "reason": "Unclear puking/riding-dirty wordplay; do not guess missing names or endings."
+  },
+  {
+    "source_segment_indices": [
+      278
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH",
+    "reason": "Applause label."
+  },
+  {
+    "source_segment_indices": [
+      279,
+      280,
+      281,
+      282,
+      283
+    ],
+    "raw": "dir I think this this diey just woke up the nap there you go put on to background music oh man I don't have anything for this sort of thing I have",
+    "status": "LOW",
+    "reason": "Unclear woke-from-nap clause; clear background-music suggestion recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292
+    ],
+    "raw": "this how's that is it too loud I don't know it just bothers me just silence sort of unnerving for some reason I think it's because we just had a big epic boss fight now it's like is it too loud actually this makes me think of Donkey Kong to be honest a song",
+    "status": "SFT",
+    "actually": "How is this; is it too loud? The silence unnerves me, perhaps because we just had an epic boss battle. This song makes me think of Donkey Kong."
+  },
+  {
+    "source_segment_indices": [
+      293,
+      294,
+      295,
+      296,
+      297,
+      298
+    ],
+    "raw": "absorb it's a bit loud okay thank you let me let me change it a little uh seems like you guys seem to like the number 26 how about now is this better is is 26% a little better now",
+    "status": "SFT",
+    "actually": "Absorb. It is a little loud? Thank you; I will adjust it. You seem to like twenty-six. Is twenty-six percent better?"
+  },
+  {
+    "source_segment_indices": [
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308
+    ],
+    "raw": "now yeah oh oh crap you're alive I mean you're dead is he better what the heck who is this gu sorry sorry about your ears I hope you liked it though I just didn't know he would show up out of nowhere I think there's more I think",
+    "status": "SFT",
+    "actually": "You are alive—I mean dead. Who is this person? Sorry about your ears; I hope you enjoyed it. I did not expect him to appear suddenly."
+  },
+  {
+    "source_segment_indices": [
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315
+    ],
+    "raw": "there's more here why is this thing clipping there was no more there okay that's good to know what was the point of coming here everyone's oh actually there's something here dodge dodge dodge there DOD ah it spits it",
+    "status": "SFT",
+    "actually": "I think there is more here. Why is this clipping? There was no more; good to know. Why come here? There is something; dodge. It spits."
+  },
+  {
+    "source_segment_indices": [
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323
+    ],
+    "raw": "spits okay no red mouse oh shoot there's more dead people sorry all Ollie it's a wake up call yeah rise and shine beautiful it's time to pick up some worms wait isn't this like a the place where no no it's not I thought it's the NPC's place like maybe it Loops",
+    "status": "SFT",
+    "actually": "No red mouse. More dead people; sorry, Ollie. Rise and shine and collect worms. Is this the NPC’s place? No, I thought it might loop around."
+  },
+  {
+    "source_segment_indices": [
+      324,
+      325,
+      326
+    ],
+    "raw": "somehow Yoshi cyborg boredom return a monkey yeah welcome back welcome back I",
+    "status": "LOW",
+    "reason": "Unclear named-user/return-monkey sequence; clear welcome recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338
+    ],
+    "raw": "don't I don't know I think I think this place is new am I supposed to go down here would have been nice to have a freaking map can I not jump down I can't jump down this place is new okay everything looks the same like deserty my least favorite biome so I guess you have to go here I can't jum oh shoot oh you're you're you're lame so it's fine",
+    "status": "SFT",
+    "actually": "I think this place is new. Should I go down? A map would help; I cannot jump down. Everything looks alike and desert-like, my least favorite biome. I suppose we go here. You are weak, so it is fine."
+  },
+  {
+    "source_segment_indices": [
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345
+    ],
+    "raw": "making sure everything is clear I don't know who the freak that is okay so I have to go there there's going to be archers there's some spitter over there is there a shortcut I I can unlock or is this",
+    "status": "SFT",
+    "actually": "I am checking everything is clear. I do not know who that is. There will be archers and a spitter. Can I unlock a shortcut, or is this it?"
+  },
+  {
+    "source_segment_indices": [
+      346,
+      347,
+      348,
+      349,
+      350
+    ],
+    "raw": "it is this still uh by the way is the music still too loud I didn't hear Mo it oh this is the shortest route okay okay so we got to spin we got maybe",
+    "status": "LOW",
+    "reason": "Clear volume question and shortest-route acknowledgment recovered separately; heard-Mo/spin continuation unfinished."
+  },
+  {
+    "source_segment_indices": [
+      201,
+      202,
+      203,
+      204
+    ],
+    "raw": "I'd better have healing wait wait does that mean I brew it I already have that",
+    "actually": "I had better have healing. Does that mean I brew it? I already have that.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      251,
+      252,
+      253,
+      254
+    ],
+    "raw": "I don't really know what to do with this dude so weird game so silent",
+    "actually": "I do not know what to do with this enemy. The game is strangely quiet.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      256,
+      257,
+      258
+    ],
+    "raw": "I guess the rock thing would be good I mean I could also Dodge I think it",
+    "actually": "The rock ability might help, though I could also dodge.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      281,
+      282,
+      283
+    ],
+    "raw": "there you go put on to background music oh man I don't have anything for this sort of thing I have",
+    "actually": "There we go. Put on background music? I have nothing suitable for this situation.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      325,
+      326
+    ],
+    "raw": "welcome back welcome back",
+    "actually": "Welcome back.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      346,
+      347
+    ],
+    "raw": "by the way is the music still too loud",
+    "actually": "Is the music still too loud?",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      348,
+      349
+    ],
+    "raw": "oh this is the shortest route okay",
+    "actually": "This is the shortest route; okay.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

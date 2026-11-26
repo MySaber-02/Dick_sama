@@ -1,0 +1,33 @@
+{
+  "source_read_complete": true,
+  "source_segments": 2503,
+  "manual_review_notes": [
+    "All twelve source-indexed decision parts read and retained; no summaries substituted for raw.",
+    "Shared-caption duplicated speech removed through explicit per-record boundaries; genuine repetitions remain.",
+    "Cross-caption final words manually returned to their utterances.",
+    "Literal matching gaps with whole-clause appearance were checked against accepted raw; they were greedy alignment or approved term spelling, not missing clauses.",
+    "Corrected unintended grammar polishing: I might thinking, H must missing, study hard from them finals, retain my sanity, a end piece, where it fall apart, Maybe I missing and You to face remain in raw.",
+    "Unclear cats hard/had prefix moved to LOW; clear Pepper chewing sentence retained.",
+    "Original masking occurrence count is 44; finalized accepted raw retains exactly 44.",
+    "Diagnostic is not claimed to be a character-perfect source alignment proof. Raw spelling/name normalization and disfluency punctuation cause literal differences."
+  ],
+  "checked_named_spelling_families": [
+    "Tik Tok/TikTok",
+    "Nosferatu phonetic variants",
+    "Hellsing phonetic variants",
+    "Gintama phonetic variants",
+    "Willem Dafoe",
+    "Keanu Reeves",
+    "Made in Abyss",
+    "Cowboy Bebop",
+    "Trigun",
+    "Serial Experiments Lain",
+    "Mononoke/Ghibli",
+    "Kuroshitsuji",
+    "Van Helsing",
+    "Count of Monte Cristo",
+    "VRChat",
+    "Novelknight"
+  ],
+  "remaining_intentional_duplicates": "Repeated interjections, fragments, initial words and short reactions retained; no global raw-string deduplication."
+}

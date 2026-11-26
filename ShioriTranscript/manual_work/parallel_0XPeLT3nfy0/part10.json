@@ -1,0 +1,568 @@
+[
+  {
+    "source_segments": [
+      2031,
+      2033
+    ],
+    "raw": "Okay Set Me Free me and we will escape from the SE oh ITA never mind that was a fun good",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2033,
+      2036
+    ],
+    "raw": "Never mind. That was a fun good dungeon. All right, I guess we should do the thing now. Yeah, okay, hold on.",
+    "actually": "Never mind; that was an enjoyable dungeon. I suppose we should do the next thing; wait.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2038,
+      2041
+    ],
+    "raw": "Are you guys still in the cave? No, Bab’s just spawning. Okay, um, okay, north, keep going north. All right.",
+    "actually": "Are you still in the cave? No; Bab is respawning. Continue north.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2042,
+      2047
+    ],
+    "raw": "What, is there another teleporter up there? Uh, there’s going to be a teleporter right next to the thing that I want again. Well, I hope I don’t die here. Okay, you guys will be fine. I don’t know about that.",
+    "actually": "Is there another teleporter there? It is beside what I want. I hope I do not die. You will be fine. I am unsure about that.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2048,
+      2054
+    ],
+    "raw": "There’s a big splash. Ooh, there we go. What the [ __ ]? What what what? What’s wrong? I need you. Okay, what is going on? I have no idea. Big.",
+    "actually": "There is a large splash. What? What is wrong? I need you. What is happening? I have no idea.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2056,
+      2065
+    ],
+    "raw": "Gun someone with a big gun save me we’ll be there in like 10 minutes oh no s a Goldie I’ll send a oh it’s a cleaner maybe they can do my laundry uhoh NOA yeah you alive I yeah sadly sadly we’re almost dead dead big guy dead thank you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2056,
+      2058
+    ],
+    "raw": "Gun. Someone with a big gun. Save me. We’ll be there in like 10 minutes.",
+    "actually": "Someone has a large gun; save me. We will arrive in approximately ten minutes.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2061,
+      2065
+    ],
+    "raw": "Cleaner, maybe they can do my laundry. Uh-oh. Yeah, you alive? I, yeah, sadly. Sadly, we’re almost dead. Dead, big guy dead. Thank you.",
+    "actually": "A cleaner; perhaps they can do my laundry. Are you alive? Sadly, yes. We are nearly dead. The large one is dead; thank you.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2066,
+      2075
+    ],
+    "raw": "Oh RIP bunny look kind of cute I wanted to free whoever was in the cage a I need another knock oh shoot going go kill who’s in the cage now yeah get him oh do you want this one yes",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2066,
+      2068
+    ],
+    "raw": "Oh, RIP bunny. Look kind of cute. I wanted to free whoever was in the cage.",
+    "actually": "The bunny was cute. I wanted to free whoever was caged.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2072,
+      2076
+    ],
+    "raw": "Who’s in the cage now? Yeah, get him. Oh, do you want this one? Yes, please.",
+    "actually": "Who is caged now? Get him. Would you like this one? Yes, please.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2076,
+      2082
+    ],
+    "raw": "By the way, um, where do you get ammo? You do need it for the gun, right? Yeah, I think you can build it whenever you eventually get to. Oh, well, no, it’s okay, it’s okay. What happened? They’re pretty common. Okay, okay, Biboo, lead the way. Okay, uh, this way.",
+    "actually": "Where do you get ammunition? The gun needs it, correct? I think you can craft it when you eventually reach—It is fine. What happened? They are common. Biboo, lead us. This way.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2083,
+      2089
+    ],
+    "raw": "Okay oh they killed my bird I can’t fly around anymore oh what a shame why did they have to make such silly sound okay they’re gone they’re gone what’s wrong",
+    "actually": "Okay, they killed my bird; I cannot fly anymore. What a shame. Why make such a silly sound? They are gone; what is wrong?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2091,
+      2097
+    ],
+    "raw": "Yeah hello oh it’s a merchant and a guard a we haven’t seen a mer kind of laggy talk welcome oo oh man too bad I can’t capture the guard",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2092,
+      2092
+    ],
+    "raw": "Hello. Oh, it’s a merchant and a guard.",
+    "actually": "Hello; a merchant and a guard.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2096,
+      2099
+    ],
+    "raw": "Oh, man, too bad I can’t capture the guard. Oh, you can if you want to. Yeah, but they’re kind of useless.",
+    "actually": "It is unfortunate I cannot capture the guard. You can, if you want, but they are rather useless.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2099,
+      2104
+    ],
+    "raw": "What should I buy? Well, you can keep them at your camp and then you can buy from them, but then issues and obviously we don’t encounter them in the overworld.",
+    "actually": "What should I buy? You can keep them at your camp and buy from them, but there are issues, and we do not encounter them in the overworld.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2104,
+      2111
+    ],
+    "raw": "Uh, you recommended just buying medical. Wait, that’s only for if they’re depressed. Okay, I don’t, yeah, just buy medicine just in case they do get depressed. I mean, they could just live with depression too. I, yeah, they could live with it if if if that is what you want.",
+    "actually": "You recommended buying medical supplies, but those are for depressed Pals. Buy medicine in case they become depressed. They could also live with depression, if that is what you want.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2112,
+      2115
+    ],
+    "raw": "Medicine, cuz they’re all depressed right now. I can’t, you know what, I’ll I’ll preemptively buy too cuz I don’t use for anything else.",
+    "actually": "Medicine, because they are all depressed now. I will buy some in advance too, since I do not use it for anything else.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2116,
+      2124
+    ],
+    "raw": "Also have fraction another bunny I don’t have okay hold up the lag is killing me bye bye yeah the the area around the merchant guy is laggy for some reason okay there’s one of the cute ones we can get that one too oh there’s a bunch of them bunch of them come on uh Daedream",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2117,
+      2120
+    ],
+    "raw": "Okay, hold up, the lag is killing me. Bye-bye. Yeah, the the area around the merchant guy is laggy for some reason.",
+    "actually": "Wait; the lag is severe. Goodbye. The merchant’s area is laggy for some reason.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2120,
+      2124
+    ],
+    "raw": "Okay, there’s one of the cute ones. We can get that one too. Oh, there’s a bunch of them, bunch of them. Come on, uh, Daedream.",
+    "actually": "There is a cute one we can catch; there are many of them. Come on, Daedream.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2125,
+      2135
+    ],
+    "raw": "Maybe don’t kill it though I’m going shoot you okay no oh oh oh oh don’t die hey the one which one one of them one of them like my other better oh shoot all right that’s it I’m just going to kill this don’t kill it I’m almost dead though why come on if you want to live Stay With Me all right get your D this is it",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2125,
+      2127
+    ],
+    "raw": "Maybe don’t kill it though. I’m going shoot you. Okay, no, oh oh oh oh, don’t die.",
+    "actually": "Perhaps avoid killing it. I will shoot you. No; do not die.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2130,
+      2133
+    ],
+    "raw": "Oh, shoot, all right, that’s it. I’m just going to kill this. Don’t kill it. I’m almost dead, though. Why? Come on, if you want to live, stay with me.",
+    "actually": "I will kill this. Do not; I am nearly dead. Why? Stay with me if you want to live.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2136,
+      2141
+    ],
+    "raw": "Okay, all right, guess you’re living. Everybody got the bunny? Okay, north again, north north. Let’s get out of this area; this area is lagging me. Okay, I got the fast travel point that I think is near it. Yeah, okay.",
+    "actually": "I suppose you live. Does everyone have the bunny? Continue north; leave this laggy area. I got the fast travel point that I think is nearby.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2142,
+      2148
+    ],
+    "raw": "Yeah okay I have it on my map now is it this one there there’s ports here hello hello hello hello B which direction we lost uh yeah we’re just staying over the same place yeah here this way this way which uh which way is this way oh I see oh I see a",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2142,
+      2142
+    ],
+    "raw": "Yeah, okay, I have it on my map now.",
+    "actually": "I have it marked on my map.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2144,
+      2147
+    ],
+    "raw": "Hello hello hello hello. Which direction? We lost. Uh, yeah, we’re just staying over the same place. Yeah, here, this way, this way. Which uh which way is this way?",
+    "actually": "Which direction? We are lost and staying in the same place. This way. Which way do you mean?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2148,
+      2154
+    ],
+    "raw": "Oh, I see a chest. Okay, I’ll let you get that. I’m just going to go to this teleporter, wherever it is. I’m behind you, I’m behind you. You are? Yes. I don’t see. Oh, yeah, there you are. Okay, confused.",
+    "actually": "I see a chest; you can get it. I will go to the teleporter. I am behind you. Are you? Yes. I do not see you—there you are; I was confused.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2155,
+      2162
+    ],
+    "raw": "Yes, yes, remember that one time people was invisible? Meow meow. Was that Goldie? Goldie, meow. Ah, Pal was hungry, I think that was a hungry meow. Oh, no, yeah, why are they hungry, though? There’s lots of food for them.",
+    "actually": "Remember when people were invisible? Was that Goldie meowing? I think the Pal was hungry. Why are they hungry when there is plenty of food?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2162,
+      2169
+    ],
+    "raw": "Enough you feed them they should be eating no oh you have to manually feed in your party if you don’t have like a Feed Bag you only need one Feed Bag by the way I see okay got a feed Goldie oh less less lag okay oh I’m still so framy",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2163,
+      2169
+    ],
+    "raw": "They should be eating. No, oh, you have to manually feed in your party if you don’t have like a Feed Bag. You only need one Feed Bag, by the way. I see, okay, got to feed Goldie. Oh, less less lag. Okay, oh, I’m still so framey.",
+    "actually": "They should be eating. You must feed those in your party manually without a Feed Bag; you need only one Feed Bag. I need to feed Goldie. There is less lag, though my frame rate remains poor.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2170,
+      2175
+    ],
+    "raw": "Well, the teleporter is right here, that’s good. I’m up. It’s not like under or something, right? It is, it’s under the waterfall. Oh, okay, well, I’m fighting a ton of Syndicate thugs, um, because I was waiting on top.",
+    "actually": "The teleporter is here. Is it underneath? It is under the waterfall. I am fighting many Syndicate thugs because I waited above.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2176,
+      2185
+    ],
+    "raw": "Um oh much better oh guess there just area I’m going to buy bullets really real fast all right I’m gonna go home I need okay let me remember where to go a much better there we are Fish is done for but I’ll still feed Fish yeah oh and skill points right all right my friend looks like I’m going for",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2177,
+      2179
+    ],
+    "raw": "I’m going to buy bullets really real fast. All right, I’m gonna go home.",
+    "actually": "I will buy bullets quickly. I will go home.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2182,
+      2184
+    ],
+    "raw": "There we are. Fish is done for, but I’ll still feed Fish. Yeah, oh, and skill points, right.",
+    "actually": "Fish is finished, but I will still feed Fish. Skill points too.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2186,
+      2194
+    ],
+    "raw": "Okay, so under a water foam, under waterfall. But it’s level 25, so it’s higher level than you. It’ll be fine. Well, wait till we wait till we get there so we can all smack them. Yeah, we’ll just wait here. It’s the spot that we were at beforehand, right? Yeah, yeah, back back at that teleport. I’ll meet you guys there, I just need bullets.",
+    "actually": "Under the waterfall. It is level twenty-five, higher than you, but it will be fine. Wait until we arrive so everyone can attack. We will wait here. It is the previous teleporter, correct? Yes; I will meet you there after getting bullets.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2194,
+      2197
+    ],
+    "raw": "What I’m got I’m getting waed want F I’m Ser exploring you okay",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2198,
+      2203
+    ],
+    "raw": "I think Fish is okay, he can stay dead for now. Yeah, nails. Is it this one? Okay, I’m by the teleporter. Okay, I’ll be there in a bit, let me just finish this one thing. I’ll go back.",
+    "actually": "I think Fish can remain dead for now. Nails; is it this one? I am at the teleporter. I will arrive after finishing one task, then return.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2204,
+      2207
+    ],
+    "raw": "Here this I likeing huh I wish the chest held like more items right yeah can we make bigger ones we can build bigger ones later",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2204,
+      2207
+    ],
+    "raw": "I wish the chest held like more items, right? Yeah, can we make bigger ones? We can build bigger ones later.",
+    "actually": "I wish the chest held more items. Can we make larger ones? We can later.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2208,
+      2220
+    ],
+    "raw": "BS the bails come to say hello oh did she no we’re getting R I don’t know which base it is though oh it’ll be fine okay I’m at the teleporter more oress okay are we going to the waterfall inside it oh okay it’s mine they can’t reach it anyway okay it’s fine I’m getting bullets one second okay everyone seems happy in my area",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2209,
+      2218
+    ],
+    "raw": "We’re getting raided. I don’t know which base it is, though. Oh, it’ll be fine. Okay, I’m at the teleporter, more or less. Okay, are we going to the waterfall, inside it? Oh, okay, it’s mine. They can’t reach it anyway. Okay, it’s fine. I’m getting bullets, one second.",
+    "actually": "We are being raided, but I do not know which base. It will be fine. I am near the teleporter; are we going inside the waterfall? It is my base, which they cannot reach. I am getting bullets; one moment.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2219,
+      2220
+    ],
+    "raw": "Okay, everyone seems happy in my area.",
+    "actually": "Everyone in my area seems happy.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2220,
+      2232
+    ],
+    "raw": "To sure let’s go treat people in oh there stuff how about you for now no no NOA no it’s Minea it’s mine uh I’m sorry I’m right here so you can get it it’sing you hell I’m here let’s share the",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2223,
+      2230
+    ],
+    "raw": "No, no, no. No, it’s mine. It’s mine. Uh, I’m sorry, I’m right here, so you can get it.",
+    "actually": "No, it is mine. Sorry; I am here, so you can get it.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2232,
+      2244
+    ],
+    "raw": "Here let’s share the coins okay we can4 so we can share half oh okay 42 good job how do I give you only 42 you have to you can click I think you hold shift and then click it and it’ll give you half and then you just click the drop I can feel the lag again okay 49 really this this smooth for me it’s smooth if I go this way but if I go back don’t go that way that way is lag this way is smooth",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2232,
+      2240
+    ],
+    "raw": "Let’s share the coins. So we can share half. Oh, okay, 42. Good job. How do I give you only 42? You have to, you can click, I think you hold Shift and then click it and it’ll give you half, and then you just click the drop. I can feel the lag again.",
+    "actually": "Let us share half the coins, forty-two. How do I give you forty-two? I think Shift-click selects half, then select Drop. I feel the lag again.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2240,
+      2244
+    ],
+    "raw": "Okay, 49. Really? This this smooth for me. It’s smooth if I go this way, but if I go back. Don’t go that way, that way is lag, this way is smooth.",
+    "actually": "Forty-nine. It is smooth for me in this direction, but not back there. Avoid that direction; this way is smooth.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2244,
+      2254
+    ],
+    "raw": "Okay we’ll wait for you guys by the teleporter oh wait you’re down there okay let’s go do the waterfall I’m surprised there’s so fall damage from house yeah it’s really nice yeah it’s dark in here we should wait for them way oh wait for them and there’s little too excited for shoy I’m here okay hello",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2244,
+      2248
+    ],
+    "raw": "Okay, we’ll wait for you guys by the teleporter. Oh, wait, you’re down there. Okay, let’s go do the waterfall.",
+    "actually": "We will wait beside the teleporter. You are down there; let us do the waterfall.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2250,
+      2254
+    ],
+    "raw": "Yeah, it’s really nice. Yeah, it’s dark in here, we should wait for them. Oh, wait for them. I’m here, okay, hello.",
+    "actually": "It is nice, but dark here. We should wait for them. I am here; hello.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2255,
+      2260
+    ],
+    "raw": "Okay, okay, it’s going to be inside here. A monster, very dangerous. Goat goat goat. It’s a horse, I",
+    "actually": "It is inside here, a very dangerous monster. A goat— it is a horse.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2034,
+      2034
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2037,
+      2037
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2055,
+      2055
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2090,
+      2090
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2168,
+      2168
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2181,
+      2181
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2211,
+      2211
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2213,
+      2213
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2229,
+      2229
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2258,
+      2258
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

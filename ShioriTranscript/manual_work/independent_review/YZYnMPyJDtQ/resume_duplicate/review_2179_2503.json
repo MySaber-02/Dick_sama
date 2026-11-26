@@ -1,0 +1,951 @@
+[
+  {
+    "source_segment_indices": [
+      2179,
+      2180,
+      2181,
+      2182,
+      2183,
+      2184,
+      2185
+    ],
+    "raw": "I'm just going to do it. What did it take? I don't know. I'm not going to look back right now. This is practice mode. This is legit screw up practice mode. So, I go here. No, I had to move here now. I'm moving there.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I will do it. What did it capture? I will not look back; this is practice for mistakes. I go here—no, I need to move here now."
+  },
+  {
+    "source_segment_indices": [
+      2187
+    ],
+    "raw": "The horse takes over.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "The horse takes over."
+  },
+  {
+    "source_segment_indices": [
+      2189,
+      2190,
+      2191
+    ],
+    "raw": "We're just going to have to go balls in. We're going to go balls in, guys. Balls. My balls are losing. Okay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We need to commit fully. We are losing."
+  },
+  {
+    "source_segment_indices": [
+      2192,
+      2193,
+      2194,
+      2195,
+      2196
+    ],
+    "raw": "Um, if I do it here, I know the tower could take me still, but you don't really have much of a choice, frankly. I need to get something to the freaking queen side.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "The tower could still capture me here, but I have little choice. I need something on the queen side."
+  },
+  {
+    "source_segment_indices": [
+      2197,
+      2198,
+      2199,
+      2200,
+      2201
+    ],
+    "raw": "Oh, the bishop could take the horse, but then the tower the tower could take it. Whatever. We're already losing. Whatever. Let's do it. Get sacrificed. That's fine.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "The bishop could capture the horse, but the tower could then capture it. We are losing already; sacrifice it."
+  },
+  {
+    "source_segment_indices": [
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2208,
+      2209
+    ],
+    "raw": "If I go over here, I think I could probably take you. And then I'll be sort of protected anyway. Go f Oh. Um, don't fudge yourself. What if I go over here? Then you can take that. Will you take it? You like the Wait, I can't go up. What? I thought a king can take like any diagonal pieces. What happened?",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I think I can capture you here and be somewhat protected. Do not make a mistake. What if I go here? Will you capture it? Why can I not go up? I thought a king could capture any diagonal piece."
+  },
+  {
+    "source_segment_indices": [
+      2210,
+      2211,
+      2212,
+      2213,
+      2214,
+      2215,
+      2216,
+      2217
+    ],
+    "raw": "It can't take uh the side up there. The pawn. The pawn protects it. Protected by the pawn. pawn will check. It does. What does it mean? It's defended by by the pawn. Wait, so this defense it even though it's like right there. The pawn is going to take my king.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It cannot capture that side. The pawn protects it and will check. What does being defended by the pawn mean? It protects this even from there? The pawn will capture my king."
+  },
+  {
+    "source_segment_indices": [
+      2218,
+      2219,
+      2220,
+      2221
+    ],
+    "raw": "Oh, so I'm screwed is what you're telling me. So I should go back here is what you're telling me. I see.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "You mean I am in trouble and should return here. I understand."
+  },
+  {
+    "source_segment_indices": [
+      2222,
+      2223,
+      2224,
+      2225,
+      2226
+    ],
+    "raw": "I think we should just move you up and hope for the best. I'm just going to have to uh king. It's time you do some work here. I'm going to move you. All right.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We should move you up and hope for the best. King, it is time to work; I will move you."
+  },
+  {
+    "source_segment_indices": [
+      2228
+    ],
+    "raw": "Is she over?",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2229,
+      2230,
+      2231,
+      2232,
+      2233,
+      2234,
+      2235
+    ],
+    "raw": "I'm going to go over here. Okay. And now I do that. And then um I'm not going to move you. If I go over here, it can still move down there. And then I can move up. But then my B my backside will be uh unprotected, I think.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I will go here, then do that. I will not move you. It can still move down, then I can move up, though I think my rear will be unprotected."
+  },
+  {
+    "source_segment_indices": [
+      2236,
+      2237,
+      2238,
+      2239,
+      2240,
+      2241
+    ],
+    "raw": "Can I still do it from here? Wait, but then this is uh I have a question. If I move this, won't it still take me diagonally? Yeah. How does it work?",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Can I do it from here? I have a question: would it not still capture me diagonally if I move this? How does that work?"
+  },
+  {
+    "source_segment_indices": [
+      2242,
+      2243,
+      2244,
+      2245
+    ],
+    "raw": "To flip the table, it will move diagonally. Make it a queen. The king can take. So, it's useless.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2247,
+      2248
+    ],
+    "raw": "But it's over. The king can take.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is over; the king can capture."
+  },
+  {
+    "source_segment_indices": [
+      2250,
+      2251,
+      2252,
+      2253,
+      2254,
+      2255
+    ],
+    "raw": "Okay. It's if it's going to lose anyway. [Music] What if I I You don't have much of a choice. I'm just going to wing it. So that does that. I figured it would. And then I move it here.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "If we will lose anyway, I have little choice and will improvise. It does as expected, then I move here."
+  },
+  {
+    "source_segment_indices": [
+      2256,
+      2257,
+      2258,
+      2259
+    ],
+    "raw": "Get back over here. Okay. No, you you're Get back over here. I'm going to take you. I swear to God.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Return here; I will capture you. I swear."
+  },
+  {
+    "source_segment_indices": [
+      2261
+    ],
+    "raw": "Literally. Go your yourself.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2262,
+      2263,
+      2264,
+      2265,
+      2266
+    ],
+    "raw": "Get back over here. No, I'm going to take it. I'm going to take this stupid tower. I'm going to make a trap, guys. Get over here. No.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Come back; I will capture this tower. I will make a trap. Come here; no."
+  },
+  {
+    "source_segment_indices": [
+      2267,
+      2268,
+      2269,
+      2270,
+      2271,
+      2272,
+      2273,
+      2274
+    ],
+    "raw": "Okay. No. It's distracted. It's distracted. Okay, that's a bad idea. It could literally just take it any time, though. Okay, if I'm I'm just going to keep chasing after it. I'm just going to chase after it. I figured that would happen. I knew that would happen. But I'm not done yet. I'm not done here.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is distracted, but that is bad; it could capture it at any time. I will keep chasing. I expected that, but I am not finished."
+  },
+  {
+    "source_segment_indices": [
+      2275,
+      2276,
+      2277,
+      2278,
+      2279
+    ],
+    "raw": "Get the hamburger just said, \"Bro, could I technically stall this?\" Oh, no. We can still take it. We can still take it.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2276,
+      2277,
+      2278,
+      2279
+    ],
+    "raw": "the hamburger just said, \"Bro, could I technically stall this?\" Oh, no. We can still take it. We can still take it.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "The hamburger said, “Bro.” Could I technically stall this? We can still capture it."
+  },
+  {
+    "source_segment_indices": [
+      2280,
+      2281,
+      2282,
+      2283,
+      2284,
+      2285,
+      2286,
+      2287,
+      2288
+    ],
+    "raw": "No. Come back here. I know we can take it. Oh, wait. I can move there. It can. I just have to keep chasing after it. He's a fan. Look, I got Oh, I can't take it. Oh, you're serious? Oh, no. I think I'm going to lose, guys. What if I just go back? I think I'm so done. But it's a draw, isn't it? If I It could be a draw, I think.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Come back; I know we can capture it. I can move there. I need to keep chasing. I cannot capture it? I think I will lose. What if I return? It could be a draw, I think."
+  },
+  {
+    "source_segment_indices": [
+      2289,
+      2290,
+      2291,
+      2292
+    ],
+    "raw": "What happens if I do this? That's right. We can make it into a draw or stalemate of some kind. I can't move up. Why not? Oh, cuz I'll still be stuck. Okay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We can make this a draw or some kind of stalemate. Why can I not move up? I would still be stuck."
+  },
+  {
+    "source_segment_indices": [
+      2293,
+      2294,
+      2295,
+      2296,
+      2297,
+      2298,
+      2299
+    ],
+    "raw": "If I go back here, if I go back here, [Music] I go back here. I'm going to go back for that left piece. Um, I think I'm stuck. Actually, if I go back here, the defense.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "If I return here, I will go back for the left piece. I think I am stuck. If I return here, the defense—"
+  },
+  {
+    "source_segment_indices": [
+      2300,
+      2301,
+      2302
+    ],
+    "raw": "I can't. I took it. I took it, guys. I took it. Yay. Oh, but it's stuck. Okay. Okay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I captured it, but it is stuck. All right."
+  },
+  {
+    "source_segment_indices": [
+      2303,
+      2304,
+      2305,
+      2306,
+      2307,
+      2308
+    ],
+    "raw": "I'm going to go back now. No, it's still it's still doable. I'm just going to keep going here. You don't know what you're you're missing. Okay, I can move here and then we'll just alternate back and forth.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I will go back. It is still possible; I can move here and alternate back and forth."
+  },
+  {
+    "source_segment_indices": [
+      2309,
+      2310,
+      2311,
+      2312
+    ],
+    "raw": "No, you don't know what you're missing. That's okay. I can still do it. Uh I think I think this is the only place I can go.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "You do not know what you are missing. I can still do it; I think this is the only place I can go."
+  },
+  {
+    "source_segment_indices": [
+      2313,
+      2314,
+      2315,
+      2316,
+      2317,
+      2318
+    ],
+    "raw": "Wait, I can't go up because I'll be stuck. That means that what I should be doing is I should be chasing it then. That's right. If I go here, I could go right then, right? So, if I go down here now, I can take that piece.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I cannot go up without getting stuck, so I should chase it. Going here lets me move right, correct? If I go down, I can capture that piece."
+  },
+  {
+    "source_segment_indices": [
+      2319,
+      2320,
+      2321,
+      2322
+    ],
+    "raw": "Yes, guys. Look. Look. That's okay. I just have to I had to rush. Okay, now that's happening. I'm going to go back for it.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Look; I had to hurry. Now I will return for it."
+  },
+  {
+    "source_segment_indices": [
+      2323,
+      2324,
+      2325,
+      2326,
+      2327,
+      2328,
+      2329
+    ],
+    "raw": "Okay. But doesn't know which direction I'm going. I could be going back here. I took the Oh, okay. I got to go back. I got to go. No, it's okay. That's okay. I'm going to go back for that last piece. That last piece is dangerous.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It does not know which direction I am going; I could go back here. I captured the—I need to return for the last piece, which is dangerous."
+  },
+  {
+    "source_segment_indices": [
+      2330,
+      2331,
+      2332
+    ],
+    "raw": "That's okay. If I can take your stupid tower, I can take you, too.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is fine; if I can capture your tower, I can capture you."
+  },
+  {
+    "source_segment_indices": [
+      2333,
+      2334,
+      2335,
+      2336,
+      2337,
+      2338
+    ],
+    "raw": "Um, it's going to become a queen. We're just going to have to wing it. Okay, let me think. I would rather do a stalemate. Chase the pawn. You're right. We're going to do a draw.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It will become a queen; we need to improvise. I would prefer a stalemate. Chase the pawn; you are right, we will make a draw."
+  },
+  {
+    "source_segment_indices": [
+      2339,
+      2340,
+      2341,
+      2342
+    ],
+    "raw": "Okay, that's fine. Um, we can still do it. We can still do it. No, it's still doable. Uh, okay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is fine; it is still possible."
+  },
+  {
+    "source_segment_indices": [
+      2343,
+      2344,
+      2345,
+      2346
+    ],
+    "raw": "Just chasing after the stupid queen. I think it's safe here because they can only go up and and right and all that stuff. Okay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I am chasing the queen. I think this is safe because they can only go up and right and so forth."
+  },
+  {
+    "source_segment_indices": [
+      2347,
+      2348,
+      2349,
+      2350,
+      2351,
+      2352,
+      2353,
+      2354
+    ],
+    "raw": "So, now we're going to chase after the king. The king can't get close to it. Okay. Uh, we'll go over here. You can't capture a queen with it. What? You can't? Oh, that's a trap. I see what you're trying to do. We'll move over here.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We will chase the king, which cannot approach it. We will go here. You cannot capture a queen with it? I see your trap; we will move here."
+  },
+  {
+    "source_segment_indices": [
+      2355,
+      2356,
+      2357,
+      2358
+    ],
+    "raw": "Why can't you do that, though? That's weird. Stay far away from the king. Maybe if I corner it. Uh, that's probably a bad idea.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Why can you not do that? That is strange. Stay away from the king. Cornering it would probably be bad."
+  },
+  {
+    "source_segment_indices": [
+      2359,
+      2360
+    ],
+    "raw": "This This is literally the worst match in history.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "This is the worst match in history."
+  },
+  {
+    "source_segment_indices": [
+      2361,
+      2362,
+      2363,
+      2364,
+      2365
+    ],
+    "raw": "Um, if I if I could trick it. Wait, come back. I need you to come back, my queen. Okay, so now if I if I do this, which one are you going to do? Huh?",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "If I could trick it—come back, my queen. If I do this, what will you do?"
+  },
+  {
+    "source_segment_indices": [
+      2366,
+      2367,
+      2368,
+      2369,
+      2370,
+      2371,
+      2372
+    ],
+    "raw": "Uh, it really won't. Oh, because I'll get captured. So, if I have to go back here then. So maybe if I make myself seem weak, it'll eventually keep going here. He could trap you with king and queen. No, I think his king's a pushy.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2366,
+      2367,
+      2368,
+      2369,
+      2370,
+      2371
+    ],
+    "raw": "Uh, it really won't. Oh, because I'll get captured. So, if I have to go back here then. So maybe if I make myself seem weak, it'll eventually keep going here. He could trap you with king and queen.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It will not, because I would be captured. I need to go back. Perhaps appearing weak would make it keep moving here. He could trap you with king and queen."
+  },
+  {
+    "source_segment_indices": [
+      2373,
+      2374,
+      2375,
+      2376,
+      2377,
+      2378,
+      2379,
+      2380
+    ],
+    "raw": "Okay. Okay. I I don't think anyone's going to wing wing this. Um I legit don't think this is winnable for either of us because I could indefinitely do this unless I mess up. So now that's happening. Uh, I could do this.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I do not think either of us can win, since I can do this indefinitely unless I make a mistake. I could do this now."
+  },
+  {
+    "source_segment_indices": [
+      2381,
+      2382,
+      2383,
+      2384,
+      2385
+    ],
+    "raw": "We can keep going. So, that's going to try to capture me. I'm going to move here now. I'm going to move over here. You're going to move what? Left.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We can continue; it will try to capture me, so I will move here, then here. You will move left?"
+  },
+  {
+    "source_segment_indices": [
+      2386,
+      2387
+    ],
+    "raw": "I think I might lose. We got a stalemate.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I think I might lose. We have a stalemate."
+  },
+  {
+    "source_segment_indices": [
+      2388,
+      2389,
+      2390,
+      2391,
+      2392,
+      2393
+    ],
+    "raw": "So, if I move over here, if I move over there, let's think about it. It can move here. Uh, the queen can move there or it can move over here. So, I'd be trapped. So, what you're telling me is I should go over here.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Let us think: moving here or there would let the queen move here or there, trapping me. You mean I should go here."
+  },
+  {
+    "source_segment_indices": [
+      2394,
+      2395,
+      2396,
+      2397
+    ],
+    "raw": "And now I should go over here. The bot is kind of pawn. I'll just keep moving here. Okay.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2394,
+      2395,
+      2396
+    ],
+    "raw": "And now I should go over here. I'll just keep moving here.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Now I should move here. I will keep moving here."
+  },
+  {
+    "source_segment_indices": [
+      2398,
+      2399,
+      2400,
+      2401,
+      2402,
+      2403
+    ],
+    "raw": "Ah, excuse. I'll move over here. If you do 50 moves. Wait, but we're in 114 moves. Apparently, it called my opening a Portuguese opening. Move over here. Not the edges. Okay. This one's probably still safe for now.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I will move here. Fifty moves? We have made 114 moves. Apparently, my opening was called the Portuguese opening. Avoid the edges. This is probably safe for now."
+  },
+  {
+    "source_segment_indices": [
+      2404,
+      2405,
+      2406,
+      2407,
+      2408
+    ],
+    "raw": "Guys, I don't think um I don't think this is it. 50 moves without capture. So, what you're telling me is I should stall.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I do not think this is it. Fifty moves without a capture? You mean I should stall."
+  },
+  {
+    "source_segment_indices": [
+      2409,
+      2410,
+      2411,
+      2412,
+      2413,
+      2414,
+      2415
+    ],
+    "raw": "Could I move here? No, she'll still be everywhere. I don't think um stay away from the edges and the king. Okay, what we should do then? How many moves has it been since we captured something? I feel like it's been a while, though.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Can I move here? No; she will still be everywhere. Stay away from the edges and the king. What should we do? How many moves since the last capture? It feels like a while."
+  },
+  {
+    "source_segment_indices": [
+      2416,
+      2417,
+      2418,
+      2419
+    ],
+    "raw": "I feel like we should have just gotten it by now. A draw is good as is a win. I know. I'm not a quitter, guys. Just keep moving back and forth.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I feel we should have reached it. A draw is as good as a win; I know. I am not quitting. Keep moving back and forth."
+  },
+  {
+    "source_segment_indices": [
+      2420,
+      2421,
+      2422,
+      2423
+    ],
+    "raw": "Wait, it's moving. H. Let's stay away from you. When does it become a draw? I don't think it's a draw yet, guys.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is moving; let us stay away. When does it become a draw? I do not think it is one yet."
+  },
+  {
+    "source_segment_indices": [
+      2424,
+      2425,
+      2426,
+      2427,
+      2428
+    ],
+    "raw": "At least 10 more. Okay, we got this. We got this. This is the worst thing ever. We got this in the bag. I know.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "At least ten more. We can do it; this is terrible, but we have it."
+  },
+  {
+    "source_segment_indices": [
+      2429,
+      2430,
+      2431,
+      2432,
+      2433,
+      2434
+    ],
+    "raw": "It's not a draw. I think I'm supposed to stay from Oh, stay away. It'll be soon. It better. Let's stay from here. Okay. Um, I'm getting too close to the thing.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "It is not a draw. I should stay away; it will be soon, I hope. I am too close."
+  },
+  {
+    "source_segment_indices": [
+      2435,
+      2436,
+      2437,
+      2438,
+      2439,
+      2440,
+      2441
+    ],
+    "raw": "If I move here, isn't it a trap? Because the queen can move here. Yeah. Could I could I check from here or No, it's not a trap. It is a trap. I'm good. So, I can move to D5 and it's fine. You can't win.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Is moving here a trap? The queen can move here. Can I check from here? No; it is not a trap—it is a trap. I am fine; D5 is safe. You cannot win."
+  },
+  {
+    "source_segment_indices": [
+      2442,
+      2443,
+      2444,
+      2445,
+      2446,
+      2447,
+      2448
+    ],
+    "raw": "The center is your friend. You can never check. They can stalemate. The stalemate is fine. I'm waiting for the stalemate. Oh, wait. I think I just trapped myself. I think I just trapped myself. That's fine. I'm not here to win.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "The center helps; you can never check. A stalemate is fine; I am waiting for it. I think I trapped myself. It is fine; I am not here to win."
+  },
+  {
+    "source_segment_indices": [
+      2450
+    ],
+    "raw": "Damn it.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "How frustrating."
+  },
+  {
+    "source_segment_indices": [
+      2451,
+      2452,
+      2453,
+      2454,
+      2455,
+      2456,
+      2457
+    ],
+    "raw": "Well, that was a that was a thing. So, the good news though is that we can sort of wing the beginner level. Intermediate. We were pretty close, you know. We just needed a few more pieces. We just had some really we had a lot of excellence, you know.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We can somewhat improvise through beginner level. We were close at intermediate and needed a few more pieces. We had plenty of excellence."
+  },
+  {
+    "source_segment_indices": [
+      2459,
+      2460,
+      2461,
+      2462,
+      2463,
+      2464,
+      2465
+    ],
+    "raw": "Yeah, that's true. I'm not here to win after all. Okay. Well, that was uh pretty fun. Okay. Uh let's see. Uh playtime is over. We tried. We tried. It was a good learning opportunity. It was practice.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I am not here to win, after all. That was enjoyable. Playtime is over; we tried, and it was useful practice."
+  },
+  {
+    "source_segment_indices": [
+      2466,
+      2467
+    ],
+    "raw": "Uh let's see. What is my schedule actually?",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "What is my schedule?"
+  },
+  {
+    "source_segment_indices": [
+      2468,
+      2469,
+      2470,
+      2471,
+      2472,
+      2473,
+      2474,
+      2475,
+      2476,
+      2477
+    ],
+    "raw": "All right. Uh next two days we have uh I'm playing Love and Deep Space. I'm just going to give it a go. give it a try tomorrow and then we actually have a watch along and I think I can include the audio. I got to ask my manager. I think I've been dead. So besides that and then I have a concert prep. So that'll be it for this week until I come back. So yeah,",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I will try Love and Deepspace tomorrow. Then there is a watchalong, whose audio I think I can include; I need to ask my manager. I think I have been dead. Then I have concert preparation, so that is all for the week until I return."
+  },
+  {
+    "source_segment_indices": [
+      2478,
+      2479,
+      2480,
+      2481,
+      2482,
+      2483,
+      2484
+    ],
+    "raw": "thank you for teaching me about chess. It was it was fun. It is practice. I just got to do a little bit more matches. I'll probably stick with intermediate, not intermediate, probably beginner until I'm really confident cuz I've been able to defeat.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2478,
+      2479,
+      2480,
+      2481,
+      2482,
+      2483
+    ],
+    "raw": "thank you for teaching me about chess. It was it was fun. It is practice. I just got to do a little bit more matches. I'll probably stick with intermediate, not intermediate, probably beginner until I'm really confident",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Thank you for teaching me chess; it was fun practice. I need more matches. I will probably stay at intermediate—no, beginner, until I am confident."
+  },
+  {
+    "source_segment_indices": [
+      2485,
+      2486,
+      2487
+    ],
+    "raw": "Sorry, the music changed. I've been able to do that's kind of nice.",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2485
+    ],
+    "raw": "Sorry, the music changed.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "Sorry; the music changed."
+  },
+  {
+    "source_segment_indices": [
+      2488,
+      2489,
+      2490
+    ],
+    "raw": "I've been able to beat beginners for bots. Intermediate though is kind of like iffy. So yeah.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "I can beat beginner bots, but intermediate is uncertain."
+  },
+  {
+    "source_segment_indices": [
+      2491,
+      2492,
+      2493,
+      2494,
+      2495,
+      2496,
+      2497
+    ],
+    "raw": "Uh let's see. Kiwa is poing bluepoints and then you have Noisa Pying uh she's watching Clanad and then alternatively I think Kaka is speaking Spanish so I don't think he'll understand anything unless you know Haba espanol. So we'll go to",
+    "status": "LOW",
+    "raw_fixes": [],
+    "reason": "Uncertain/incomplete ASR; clear subspans separately recovered."
+  },
+  {
+    "source_segment_indices": [
+      2498,
+      2499,
+      2500,
+      2501,
+      2502
+    ],
+    "raw": "Risa. Thank you for teaching me. I will see you guys tomorrow. I will put up the room and then uh I guess we'll go see and judge anime men. Until then keep practicing. Yay.",
+    "status": "SFT",
+    "raw_fixes": [],
+    "actually": "We will go to Rissa. Thank you for teaching me; see you tomorrow. I will put up the room, then we will judge anime men. Keep practicing."
+  },
+  {
+    "source_segment_indices": [
+      2186
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2188
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2227
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2246
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2249
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2251
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2260
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2295
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2449
+    ],
+    "raw": "[Laughter]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2458
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segment_indices": [
+      2503
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

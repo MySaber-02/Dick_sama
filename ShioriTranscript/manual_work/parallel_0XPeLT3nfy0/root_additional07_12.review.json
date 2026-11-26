@@ -1,0 +1,562 @@
+[
+  {
+    "source_segments": [
+      1347,
+      1347
+    ],
+    "raw": "Oh, I heard of it.",
+    "actually": "I have heard of it.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1355,
+      1355
+    ],
+    "raw": "I like too. I like catching the Pals.",
+    "actually": "I also like catching Pals.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1355,
+      1357
+    ],
+    "raw": "Oh, this is this is Mori’s base. It’s so pretty.",
+    "actually": "This is Mori’s base; it is beautiful.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1367,
+      1367
+    ],
+    "raw": "I’ll go here.",
+    "actually": "I will go here.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1369,
+      1370
+    ],
+    "raw": "I’ll try.",
+    "actually": "I will try.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1382,
+      1383
+    ],
+    "raw": "Is a Sparkit.",
+    "actually": "It is a Sparkit.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1401,
+      1401
+    ],
+    "raw": "Yeah, I needan.",
+    "actually": "I need—",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1417,
+      1418
+    ],
+    "raw": "Okay, that’s the wolf in this thing. Yeah, sorry.",
+    "actually": "That is the wolf in this thing. Sorry.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1432,
+      1434
+    ],
+    "raw": "Yeah, although we did pretty good in G gu.",
+    "actually": "We did quite well in G gu.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1435,
+      1437
+    ],
+    "raw": "A professional team, I see.",
+    "actually": "A professional team; understood.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1464,
+      1464
+    ],
+    "raw": "You guys got some skinny arms.",
+    "actually": "Your arms are thin.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1495,
+      1496
+    ],
+    "raw": "Here, is it a crus?",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1562,
+      1563
+    ],
+    "raw": "Wait, should be.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1590,
+      1590
+    ],
+    "raw": "It’s pretty hot.",
+    "actually": "It is quite hot.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1605,
+      1606
+    ],
+    "raw": "Ar ar, it’s not saying arel, archipelago.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1640,
+      1641
+    ],
+    "raw": "Come on, lady L, you do this pretty quick.",
+    "actually": "Come on, lady L; you do this quickly.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1663,
+      1663
+    ],
+    "raw": "No wants to see Fish.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1683,
+      1685
+    ],
+    "raw": "He’s a big break one big chicken.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1704,
+      1706
+    ],
+    "raw": "Yeah, I saw, I saw the fish still up on the ground. What?",
+    "actually": "I saw the fish still on the ground. What?",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1717,
+      1717
+    ],
+    "raw": "He sort of looks like you.",
+    "actually": "He resembles you.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1727,
+      1729
+    ],
+    "raw": "Mo here go help Ingram at least I hope you can if you can I don’t blame you",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1736,
+      1736
+    ],
+    "raw": "Nice, what?",
+    "actually": "Good. What?",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1743,
+      1744
+    ],
+    "raw": "Nice. Okay, okay, nice. Oh, no.",
+    "actually": "Good. Unfortunately.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1762,
+      1764
+    ],
+    "raw": "M rest is resting huh y mhm sleepy you’re resty",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1776,
+      1777
+    ],
+    "raw": "Oh, there there’s a teleporter right there.",
+    "actually": "There is a teleporter there.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1883,
+      1884
+    ],
+    "raw": "I cancel. Oops.",
+    "actually": "I cancel. Oops.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1886,
+      1887
+    ],
+    "raw": "B whoops okay",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1960,
+      1960
+    ],
+    "raw": "Is going okay for me.",
+    "actually": "It is going well for me.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1975,
+      1977
+    ],
+    "raw": "Take care of them, Rie. R’s not doing anything.",
+    "actually": "Take care of them, Rie. R is doing nothing.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      1983,
+      1983
+    ],
+    "raw": "This isn’t familiar.",
+    "actually": "This is unfamiliar.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2003,
+      2004
+    ],
+    "raw": "Okay, okay, he got to not kill it.",
+    "actually": "He must avoid killing it.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2011,
+      2013
+    ],
+    "raw": "Oh, it it respawned. It got, oh, oh, no, it’s a CH doog now.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2019,
+      2020
+    ],
+    "raw": "Do anyone oh sh no to catch it oh it went too late I guess",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2051,
+      2053
+    ],
+    "raw": "What the [ __ ]? What what what? What’s wrong? I need you.",
+    "actually": "What? What is wrong? I need you.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2070,
+      2072
+    ],
+    "raw": "Knock oh shoot going go kill",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2093,
+      2095
+    ],
+    "raw": "We haven’t seen a mer kind of laggy talk",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2128,
+      2129
+    ],
+    "raw": "Hey the one which one one of them one of them like my other better",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2154,
+      2154
+    ],
+    "raw": "Okay, confused.",
+    "actually": "I am confused.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2176,
+      2177
+    ],
+    "raw": "Oh, much better. Oh, guess there just area.",
+    "actually": "Much better; I suppose it is only that area.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2194,
+      2197
+    ],
+    "raw": "What I’m got I’m getting waed want F I’m Ser exploring you okay",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2220,
+      2222
+    ],
+    "raw": "To sure let’s go treat people in oh there stuff how about you for now",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2232,
+      2234
+    ],
+    "raw": "Okay, we can4 so we can share half.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2248,
+      2250
+    ],
+    "raw": "I’m surprised there’s so fall damage from house.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2261,
+      2263
+    ],
+    "raw": "Shin Shin. Purple purple purp.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2284,
+      2285
+    ],
+    "raw": "H it’s under R huh",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2326,
+      2328
+    ],
+    "raw": "Yeah let your Stam jump off and die and then",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2363,
+      2364
+    ],
+    "raw": "Yeah, okay, yeah, left shot. Oh, I’m just climbing.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2388,
+      2390
+    ],
+    "raw": "What’s here, is that? Uh, I don’t know, that’s pretty low, I think. Gosh.",
+    "actually": "What is here? I do not know; I think it is quite low.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2405,
+      2406
+    ],
+    "raw": "Wow let C Fish true oh okay",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2425,
+      2426
+    ],
+    "raw": "Okay oh this should be I have",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2454,
+      2456
+    ],
+    "raw": "Arrows can’t see you okay quickly I H him wait",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2482,
+      2484
+    ],
+    "raw": "Oh man be’s py they’re busy h right I’m in construction",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2511,
+      2512
+    ],
+    "raw": "Hi, temporarily, what?",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2574,
+      2574
+    ],
+    "raw": "Somebody’s.",
+    "actually": "LOW",
+    "status": "LOW",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2585,
+      2585
+    ],
+    "raw": "Bye. Yes, I need to pass out.",
+    "actually": "Goodbye; I need to sleep.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  },
+  {
+    "source_segments": [
+      2631,
+      2631
+    ],
+    "raw": "I’m, that’s it.",
+    "actually": "That is all.",
+    "status": "SFT",
+    "integration": "Only add if this exact source occurrence is absent from the canonical candidate; no identical-occurrence duplication."
+  }
+]

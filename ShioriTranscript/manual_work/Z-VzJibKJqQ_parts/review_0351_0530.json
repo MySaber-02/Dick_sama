@@ -1,0 +1,438 @@
+[
+  {
+    "source_segment_indices": [
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359
+    ],
+    "raw": "archers I wonder if I can just Cloud drift music's okay okay I'm just debating on my chances I could run that's right I could there's a shrine up ahead oh but I have to walk past them I assume yeah okay I think cloud shift yeah okay let's do",
+    "status": "SFT",
+    "actually": "Could I use Cloud Drift past the archers? The music is okay. I could run; there is a shrine ahead. I assume I must pass them. Cloud Shift; let us do it."
+  },
+  {
+    "source_segment_indices": [
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366
+    ],
+    "raw": "that all right I'm running see you oh shoot wait wait the gates closed the gates closed oh [ __ ] oh [ __ ] yo open up oh [ __ ] oh jeez oh jeez oh man if I had know I would have had a I would not have done",
+    "status": "SFT",
+    "actually": "I am running, but the gate is closed. Oh [ __ ]. Open up. I would not have done this if I had known."
+  },
+  {
+    "source_segment_indices": [
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374
+    ],
+    "raw": "this okay screw this pause it's all right we got this we got uh okay we don't we may not have this but we will eventually have this at some point in life oh crap it is lagging maybe I should have be to be honest",
+    "status": "SFT",
+    "actually": "Forget this; pause. We can do it—or perhaps not yet, but eventually. It is lagging. Perhaps I should have—"
+  },
+  {
+    "source_segment_indices": [
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386
+    ],
+    "raw": "I'm dying I'm dying please drink please drink please drink more please drink more what that sound I hear some like gurgling or whatever oh please that oh God I hate these things I'm not long enough okay you're dead you're dead you're dead and that guy's not going to bother me right I hope not okay that's good that's good I thought this would open oh it does",
+    "status": "SFT",
+    "actually": "I am dying; please drink more. What is that gurgling? I hate these things; I am not long enough. You are dead, and I hope that person will not bother me. This opens."
+  },
+  {
+    "source_segment_indices": [
+      387
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398
+    ],
+    "raw": "open Where's the shrine you guys promised me a shrine you lied to me they droping Spirit oh okay where's the shrine all right I hope they're useful what about here is that a shrine that can't be a shrine are you a trap I think that might be a trap I don't know guys I picked up a random mushroom and I told you it was such crap I knew it I knew",
+    "status": "SFT",
+    "actually": "Where is the promised shrine? You lied. They drop spirit; I hope it is useful. Is this a shrine or trap? I collected a random mushroom; I knew it was a trap."
+  },
+  {
+    "source_segment_indices": [
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408
+    ],
+    "raw": "it it was up ahead past the door are you sure okay okay I'm going I'm going past the door everything else could go screw itself dang it this what happens when I just want to pick up a freaking flower oh what's this is this a trap this is a trap isn't it it's fragrant it's a fragrant trap oh that's a trap this is a trap I know it I hate mushrooms",
+    "status": "SFT",
+    "actually": "It is past the door? I am going. This happens when I want to pick a flower. Is this fragrant thing a trap? I know it is; I hate mushrooms now."
+  },
+  {
+    "source_segment_indices": [
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416
+    ],
+    "raw": "now where is oh there there's a trap in here somewhere I just know it I just know it I'm absorbing it anyway I got more real Smiths okay cool where is where is Shrine Shrine is up here perhaps keep going up the hill okay",
+    "status": "LOW",
+    "reason": "Unclear real-Smiths reward; clear trap complaint and shrine directions recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423
+    ],
+    "raw": "I bet I bet these berries are going to explode or if I if I get them okay okay we're good we're good oh I see it my my best friend the white Trail like trail mix but white good",
+    "status": "SFT",
+    "actually": "I bet these berries explode if collected. We are okay. I see the white trail, my friend; like white trail mix. Good—"
+  },
+  {
+    "source_segment_indices": [
+      424
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      425,
+      426,
+      427,
+      428,
+      429,
+      430
+    ],
+    "raw": "morning oh thank gosh please let me rest it has been a harsh day for a monkey oh man you again you are so annoying maybe maybe I'll try the The Rock thing I'm just curious hello",
+    "status": "SFT",
+    "actually": "Good morning. Please let me rest; a difficult day for a monkey. You again; how annoying. I might try the rock ability because I am curious. Hello."
+  },
+  {
+    "source_segment_indices": [
+      431,
+      432,
+      433,
+      434,
+      435
+    ],
+    "raw": "MMA oh yeah we have the uh the blade watcha lock soon too you get like an hour break or so or more depending on if I die depending on my nerves",
+    "status": "SFT",
+    "actually": "MMA. The Blade watch-along is soon; you get about an hour break or more, depending on whether I die and my nerves."
+  },
+  {
+    "source_segment_indices": [
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443
+    ],
+    "raw": "all right speaking of during left for de I was actually surprisingly like not because of the girl or anything but I think it's me trying to survive if that makes sense I think it's called being locked in perhaps yeah I was just so so very determined to not die",
+    "status": "SFT",
+    "actually": "During Left 4 Dead, it was not because of the girl; I was trying to survive. Perhaps that is being focused. I was determined not to die."
+  },
+  {
+    "source_segment_indices": [
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450
+    ],
+    "raw": "nice I guess it's good for shield oh and that thing's spitting spitting facts this thing's kind of annoying pleas get out I'm dodging ited there you",
+    "status": "SFT",
+    "actually": "I suppose it is useful for shields. That thing is spitting facts. Please leave; I am dodging. There you go."
+  },
+  {
+    "source_segment_indices": [
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457
+    ],
+    "raw": "go actually don't care about my shield wait isn't this like a I could have SW we been here before surely not this place is new right all your asses look to say no it's new it's new there's a Smith in here and no okay no",
+    "status": "SFT",
+    "actually": "I do not care about my shield. Have we been here before? Is this new? You all look alike. It is new; there is a smith, and no traps."
+  },
+  {
+    "source_segment_indices": [
+      458,
+      459,
+      460,
+      461,
+      462,
+      463
+    ],
+    "raw": "traps yeah for the love for the if you do watch the the VOD you can skip like the first 30 minutes that one had Tech issues so that's why I think you can skip it remina think be a Noel night oh everything will be linear",
+    "status": "LOW",
+    "reason": "Clear recording technical-issue explanation recovered separately; named-user/novel-night fragment unclear."
+  },
+  {
+    "source_segment_indices": [
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473
+    ],
+    "raw": "okay oh this looks like a boss fight no they wouldn't do that they is this breakable looks breakable they do look similar maybe it's just a the colors it's so drained ran by a chest okay oh there's a chest here maybe if the chest was golden I would notice it oh okay yeah it looked like a random tree",
+    "status": "SFT",
+    "actually": "Everything is linear. This looks like a boss fight; they would not do that. Is this breakable? The similar drained colors may explain it. There is a chest; I might notice a golden one. It looked like tree bark."
+  },
+  {
+    "source_segment_indices": [
+      474,
+      475,
+      476
+    ],
+    "raw": "bark it added to an experience I was just surprised it took that long for us to to restart",
+    "status": "SFT",
+    "actually": "It added to the experience; I was surprised restarting took so long."
+  },
+  {
+    "source_segment_indices": [
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485
+    ],
+    "raw": "guys you sure I don't think it's going to heal oh that looks like a boss fight okay let me prepare what what do I have I think I accidentally healed I am so stupid let's see RT is healing how do you how do you use items again d-pad right no that's a different d-pad maybe RT",
+    "status": "SFT",
+    "actually": "Are you sure? I do not think it will heal. That looks like a boss fight; let me prepare. I accidentally healed. RT heals; how do I use items? D-pad right? Perhaps RT."
+  },
+  {
+    "source_segment_indices": [
+      486
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      487,
+      488,
+      489,
+      490,
+      491
+    ],
+    "raw": "d-pad how do you how do you use other items RT plus dpad that's the this thing right oh I see I see n okay okay that's a boss that's a boss but maybe",
+    "status": "SFT",
+    "actually": "How do I use other items? RT plus D-pad; this? I see. That is a boss, but perhaps—"
+  },
+  {
+    "source_segment_indices": [
+      492
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      493,
+      494,
+      495,
+      496
+    ],
+    "raw": "acolyte wait oh W shoot I have the wrong one that's I got the rock people",
+    "status": "SFT",
+    "actually": "Acolyte. I have the wrong ability; I equipped the rock."
+  },
+  {
+    "source_segment_indices": [
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503
+    ],
+    "raw": "F oh okay all right I'm skiing well no I could use it I I just thought it had the cloud trip I'll have to think about it I assume that's the uh the short no he died who is this guy whose son did I kill this",
+    "status": "LOW",
+    "reason": "Unclear skiing/short fragment; clear ability confusion and identity question recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      504,
+      505,
+      506,
+      507,
+      508
+    ],
+    "raw": "also let me pause the music now who is this guy I've killed a lot of people people I cannot I cannot remember who I've killed let me try using this thing",
+    "status": "SFT",
+    "actually": "Let me pause the music. Who is this? I have killed many people and cannot remember whom. Let me try this ability."
+  },
+  {
+    "source_segment_indices": [
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516
+    ],
+    "raw": "though please come on oh that's how you do it I don't if it's still worth it honestly not sure do I like the rock I can see it being useful for him though I don't know I don't really understand how much damage it does still to be",
+    "status": "SFT",
+    "actually": "That is how to use it. I am unsure it is worthwhile. It might help against him, but I do not understand its damage."
+  },
+  {
+    "source_segment_indices": [
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524
+    ],
+    "raw": "honest it breaks the shield if you parry it right I see it does no damage yeah but the P the counter is purely defensive okay I will not use it then actually I'm I'm offensive unintentionally offensive to perhaps some",
+    "status": "SFT",
+    "actually": "It breaks shields if you parry correctly? It does no damage and is purely defensive, so I will not use it. I am offensive, perhaps unintentionally to some people."
+  },
+  {
+    "source_segment_indices": [
+      525,
+      526,
+      527,
+      528,
+      529,
+      530
+    ],
+    "raw": "people uh what else do I want make medicine no I have I have enough okay it's good if you're good okay I don't plan on parrying let's go I plan on running past them oh okay",
+    "status": "SFT",
+    "actually": "What else do I want? Make medicine? I have enough. It is good if you are skilled, but I plan to run past them rather than parry."
+  },
+  {
+    "source_segment_indices": [
+      409,
+      410,
+      411,
+      412,
+      413
+    ],
+    "raw": "now where is oh there there's a trap in here somewhere I just know it I just know it I'm absorbing it anyway",
+    "actually": "There is a trap here somewhere; I know it. I am absorbing it anyway.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      414,
+      415,
+      416
+    ],
+    "raw": "cool where is where is Shrine Shrine is up here perhaps keep going up the hill okay",
+    "actually": "Where is the shrine? Perhaps up here; keep going uphill.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      458,
+      459,
+      460,
+      461,
+      462
+    ],
+    "raw": "for the love for the if you do watch the the VOD you can skip like the first 30 minutes that one had Tech issues so that's why I think you can skip it",
+    "actually": "If you watch the Left 4 Dead recording, you can skip roughly the first thirty minutes because of technical issues.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      498,
+      499,
+      500,
+      501
+    ],
+    "raw": "I could use it I I just thought it had the cloud trip I'll have to think about it",
+    "actually": "I could use it; I thought I had Cloud Trip. I need to think about it.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      502,
+      503,
+      504
+    ],
+    "raw": "he died who is this guy whose son did I kill this time",
+    "actually": "He died. Who is this; whose son did I kill this time?",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

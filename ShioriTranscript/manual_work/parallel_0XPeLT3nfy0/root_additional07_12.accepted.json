@@ -1,0 +1,192 @@
+[
+  {
+    "source_segments": [
+      1347,
+      1347
+    ],
+    "raw": "Oh, I heard of it.",
+    "actually": "I have heard of it.",
+    "status": "SFT",
+    "decision_id": "root_residual:1"
+  },
+  {
+    "source_segments": [
+      1355,
+      1355
+    ],
+    "raw": "I like too. I like catching the Pals.",
+    "actually": "I also like catching Pals.",
+    "status": "SFT",
+    "decision_id": "root_residual:2"
+  },
+  {
+    "source_segments": [
+      1355,
+      1357
+    ],
+    "raw": "Oh, this is this is Mori’s base. It’s so pretty.",
+    "actually": "This is Mori’s base; it is beautiful.",
+    "status": "SFT",
+    "decision_id": "root_residual:3"
+  },
+  {
+    "source_segments": [
+      1367,
+      1367
+    ],
+    "raw": "I’ll go here.",
+    "actually": "I will go here.",
+    "status": "SFT",
+    "decision_id": "root_residual:4"
+  },
+  {
+    "source_segments": [
+      1369,
+      1370
+    ],
+    "raw": "I’ll try.",
+    "actually": "I will try.",
+    "status": "SFT",
+    "decision_id": "root_residual:5"
+  },
+  {
+    "source_segments": [
+      1382,
+      1383
+    ],
+    "raw": "Is a Sparkit.",
+    "actually": "It is a Sparkit.",
+    "status": "SFT",
+    "decision_id": "root_residual:6"
+  },
+  {
+    "source_segments": [
+      1417,
+      1418
+    ],
+    "raw": "Okay, that’s the wolf in this thing. Yeah, sorry.",
+    "actually": "That is the wolf in this thing. Sorry.",
+    "status": "SFT",
+    "decision_id": "root_residual:8"
+  },
+  {
+    "source_segments": [
+      1432,
+      1434
+    ],
+    "raw": "Yeah, although we did pretty good in G gu.",
+    "actually": "We did quite well in G gu.",
+    "status": "SFT",
+    "decision_id": "root_residual:9"
+  },
+  {
+    "source_segments": [
+      1435,
+      1437
+    ],
+    "raw": "A professional team, I see.",
+    "actually": "A professional team; understood.",
+    "status": "SFT",
+    "decision_id": "root_residual:10"
+  },
+  {
+    "source_segments": [
+      1589,
+      1590
+    ],
+    "raw": "It’s pretty hot.",
+    "actually": "It is quite hot.",
+    "status": "SFT",
+    "decision_id": "root_residual:14"
+  },
+  {
+    "source_segments": [
+      1640,
+      1641
+    ],
+    "raw": "Come on, lady L, you do this pretty quick.",
+    "actually": "Come on, lady L; you do this quickly.",
+    "status": "SFT",
+    "decision_id": "root_residual:16"
+  },
+  {
+    "source_segments": [
+      1704,
+      1706
+    ],
+    "raw": "Yeah, I saw, I saw the fish still up on the ground. What?",
+    "actually": "I saw the fish still on the ground. What?",
+    "status": "SFT",
+    "decision_id": "root_residual:19"
+  },
+  {
+    "source_segments": [
+      1743,
+      1744
+    ],
+    "raw": "Nice. Okay, okay, nice. Oh, no.",
+    "actually": "Good. Unfortunately.",
+    "status": "SFT",
+    "decision_id": "root_residual:23"
+  },
+  {
+    "source_segments": [
+      1883,
+      1884
+    ],
+    "raw": "I cancel. Oops.",
+    "actually": "I cancel. Oops.",
+    "status": "SFT",
+    "decision_id": "root_residual:26"
+  },
+  {
+    "source_segments": [
+      1960,
+      1960
+    ],
+    "raw": "Is going okay for me.",
+    "actually": "It is going well for me.",
+    "status": "SFT",
+    "decision_id": "root_residual:28"
+  },
+  {
+    "source_segments": [
+      1975,
+      1977
+    ],
+    "raw": "Take care of them, Rie. R’s not doing anything.",
+    "actually": "Take care of them, Rie. R is doing nothing.",
+    "status": "SFT",
+    "decision_id": "root_residual:29"
+  },
+  {
+    "source_segments": [
+      2176,
+      2177
+    ],
+    "raw": "Oh, much better. Oh, guess there just area.",
+    "actually": "Much better; I suppose it is only that area.",
+    "status": "SFT",
+    "decision_id": "root_residual:39"
+  },
+  {
+    "source_segments": [
+      2388,
+      2390
+    ],
+    "raw": "What’s here, is that? Uh, I don’t know, that’s pretty low, I think. Gosh.",
+    "actually": "What is here? I do not know; I think it is quite low.",
+    "status": "SFT",
+    "decision_id": "root_residual:48"
+  },
+  {
+    "source_segments": [
+      2631,
+      2631
+    ],
+    "raw": "I’m, that’s it.",
+    "actually": "That is all.",
+    "status": "SFT",
+    "decision_id": "root_residual:56"
+  }
+]

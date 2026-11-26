@@ -1,0 +1,412 @@
+[
+  {
+    "source_segment_indices": [
+      1071,
+      1072,
+      1073,
+      1074,
+      1075,
+      1076
+    ],
+    "raw": "resolution to what to what number 60 how about how about 60 yeah let's try 60 whatever that means balanced yeah okay let's go oh it's already done okay it looks it looks a lot better it feels a lot better okay",
+    "status": "SFT",
+    "actually": "What super-resolution value? Sixty? Let us try sixty and balanced mode, whatever that means. It is done; it looks and feels much better."
+  },
+  {
+    "source_segment_indices": [
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085
+    ],
+    "raw": "May rest oh crap YouTube Ain't uh receiving enough let me know if I die his OBS died for a bit this is the final o wait what's over here I feel like I'm still missing stuff though I mean I can always go back I don't think it",
+    "status": "SFT",
+    "actually": "May I rest? YouTube is not receiving enough; tell me if the stream dies. OBS stopped briefly. This is the final—what is here? I feel I missed things, but can return."
+  },
+  {
+    "source_segment_indices": [
+      1086,
+      1087,
+      1088,
+      1089,
+      1090,
+      1091,
+      1092,
+      1093,
+      1094,
+      1095,
+      1096
+    ],
+    "raw": "matters already the final did I miss a lot of things this is 1/4 of the map how did I get here was I supposed to get here where were there two ways to get across I hear one of them I missed a lot wait was I supposed to go oh dear how did that happen are you nice I don't know what you do",
+    "status": "SFT",
+    "actually": "It does not matter. Already the final? Did I miss a lot? This is a quarter of the map; how did I get here? Were there two routes? Did I go wrong? Are you nice? I do not know what you do."
+  },
+  {
+    "source_segment_indices": [
+      1096,
+      1097,
+      1098,
+      1099,
+      1100,
+      1101,
+      1102,
+      1103,
+      1104,
+      1105,
+      1106,
+      1107,
+      1108
+    ],
+    "raw": "do oh crap you bleed oh shoot it's all time I saw her tweet I don't know why she announced it but she announced it that she did oh bro ah this our blood is getting everywhere can do it now I don't want to bother it I still find it funny when they announce it on Twitter it's like the Daily News she be quitting someone question is who is she wait what am i f many what the hell oh",
+    "status": "LOW",
+    "reason": "Unclear all-time/quitting/many fragments; clear bleeding and tweet-announcement commentary recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1109,
+      1110,
+      1111,
+      1112,
+      1113,
+      1114
+    ],
+    "raw": "thise I don't know what the hell you do oh I think it's a a blood Mo right oh he's exploded ow okay maybe I should do it",
+    "status": "LOW",
+    "reason": "Unclear blood-Mo enemy label; clear uncertainty and explosion recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      1115,
+      1116,
+      1117,
+      1118,
+      1119,
+      1120,
+      1121,
+      1122,
+      1123,
+      1124
+    ],
+    "raw": "pissed this is why I don't like babies not many useful actually and I think all these babies are coming wait I think it heals there's no way that could go like this much oh wait you're actually not one of my kind I thought you were I thought you were helping me monkey oh man what a what a",
+    "status": "SFT",
+    "actually": "This is why I dislike babies; not many are useful. I think they are coming. Does it heal? It cannot last this long. You are not my kind; I thought you were helping me. What a nuisance."
+  },
+  {
+    "source_segment_indices": [
+      1125,
+      1126,
+      1127,
+      1128,
+      1129,
+      1130,
+      1131,
+      1132,
+      1133,
+      1134,
+      1135,
+      1136,
+      1137
+    ],
+    "raw": "pain I took the shortest routes Oh shoot what what routes did the others take I didn't mean to take the shortest route I'm going to go heal I that killed actually do I need I actually don't need to but I don't have any Mana what's this a b a trap I can go around from the first Duo boss oh but we we can backtrack from here can't we got don't know where",
+    "status": "SFT",
+    "actually": "I took the shortest route? Which did the others take? I did not mean to. I will heal—actually, I need mana rather than healing. Is this a trap? We can go around from the first duo boss and backtrack, correct? I do not know where."
+  },
+  {
+    "source_segment_indices": [
+      1138,
+      1139,
+      1140,
+      1141,
+      1142,
+      1143,
+      1144,
+      1145,
+      1146
+    ],
+    "raw": "yolow I don't know if I was supposed to go here I a safe Point nearby this looks like a wait wait wait is there a safe Point nearby tell me it is though I'm feel I'm free to explore what's this door I bet it's a boss I don't have any magic",
+    "status": "SFT",
+    "actually": "I do not know whether I should be here. Is a save point nearby? Tell me there is. I am free to explore. Is this door a boss? I have no magic."
+  },
+  {
+    "source_segment_indices": [
+      1147,
+      1148,
+      1149,
+      1150,
+      1151,
+      1152,
+      1153,
+      1154,
+      1155
+    ],
+    "raw": "though oh wait no it's a shortcut this is the duo boss wait why is why is there a a Mark here what but I already unlocked this place so why is that mark leading me there that's weird okay so this is a shortcut",
+    "status": "SFT",
+    "actually": "It is a shortcut to the duo boss. Why is there a marker when I already unlocked this? Why lead me there? Strange; this is a shortcut."
+  },
+  {
+    "source_segment_indices": [
+      1156,
+      1157,
+      1158,
+      1159,
+      1160,
+      1161,
+      1162,
+      1163,
+      1164
+    ],
+    "raw": "okay oh that was weird now it's up here oh I guess it's another shortcut no it leads back to the the boss where the dad gets eaten by his other son not not a shortcut not a shortcut I think it's very much a long cut I also can't go here okay",
+    "status": "SFT",
+    "actually": "Strange; now up here. Another shortcut? No, it returns to the boss whose father is eaten by his other son. Not a shortcut; a long route. I cannot go here either."
+  },
+  {
+    "source_segment_indices": [
+      1165,
+      1166,
+      1167,
+      1168,
+      1169,
+      1170,
+      1171,
+      1172,
+      1173,
+      1174,
+      1175,
+      1176
+    ],
+    "raw": "huh is it bad if I if I try to boss right now I mean we could just try it and backtrack we don't lose anything do we or is everything timed hidden door what hidden door you always come back to chapter two okay this door is the secret area this thing I can't seem to go through it though there's a a little bit of delay so I have no idea what place you're refer to oopsies",
+    "status": "SFT",
+    "actually": "Would trying the boss now be bad? We could try and backtrack; do we lose anything, or is it timed? What hidden door? I can return to chapter two. Is this the secret area? I cannot enter. There is a delay, so I do not know which place you mean."
+  },
+  {
+    "source_segment_indices": [
+      1177,
+      1178,
+      1179,
+      1180,
+      1181,
+      1182,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187
+    ],
+    "raw": "okay that's cool I accidentally used that oh okay's here I hear someone laughing oh man I don't really want to deal with you though hello good morning oh yeah I already went through the Secret Door you gave me something what what was that what was",
+    "status": "SFT",
+    "actually": "I used that accidentally. Someone is laughing. I do not want to deal with you; hello, good morning. I went through the secret door already. You gave me something; what was it?"
+  },
+  {
+    "source_segment_indices": [
+      1188,
+      1189,
+      1190,
+      1191,
+      1192,
+      1193,
+      1194,
+      1195,
+      1196,
+      1197
+    ],
+    "raw": "that oh you crey the crap out what is this supposed to mean he messing up my vision what use use what how do I how do I use Excuse me use what what what do I press what do I press I okay do I have to kill everything first oh okay thank",
+    "status": "SFT",
+    "actually": "You scared me. What does this mean? He is affecting my vision. Use what? What button do I press? Must I kill everything first? Thank you."
+  },
+  {
+    "source_segment_indices": [
+      1198,
+      1199,
+      1200,
+      1201,
+      1202,
+      1203,
+      1204
+    ],
+    "raw": "you yo there's these like things here I don't know if I should use this when they're they're still here the dust will never stop I'm sorry to tell you that oh you better not have like a secret mission where everything",
+    "status": "SFT",
+    "actually": "There are things here; I am unsure I should use this while they remain. The dust never stops. You had better not have a secret mission where everything—"
+  },
+  {
+    "source_segment_indices": [
+      1205,
+      1206,
+      1207,
+      1208,
+      1209,
+      1210
+    ],
+    "raw": "to something about the well there's a secret at the bottom of the well in the village in the bottom of the well the village is at the bottom of the well the well is at the bottom of the village",
+    "status": "SFT",
+    "actually": "There is a secret at the bottom of the well in the village. The village is at the bottom of the well—the well is at the bottom of the village."
+  },
+  {
+    "source_segment_indices": [
+      1210,
+      1211,
+      1212,
+      1213,
+      1214,
+      1215
+    ],
+    "raw": "village oh fuding hell holy crap why would you do this oh that is a nice attack I hate this Village this Village sucks I just want to pick pretty flowers got more real Smiths",
+    "status": "LOW",
+    "reason": "Clear frustration and desire to pick flowers recovered separately; real-Smiths reward unresolved."
+  },
+  {
+    "source_segment_indices": [
+      1216,
+      1217,
+      1218,
+      1219,
+      1220,
+      1221,
+      1222,
+      1223,
+      1224,
+      1225,
+      1226
+    ],
+    "raw": "all right let's go try the boss I'm already here that was a shortcut where's the how do I get to the long cut I think the tiger boss is uh what people come back to when they fail to get it right I wonder if I should just die the reason being that it would teleport me faster from the father and the sun boss I",
+    "status": "SFT",
+    "actually": "Let us try the boss since I am here. Where is the long route? I think people return to the tiger boss after failing. Should I die to teleport faster? From the father-and-son boss; I see."
+  },
+  {
+    "source_segment_indices": [
+      1227,
+      1228,
+      1229,
+      1230,
+      1231,
+      1232,
+      1233,
+      1234,
+      1235,
+      1236
+    ],
+    "raw": "see I'm g go back to the to the place find it not here teleport to Shrine oh that's right I think it's a top one the Talisman I mean I think it's literally right here at this point I think I can't remember to be honest yeah it it's like right here okay let's try the",
+    "status": "SFT",
+    "actually": "I will return and find it. Not here; teleport to a shrine. Right, perhaps the top one. The talisman? I think it is right here, but cannot remember. Yes, here; let us try."
+  },
+  {
+    "source_segment_indices": [
+      1237,
+      1238,
+      1239,
+      1240,
+      1241,
+      1242
+    ],
+    "raw": "thing I don't know what kind of monster to expect from this so in the meantime let me go ahead and change my baby are you useful I'm going to keep baby for now what's",
+    "status": "SFT",
+    "actually": "I do not know what monster to expect, so let me change my baby. Are you useful? I will keep the baby for now."
+  },
+  {
+    "source_segment_indices": [
+      1243,
+      1244,
+      1245,
+      1246,
+      1247,
+      1248,
+      1249,
+      1250
+    ],
+    "raw": "this I probably going to be like oh you need items for this let me reset my face baby come back jump cannot jump yellow wind formation is this the boss area oh oh no",
+    "status": "SFT",
+    "actually": "What is this? You will probably say I need items. Let me reset my face. Baby, return. I cannot jump. Is Yellow Wind Formation the boss area? Oh no."
+  },
+  {
+    "source_segment_indices": [
+      1096
+    ],
+    "raw": "oh crap you bleed",
+    "actually": "You bleed.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1097,
+      1098,
+      1099,
+      1100
+    ],
+    "raw": "I saw her tweet I don't know why she announced it but she announced it that she did",
+    "actually": "I saw her tweet. I do not know why she announced it, but she did.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1100,
+      1101
+    ],
+    "raw": "our blood is getting everywhere",
+    "actually": "Our blood is spreading everywhere.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1101,
+      1102,
+      1103
+    ],
+    "raw": "I don't want to bother it",
+    "actually": "I do not want to bother it.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1103,
+      1104,
+      1105
+    ],
+    "raw": "I still find it funny when they announce it on Twitter it's like the Daily News",
+    "actually": "I find their announcements on Twitter funny, like daily news.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1109
+    ],
+    "raw": "I don't know what the hell you do",
+    "actually": "I do not know what you do.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1111,
+      1112,
+      1113,
+      1114
+    ],
+    "raw": "he's exploded ow okay maybe I should do it",
+    "actually": "He exploded. Perhaps I should do it.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      1210,
+      1211,
+      1212,
+      1213,
+      1214,
+      1215
+    ],
+    "raw": "oh fuding hell holy crap why would you do this oh that is a nice attack I hate this Village this Village sucks I just want to pick pretty flowers",
+    "actually": "Why would you do this? That is a good attack. I hate this village; I just want to pick pretty flowers.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "source_segment_indices": [
+      1961,
+      1962,
+      1963,
+      1964,
+      1965,
+      1966,
+      1967
+    ],
+    "raw": "However, I could probably I could probably move this over here and just take this just to be annoying. I think that's one potential I could do. Um Oh, yeah. Actually, I could. Let's try it. So, that happens.",
+    "status": "SFT",
+    "actually": "I could move this here and take that to be annoying. I think that is an option; let us try it. That happens."
+  },
+  {
+    "source_segment_indices": [
+      1968,
+      1969,
+      1970,
+      1971,
+      1972,
+      1973,
+      1974
+    ],
+    "raw": "Oh. Oh, it's being mean. I see. I see. Oh, shoot. Why didn't they do that? Okay, because I moved that, it's probably going to take my my rook. Um, what I could do, if I move it here, it's safe. It's fine.",
+    "status": "SFT",
+    "actually": "It is being mean. Why did they not do that? Because I moved that, it will probably take my rook. Moving it here is safe."
+  },
+  {
+    "source_segment_indices": [
+      1975,
+      1976
+    ],
+    "raw": "I could I could try to trap it over here. Right.",
+    "status": "SFT",
+    "actually": "I could try trapping it here, correct?"
+  },
+  {
+    "source_segment_indices": [
+      1977
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      1978,
+      1979
+    ],
+    "raw": "If I move it over here. What is the song?",
+    "status": "SFT",
+    "actually": "If I move it here—what is this song?"
+  },
+  {
+    "source_segment_indices": [
+      1980,
+      1981,
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1989
+    ],
+    "raw": "Okay. If I if I move this, I basically want to trap it. So basically it can go here or here or there or there. So if I go here, uh, E1 to B1, E1, E1 to B1 is fine. And then I'll probably move. I I'll just try it.",
+    "status": "SFT",
+    "actually": "I want to trap it. It can go here or there. E1 to B1 is fine; I will try it."
+  },
+  {
+    "source_segment_indices": [
+      1990,
+      1991,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998
+    ],
+    "raw": "So if I try that, that moves, but it's not difficult. But I don't want to move that. If I become an a-hole by doing this and then Oh, yes. I can become a total jerk because then it has to move. It didn't take the bait. Okay, never mind. It didn't take the bait. I'm so sorry. Um,",
+    "status": "SFT",
+    "actually": "That moves, but it is not difficult. I do not want to move that. I could be deliberately unpleasant and force it to move. It did not take the bait; never mind. Sorry."
+  },
+  {
+    "source_segment_indices": [
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "raw": "I'd rather sacrifice this and then my horse gets over there. Um, that's okay. I'll just do this. And then what? What do you do? I just want to see what you do. What do you do? Huh? You move there. Okay. So, now I could also move here.",
+    "status": "SFT",
+    "actually": "I would rather sacrifice this, then my horse gets there. I will do this to see what you do. You move there, so I can move here too."
+  },
+  {
+    "source_segment_indices": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015
+    ],
+    "raw": "And then one, two, I don't know. Uh, one, two, three, or one, two, three. But then it's going to be like kind of in danger no matter what. Um, I feel like this might be the best move here though, realistically, cuz then I can do one, two, three, or one, two, three. Oh, but then if it goes there, I'm kind of doomed. Okay,",
+    "status": "SFT",
+    "actually": "One, two, three; I do not know. It is in danger regardless. I feel this might be the best move because I can go there, but if it goes there, I am in trouble."
+  },
+  {
+    "source_segment_indices": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "raw": "I don't want to sacrifice you right now. I don't think that'd be a great idea. My my pukes. I'm going to wing it. I'm going to wing it. Uh, leave the horse for now. You could take the bishop. Oh, this one.",
+    "status": "SFT",
+    "actually": "I do not want to sacrifice you now; I do not think that is good. I will improvise. Leave the horse for now; you could take the bishop. This one."
+  },
+  {
+    "source_segment_indices": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "raw": "But then I lose my my rook. Isn't that like a horrible idea actually? Is it worth sacrificing the rook? No, don't. B. There's a pawn. I see. Okay. I'm just I'm not going to look. Um,",
+    "status": "SFT",
+    "actually": "But I lose my rook; is that not a horrible idea? Is sacrificing the rook worthwhile? No. There is a pawn; I see. I will stop looking."
+  },
+  {
+    "source_segment_indices": [
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033
+    ],
+    "raw": "so I could do this and as long as that doesn't move, it's fine. I'm going to try it. I just want to see how it works. If I do this, what happens exactly? Like, how does it",
+    "status": "SFT",
+    "actually": "I could do this, and it is fine as long as that does not move. I will try it to see how it works. What happens exactly?"
+  },
+  {
+    "source_segment_indices": [
+      2034,
+      2035,
+      2036,
+      2037,
+      2038,
+      2039
+    ],
+    "raw": "What did it just take? Oh, it went over there. Okay. But it chang Oh, it changes tactics if I undo. Which makes sense, honestly. Which makes sense. So, now if I want to be a total jerk, I could do it here.",
+    "status": "SFT",
+    "actually": "What did it take? It moved there. It changes tactics if I undo, which makes sense. I could move here to be deliberately unpleasant."
+  },
+  {
+    "source_segment_indices": [
+      2040
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      2041,
+      2042,
+      2043,
+      2044
+    ],
+    "raw": "But what if I do it here? Can I take it there? No, I can't. I'm going to just try it here. I'm curious.",
+    "status": "SFT",
+    "actually": "What if I move here? Can I take it there? No. I will try this because I am curious."
+  },
+  {
+    "source_segment_indices": [
+      2045,
+      2046,
+      2047
+    ],
+    "raw": "What if I just start upgrading my thing? So, I could go over here. Could I be No, that's a horrible idea.",
+    "status": "SFT",
+    "actually": "What if I start upgrading my piece? I could go here—no, that is a horrible idea."
+  },
+  {
+    "source_segment_indices": [
+      2048,
+      2049,
+      2050,
+      2051,
+      2052
+    ],
+    "raw": "What happens if I go over here? Wait, I can't. Oh, what does that mean? Am I in danger? I am in danger. Oh, I am in danger. Wow. It told me that I'm in danger right now.",
+    "status": "SFT",
+    "actually": "What happens if I go here? I cannot. Does that mean I am in danger? I am; it told me that."
+  },
+  {
+    "source_segment_indices": [
+      2053,
+      2054,
+      2055,
+      2056,
+      2057,
+      2058,
+      2059
+    ],
+    "raw": "All right. So, if I do it over here, I'm just moving it. What happens? So, it moves there and then I can sacrifice. But if Oh, it's trying to trap me. Whoa. I see. But now I'm stuck.",
+    "status": "SFT",
+    "actually": "Moving this here makes it go there, then I can sacrifice. It is trying to trap me; I see. Now I am stuck."
+  },
+  {
+    "source_segment_indices": [
+      2060,
+      2061,
+      2062,
+      2063,
+      2064,
+      2065
+    ],
+    "raw": "Oh, I have to sacrifice you. I think that makes sense. But now I can move over here. Actually, can I change the thing? No. Um, so if I move over here, what happens?",
+    "status": "SFT",
+    "actually": "I think I must sacrifice you. That makes sense. I can move here now. Can I change it? No. What happens if I move here?"
+  },
+  {
+    "source_segment_indices": [
+      2066,
+      2067,
+      2068,
+      2069,
+      2070,
+      2071
+    ],
+    "raw": "But now see here, little pukes. I think I could probably do this because it's going to get stuck. That did nothing. That's okay. We'll figure it out. Now, you see here, Pums, I could still do this.",
+    "status": "SFT",
+    "actually": "Listen here; I think I could do this because it will get stuck. That did nothing, but we will figure it out. Pums, I can still do this."
+  },
+  {
+    "source_segment_indices": [
+      2072
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      2073,
+      2074,
+      2075,
+      2076,
+      2077,
+      2078,
+      2079
+    ],
+    "raw": "Fudge. Okay. No, that's okay. Pums. I think actually we might be screwed. Pums. I think we're screwed. Poms. I'm so sorry. I'm going to get a ladder. My brokis. I'm panicking right now. What happens if I go over here? Pums, if I do hear, it's still safe, right?",
+    "status": "SFT",
+    "actually": "I think we may be in trouble. Pums, I am sorry. I will get a ladder; I am panicking. Is moving here still safe?"
+  },
+  {
+    "source_segment_indices": [
+      2080,
+      2081,
+      2082,
+      2083,
+      2084,
+      2085,
+      2086,
+      2087,
+      2088
+    ],
+    "raw": "you. That's okay. No. Literally, you. I'm so sorry. I should not be saying F. We're just going to have to sacrifice you. I think I think this is it. We just got to take you down. There you go. Okay, but then what? That's going to get taken. But then I can get like screw you. So, I take that.",
+    "status": "LOW",
+    "reason": "Initial incomplete insult is not restored as unrecognized profanity; clear apology and sacrifice plan recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      2089,
+      2090,
+      2091,
+      2092
+    ],
+    "raw": "Screw you and your stupid little freaking rook. Um, bad idea. I feel like I should take you out right now. Honestly,",
+    "status": "SFT",
+    "actually": "I am angry with you and your annoying rook. Bad idea; I feel I should take you out now."
+  },
+  {
+    "source_segment_indices": [
+      2093,
+      2094,
+      2095,
+      2096,
+      2097,
+      2098,
+      2099
+    ],
+    "raw": "if I am able to move this, I should try to take their stupid freaking tower. Their tower will take me first. Actually, looking at it. What if I do this? Because realistically, who's going to sacrifice me, right?",
+    "status": "SFT",
+    "actually": "If I can move this, I should try taking their tower, but it would take me first. What if I do this? Who would sacrifice me?"
+  },
+  {
+    "source_segment_indices": [
+      2100,
+      2101,
+      2102,
+      2103,
+      2104,
+      2105,
+      2106,
+      2107
+    ],
+    "raw": "Oh, yeah. You You like that? No. Keep going. Oh, that would that would be taken by the horse. Okay, we're going to have to We're going to have to ball it, my man. We're just We're just going to have to ball it.",
+    "status": "SFT",
+    "actually": "Do you like that? No; keep going. The horse would take that. We will have to improvise."
+  },
+  {
+    "source_segment_indices": [
+      2108,
+      2109,
+      2110,
+      2111,
+      2112
+    ],
+    "raw": "We move here because the king can handle itself. Cuz the stupid king the king cannot handle itself. Is that what you're telling me? Okay. What if I protect it here or",
+    "status": "SFT",
+    "actually": "Move here because the king can defend itself. It cannot defend itself—is that what you mean? What if I protect it here?"
+  },
+  {
+    "source_segment_indices": [
+      2113
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music label."
+  },
+  {
+    "source_segment_indices": [
+      2114,
+      2115,
+      2116,
+      2117,
+      2118,
+      2119
+    ],
+    "raw": "um Okay, I'll take a hint here. I was thinking of changing to A2 to C2 just to back it, but I was also thinking of just being greedy and get the stupid horse. You could check with rook on F2. Um check with rook.",
+    "status": "SFT",
+    "actually": "I will ask for a hint. I considered A2 to C2 to support it, or greedily taking the horse. You could give check with the rook on F2."
+  },
+  {
+    "source_segment_indices": [
+      2120,
+      2121,
+      2122,
+      2123,
+      2124
+    ],
+    "raw": "Sorry, which one's rook again? Rook is uh rook. This is this one. Oh, you can I can What happens if I do this? It moves. All right.",
+    "status": "SFT",
+    "actually": "Which piece is the rook again? This one. What happens if I do this? It moves."
+  },
+  {
+    "source_segment_indices": [
+      2125,
+      2126,
+      2127,
+      2128,
+      2129,
+      2130,
+      2131,
+      2132,
+      2133,
+      2134
+    ],
+    "raw": "Uh let's see. But now while that's happening, if I It's going to get taken is the issue. So I might just go over here to protect it. And then I'm going to go over here to protect it, I think. No, it's fine. I'm just going to try it. I'm just going to try it. I'm winging it, man. I'm winging it at this point. So, if I go over here.",
+    "status": "SFT",
+    "actually": "This will be taken, so I might go here to protect it, then there. I will try it; I am improvising."
+  },
+  {
+    "source_segment_indices": [
+      2135,
+      2136,
+      2137,
+      2138,
+      2139,
+      2140
+    ],
+    "raw": "No, wait. What if I go back here? Yes. I'm going to go I'm going to go take it with my stupid king. No, get back here. Get back here. I'm not done with you. So you could take there. That's a awful idea.",
+    "status": "SFT",
+    "actually": "What if I go back here? I will take it with my king. Come back; I am not finished with you. You could take there, which is an awful idea."
+  },
+  {
+    "source_segment_indices": [
+      2081,
+      2082,
+      2083,
+      2084,
+      2085,
+      2086,
+      2087,
+      2088
+    ],
+    "raw": "I'm so sorry. I should not be saying F. We're just going to have to sacrifice you. I think I think this is it. We just got to take you down. There you go. Okay, but then what? That's going to get taken. But then I can get like screw you. So, I take that.",
+    "actually": "I am sorry; I should not say F. We must sacrifice you; I think this is it. We need to take you down. That will be taken, but then I can capture that.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

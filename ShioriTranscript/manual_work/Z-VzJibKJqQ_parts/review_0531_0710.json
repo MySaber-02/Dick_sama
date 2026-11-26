@@ -1,0 +1,475 @@
+[
+  {
+    "source_segment_indices": [
+      531,
+      532,
+      533,
+      534,
+      535,
+      536,
+      537,
+      538
+    ],
+    "raw": "okay I'm sorry I I plan on running past you no it's good it's chill it's chill I'm sorry don't follow me please you're not going to follow me this far are you oh good all right we took some damage",
+    "status": "SFT",
+    "actually": "Sorry; I plan to run past you. Please do not follow me. You will not follow this far, correct? Good; we took some damage."
+  },
+  {
+    "source_segment_indices": [
+      539,
+      540,
+      541,
+      542,
+      543,
+      544,
+      545
+    ],
+    "raw": "okay what's the best form for you I don't know I think I better have distance very close range and he hits very hard actually ow I do this he's very fast",
+    "status": "SFT",
+    "actually": "What form is best against you? I do not know; perhaps I need distance. He fights at close range and hits hard. He is very fast."
+  },
+  {
+    "source_segment_indices": [
+      546
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553
+    ],
+    "raw": "uhoh okay I need to think you think it's very fast I'm not used to fast people we probably need to immobilize him as fast as possible maybe we can do the snakes",
+    "status": "SFT",
+    "actually": "I need to think. He is very fast, and I am not used to fast opponents. We should probably immobilize him quickly; perhaps use snakes."
+  },
+  {
+    "source_segment_indices": [
+      554,
+      555,
+      556,
+      557
+    ],
+    "raw": "then I'm just going to roll you're rolling haen got to roll on pass cuz we fighting dirty right he doesn't go",
+    "status": "LOW",
+    "reason": "Rolling/fighting-dirty wordplay with unclear haen and unfinished location statement."
+  },
+  {
+    "source_segment_indices": [
+      558
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH",
+    "reason": "Music."
+  },
+  {
+    "source_segment_indices": [
+      559,
+      560,
+      561,
+      562,
+      563,
+      564,
+      565,
+      566,
+      567,
+      568,
+      569,
+      570,
+      571
+    ],
+    "raw": "here I have Sparks oh I have three okay let's see transformation I think I should do more damage with him maybe later staff stance is there one that just does General damage probably good probably decent okay I think I should focus on my my other stuff let's do this one and this one and that be",
+    "status": "SFT",
+    "actually": "Here I have sparks; three of them. I think I should increase his transformation damage, perhaps later. Is there general damage in staff stance? Probably useful. I should focus on other abilities, choosing these two."
+  },
+  {
+    "source_segment_indices": [
+      572,
+      573,
+      574,
+      575,
+      576,
+      577,
+      578,
+      579,
+      580,
+      581,
+      582,
+      583
+    ],
+    "raw": "it all right all right I'm so screwed I am so not in the mood I am not in the gamer mood oh but I'm so glad for this oh that kind of saved me actually oh snake people no snake people did not work s people please Master nice dude nice dud oh shoot I needed not oh crap that was better at least",
+    "status": "LOW",
+    "reason": "Clear lack of gaming mood, snakes failing, and partial improvement recovered separately; Master/not sequence unclear."
+  },
+  {
+    "source_segment_indices": [
+      584,
+      585,
+      586,
+      587,
+      588,
+      589
+    ],
+    "raw": "see could you no he probably won't fall down okay I think I think what I'll do we'll do the same thing but this time I'm going to use a big guy too just so I can save my my stuff he can't fall off okay I'm going good thank you thank",
+    "status": "SFT",
+    "actually": "He probably will not fall down. I will try the same thing with the big character to conserve resources. He cannot fall off? I am doing well; thank you."
+  },
+  {
+    "source_segment_indices": [
+      590,
+      591,
+      592,
+      593,
+      594,
+      595
+    ],
+    "raw": "you I'm trying to ride on dirty right on dirty I really feel like it's a inconvenient to have the healing spot all the way back there they could just put it here it just makes no sense it's that close by all",
+    "status": "SFT",
+    "actually": "I am trying to ride dirty. The healing point is inconveniently far back; they could put it here since it is nearby."
+  },
+  {
+    "source_segment_indices": [
+      596,
+      597,
+      598,
+      599,
+      600,
+      601
+    ],
+    "raw": "right should do this do air jumps all right oh snake people oh all right should do the other thing I still can't believe you can't fall",
+    "status": "SFT",
+    "actually": "Do this; air jumps. Snake people. Try the other ability. I still cannot believe you cannot fall off."
+  },
+  {
+    "source_segment_indices": [
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608,
+      609,
+      610
+    ],
+    "raw": "off so fast Maybe maybe I maybe I shouldn't have distance yeah I should I I think I need to be more aggressive I'll think I'll think on it he's very weak against counter heavy attacks so the rock I guess I have to use the rock I guess let's try",
+    "status": "SFT",
+    "actually": "He is fast. Perhaps keeping distance is wrong; I think I should be more aggressive. He is weak against heavy counterattacks, so perhaps I must use the rock. Let us try."
+  },
+  {
+    "source_segment_indices": [
+      611,
+      612,
+      613,
+      614,
+      615,
+      616,
+      617
+    ],
+    "raw": "it I guess because you don't really have time is a staff skill oh I'm thinking have I been using mine course oh I don't know what that is let's just try it I'm riding dirty",
+    "status": "LOW",
+    "reason": "Unclear mine-course ability term; clear staff-skill correction and decision to try recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626
+    ],
+    "raw": "oh I know I don't have transformation but I haven't played this game in a week so let's let uh let me figure it out on my own for now Nah The Rock is Biboo thing I'm more like a Drifter like a dead be drifting in the sand sorry I don't want to give you a",
+    "status": "SFT",
+    "actually": "I know I lack transformation, but I have not played in a week, so let me work it out myself for now. The rock is Biboo’s thing; I am more of a drifter, drifting in the sand.",
+    "raw_fixes": [
+      [
+        "B boo",
+        "Biboo"
+      ]
+    ]
+  },
+  {
+    "source_segment_indices": [
+      627,
+      628,
+      629,
+      630,
+      631,
+      632
+    ],
+    "raw": "chance all right let's try dirty again I'm dying through the Falls like a vagrant vagrant dead feet what's the difference they both go away what's the difference",
+    "status": "LOW",
+    "reason": "Unclear vagrant/dead-feet lyric wordplay; clear withholding opportunity recovered separately."
+  },
+  {
+    "source_segment_indices": [
+      633,
+      634,
+      635,
+      636,
+      637,
+      638,
+      639,
+      640,
+      641
+    ],
+    "raw": "I'm trying to ride on dirty I'm trying to ride on dirty this is too much dirty I mean I could probably Dodge with this one unless he jumps we'll figure it out we'll figure it out I am baby Bella oh crap I I should get my stamina first okay okay",
+    "status": "SFT",
+    "actually": "I am trying to ride dirty; this is too dirty. I could probably dodge this unless he jumps. We will figure it out. I am baby Bella. I should recover stamina first."
+  },
+  {
+    "source_segment_indices": [
+      642,
+      643,
+      644,
+      645,
+      646,
+      647,
+      648,
+      649,
+      650,
+      651
+    ],
+    "raw": "go she is so close Okay than oh the fudge go do your thing holy fudge please okay I'm just going to go sorry man gosh I think the scariest part is that I could fall all right oh oh the godun I can fall oh okay at least we're close I like dodging",
+    "status": "LOW",
+    "reason": "Clear closeness, fear of falling, and dodging preference recovered separately; than/godun fragments unresolved."
+  },
+  {
+    "source_segment_indices": [
+      652,
+      653,
+      654,
+      655,
+      656,
+      657,
+      658,
+      659,
+      660
+    ],
+    "raw": "though all right all right okay yeah yeah yeah yeah yeah we just got to pull out all the stops as soon as possible I mean I could also use items on them to be honest but I don't really want to he's not worth my items I know I'm so used to being a free a free Lancer a free Dodger",
+    "status": "SFT",
+    "actually": "We need to use everything quickly. I could use items but do not want to; he is not worth them. I am accustomed to being a freelancer, a free dodger."
+  },
+  {
+    "source_segment_indices": [
+      661,
+      662,
+      663,
+      664,
+      665
+    ],
+    "raw": "oh there is a oh hold on I'll talk about that later I'm too zoned in actually I'm sort of zoned out to be honest not like a gamer Zone in either I'm just so zoned up out for some reason",
+    "status": "SFT",
+    "actually": "I will discuss that later; I am too focused—actually, I am distracted, not in a gaming flow state. I feel distracted for some reason."
+  },
+  {
+    "source_segment_indices": [
+      666,
+      667,
+      668,
+      669,
+      670,
+      671
+    ],
+    "raw": "I'm a little scared to do my heavy attack right now because what oh shoot I can't hit you from there it's okay I'll pause anyway",
+    "status": "SFT",
+    "actually": "I am somewhat afraid to use a heavy attack now. What? I cannot hit you from there. It is okay; I will pause."
+  },
+  {
+    "source_segment_indices": [
+      672,
+      673,
+      674,
+      675,
+      676,
+      677,
+      678,
+      679
+    ],
+    "raw": "okay that that was that was Karma I guess so i' be riding dirty does he leave anything wait am I supposed to talk to him okay it's a good thing I waited give me a drum what am I supposed to do with that make a band what does he do it's a long side",
+    "status": "SFT",
+    "actually": "That was karma, I suppose. Does he leave anything; should I talk to him? Good thing I waited. A drum? What should I do with it; form a band?"
+  },
+  {
+    "source_segment_indices": [
+      680,
+      681,
+      682,
+      683,
+      684,
+      685
+    ],
+    "raw": "quest for this chapter oh okay so I'm going to make a band hold let me let me reset my face you no more riding dirty you're riding clean clean in sanitary and I actually jumped that I",
+    "status": "SFT",
+    "actually": "It is a long side quest for this chapter? I will form a band. Let me reset my face. No more riding dirty; you are riding clean and sanitary. I actually jumped that."
+  },
+  {
+    "source_segment_indices": [
+      686,
+      687,
+      688,
+      689,
+      690,
+      691,
+      692,
+      693,
+      694,
+      695,
+      696,
+      697,
+      698,
+      699,
+      700
+    ],
+    "raw": "was talking to other people about um like the future and stuff it's a little a little glum to be honest and then I remember the time that uh so when I met up with Amy oh crap I do not trust this she actually gave me like a small little letter and then a like some gifts like a hand San hand sanitizer I think that's the term what do what do I hear I thought like oh that's so sweet oh my God I thought was very nice of her like oh that's so sweet I shall include it into my photo album her little letter",
+    "status": "SFT",
+    "actually": "I was talking with people about the future, which feels rather gloomy. It reminded me that when I met Amy, she gave me a letter and gifts, including hand sanitizer. What is that sound? It was kind of her; I will put the letter in my photo album."
+  },
+  {
+    "source_segment_indices": [
+      701,
+      702,
+      703,
+      704,
+      705,
+      706,
+      707
+    ],
+    "raw": "oh yeah I was just thinking about that stuff yeah she also gave me like a pieces of chocolate like her bag was cutely decorated with stickers and stuff it's like a very very sweet",
+    "status": "SFT",
+    "actually": "She also gave me chocolate. Her bag was decorated with stickers; it was very sweet."
+  },
+  {
+    "source_segment_indices": [
+      708,
+      709,
+      710
+    ],
+    "raw": "reary oh good luck with we crush and Doomer oh yeah you should I guess if you guys want buy the belt if you don't want",
+    "status": "LOW",
+    "reason": "Unclear named-user/good-luck phrase and unfinished belt-purchase remark; recover with next context."
+  },
+  {
+    "source_segment_indices": [
+      554
+    ],
+    "raw": "I'm just going to roll",
+    "actually": "I will roll.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      572,
+      573,
+      574
+    ],
+    "raw": "all right all right I'm so screwed I am so not in the mood I am not in the gamer mood",
+    "actually": "I am in trouble and not in the mood to play.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      577,
+      578,
+      579
+    ],
+    "raw": "oh snake people no snake people did not work",
+    "actually": "The snake people did not work.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      582,
+      583
+    ],
+    "raw": "oh crap that was better at least",
+    "actually": "That was better, at least.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      615,
+      616,
+      617
+    ],
+    "raw": "oh I don't know what that is let's just try it I'm riding dirty",
+    "actually": "I do not know what that is; let us try it. I am riding dirty.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      626,
+      627
+    ],
+    "raw": "sorry I don't want to give you a chance",
+    "actually": "Sorry, I do not want to give you a chance.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      642
+    ],
+    "raw": "she is so close",
+    "actually": "She is very close.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      643,
+      644
+    ],
+    "raw": "oh the fudge go do your thing holy fudge please",
+    "actually": "Please do what you need to do.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      646,
+      647,
+      648
+    ],
+    "raw": "I think the scariest part is that I could fall",
+    "actually": "I think the frightening part is that I could fall.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      648,
+      649
+    ],
+    "raw": "I can fall",
+    "actually": "I can fall.",
+    "status": "SFT",
+    "recovered_subspan": true
+  },
+  {
+    "source_segment_indices": [
+      651,
+      652
+    ],
+    "raw": "I like dodging though",
+    "actually": "I like dodging, though.",
+    "status": "SFT",
+    "recovered_subspan": true
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "status": "complete_stopped_as_requested",
+  "files": {
+    "mcQ9PXGt38g": {
+      "clean_records": 1861,
+      "low_confidence_records": 298,
+      "original_sha256_verified": true
+    },
+    "YZYnMPyJDtQ": {
+      "clean_records": 568,
+      "low_confidence_records": 41,
+      "original_sha256_verified": true
+    },
+    "Y-_3O6wZI_U": {
+      "clean_records": 543,
+      "low_confidence_records": 49,
+      "original_sha256_verified": true
+    },
+    "0XPeLT3nfy0": {
+      "clean_records": 625,
+      "low_confidence_records": 216,
+      "original_sha256_verified": true
+    },
+    "Z-VzJibKJqQ": {
+      "clean_records": 459,
+      "low_confidence_records": 100,
+      "original_sha256_verified": true
+    }
+  },
+  "total_clean_records": 4056,
+  "clean_files_total": 348,
+  "remaining_without_clean": 531,
+  "notes": [
+    "Current root and helper files finished; no further file processing authorized.",
+    "Original TXT/JSON bytes preserved and moved, not copied.",
+    "LOW contexts are separate from training JSONL."
+  ]
+}

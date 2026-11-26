@@ -1,0 +1,324 @@
+[
+  {
+    "source_segments": [
+      2750,
+      2759
+    ],
+    "raw": "uh where do I where do I buy more medicine like stamina chalk State no or maybe I just buy like the things to craft it I got plenty of time yeah can you can only buy medicine I see okay I only have two of these I'm going to need Lotus licorice uh snake heads",
+    "actually": "Where do I buy more medicine, such as stamina—? Perhaps buy crafting ingredients; I have time. You can only buy medicine? I have two of these and need lotus, licorice, and snake heads.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2760,
+      2766
+    ],
+    "raw": "Lotus licorice lotus lotus oh but you have limited licorice where do I get licorice oh then I can craft some ah Gr stuff Gr stuff I don't uh snake head mushroom I can do this one in the meantime",
+    "actually": "Lotus and licorice; licorice is limited. Where can I get it? I can craft some. Snakehead mushroom; I can do this one meanwhile.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2767,
+      2773
+    ],
+    "raw": "snake head is collect only what that's rediculous oh that's stupid okay I might have to come back for that okay this is this is not the goal this is not the goal but it was a a pleasure knowing you guys not the Run not the run to lower thy",
+    "actually": "Snakehead is collect-only? That is absurd; I may need to return for it. This is not the goal or the run. Lower your expectations.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2774,
+      2779
+    ],
+    "raw": "expectations holy crap do I even have any more I have one inspiration I don't think it'll I need more distance preferably uh what's this mobile spin I don't do that don't",
+    "actually": "Do I have more? I have one inspiration. I need more distance. Mobile Spin? I do not use that and do not care.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2780,
+      2791
+    ],
+    "raw": "care reduction the stamina don't need uh I mean it could work extra stamina use the stamina recovery I don't usually use it enough maybe none of these slightly increase by I don't charge it enough Charing speed I think this one I can't okay I will I will wait on it how about you",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2782,
+      2791
+    ],
+    "raw": "Reduction the stamina don't need uh I mean it could work extra stamina use the stamina recovery I don't usually use it enough maybe none of these slightly increase by I don't charge it enough charging speed I think this one I can't okay I will I will wait on it.",
+    "actually": "A stamina reduction? I do not need it, though extra stamina or recovery might help. I use it too little. I do not charge enough. Charging speed? This one is unavailable, so I will wait.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2791,
+      2799
+    ],
+    "raw": "How about you what are you good for Maximum Might speed decay maybe decay long immobilize longer interrupts light combo attack I don't know I did not use you enough no lower my expectations.",
+    "actually": "What are you good for? Maximum Might, speed decay, longer immobilization, interrupting light combo attacks? I do not know; I have not used you enough. Lower my expectations.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2799,
+      2803
+    ],
+    "raw": "expectations I have a lot of repelling my comos I need to come",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2810,
+      2812
+    ],
+    "raw": "nice oh close stream died okay I can't hit him from there",
+    "actually": "That was close. The stream died? I cannot hit him from here.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2815,
+      2825
+    ],
+    "raw": "Can't see I don't think this the run I'm distracted stream okay okay we'll try it we'll try it next time I have to go get the stuff I see am I in big yellow text YouTube is not receiving okay what try oh but I don't have enough of the damage stuff.",
+    "actually": "I cannot see. I do not think this is the run; I am distracted. We will try next time. I need to get the items. Is that large yellow text saying YouTube is not receiving? I lack enough damage items.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2826,
+      2834
+    ],
+    "raw": "I have enough damage stuff okay okay one more try but I don't have any more items I don't have any more items I'm not even going to use items screw this I'm just going to do one more try we're going to watch Blade but give you a bit to set up I try to get the charge attacks for my focus I mean.",
+    "actually": "I have enough damage items? One more try, though I have no more items. I will not use items. We will watch Blade; I will give you time to prepare. I will try charged attacks for Focus.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2836,
+      2846
+    ],
+    "raw": "got that's an accident Ming boom Ah that's I can't see I'm you uh where am I",
+    "actually": "LOW",
+    "status": "LOW"
+  },
+  {
+    "source_segments": [
+      2836,
+      2837
+    ],
+    "raw": "[ __ ] I accidentally got that's an accident.",
+    "actually": "[ __ ], I got it accidentally.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2843,
+      2846
+    ],
+    "raw": "That's I can't see I'm you uh where am I.",
+    "actually": "I cannot see. Where am I?",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2848,
+      2856
+    ],
+    "raw": "bro I can't see run don't it's not the Run by the way okay I need a I need a break I'm not doing well okay we'll try it next time holy crap he's so he's so annoying",
+    "actually": "I cannot see anything; this is a poor run. I need a break because I am not doing well. We will try again next time; he is annoying.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2857,
+      2866
+    ],
+    "raw": "okay I need to go get uh my thing for the movie I'll see you guys in a bit we're going to continue this next next week otherwise I'll go back to paper Mario all right all right y's too annoyed okay uh let's go ahead and redirect to my thing if possibly thank you for keeping me company sorry I couldn't beat the boss though",
+    "actually": "I need to prepare for the movie; see you shortly. We will continue next week, or return to Paper Mario. I am too annoyed. Let us redirect to my stream. Thank you for keeping me company; sorry I could not beat the boss.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2867,
+      2874
+    ],
+    "raw": "I mean to be fair to be fair we technically Beat the Boss twice it's just that I died during it uh let's see can I even raid my own thing blade I can read it to myself how about blade I cannot raid into myself okay oh I guess that makes sense all right we're",
+    "actually": "We technically beat the boss twice, but I died during it. Can I raid my own Blade stream? I cannot raid myself; that makes sense.",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2875,
+      2884
+    ],
+    "raw": "going to have a membership stream for book room s up cannot rir to myself so I will see you guys in in a bit the details are in the description for that thing in the meantime I might I need to I need to chill I need to destroy some some stuff I'll see you in a bit thank you for keeping me company and thank you for being nice what's my RAID message there there",
+    "actually": "We will have a membership stream. I cannot redirect to myself; see you shortly. The details are in the description. I need to calm down and destroy some things. Thank you for keeping me company and being kind. My raid message is “there, there.”",
+    "status": "SFT"
+  },
+  {
+    "source_segments": [
+      2781,
+      2781
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2800,
+      2800
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2801,
+      2801
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2804,
+      2804
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2805,
+      2805
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2806,
+      2806
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2807,
+      2807
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2808,
+      2808
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2809,
+      2809
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2813,
+      2813
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2814,
+      2814
+    ],
+    "raw": "[Applause]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2816,
+      2816
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2823,
+      2823
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2835,
+      2835
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2838,
+      2838
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2840,
+      2840
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2842,
+      2842
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2845,
+      2845
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2847,
+      2847
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  },
+  {
+    "source_segments": [
+      2852,
+      2852
+    ],
+    "raw": "[Music]",
+    "status": "NON_SPEECH"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "video_id": "Z-VzJibKJqQ",
+  "source_segments": 2884,
+  "status": "complete_archived",
+  "source_read_through_segment": 2884,
+  "decisions_saved_through_segment": 2884,
+  "originals_moved": true,
+  "clean_created": true,
+  "original_sha256": {
+    "txt": "416eeab1522022e581d2d169142bfa61c2edabecb1b9c37c47b04a3bc048b365",
+    "json": "8e7a827a81e7772c74d5a54a36f5080a545ac823ec0606ea43d074a7f5e85ff1"
+  },
+  "next_action": "STOP. User requested stopping after this current file. Do not start or claim another file.",
+  "source_transcript_read_complete": true,
+  "source_coverage_reconciled": true,
+  "semantic_review_complete": true,
+  "review_decisions": 676,
+  "clean_records": 459,
+  "low_confidence_contexts": 100,
+  "original_sha256_verified": true,
+  "mask_source_occurrences": 32,
+  "mask_sft_occurrences": 28,
+  "mask_excluded_low_occurrences": 4,
+  "word_diagnostic": {
+    "unmatched_decisions": 0,
+    "unrepresented_source_words": 0
+  }
+}

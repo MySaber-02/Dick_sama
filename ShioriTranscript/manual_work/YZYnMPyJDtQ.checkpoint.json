@@ -1,15 +1,22 @@
 {
   "video_id": "YZYnMPyJDtQ",
-  "status": "manual_source_review_in_progress",
+  "status": "complete_archived",
   "source_segments": 2503,
-  "source_read_through_segment": 1960,
-  "decisions_saved_through_segment": 1960,
+  "source_read_through_segment": 2503,
+  "decisions_saved_through_segment": 2503,
   "decision_parts": "YZYnMPyJDtQ_parts/",
-  "clean_created": false,
-  "originals_moved": false,
+  "clean_created": true,
+  "originals_moved": true,
   "original_sha256": {
     "txt": "1c5e0f3665bc1013818017aa7c0e214222cbbcb816f8ea0f79d32ecd2c6c160a",
     "json": "3f10cec113d6489c65a68b4a184fa9ff79fcaa3ce7383255a622594c2b41a25a"
   },
-  "next_action": "Continue manual reading at source1961; manually split long utterances after full read."
+  "next_action": "Proceed to Z-VzJibKJqQ. Do not repeat this file.",
+  "source_transcript_read_complete": true,
+  "source_coverage_reconciled": true,
+  "source_word_coverage_diagnostic": "No unmatched raw words or unrepresented source words after explicit manual spelling fixes and boundary corrections.",
+  "clean_records": 568,
+  "low_confidence_contexts": 41,
+  "original_sha256_verified": true,
+  "semantic_review_status": "complete"
 }
