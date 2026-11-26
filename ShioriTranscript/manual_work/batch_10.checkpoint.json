@@ -8,9 +8,11 @@
     {
       "order": 1,
       "video_id": "EN3vJ4WlFww",
-      "status": "clean_exists_archive_incomplete",
-      "clean": "ShioriTranscript/clean/EN3vJ4WlFww.jsonl",
-      "note": "Originals copied to raw and SHA verified, but source originals remain in crawler_en; needs archive policy reconciliation."
+      "status": "complete_archived",
+      "clean": true,
+      "note": "Archival completed after byte/hash verification; existing883 clean pairs unchanged.",
+      "archive": true,
+      "originals_moved": true
     },
     {
       "order": 2,
@@ -110,5 +112,5 @@
     "mcQ9PXGt38g: reviewed original draft rows 231-250; corrected 20 actually fields, resegmented 46 existing SFT entries and restored 138 source-aligned SFT utterances. Added 15 LOW fragments, corrected earlier LOW provenance, and reconciled SFT/LOW coverage ledger entries through row 250. Formal clean/archive remain pending full source reconciliation.",
     "mcQ9PXGt38g: source-reviewed rows 271-280, added 26 staged SFT records and 12 new LOW; corrected one existing LOW provenance from row 251 to 272; fixed countdown source boundary and masked source profanity. 251-270 staging, full source coverage, clean/archive remain pending."
   ],
-  "next": "Stopped at user request after current files; do not automatically start the next queued file."
+  "next": "Stopped; EN3vJ4WlFww archival cleanup completed. Do not start another queued file."
 }

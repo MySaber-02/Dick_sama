@@ -1,6 +1,6 @@
 {
   "video_id": "EN3vJ4WlFww",
-  "status": "clean_complete_raw_archived_copy_verified_original_retained",
+  "status": "complete_archived",
   "source_segments": 2423,
   "source_txt_sha": "c2cc5ee28129a2f047792eb65cacda97d2f658d5",
   "source_json_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
@@ -12,8 +12,8 @@
   "segmented_records": 883,
   "low_confidence_fragments": 147,
   "clean_created": true,
-  "originals_moved": false,
-  "next_action": "Start next queued file 7seUd8nr6-8. Note: byte-identical originals exist in raw, but originals remain in crawler_en because source deletion was not completed.",
+  "originals_moved": true,
+  "next_action": "Stop. Only EN3vJ4WlFww archival cleanup was requested; do not start another file.",
   "draft_source_segments_through": 2423,
   "clean_path": "ShioriTranscript/clean/EN3vJ4WlFww.jsonl",
   "low_confidence_path": "ShioriTranscript/manual_work/EN3vJ4WlFww.low_confidence.jsonl",
@@ -22,5 +22,6 @@
   "duplicate_raw_count": 0,
   "originals_copied_to_raw": true,
   "originals_sha_verified": true,
-  "originals_removed_from_crawler_en": false
+  "originals_removed_from_crawler_en": true,
+  "archive_completed_on": "2026-11-26"
 }

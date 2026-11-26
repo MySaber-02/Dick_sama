@@ -1,0 +1,23 @@
+{
+  "video_id": "EN3vJ4WlFww",
+  "operation": "archive_only_no_semantic_reprocessing",
+  "clean_records": 883,
+  "clean_sha256_unchanged": "9077272e85a1bbf1f1ef7466807c942ef4247a1cc604162fd5be3a158828894d",
+  "originals_moved": true,
+  "source_checks": {
+    "txt": {
+      "bytes": 76465,
+      "sha256": "9a892faf4b594959966a356d0b10332581fe5b1c149f203022d6b0203897582c",
+      "git_blob_sha": "c2cc5ee28129a2f047792eb65cacda97d2f658d5",
+      "source_present_before": true
+    },
+    "json": {
+      "bytes": 264013,
+      "sha256": "bb61687747bed5f01b5b06ec75373d9abe4d7e77b3787a764f25034796f0c7b2",
+      "git_blob_sha": "0819295da9fedaa961f47305aa48a3804a42aecf",
+      "source_present_before": false
+    }
+  },
+  "note": "JSON already archived; remaining TXT matched raw byte-for-byte and was moved.",
+  "stopped": true
+}
